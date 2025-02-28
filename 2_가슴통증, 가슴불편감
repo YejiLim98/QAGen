@@ -1,0 +1,186 @@
+{
+  "question_id": 1,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "55세 남성이 30분 전부터 시작된 압박감을 동반한 심한 가슴통증을 주소로 응급실에 내원하였다. 환자는 통증이 왼쪽 턱과 왼팔로 방사되며, 식은땀과 오심을 동반한다고 한다. 과거력상 고혈압과 당뇨병으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 가족력상 부친이 55세에 심근경색으로 사망하였다. 신체검사에서 혈압 150/90 mmHg, 맥박 95회/분, 호흡수 22회/분, 체온 36.8°C이다. 폐청진상 수포음은 들리지 않으며, 심음은 규칙적이나 S4 심음이 들린다. 이 환자에게서 가장 의심해야 할 진단은?",
+  "exam": "12-lead ECG 결과: II, III, aVF 유도에서 2mm ST 분절 상승, V1-V3 유도에서 상반된 ST 분절 하강이 관찰됨.",
+  "options": { 
+    "A": "불안정 협심증", 
+    "B": "폐색전증", 
+    "C": "하벽 급성 심근경색증", 
+    "D": "급성 심낭염", 
+    "E": "대동맥 박리" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전형적인 급성 관상동맥 증후군의 임상상을 보이고 있습니다. 30분 이상 지속되는 압박감을 동반한 가슴통증, 턱과 왼팔로의 방사통, 식은땀과 오심 같은 자율신경계 증상은 급성 심근경색증을 강하게 시사합니다. 환자는 고혈압, 당뇨병, 흡연, 조기 관상동맥질환 가족력과 같은 여러 위험인자를 가지고 있으며, 심장 S4 심음이 들리는 것은 심실 경직도 증가를 시사합니다. ECG에서 II, III, aVF 유도의 ST 분절 상승과 V1-V3의 상반된 ST 분절 하강은 하벽 급성 심근경색증(inferior wall STEMI)에 합당한 소견입니다. 이는 대개 우관상동맥의 폐색과 관련이 있습니다. 하벽 심근경색은 종종 우심실 경색을 동반할 수 있으며, 이 경우 저혈압이나 서맥이 동반될 수 있습니다. 불안정 협심증은 일반적으로 ST 분절 상승이 없으며, 폐색전증은 호흡곤란이 더 두드러지고 ECG에서 동성 빈맥, 우심실 긴장, S1Q3T3 패턴을 보일 수 있습니다. 급성 심낭염은 전흉부 통증, 자세에 따른 통증 변화, ECG에서 전반적인 ST 분절 상승이 특징입니다. 대동맥 박리는 갑작스러운 격렬한 '찢어지는' 통증이 특징이며, 등이나 배로 통증이 이동할 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: The classic symptom of myocardial ischemia is chest discomfort, commonly described as a pressure, heaviness, tightness, squeezing, burning, or choking sensation. Patients often localize the discomfort behind the sternum (retrosternal) and may radiate the sensation to the neck, jaw, epigastrium, shoulder, or arms. Typical angina is precipitated by exertion or emotional stress and relieved by rest. Inferior wall infarction (involving right coronary artery) produces ST-segment elevation in leads II, III, and aVF and often is associated with reciprocal ST-segment depression in leads I and aVL. Right-sided precordial lead ST elevation (V1-V3) may indicate right ventricular infarction, which often accompanies inferior infarction.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 2시간 전 갑자기 시작된 심한 호흡곤란과 가슴 통증으로 응급실에 내원하였다. 환자는 4일 전 장시간 비행기 여행을 다녀왔으며, 최근 2개월간 경구 피임약을 복용하고 있다. 가슴 통증은 호흡 시 악화되며 누워있을 때 더 심해진다고 한다. 신체검사에서 혈압 110/70 mmHg, 맥박 115회/분, 호흡수 28회/분, 산소포화도 92%(실내공기)이다. 경한 경정맥 확장이 관찰되며, 폐청진상 특이 소견은 없다. 하지에 부종이나 압통은 없다. 이 환자에게 가슴통증의 원인을 확인하기 위해 시행해야 할 가장 적절한 첫 검사는?",
+  "options": { 
+    "A": "D-dimer 검사", 
+    "B": "심장 효소 검사(트로포닌)", 
+    "C": "경흉부 심초음파", 
+    "D": "폐관류 스캔", 
+    "E": "폐동맥 혈관조영 CT" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 젊은 여성으로, 갑작스러운 호흡곤란과 흉통을 호소하며, 장시간 비행(정맥 혈전색전증의 위험인자)과 경구 피임약 사용(혈전형성 위험 증가)이라는 폐색전증의 위험인자를 가지고 있습니다. 또한 빈맥, 빈호흡, 산소포화도 저하, 경정맥 확장(우심실 압력 상승의 징후) 등의 임상 소견은 폐색전증을 강하게 시사합니다. 폐색전증이 의심되는 환자의 진단적 접근에서, 임상적 가능성 평가(Wells 점수나 Geneva 점수 등)와 함께 D-dimer 검사가 일차적으로 시행됩니다. D-dimer는 혈전 형성과 용해 과정에서 생성되는 피브린 분해 산물로, 음성 예측값이 높아 임상적으로 폐색전증 가능성이 낮거나 중간인 환자에서 질환을 배제하는 데 유용합니다. D-dimer가 양성이거나 임상적 가능성이 높은 경우에는 폐동맥 혈관조영 CT와 같은 영상 검사로 확진합니다. 심장 효소 검사는 심근 손상을 평가하는 데 유용하나, 이 환자의 임상상은 폐색전증에 더 합당합니다. 경흉부 심초음파는 우심실 기능과 폐동맥 압력을 평가하는 데 도움이 되지만 폐색전증의 일차 진단 도구로는 적합하지 않습니다. 폐관류 스캔은 CT 혈관조영이 가능하지 않거나 조영제 사용이 금기인 경우에 고려될 수 있습니다. 폐동맥 혈관조영 CT는 현재 폐색전증 진단의 표준 검사이지만, 방사선 노출과 조영제 사용의 위험이 있어 임상적 가능성과 D-dimer 결과를 고려하여 시행해야 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: The diagnostic approach to suspected pulmonary embolism depends on the clinical presentation and the estimated clinical likelihood of disease. D-dimer testing, in conjunction with standardized clinical probability assessment, is recommended as the initial diagnostic test in patients with low or intermediate clinical probability of pulmonary embolism. D-dimer, a degradation product of cross-linked fibrin, is highly sensitive but nonspecific for VTE. A normal D-dimer level in a patient with low or intermediate clinical probability effectively excludes pulmonary embolism. However, D-dimer may be elevated in many conditions, including aging, pregnancy, trauma, inflammation, cancer, and recent surgery. If D-dimer is elevated or if clinical probability is high, imaging studies, typically CT pulmonary angiography, are indicated.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "65세 남성이 1시간 전 갑자기 시작된 격렬한 가슴통증을 주소로 응급실에 내원하였다. 환자는 찢어지는 듯한 통증이 등과 배로 퍼진다고 호소하며, 오심과 발한을 동반한다. 과거력상 오래된 고혈압이 있으며, 투약은 불규칙적이었다고 한다. 신체검사에서 혈압은 우측 팔 190/110 mmHg, 좌측 팔 150/90 mmHg이고, 맥박 100회/분, 호흡수 24회/분이다. 심음은 규칙적이나 이완기 심잡음이 들리며, 양측 폐저음이 감소되어 있다. 복부 진찰에서 복부 박동성 종괴가 촉지된다. 이 환자에게 의심되는 진단과 가장 적절한 초기 응급 처치는?",
+  "exam": "흉부 CT 혈관조영술: 상행 대동맥부터 시작되는 내막 판(intimal flap)이 관찰되며, 대동맥 직경은 6.5cm로 확장되어 있음. 심낭과 좌측 흉강에 액체 저류가 있고, 복부 대동맥까지 확장된 내막 판이 관찰됨.",
+  "options": { 
+    "A": "급성 심근경색 - 아스피린과 티카그렐러 투여", 
+    "B": "대동맥 박리 - 베타차단제 정맥 투여와 혈압 조절", 
+    "C": "긴장성 기흉 - 즉각적인 바늘 감압술", 
+    "D": "급성 심낭염 - 고용량 아스피린 투여", 
+    "E": "복부 대동맥류 파열 - 즉각적인 수액 소생술과 혈관 조영술" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 대동맥 박리(acute aortic dissection)의 전형적인 임상상을 보이고 있습니다. 갑작스러운 찢어지는 듯한 가슴통증이 등이나 배로 방사되는 것은 대동맥 박리의 특징적인 증상입니다. 양팔 혈압의 차이(>20 mmHg)는 대동맥 분지의 침범을 시사하며, 이완기 심잡음은 대동맥 판막 역류의 가능성을 시사합니다. CT 혈관조영술에서 상행 대동맥부터 시작되는 내막 판(intimal flap)은 Stanford A형 대동맥 박리(상행 대동맥을 포함)를 확진합니다. 대동맥 박리의 초기 치료는 통증 조절과 함께 혈압과 심박출량의 감소(심장 dp/dt의 감소)를 목표로 합니다. 베타차단제(특히 에스몰롤 같은 단시간 작용 IV 베타차단제)는 심박수와 혈압을 감소시켜 박리의 진행을 막는 데 효과적입니다. 목표 심박수는 60회/분 이하, 수축기 혈압은 100-120mmHg입니다. 베타차단제로 혈압이 적절히 조절되지 않는 경우, 혈관확장제(니트로프루시드 등)를 추가할 수 있습니다. Stanford A형 박리는 응급 수술적 치료가 필요하며, 내과적 치료만으로는 사망률이 매우 높습니다. 급성 심근경색증의 경우 찢어지는 통증보다는 압박감이나 쥐어짜는 듯한 통증이 더 흔하며, 양팔 혈압 차이도 일반적이지 않습니다. 또한, 항혈소판제는 대동맥 박리가 의심되는 환자에게는 금기입니다. 긴장성 기흉은 일측성 호흡음 감소와 경정맥 확장을 일으킬 수 있으나, 찢어지는 통증과 양팔 혈압 차이는 설명하지 못합니다. 급성 심낭염은 자세에 따라 변화하는 통증과 마찰음이 특징적이며, 복부 대동맥류 파열은 복부나 등의 통증과 쇼크 증상이 더 두드러집니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Acute aortic dissection is a life-threatening condition characterized by separation of the layers of the aortic wall by blood, with creation of a false lumen. The classic presentation is the acute onset of severe, 'tearing' chest pain that often radiates to the back or abdomen. On physical examination, a discrepancy in blood pressure between the two arms (>20 mmHg) suggests aortic branch vessel involvement. A diastolic murmur of aortic regurgitation may be present. Chest CT with contrast is the most commonly used imaging modality. Stanford type A dissections involve the ascending aorta and require emergency surgery; type B dissections are limited to the descending aorta and are often managed medically. The initial medical management focuses on pain control and reduction of systolic blood pressure (goal 100-120 mmHg) and cardiac contractility (dp/dt). Intravenous beta-blockers (e.g., esmolol or labetalol) are first-line agents to reduce heart rate (target <60 bpm) and blood pressure.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "42세 여성이 3개월 전부터 시작된 가슴 뒤쪽의 타는 듯한 통증을 주소로 내원하였다. 환자는 식후나 누워있을 때 증상이 악화되며, 신트림과 목의 이물감을 동반한다고 한다. 위산 역류를 막기 위해 취침 전 간식을 피하고 침대 머리를 올려 자려고 노력 중이라고 한다. 과거력상 특이사항은 없으며, 음주나 흡연은 하지 않는다. 신체검사에서 활력징후는 정상이며, 상복부 압통이나 다른 이상 소견은 없다. 환자의 현 상태를 가장 잘 설명하는 진단은?",
+  "options": { 
+    "A": "위식도 역류질환", 
+    "B": "식도 경련", 
+    "C": "소화성 궤양", 
+    "D": "급성 담낭염", 
+    "E": "협심증" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 위식도 역류질환(Gastroesophageal reflux disease, GERD)의 전형적인 증상을 보이고 있습니다. 가슴 뒤쪽의 타는 듯한 통증(흉부 작열감, heartburn)은 GERD의 가장 특징적인 증상으로, 식후나 누웠을 때 악화되며 신트림(역류, regurgitation)과 같은 증상을 동반합니다. 또한 환자는 GERD의 증상 완화를 위한 생활 습관 변화(취침 전 간식 피하기, 침대 머리 올리기)를 시도하고 있습니다. GERD는 하부식도괄약근의 기능 저하로 인해 위 내용물이 식도로 역류하여 발생하며, 식도 점막의 염증과 자극으로 인해 흉부 작열감, 역류, 연하통, 연하곤란, 목의 이물감 등의 증상을 유발합니다. 만성적인 역류는 바렛식도(Barrett's esophagus)와 같은 식도 점막의 변화를 일으킬 수 있으며, 이는 식도 선암의 위험인자가 됩니다. 식도 경련은 갑작스러운 심한 흉통을 특징으로 하며, 수분 내지 수시간 지속될 수 있습니다. 소화성 궤양은 주로 상복부 통증을 유발하며, 식사 후 통증이 완화되는 경향이 있습니다. 급성 담낭염은 우상복부 통증, 발열, Murphy's sign 양성 등이 특징적입니다. 협심증은 주로 운동이나 스트레스에 의해 유발되는 압박감이나 쥐어짜는 듯한 흉통을 특징으로 하며, 단시간 지속된 후 휴식이나 니트로글리세린에 의해 완화됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Gastroesophageal reflux disease (GERD) is a condition that develops when the reflux of stomach contents causes troublesome symptoms and/or complications. The two most common symptoms of GERD are heartburn and regurgitation. Heartburn is characterized by a retrosternal burning sensation that typically occurs after meals and worsens when lying down. Regurgitation is defined as the perception of flow of refluxed gastric content into the mouth or hypopharynx. Other common symptoms include dysphagia, chest pain, and extraesophageal manifestations such as chronic cough, hoarseness, and globus sensation. The diagnosis of GERD is typically based on a combination of symptom presentation, response to acid suppression, and objective testing with either upper endoscopy or ambulatory reflux monitoring.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "20세 남성이 3시간 전 갑자기 시작된 우측 가슴통증과 호흡곤란을 주소로 응급실에 내원하였다. 환자는 평소 건강하였으며, 외상력은 없으나 키가 매우 크고 마른 체형이다. 통증은 날카롭고 호흡 시 악화된다고 한다. 신체검사에서 혈압 120/70 mmHg, 맥박 100회/분, 호흡수 24회/분, 산소포화도 94%(실내공기)이다. 우측 흉부의 호흡음이 감소되어 있으며, 타진 시 과공명(hyperresonance)이 관찰된다. 경정맥 확장은 없다. 이 환자에게 시행한 흉부 X선 검사 결과의 해석으로 가장 적절한 것은?",
+  "exam": "흉부 X선 검사: 우측 폐야의 공기음영 증가와 함께 폐허탈 소견, 종격동이 좌측으로 약간 편위됨. 우측 폐문부의 혈관 음영이 감소됨.",
+  "options": { 
+    "A": "우측 자발성 기흉이 있으며, 긴장성 기흉의 징후는 없다.", 
+    "B": "우측 폐렴에 의한 폐경화가 있다.", 
+    "C": "우측 흉막 삼출액이 관찰된다.", 
+    "D": "우측 하엽의 무기폐가 있다.", 
+    "E": "우측 폐수종 소견이 보인다." 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 자발성 기흉(spontaneous pneumothorax)의 전형적인 임상상과 방사선 소견을 보이고 있습니다. 젊은 남성에서 갑자기 발생한 편측성 흉통과 호흡곤란, 그리고 신체 검진에서 호흡음 감소와 과공명은 기흉을 강하게 시사합니다. 또한 환자는 키가 크고 마른 체형으로, 이는 원발성 자발성 기흉의 전형적인 위험인자입니다. 흉부 X선 검사에서 우측 폐야의 공기음영 증가와 폐허탈은 공기가 흉막강 내에 존재함을 의미하며, 이는 기흉의 특징적인 소견입니다. 종격동의 경미한 편위는 있으나, 경정맥 확장이나 혈역학적 불안정성이 없는 것으로 보아 긴장성 기흉(tension pneumothorax)의 징후는 아직 없는 것으로 판단됩니다. 원발성 자발성 기흉은 주로 폐 첨부의 작은 기포(bleb)나 낭종(bulla)의 파열로 인해 발생하며, 20-40세 남성, 흡연자, 키가 크고 마른 체형, Marfan 증후군 환자에서 발생 위험이 높습니다. 2차성 자발성 기흉은 COPD, 낭성 섬유증, 폐결핵, 폐렴모폐렴(PCP) 등의 기저 폐질환이 있는 환자에서 발생합니다. 폐렴에 의한 폐경화는 공기기관지 조영상(air bronchogram)과 함께 음영 증가를 보이며, 흉막 삼출액은 측와위 X선에서 층상(layering)을 보이는 음영 증가로 나타납니다. 무기폐는 폐용적 감소와 함께 음영 증가를 보이며, 폐수종은 양측성으로 나타나는 경우가 많고 심비대나 폐문부 울혈을 동반합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Primary spontaneous pneumothorax (PSP) occurs in patients without clinically apparent lung disease, typically in tall, thin individuals between the ages of 20 and 40 years. Secondary spontaneous pneumothorax (SSP) occurs in patients with underlying pulmonary disease, most commonly COPD. The classic presentation of pneumothorax is the sudden onset of unilateral chest pain and dyspnea. Physical examination typically reveals decreased breath sounds and hyperresonance to percussion on the affected side. The diagnosis is confirmed by chest radiography, which shows an airless lung surrounded by a visceral pleural line and radiolucent pleural space. Tension pneumothorax, a medical emergency, occurs when air in the pleural space is under pressure, causing mediastinal shift, decreased venous return, and hemodynamic compromise. Clinical signs include significant respiratory distress, hypotension, tracheal deviation away from the affected side, and distended neck veins.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "25세 남성이 3일 전부터 시작된 가슴통증과 발열을 주소로 내원하였다. 환자는 통증이 앉아서 앞으로 숙일 때 완화되고 누울 때 악화된다고 한다. 2주 전 상기도 감염 증상이 있었다고 한다. 신체검사에서 체온 38.5°C, 맥박 100회/분, 혈압 110/70 mmHg이다. 심음 청진 시 좌하흉골연에서 마찰음(friction rub)이 들린다. 혈액 검사에서 백혈구 12,000/μL, ESR 40 mm/hr, CRP 3.5 mg/dL, 트로포닌 I 0.3 ng/mL(정상 <0.04)이다. ECG에서는 전반적인 ST 분절 상승과 PR 분절 하강이 관찰된다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "심초음파 검사: 좌심실 수축 기능은 정상이며, 소량의 심낭 삼출액이 관찰됨. 심장 압전(tamponade)의 증거는 없음.",
+  "options": { 
+    "A": "응급 관상동맥 조영술 및 혈관성형술", 
+    "B": "고용량 아스피린 투여", 
+    "C": "콜히친과 비스테로이드성 항염증제 투여", 
+    "D": "페리카디오센테시스(심낭천자)", 
+    "E": "전신 항응고요법" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 심낭염(acute pericarditis)의 전형적인 임상상을 보이고 있습니다. 가슴통증은 자세에 따라 변하는 특징(앉아서 앞으로 숙일 때 완화, 누울 때 악화)을 보이며, 최근 상기도 감염 병력, 발열, 심마찰음(pericardial friction rub)과 함께 ECG에서 전반적인 ST 분절 상승과 PR 분절 하강이 관찰됩니다. 또한 염증 표지자(ESR, CRP)가 상승해 있고, 심초음파에서 소량의 심낭 삼출액이 확인되었습니다. 트로포닌 상승은 심근 염증(심근염, myocarditis)의 동반을 시사할 수 있습니다(심근심낭염, myopericarditis). 급성 심낭염의 일차 치료는 항염증 요법으로, 콜히친과 비스테로이드성 항염증제(NSAIDs)의 병용이 권장됩니다. 콜히친은 재발 방지에 효과적이며, NSAIDs(이부프로펜, 아스피린 등)는 증상 완화와 염증 감소에 도움이 됩니다. 심부전이나 신장 기능 저하가 있는 경우 NSAIDs는 주의해서 사용해야 합니다. 중증이거나 재발성인 경우, 또는 특정 원인(자가면역, 요독증 등)에 의한 경우에는 코르티코스테로이드를 고려할 수 있습니다. 응급 관상동맥 조영술은 급성 관상동맥 증후군이 의심될 때 필요하나, 이 환자의 ECG 변화는 전형적인 심낭염 소견입니다. 고용량 아스피린은 과거 심낭염 치료에 사용되었으나, 현재는 이부프로펜과 같은 다른 NSAIDs와 콜히친 병용이 선호됩니다. 페리카디오센테시스는 심낭 압전이 있거나 진단적 목적, 또는 다량의 심낭 삼출액이 있을 때 시행되나, 이 환자는 소량의 삼출액만 있고 압전 증거가 없습니다. 항응고요법은 심낭염에서 일반적으로 금기이며, 심낭 출혈의 위험을 증가시킬 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Acute pericarditis is diagnosed by the presence of at least two of the following four criteria: (1) chest pain consistent with pericarditis (sharp, pleuritic, improved by sitting forward); (2) pericardial friction rub; (3) characteristic ECG changes (new widespread ST elevation or PR depression); and (4) new or worsening pericardial effusion. The first-line therapy for viral or idiopathic pericarditis is the combination of colchicine with either aspirin or another NSAID. Colchicine has been shown to significantly reduce the recurrence rate of pericarditis. NSAIDs like ibuprofen (600-800 mg every 8 hours) or aspirin (2-4 g daily in divided doses) should be given until symptoms resolve, typically 1-2 weeks, followed by tapering over 2-3 weeks. Corticosteroids are reserved for refractory cases, specific etiologies (autoimmune, uremic), or contraindications to NSAIDs. Anticoagulants should generally be avoided unless absolutely necessary, as they increase the risk of pericardial hemorrhage.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "50세 남성이 수개월 전부터 간헐적으로 발생하는 가슴통증을 주소로 내원하였다. 환자는 통증이 식사 후나 누워있을 때 가끔 발생하기도 하지만, 주로 계단을 오르거나 빠르게 걸을 때 발생한다고 한다. 통증은 가슴 중앙부에 조이는 느낌으로 시작하여 왼쪽 턱과 팔로 퍼지며, 5분 정도 지속된 후 휴식 시 호전된다고 한다. 과거력상 고혈압, 고지혈증, 당뇨병이 있으며, 25갑년의 흡연력이 있다. 신체검사에서 특이 소견은 없으며, 안정 시 ECG는 정상이다. 이 환자의 가슴통증을 가장 잘 설명하는 진단은?",
+  "options": { 
+    "A": "안정형 협심증", 
+    "B": "불안정 협심증", 
+    "C": "비심인성 흉통", 
+    "D": "위식도 역류질환", 
+    "E": "급성 심근경색증" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 안정형 협심증(stable angina pectoris)의 전형적인 임상상을 보이고 있습니다. 협심증은 심근 산소 공급과 수요의 불균형으로 인한 일시적인 심근 허혈에 의해 발생하는 가슴통증입니다. 안정형 협심증의 특징은 예측 가능한 상황(주로 신체 활동, 정서적 스트레스, 추위 등)에서 유발되는 가슴통증으로, 휴식이나 니트로글리세린에 의해 완화되며, 통증 양상이 시간이 지나도 변하지 않습니다. 이 환자의 경우, 계단 오르기나 빠른 걸음과 같은 신체 활동 시 가슴 중앙부의 조이는 통증이 발생하며, 왼쪽 턱과 팔로 방사되고, 휴식 시 호전되는 전형적인 협심증 양상을 보입니다. 또한 고혈압, 고지혈증, 당뇨병, 흡연과 같은 다수의 관상동맥질환 위험인자를 가지고 있습니다. 운동 유발성 통증이 주요 특징이므로, 식사 후나 누워있을 때 발생하는 간헐적 통증은 협심증 외에 역류성 식도염과 같은 다른 원인의 가능성도 있습니다. 불안정 협심증은 최근 발생하였거나, 점점 심해지거나, 휴식 시에도 발생하는 협심증을 의미하며, 급성 관상동맥 증후군의 일종으로 응급 치료가 필요합니다. 이 환자의 증상은 수개월간 안정적이며 휴식 시 호전되므로 불안정 협심증에 해당하지 않습니다. 비심인성 흉통은 근골격계, 심인성, 폐질환 등 다양한 원인에 의한 흉통을 포함하나, 이 환자의 증상은 운동 유발성이며 관상동맥질환의 전형적인 위험인자를 가지고 있어 협심증에 더 합당합니다. 위식도 역류질환은 식후나 누워있을 때 악화되는 작열감(heartburn)이 특징이나, 운동 유발성은 일반적이지 않습니다. 급성 심근경색증은 20분 이상 지속되는 심한 흉통과 함께 ECG 변화, 심장 효소 상승 등이 관찰되나, 이 환자는 5분 정도 지속되는 간헐적 통증이며 안정 시 ECG가 정상입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Stable angina pectoris is characterized by chest or arm discomfort that is: (1) reproducibly associated with physical exertion or emotional stress; (2) relieved within 5-10 minutes by rest or nitroglycerin; and (3) unchanged in frequency, severity, or duration over the preceding 60 days. The discomfort of angina is typically described as a pressure, heaviness, squeezing, burning, or choking sensation, rather than a sharp or stabbing pain. The location is usually retrosternal, with potential radiation to the neck, jaw, epigastrium, shoulders, or arms (typically the left). Rest angina, prolonged (>20 minutes) angina, or angina that is increasing in frequency or severity ('crescendo angina') suggests unstable angina, a form of acute coronary syndrome. Risk factors for coronary artery disease include hypertension, hyperlipidemia, diabetes mellitus, cigarette smoking, family history of premature coronary disease, and advanced age.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 2일 전부터 시작된 좌측 가슴통증을 주소로 내원하였다. 환자는 3일 전 감기 증상이 있었고, 통증은 숨을 깊게 들이마실 때 더 심해진다고 한다. 이외에 호흡곤란, 기침, 가래 등의 증상은 없다고 한다. 신체검사에서 체온 37.8°C, 혈압 120/70 mmHg, 맥박 85회/분, 호흡수 16회/분, 산소포화도 97%(실내공기)이다. 흉부 청진에서 좌하부에 마찰음(friction rub)이 들린다. 이 환자에게 시행한 흉부 CT 검사 결과의 해석으로 가장 적절한 것은?",
+  "exam": "흉부 CT 검사: 좌측 하엽 외측부의 흉막 비후와 인접한 폐실질의 고밀도 음영, 소량의 좌측 흉막 삼출액이 관찰됨. 폐실질 내 뚜렷한 침윤이나 종괴는 관찰되지 않음.",
+  "options": { 
+    "A": "좌하엽 폐렴", 
+    "B": "결핵성 흉막염", 
+    "C": "좌측 늑막염", 
+    "D": "좌측 흉막 중피종", 
+    "E": "좌측 폐경색" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 좌측 늑막염(pleurisy 또는 pleuritis)의 임상상과 영상의학적 소견을 보이고 있습니다. 최근 감기 증상 후 발생한 흡기 시 악화되는 편측성 흉통, 발열, 그리고 흉부 청진에서 들리는 흉막 마찰음(pleural friction rub)은 늑막염의 특징적인 임상 소견입니다. 흉부 CT에서 관찰되는 좌측 하엽 외측부의 흉막 비후와 소량의 흉막 삼출액은 늑막염의 영상의학적 소견과 일치합니다. 늑막염은 흉막에 염증이 발생하는 상태로, 바이러스 감염(인플루엔자, 코로나바이러스, 콕사키바이러스 등), 세균 감염, 폐렴, 폐경색, 자가면역질환, 약물 반응 등 다양한 원인에 의해 발생할 수 있습니다. 특히 바이러스성 늑막염은 상기도 감염 후에 흔히 발생하며, 대개 자연 치유되는 경과를 보입니다. 좌하엽 폐렴은 폐실질의 침윤과 함께 발열, 기침, 가래 등의 증상이 더 두드러지며, CT에서는 폐실질 내 경화(consolidation)나 간유리 음영(ground-glass opacity)이 관찰됩니다. 이 환자는 폐실질 내 뚜렷한 침윤이 없고 호흡기 증상도 미미하므로 폐렴의 가능성은 낮습니다. 결핵성 흉막염은 흉막 삼출액이 더 많은 경우가 일반적이며, 만성적인 경과와 야간 발한, 체중 감소 등의 전신 증상을 동반하는 경우가 많습니다. 흉막 중피종은 흉막의 종양으로, 석면 노출이 주요 위험인자이며, 진행성 흉통, 호흡곤란, 체중 감소와 함께 CT에서 흉막의 불규칙한 비후나 결절성 병변이 관찰됩니다. 폐경색은 폐색전증으로 인한 폐 조직의 괴사로, 갑작스러운 호흡곤란, 빈맥, 저산소증과 함께 CT에서 쐐기 모양의 폐경색이 관찰됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pleurisy or pleuritis refers to inflammation of the pleura, typically causing sharp, localized chest pain that worsens with inspiration and coughing. The pain may be referred to the shoulder or abdomen. A pleural friction rub, a creaking or grating sound synchronous with respiration, may be heard on auscultation. Causes of pleurisy include viral infections (particularly influenza, coxsackievirus, and SARS-CoV-2), bacterial pneumonia, pulmonary embolism with infarction, autoimmune disorders (like lupus or rheumatoid arthritis), and drug reactions. Viral pleurisy often follows upper respiratory tract infections and is typically self-limited. Imaging findings may include pleural thickening, small pleural effusions, and subtle parenchymal opacities adjacent to the affected pleura. Treatment is directed at the underlying cause, with NSAIDs often providing symptomatic relief.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "68세 남성이 2시간 전 갑자기 시작된 심한 가슴통증과 호흡곤란을 주소로 응급실에 내원하였다. 환자는 10년 전 흡연을 중단하였으나 40갑년의 흡연력이 있으며, 만성폐쇄성폐질환(COPD)으로 치료 중이다. 최근 장거리 비행을 다녀왔다고 한다. 신체검사에서 혈압 90/60 mmHg, 맥박 120회/분, 호흡수 32회/분, 산소포화도 85%(실내공기)이다. 경정맥 확장이 관찰되며, 심음은 빠르나 규칙적이고, 폐청진상 양측 호흡음이 감소되어 있다. 심전도에서 동성 빈맥, 우축 편위, V1-V3에서 T파 역전이 관찰된다. 이 환자에게 가장 적절한 초기 치료 계획은?",
+  "exam": "흉부 CT 혈관조영술: 우폐동맥 주간부와 좌폐동맥 하부 분지에 충만 결손이 관찰됨. 우심실이 확장되어 있으며, 좌심실을 압박하는 소견. 폐실질에 국소적 경화나 폐경색은 관찰되지 않음.",
+  "options": { 
+    "A": "산소 공급과 수액 소생술, 이후 헤파린 정맥 투여", 
+    "B": "혈전용해제(t-PA) 정맥 투여", 
+    "C": "응급 카테터 폐색전 제거술", 
+    "D": "니트로글리세린과 아스피린 투여", 
+    "E": "고유량 산소 공급과 기관지 확장제 분무" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 대량 폐색전증(massive pulmonary embolism)과 혈역학적 불안정성을 보이고 있습니다. 갑작스러운 발병의 심한 흉통과 호흡곤란, 장거리 비행 이력(정맥 혈전색전증의 위험인자), 저산소증, 빈맥, 저혈압, 경정맥 확장(우심실 기능 부전의 징후), 그리고 ECG에서 우심실 부담의 징후(우축 편위, V1-V3 T파 역전)는 대량 폐색전증을 강하게 시사합니다. CT 폐동맥 혈관조영에서 양측 폐동맥의 충만 결손과 우심실 확장이 확인되었습니다. 대량 폐색전증은 혈역학적으로 불안정한 상태(저혈압 또는 쇼크)를 동반한 폐색전증으로 정의되며, 즉각적인 재관류 치료가 필요합니다. 이 환자는 저혈압(90/60 mmHg)과 빈맥(120회/분)으로 혈역학적 불안정성을 보이고 있으므로, 전신 혈전용해 치료가 우선적으로 고려되어야 합니다. 전신 혈전용해 치료(t-PA 등)는 혈전을 신속하게 용해시켜 폐혈류를 회복시키고 우심실 부담을 감소시킵니다. 이는 금기사항(최근의 뇌수술이나 출혈성 뇌졸중, 활동성 내부 출혈 등)이 없는 경우 혈역학적으로 불안정한 대량 폐색전증 환자에게 권장됩니다. 산소 공급과 수액 소생술은 초기 지지 치료로 중요하지만, 단독으로는 대량 폐색전증의 혈역학적 불안정성을 해결하기에 불충분합니다. 헤파린은 추가적인 혈전 형성을 방지하나 기존 혈전을 용해시키지는 않으므로, 혈역학적으로 불안정한 환자에게는 충분하지 않습니다. 카테터 폐색전 제거술은 혈전용해 치료가 금기인 경우나 실패한 경우, 또는 즉시 시행 가능한 경우에 고려될 수 있습니다. 니트로글리세린과 아스피린은 관상동맥 질환 치료에 사용되지만, 폐색전증에는 효과적이지 않습니다. 고유량 산소와 기관지 확장제는 COPD 급성 악화 치료에 유용하나, 이 환자의 주요 문제인 대량 폐색전증에는 충분한 치료가 되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Massive pulmonary embolism is defined as pulmonary embolism with hemodynamic instability (systolic blood pressure <90 mmHg or a drop of ≥40 mmHg for >15 minutes). It is a life-threatening condition with a mortality rate of >50% if untreated. Systemic thrombolytic therapy is indicated for massive pulmonary embolism with hemodynamic compromise in the absence of contraindications. Thrombolytic agents, such as tissue plasminogen activator (t-PA), accelerate the lysis of pulmonary emboli and lead to more rapid improvement in pulmonary obstruction, pulmonary artery pressure, and right ventricular function compared to anticoagulation alone. Contraindications to thrombolytic therapy include active internal bleeding, recent cerebrovascular accident, recent surgery or trauma, and known bleeding diathesis. If thrombolysis is contraindicated or has failed, catheter-based interventions or surgical embolectomy may be considered.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "62세 여성이 3일 전부터 시작된 좌측 가슴통증을 주소로 내원하였다. 환자는 통증이 왼쪽 가슴에서 시작하여 등과 왼팔로 방사되며, 날카롭고 쑤시는 양상이라고 한다. 발열이나 오한은 없으나, 옷이 스치는 것조차 통증을 유발한다고 한다. 신체검사에서 활력징후는 정상이며, 좌측 가슴과 등의 피부에 군집된 수포성 발진이 보이고, 일부는 가피가 형성되어 있다. 발진은 한쪽 피부분절(dermatome)을 따라 분포한다. 이 환자의 가슴통증과 피부 병변의 원인으로 가장 가능성이 높은 것은?",
+  "exam": "피부 사진: 좌측 흉부와 등에 T4-T5 피부분절을 따라 홍반성 기저부에 다수의 군집된 수포가 관찰되며, 일부는 가피가 형성되어 있음.",
+  "options": { 
+    "A": "대상포진", 
+    "B": "단순포진", 
+    "C": "접촉성 피부염", 
+    "D": "대상포진후 신경통", 
+    "E": "급성 심근경색증" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 대상포진(herpes zoster)의 전형적인 임상상을 보이고 있습니다. 대상포진은 수두-대상포진 바이러스(varicella-zoster virus, VZV)가 초기 수두 감염 후 후근신경절(dorsal root ganglia)에 잠복해 있다가 재활성화되어 발생합니다. 특징적인 임상 양상은 피부분절(dermatome)을 따라 편측성으로 분포하는 군집된 수포성 발진과 동반된 통증, 작열감, 이상감각입니다. 흔히 발진 발생 수일 전부터 통증이나 이상감각이 선행하며, 이로 인해 초기에는 다른 질환(심근경색, 신장 질환 등)으로 오인될 수 있습니다. 흉부 피부분절(특히, T4-T5)은 대상포진이 가장 흔히 발생하는 부위 중 하나입니다. 이 환자의 경우, 3일 전부터 시작된 좌측 가슴통증과 함께 해당 피부분절을 따라 군집된 수포성 발진이 관찰되어 대상포진에 합당합니다. 또한 알로디니아(allodynia, 일반적으로는 통증을 유발하지 않는 자극에 의한 통증, 예: 옷이 스치는 것)는 대상포진의 특징적인 증상입니다. 단순포진(herpes simplex)은 주로 구순이나 생식기 부위에 재발성 수포성 발진을 일으키며, 피부분절을 따르는 분포는 보이지 않습니다. 접촉성 피부염은 알레르겐이나 자극물질에 노출된 부위에 발생하는 피부 염증으로, 수포보다는 홍반, 부종, 소양감이 특징적입니다. 대상포진후 신경통은 대상포진 발진이 치유된 후에도 지속되는 만성 통증으로, 일반적으로 60일 이상 지속되는 경우를 의미합니다. 이 환자는 현재 활동성 발진이 있으므로 대상포진후 신경통이 아닌 급성 대상포진입니다. 급성 심근경색증은 전형적으로 압박감이나 쥐어짜는 듯한 흉통이 특징이며, 피부 병변을 동반하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Herpes zoster (shingles) results from reactivation of varicella-zoster virus (VZV) that has remained dormant in dorsal root ganglia following primary infection (varicella or chickenpox). The disease is characterized by a painful vesicular eruption with a dermatomal distribution. Pain and paresthesia often precede the appearance of rash by several days, potentially leading to diagnostic confusion with other conditions like myocardial infarction or renal disease. The thoracic dermatomes are most commonly involved, followed by cranial, cervical, lumbar, and sacral dermatomes. The rash is initially erythematous and maculopapular but evolves to form coalescing clusters of clear vesicles that subsequently become pustular and then crust over. Allodynia (pain induced by innocuous stimuli, like light touch or clothing) is a common and distressing symptom. The diagnosis is usually clinical, based on the characteristic dermatomal distribution of the rash.",
+  "category": "Dermatology"
+}
