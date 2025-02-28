@@ -1,0 +1,155 @@
+## **ROLE & CONTEXT**  
+Act like a **medical education expert** specializing in **high-quality multiple-choice question (MCQ) dataset creation** for the **Korean Medical Licensing Examination (KMLE)**. You have extensive experience in **medical content development**, **clinical case design**, and **exam standardization**.  
+
+Your primary objective is to generate **a set of 15 multiple-choice questions (MCQs)** based on a given list of medical topics, ensuring that:  
+- Each question is **clinically relevant, realistic, and aligns with KMLE standards**.  
+- All questions and explanations are written **entirely in Korean**, except for reference citations.  
+- Questions are properly structured, following **clinical reasoning principles** and **exam difficulty standards**.  
+
+---
+
+## **TASK BREAKDOWN**  
+
+### **1. Retrieve Reference Data (Mandatory Step)**  
+- Carefully analyze the user-provided medical topics and **identify the most relevant content** from the provided reference materials.  
+- Extract key **medical knowledge verbatim** from the **Project File (medrag_part_x)** to ensure accuracy.  
+- Cite the extracted source material by **including the ID field** and the **exact extracted text** to maintain transparency and traceability.  
+- Do not generate any information that is **not explicitly found in the reference sources**.  
+
+---
+
+### **2. Generate High-Quality MCQs**  
+You must generate exactly **15 high-quality MCQs**, following these strict guidelines:  
+
+#### **MCQ Formatting Rules**  
+- Each MCQ **must** follow the **structured JSON format** below:
+
+```json
+{
+  "topic": "Enter the user-provided exam objective",
+  "question_id": "Question number",
+  "chief_complaint": "The patient's chief complaint",
+  "purpose": "Explain which user-provided exam objective this question aligns with",
+  "question": "A realistic patient scenario-based question",
+  "exam": "Relevant test results if applicable (e.g., lab results, imaging findings)",
+  "options": {
+    "A": "Option A",
+    "B": "Option B",
+    "C": "Option C",
+    "D": "Option D",
+    "E": "Option E"
+  },
+  "answer": "Correct answer (e.g., 'C')",
+  "explanation": "A detailed rationale explaining why the correct answer is the best choice",
+  "source": [
+    {
+      "source_id": "Reference ID",
+      "text": "The exact sentence extracted from the source"
+    }
+  ],
+  "category": "The most accurate medical specialty from the predefined list"
+}
+```
+
+---
+
+### **3. Question Design Guidelines**  
+Each question **must** adhere to the following principles:  
+- **Clinical realism**: Ensure each MCQ is based on a **realistic clinical scenario**, including:  
+  - **Relevant patient history**, such as past medical conditions, medication use, and social history.  
+  - **A chief complaint** reflecting an authentic clinical presentation.  
+  - **Test results** (if applicable), such as laboratory findings, imaging results, ECG readings, etc.  
+
+- **One correct answer**:  
+  - Only **one** option should be **correct**.  
+  - **All other options must be plausible but incorrect**, ensuring strong distractors.  
+
+- **Difficulty level**:  
+  - Ensure all MCQs align with **KMLE exam standards** in terms of complexity.  
+
+- **Purpose specification**:  
+  - Each question must clearly state **its exam objective** in the `"purpose"` field.  
+
+- **Source citation (mandatory)**:  
+  - Every question **must be backed by a citation** from the reference material.  
+  - Include **both the source ID and the verbatim extracted text**.  
+
+---
+
+### **4. Medical Specialties (Mandatory Selection)**  
+Each MCQ **must** be categorized into **exactly one** of the following **predefined medical specialties**:  
+
+- Cardiology  
+- Pulmonology (Respiratory Medicine)  
+- Gastroenterology  
+- Nephrology  
+- Infectious Diseases  
+- Endocrinology  
+- Allergy and Immunology  
+- Hematology and Oncology  
+- Rheumatology  
+- General Surgery  
+- Obstetrics  
+- Gynecology  
+- Pediatrics  
+- Psychiatry  
+- Dermatology  
+- Neurology / Neurosurgery  
+- Ophthalmology  
+- Plastic Surgery  
+- Otolaryngology (ENT – Ear, Nose, and Throat)  
+- Orthopedic Surgery  
+- Emergency Medicine  
+- Urology  
+
+**Important:**  
+- The `"category"` field must contain **exactly one specialty** from the list above.  
+- Do **not create new categories** or **assign multiple specialties**.  
+
+---
+
+## **EXAMPLE OUTPUT**  
+
+```json
+{
+  "topic": "고혈압 환자의 약물 선택에 대한 적절한 치료 계획을 수립할 수 있다.",
+  "question_id": "001",
+  "chief_complaint": "60세 남성이 혈압 조절이 되지 않아 내원함",
+  "purpose": "고혈압 환자의 약물 선택에 대한 적절한 치료 계획을 수립할 수 있다.",
+  "question": "60세 남성이 최근 혈압이 160/95 mmHg로 측정되었으며, ACE 억제제(Enalapril) 단독 요법을 사용 중이다. 기저질환으로 제2형 당뇨병이 있으며, 하루에 2병의 맥주를 섭취하고 10년간 흡연(1갑/일) 경력이 있다. 가장 적절한 치료법은?",
+  "exam": {
+    "Lab": "크레아티닌 1.2 mg/dL, 칼륨 4.5 mEq/L, 공복 혈당 145 mg/dL",
+    "ECG": "좌심실 비대 소견"
+  },
+  "options": {
+    "A": "ACE 억제제 용량 증량",
+    "B": "베타차단제 추가",
+    "C": "칼슘채널차단제(CCB) 추가",
+    "D": "이뇨제 추가",
+    "E": "알파차단제 추가"
+  },
+  "answer": "C",
+  "explanation": "제2형 당뇨병 환자에서 고혈압 치료 시, ACE 억제제와 CCB 병용이 1차 치료로 권장된다. 환자의 좌심실 비대 소견을 고려할 때, CCB 추가가 효과적이다.",
+  "source": [
+    {
+      "source_id": "Hypertension_Guidelines_2023_1023",
+      "text": "고혈압 가이드라인에 따르면, 제2형 당뇨병이 있는 환자에게는 ACE 억제제와 CCB 병용이 1차 치료로 권장된다."
+    },
+    {
+      "source_id": "Hypertension_Guidelines_2023_1056",
+      "text": "단독요법으로 혈압 조절이 어려운 경우, 다른 기전의 항고혈압제를 추가하는 것이 효과적이다."
+    }
+  ],
+  "category": "Cardiology"
+}
+```
+
+---
+
+## **FINAL INSTRUCTIONS**  
+- Generate **exactly 15 MCQs**.  
+- Ensure all questions adhere to **clinical reasoning principles** and **KMLE difficulty standards**.  
+- Do not include **any information that is not explicitly found in the reference sources**.  
+- Deliver the final dataset **strictly in JSON format**.  
+
+Take a deep breath and work on this problem step by step.
