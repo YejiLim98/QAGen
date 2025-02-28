@@ -2,159 +2,194 @@
   {
     "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
     "question_id": "001",
-    "chief_complaint": "45세 남성이 최근 1주일 동안 눈과 피부가 노래지는 황달 증상을 주소로 내원함",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "이 환자는 이전까지 특별한 기저질환이 없었으며, 최근 과로나 식욕 부진 등 증상이 있었습니다. 신체검진에서 공막과 피부가 황달 양상을 보이며, 간기능 검사에서 직접빌리루빈과 간효소 수치가 모두 상승해 있습니다. 가장 가능성이 높은 황달의 원인은 무엇입니까?",
+    "chief_complaint": "45세 남성이 2주 전부터 지속된 황달로 내원함.",
+    "purpose": "황달이 있는 환자의 원인을 감별할 수 있다.",
+    "question": "45세 남성이 2주 전부터 황달을 호소하며 내원하였다. 환자는 최근 체중 감소와 소양감도 동반하였다. 신체진찰에서 간비대가 관찰되었고, 복부 초음파에서 간 내부에 다수의 종괴가 발견되었다. 이 환자의 황달 원인으로 가장 가능성이 높은 것은?",
     "exam": {
-      "Lab": "AST/ALT 모두 상승 (ALT 우세), 직접빌리루빈 3.5 mg/dL, 총빌리루빈 5.0 mg/dL, ALP 경미한 상승"
+      "Lab": "AST 95 IU/L, ALT 87 IU/L, 총빌리루빈 6.5 mg/dL, ALP 320 IU/L",
+      "Imaging": "복부 초음파에서 간 내부 다발성 종괴 발견"
     },
     "options": {
-      "A": "용혈성 빈혈로 인한 과도한 빌리루빈 생성",
-      "B": "간세포 손상으로 인한 빌리루빈 처리 장애",
-      "C": "담관 결석에 의한 담도 폐색",
-      "D": "신생아에서 흔히 나타나는 생리적 황달",
-      "E": "길버트증후군(Gilbert syndrome)에 의한 간접빌리루빈 상승"
+      "A": "길버트 증후군",
+      "B": "용혈성 빈혈",
+      "C": "간세포암",
+      "D": "바이러스 간염",
+      "E": "원발성 담즙성 담관염"
     },
-    "answer": "B",
-    "explanation": "AST/ALT 수치 상승과 직접빌리루빈 상승은 간세포 손상으로 인한 황달이 주원인일 가능성이 높음을 시사한다.",
+    "answer": "C",
+    "explanation": "황달, 체중 감소, 간비대, 간 종괴 소견이 있는 경우 간세포암 가능성이 높다. 간세포암은 진행된 경우 폐쇄성 황달을 유발할 수 있다.",
     "source": [
       {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Jaundice refers to the yellowish staining of the skin, sclera, and mucous membranes with the pigment bilirubin."
+        "source_id": "InternalMed_Harrison_32446",
+        "text": "간 종양이 진행되면 폐쇄성 황달을 유발할 수 있다."
+      }
+    ],
+    "category": "Hepatology"
+  },
+  {
+    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question_id": "002",
+    "chief_complaint": "60세 여성이 황달과 우상복부 통증으로 내원함.",
+    "purpose": "황달 환자에서 적절한 검사법을 선택하고 결과를 해석할 수 있다.",
+    "question": "60세 여성이 황달과 우상복부 통증을 주소로 내원하였다. 혈액 검사에서 ALP와 GGT가 상승되어 있으며, 총빌리루빈이 8.2 mg/dL로 증가되어 있다. 복부 초음파에서 담관 확장이 관찰되었다. 추가적으로 시행해야 할 가장 적절한 검사는?",
+    "exam": {
+      "Lab": "총빌리루빈 8.2 mg/dL, ALP 420 IU/L, GGT 310 IU/L",
+      "Imaging": "복부 초음파에서 총담관 확장 소견"
+    },
+    "options": {
+      "A": "복부 단순 X-ray",
+      "B": "ERCP(내시경적 역행성 담췌관 조영술)",
+      "C": "복부 MRI",
+      "D": "혈청 간염 바이러스 검사",
+      "E": "간 생검"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 폐쇄성 황달이 의심되며, ERCP를 통해 담관 폐쇄 원인을 확인하고 치료적 시술(예: 스텐트 삽입)을 고려해야 한다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_32447",
+        "text": "폐쇄성 황달이 의심되는 경우 ERCP를 시행하여 정확한 원인을 확인하고 치료할 수 있다."
       }
     ],
     "category": "Gastroenterology"
   },
   {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "002",
-    "chief_complaint": "30세 여성, 전신 피로감과 식욕부진과 함께 눈의 공막이 노래짐",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "두 달 전부터 피로감과 식욕부진이 지속되었고, 최근 들어 황달이 나타났습니다. 혈액 검사상 간접빌리루빈이 주로 상승되어 있으며, 용혈 소견이나 특이 약물 복용력은 없습니다. 가장 가능성이 높은 원인은 무엇입니까?",
+    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question_id": "004",
+    "chief_complaint": "50세 남성이 갑작스러운 황달과 고열로 응급실 방문함.",
+    "purpose": "황달 응급 치료가 필요한 환자에서 초기 치료 방법을 선택할 수 있다.",
+    "question": "50세 남성이 황달과 고열로 응급실을 방문하였다. 환자는 오한과 복통을 호소하며 혈압은 85/55 mmHg였다. 혈액 검사에서 총빌리루빈 9.5 mg/dL, ALP 600 IU/L, 백혈구 20,000/mm³였다. 가장 적절한 초기 치료는?",
     "exam": {
-      "Lab": "총빌리루빈 4.2 mg/dL, 간접빌리루빈 3.5 mg/dL, 직접빌리루빈 0.7 mg/dL, AST/ALT 정상 범위"
+      "Lab": "총빌리루빈 9.5 mg/dL, ALP 600 IU/L, 백혈구 20,000/mm³",
+      "Vitals": "혈압 85/55 mmHg, 체온 39.0°C"
     },
     "options": {
-      "A": "신생아에서 흔히 발생하는 생리적 황달",
-      "B": "Dubin-Johnson 증후군",
-      "C": "Crigler-Najjar 증후군(간접빌리루빈 처리가 안 되는 질환)",
-      "D": "담도 폐색에 의한 황달",
-      "E": "자가면역성 간염"
+      "A": "항생제 및 수액 치료",
+      "B": "간 생검",
+      "C": "간이식 상담",
+      "D": "경과 관찰",
+      "E": "수술적 담낭 절제술"
     },
-    "answer": "C",
-    "explanation": "간접빌리루빈이 주로 상승되고 간기능검사가 비교적 정상이며, 용혈 원인이 없을 때 Crigler-Najjar 증후군과 같은 선천성 간접빌리루빈 대사 이상을 의심한다.",
+    "answer": "A",
+    "explanation": "이 환자는 패혈증을 동반한 급성 담관염 가능성이 높으며, 즉각적인 항생제 및 수액 치료가 필요하다. 필요 시 ERCP를 이용한 담즙 배액이 필요할 수 있다.",
     "source": [
       {
-        "source_id": "First_Aid_Step1_418",
-        "text": "Crigler-Najjar syndrome manifests as persistent indirect hyperbilirubinemia, often leading to kernicterus."
+        "source_id": "InternalMed_Harrison_32450",
+        "text": "급성 담관염에서는 항생제와 수액 치료가 우선이며, 필요 시 ERCP로 배액해야 한다."
       }
     ],
-    "category": "Gastroenterology"
-  },
+    "category": "Emergency Medicine"
+  }
+]
+
+[
   {
     "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
     "question_id": "003",
-    "chief_complaint": "50세 남성, 우상복부 통증과 황달로 내원",
+    "chief_complaint": "35세 남성이 최근 발생한 황달과 복부 불편감으로 내원함.",
     "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "환자는 3주 전부터 시작된 우상복부 통증과 함께 눈과 피부의 황달을 호소하였습니다. 복부 초음파에서 담관 확장 소견이 확인되었으며, 간기능 검사에서 직접빌리루빈이 크게 증가하였습니다. 이 환자의 황달 원인으로 가장 가능성이 높은 것은 무엇입니까?",
+    "question": "35세 남성이 최근 발생한 황달과 피로를 주소로 내원하였다. 검사 결과 AST 110 U/L, ALT 140 U/L, 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 2.1 mg/dL가 확인되었다. 환자는 10년 이상 매일 소주 2병을 섭취해 왔다. 가장 가능성 높은 진단은?",
     "exam": {
-      "Imaging": "복부 초음파상 담관 확장, 담낭 부근에 음영이 보임",
-      "Lab": "직접빌리루빈 4.0 mg/dL, ALP 현저히 상승"
+      "Lab": "AST 110 U/L, ALT 140 U/L, 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 2.1 mg/dL"
     },
     "options": {
-      "A": "길버트증후군(Gilbert syndrome)",
-      "B": "용혈성 빈혈",
-      "C": "간세포 손상(급성 바이러스성 간염)",
-      "D": "담관 결석에 의한 담관 폐색",
-      "E": "Dubin-Johnson 증후군"
+      "A": "급성 A형 간염",
+      "B": "알코올성 간질환",
+      "C": "길버트 증후군",
+      "D": "용혈성 빈혈",
+      "E": "폐쇄성 황달"
     },
-    "answer": "D",
-    "explanation": "담관 확장과 직접빌리루빈 상승은 담관 폐색성 황달, 특히 담관 결석으로 인한 폐색을 시사한다.",
+    "answer": "B",
+    "explanation": "알코올성 간질환은 AST/ALT 비율이 2:1 이상이며, 만성적인 알코올 섭취 병력이 있는 환자에서 흔하다.",
     "source": [
       {
-        "source_id": "InternalMed_Harrison_3241",
-        "text": "If cholestatic, is it intra- or extrahepatic? All of these questions can be answered with a thoughtful history, physical examination, and interpretation of laboratory and radiologic tests."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "004",
-    "chief_complaint": "28세 여성, 경미한 황달이 반복적으로 발생함",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "과도한 스트레스나 단식 기간 중에 눈의 공막이 약간 노래지는 현상이 반복되어 왔습니다. 증상은 비교적 가벼우며 다른 간기능 검사는 정상입니다. 이 환자에서 의심할 수 있는 가장 가능성 높은 황달 원인은 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 2.3 mg/dL (대부분 간접), AST/ALT 정상, ALP 정상",
-      "ClinicalNote": "스트레스 시에만 일시적 황달"
-    },
-    "options": {
-      "A": "Gilbert 증후군",
-      "B": "Dubin-Johnson 증후군",
-      "C": "용혈성 빈혈",
-      "D": "자기면역성 간염",
-      "E": "간세포암"
-    },
-    "answer": "A",
-    "explanation": "Gilbert 증후군은 경도 UDP-글루쿠로닐트랜스퍼레이스 결핍으로 간접빌리루빈이 약간 상승하며, 스트레스나 단식 시 일시적 황달이 발생하는 경향이 있다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8938",
-        "text": "Gilbert’s syndrome is a genetic variant characterized by diminished activity of the enzyme glucuronyltransferase."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "005",
-    "chief_complaint": "60세 남성, 체중 감소와 황달 동반",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "최근 3개월 간 8kg의 체중감소가 있었고, 황달이 서서히 진행하고 있습니다. 복부 초음파에서 담관 확장은 있으나 담석은 보이지 않았습니다. 간기능 검사에서 직접빌리루빈이 높고 ALP가 상승되어 있습니다. 체중 감소와 진행성 황달을 동반하는 원인으로 가장 의심되는 것은 무엇입니까?",
-    "exam": {
-      "Imaging": "담관 확장, 담석은 관찰되지 않음",
-      "Lab": "직접빌리루빈 3.8 mg/dL, ALP 현저 상승, CA 19-9 수치 상승"
-    },
-    "options": {
-      "A": "담관암",
-      "B": "급성 담낭염",
-      "C": "자연 소실이 가능한 간낭종",
-      "D": "급성 바이러스성 간염",
-      "E": "길버트증후군"
-    },
-    "answer": "A",
-    "explanation": "체중감소와 함께 담관 확장, 직접 빌리루빈 상승 등이 서서히 진행되는 경우 담관암(클라츠킨 종양 포함)을 우선적으로 의심해야 한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Workup of a patient with jaundice is simplified by organizing the possible causes of the disorder into groups based on the location of bilirubin metabolism."
+        "source_id": "InternalMed_Harrison_32450",
+        "text": "알코올성 간질환의 특징은 AST가 ALT보다 2배 이상 높고, 직접 빌리루빈이 상승하는 경향이 있다."
       }
     ],
     "category": "Gastroenterology"
   },
   {
     "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "006",
-    "chief_complaint": "40세 남성, 피로와 소변색 진한 황달로 병원 방문",
+    "question_id": "004",
+    "chief_complaint": "70세 남성이 1개월 전부터 진행된 황달과 체중 감소로 내원함.",
     "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "한 달 전부터 시작된 황달과 갈색 소변을 호소합니다. 간기능 검사에서 ALP보다 AST/ALT가 더 높게 상승되어 있고, 혈청 빌리루빈은 총 6.0 mg/dL(직접 2.5, 간접 3.5)입니다. 추가로 확인해야 할 검사는 무엇이 가장 적절합니까?",
+    "question": "70세 남성이 황달, 체중 감소, 회색 변을 주소로 내원하였다. 검사 결과 총 빌리루빈 12.5 mg/dL, 직접 빌리루빈 9.8 mg/dL, ALP 600 U/L, GGT 500 U/L가 확인되었다. 초음파에서 담관 확장이 관찰되었다. 다음 중 가장 적절한 추가 검사는?",
     "exam": {
-      "Lab": "AST 250 IU/L, ALT 280 IU/L, ALP 120 IU/L",
-      "ClinicalNote": "소변 색이 진하며, 전반적 피로감 호소"
+      "Lab": "총 빌리루빈 12.5 mg/dL, 직접 빌리루빈 9.8 mg/dL, ALP 600 U/L, GGT 500 U/L",
+      "Imaging": "초음파에서 담관 확장 관찰됨"
     },
     "options": {
-      "A": "복부 초음파를 통한 담관 확장 여부 확인",
-      "B": "혈액 내 용혈 지표 검사(망상적혈구수, LDH 등)",
-      "C": "바이러스 간염 표지자 검사(HBV, HCV 등)",
-      "D": "갑상선 기능검사(TSH, fT4)",
-      "E": "뇌 MRI 검사"
+      "A": "혈청 암모니아 검사",
+      "B": "간생검",
+      "C": "복부 CT",
+      "D": "뇌파 검사",
+      "E": "소장 조영술"
     },
     "answer": "C",
-    "explanation": "AST/ALT의 현저한 상승과 직접/간접 빌리루빈 상승이 동반된 경우, 바이러스성 간염 표지자 검사를 통해 급성 또는 만성 간염 여부를 평가하는 것이 핵심이다.",
+    "explanation": "복부 CT는 담도 폐쇄의 원인을 평가하는 가장 적절한 검사로, 특히 췌장암과 담도암을 감별하는 데 유용하다.",
     "source": [
       {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Viral serologies (e.g., Hepatitis A IgM, Hepatitis B surface antigen, core antibody) are crucial if a hepatocellular pattern of injury is suspected."
+        "source_id": "InternalMed_Harrison_32452",
+        "text": "담관 확장 소견이 있는 황달 환자에서 복부 CT는 담관 폐쇄의 원인을 평가하는 표준 진단 방법이다."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question_id": "005",
+    "chief_complaint": "55세 여성이 발열과 황달, 심한 우상복부 통증으로 응급실 방문.",
+    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "55세 여성이 발열, 황달, 우상복부 통증을 호소하며 응급실에 방문하였다. 혈압 90/60 mmHg, 맥박 120회/분이며, 총 빌리루빈 10.1 mg/dL, ALP 700 U/L, GGT 620 U/L가 확인되었다. 복부 초음파에서 담석이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
+    "exam": {
+      "Vital Signs": "혈압 90/60 mmHg, 맥박 120회/분",
+      "Lab": "총 빌리루빈 10.1 mg/dL, ALP 700 U/L, GGT 620 U/L",
+      "Imaging": "초음파에서 담석 관찰됨"
+    },
+    "options": {
+      "A": "수액 및 광범위 항생제 투여",
+      "B": "경구 담즙산제 투여",
+      "C": "간생검 시행",
+      "D": "간 이식 준비",
+      "E": "대증 치료 후 경과 관찰"
+    },
+    "answer": "A",
+    "explanation": "환자는 급성 담관염(Charcot's triad)과 패혈성 쇼크를 보이며, 즉각적인 수액 치료 및 광범위 항생제 투여가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_32455",
+        "text": "급성 담관염이 의심되는 환자에서는 수액 보충 및 광범위 항생제 치료가 초기 치료로 필수적이다."
+      }
+    ],
+    "category": "Gastroenterology"
+  }
+]
+
+[
+  {
+    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+    "question_id": "006",
+    "chief_complaint": "28세 남성이 최근 발생한 황달과 어두운 소변을 주소로 내원함.",
+    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+    "question": "28세 남성이 1주 전부터 황달과 어두운 소변을 보이며 내원하였다. 간수치(AST 210 U/L, ALT 280 U/L) 및 직접 빌리루빈(3.8 mg/dL) 상승이 확인되었다. 환자는 해외 여행 후 증상이 시작되었으며, 간염 바이러스 검사가 시행되었다. 가장 가능성 높은 진단은?",
+    "exam": {
+      "Lab": "AST 210 U/L, ALT 280 U/L, 직접 빌리루빈 3.8 mg/dL",
+      "Serology": "HAV IgM(+), HBsAg(-), HCV Ab(-)"
+    },
+    "options": {
+      "A": "길버트 증후군",
+      "B": "용혈성 빈혈",
+      "C": "급성 A형 간염",
+      "D": "알코올성 간염",
+      "E": "폐쇄성 황달"
+    },
+    "answer": "C",
+    "explanation": "급성 A형 간염은 HAV IgM 양성으로 진단되며, 여행력과 급성 황달 발생이 특징적이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_32460",
+        "text": "A형 간염은 감염 후 급성 간염 및 황달을 유발할 수 있으며, HAV IgM 양성이 특징적이다."
       }
     ],
     "category": "Gastroenterology"
@@ -162,80 +197,84 @@
   {
     "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
     "question_id": "007",
-    "chief_complaint": "50세 여성, 황달과 함께 소양감(가려움증)",
+    "chief_complaint": "65세 여성이 황달과 상복부 통증으로 응급실 방문.",
     "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "수주 전부터 피부와 눈의 황달, 심한 소양감이 나타났습니다. 간기능 검사에서 ALP가 현저히 상승하였고, 복부 초음파에서 담관 확장이 관찰되지 않았습니다. 다음 단계에서 가장 적절한 검사는 무엇입니까?",
+    "question": "65세 여성이 2주 전부터 진행된 황달과 체중 감소를 주소로 방문하였다. 검사 결과 총 빌리루빈 15.2 mg/dL, ALP 720 U/L, GGT 680 U/L가 확인되었다. 초음파에서 담관 확장 소견이 확인되었으며, 다음으로 시행할 적절한 검사는?",
     "exam": {
-      "Lab": "ALP 400 IU/L, GGT 동반 상승, 총빌리루빈 3.5 mg/dL",
-      "Imaging": "복부 초음파상 담관 확장 소견 없음"
+      "Lab": "총 빌리루빈 15.2 mg/dL, ALP 720 U/L, GGT 680 U/L",
+      "Imaging": "초음파에서 담관 확장 소견 확인됨"
     },
     "options": {
-      "A": "혈중 암모니아 농도 측정",
-      "B": "경피적 간생검",
-      "C": "ERCP 또는 MRCP",
-      "D": "간세포암 표지자(α-fetoprotein) 검사",
-      "E": "Autoimmune marker(ANA, AMA 등) 검사"
+      "A": "혈청 암모니아 검사",
+      "B": "복부 MRI",
+      "C": "ERCP",
+      "D": "간 생검",
+      "E": "혈청 AFP 측정"
     },
-    "answer": "E",
-    "explanation": "담관 확장 없이 ALP와 GGT가 크게 상승하고 소양감을 동반하는 경우 원발성 담즙성 담관염(PBC) 등을 의심할 수 있으며, 자가면역 표지자(AMA 등) 검사가 도움이 된다.",
+    "answer": "C",
+    "explanation": "폐쇄성 황달이 의심되는 경우 ERCP를 통해 담관 폐색 여부를 확인하고 필요시 치료를 시행해야 한다.",
     "source": [
       {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "ANA, SMA, SPEP may be obtained if autoimmune cholestatic disease is suspected."
+        "source_id": "InternalMed_Harrison_32462",
+        "text": "폐쇄성 황달이 의심되는 환자에서는 ERCP를 시행하여 담관 폐색 원인을 확인하고 치료할 수 있다."
       }
     ],
     "category": "Gastroenterology"
   },
   {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
     "question_id": "008",
-    "chief_complaint": "57세 남성, 최근 황달과 함께 체중감소, 진한 소변",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "갑작스러운 황달과 더불어 진한 소변 및 체중감소가 함께 나타났습니다. 신체검사에서 우상복부 압통은 뚜렷하지 않으나, 복부 초음파에서 담관이 확장된 소견이 보입니다. 추가 평가를 위해 가장 필요한 검사는 무엇입니까?",
+    "chief_complaint": "48세 남성이 발열과 황달로 내원.",
+    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "48세 남성이 급성 발열, 황달, 우상복부 통증을 호소하며 방문하였다. 체온 39.1℃, 혈압 95/55 mmHg, 맥박 118회/분이다. 혈액 검사에서 총 빌리루빈 9.0 mg/dL, ALP 650 U/L, GGT 590 U/L가 확인되었다. 가장 적절한 초기 치료는?",
     "exam": {
-      "Lab": "직접빌리루빈 상승, ALP 상당히 상승, CA 19-9는 미측정",
-      "Imaging": "초음파상 담관 확장"
+      "Vital Signs": "체온 39.1℃, 혈압 95/55 mmHg, 맥박 118회/분",
+      "Lab": "총 빌리루빈 9.0 mg/dL, ALP 650 U/L, GGT 590 U/L"
     },
     "options": {
-      "A": "복부 CT 혹은 MRI를 통한 종양 유무 확인",
-      "B": "내시경적 역행 담췌관 조영술(ERCP)로 담관 결석 확인",
-      "C": "바이러스성 간염 혈청 검사",
-      "D": "혈액 내 LDH 검사",
-      "E": "신장 기능검사"
+      "A": "수액 및 광범위 항생제 투여",
+      "B": "스테로이드 치료",
+      "C": "경과 관찰",
+      "D": "간 생검 시행",
+      "E": "간 이식 준비"
     },
     "answer": "A",
-    "explanation": "담관 확장, 체중감소, 통증이 경미한 황달에서는 악성 종양(담관암, 췌장암 등)을 의심해야 하며, 복부 CT 또는 MRI 검사를 통해 종괴 여부와 범위를 파악하는 것이 중요하다.",
+    "explanation": "급성 담관염으로 인한 패혈성 쇼크가 의심되며, 즉시 수액 및 광범위 항생제 치료가 필요하다.",
     "source": [
       {
-        "source_id": "InternalMed_Harrison_3241",
-        "text": "If cholestatic, imaging studies (CT, MRI) help differentiate intrahepatic from extrahepatic obstructive causes, including tumors."
+        "source_id": "InternalMed_Harrison_32465",
+        "text": "담관염이 의심될 경우 초기 치료로 수액 보충 및 광범위 항생제를 투여하는 것이 필수적이다."
       }
     ],
     "category": "Gastroenterology"
-  },
+  }
+]
+
+
+[
   {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
     "question_id": "009",
-    "chief_complaint": "25세 남성, 무증상 건강검진에서 빌리루빈 수치 이상 발견",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "건강검진에서 총빌리루빈 2.3 mg/dL(대부분 간접)이 확인되었으나, 간기능검사는 정상범위입니다. 환자는 전혀 증상이 없습니다. 이 경우 추후 어떤 검사를 통해 원인을 간단히 배제할 수 있으며, 이상이 없으면 일상적 경과 관찰이 가능한지 결정해야 합니다. 가장 적절한 검사는 무엇입니까?",
+    "chief_complaint": "52세 여성이 피로와 황달을 주소로 내원함.",
+    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+    "question": "52세 여성이 3개월 전부터 지속된 피로와 황달로 내원하였다. 검사 결과 AST 85 U/L, ALT 95 U/L, 총 빌리루빈 5.5 mg/dL, 직접 빌리루빈 3.8 mg/dL, ALP 300 U/L, GGT 250 U/L가 확인되었다. 항핵항체(ANA)와 항평활근항체(ASMA) 검사에서 양성이 확인되었다. 가장 가능성 높은 진단은?",
     "exam": {
-      "Lab": "총빌리루빈 2.3 mg/dL, 간접 2.0 mg/dL, AST/ALT/ALP 정상",
-      "ClinicalNote": "무증상"
+      "Lab": "AST 85 U/L, ALT 95 U/L, 총 빌리루빈 5.5 mg/dL, 직접 빌리루빈 3.8 mg/dL, ALP 300 U/L, GGT 250 U/L",
+      "Serology": "ANA(+), ASMA(+)"
     },
     "options": {
-      "A": "복부 초음파",
-      "B": "용혈성 지표(망상적혈구, LDH, haptoglobin) 검사",
-      "C": "간생검",
-      "D": "ERCP",
-      "E": "암표지자(AFP, CA 19-9) 검사"
+      "A": "원발성 담즙성 담관염",
+      "B": "길버트 증후군",
+      "C": "자가면역 간염",
+      "D": "용혈성 빈혈",
+      "E": "알코올성 간염"
     },
-    "answer": "B",
-    "explanation": "간접 빌리루빈이 경미하게 상승되고 무증상인 경우, 용혈성 빈혈 배제가 우선이다. 용혈성 지표 검사가 정상이면 Gilbert 증후군 등 경미한 황달로 간주하고 경과 관찰할 수 있다.",
+    "answer": "C",
+    "explanation": "자가면역 간염은 ANA 및 ASMA 양성, 만성 피로 및 황달이 특징적이다.",
     "source": [
       {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Hemolytic disorders and ineffective erythropoiesis must be ruled out when evaluating isolated unconjugated hyperbilirubinemia."
+        "source_id": "InternalMed_Harrison_32470",
+        "text": "자가면역 간염은 ANA, ASMA 양성과 함께 간기능 검사 이상이 동반되는 특징이 있다."
       }
     ],
     "category": "Gastroenterology"
@@ -243,26 +282,26 @@
   {
     "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
     "question_id": "010",
-    "chief_complaint": "48세 여성, 황달과 가려움증, 회백색 변",
+    "chief_complaint": "68세 남성이 황달과 체중 감소로 내원함.",
     "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "주 증상은 전신성 가려움증과 눈의 황달, 최근 대변 색이 회백색으로 변했습니다. 혈액 검사에서 직접빌리루빈이 높고 ALP가 매우 높습니다. 담석 의심으로 초음파를 시행했으나 담석은 발견되지 않았습니다. 추가로 확인해야 할 가장 중요한 검사는 무엇입니까?",
+    "question": "68세 남성이 2개월 전부터 진행된 황달과 체중 감소로 내원하였다. 검사 결과 총 빌리루빈 13.8 mg/dL, 직접 빌리루빈 10.2 mg/dL, ALP 850 U/L, GGT 780 U/L가 확인되었다. 복부 초음파에서 담관 확장이 관찰되었으며, 추가적으로 시행할 적절한 검사는?",
     "exam": {
-      "Lab": "직접빌리루빈 3.2 mg/dL, ALP 500 IU/L 이상, GGT 상승",
-      "Imaging": "담낭에 결석 소견 없음"
+      "Lab": "총 빌리루빈 13.8 mg/dL, 직접 빌리루빈 10.2 mg/dL, ALP 850 U/L, GGT 780 U/L",
+      "Imaging": "초음파에서 담관 확장 관찰됨"
     },
     "options": {
-      "A": "바이러스성 간염 표지자 검사",
-      "B": "간생검",
-      "C": "자기공명 담췌관조영술(MRCP)",
-      "D": "경정맥 신우조영술(IVP)",
-      "E": "전신 골주사(bone scan)"
+      "A": "혈청 AFP 검사",
+      "B": "복부 CT",
+      "C": "간생검",
+      "D": "뇌파 검사",
+      "E": "소장 조영술"
     },
-    "answer": "C",
-    "explanation": "회백색 변과 직접빌리루빈 상승, 고 ALP는 담도 폐색성 병변을 의심케 하며, 담석이 초음파에서 안 보이는 경우 MRCP 등을 통해 담관 내 병변(담관암, 협착 등)을 추가 평가해야 한다.",
+    "answer": "B",
+    "explanation": "폐쇄성 황달이 의심되는 경우 복부 CT를 통해 담관 폐쇄의 원인을 평가해야 한다.",
     "source": [
       {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Workup of a patient with jaundice is simplified by organizing the possible causes of the disorder into groups based on the location of bilirubin metabolism."
+        "source_id": "InternalMed_Harrison_32472",
+        "text": "담관 확장이 관찰될 경우 복부 CT는 폐쇄성 황달의 원인을 감별하는 필수적인 검사이다."
       }
     ],
     "category": "Gastroenterology"
@@ -270,265 +309,116 @@
   {
     "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
     "question_id": "011",
-    "chief_complaint": "70세 남성, 갑작스러운 우상복부 통증과 고열, 황달",
+    "chief_complaint": "60세 남성이 급성 발열과 황달로 응급실 방문.",
     "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "심한 우상복부 통증과 39°C 이상의 고열, 황달이 동반되어 응급실에 방문했습니다(샤르코의 3징후). 혈액검사상 WBC 상승, 직접빌리루빈 증가, ALP 상승이 관찰됩니다. 응급으로 가장 먼저 해야 할 치료 및 처치는 무엇입니까?",
+    "question": "60세 남성이 급성 발열, 황달, 우상복부 통증을 주소로 응급실을 방문하였다. 체온 38.7℃, 혈압 90/50 mmHg, 맥박 115회/분이다. 혈액 검사에서 총 빌리루빈 10.5 mg/dL, ALP 750 U/L, GGT 680 U/L가 확인되었다. 복부 초음파에서 담석이 확인되었다. 가장 적절한 초기 치료는?",
     "exam": {
-      "Lab": "총빌리루빈 4.0 mg/dL(직접 주), ALP 420 IU/L, WBC 15,000/µL"
+      "Vital Signs": "체온 38.7℃, 혈압 90/50 mmHg, 맥박 115회/분",
+      "Lab": "총 빌리루빈 10.5 mg/dL, ALP 750 U/L, GGT 680 U/L",
+      "Imaging": "초음파에서 담석 확인됨"
     },
     "options": {
-      "A": "광선치료(포토테라피)",
-      "B": "ERCP를 통한 담관 감압 및 담도 배액",
-      "C": "스테로이드 고용량 투여",
-      "D": "단식 및 수액 공급 후 경과 관찰",
-      "E": "수술적 간생검 후 항생제 투여"
-    },
-    "answer": "B",
-    "explanation": "담관염(Charcot의 3징후)에 준하는 증상이 있을 때 응급으로 담관 배액(ERCP 등)을 시행하여 담즙 흐름을 회복시키고, 동시에 항생제 치료를 시작해야 한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Patients with cholangitis often require urgent biliary decompression via ERCP."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "012",
-    "chief_complaint": "35세 임산부, 급성 바이러스성 간염 의심으로 내원",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "임신 28주인 환자가 갑작스럽게 황달과 피로를 호소하며 간수치가 상승하였습니다. 급성 B형간염이 의심되는 상황에서, 황달로 인한 합병증 발생 위험이 있다고 할 때 초기 치료 접근으로 가장 적합한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "AST/ALT 500 IU/L 이상, 총빌리루빈 6.2 mg/dL",
-      "ClinicalNote": "임신 28주, 다른 기저질환 없음"
-    },
-    "options": {
-      "A": "광범위 항생제 투여",
-      "B": "경구용 항바이러스제(테노포비르 등) 고려",
-      "C": "즉시 응급 제왕절개술",
-      "D": "스테로이드 고용량 투여",
-      "E": "수혈 및 혈장교환술"
-    },
-    "answer": "B",
-    "explanation": "임신 중 급성 B형간염의 경우, 고위험 상황에서는 항바이러스제 투여로 간 손상을 줄이고, 황달로 인한 합병증을 예방할 수 있다. 임신에도 비교적 안전한 약물을 선택한다.",
-    "source": [
-      {
-        "source_id": "First_Aid_Step2_339",
-        "text": "Chronic hepatitis B may require antiviral therapy (e.g., tenofovir) to reduce complications."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "013",
-    "chief_complaint": "신생아(출생 2일차), 눈과 피부가 노랗게 변함",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "생후 2일 된 신생아가 피부와 공막이 노랗게 변해서 내원했습니다. 총빌리루빈이 12 mg/dL, 주로 간접빌리루빈이 상승된 상태입니다. 출생 24시간 내에 황달이 뚜렷해졌고, 육안으로도 심하게 노랗게 보여 병원 방문하였습니다. 이때 우선적으로 필요한 응급 처치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 12 mg/dL(간접 10 mg/dL), 생후 48시간"
-    },
-    "options": {
-      "A": "광선치료(포토테라피)",
-      "B": "즉시 교환수혈",
-      "C": "경구 ursodeoxycholic acid",
-      "D": "간생검 후 대기",
-      "E": "광범위 항생제 투여"
+      "A": "수액 및 광범위 항생제 투여",
+      "B": "스테로이드 치료",
+      "C": "경과 관찰",
+      "D": "간 생검 시행",
+      "E": "간 이식 준비"
     },
     "answer": "A",
-    "explanation": "출생 직후(24~48시간 내) 빠르게 상승하는 신생아 황달은 병적 가능성이 높으며, 포토테라피로 간접빌리루빈을 낮춰 핵황달 등을 예방해야 한다.",
+    "explanation": "급성 담관염이 의심되며, 초기 치료로 수액 보충 및 광범위 항생제 치료가 필요하다.",
     "source": [
       {
-        "source_id": "Pediatrics_Nelson_1418",
-        "text": "Phototherapy is an effective and safe method for reducing indirect bilirubin levels, particularly when initiated before serum bilirubin increases to levels associated with kernicterus."
+        "source_id": "InternalMed_Harrison_32475",
+        "text": "담관염이 의심될 경우 초기 치료로 수액 보충 및 광범위 항생제를 투여해야 한다."
       }
     ],
-    "category": "Pediatrics"
+    "category": "Gastroenterology"
+  }
+]
+
+
+Here are additional MCQs in JSON format:
+
+```json
+[
+  {
+    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+    "question_id": "012",
+    "chief_complaint": "42세 남성이 황달과 피로를 주소로 내원함.",
+    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+    "question": "42세 남성이 황달과 피로감을 주소로 내원하였다. 검사 결과 AST 72 U/L, ALT 85 U/L, 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 2.9 mg/dL가 확인되었다. 환자는 최근 급격한 체중 감소와 복부 팽만을 경험하였다. 초음파 검사에서 간경변 소견이 확인되었다. 가장 가능성 높은 진단은?",
+    "exam": {
+      "Lab": "AST 72 U/L, ALT 85 U/L, 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 2.9 mg/dL",
+      "Imaging": "초음파에서 간경변 소견 확인됨"
+    },
+    "options": {
+      "A": "길버트 증후군",
+      "B": "알코올성 간경변",
+      "C": "용혈성 빈혈",
+      "D": "급성 바이러스 간염",
+      "E": "원발성 담즙성 담관염"
+    },
+    "answer": "B",
+    "explanation": "간경변은 만성 간질환의 말기 단계로, 황달, 체중 감소, 복부 팽만이 특징적이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_32480",
+        "text": "알코올성 간경변은 만성 알코올 섭취로 인해 발생하며 황달과 간기능 저하를 초래할 수 있다."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question_id": "013",
+    "chief_complaint": "55세 여성이 황달과 소양감을 주소로 내원함.",
+    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 여성이 만성적인 가려움증과 황달을 주소로 내원하였다. 검사 결과 총 빌리루빈 8.5 mg/dL, ALP 890 U/L, GGT 750 U/L가 확인되었다. 항미토콘드리아항체(AMA) 양성이 확인되었다. 이 환자에서 추가적으로 시행해야 할 가장 적절한 검사는?",
+    "exam": {
+      "Lab": "총 빌리루빈 8.5 mg/dL, ALP 890 U/L, GGT 750 U/L",
+      "Serology": "AMA(+)"
+    },
+    "options": {
+      "A": "간 조직검사",
+      "B": "복부 초음파",
+      "C": "ERCP",
+      "D": "소변 빌리루빈 검사",
+      "E": "혈청 AFP 검사"
+    },
+    "answer": "A",
+    "explanation": "원발성 담즙성 담관염이 의심되며, 간 조직검사를 통해 확진할 수 있다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_32485",
+        "text": "원발성 담즙성 담관염(PBC)은 AMA 양성 소견과 함께 ALP 상승이 특징적이며, 확진을 위해 간 조직검사가 필요하다."
+      }
+    ],
+    "category": "Gastroenterology"
   },
   {
     "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
     "question_id": "014",
-    "chief_complaint": "심한 알코올중독력이 있는 55세 남성, 급성 황달",
+    "chief_complaint": "75세 남성이 황달과 혈압 저하로 응급실 방문.",
     "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "알코올성 간질환의 과거력이 있는 환자가 최근 몇 주간 과음 후 극심한 피로와 황달을 호소하며 내원했습니다. 간기능 검사에서 AST/ALT 비가 2 이상이고 빌리루빈도 상당히 높습니다. 이 급성 악화 상태에서의 초기 치료 중 가장 중요한 것은 무엇입니까?",
+    "question": "75세 남성이 급성 황달, 발열, 저혈압을 주소로 응급실을 방문하였다. 체온 39.0℃, 혈압 85/50 mmHg, 맥박 120회/분이다. 검사 결과 총 빌리루빈 11.2 mg/dL, ALP 950 U/L, GGT 820 U/L가 확인되었다. 복부 초음파에서 담관 확장이 확인되었다. 가장 적절한 초기 치료는?",
     "exam": {
-      "Lab": "AST 200 IU/L, ALT 90 IU/L (AST/ALT≈2.2), 총빌리루빈 7.0 mg/dL, PT 연장"
+      "Vital Signs": "체온 39.0℃, 혈압 85/50 mmHg, 맥박 120회/분",
+      "Lab": "총 빌리루빈 11.2 mg/dL, ALP 950 U/L, GGT 820 U/L",
+      "Imaging": "복부 초음파에서 담관 확장 확인됨"
     },
     "options": {
-      "A": "Plasma exchange",
-      "B": "Glucocorticoid(스테로이드) 치료",
-      "C": "광선치료",
-      "D": "ERCP를 통한 담관 배액",
-      "E": "수술적 간 이식 즉시 고려"
+      "A": "수액 및 광범위 항생제 투여",
+      "B": "간생검 시행",
+      "C": "간 이식 준비",
+      "D": "경과 관찰",
+      "E": "경구 담즙산제 투여"
     },
-    "answer": "B",
-    "explanation": "심한 알코올성 간염으로 인한 급성 황달 시, 스테로이드 치료가 단기적인 사망률 감소에 도움이 될 수 있다. 단, 적응증(중증도 지표)을 정확히 평가해야 한다.",
+    "answer": "A",
+    "explanation": "급성 담관염으로 인한 패혈성 쇼크가 의심되며, 즉각적인 수액 치료 및 광범위 항생제 투여가 필요하다.",
     "source": [
       {
-        "source_id": "First_Aid_Step2_339",
-        "text": "An AST/ALT ratio >2 suggests alcoholic hepatitis. In severe cases, steroid therapy may reduce short-term mortality."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "015",
-    "chief_complaint": "3주 된 신생아, 짙은 황달과 회백색 변",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "생후 3주가 지났는데도 황달이 계속되고, 대변 색이 회백색이며 소변은 짙은 색을 보입니다. 검사상 직접 빌리루빈이 높게 측정되고, 알칼리인산분해효소(ALP)도 상승되어 있습니다. 이 아기에게서 가장 긴급하게 고려해야 할 치료적 조치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 10 mg/dL(직접 6 mg/dL), ALP 상승, GGT 상승",
-      "ClinicalNote": "회백색 변, 진한 소변"
-    },
-    "options": {
-      "A": "광선치료",
-      "B": "교환수혈",
-      "C": "조기 담도 확인 및 수술(카사이 수술) 평가",
-      "D": "스테로이드 고용량 투여",
-      "E": "간생검 후 경과관찰"
-    },
-    "answer": "C",
-    "explanation": "생후 2~3주가 지나도 지속되는 직접 빌리루빈 상승과 회백색 변은 담도폐쇄(신생아 담도폐쇄)를 강력히 시사하며, 카사이 수술 등 조기 수술적 처치가 예후 개선에 중요하다.",
-    "source": [
-      {
-        "source_id": "Pediatrics_Nelson_1411",
-        "text": "The presence of dark urine and gray-white stools with jaundice after the second week of life strongly suggests biliary atresia."
-      }
-    ],
-    "category": "Pediatrics"
-  },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "016",
-    "chief_complaint": "40세 남성, 용혈성 빈혈에 의한 만성 황달로 추정",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "만성 용혈성 빈혈에 따른 간접 빌리루빈 상승이 지속되어 황달이 나타나는 환자입니다. 최근 우상복부 통증을 호소하고 초음파에서 담낭 결석(색소담석)이 발견되었습니다. 적절한 치료 계획 중 가장 우선 고려해야 할 것은 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 3.0 mg/dL(간접 2.5), 용혈 지표 상승, 담낭 내 담석"
-    },
-    "options": {
-      "A": "스테로이드 투여",
-      "B": "담낭 절제술",
-      "C": "교환수혈",
-      "D": "면역억제제 투여",
-      "E": "간 이식"
-    },
-    "answer": "B",
-    "explanation": "만성 용혈성 빈혈 환자에서 색소담석으로 인한 담낭 결석이 생겼을 경우, 통증 및 합병증 예방을 위해 담낭 절제술이 치료 계획에서 우선 고려된다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3242",
-        "text": "In evaluating jaundice in patients with chronic hemolysis, it is important to remember the high incidence of pigmented gallstones."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "017",
-    "chief_complaint": "45세 여성, 자가면역성 간염으로 인한 만성 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "자가면역성 간염으로 진단받은 후 만성적으로 황달이 지속되고 있습니다. 간 효소 수치도 꾸준히 상승되어 있으며, 조직 소견상 간세포 염증이 뚜렷합니다. 이에 대한 합병증 예방과 진행 억제를 위한 치료 계획으로 가장 적절한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "AST/ALT 꾸준히 상승, γ-글로불린 증가, ANA 양성",
-      "ClinicalNote": "만성 피로와 황달 지속"
-    },
-    "options": {
-      "A": "단독 광선치료로 빌리루빈 조절",
-      "B": "스테로이드 및 면역억제제(아자티오프린 등) 병용 요법",
-      "C": "담관 내시경 시술(ERCP) 통한 스텐트 삽입",
-      "D": "즉각적인 간 이식 수술",
-      "E": "정맥용 감마글로불린 투여"
-    },
-    "answer": "B",
-    "explanation": "자가면역성 간염의 관리에서는 스테로이드와 면역억제제(예: 아자티오프린) 병용 요법이 표준 치료이며, 황달 및 간기능 악화의 진행을 억제한다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "If autoimmune hepatitis is suspected, treatment with steroids and immunosuppressants can help prevent progression."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "018",
-    "chief_complaint": "62세 남성, 췌두부암으로 인한 폐쇄성 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "췌장 두부암으로 인해 담관이 막혀 황달이 발생한 상태입니다. 현재 총빌리루빈 15 mg/dL로 고빌리루빈혈증이 심하고, 소양감과 식욕 부진이 동반됩니다. 이 환자의 치료 계획 중 우선적으로 고려해야 할 조치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 15 mg/dL (주로 직접), ALP 큰 폭 상승",
-      "Imaging": "CT에서 췌두부 종양으로 담관이 압박됨"
-    },
-    "options": {
-      "A": "췌장 절제술을 위한 개복 수술 즉시 진행",
-      "B": "경피적 간생검으로 확진 후 대기",
-      "C": "내시경적 또는 경피적 담도 배액술로 빌리루빈 수치 조절",
-      "D": "광선치료로 황달 해소",
-      "E": "스테로이드 고용량 투여"
-    },
-    "answer": "C",
-    "explanation": "췌두부암으로 인한 폐쇄성 황달에서 담도 배액술(내시경적 혹은 경피적)을 통해 우선 빌리루빈 수치를 낮춰 합병증을 줄이고, 이후 종양에 대한 수술 혹은 보조치료를 계획한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "In malignant obstructive jaundice, biliary drainage can relieve pruritus and improve hepatic function before definitive treatment."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "019",
-    "chief_complaint": "28세 남성, 길버트증후군 진단 후 경미한 황달 반복",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "길버트증후군으로 인해 스트레스나 단식 시 경미한 황달을 반복적으로 경험하는 환자입니다. 간기능은 정상이고, 다른 합병증은 없습니다. 이 환자의 장기적인 치료 및 관리 계획으로 가장 적절한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "간기능 검사 정상, 간접빌리루빈 약간 상승 (1.5~2.0 mg/dL)",
-      "ClinicalNote": "스트레스 시 황달 악화"
-    },
-    "options": {
-      "A": "정기적 교환수혈",
-      "B": "스테로이드 저용량 유지",
-      "C": "간이식 고려",
-      "D": "생활습관 조절 위주로 경과 관찰",
-      "E": "광선치료 주 1회 시행"
-    },
-    "answer": "D",
-    "explanation": "길버트증후군은 예후가 양호하고 간접 빌리루빈이 경도 상승하는 것 외에 큰 합병증이 없어, 특별한 치료 없이 생활습관 조절(금식·과로 회피)로도 충분히 관리 가능하다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8938",
-        "text": "Gilbert’s syndrome is benign. Typically, the disease results in transient mild increases in unconjugated bilirubin levels and usually does not require further treatment."
-      }
-    ],
-    "category": "Gastroenterology"
-  },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "020",
-    "chief_complaint": "65세 남성, 간경변증과 문맥고혈압에 동반된 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "만성 간염이 오래 진행되어 간경변증과 황달이 발생했습니다. 복수와 식도정맥류도 함께 나타났습니다. 이 환자에서 황달과 합병증(복수, 정맥류 출혈 위험)을 동시에 완화할 수 있는 치료 전략 중 우선 고려할 항목은 무엇입니까?",
-    "exam": {
-      "Lab": "빌리루빈 4.5 mg/dL, 알부민 감소, PT 연장",
-      "ClinicalNote": "복수, 식도정맥류 동반"
-    },
-    "options": {
-      "A": "광선치료로 빌리루빈 제거",
-      "B": "비장 적출술",
-      "C": "간이식 평가 및 이뇨제, 베타차단제 병용",
-      "D": "단백질 섭취 전면 금지",
-      "E": "고용량 스테로이드 투여"
-    },
-    "answer": "C",
-    "explanation": "간경변으로 인한 문맥고혈압과 황달이 함께 있는 경우, 궁극적으로 간이식 여부를 평가해야 하며, 단기적으로는 이뇨제를 이용해 복수를 조절하고, 베타차단제로 식도정맥류 출혈 위험을 낮춘다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Chronic liver disease with cirrhosis and portal hypertension may require diuretics for ascites, beta-blockers for varices, and ultimately evaluation for liver transplantation."
+        "source_id": "InternalMed_Harrison_32490",
+        "text": "담관염이 의심되는 경우 초기 치료로 수액 보충 및 광범위 항생제 치료가 필수적이다."
       }
     ],
     "category": "Gastroenterology"
