@@ -1,1 +1,727 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "68세 남성이 6시간 전부터 갑작스럽게 호흡곤란과 가슴 답답함을 호소하며 내원하였다. 동맥혈가스 검사 결과 pH 7.28, PaO2 55 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L가 측정되었고, 흉부 CT에서는 양측 폐의 확산된 침윤과 미세 섬유화 소견이 관찰되었다. 이 환자에게 가장 적합한 기계 환기 전략은 무엇인가?",
+    "exam": "ABG: pH 7.28, PaO2 55 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L; CT: 양측 폐 확산 침윤, 미세 섬유화; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "일회호흡량 10 mL/kg 적용",
+      "B": "저일회호흡량 환기(6 mL/kg 예측체중 미만) 적용",
+      "C": "고일회호흡량 환기 적용",
+      "D": "PEEP 미적용 환기",
+      "E": "복와위 자세 환기"
+    },
+    "answer": "B",
+    "explanation": "급성 호흡곤란증후군(ARDS) 환자에서는 저일회호흡량 환기를 적용하여 폐 손상을 최소화하고 사망률을 낮추는 것이 권장된다.",
+    "source": "ARDS 진료지침(2016).pdf p.2",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "72세 남성이 3일 전부터 기침과 호흡곤란이 악화되어 내원하였다. 과거 COPD 진단 이력이 있으며, 현재 산소포화도는 88%, ABG에서 pH 7.35, PaCO2 50 mmHg, PaO2 55 mmHg가 측정되었다. 폐활량검사에서는 FEV1 35% 예측치로 나타났다. 이 환자에게 가장 적절한 초기 치료 전략은 무엇인가?",
+    "exam": "산소포화도: 88%; ABG: pH 7.35, PaCO2 50 mmHg, PaO2 55 mmHg; 폐활량검사: FEV1 35% 예측치; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "저용량 흡입 베타2 작용제 단독",
+      "B": "흡입 코르티코스테로이드와 장기 작용 베타2 작용제 병용",
+      "C": "경구 스테로이드 단독 치료",
+      "D": "산소요법과 단독 항생제 치료",
+      "E": "비침습적 양압 환기 적용"
+    },
+    "answer": "B",
+    "explanation": "급성 악화된 COPD 환자에서는 흡입 스테로이드와 LABA 병용 요법을 통해 증상 조절과 염증 억제가 필요하다.",
+    "source": "COPD 진료지침(2024).pdf p.12",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 3,
+    "chief_complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "64세 여성이 8개월 전부터 점진적으로 악화되는 호흡곤란과 지속적인 건조 기침을 호소하며 내원하였다. 고해상도 CT에서는 양측 폐 하부에 미세한 honeycombing과 traction bronchiectasis 소견이 나타났으며, 폐활량검사에서 FVC 65% 예측치, DLCO 40% 예측치로 확인되었다. 이 환자에게 가장 적합한 치료 옵션은 무엇인가?",
+    "exam": "CT: 양측 폐 하부 honeycombing, traction bronchiectasis; 폐활량검사: FVC 65% 예측치, DLCO 40% 예측치; ABG: 정상; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "고용량 경구 스테로이드",
+      "B": "항섬유화제 투여",
+      "C": "보존적 치료 및 산소요법",
+      "D": "내시경적 폐 생검 후 수술적 치료",
+      "E": "면역억제제 병용 요법"
+    },
+    "answer": "B",
+    "explanation": "특발성 폐섬유증의 경우 항섬유화제 투여가 폐기능 저하를 지연시키는 효과가 있어 권장된다.",
+    "source": "ILD 진료지침(2023).pdf p.61",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "38세 남성이 2개월간 지속된 기침과 야간 발한, 체중 감소를 호소하며 내원하였다. 흉부 X선에서 우측 상부 폐에 소규모 공동(cavitary lesion)이 관찰되었고, 객담 검사에서 Mycobacterium tuberculosis가 양성으로 확인되었다. 이 환자의 결핵 치료에 가장 적합한 초기 항결핵 요법은 무엇인가?",
+    "exam": "흉부 X선: 우측 상부 소규모 공동; 객담 검사: M. tuberculosis 양성; 혈액검사: ESR 70 mm/hr; EKG: 미상",
+    "options": {
+      "A": "리팜핀, 이소니아지드, 피라진아미드, 에탐부톨 4제 요법",
+      "B": "리팜핀, 이소니아지드, 에탐부톨 3제 요법",
+      "C": "리팜핀, 이소니아지드 단독 요법",
+      "D": "리팜핀, 에탐부톨 단독 요법",
+      "E": "클린다마이신 추가 요법"
+    },
+    "answer": "A",
+    "explanation": "결핵의 초기 치료는 4제 요법(리팜핀, 이소니아지드, 피라진아미드, 에탐부톨)이 표준이며, 이는 항결핵제 내성을 예방하는 데 중요하다.",
+    "source": "결핵진료지침.pdf p.7",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "12세 소년이 운동 후 천명, 기침 및 호흡곤란을 호소하며 내원하였다. 폐기능 검사에서 FEV1이 기도확장 후 15% 이상 개선되었고, 피크 유출률이 65%로 측정되었다. 이 환자에게 가장 적합한 초기 관리 전략은 무엇인가?",
+    "exam": "폐기능 검사: FEV1 기도확장 후 15% 개선, 피크 유출률 65%; 체온: 36.5℃; 혈압: 110/70 mmHg; EKG: 정상",
+    "options": {
+      "A": "단기 경구 스테로이드",
+      "B": "흡입 베타2 작용제 단독 사용",
+      "C": "흡입 코르티코스테로이드와 장기 작용 베타2 작용제 병용",
+      "D": "장기 작용 항콜린제 사용",
+      "E": "면역억제제 치료"
+    },
+    "answer": "C",
+    "explanation": "천식 환자에서는 증상 조절과 기도 염증 억제를 위해 흡입 코르티코스테로이드와 LABA 병용 요법이 권장된다.",
+    "source": "천식 진료지침(2022).pdf p.4",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "54. 실신(syncope)",
+    "purpose": "실신을 경험한 사람에게서 원인을 알아낼 수 있다.",
+    "question": "60세 여성이 3개월 전부터 운동 시 호흡곤란과 실신을 경험하며 내원하였다. 심초음파 검사에서 폐동맥 평균 압력이 45 mmHg로 측정되었고, 6분 보행검사에서 6분 보행 거리가 280m로 나타났다. 이 환자에게 가장 적합한 약물 치료 옵션은 무엇인가?",
+    "exam": "심초음파: 폐동맥 평균 압력 45 mmHg; 6분 보행검사: 280m; ABG: pH 7.40, PaO2 70 mmHg; EKG: 정상이상",
+    "options": {
+      "A": "PDE5 억제제 (예: 시알리스)",
+      "B": "엔데텔린 (Endothelin receptor antagonist)",
+      "C": "프로스테로롤 (베타 차단제)",
+      "D": "칼슘통로차단제",
+      "E": "경구 스테로이드"
+    },
+    "answer": "A",
+    "explanation": "폐고혈압 환자에서 PDE5 억제제는 폐동맥 압력을 감소시키고 운동능력을 개선하는 데 효과적이다.",
+    "source": "폐고혈압 진료지침(2020).pdf p.10",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },  
+  {
+    "question_id": 7,
+    "chief_complaint": "26. 발열/불명열(fever)",
+    "purpose": "열이 나는 사람에게서 원인과 중증도를 알아낼 수 있다.",
+    "question": "58세 남성이 고열(39.0℃), 기침, 가래, 호흡곤란을 호소하며 내원하였다. 흉부 X선에서 오른쪽 상부 폐에 침윤과 소규모 공동이 관찰되었고, 혈액검사에서 백혈구 수 15,000/mm³, CRP 30 mg/L가 측정되었다. 이 환자의 폐렴 치료에 가장 적합한 항생제 요법은 무엇인가?",
+    "exam": "체온: 39.0℃; X선: 오른쪽 상부 폐 침윤 및 소규모 공동; 혈액: 백혈구 15,000/mm³, CRP 30 mg/L; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "마크로라이드 계열 단독 치료",
+      "B": "베타락탐+마크로라이드 병용 요법",
+      "C": "플루오로퀴놀론 단독 치료",
+      "D": "테트라사이클린 단독 치료",
+      "E": "항바이러스제 치료"
+    },
+    "answer": "B",
+    "explanation": "성인 지역사회획득 폐렴의 경우, 마크로라이드와 베타락탐 병용 요법이 표준 치료로 권장된다.",
+    "source": "지역사회폐렴 진료지침.pdf p.9",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 8,
+    "chief_complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "62세 남성이 심근경색 후 발생한 ARDS로 기계 환기를 받고 있다. 환자는 현재 일회호흡량 6 mL/kg 예측체중, PEEP 12 cmH2O, FiO2 0.8로 설정되어 있으며, ABG는 pH 7.32, PaO2 60 mmHg, PaCO2 42 mmHg로 나타난다. 이 환자에게 적용된 환기 전략의 주요 목적은 무엇인가?",
+    "exam": "환기 설정: 일회호흡량 6 mL/kg, PEEP 12 cmH2O, FiO2 0.8; ABG: pH 7.32, PaO2 60 mmHg, PaCO2 42 mmHg; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "폐포 과팽창 유도",
+      "B": "폐 손상 최소화",
+      "C": "고용량 산소 공급",
+      "D": "심박수 감소",
+      "E": "전신 혈압 증가"
+    },
+    "answer": "B",
+    "explanation": "저일회호흡량 환기는 ARDS 환자에서 폐 손상을 최소화하여 사망률을 낮추는 전략이다.",
+    "source": "ARDS 진료지침(2016).pdf p.2",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "68세 남성이 만성 기침과 지속적 호흡곤란을 호소하며 내원하였다. 폐기능 검사에서 FEV1은 40% 예측치, FVC는 65% 예측치로 나타났으며, ABG는 pH 7.38, PaCO2 48 mmHg, PaO2 58 mmHg로 확인되었다. 이 환자에게 적절한 장기 관리 요법은 무엇인가?",
+    "exam": "폐기능 검사: FEV1 40%, FVC 65%; ABG: pH 7.38, PaCO2 48 mmHg, PaO2 58 mmHg; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "단기 경구 스테로이드",
+      "B": "흡입 베타2 작용제 단독",
+      "C": "흡입 항콜린제 단독",
+      "D": "흡입 베타2 작용제와 항콜린제 병용",
+      "E": "경구 항생제 단독"
+    },
+    "answer": "D",
+    "explanation": "COPD 환자의 장기 관리에서는 흡입 베타2 작용제와 항콜린제 병용 요법이 효과적이다.",
+    "source": "COPD 진료지침(2024).pdf p.10",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 10,
+    "chief complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "59세 여성이 1년 전부터 지속되는 호흡곤란과 건조 기침을 호소한다. 고해상도 CT 검사에서 양측 폐 하부에 미세한 ground-glass opacity와 reticular pattern이 관찰되었고, 폐활량 검사에서 FVC 70% 예측치, DLCO 45% 예측치로 나타났다. 이 환자에게 가장 적합한 치료 전략은 무엇인가?",
+    "exam": "CT: 양측 폐 하부 ground-glass opacity, reticular pattern; 폐활량: FVC 70%, DLCO 45%; ABG: pH 7.40, PaO2 65 mmHg; EKG: 정상 동성 리듬",
+    "options": {
+        "A": "고용량 경구 스테로이드",
+        "B": "항섬유화제 투여",
+        "C": "보존적 치료 및 산소요법",
+        "D": "면역억제제 병용 요법",
+        "E": "수술적 폐 절제술"
+    },
+    "answer": "B",
+    "explanation": "특발성 폐섬유증 및 기타 간질성폐질환에서는 항섬유화제 투여가 폐기능 저하를 늦추는 효과가 있어 권장된다.",
+    "source": "ILD 진료지침(2023).pdf p.61: \"특발성폐섬유증의 치료는 항섬유화제 사용이 권장된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 11,
+    "chief complaint": "80. 체중감소/식욕부진(weight loss/anorexia)",
+    "purpose": "체중감소가 있는 사람에게서 원인, 심한 정도, 합병증 등을 알아낼 수 있다.",
+    "question": "42세 남성이 3개월간 지속된 기침, 야간 발한, 체중 감소 5kg을 호소하며 내원하였다. 흉부 CT에서는 좌측 상부 폐에 공동 및 결절이 관찰되었고, 객담 검사에서 M. tuberculosis가 검출되었다. 이 환자에 적합한 결핵 치료 초기 요법은 무엇인가?",
+    "exam": "CT: 좌측 상부 폐 공동 및 결절; 객담 검사: M. tuberculosis 양성; 혈액검사: ESR 80 mm/hr; EKG: 미상",
+    "options": {
+        "A": "리팜핀, 이소니아지드, 피라진아미드, 에탐부톨 4제 요법",
+        "B": "리팜핀, 이소니아지드, 에탐부톨 3제 요법",
+        "C": "리팜핀, 이소니아지드 단독 요법",
+        "D": "클린다마이신 추가 요법",
+        "E": "항바이러스제 요법"
+    },
+    "answer": "A",
+    "explanation": "결핵 초기 치료는 4제 요법이 표준이며, 이는 약제 내성을 방지하는 데 필수적이다.",
+    "source": "결핵진료지침.pdf p.1: \"결핵의 진단은 흉부영상, 검체 검사, 조직검사를 통해 확정된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 12,
+    "chief complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "10세 소년이 운동 후 30분 이내에 천명, 기침 및 호흡곤란을 경험하며 내원하였다. 폐기능 검사 전후로 FEV1이 각각 65%와 80% 예측치로 나타났고, 피크 유출률은 70%로 측정되었다. 이 환자에게 가장 적절한 치료 전략은 무엇인가?",
+    "exam": "폐기능 검사: FEV1 65% → 80% (기관지확장제 투여 후); 피크 유출률 70%; 체온: 36.6℃; EKG: 정상",
+    "options": {
+        "A": "단독 SABA 사용",
+        "B": "흡입 코르티코스테로이드 단독",
+        "C": "흡입 코르티코스테로이드와 LABA 병용",
+        "D": "경구 스테로이드 치료",
+        "E": "면역조절제 치료"
+    },
+    "answer": "C",
+    "explanation": "소아 천식 환자에서는 증상 조절과 기도 염증 억제를 위해 ICS와 LABA 병용 치료가 권장된다.",
+    "source": "천식 진료지침(2022).pdf p.4: \"천식은 가변적인 기도제한과 함께 천명, 호흡곤란, 가슴 답답함, 기침을 특징으로 한다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 13,
+    "chief complaint": "54. 실신(syncope)",
+    "purpose": "폐고혈압 환자에서 정확한 평가와 위험 분류를 통해 적절한 치료 결정을 내릴 수 있다.",
+    "question": "62세 여성이 운동 중 반복적으로 실신과 심한 호흡곤란을 경험하며 내원하였다. 심초음파 검사에서 추정 폐동맥 압력이 55 mmHg, 6분 보행검사 결과 6분 보행 거리가 280m로 측정되었다. 이 환자에게 가장 적절한 치료 옵션은 무엇인가?",
+    "exam": "심초음파: 추정 폐동맥 압력 55 mmHg; 6분 보행검사: 280m; ABG: pH 7.40, PaO2 62 mmHg; EKG: 정상",
+    "options": {
+        "A": "PDE5 억제제",
+        "B": "엔데텔린",
+        "C": "경구 스테로이드",
+        "D": "칼슘통로차단제",
+        "E": "항생제 치료"
+    },
+    "answer": "A",
+    "explanation": "폐고혈압 환자에서는 PDE5 억제제가 폐동맥 압력 감소와 운동능력 개선에 효과적이다.",
+    "source": "폐고혈압 진료지침(2020).pdf p.12: \"폐고혈압의 진단 및 치료는 심장 및 폐 기능 검사를 토대로 약물치료가 결정된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  } 
+  {
+    "question_id": 12,
+    "chief complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "10세 소년이 운동 후 30분 이내에 천명, 기침 및 호흡곤란을 경험하며 내원하였다. 폐기능 검사 전후로 FEV1이 각각 65%와 80% 예측치로 나타났고, 피크 유출률은 70%로 측정되었다. 이 환자에게 가장 적절한 치료 전략은 무엇인가?",
+    "exam": "폐기능 검사: FEV1 65% → 80% (기관지확장제 투여 후); 피크 유출률 70%; 체온: 36.6℃; EKG: 정상",
+    "options": {
+      "A": "단독 SABA 사용",
+      "B": "흡입 코르티코스테로이드 단독",
+      "C": "흡입 코르티코스테로이드와 LABA 병용",
+      "D": "경구 스테로이드 치료",
+      "E": "면역조절제 치료"
+    },
+    "answer": "C",
+    "explanation": "소아 천식 환자에서는 증상 조절과 기도 염증 억제를 위해 ICS와 LABA 병용 치료가 권장된다.",
+    "source": "천식 진료지침(2022).pdf p.4: \"천식은 가변적인 기도제한과 함께 천명, 호흡곤란, 가슴 답답함, 기침을 특징으로 한다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 13,
+    "chief complaint": "54. 실신(syncope)",
+    "purpose": "실신을 경험한 사람에게서 원인을 알아낼 수 있다.",
+    "question": "62세 여성이 운동 중 반복적으로 실신과 심한 호흡곤란을 경험하며 내원하였다. 심초음파 검사에서 추정 폐동맥 압력이 55 mmHg, 6분 보행검사 결과 6분 보행 거리가 280m로 측정되었다. 이 환자에게 가장 적절한 치료 옵션은 무엇인가?",
+    "exam": "심초음파: 추정 폐동맥 압력 55 mmHg; 6분 보행검사: 280m; ABG: pH 7.40, PaO2 62 mmHg; EKG: 정상",
+    "options": {
+      "A": "PDE5 억제제",
+      "B": "엔데텔린",
+      "C": "경구 스테로이드",
+      "D": "칼슘통로차단제",
+      "E": "항생제 치료"
+    },
+    "answer": "A",
+    "explanation": "폐고혈압 환자에서는 PDE5 억제제가 폐동맥 압력 감소와 운동능력 개선에 효과적이다.",
+    "source": "폐고혈압 진료지침(2020).pdf p.12: \"폐고혈압의 진단 및 치료는 심장 및 폐 기능 검사를 토대로 약물치료가 결정된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 14,
+    "chief complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "58세 여성이 고열(39.0℃), 심한 기침과 가래, 그리고 호흡곤란을 호소하며 내원하였다. 흉부 X선에서 오른쪽 하부 폐에 광범위한 침윤이 관찰되었고, 혈액검사에서 백혈구 18,000/mm³, CRP 35 mg/L가 측정되었다. 이 환자에게 가장 적합한 항생제 요법은 무엇인가?",
+    "exam": "체온: 39.0℃; X선: 오른쪽 하부 광범위 침윤; 혈액: 백혈구 18,000/mm³, CRP 35 mg/L; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "마크로라이드 단독",
+      "B": "플루오로퀴놀론 단독",
+      "C": "베타락탐+마크로라이드 병용",
+      "D": "테트라사이클린 단독",
+      "E": "항바이러스제 치료"
+    },
+    "answer": "C",
+    "explanation": "지역사회획득 폐렴의 경우, 마크로라이드와 베타락탐 병용 요법이 효과적인 항생제 선택으로 권장된다.",
+    "source": "지역사회폐렴 진료지침.pdf p.20: \"성인 지역사회획득 폐렴의 치료는 원인균에 따라 항생제를 선택해야 한다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 15,
+    "chief complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.",
+    "question": "60세 남성이 중환자실에서 ARDS로 기계 환기를 받고 있다. 환자는 현재 supine 자세에서 FiO2 0.9, PEEP 14 cmH2O, 일회호흡량 6 mL/kg으로 환기 중이나, 산소포화도가 70%로 낮게 나타난다. 복와위 자세 전환 후 12시간 내에 산소포화도가 82%로 개선되었다. 이 환자에게 복와위 자세의 주요 효과는 무엇인가?",
+    "exam": "환기: FiO2 0.9, PEEP 14 cmH2O, 일회호흡량 6 mL/kg; ABG: supine 산소포화도 70%, prone 산소포화도 82%; EKG: 정상",
+    "options": {
+      "A": "폐포 과팽창 유도",
+      "B": "폐 손상 증가",
+      "C": "산소화 개선",
+      "D": "심박수 감소",
+      "E": "혈압 상승"
+    },
+    "answer": "C",
+    "explanation": "복와위 자세 전환은 폐의 후부를 효과적으로 확장시켜 산소화를 개선하는 것으로 알려져 있다.",
+    "source": "ARDS 진료지침(2016).pdf p.3: \"복와위(prone position)는 중등도 이상의 ARDS 환자에서 조기 적용 시 산소화 개선에 효과적이다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 16,
+    "chief complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "70세 남성이 기존 COPD 진단 이력과 함께 최근 5일간 기침, 가래 증가 및 호흡곤란이 악화되어 내원하였다. ABG 검사에서 pH 7.36, PaCO2 52 mmHg, PaO2 60 mmHg가 나타났고, 흉부 X선에서 과도한 과팽창과 기저부 폐렴 소견이 관찰되었다. 이 환자에게 가장 적절한 관리 전략은 무엇인가?",
+    "exam": "ABG: pH 7.36, PaCO2 52 mmHg, PaO2 60 mmHg; X선: 과팽창, 기저부 폐렴 소견; 혈액: 백혈구 14,000/mm³; EKG: 정상",
+    "options": {
+      "A": "단독 흡입 베타2 작용제",
+      "B": "흡입 항콜린제 단독",
+      "C": "흡입 베타2 작용제와 항콜린제 병용",
+      "D": "경구 스테로이드 단독",
+      "E": "비침습적 양압 환기"
+    },
+    "answer": "C",
+    "explanation": "COPD 급성 악화 시에는 흡입 베타2 작용제와 항콜린제의 병용 치료가 증상 개선에 효과적이다.",
+    "source": "COPD 진료지침(2024).pdf p.8: \"COPD 악화 시 증상 평가와 함께 기관지확장제 병합요법이 권장된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게 원인, 중증도, 합병증을 알아낼 수 있다.",
+    "question": "63세 여성이 1년간 진행된 간질성폐질환 진단 후 최근 2일간 급성 호흡곤란과 심한 건조 기침을 호소한다. ABG에서는 pH 7.30, PaO2 50 mmHg, PaCO2 44 mmHg가 측정되었으며, HRCT 검사에서는 이전에 관찰되지 않았던 광범위한 ground-glass opacities가 새롭게 나타났다. 이 환자의 급성 악화의 원인 및 치료 전략은 무엇인가?",
+    "exam": "ABG: pH 7.30, PaO2 50 mmHg, PaCO2 44 mmHg; HRCT: 신규 광범위 ground-glass opacities; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "급성 감염에 의한 악화",
+      "B": "급성 폐색전증",
+      "C": "급성 스트레스성 반응",
+      "D": "급성 염증 악화에 의한 급성 간질성폐질환 악화",
+      "E": "심부전 악화"
+    },
+    "answer": "D",
+    "explanation": "기존 간질성폐질환 환자에서 HRCT 상 ground-glass opacities의 급증은 염증 악화에 의한 급성 악화를 시사하며, 고용량 스테로이드 치료가 고려된다.",
+    "source": "ILD 진료지침(2023).pdf p.86: \"급성 악화 시에는 고용량 경구 또는 정맥 스테로이드 치료가 고려된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 18,
+    "chief complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
+    "question": "45세 남성이 4개월간 지속된 기침, 체중 감소 6kg 및 야간 발한을 호소하며 내원하였다. 흉부 CT에서는 다수의 소규모 공동이 관찰되었고, 객담 배양 검사에서 다제내성 결핵균(MDR-TB)이 확인되었다. 이 환자에게 가장 적절한 치료 전략은 무엇인가?",
+    "exam": "CT: 소규모 공동 다수 관찰; 객담 배양: MDR-TB 양성; 혈액검사: ESR 90 mm/hr; EKG: 미상",
+    "options": {
+      "A": "표준 4제 항결핵 요법",
+      "B": "2제 내성 항결핵 요법",
+      "C": "다제내성 결핵 치료 요법",
+      "D": "항결핵제 없이 보존적 치료",
+      "E": "클린다마이신 추가 요법"
+    },
+    "answer": "C",
+    "explanation": "MDR-TB 환자의 경우 표준 요법이 효과적이지 않으므로, 다제내성 결핵 치료 요법이 필요하다.",
+    "source": "결핵진료지침.pdf p.92: \"다제내성결핵의 치료에는 표준 항결핵제 요법과는 다른 치료 전략이 필요하다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  },
+  {
+    "question_id": 19,
+    "chief complaint": "13. 기침(cough)",
+    "purpose": "기침을 하는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "8세 소년이 운동 중 천명과 기침을 호소하며 내원하였다. 폐기능 검사에서 FEV1이 기도확장 후 20% 개선되었으며, 피크 유출률은 60%로 나타났다. 이 환자에게 가장 적합한 초기 천식 관리 방안은 무엇인가?",
+    "exam": "폐기능 검사: FEV1 기도확장 후 20% 개선, 피크 유출률 60%; 체온: 36.5℃; EKG: 정상",
+    "options": {
+      "A": "단독 SABA 사용",
+      "B": "흡입 코르티코스테로이드 단독",
+      "C": "ICS와 LABA 병용",
+      "D": "경구 스테로이드 사용",
+      "E": "흡입 항콜린제 사용"
+    },
+    "answer": "C",
+    "explanation": "어린이 천식 환자에서는 증상 조절과 기도 염증 억제를 위해 ICS와 LABA 병용 치료가 권장된다.",
+    "source": "천식 진료지침(2022).pdf p.4: \"천식은 가변적인 기도제한과 함께 천명, 호흡곤란, 가슴 답답함, 기침을 특징으로 한다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 20,
+    "chief complaint": "95. 호흡곤란(dyspnea)",
+    "purpose": "호흡곤란을 호소하는 사람에게 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.",
+    "question": "68세 남성이 만성 COPD 이력과 함께 최근 3개월간 운동 시 심한 호흡곤란과 어지럼, 때때로 실신을 경험하며 내원하였다. 심초음파 검사에서 추정 폐동맥 압력이 55 mmHg로 측정되었고, 6분 보행검사 결과 6분 보행 거리가 300m로 나타났다. 이 환자에게 가장 적합한 치료 옵션은 무엇인가?",
+    "exam": "심초음파: 추정 폐동맥 압력 55 mmHg; 6분 보행검사: 300m; ABG: pH 7.38, PaO2 64 mmHg, PaCO2 47 mmHg; EKG: 정상",
+    "options": {
+       "A": "PDE5 억제제",
+        "B": "엔데텔린",
+        "C": "칼슘통로차단제",
+        "D": "경구 스테로이드",
+        "E": "내시경적 치료"
+    },
+    "answer": "A",
+    "explanation": "폐고혈압은 COPD 환자에서 자주 동반되며, PDE5 억제제는 폐동맥 압력을 감소시켜 증상을 개선하는 데 효과적이다.",
+    "source": "폐고혈압 진료지침(2020).pdf p.12: \"폐고혈압의 진단 및 치료는 심장 및 폐 기능 검사를 토대로 약물치료가 결정된다.\"",
+    "category": "Pulmonary (Respiratory Medicine)"
+  }
+  {
+    "question_id": 1,
+    "chief complaint": "10. 급성복통(acute abdominal pain)",
+    "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아낼 수 있다.",
+    "question": "70세 남성이 4시간 전부터 전복부에 극심하고 갑작스러운 복통과 등으로 방사되는 통증을 호소한다. 동맥혈가스 검사에서 pH 7.25, HCO3 18 mEq/L, 젖산 5.5 mmol/L가 측정되었고, CT 혈관 조영술에서는 다량의 자유 공기와 소장 내 공기-액체 수평면이 관찰되었다. 이 임상 소견에 기초할 때, 이 환자의 복통의 원인은 무엇인가?",
+    "exam": "혈압: 80/50 mmHg; 맥박: 120회/분; 체온: 38.7℃; ABG: pH 7.25, HCO3 18 mEq/L, 젖산 5.5 mmol/L; CT: 다량의 자유 공기, 소장 내 공기-액체 수평면; EKG: 불규칙 동성 리듬",
+    "options": {
+        "A": "급성 췌장염",
+        "B": "궤양 천공",
+        "C": "장간막 허혈(색전증)",
+        "D": "소장 폐쇄",
+        "E": "대장 폐쇄"
+    },
+    "answer": "B",
+    "explanation": "다량의 자유 공기와 심한 복부 경직, 반발통은 궤양 천공에 의한 복막 자극을 강하게 시사한다.",
+    "source": "소화기_전공의진료지침.pdf p.3: \"복통은 생명을 위협하는 긴급 상황에서 만성 기능 장애까지 다양한 질환에서 볼 수 있으며, 최근에 발생한 복통일수록 빠르고 세심한 진단 접근이 중요하며 통증의 정도로 질환의 경중을 따지거나 지나치게 검사결과에만 의존해서는 안 된다.\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "10. 급성복통(acute abdominal pain)",
+    "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아낼 수 있다.",
+    "question": "58세 여성이 과거 복부 수술 이력이 있는 상태에서 6시간 전부터 하복부의 국소적 통증과 간헐적 구토를 호소한다. 체온은 38.0℃, 혈압은 100/65 mmHg, 맥박은 105회/분이다. 단순 복부 X선에서 다수의 공기-액체 수평면이 관찰되었으며, 혈액검사에서 백혈구 수 12,000/mm³와 CRP 4.5 mg/dL가 측정되었다. 이 경우 가장 의심되는 원인은 무엇인가?",
+    "exam": "체온: 38.0℃; 혈압: 100/65 mmHg; 맥박: 105회/분; X선: 다수의 공기-액체 수평면; 혈액: 백혈구 12,000/mm³, CRP 4.5 mg/dL; EKG: 정상 동성 리듬",
+    "options": {
+        "A": "급성 충수염",
+        "B": "수술 후 장폐쇄 (adhesive small bowel obstruction)",
+        "C": "급성 췌장염",
+        "D": "대장 폐쇄",
+        "E": "장관 감염"
+    },
+    "answer": "B",
+    "explanation": "과거 복부 수술 이력과 X선에서 나타난 공기-액체 수평면 소견은 수술 후 유착에 의한 소장 폐쇄(adhesive SBO)를 강하게 시사한다.",
+    "source": "소화기_전공의진료지침.pdf p.3: \"Hollow viscera의 기계적 폐쇄: 소장 혹은 대장 폐쇄\"",
+    "category": "Gastroenterology"
+  } 
+  {
+    "question_id": 3,
+    "chief complaint": "9. 구역/구토(nausea/vomiting)",
+    "purpose": "구역/구토를 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+    "question": "47세 남성이 과도한 음주 후 24시간 내에 심한 구역과 구토를 호소한다. 혈액검사에서 amylase 550 U/L, lipase 800 U/L, K+ 3.8 mEq/L, Na+ 138 mEq/L가 측정되었고, 복부 초음파에서 췌장 부종과 주변 지방의 에코 증가가 관찰되었다. 이 환자의 구역/구토의 원인은 무엇인가?",
+    "exam": "혈액검사: amylase 550 U/L, lipase 800 U/L, K+ 3.8 mEq/L, Na+ 138 mEq/L; 복부 초음파: 췌장 부종, 주변 지방 에코 증가; 체온: 38.1℃; 혈압: 100/60 mmHg; 맥박: 110회/분; EKG: 정상 동성 리듬",
+    "options": {
+        "A": "급성 위장염",
+        "B": "급성 췌장염",
+        "C": "약물 부작용",
+        "D": "내분비 이상",
+        "E": "독물에 의한 구토"
+      },
+      "answer": "B",
+      "explanation": "췌장 효소 상승과 초음파상의 췌장 부종 소견은 급성 췌장염을 강하게 시사한다.",
+      "source": "소화기_전공의진료지침.pdf p.7: \"구토 후 증상 지속 : 췌장염, 담낭염\"",
+      "category": "Gastroenterology"
+    },
+    {
+      "question_id": 4,
+      "chief complaint": "43. 설사(diarrhea)",
+      "purpose": "설사를 하는 사람에게서 원인질환을 진단할 수 있다.",
+      "question": "32세 남성이 해외여행 후 48시간 내에 시작된 수양성 설사, 복통, 발열을 호소한다. 체온은 38.3℃, 혈압은 105/65 mmHg, 맥박은 100회/분이다. 혈액검사에서 백혈구 수 13,000/mm³, CRP 28 mg/L가 측정되었고, 대변검사에서 osmolality가 410 mOsm/kg으로 나타났다. 이 환자의 설사의 원인은 무엇인가?",
+      "exam": "체온: 38.3℃; 혈압: 105/65 mmHg; 맥박: 100회/분; 혈액: 백혈구 13,000/mm³, CRP 28 mg/L; 대변검사: osmolality 410 mOsm/kg; EKG: 정상 동성 리듬",
+      "options": {
+      "A": "약제 유발 설사",
+      "B": "감염성 설사",
+      "C": "염증성 장질환",
+      "D": "삼투성 설사",
+      "E": "기능성 설사"
+      },
+      "answer": "B",
+      "explanation": "여행력과 급성 증상, 백혈구 상승 및 대변 osmolality 수치는 감염성 설사를 강하게 시사한다.",
+      "source": "소화기_전공의진료지침.pdf p.8: \"급성 설사인 경우에는 90% 이상이 병원성 생물체에 의한 감염성 설사이다.\"",
+      "category": "Gastroenterology"
+   }
+  {
+  "question_id": 5,
+    "chief complaint": "19. 만성복통/소화불량/속쓰림 (chronic abdominal pain/dyspepsia/heartburn)",
+    "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+    "question": "55세 남성이 6개월 전부터 식사 후 상복부에 지속되는 작열감과 포만감을 호소한다. 내시경 검사에서 경미한 위염 소견이 관찰되었으며, 복부 초음파와 혈액검사에서는 기질적 이상이 없었다. 이 환자의 소화불량 증상에 가장 부합하는 진단은 무엇인가?",
+    "exam": "내시경: 경미한 위염 소견; 복부 초음파: 정상; 혈액검사: 이상 없음; EKG: 정상 동성 리듬; 체온: 37.2℃; 혈압: 120/80 mmHg; 맥박: 78회/분",
+    "options": {
+      "A": "기능성 소화불량",
+      "B": "소화성 궤양",
+      "C": "위식도 역류질환",
+      "D": "담즙 역류",
+      "E": "위암"
+    },
+    "answer": "A",
+    "explanation": "기질적 이상 없이 상복부 작열감과 포만감은 기능성 소화불량에 부합한다.",
+    "source": "소화기_전공의진료지침.pdf p.11: \"소화불량은 다양한 원인에 의한 상부 소화관 장애를 지칭하는 용어로서 상복부를 중심으로 하는 통증, 쓰림(burning), 식후 충만감(postprandial fullness), 조기포만감(early satiety, satiation) 등의 증상을 말한다.\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "30. 변비 (constipation)",
+    "purpose": "변비를 호소하는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+    "question": "40세 여성이 2개월간 주 2회 이하의 배변과 매우 단단한 변을 보이며, '1주일에 한 번만 변을 봐요'라고 호소한다. 단순 복부 X선에서 대변 축적 소견이 관찰되었고, 대장 이동 시간 검사에서 평균 90시간이 측정되었다. 이 환자의 변비는 무엇으로 진단되는가?",
+    "exam": "배변 횟수: 주 2회 이하; 복부 X선: 대변 축적 소견; 대장 이동 시간: 평균 90시간; 체온: 36.8℃; 혈압: 115/75 mmHg; EKG: 정상",
+    "options": {
+      "A": "기능성 변비",
+      "B": "약물 유발 변비",
+      "C": "대장 폐쇄",
+      "D": "신경인성 변비",
+      "E": "대장염"
+    },
+    "answer": "A",
+    "explanation": "배변 횟수가 주 3회 미만이고, 대장 이동 시간이 연장되어 있으면 기능성 변비로 진단된다.",
+    "source": "만성기능성변비.pdf p.92: \"만성 변비는 다양한 기전에 의하여 발생하는 흔한 소화기 기능성 질환 중 하나이다.\"",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 7,
+    "chief complaint": "2. 가슴통증/가슴불쾌감 (chest pain/chest discomfort/tightness)",
+    "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 원인질환과 중증도를 알아낼 수 있다.",
+    "question": "45세 여성이 6개월간 지속된 식후 가슴 작열감과 불쾌감을 호소하며 내원하였다. pH 모니터링 검사 결과, DeMeester score가 45, 총 산성 노출 시간이 10%로 측정되었고, 내시경 검사에서 미란성 식도염 소견이 관찰되었다. 이 환자의 진단은 무엇인가?",
+    "exam": "pH 모니터링: DeMeester score 45, 산성 노출 시간 10%; 내시경: 미란성 식도염; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "LA Grade A 미란성 식도염",
+      "B": "LA Grade B 미란성 식도염",
+      "C": "NERD",
+      "D": "Erosive esophagitis",
+      "E": "바렛 식도"
+    },
+    "answer": "A",
+    "explanation": "DeMeester score와 산성 노출 시간이 미란성 식도염 범위에 해당하며, 단일 결손 소견은 LA Grade A로 분류된다.",
+    "source": "jnm-27-4-453.pdf: \"2020 Seoul Consensus on the Diagnosis and Management of Gastroesophageal Reflux Disease\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "97. 황달 (jaundice)",
+    "purpose": "황달이 있는 사람에게서 황달의 원인을 감별진단할 수 있다.",
+    "question": "45세 여성이 피로, 황달, 우상복부 통증을 호소하며 내원하였다. 혈액검사에서 ALT 250 IU/L, AST 280 IU/L, IgG 2500 mg/dL, ANA 1:320, SMA 양성이 확인되었고, 간 조직검사에서 interface hepatitis 소견이 관찰되었다. 이 환자의 진단은 무엇인가?",
+    "exam": "혈액검사: ALT 250 IU/L, AST 280 IU/L, IgG 2500 mg/dL, ANA 1:320, SMA 양성; 간 조직검사: interface hepatitis; EKG: 미상",
+    "options": {
+      "A": "자가면역 간염",
+      "B": "만성 바이러스성 간염",
+      "C": "알코올 간염",
+      "D": "약물성 간염",
+      "E": "담즙성 간질환"
+    },
+    "answer": "A",
+    "explanation": "높은 IgG 수치와 ANA, SMA 양성, 그리고 간 조직검사 소견은 자가면역 간염의 전형적인 진단 소견이다.",
+    "source": "대한간학회_2022년 자가면역간염 진료가이드라인_내지-8차-PDF version 수정.pdf p.7: \"자가면역간염(autoimmune hepatitis, AIH)은 자가면역기전에 의해 발생하는 원인 미상의 염증성 간질환이다.\"",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 11,
+    "chief complaint": "84. 토혈 (hematemesis)",
+    "purpose": "토혈을 보이는 사람에게서 원인을 감별하고 적절한 치료를 할 수 있다.",
+    "question": "60세 남성이 간경변증 병력과 함께 갑작스런 객혈과 어지러움을 호소하며 내원하였다. 내시경 검사에서 LA Grade B 식도정맥류와 red wale mark가 관찰되었고, 혈액검사에서 Hb 7.5 g/dL, 혈소판 70,000/mm³가 측정되었다. 이 환자에 대한 초기 관리로 가장 적절한 조치는 무엇인가?",
+    "exam": "내시경: LA Grade B 식도정맥류, red wale mark; 혈액검사: Hb 7.5 g/dL, 혈소판 70,000/mm³; 체온: 38.0℃; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "즉각적인 내시경적 밴딩 치료 및 혈관수축제 투여",
+      "B": "보존적 치료 및 관찰",
+      "C": "즉각적인 외과적 수술",
+      "D": "혈액제제 수혈 후 관찰",
+      "E": "내시경적 주입 경화 요법"
+    },
+    "answer": "A",
+    "explanation": "객혈과 식도정맥류 소견이 있는 경우, 내시경적 밴딩과 혈관수축제 투여가 초기 관리로 권장된다.",
+    "source": "대한간학회_2019 대한간학회 간경변증 진료 가이드라인 정맥류 간성뇌증 및 관련 합병증.pdf p.21",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 12,
+    "chief complaint": "87. 피로 (fatigue)",
+    "purpose": "피로를 호소하는 사람에게서 원인을 알아낼 수 있다.",
+    "question": "58세 남성이 간경변증 병력과 함께 혼란, 기분 변화 및 어지러움을 호소하며 내원하였다. 혈액검사에서 혈청 암모니아 수치가 150 µg/dL (정상 15-45 µg/dL)로 상승하였고, EEG에서 비정상 소견이 확인되었다. 이 환자에 대한 간성뇌증 초기 치료로 가장 적절한 것은 무엇인가?",
+    "exam": "혈액검사: 암모니아 150 µg/dL; EEG: 비정상 소견; 체온: 37.0℃; 혈압: 110/70 mmHg; 맥박: 85회/분",
+    "options": {
+      "A": "Lactulose 투여",
+      "B": "Rifaximin 투여",
+      "C": "혈액 투석",
+      "D": "간이식 평가",
+      "E": "보존적 치료만"
+    },
+    "answer": "A",
+    "explanation": "간성뇌증의 초기 치료로 lactulose 투여가 표준 치료로 권장된다.",
+    "source": "대한간학회_2019 대한간학회 간경변증 진료 가이드라인 정맥류 간성뇌증 및 관련 합병증.pdf p.61",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 13,
+    "chief complaint": "33. 복부팽만/복수 (abdominal distension/ascites)",
+    "purpose": "복부팽만/복수를 갖고 있는 사람에게서 병력, 신체진찰 및 검사를 통해 원인을 파악할 수 있다.",
+    "question": "60세 남성이 간경변증 병력과 함께 점차 증가하는 복부 팽만을 호소한다. 혈액검사에서 알부민 2.5 g/dL, AST 100 IU/L, ALT 80 IU/L가 측정되었고, ascites 천자 검사에서 SAAG 1.4 g/dL와 총 단백질 2.0 g/dL가 나타났다. 이 환자의 복수의 원인은 무엇인가?",
+    "exam": "혈액검사: 알부민 2.5 g/dL, AST 100 IU/L, ALT 80 IU/L; ascites 분석: SAAG 1.4 g/dL, 총 단백질 2.0 g/dL; 신체: 복부 팽만, fluid wave 양성; EKG: 정상",
+    "options": {
+      "A": "심부전에 의한 복수",
+      "B": "간경변증에 의한 복수",
+      "C": "암성 복수",
+      "D": "결핵성 복막염",
+      "E": "신부전"
+    },
+    "answer": "B",
+    "explanation": "SAAG 1.4 g/dL와 저총 단백질은 문맥압 상승에 의한 간경변증 관련 복수를 시사한다.",
+    "source": "소화기_전공의진료지침.pdf p.14",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "10. 급성복통 (acute abdominal pain)",
+    "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아낼 수 있다.",
+    "question": "60세 여성이 우상복부에 지속적인 통증과 발열, 오한을 호소하며 내원하였다. 신체검사에서 우상복부 압통과 Murphy's sign이 양성으로 나타났으며, 혈액검사에서는 백혈구 수 16,000/mm³, CRP 35 mg/L, ALT 60 IU/L, AST 55 IU/L, ALP 180 IU/L가 측정되었다. 복부 초음파 검사에서 담낭 벽 두꺼워짐과 담석이 확인되었다. 이 환자의 복통의 원인은 무엇인가?",
+    "exam": "혈액검사: 백혈구 16,000/mm³, CRP 35 mg/L, ALT 60 IU/L, AST 55 IU/L, ALP 180 IU/L; 초음파: 담낭 벽 두꺼워짐, 담석 확인; 신체: 우상복부 압통, 양성 Murphy's sign; 체온: 38.5℃; EKG: 정상",
+    "options": {
+      "A": "급성 충수염",
+      "B": "급성 담낭염",
+      "C": "급성 췌장염",
+      "D": "소장 폐쇄",
+      "E": "대장 폐쇄"
+    },
+    "answer": "B",
+    "explanation": "우상복부 압통, Murphy's sign, 담낭 초음파 소견 및 염증 지표 상승은 급성 담낭염을 시사한다.",
+    "source": "소화기_전공의진료지침.pdf p.7",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 15,
+    "chief complaint": "2. 가슴통증/가슴불쾌감 (chest pain/chest discomfort/tightness)",
+    "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 원인질환과 중증도를 알아낼 수 있다.",
+    "question": "45세 여성이 6개월간 식후 가슴 작열감과 불쾌감을 호소하며 내원하였다. pH 모니터링 검사 결과, DeMeester score 45, 총 산성 노출 시간이 10%로 측정되었고, 내시경 검사에서는 미란성 식도염 소견이 확인되었다. 이 환자의 진단은 무엇인가?",
+    "exam": "pH 모니터링: DeMeester score 45, 산성 노출 시간 10%; 내시경: 미란성 식도염 소견; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "LA Grade A 미란성 식도염",
+      "B": "LA Grade B 미란성 식도염",
+      "C": "NERD",
+      "D": "Erosive esophagitis",
+      "E": "바렛 식도"
+    },
+    "answer": "A",
+    "explanation": "DeMeester score와 산성 노출 시간 수치 및 내시경 소견은 미란성 식도염이며, 단일 결손은 LA Grade A로 분류된다.",
+    "source": "jnm-27-4-453.pdf: \"2020 Seoul Consensus on the Diagnosis and Management of Gastroesophageal Reflux Disease\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 16,
+    "chief complaint": "30. 변비 (constipation)",
+    "purpose": "변비를 호소하는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+    "question": "35세 여성이 6개월간 주 2회 이하의 배변과 매우 단단한 변, 그리고 배변 시 과도한 힘을 필요로 하는 증상을 호소한다. 대장 이동 시간 검사는 96시간으로 측정되었고, 디지털 직장검진에서 항문 근육 긴장이 증가된 것으로 확인되었다. 이 환자의 변비는 무엇으로 진단되는가?",
+    "exam": "배변 빈도: 주 2회 이하; 대장 이동 시간: 96시간; 디지털 직장검진: 항문 근육 긴장 증가; 체온: 36.7℃; 혈압: 118/78 mmHg; EKG: 정상",
+    "options": {
+      "A": "기능성 변비",
+      "B": "약물 유발 변비",
+      "C": "대장 폐쇄",
+      "D": "신경인성 변비",
+      "E": "대장염"
+    },
+    "answer": "A",
+    "explanation": "연장된 대장 이동 시간과 주 2회 미만의 배변 빈도는 기능성 변비의 전형적인 소견이다.",
+    "source": "만성기능성변비.pdf p.92",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 17,
+    "chief complaint": "98. 감염병 유행과 관리 (outbreak management)",
+    "purpose": "감염병 유행을 정의하고, 유행 발생을 조기에 발견할 수 있다.",
+    "question": "50세 남성이 만성 B형간염 치료 중이었으나, 최근 ALT 200 IU/L, AST 180 IU/L, HBV DNA 1.2×10^7 IU/mL가 재측정되었고, 내성 관련 검사에서 resistance-associated substitutions (RAS)이 확인되었다. 이 경우, 다음 중 최적의 치료 변경은 무엇인가?",
+    "exam": "혈액검사: ALT 200 IU/L, AST 180 IU/L; HBV DNA: 1.2×10^7 IU/mL; RAS: 양성; 체온: 36.8℃; EKG: 정상",
+    "options": {
+      "A": "현재 항바이러스제 유지",
+      "B": "엔테카비르로 전환",
+      "C": "테노포비르 알라페나마이드로 전환",
+      "D": "라미부딘 추가",
+      "E": "간이식 평가"
+    },
+    "answer": "C",
+    "explanation": "항바이러스제 내성 시에는 테노포비르 알라페나마이드로 전환하는 것이 효과적인 치료 옵션이다.",
+    "source": "대한간학회_2022년 만성 B형간염 진료 가이드라인_내지(온라인수정).pdf p.29",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "97. 황달 (jaundice)",
+    "purpose": "황달이 있는 사람에게서 황달의 원인을 감별진단할 수 있다.",
+    "question": "42세 여성이 피로, 우상복부 불편감, 그리고 경미한 황달을 호소하며 내원하였다. 혈액검사에서 ALT 300 IU/L, AST 350 IU/L, IgG 2800 mg/dL, ANA 1:640, anti-SLA 양성이 확인되었고, 간 조직검사에서 포털 부위의 염증 및 interface hepatitis 소견이 나타났다. 이 환자의 진단은 무엇인가?",
+    "exam": "혈액검사: ALT 300 IU/L, AST 350 IU/L, IgG 2800 mg/dL, ANA 1:640, anti-SLA 양성; 간 조직검사: interface hepatitis; EKG: 미상",
+    "options": {
+      "A": "자가면역 간염",
+      "B": "만성 바이러스성 간염",
+      "C": "알코올 간염",
+      "D": "약물성 간염",
+      "E": "담즙성 간질환"
+    },
+    "answer": "A",
+    "explanation": "높은 IgG, ANA, anti-SLA 양성과 간 조직검사 소견은 자가면역 간염의 전형적인 진단 소견이다.",
+    "source": "대한간학회_2022년 자가면역간염 진료가이드라인_내지-8차-PDF version 수정.pdf p.7",
+    "category": "Gastroenterology"
+  }
+  {
+    "question_id": 19,
+    "chief complaint": "99. 건강과 건강결정인자 (health and its determinants)",
+    "purpose": "건강, 삶의 질, 질병을 정의하고 개념을 설명할 수 있다.",
+    "question": "48세 여성이 만성 C형간염 진단 후, 유전자형 1b, ALT 90 IU/L, AST 80 IU/L, HCV RNA 2.0×10^6 IU/mL가 측정되었으며, 간경변증은 없는 상태이다. 이 환자에게 권장되는 치료 옵션은 무엇인가?",
+    "exam": "혈액검사: ALT 90 IU/L, AST 80 IU/L; HCV RNA: 2.0×10^6 IU/mL; 체온: 36.9℃; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "인터페론 기반 치료",
+      "B": "소포브루비르/레디파스비르 복합 요법",
+      "C": "소포브루비르 단독 요법",
+      "D": "간이식 대기",
+      "E": "관찰 및 모니터링"
+    },
+    "answer": "B",
+    "explanation": "유전자형 1b 및 비간경변 상태에서는 소포브루비르/레디파스비르 복합 요법이 권장된다.",
+    "source": "2017 대한간학회 C형간염 진료 가이드라인 만성 C형간염의 치료.pdf p.28",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "33. 복부팽만/복수 (abdominal distension/ascites)",
+    "purpose": "복부팽만/복수를 갖고 있는 사람에게서 병력, 신체진찰 및 검사를 통해 원인을 파악할 수 있다.",
+    "question": "55세 남성이 간경변증 병력과 함께 복부 팽만과 피로를 호소한다. 혈액검사에서 혈소판 80,000/mm³, 알부민 2.8 g/dL가 측정되었고, 초음파 검사에서 비장이 16 cm로 확장되어 있으며, 다량의 복수가 확인되었다. 이 환자의 혈소판 감소의 주요 원인은 무엇인가?",
+    "exam": "혈액검사: 혈소판 80,000/mm³, 알부민 2.8 g/dL; 초음파: 비장 직경 16 cm, 다량의 복수; 신체검사: 복부 팽만; EKG: 정상 동성 리듬",
+    "options": {
+      "A": "골수 억제",
+      "B": "비장 내 혈소판 분포 증가",
+      "C": "자발성 혈소판 파괴",
+      "D": "간세포 손상",
+      "E": "간암"
+    },
+    "answer": "B",
+    "explanation": "간경변증에 의한 문맥압 상승은 비장 비대를 초래하여 혈소판이 비장에 분포되어 혈소판 수가 감소하는 것이 주된 원인이다.",
+    "source": "소화기_전공의진료지침.pdf p.14",
+    "category": "Gastroenterology"
+  }
+]
+
+
+  
+
 
