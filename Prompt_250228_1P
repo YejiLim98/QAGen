@@ -26,7 +26,6 @@ You must generate exactly **15 high-quality MCQs**, following these strict guide
 
 ```json
 {
-  "topic": "Enter the user-provided exam objective",
   "question_id": "Question number",
   "chief_complaint": "The patient's chief complaint",
   "purpose": "Explain which user-provided exam objective this question aligns with",
@@ -112,7 +111,6 @@ Each MCQ **must** be categorized into **exactly one** of the following **predefi
 
 ```json
 {
-  "topic": "고혈압 환자의 약물 선택에 대한 적절한 치료 계획을 수립할 수 있다.",
   "question_id": "001",
   "chief_complaint": "60세 남성이 혈압 조절이 되지 않아 내원함",
   "purpose": "고혈압 환자의 약물 선택에 대한 적절한 치료 계획을 수립할 수 있다.",
