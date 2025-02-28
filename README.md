@@ -1,7 +1,7 @@
 # QAGen
 
 ### Prompt 
-250228 1P ver.
+last update : 250228 3P
 
 ### Model 
 ChatGPT 4o, Projects <MCQ Generator>
