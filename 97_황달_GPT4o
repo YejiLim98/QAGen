@@ -1,536 +1,369 @@
-[
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "001",
-    "chief_complaint": "45세 남성이 최근 1주일 동안 눈과 피부가 노래지는 황달 증상을 주소로 내원함",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "이 환자는 이전까지 특별한 기저질환이 없었으며, 최근 과로나 식욕 부진 등 증상이 있었습니다. 신체검진에서 공막과 피부가 황달 양상을 보이며, 간기능 검사에서 직접빌리루빈과 간효소 수치가 모두 상승해 있습니다. 가장 가능성이 높은 황달의 원인은 무엇입니까?",
-    "exam": {
-      "Lab": "AST/ALT 모두 상승 (ALT 우세), 직접빌리루빈 3.5 mg/dL, 총빌리루빈 5.0 mg/dL, ALP 경미한 상승"
-    },
-    "options": {
-      "A": "용혈성 빈혈로 인한 과도한 빌리루빈 생성",
-      "B": "간세포 손상으로 인한 빌리루빈 처리 장애",
-      "C": "담관 결석에 의한 담도 폐색",
-      "D": "신생아에서 흔히 나타나는 생리적 황달",
-      "E": "길버트증후군(Gilbert syndrome)에 의한 간접빌리루빈 상승"
-    },
-    "answer": "B",
-    "explanation": "AST/ALT 수치 상승과 직접빌리루빈 상승은 간세포 손상으로 인한 황달이 주원인일 가능성이 높음을 시사한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Jaundice refers to the yellowish staining of the skin, sclera, and mucous membranes with the pigment bilirubin."
-      }
-    ],
-    "category": "Gastroenterology"
+{
+  "question_id": 1,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "50세 남성이 전신에 심한 가려움증을 호소하며 내원하였다. 환자는 3개월 전부터 증상이 시작되었으며 밤에 더 심해진다고 한다. 진찰 시 피부는 건조하며 긁은 자국이 많이 보인다. 환자는 최근 5kg의 체중 감소가 있었고 전신 피로감과 다뇨를 호소한다. 혈액 검사 결과 BUN 45 mg/dL, 크레아티닌 2.8 mg/dL, 칼슘 9.8 mg/dL, 인 5.8 mg/dL, PTH 350 pg/mL이다. 이 환자의 가려움증의 가장 가능성 높은 원인은?",
+  "options": { 
+    "A": "당뇨병", 
+    "B": "만성 신부전", 
+    "C": "일차성 담즙성 간경변", 
+    "D": "갑상선기능항진증", 
+    "E": "심인성 가려움증" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "002",
-    "chief_complaint": "30세 여성, 전신 피로감과 식욕부진과 함께 눈의 공막이 노래짐",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "두 달 전부터 피로감과 식욕부진이 지속되었고, 최근 들어 황달이 나타났습니다. 혈액 검사상 간접빌리루빈이 주로 상승되어 있으며, 용혈 소견이나 특이 약물 복용력은 없습니다. 가장 가능성이 높은 원인은 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 4.2 mg/dL, 간접빌리루빈 3.5 mg/dL, 직접빌리루빈 0.7 mg/dL, AST/ALT 정상 범위"
-    },
-    "options": {
-      "A": "신생아에서 흔히 발생하는 생리적 황달",
-      "B": "Dubin-Johnson 증후군",
-      "C": "Crigler-Najjar 증후군(간접빌리루빈 처리가 안 되는 질환)",
-      "D": "담도 폐색에 의한 황달",
-      "E": "자가면역성 간염"
-    },
-    "answer": "C",
-    "explanation": "간접빌리루빈이 주로 상승되고 간기능검사가 비교적 정상이며, 용혈 원인이 없을 때 Crigler-Najjar 증후군과 같은 선천성 간접빌리루빈 대사 이상을 의심한다.",
-    "source": [
-      {
-        "source_id": "First_Aid_Step1_418",
-        "text": "Crigler-Najjar syndrome manifests as persistent indirect hyperbilirubinemia, often leading to kernicterus."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 전신 가려움증과 함께 BUN 45 mg/dL, 크레아티닌 2.8 mg/dL로 상승된 신기능 검사 결과를 보이고 있으며, 인 수치 상승(5.8 mg/dL)과 부갑상선호르몬(PTH) 상승(350 pg/mL)은 이차성 부갑상선항진증을 시사합니다. 만성 신부전 환자의 약 40%에서 가려움증이 나타나며, 이는 요독증, 이차성 부갑상선항진증, 만성 염증, 말초 신경병증, 건조피부 등 여러 요인에 의해 발생합니다. 특히 인산염과 칼슘 대사 이상, 부갑상선호르몬 상승이 가려움증과 관련이 있습니다. 만성 신부전에서의 가려움증은 일반적으로 전신적이며 밤에 악화되는 특징을 보이고, 환자는 다뇨와 같은 신부전 증상과 함께 체중 감소, 피로감 등의 증상을 동반합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pruritus is present in ~40% of patients with advanced CKD and is typically more severe during or soon after dialysis. The pathophysiology involves contribution from uremic toxins, calcium and phosphate dysequilibrium, secondary hyperparathyroidism, peripheral neuropathy, and abnormalities in the immune system promoting a proinflammatory state. Xerosis (dry skin) is a common problem that can contribute to pruritus.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 3주간 지속된 전신 가려움증을 주소로 내원하였다. 환자는 최근 백색 변과 어두운 소변 색을 보였다고 하며, 특히 밤에 가려움증이 심해진다고 호소한다. 신체 검사에서 공막의 황달과 오른쪽 상복부 압통이 관찰된다. 기본 혈액 검사에서 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 3.5 mg/dL, AST 120 U/L, ALT 135 U/L, ALP 320 U/L, GGT 280 U/L로 측정되었다. 이 환자에게 시행해야 할 가장 적절한 추가 검사는?",
+  "options": { 
+    "A": "항핵항체(ANA) 검사", 
+    "B": "항미토콘드리아 항체(AMA) 검사", 
+    "C": "복부 초음파 검사", 
+    "D": "간 생검", 
+    "E": "ERCP(내시경적 역행성 담췌관 조영술)" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "003",
-    "chief_complaint": "50세 남성, 우상복부 통증과 황달로 내원",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "환자는 3주 전부터 시작된 우상복부 통증과 함께 눈과 피부의 황달을 호소하였습니다. 복부 초음파에서 담관 확장 소견이 확인되었으며, 간기능 검사에서 직접빌리루빈이 크게 증가하였습니다. 이 환자의 황달 원인으로 가장 가능성이 높은 것은 무엇입니까?",
-    "exam": {
-      "Imaging": "복부 초음파상 담관 확장, 담낭 부근에 음영이 보임",
-      "Lab": "직접빌리루빈 4.0 mg/dL, ALP 현저히 상승"
-    },
-    "options": {
-      "A": "길버트증후군(Gilbert syndrome)",
-      "B": "용혈성 빈혈",
-      "C": "간세포 손상(급성 바이러스성 간염)",
-      "D": "담관 결석에 의한 담관 폐색",
-      "E": "Dubin-Johnson 증후군"
-    },
-    "answer": "D",
-    "explanation": "담관 확장과 직접빌리루빈 상승은 담관 폐색성 황달, 특히 담관 결석으로 인한 폐색을 시사한다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3241",
-        "text": "If cholestatic, is it intra- or extrahepatic? All of these questions can be answered with a thoughtful history, physical examination, and interpretation of laboratory and radiologic tests."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "C",
+  "explanation": "이 환자는 담즙 정체(cholestasis)를 시사하는 증상과 검사 결과를 보이고 있습니다. 백색 변과 어두운 소변, 황달은 담즙 배설 장애를 나타내며, 직접 빌리루빈 상승, ALP와 GGT의 뚜렷한 상승은 담즙 정체성 간 질환을 시사합니다. 담즙 정체에 의한 가려움증은 담즙산이 피부에 축적되어 발생하며, 특히 밤에 악화되는 특징이 있습니다. 이러한 환자에서 가장 먼저 시행해야 할 검사는 복부 초음파로, 담관 확장이나 담도 폐쇄의 유무를 확인하여 담즙 정체가 간내성인지 간외성인지 감별하는 데 도움이 됩니다. 초음파 결과에 따라 이후 항미토콘드리아 항체 검사(원발성 담즙성 담관염 의심 시), ERCP(간외 담도 폐쇄 의심 시), 또는 간 생검(진단이 불명확할 때) 등을 추가로 시행할 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pruritus is a common manifestation of cholestatic liver diseases such as primary biliary cholangitis (PBC) and primary sclerosing cholangitis. The retention of bile acids is thought to be the main contributor. The histopathology in cholestatic pruritus shows a decrease in cutaneous innervation but no primary damage to the skin itself. Ultrasonography is usually the first imaging study in the evaluation of cholestatic liver disease to assess for intrahepatic or extrahepatic biliary dilation.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "65세 남성 환자가 2개월 전부터 시작된 전신 가려움증을 호소하며 내원하였다. 환자는 특히 목, 팔, 다리에 심한 가려움증을 느끼며, 밤에 더 심해진다고 한다. 피부 검사에서 두드러진 발진은 없으나 긁은 자국들이 관찰된다. 환자는 최근 체중 감소, 식은땀, 야간 발열 증상이 있었다고 한다. 혈액 검사에서 헤모글로빈 10.5 g/dL, 백혈구 12,000/μL, 혈소판 450,000/μL, LDH 350 U/L로 측정되었다. 복부 CT에서 다발성 림프절 종대가 발견되었고, 림프절 생검 결과 호지킨 림프종으로 진단되었다. 이 환자의 가려움증에 대한 가장 적절한 치료는?",
+  "options": { 
+    "A": "항히스타민제 투여", 
+    "B": "국소 스테로이드제 도포", 
+    "C": "SSRI 계열 약물 투여", 
+    "D": "광선요법", 
+    "E": "항암화학요법" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "004",
-    "chief_complaint": "28세 여성, 경미한 황달이 반복적으로 발생함",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "과도한 스트레스나 단식 기간 중에 눈의 공막이 약간 노래지는 현상이 반복되어 왔습니다. 증상은 비교적 가벼우며 다른 간기능 검사는 정상입니다. 이 환자에서 의심할 수 있는 가장 가능성 높은 황달 원인은 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 2.3 mg/dL (대부분 간접), AST/ALT 정상, ALP 정상",
-      "ClinicalNote": "스트레스 시에만 일시적 황달"
-    },
-    "options": {
-      "A": "Gilbert 증후군",
-      "B": "Dubin-Johnson 증후군",
-      "C": "용혈성 빈혈",
-      "D": "자기면역성 간염",
-      "E": "간세포암"
-    },
-    "answer": "A",
-    "explanation": "Gilbert 증후군은 경도 UDP-글루쿠로닐트랜스퍼레이스 결핍으로 간접빌리루빈이 약간 상승하며, 스트레스나 단식 시 일시적 황달이 발생하는 경향이 있다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8938",
-        "text": "Gilbert’s syndrome is a genetic variant characterized by diminished activity of the enzyme glucuronyltransferase."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "E",
+  "explanation": "이 환자는 전신 가려움증과 함께 체중 감소, 식은땀, 야간 발열과 같은 B 증상(B symptoms), 빈혈, 백혈구 증가, 혈소판 증가, LDH 상승, 그리고 림프절 종대가 있으며 생검 결과 호지킨 림프종으로 진단되었습니다. 호지킨 림프종은 가려움증을 동반하는 대표적인 악성 종양으로, 환자의 약 30%에서 가려움증이 나타납니다. 이 경우 가려움증은 림프종에서 분비되는 사이토카인과 관련이 있으며, 근본적인 문제인 림프종을 치료하는 것이 가장 효과적인 접근법입니다. 따라서 적절한 항암화학요법(일반적으로 ABVD 요법: 독소루비신, 블레오마이신, 빈블라스틴, 다카르바진)을 시행하면 림프종의 관해와 함께 가려움증도 호전됩니다. 증상 완화를 위해 항히스타민제를 보조적으로 사용할 수 있지만, 이는 근본 원인을 해결하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hodgkin's lymphoma is notable for the frequency with which it presents with pruritus, occurring in up to 30% of patients. The pruritus of lymphoma often precedes the clinical diagnosis by months or, rarely, years. Pruritus as a paraneoplastic phenomenon is seen in several malignancies, but Hodgkin's lymphoma is the prototype. The pruritus is thought to be mediated by cytokines released from the malignant cells. Treatment of the underlying malignancy usually leads to resolution of the pruritus.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "28세 여성이 2주 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 임신 32주 상태이며, 특히 배와 팔다리에 심한 가려움증을 호소한다. 진찰 시 복부와 사지에 다수의 홍반성 구진과 판(plaque)이 관찰되며, 일부는 융합되어 있다. 환자는 이전 임신에서도 비슷한 증상이 있었으나 출산 후 저절로 호전되었다고 한다. 혈액 검사에서 빌리루빈과 간효소 수치는 정상이었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "피부 병변 사진: 복부와 팔다리에 다수의 홍반성 구진과 판이 관찰되며, 일부는 융합되어 있고 배꼽 주위로 중심성 분포를 보인다.",
+  "options": { 
+    "A": "임신성 담즙정체증", 
+    "B": "임신성 소양성 여포염", 
+    "C": "임신성 유사천포창", 
+    "D": "임신성 소양진", 
+    "E": "다형홍반" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question_id": "005",
-    "chief_complaint": "60세 남성, 체중 감소와 황달 동반",
-    "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
-    "question": "최근 3개월 간 8kg의 체중감소가 있었고, 황달이 서서히 진행하고 있습니다. 복부 초음파에서 담관 확장은 있으나 담석은 보이지 않았습니다. 간기능 검사에서 직접빌리루빈이 높고 ALP가 상승되어 있습니다. 체중 감소와 진행성 황달을 동반하는 원인으로 가장 의심되는 것은 무엇입니까?",
-    "exam": {
-      "Imaging": "담관 확장, 담석은 관찰되지 않음",
-      "Lab": "직접빌리루빈 3.8 mg/dL, ALP 현저 상승, CA 19-9 수치 상승"
-    },
-    "options": {
-      "A": "담관암",
-      "B": "급성 담낭염",
-      "C": "자연 소실이 가능한 간낭종",
-      "D": "급성 바이러스성 간염",
-      "E": "길버트증후군"
-    },
-    "answer": "A",
-    "explanation": "체중감소와 함께 담관 확장, 직접 빌리루빈 상승 등이 서서히 진행되는 경우 담관암(클라츠킨 종양 포함)을 우선적으로 의심해야 한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Workup of a patient with jaundice is simplified by organizing the possible causes of the disorder into groups based on the location of bilirubin metabolism."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "D",
+  "explanation": "이 환자는 임신 32주 여성으로 전신 가려움증과 함께 특징적인 피부 병변이 있으며, 이전 임신에서도 유사한 증상이 있었고 출산 후 호전된 병력이 있습니다. 이는 임신성 소양진(pruritic urticarial papules and plaques of pregnancy, PUPPP)의 전형적인 임상상입니다. 임신성 소양진은 임신 중 발생하는 가장 흔한 피부 질환 중 하나로, 주로 첫 임신에서 제3삼분기에 발생하며, 배꼽 주위에서 시작하여 복부, 엉덩이, 허벅지, 팔로 퍼지는 소양성 홍반성 구진과 판을 특징으로 합니다. 간기능 검사는 정상이며, 자연적으로 출산 후 호전됩니다. 임신성 담즙정체증은 피부 병변 없이 가려움증만 있으며 간효소와 빌리루빈 상승이 특징입니다. 임신성 소양성 여포염은 여포성 구진과 농포가 특징이고, 임신성 유사천포창은 수포성 병변을 동반합니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt: Pruritic urticarial papules and plaques of pregnancy (PUPPP), also known as polymorphic eruption of pregnancy, is the most common pruritic dermatological condition in pregnancy, affecting about 1 in 160 pregnancies. The condition typically begins on the abdomen, often within striae distensae, with erythematous, urticarial papules that coalesce into plaques, and then spreads to the thighs, buttocks, and arms. PUPPP predominantly affects primigravidas in the third trimester and usually resolves spontaneously within days of delivery.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "75세 남성이 3개월간 지속된 전신 가려움증으로 내원하였다. 환자는 특별한 피부 발진 없이 전신, 특히 등과 다리에 심한 가려움증을 호소한다. 피부 검사에서 건조한 피부와 긁은 자국만 관찰된다. 환자는 최근 체중 감소와 쉽게 피로해지는 증상이 있다고 한다. 신체 검진에서 비장 비대가 확인되었다. 말초 혈액 도말 검사에서 다수의 비정형 림프구가 관찰되었다. CBC 결과: WBC 25,000/μL (림프구 75%), Hb 10.2 g/dL, 혈소판 110,000/μL. 이 환자에게 시행해야 할 가장 적절한 검사는?",
+  "exam": "말초 혈액 도말 사진: 다수의 비정형 림프구가 관찰되며, 세포질이 풍부하고 핵/세포질 비율이 증가되어 있다.",
+  "options": { 
+    "A": "골수 생검", 
+    "B": "피부 생검", 
+    "C": "흉부 X선 검사", 
+    "D": "복부 초음파 검사", 
+    "E": "혈청 면역전기영동 검사" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "006",
-    "chief_complaint": "40세 남성, 피로와 소변색 진한 황달로 병원 방문",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "한 달 전부터 시작된 황달과 갈색 소변을 호소합니다. 간기능 검사에서 ALP보다 AST/ALT가 더 높게 상승되어 있고, 혈청 빌리루빈은 총 6.0 mg/dL(직접 2.5, 간접 3.5)입니다. 추가로 확인해야 할 검사는 무엇이 가장 적절합니까?",
-    "exam": {
-      "Lab": "AST 250 IU/L, ALT 280 IU/L, ALP 120 IU/L",
-      "ClinicalNote": "소변 색이 진하며, 전반적 피로감 호소"
-    },
-    "options": {
-      "A": "복부 초음파를 통한 담관 확장 여부 확인",
-      "B": "혈액 내 용혈 지표 검사(망상적혈구수, LDH 등)",
-      "C": "바이러스 간염 표지자 검사(HBV, HCV 등)",
-      "D": "갑상선 기능검사(TSH, fT4)",
-      "E": "뇌 MRI 검사"
-    },
-    "answer": "C",
-    "explanation": "AST/ALT의 현저한 상승과 직접/간접 빌리루빈 상승이 동반된 경우, 바이러스성 간염 표지자 검사를 통해 급성 또는 만성 간염 여부를 평가하는 것이 핵심이다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Viral serologies (e.g., Hepatitis A IgM, Hepatitis B surface antigen, core antibody) are crucial if a hepatocellular pattern of injury is suspected."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "A",
+  "explanation": "이 환자는 피부 병변 없는 전신 가려움증과 함께 체중 감소, 피로감, 비장 비대, 그리고 말초혈액에서 뚜렷한 림프구증가증(25,000/μL, 림프구 75%)과 비정형 림프구가 관찰됩니다. 이러한 소견은 림프증식성 질환, 특히 만성 림프구성 백혈병(CLL)이나 다른 림프종의 가능성을 강하게 시사합니다. 특발성 가려움증, 피부 질환, 감염, 대사 질환과 같은 다른 원인들을 배제하고 악성 혈액 질환을 진단하기 위해서는 골수 생검이 필요합니다. 골수 생검을 통해 림프구의 형태학적 특성과 면역표현형을 확인하고, 림프증식성 질환의 유형과 단계를 결정할 수 있습니다. 특히 만성 림프구성 백혈병은 고령자에서 흔하며, 약 25-30%의 환자에서 가려움증이 나타날 수 있습니다. 피부 생검은 피부 병변이 없어 의미가 없으며, 다른 검사들은 추가 정보를 제공할 수 있지만 진단을 확정하는 데 충분하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pruritus can be a manifestation of lymphoproliferative disorders, particularly Hodgkin's disease, but also chronic lymphocytic leukemia, cutaneous T-cell lymphomas, and multiple myeloma. The workup of generalized pruritus without a primary skin disorder should include a complete blood count with differential, comprehensive metabolic panel, and consideration of bone marrow biopsy in cases with abnormal blood counts suggestive of a hematologic malignancy. Bone marrow examination is the gold standard for diagnosis of hematologic malignancies and provides essential information about cellular morphology, immunophenotype, and cytogenetics.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 여성이 2개월간 지속된 가려움증을 주소로 내원하였다. 가려움증은 특히 밤에 심해지며, 환자의 남편도 비슷한 증상이 있다고 한다. 피부 검사에서 손가락 사이, 손목의 굴측부, 겨드랑이, 배꼽 주위, 둔부, 서혜부에 다수의 구진과 선상 병변이 관찰된다. 환자는 최근 새로운 애완동물을 입양했다고 한다. 피부 긁어내기 검사에서 특징적인 기생충이 발견되었다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "피부 긁어내기 검사 현미경 소견: 난원형 충체와 S자 모양의 굴(burrow)이 관찰됨.",
+  "options": { 
+    "A": "국소 코르티코스테로이드 도포", 
+    "B": "경구 항히스타민제 투여", 
+    "C": "5% 퍼메트린 크림 도포", 
+    "D": "국소 타크로리무스 도포", 
+    "E": "UVB 광선요법" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "007",
-    "chief_complaint": "50세 여성, 황달과 함께 소양감(가려움증)",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "수주 전부터 피부와 눈의 황달, 심한 소양감이 나타났습니다. 간기능 검사에서 ALP가 현저히 상승하였고, 복부 초음파에서 담관 확장이 관찰되지 않았습니다. 다음 단계에서 가장 적절한 검사는 무엇입니까?",
-    "exam": {
-      "Lab": "ALP 400 IU/L, GGT 동반 상승, 총빌리루빈 3.5 mg/dL",
-      "Imaging": "복부 초음파상 담관 확장 소견 없음"
-    },
-    "options": {
-      "A": "혈중 암모니아 농도 측정",
-      "B": "경피적 간생검",
-      "C": "ERCP 또는 MRCP",
-      "D": "간세포암 표지자(α-fetoprotein) 검사",
-      "E": "Autoimmune marker(ANA, AMA 등) 검사"
-    },
-    "answer": "E",
-    "explanation": "담관 확장 없이 ALP와 GGT가 크게 상승하고 소양감을 동반하는 경우 원발성 담즙성 담관염(PBC) 등을 의심할 수 있으며, 자가면역 표지자(AMA 등) 검사가 도움이 된다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "ANA, SMA, SPEP may be obtained if autoimmune cholestatic disease is suspected."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "C",
+  "explanation": "이 환자의 임상 양상은 옴(scabies) 감염을 시사합니다. 밤에 악화되는 심한 가려움증, 특징적인 피부 병변의 분포(손가락 사이, 손목 굴측부, 겨드랑이, 배꼽 주위, 둔부, 서혜부), 가족 구성원의 유사한 증상, 그리고 피부 긁어내기 검사에서 확인된 기생충(Sarcoptes scabiei)은, 옴 감염의 전형적인 특징입니다. 옴 진드기는 피부에 굴을 파고 들어가 알을 낳으며, 이에 대한 면역 반응으로 심한 가려움증이 발생합니다. 옴 감염의 일차 치료는 5% 퍼메트린 크림을 전신(머리 제외)에 도포하는 것입니다. 퍼메트린은 신경계에 작용하여 진드기를 마비시키고 죽이는 효과가 있습니다. 치료는 보통 목에서 발끝까지 전신에 도포하고 8-14시간 후 씻어내는 방식으로 진행되며, 1주 후 재치료가 권장됩니다. 또한 가족 구성원과 밀접한 접촉자도 함께 치료해야 합니다. 이부프로펜이나 항히스타민제는 가려움증 완화에 도움이 될 수 있지만, 근본적인 치료는 아닙니다.",
+  "source": "Pathology_Robbins_textbook_data.txt: Scabies is caused by the mite Sarcoptes scabiei var. hominis. The impregnated female burrows into the stratum corneum, depositing eggs and feces as it creates a tunnel. The infestation produces an intensely pruritic eruption caused by sensitization to the mite and its products. The lesions consist of small, erythematous, excoriated papules and vesicles, with characteristic distribution in the interdigital spaces, flexor aspects of wrists, axillae, periumbilical skin, and genitalia. Definitive diagnosis is established by microscopic demonstration of mites, eggs, or feces in scrapings from lesions. Permethrin 5% cream is the treatment of choice for scabies.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "30세 여성이 2주 전부터 시작된 심한 가려움증을 주소로 내원하였다. 환자는 임신 32주 상태이며, 특히 손바닥과 발바닥을 포함한 전신에 피부 발진 없는 가려움증을 호소한다. 가려움증은 특히 밤에 심해져 수면을 방해한다고 한다. 환자는 첫 임신이며, 이전에 유사한 증상을 경험한 적은 없다. 신체 검사에서 특별한 피부 병변은 관찰되지 않으나, 황달이 경미하게 관찰된다. 혈액 검사 결과: 총 빌리루빈 1.8 mg/dL, 직접 빌리루빈 0.9 mg/dL, AST 80 U/L, ALT 100 U/L, ALP 320 U/L, GGT 35 U/L, 혈청 담즙산 18 μmol/L(정상: <10 μmol/L). 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "임신성 소양진(PUPPP)", 
+    "B": "임신성 담즙정체증", 
+    "C": "임신성 유사천포창", 
+    "D": "임신성 여포염", 
+    "E": "급성 지방간염" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "008",
-    "chief_complaint": "57세 남성, 최근 황달과 함께 체중감소, 진한 소변",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "갑작스러운 황달과 더불어 진한 소변 및 체중감소가 함께 나타났습니다. 신체검사에서 우상복부 압통은 뚜렷하지 않으나, 복부 초음파에서 담관이 확장된 소견이 보입니다. 추가 평가를 위해 가장 필요한 검사는 무엇입니까?",
-    "exam": {
-      "Lab": "직접빌리루빈 상승, ALP 상당히 상승, CA 19-9는 미측정",
-      "Imaging": "초음파상 담관 확장"
-    },
-    "options": {
-      "A": "복부 CT 혹은 MRI를 통한 종양 유무 확인",
-      "B": "내시경적 역행 담췌관 조영술(ERCP)로 담관 결석 확인",
-      "C": "바이러스성 간염 혈청 검사",
-      "D": "혈액 내 LDH 검사",
-      "E": "신장 기능검사"
-    },
-    "answer": "A",
-    "explanation": "담관 확장, 체중감소, 통증이 경미한 황달에서는 악성 종양(담관암, 췌장암 등)을 의심해야 하며, 복부 CT 또는 MRI 검사를 통해 종괴 여부와 범위를 파악하는 것이 중요하다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3241",
-        "text": "If cholestatic, imaging studies (CT, MRI) help differentiate intrahepatic from extrahepatic obstructive causes, including tumors."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 임신 32주에 발생한 피부 발진 없는 전신 가려움증을 보이며, 특히 손바닥과 발바닥을 포함한 가려움증과 야간 악화가 특징적입니다. 또한 경미한 황달과 함께 간효소(AST, ALT) 상승, ALP 상승, 혈청 담즙산 상승이 관찰됩니다. 이러한 임상상은 임신성 담즙정체증(intrahepatic cholestasis of pregnancy, ICP)을 강하게 시사합니다. 임신성 담즙정체증은 임신 2-3분기에 발생하는 간담도계 질환으로, 가려움증이 주요 증상이며 특히 손바닥과 발바닥에 심하게 나타납니다. 가려움증은 담즙산이 피부에 축적됨에 따라 발생하며, 밤에 악화되는 특징이 있습니다. 대부분의 환자는 피부 병변 없이 가려움증만 호소하며, 일부에서는 황달이 동반될 수 있습니다. 진단은 임상 증상과 함께 혈청 담즙산 상승(>10 μmol/L)을 확인하는 것이 중요하며, 간효소와 빌리루빈 상승이 동반될 수 있습니다. 임신성 담즙정체증은 산모에게는 불편한 증상 외에 큰 위험이 없으나, 태아에게는 조산, 태변 착색, 주산기 사망 위험을 증가시킬 수 있어 적극적인 관리가 필요합니다. 치료는 우르소데옥시콜산 투여와 함께 태아 상태 모니터링, 적절한 분만 시기 결정이 중요합니다. 임신성 소양진은 복부에서 시작하여 피부 병변(홍반성 구진과 판)을 동반합니다. 임신성 유사천포창은 수포성 병변을 특징으로 하며, 임신성 여포염은 여포성 구진과 농포가 특징입니다. 급성 지방간염은 더 심한 간기능 이상과 전신 증상을 동반합니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt: Intrahepatic cholestasis of pregnancy (ICP) is characterized by pruritus without a rash, typically beginning in the third trimester. The pruritus characteristically affects the palms and soles and worsens at night. Laboratory findings include elevated serum bile acids (>10 μmol/L), which is the most sensitive and specific test, and mild elevations in aminotransferases. Bilirubin levels are usually normal or slightly elevated (usually <6 mg/dL). ICP increases the risk of adverse fetal outcomes, including preterm birth, meconium-stained amniotic fluid, and intrauterine fetal demise. The principal aim of management is to alleviate maternal symptoms and reduce perinatal morbidity and mortality. Ursodeoxycholic acid (UDCA) is the first-line treatment. Delivery timing is usually recommended between 36 and 38 weeks, depending on the severity of the disease and previous obstetric history.",
+  "category": "Obstetrics"
+}
+
+{
+  "question_id": 8,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 2주 전부터 시작된 심한 가려움증으로 내원하였다. 환자는 특별한 피부 발진 없이 전신, 특히 팔다리와 등에 심한 가려움증을 호소한다. 환자는 최근 감기 증상으로 아목시실린을 복용했다고 한다. 신체 검사에서 황달이 관찰되며, 복부 진찰에서 우상복부 압통이 있다. 혈액 검사 결과: 총 빌리루빈 3.5 mg/dL, 직접 빌리루빈 2.8 mg/dL, AST 650 U/L, ALT 850 U/L, ALP 120 U/L, GGT 80 U/L. 혈청 IgM anti-HAV(-), HBsAg(-), anti-HBc IgM(-), anti-HCV(-). 이 환자에서 가려움증의 원인을 확인하기 위해 시행해야 할 가장 적절한 검사는?",
+  "options": { 
+    "A": "항핵항체(ANA) 검사", 
+    "B": "혈청 효소면역검사(ELISA)로 약물 특이 항체 검출", 
+    "C": "복부 초음파 검사", 
+    "D": "간 생검", 
+    "E": "약물 알레르기 피부반응검사" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "009",
-    "chief_complaint": "25세 남성, 무증상 건강검진에서 빌리루빈 수치 이상 발견",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "건강검진에서 총빌리루빈 2.3 mg/dL(대부분 간접)이 확인되었으나, 간기능검사는 정상범위입니다. 환자는 전혀 증상이 없습니다. 이 경우 추후 어떤 검사를 통해 원인을 간단히 배제할 수 있으며, 이상이 없으면 일상적 경과 관찰이 가능한지 결정해야 합니다. 가장 적절한 검사는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 2.3 mg/dL, 간접 2.0 mg/dL, AST/ALT/ALP 정상",
-      "ClinicalNote": "무증상"
-    },
-    "options": {
-      "A": "복부 초음파",
-      "B": "용혈성 지표(망상적혈구, LDH, haptoglobin) 검사",
-      "C": "간생검",
-      "D": "ERCP",
-      "E": "암표지자(AFP, CA 19-9) 검사"
-    },
-    "answer": "B",
-    "explanation": "간접 빌리루빈이 경미하게 상승되고 무증상인 경우, 용혈성 빈혈 배제가 우선이다. 용혈성 지표 검사가 정상이면 Gilbert 증후군 등 경미한 황달로 간주하고 경과 관찰할 수 있다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Hemolytic disorders and ineffective erythropoiesis must be ruled out when evaluating isolated unconjugated hyperbilirubinemia."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 최근 아목시실린 복용력이 있으며, 황달과 함께 AST, ALT가 현저히 상승(AST 650 U/L, ALT 850 U/L)한 간세포성 손상 양상을 보이고 있습니다. ALP와 GGT의 상승은 상대적으로 경미하며, 바이러스성 간염 표지자들은 모두 음성입니다. 이러한 임상상은 약물 유발성 간손상(DILI), 특히 아목시실린에 의한 간손상을 강하게 시사합니다. 약물 유발성 간손상은 가려움증을 동반할 수 있으며, 이는 담즙 정체나 간세포 손상으로 인한 대사산물의 축적과 관련이 있습니다. 약물 특이 항체를 검출하기 위한 혈청 효소면역검사(ELISA)는 약물에 대한 면역 반응을 확인하여 약물 유발성 간손상의 진단에 도움이 됩니다. 특히 아목시실린과 같은 베타-락탐 항생제는 약물 특이 항체 형성을 통한 면역 매개성 간손상을 일으킬 수 있습니다. 항핵항체 검사는 자가면역성 간염을 감별하는 데 유용하지만, 이 환자는 약물 복용 후 급성 발병한 임상상을 보이므로 우선순위가 낮습니다. 복부 초음파 검사는 담도 질환이 의심될 때 유용하지만, 이 환자는 간세포성 손상 양상을 보이고 있습니다. 간 생검은 진단이 불명확할 때 고려할 수 있으나, 침습적 절차이므로 우선적으로 시행하는 것은 적절하지 않습니다.",
+  "source": "Pathology_Robbins_textbook_data.txt: Drug-induced liver disease accounts for approximately 10% of all cases of acute hepatitis. Amoxicillin-clavulanate is among the most common causes. Drug-induced injury may mimic viral hepatitis, with jaundice and markedly elevated serum aminotransferases. The pattern of liver injury can be hepatocellular, cholestatic, or mixed. In cases of suspected immune-mediated drug-induced liver injury, the detection of drug-specific antibodies by ELISA can be helpful. Diagnostic criteria include the temporal relationship between drug administration and liver injury, exclusion of other causes, and improvement upon drug withdrawal. Pruritus is a common symptom in patients with drug-induced cholestasis or hepatocellular injury with secondary cholestasis.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "68세 남성이 3개월 전부터 시작된 심한 가려움증으로 내원하였다. 환자는 특별한 피부 발진 없이 전신 가려움증을 호소하며, 특히 밤에 악화된다고 한다. 환자는 최근 건조한 피부로 인해 자주 목욕하고 로션을 사용한다고 하나 증상은 호전되지 않았다. 환자는 당뇨병, 고혈압으로 메트포르민과 리시노프릴을 복용 중이며, 최근 우울증으로 파록세틴을 시작했다. 혈액 검사에서 특이 소견은 없었으며, 갑상선 기능, 신장 기능, 간 기능 검사도 정상이었다. 피부 병변이 없는 노인 환자의 전신 가려움증에 대한 가장 적절한 초기 치료 접근법은?",
+  "options": { 
+    "A": "국소 스테로이드제 도포", 
+    "B": "경구 항히스타민제 투여와 보습제 사용", 
+    "C": "약물 중단 및 변경", 
+    "D": "UVB 광선요법", 
+    "E": "경구 시클로스포린 투여" 
   },
-  {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question_id": "010",
-    "chief_complaint": "48세 여성, 황달과 가려움증, 회백색 변",
-    "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-    "question": "주 증상은 전신성 가려움증과 눈의 황달, 최근 대변 색이 회백색으로 변했습니다. 혈액 검사에서 직접빌리루빈이 높고 ALP가 매우 높습니다. 담석 의심으로 초음파를 시행했으나 담석은 발견되지 않았습니다. 추가로 확인해야 할 가장 중요한 검사는 무엇입니까?",
-    "exam": {
-      "Lab": "직접빌리루빈 3.2 mg/dL, ALP 500 IU/L 이상, GGT 상승",
-      "Imaging": "담낭에 결석 소견 없음"
-    },
-    "options": {
-      "A": "바이러스성 간염 표지자 검사",
-      "B": "간생검",
-      "C": "자기공명 담췌관조영술(MRCP)",
-      "D": "경정맥 신우조영술(IVP)",
-      "E": "전신 골주사(bone scan)"
-    },
-    "answer": "C",
-    "explanation": "회백색 변과 직접빌리루빈 상승, 고 ALP는 담도 폐색성 병변을 의심케 하며, 담석이 초음파에서 안 보이는 경우 MRCP 등을 통해 담관 내 병변(담관암, 협착 등)을 추가 평가해야 한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Workup of a patient with jaundice is simplified by organizing the possible causes of the disorder into groups based on the location of bilirubin metabolism."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 피부 병변이 없는 전신 가려움증을 보이는 노인 환자로, 특히 밤에 악화되는 양상을 보입니다. 기본 검사에서 갑상선 질환, 신장 질환, 간 질환 등 전신 질환의 증거는 없습니다. 노인에서 피부 병변이 없는 가려움증의 가장 흔한 원인은 노인성 건조 피부(xerosis)입니다. 노화에 따른 피부 장벽 기능 저하, 피지선 활동 감소, 수분 함량 감소로 인해 건조한 피부가 발생하며, 이는 가려움증의 주요 원인이 됩니다. 비록 환자가 로션을 사용했다고 하지만, 적절한 보습 방법(미온수 목욕, 자극적인 비누 피하기, 목욕 직후 보습제 바르기 등)을 따르지 않았을 가능성이 있습니다. 따라서 적절한 스킨케어 교육과 함께 효과적인 보습제 사용이 중요합니다. 또한 경구 항히스타민제, 특히 1세대 항히스타민제(예: 하이드록시진, 디펜히드라민)는 진정 효과가 있어 야간 가려움증에 도움이 됩니다. 현 단계에서는 약물을 중단하기보다는 보습과 항히스타민제로 증상을 조절하는 것이 적절합니다. 국소 스테로이드는 피부 병변이 있는 경우에 더 적합하며, UVB 광선요법과 시클로스포린은 일차 치료에 반응하지 않는 난치성 가려움증에서 고려할 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Xerosis (dry skin) is the most common cause of pruritus in the elderly. The dominant symptom is generalized itching that is usually worse in the winter (low humidity). Frequent bathing and use of soap, detergents, and alcohol-containing skin products worsen xerosis. Management consists of increasing ambient humidity; decreasing the frequency of bathing; using lukewarm water and mild skin cleansers; avoiding drying skin products (e.g., alcohol-based) and irritating clothing; and liberal and frequent use of emollients. Emollients should be applied immediately after bathing to enhance hydration. First-generation antihistamines (e.g., hydroxyzine, diphenhydramine) can be helpful, particularly if taken at bedtime.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "35세 여성이 3주 전부터 시작된 얼굴과 목의 가려움증과 발진으로 내원하였다. 환자는 발진이 햇빛 노출 후 악화된다고 하며, 최근 관절통과 피로감도 호소한다. 신체 검사에서 양쪽 뺨과 코 위에 홍반성 발진이 관찰되며, 손가락 관절에 압통과 경미한 부종이 있다. 환자는 최근 특별한 약물 복용력은 없다고 한다. 일반 혈액 검사에서 경미한 빈혈과 백혈구 감소증이 관찰되었다. 이 환자의 가려움증과 피부 발진의 가장 가능성 높은 원인은?",
+  "exam": "피부 병변 사진: 양쪽 뺨과 코 위에 경계가 명확한, 나비 모양의 붉은 발진이 관찰된다.",
+  "options": { 
+    "A": "접촉성 피부염", 
+    "B": "약물 발진", 
+    "C": "전신홍반루푸스", 
+    "D": "다형홍반", 
+    "E": "장미색 비강진" 
   },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "011",
-    "chief_complaint": "70세 남성, 갑작스러운 우상복부 통증과 고열, 황달",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "심한 우상복부 통증과 39°C 이상의 고열, 황달이 동반되어 응급실에 방문했습니다(샤르코의 3징후). 혈액검사상 WBC 상승, 직접빌리루빈 증가, ALP 상승이 관찰됩니다. 응급으로 가장 먼저 해야 할 치료 및 처치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 4.0 mg/dL(직접 주), ALP 420 IU/L, WBC 15,000/µL"
-    },
-    "options": {
-      "A": "광선치료(포토테라피)",
-      "B": "ERCP를 통한 담관 감압 및 담도 배액",
-      "C": "스테로이드 고용량 투여",
-      "D": "단식 및 수액 공급 후 경과 관찰",
-      "E": "수술적 간생검 후 항생제 투여"
-    },
-    "answer": "B",
-    "explanation": "담관염(Charcot의 3징후)에 준하는 증상이 있을 때 응급으로 담관 배액(ERCP 등)을 시행하여 담즙 흐름을 회복시키고, 동시에 항생제 치료를 시작해야 한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "Patients with cholangitis often require urgent biliary decompression via ERCP."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "C",
+  "explanation": "이 환자는 얼굴과 목의 가려움증 및 발진과 함께 전신 증상(관절통, 피로감)을 보이고 있습니다. 특히 양쪽 뺨과 코 위에 나비 모양의 홍반성 발진(나비 발진, butterfly rash)이 있으며, 햇빛 노출 후 악화되는 양상과 관절 증상을 동반하고 있습니다. 또한 혈액 검사에서 빈혈과 백혈구 감소증이 관찰됩니다. 이러한 임상 양상은 전신홍반루푸스(systemic lupus erythematosus, SLE)를 강하게 시사합니다. 전신홍반루푸스는 다양한 장기를 침범하는 자가면역 질환으로, 나비 발진이라 불리는 특징적인 얼굴 발진이 대표적인 피부 소견입니다. 이 발진은 광과민성(photosensitivity)을 보이며, 가려움증을 동반할 수 있습니다. SLE 환자의 약 90%에서 피부 증상이 나타나며, 다른 흔한 증상으로는 관절염, 피로감, 발열, 장막염(serositis) 등이 있습니다. 혈액학적 이상으로는 백혈구 감소증, 빈혈, 혈소판 감소증이 흔히 나타납니다. 확진을 위해서는 항핵항체(ANA) 검사와 특이 자가항체(항dsDNA 항체, 항Sm 항체 등) 검사가 필요합니다. 접촉성 피부염은 알레르겐 접촉 부위에 국한되며, 약물 발진은 약물 복용력이 있어야 합니다. 다형홍반은 표적 병변(target lesion)이 특징적이며, 장미색 비강진(rosacea)은 구진, 농포, 모세혈관 확장이 특징적입니다.",
+  "source": "Pathology_Robbins_textbook_data.txt: Systemic lupus erythematosus (SLE) is an autoimmune disease characterized by autoantibodies to nuclear antigens. Skin manifestations are present in about 90% of patients with SLE at some stage of the disease. The most characteristic lesion, the butterfly rash, is a fixed erythema that appears over the malar regions and bridge of the nose but spares the nasolabial folds. In addition to the characteristic malar rash, patients with SLE may exhibit photosensitivity, oral ulcers, and discoid lesions. Systemic manifestations include arthritis, serositis, renal disorders, neurologic disorders, and hematologic abnormalities (anemia, leukopenia, thrombocytopenia). The diagnosis is based on a combination of clinical and laboratory findings, including antinuclear antibodies (ANA) and more specific autoantibodies such as anti-dsDNA and anti-Smith.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "40세 여성이 2주 전부터 시작된 얼굴, 목, 팔, 다리의 가려운 발진으로 내원하였다. 환자는 최근 새로운 향수와 화장품을 사용하기 시작했으며, 증상이 화장품을 사용한 부위에 국한되어 있다고 한다. 피부 검사에서 해당 부위에 홍반, 부종, 소수포, 삼출물, 그리고 긁은 자국이 관찰된다. 환자는 이전에도 화장품에 대한 유사한 반응이 있었다고 한다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "피부 사진: 얼굴, 목, 노출된 팔 부위에 경계가 명확한 홍반성 반점과 구진, 소수포성 병변이 관찰되며 일부 삼출물과 가피가 동반되어 있다.",
+  "options": { 
+    "A": "아토피 피부염", 
+    "B": "알레르기성 접촉 피부염", 
+    "C": "자극성 접촉 피부염", 
+    "D": "지루성 피부염", 
+    "E": "약물 발진" 
   },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "012",
-    "chief_complaint": "35세 임산부, 급성 바이러스성 간염 의심으로 내원",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "임신 28주인 환자가 갑작스럽게 황달과 피로를 호소하며 간수치가 상승하였습니다. 급성 B형간염이 의심되는 상황에서, 황달로 인한 합병증 발생 위험이 있다고 할 때 초기 치료 접근으로 가장 적합한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "AST/ALT 500 IU/L 이상, 총빌리루빈 6.2 mg/dL",
-      "ClinicalNote": "임신 28주, 다른 기저질환 없음"
-    },
-    "options": {
-      "A": "광범위 항생제 투여",
-      "B": "경구용 항바이러스제(테노포비르 등) 고려",
-      "C": "즉시 응급 제왕절개술",
-      "D": "스테로이드 고용량 투여",
-      "E": "수혈 및 혈장교환술"
-    },
-    "answer": "B",
-    "explanation": "임신 중 급성 B형간염의 경우, 고위험 상황에서는 항바이러스제 투여로 간 손상을 줄이고, 황달로 인한 합병증을 예방할 수 있다. 임신에도 비교적 안전한 약물을 선택한다.",
-    "source": [
-      {
-        "source_id": "First_Aid_Step2_339",
-        "text": "Chronic hepatitis B may require antiviral therapy (e.g., tenofovir) to reduce complications."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 새로운 향수와 화장품 사용 후 발생한 가려운 피부 발진을 보이며, 발진이 화장품을 사용한 부위에 국한되어 있습니다. 피부 병변으로는 홍반, 부종, 소수포, 삼출물이 관찰되며, 이전에도 화장품에 대한 유사한 반응 병력이 있습니다. 이러한 임상상은 알레르기성 접촉 피부염(allergic contact dermatitis)을 강하게 시사합니다. 알레르기성 접촉 피부염은 지연성 과민반응(type IV hypersensitivity)으로, 이전에 감작된 알레르겐에 노출된 후 24-72시간 이후에 발생합니다. 화장품, 향수, 금속, 식물, 고무, 약물 등 다양한 물질이 알레르겐으로 작용할 수 있습니다. 피부 병변은 알레르겐에 직접 접촉한 부위에 국한되어 발생하며, 홍반, 부종, 수포, 삼출물, 가피 형성 등이 특징적입니다. 진단은 주로 임상적으로 이루어지며, 패치 테스트를 통해 원인 알레르겐을 확인할 수 있습니다. 아토피 피부염은 만성적이며 재발성 경과를 보이고, 특징적인 분포(굴측 부위)가 있습니다. 자극성 접촉 피부염은 이전 감작 없이도 자극물질에 의해 발생하며 알레르기성만큼 심한 반응을 보이지 않습니다. 지루성 피부염은 주로 두피, 얼굴, 가슴의 지성 부위에 발생하며, 약물 발진은 전신적 약물 노출에 따른 반응입니다.",
+  "source": "Pathology_Robbins_textbook_data.txt: Allergic contact dermatitis is a type IV hypersensitivity reaction that requires prior sensitization to an allergen. Common allergens include metals (nickel, gold), topical antibiotics (neomycin), rubber compounds, dyes, cosmetics, and plant resins (e.g., poison ivy). The reaction is characterized by erythema, vesiculation, and pruritus. The distribution of lesions is limited to the site of contact with the allergen, which may provide a clue to the inciting agent. The reaction typically occurs 24-72 hours after antigen exposure. Diagnosis is confirmed by patch testing, which involves the application of small amounts of potential allergens to the skin and assessing for a reaction.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 12,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "32세 여성이 피부 발진과 가려움증을 주소로 내원하였다. 환자는 3일 전부터 갑자기 시작된 몸통과 팔다리의 가려운 발진이 있다고 한다. 증상은 따뜻한 물로 샤워할 때와 열이 있을 때 악화된다고 한다. 환자는 최근 감기 증상으로 아스피린을 복용했다. 신체 검사에서 몸통과 팔다리에 다수의 팽진(wheal)과 홍반이 관찰되며, 피부를 긁으면 팽진이 발생하는 현상도 관찰된다. 이 환자에게 진단을 위해 시행할 가장 적절한 검사는?",
+  "exam": "피부 사진: 몸통과 팔다리에 다양한 크기의 홍반성 팽진이 관찰되며, 피부에 선을 긋자 선형의 팽진이 나타난다(양성 더모그래피즘).",
+  "options": { 
+    "A": "특정 IgE 항체 검사", 
+    "B": "피부단자검사", 
+    "C": "냉동글로불린 검사", 
+    "D": "더모그래피즘 검사", 
+    "E": "패치 테스트" 
   },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "013",
-    "chief_complaint": "신생아(출생 2일차), 눈과 피부가 노랗게 변함",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "생후 2일 된 신생아가 피부와 공막이 노랗게 변해서 내원했습니다. 총빌리루빈이 12 mg/dL, 주로 간접빌리루빈이 상승된 상태입니다. 출생 24시간 내에 황달이 뚜렷해졌고, 육안으로도 심하게 노랗게 보여 병원 방문하였습니다. 이때 우선적으로 필요한 응급 처치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 12 mg/dL(간접 10 mg/dL), 생후 48시간"
-    },
-    "options": {
-      "A": "광선치료(포토테라피)",
-      "B": "즉시 교환수혈",
-      "C": "경구 ursodeoxycholic acid",
-      "D": "간생검 후 대기",
-      "E": "광범위 항생제 투여"
-    },
-    "answer": "A",
-    "explanation": "출생 직후(24~48시간 내) 빠르게 상승하는 신생아 황달은 병적 가능성이 높으며, 포토테라피로 간접빌리루빈을 낮춰 핵황달 등을 예방해야 한다.",
-    "source": [
-      {
-        "source_id": "Pediatrics_Nelson_1418",
-        "text": "Phototherapy is an effective and safe method for reducing indirect bilirubin levels, particularly when initiated before serum bilirubin increases to levels associated with kernicterus."
-      }
-    ],
-    "category": "Pediatrics"
+  "answer": "D",
+  "explanation": "이 환자는 갑자기 발생한 가려운 팽진과 홍반을 보이며, 증상이 따뜻한 물과 열에 악화되는 특징이 있습니다. 또한 피부를 긁으면 팽진이 발생하는 현상(더모그래피즘, dermographism)이 관찰됩니다. 이러한 임상 양상은 물리적 두드러기(physical urticaria), 특히 피부묘기성 두드러기(dermographic urticaria)를 시사합니다. 피부묘기성 두드러기는 피부에 물리적 자극(긁기, 문지르기 등)이 가해질 때 발생하는 두드러기로, 물리적 두드러기의 가장 흔한 형태입니다. 진단을 위해서는 더모그래피즘 검사가 가장 적절합니다. 이 검사는 피부에 무딘 물체로 압력을 가한 후 팽진 발생 여부를 관찰하는 것으로, 양성일 경우 가해진 압력 부위를 따라 선형의 팽진이 발생합니다. 특정 IgE 항체 검사와 피부단자검사는 IgE 매개 알레르기 반응을 평가하는 데 유용하지만, 이 환자의 임상상은 물리적 자극에 의한 두드러기를 시사합니다. 냉동글로불린 검사는 냉글로불린혈증(cryoglobulinemia)을 평가하는 데 사용되며, 패치 테스트는 접촉 알레르기를 진단하는 데 사용됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Dermographism (\"writing on the skin\") is the most common physical urticaria, affecting about 2-5% of the population. Firm stroking of the skin produces an initial red line (capillary dilatation), followed by a wheal and flare from local mast cell degranulation. Dermographism can be diagnosed by drawing a tongue blade across the skin or using a calibrated instrument (dermographometer) that applies a predefined pressure to the skin. A positive test is characterized by the appearance of a linear wheal at the site of the stroke. Symptoms include pruritus and burning at sites of pressure or friction from clothing or activity. Lesions are typically linear or geometric and usually resolve within 1 hour.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 13,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "42세 여성이 3개월 전부터 시작된 전신 가려움증과 열감을 주소로 내원하였다. 환자는 체중 감소가 있었으며, 덥고 긴장될 때 증상이 악화된다고 한다. 신체 검사에서 안면 홍조와 입술의 청색증이 관찰되며, 간 비대와 비장 비대가 촉진된다. 혈액 검사 결과: 헤모글로빈 18.5 g/dL, 적혈구용적률 55%, 백혈구 12,000/μL, 혈소판 450,000/μL. 이 환자의 가려움증의 가장 가능성 높은 원인은?",
+  "options": { 
+    "A": "다발성 골수종", 
+    "B": "진성 적혈구증가증", 
+    "C": "갑상선기능항진증", 
+    "D": "폐쇄성 황달", 
+    "E": "만성 신부전" 
   },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "014",
-    "chief_complaint": "심한 알코올중독력이 있는 55세 남성, 급성 황달",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "알코올성 간질환의 과거력이 있는 환자가 최근 몇 주간 과음 후 극심한 피로와 황달을 호소하며 내원했습니다. 간기능 검사에서 AST/ALT 비가 2 이상이고 빌리루빈도 상당히 높습니다. 이 급성 악화 상태에서의 초기 치료 중 가장 중요한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "AST 200 IU/L, ALT 90 IU/L (AST/ALT≈2.2), 총빌리루빈 7.0 mg/dL, PT 연장"
-    },
-    "options": {
-      "A": "Plasma exchange",
-      "B": "Glucocorticoid(스테로이드) 치료",
-      "C": "광선치료",
-      "D": "ERCP를 통한 담관 배액",
-      "E": "수술적 간 이식 즉시 고려"
-    },
-    "answer": "B",
-    "explanation": "심한 알코올성 간염으로 인한 급성 황달 시, 스테로이드 치료가 단기적인 사망률 감소에 도움이 될 수 있다. 단, 적응증(중증도 지표)을 정확히 평가해야 한다.",
-    "source": [
-      {
-        "source_id": "First_Aid_Step2_339",
-        "text": "An AST/ALT ratio >2 suggests alcoholic hepatitis. In severe cases, steroid therapy may reduce short-term mortality."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 전신 가려움증, 열감, 체중 감소와 같은 전신 증상을 보이며, 신체 검사에서 안면 홍조, 입술 청색증, 간비대, 비장비대가 관찰됩니다. 혈액 검사에서 헤모글로빈 18.5 g/dL, 적혈구용적률 55%로 증가되어 있고, 백혈구와 혈소판도 증가되어 있습니다. 이러한 임상상과 검사 소견은 진성 적혈구증가증(polycythemia vera)을 강하게 시사합니다. 진성 적혈구증가증은 골수증식성 종양의 하나로, 골수 줄기세포의 클론성 증식으로 인해 적혈구, 백혈구, 혈소판이 모두 증가하는 특징이 있습니다. 진성 적혈구증가증 환자의 약 40%에서 전신 가려움증이 나타나며, 특히 따뜻한 물에 노출된 후(수욕성 가려움증, aquagenic pruritus) 더 심해지는 특징이 있습니다. 이는 비만 세포에서 방출되는 히스타민과 다른 매개체들에 의한 것으로 생각됩니다. 다른 특징적인 증상으로는 안면 홍조, 다혈증(plethora), 두통, 어지러움, 시각 장애, 피로감 등이 있으며, 신체 검사에서 비장 비대가 흔하게 관찰됩니다. 다발성 골수종은 빈혈과 고칼슘혈증을, 갑상선기능항진증은 체중 감소, 빈맥, 발한 증가를 보이지만 적혈구증가증은 동반하지 않습니다. 폐쇄성 황달과 만성 신부전은 모두 가려움증의 원인이 될 수 있지만, 이 환자의 혈액학적 이상 소견과 일치하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Polycythemia vera is characterized by increased red cell mass, often accompanied by leukocytosis and thrombocytosis. Common presenting symptoms include headache, dizziness, visual disturbances, pruritus, and erythromelalgia. Pruritus, especially after a warm bath or shower (aquagenic pruritus), occurs in 40% of patients with polycythemia vera and may be the presenting symptom. It is thought to be due to histamine and other mediators released from basophils or mast cells with increased histamine content in this disorder. Physical examination usually reveals plethora, splenomegaly, and occasionally hepatomegaly. Diagnosis requires elevated hemoglobin (>16.5 g/dL in men, >16.0 g/dL in women) or hematocrit (>49% in men, >48% in women) and JAK2 mutation (found in >95% of cases).",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 14,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "64세 남성이 3개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 간경변 진단을 받았으며, 특히 밤에 심해지는 가려움증을 호소한다. 환자는 최근 식욕 감소와 체중 감소가 있었고, 복수와 하지 부종이 관찰된다. 혈액 검사 결과: 총 빌리루빈 5.2 mg/dL, 직접 빌리루빈 3.8 mg/dL, AST 90 U/L, ALT 65 U/L, ALP 350 U/L, GGT 320 U/L, 혈청 알부민 2.8 g/dL, INR 1.8. 이 환자의 가려움증에 대한 가장 적절한 일차 치료는?",
+  "options": { 
+    "A": "콜레스티라민", 
+    "B": "리팜핀", 
+    "C": "날트렉손", 
+    "D": "우르소데옥시콜산", 
+    "E": "세로토닌 재흡수 억제제" 
   },
-  {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question_id": "015",
-    "chief_complaint": "3주 된 신생아, 짙은 황달과 회백색 변",
-    "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
-    "question": "생후 3주가 지났는데도 황달이 계속되고, 대변 색이 회백색이며 소변은 짙은 색을 보입니다. 검사상 직접 빌리루빈이 높게 측정되고, 알칼리인산분해효소(ALP)도 상승되어 있습니다. 이 아기에게서 가장 긴급하게 고려해야 할 치료적 조치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 10 mg/dL(직접 6 mg/dL), ALP 상승, GGT 상승",
-      "ClinicalNote": "회백색 변, 진한 소변"
-    },
-    "options": {
-      "A": "광선치료",
-      "B": "교환수혈",
-      "C": "조기 담도 확인 및 수술(카사이 수술) 평가",
-      "D": "스테로이드 고용량 투여",
-      "E": "간생검 후 경과관찰"
-    },
-    "answer": "C",
-    "explanation": "생후 2~3주가 지나도 지속되는 직접 빌리루빈 상승과 회백색 변은 담도폐쇄(신생아 담도폐쇄)를 강력히 시사하며, 카사이 수술 등 조기 수술적 처치가 예후 개선에 중요하다.",
-    "source": [
-      {
-        "source_id": "Pediatrics_Nelson_1411",
-        "text": "The presence of dark urine and gray-white stools with jaundice after the second week of life strongly suggests biliary atresia."
-      }
-    ],
-    "category": "Pediatrics"
+  "answer": "A",
+  "explanation": "이 환자는 진행된 간경변 환자로, 담즙 정체를 시사하는 검사 소견(총 빌리루빈 5.2 mg/dL, 직접 빌리루빈 3.8 mg/dL, ALP 350 U/L, GGT 320 U/L 상승)과 함께 전신 가려움증을 호소하고 있습니다. 담즙 정체와 관련된 가려움증은 담즙산이 피부에 축적되어 발생하는 것으로 생각되며, 특히 밤에 악화되는 특징이 있습니다. 담즙 정체성 가려움증의 일차 치료는 담즙산 결합 수지인 콜레스티라민(cholestyramine)입니다. 콜레스티라민은 장내에서 담즙산을 결합하여 재흡수를 방지하고 배설을 촉진함으로써 혈중 담즙산 농도를 낮춰 가려움증을 감소시킵니다. 콜레스티라민은 식사 전과 취침 전에 복용하는 것이 효과적이며, 주요 부작용으로는 변비, 소화불량, 지용성 비타민 흡수 장애 등이 있습니다. 리팜핀은 콜레스티라민에 반응하지 않는 환자에게 이차 치료로 고려할 수 있으며, 담즙산 대사를 촉진하고 pruritogen의 장-간 순환을 차단하는 효과가 있습니다. 날트렉손은 μ-오피오이드 수용체 길항제로, 담즙 정체성 가려움증에 효과가 있을 수 있으나 간 독성 위험이 있어 진행된 간질환 환자에서는 주의가 필요합니다. 우르소데옥시콜산은 원발성 담즙성 담관염과 같은 특정 담즙 정체성 간질환에서 유용하나, 직접적인 가려움증 완화 효과는 제한적입니다. 세로토닌 재흡수 억제제는 콜레스티라민, 리팜핀, 날트렉손에 반응하지 않는 환자에게 고려할 수 있는 치료 옵션입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Cholestatic pruritus is managed in a stepwise approach. Cholestyramine (4 g before and after breakfast and at bedtime) is considered first-line therapy. It acts by binding bile acids in the gut, preventing their absorption and promoting their excretion. Cholestyramine must be taken 1 hour before or 4 hours after other medications to avoid binding them and reducing their efficacy. Second-line agents include rifampin, which enhances hepatic metabolism of pruritogens and blocks their enterohepatic circulation; naltrexone, a μ-opioid receptor antagonist; and sertraline, a serotonin reuptake inhibitor. Ursodeoxycholic acid may be helpful in primary biliary cholangitis but has limited direct antipruritic effects.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "58세 여성이 6주 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특별한 피부 발진 없이 전신, 특히 손과 발에 심한 가려움증을 호소한다. 환자는 최근 체중 감소, 열감, 빈맥, 과도한 발한을 경험했다고 한다. 신체 검사에서 맥박 110회/분, 손 떨림, 갑상선 종대가 관찰된다. 혈액 검사 결과: TSH 0.01 mIU/L(정상: 0.4-4.0), 유리 T4 3.2 ng/dL(정상: 0.8-1.8). 이 환자의 가려움증의 가장 가능성 높은 원인은?",
+  "options": { 
+    "A": "당뇨병", 
+    "B": "갑상선기능항진증", 
+    "C": "만성 신부전", 
+    "D": "원발성 담즙성 담관염", 
+    "E": "약물 부작용" 
   },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "016",
-    "chief_complaint": "40세 남성, 용혈성 빈혈에 의한 만성 황달로 추정",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "만성 용혈성 빈혈에 따른 간접 빌리루빈 상승이 지속되어 황달이 나타나는 환자입니다. 최근 우상복부 통증을 호소하고 초음파에서 담낭 결석(색소담석)이 발견되었습니다. 적절한 치료 계획 중 가장 우선 고려해야 할 것은 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 3.0 mg/dL(간접 2.5), 용혈 지표 상승, 담낭 내 담석"
-    },
-    "options": {
-      "A": "스테로이드 투여",
-      "B": "담낭 절제술",
-      "C": "교환수혈",
-      "D": "면역억제제 투여",
-      "E": "간 이식"
-    },
-    "answer": "B",
-    "explanation": "만성 용혈성 빈혈 환자에서 색소담석으로 인한 담낭 결석이 생겼을 경우, 통증 및 합병증 예방을 위해 담낭 절제술이 치료 계획에서 우선 고려된다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3242",
-        "text": "In evaluating jaundice in patients with chronic hemolysis, it is important to remember the high incidence of pigmented gallstones."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 전신 가려움증과 함께 체중 감소, 열감, 빈맥, 과도한 발한, 손 떨림 등의 증상을 보이고 있으며, 신체 검사에서 빈맥, 손 떨림, 갑상선 종대가 관찰됩니다. 혈액 검사에서는 TSH 0.01 mIU/L로 현저히 감소하고, 유리 T4 3.2 ng/dL로 증가되어 있습니다. 이러한 임상상과 검사 소견은 갑상선기능항진증(hyperthyroidism)을 강하게 시사합니다. 갑상선기능항진증은 과도한 갑상선 호르몬 생성으로 인해 발생하는 질환으로, 그레이브스병, 독성 다결절성 갑상선종, 아급성 갑상선염 등이 원인이 될 수 있습니다. 갑상선기능항진증 환자의 약 4-11%에서 가려움증이 나타날 수 있으며, 이는 기초 대사율 증가로 인한 체온 상승, 발한 증가, 피부 혈류 변화 등과 관련이 있습니다. 또한 갑상선 호르몬은 비만 세포의 IgE 매개 탈과립을 증가시켜 가려움증을 유발할 수 있습니다. 가려움증 외에도 체중 감소, 열 불내성, 발한 증가, 빈맥, 고혈압, 떨림, 신경과민, 피로, 근육 약화, 월경 이상 등의 증상이 동반될 수 있습니다. 당뇨병은 말초 신경병증으로 인한 가려움증을 유발할 수 있으나, 이 환자의 임상상은 갑상선기능항진증에 더 부합합니다. 만성 신부전은 요독증으로 인한 가려움증과 관련이 있으며, 원발성 담즙성 담관염은 담즙 정체로 인한 가려움증을 유발할 수 있으나, 이 환자의 검사 소견과는 일치하지 않습니다. 약물 부작용으로 인한 가려움증 가능성도 있으나, 환자의 명확한 갑상선기능항진증 소견을 고려할 때 가능성이 낮습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hyperthyroidism is associated with pruritus in 4-11% of patients. The increased metabolic rate leads to vasodilation and heat intolerance, which can exacerbate pruritus. Thyroid hormones can also increase IgE-mediated mast cell degranulation, contributing to pruritus. Common manifestations of hyperthyroidism include weight loss despite increased appetite, heat intolerance, sweating, palpitations, anxiety, tremor, and tachycardia. Physical examination may reveal goiter, exophthalmos (in Graves' disease), and hyperreflexia. The diagnosis is confirmed by suppressed TSH and elevated free T4 levels.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "70세 남성이 2개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특별한 피부 발진 없이 전신, 특히 등과 팔다리에 가려움증을 호소한다. 환자는 최근 건조한 피부로 인해 증상이 더 심해졌다고 한다. 환자는 고혈압과 당뇨병으로 약물 치료 중이다. 신체 검사에서 전신의 건조한 피부(xerosis)와 긁은 자국이 관찰된다. 환자는 최근 다른 피부 질환이나 전신 증상은 없다고 한다. 이 환자에게 필요한 가장 적절한 초기 검사는?",
+  "options": { 
+    "A": "혈청 크레아티닌 및 BUN 검사", 
+    "B": "갑상선 기능 검사(TSH, T4)", 
+    "C": "간기능 검사 및 빌리루빈", 
+    "D": "흉부 X선 검사", 
+    "E": "피부 생검" 
   },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "017",
-    "chief_complaint": "45세 여성, 자가면역성 간염으로 인한 만성 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "자가면역성 간염으로 진단받은 후 만성적으로 황달이 지속되고 있습니다. 간 효소 수치도 꾸준히 상승되어 있으며, 조직 소견상 간세포 염증이 뚜렷합니다. 이에 대한 합병증 예방과 진행 억제를 위한 치료 계획으로 가장 적절한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "AST/ALT 꾸준히 상승, γ-글로불린 증가, ANA 양성",
-      "ClinicalNote": "만성 피로와 황달 지속"
-    },
-    "options": {
-      "A": "단독 광선치료로 빌리루빈 조절",
-      "B": "스테로이드 및 면역억제제(아자티오프린 등) 병용 요법",
-      "C": "담관 내시경 시술(ERCP) 통한 스텐트 삽입",
-      "D": "즉각적인 간 이식 수술",
-      "E": "정맥용 감마글로불린 투여"
-    },
-    "answer": "B",
-    "explanation": "자가면역성 간염의 관리에서는 스테로이드와 면역억제제(예: 아자티오프린) 병용 요법이 표준 치료이며, 황달 및 간기능 악화의 진행을 억제한다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "If autoimmune hepatitis is suspected, treatment with steroids and immunosuppressants can help prevent progression."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "A",
+  "explanation": "이 환자는 70세 고령 남성으로, 피부 발진 없이 2개월간 지속된 전신 가려움증을 호소하고 있습니다. 신체 검사에서 전신의 건조한 피부(xerosis)와 긁은 자국이 관찰되며, 환자는 고혈압과 당뇨병으로 약물 치료 중입니다. 노인에서 피부 발진 없는 전신 가려움증의 가장 흔한 원인은 노인성 건조 피부(senile xerosis)이지만, 기저 전신 질환에 의한 이차적 가려움증 가능성도 반드시 고려해야 합니다. 특히 당뇨병 환자에서는 만성 신부전의 발생 위험이 높으며, 신부전과 관련된 요독증은 전신 가려움증의 중요한 원인 중 하나입니다. 따라서 혈청 크레아티닌 및 BUN 검사를 통해 신기능을 평가하는 것이 가장 우선적으로 필요합니다. 당뇨병 환자는 신병증 발생 위험이 높으며, 초기에는 무증상일 수 있으나 질환이 진행됨에 따라 요독증으로 인한 가려움증이 발생할 수 있습니다. 또한 고혈압은 신손상의 또 다른 위험 인자입니다. 갑상선 기능 검사, 간기능 검사 및 빌리루빈 검사도 각각 갑상선 질환과 간담도 질환을 배제하기 위해 고려할 수 있는 검사이나, 환자의 임상상과 기저 질환을 고려할 때 신기능 검사가 더 우선적입니다. 흉부 X선 검사는 특정 호흡기 증상이나 징후가 없는 상태에서는 우선순위가 낮으며, 피부 생검은 피부 병변이 없는 상태에서는 유용한 정보를 제공하지 않을 가능성이 높습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: In elderly patients with generalized pruritus without a primary dermatologic disorder, a focused work-up should include a complete blood count with differential, metabolic panel (including renal and liver function tests), and thyroid function tests. Renal dysfunction is a common cause of pruritus in the elderly, particularly those with diabetes or hypertension, due to the accumulation of uremic toxins. Chronic kidney disease may be asymptomatic in its early stages, with pruritus developing as the disease progresses. Approximately 40% of patients with advanced CKD experience pruritus. In elderly patients with xerosis and pruritus, renal function should be assessed even in the absence of other uremic symptoms.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "25세 남성이 2주 전부터 시작된 오른쪽 가슴과 등의 통증과 가려움증을 주소로 내원하였다. 환자는 처음에는 가벼운 따끔거림이 있었으나, 점차 심한 화끈거림과 가려움으로 발전했다고 한다. 신체 검사에서 오른쪽 가슴과 등을 따라 피부분절(dermatome)을 따라 분포하는 다수의 군집된 수포성 발진이 관찰된다. 일부 병변은 진물이 나오고 가피가 형성되어 있다. 이 환자의 가려움증과 통증에 대한 가장 적절한 치료는?",
+  "exam": "피부 사진: 오른쪽 흉부와 등 부위에 T4-T5 피부분절을 따라 다수의 군집된 수포성 발진이 관찰되며, 일부는 미란과 가피 형성이 동반되어 있다.",
+  "options": { 
+    "A": "국소 코르티코스테로이드 도포", 
+    "B": "경구 아시클로버 투여", 
+    "C": "경구 발라시클로버 투여", 
+    "D": "경구 페니실린 투여", 
+    "E": "국소 타크로리무스 도포" 
   },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "018",
-    "chief_complaint": "62세 남성, 췌두부암으로 인한 폐쇄성 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "췌장 두부암으로 인해 담관이 막혀 황달이 발생한 상태입니다. 현재 총빌리루빈 15 mg/dL로 고빌리루빈혈증이 심하고, 소양감과 식욕 부진이 동반됩니다. 이 환자의 치료 계획 중 우선적으로 고려해야 할 조치는 무엇입니까?",
-    "exam": {
-      "Lab": "총빌리루빈 15 mg/dL (주로 직접), ALP 큰 폭 상승",
-      "Imaging": "CT에서 췌두부 종양으로 담관이 압박됨"
-    },
-    "options": {
-      "A": "췌장 절제술을 위한 개복 수술 즉시 진행",
-      "B": "경피적 간생검으로 확진 후 대기",
-      "C": "내시경적 또는 경피적 담도 배액술로 빌리루빈 수치 조절",
-      "D": "광선치료로 황달 해소",
-      "E": "스테로이드 고용량 투여"
-    },
-    "answer": "C",
-    "explanation": "췌두부암으로 인한 폐쇄성 황달에서 담도 배액술(내시경적 혹은 경피적)을 통해 우선 빌리루빈 수치를 낮춰 합병증을 줄이고, 이후 종양에 대한 수술 혹은 보조치료를 계획한다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8934",
-        "text": "In malignant obstructive jaundice, biliary drainage can relieve pruritus and improve hepatic function before definitive treatment."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "C",
+  "explanation": "이 환자는 피부분절을 따라 군집된 수포성 발진과 함께 통증, 화끈거림, 가려움증을 호소하고 있으며, 이는 대상포진(herpes zoster)의 전형적인 임상상입니다. 대상포진은 수두-대상포진 바이러스(varicella-zoster virus, VZV)의 재활성화로 인해 발생하며, 초기 수두 감염 후 후근신경절(dorsal root ganglia)에 잠복해 있던 바이러스가 면역 저하, 스트레스, 노화 등의 요인으로 인해 재활성화되어 발생합니다. 대상포진의 특징적인 임상 양상은 감각신경의 피부분절을 따라 편측성으로 분포하는 군집된 수포성 발진과 동반된 통증, 작열감, 가려움증입니다. 대상포진의 치료는 항바이러스제 투여로, 발병 후 72시간 이내에 시작하는 것이 가장 효과적입니다. 경구 발라시클로버(valacyclovir)는 경구 투여 후 빠르게 아시클로버로 전환되어 혈중 농도가 높게 유지되므로, 아시클로버보다 복용 편의성과 효과 면에서 우수합니다. 발라시클로버는 일반적으로 1일 3회, 7일간 투여합니다. 항바이러스 치료의 목적은 바이러스 복제를 억제하여 병변의 치유를 촉진하고, 통증을 감소시키며, 대상포진 후 신경통(postherpetic neuralgia)과 같은 합병증의 발생 위험을 줄이는 것입니다. 국소 코르티코스테로이드는 대상포진의 직접적인 치료가 되지 않으며, 오히려 감염을 악화시킬 수 있습니다. 페니실린은 세균 감염에 사용되는 항생제로 바이러스 감염인 대상포진에는 효과가 없습니다. 국소 타크로리무스도 면역억제제로 감염을 악화시킬 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Herpes zoster (shingles) represents reactivation of varicella-zoster virus (VZV) that has remained latent in dorsal root ganglia since primary infection (chickenpox). It presents as a vesicular eruption with a dermatomal distribution, often accompanied by severe pain and pruritus. Antiviral therapy is most effective when initiated within 72 hours of rash onset. Oral valacyclovir (1 g three times daily for 7 days) is preferred over acyclovir due to better bioavailability and less frequent dosing. The goals of therapy are to reduce viral shedding, hasten lesion healing, alleviate acute pain, and prevent postherpetic neuralgia. For pain management, analgesics and sometimes short-term opioids may be required. Topical lidocaine patches may provide relief for localized areas.",
+  "category": "Dermatology"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "60세 남성이 3개월 전부터 시작된 머리, 목, 몸통의 가려운 발진을 주소로 내원하였다. 환자는 발진이 햇빛 노출 부위에 주로 발생하며, 햇빛에 노출된 후 악화된다고 한다. 목 부위에는 poikiloderma(색소 침착, 색소 탈실, 모세혈관 확장, 표피 위축이 혼합된 상태)가 관찰된다. 환자는 최근 식욕 부진, 체중 감소, 심한 피로감을 경험했다고 한다. CPK 수치는 정상이나, 항핵항체 양성, 항Jo-1 항체 음성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "피부 사진: 목과 상부 흉부에 poikiloderma(색소 침착과 탈색, 모세혈관 확장, 표피 위축)가 관찰되며, 손등에 Gottron 징후와 유사한 병변이 관찰된다.",
+  "options": { 
+    "A": "진행성 전신성 경화증", 
+    "B": "피부근염", 
+    "C": "전신홍반루푸스", 
+    "D": "피부T세포림프종", 
+    "E": "성인형 스틸병" 
   },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "019",
-    "chief_complaint": "28세 남성, 길버트증후군 진단 후 경미한 황달 반복",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "길버트증후군으로 인해 스트레스나 단식 시 경미한 황달을 반복적으로 경험하는 환자입니다. 간기능은 정상이고, 다른 합병증은 없습니다. 이 환자의 장기적인 치료 및 관리 계획으로 가장 적절한 것은 무엇입니까?",
-    "exam": {
-      "Lab": "간기능 검사 정상, 간접빌리루빈 약간 상승 (1.5~2.0 mg/dL)",
-      "ClinicalNote": "스트레스 시 황달 악화"
-    },
-    "options": {
-      "A": "정기적 교환수혈",
-      "B": "스테로이드 저용량 유지",
-      "C": "간이식 고려",
-      "D": "생활습관 조절 위주로 경과 관찰",
-      "E": "광선치료 주 1회 시행"
-    },
-    "answer": "D",
-    "explanation": "길버트증후군은 예후가 양호하고 간접 빌리루빈이 경도 상승하는 것 외에 큰 합병증이 없어, 특별한 치료 없이 생활습관 조절(금식·과로 회피)로도 충분히 관리 가능하다.",
-    "source": [
-      {
-        "source_id": "Surgery_Schwartz_8938",
-        "text": "Gilbert’s syndrome is benign. Typically, the disease results in transient mild increases in unconjugated bilirubin levels and usually does not require further treatment."
-      }
-    ],
-    "category": "Gastroenterology"
+  "answer": "B",
+  "explanation": "이 환자는 목과 몸통의 가려운 발진, 특히 햇빛 노출 부위에 발생하는 poikiloderma, 그리고 전신 증상(식욕 부진, 체중 감소, 피로감)을 보이고 있습니다. 또한 항핵항체 양성 소견을 보이지만 항Jo-1 항체는 음성입니다. 이러한 임상상은 피부근염(dermatomyositis)을 강하게 시사합니다. 피부근염은 피부 침범과 근육 침범이 특징인 특발성 염증성 근육병으로, 일부 환자는 근육 증상 없이 피부 증상만 나타내는 무근병성 피부근염(amyopathic dermatomyositis)을 보일 수 있습니다. 피부근염의 특징적인 피부 소견으로는 눈 주위의 보라색 발진(heliotrope rash), 손가락 관절의 고트론 구진(Gottron's papules), 손톱 주위의 홍반과 모세혈관 변화, V자형 목 부위와 상부 등의 poikiloderma(이를 'shawl sign'이라고도 함)가 있습니다. 이러한 피부 병변은 광과민성(photosensitivity)을 보이며, 가려움증이 흔한 증상입니다. 피부근염은 종종 내부 악성 종양과 연관될 수 있으며, 특히 60세 이상의 환자에서는 악성 종양의 동반 여부를 확인하기 위한 검사가 필요합니다. CPK 정상은 무근병성 피부근염 가능성을 시사하지만, 보다 정확한 근육 평가를 위해 근전도 검사나 근육 생검이 필요할 수 있습니다. 진행성 전신성 경화증은 피부 경화와 손가락 레이노 현상이 특징적이며, 전신홍반루푸스는 나비 모양 발진이 특징적입니다. 피부T세포림프종은 점차 진행하는 패치나 플라크 형태의 피부 병변을 보이며, 성인형 스틸병은 일시적인 연어색 발진, 고열, 관절통이 특징적입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Dermatomyositis is an idiopathic inflammatory myopathy characterized by proximal muscle weakness and distinctive skin manifestations. Cutaneous features include heliotrope rash (violaceous discoloration of the upper eyelids), Gottron's papules (erythematous, scaly papules on the dorsal surfaces of joints), 'shawl sign' (poikiloderma on the posterior neck, shoulders, and upper back), 'V sign' (poikiloderma on the anterior neck and chest), and periungual erythema with telangiectasias. Pruritus is common in dermatomyositis and may be severe, particularly in areas of active disease. Dermatomyositis in adults has a strong association with malignancy, especially in patients over 60 years of age. Some patients have skin manifestations without clinically evident muscle involvement, termed clinically amyopathic dermatomyositis.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 여성이 4개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특별한 피부 발진 없이 가려움증을 호소하며, 밤에 더 심해진다고 한다. 환자는 당뇨병, 고혈압, 갑상선기능저하증으로 약물 치료 중이며, 4개월 전부터 만성 요통으로 트라마돌을 간헐적으로 복용하고 있다. 신체 검사에서 특이 소견은 없으며, 기본 혈액 검사, 간기능 검사, 신기능 검사, 갑상선 기능 검사는 모두 정상이다. 이 환자에게 가장 의심해 볼 수 있는 가려움증의 원인과 필요한 추가 검사는?",
+  "options": { 
+    "A": "다발성 경화증 - 뇌 및 척수 MRI 검사", 
+    "B": "만성 특발성 두드러기 - 피부 생검", 
+    "C": "약물 유발성 가려움증 - 약물 중단 및 재투여 시험", 
+    "D": "림프종 - 흉부, 복부, 골반 CT 검사", 
+    "E": "심인성 가려움증 - 정신과 평가" 
   },
-  {
-    "topic": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question_id": "020",
-    "chief_complaint": "65세 남성, 간경변증과 문맥고혈압에 동반된 황달",
-    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
-    "question": "만성 간염이 오래 진행되어 간경변증과 황달이 발생했습니다. 복수와 식도정맥류도 함께 나타났습니다. 이 환자에서 황달과 합병증(복수, 정맥류 출혈 위험)을 동시에 완화할 수 있는 치료 전략 중 우선 고려할 항목은 무엇입니까?",
-    "exam": {
-      "Lab": "빌리루빈 4.5 mg/dL, 알부민 감소, PT 연장",
-      "ClinicalNote": "복수, 식도정맥류 동반"
-    },
-    "options": {
-      "A": "광선치료로 빌리루빈 제거",
-      "B": "비장 적출술",
-      "C": "간이식 평가 및 이뇨제, 베타차단제 병용",
-      "D": "단백질 섭취 전면 금지",
-      "E": "고용량 스테로이드 투여"
-    },
-    "answer": "C",
-    "explanation": "간경변으로 인한 문맥고혈압과 황달이 함께 있는 경우, 궁극적으로 간이식 여부를 평가해야 하며, 단기적으로는 이뇨제를 이용해 복수를 조절하고, 베타차단제로 식도정맥류 출혈 위험을 낮춘다.",
-    "source": [
-      {
-        "source_id": "InternalMed_Harrison_3237",
-        "text": "Chronic liver disease with cirrhosis and portal hypertension may require diuretics for ascites, beta-blockers for varices, and ultimately evaluation for liver transplantation."
-      }
-    ],
-    "category": "Gastroenterology"
-  }
-]
+  "answer": "C",
+  "explanation": "이 환자는 피부 발진 없이 4개월 전부터 시작된 전신 가려움증을 호소하며, 밤에 악화되는 양상을 보입니다. 중요한 점은 가려움증 시작 시기와 트라마돌 복용 시작 시기가 일치한다는 것입니다. 트라마돌은 약한 μ-오피오이드 수용체 작용제이자 세로토닌과 노르에피네프린 재흡수 억제제로, 오피오이드 계열 약물의 흔한 부작용 중 하나가 가려움증입니다. 오피오이드는 μ-오피오이드 수용체를 통해 비만 세포에서 히스타민 분비를 촉진하고, 중추신경계에서 가려움증 신호 전달을 변화시켜 가려움증을 유발할 수 있습니다. 이 환자의 경우, 가려움증의 시작이 트라마돌 복용과 시간적으로 연관되어 있고, 다른 기본 검사에서 특이 소견이 없으므로, 약물 유발성 가려움증을 가장 먼저 의심해야 합니다. 약물 유발성 가려움증의 진단은 의심되는 약물을 중단한 후 증상이 호전되는지 관찰하고, 필요시 재투여 시험을 통해 확인할 수 있습니다(재투여는 심각한 이상반응이 없는 경우에만 신중하게 수행). 다발성 경화증은 중추신경계 질환으로 가려움증을 유발할 수 있으나, 일반적으로 감각 이상, 시력 변화, 운동 장애 등 다른 신경학적 증상을 동반합니다. 만성 특발성 두드러기는 피부 병변(팽진)을 동반하므로 이 환자의 임상상과 맞지 않습니다. 림프종은 가려움증의 중요한 원인이지만, 일반적으로 체중 감소, 야간 발한 등의 B 증상이나 림프절 비대와 같은 다른 징후를 동반합니다. 심인성 가려움증은 배제 진단으로, 다른 원인이 모두 배제된 후에 고려해야 합니다.",
+  "source": "Pharmacology_Katzung_textbook_data.txt: Opioid-induced pruritus is a common side effect of opioid analgesics, occurring in up to 10% of patients taking these medications. Tramadol, as a weak μ-opioid receptor agonist and serotonin/norepinephrine reuptake inhibitor, can cause pruritus, though less frequently than pure μ-agonists like morphine. Opioids induce pruritus through central and peripheral mechanisms, including μ-receptor-mediated mast cell degranulation with histamine release, and alteration of itch processing in the central nervous system. The pruritus is often generalized and may be worse at night. Management includes opioid dose reduction, rotation to an alternative opioid, or addition of an opioid antagonist like naloxone at low doses that do not compromise analgesia. A drug challenge test, where the medication is withdrawn and then reintroduced while monitoring for symptom recurrence, can confirm the diagnosis.",
+  "category": "Pharmacology"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 여성이 3주 전부터 시작된 심한 가려움증을 주소로 내원하였다. 환자는 최근 인후통과 발열로 아목시실린-클라불란산을 10일간 복용했으며, 치료 시작 5일 후부터 전신에 가려운 발진이 나타났다고 한다. 피부 검사에서 전신에 다형성 홍반성 반구진성 발진이 관찰되며, 일부는 미란과 수포 형성을 동반하고 있다. 구강 점막과 생식기 점막에도 유사한 병변이 관찰된다. 혈액 검사에서 호산구 증가증이 확인되었다. 이 환자의 진단과 가장 적절한 치료는?",
+  "exam": "피부 사진: 전신에 다양한 크기와
+형태의 홍반성 반구진성 발진이 관찰되며, 일부 병변은 표적 모양(target-like)을 보이고, 구강 내 점막에 미란성 병변이 관찰된다.",
+  "options": { 
+    "A": "스티븐스-존슨 증후군 - 약물 중단 및 중증도에 따라 지지 치료 또는 전신 코르티코스테로이드 투여", 
+    "B": "다형홍반 - 국소 코르티코스테로이드 도포", 
+    "C": "급성 전신성 발진성 농포증 - 항생제 투여", 
+    "D": "호산구성 약물 발진 - 항히스타민제 투여", 
+    "E": "독성표피괴사용해 - 화상 치료센터로 이송" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 아목시실린-클라불란산 복용 후 발생한 심한 피부 발진과 가려움증을 보이며, 전신에 다형성 홍반성 반구진성 발진과 함께 일부 병변에서는 미란과 수포 형성이 관찰됩니다. 특히 구강 점막과 생식기 점막에도 병변이 있으며, 혈액 검사에서 호산구 증가증이 확인되었습니다. 이러한 임상상은 스티븐스-존슨 증후군(Stevens-Johnson syndrome, SJS)을 강하게 시사합니다. 스티븐스-존슨 증후군은 약물 유발성 중증 피부 이상반응의 하나로, 피부와 점막에 심한 물집과 미란을 특징으로 합니다. SJS는 체표면적의 10% 미만을 침범하며, 10-30%를 침범할 경우 SJS/TEN 중첩, 30% 이상을 침범할 경우 독성표피괴사용해(TEN)로 분류됩니다. 흔한 원인 약물로는 설폰아미드, 항경련제, 페니실린계 항생제(아목시실린 포함) 등이 있습니다. 스티븐스-존슨 증후군의 치료는 우선 원인 약물을 즉시 중단하고, 광범위한 지지 치료를 제공하는 것입니다. 수액 요법, 전해질 균형 유지, 영양 공급, 통증 조절, 2차 감염 예방 등이 중요합니다. 중증도에 따라 전신 코르티코스테로이드 투여를 고려할 수 있으나, 그 효과와 안전성에 대해서는 논란이 있습니다. 심한 경우 면역글로불린 정맥 투여나 화상 치료센터로의 이송이 필요할 수 있습니다. 다형홍반은 주로 감염 후 발생하는 경미한 피부 반응으로, 점막 침범이 덜하며 주로 사지 말단부를 침범합니다. 급성 전신성 발진성 농포증은 작은 농포가 특징이며, 독성표피괴사용해는 더 광범위한 표피 괴사를 보입니다. 호산구성 약물 발진은 항히스타민제로 치료하나, 이 환자의 점막 침범과 수포 형성은 단순한 약물 발진보다 중증의 이상반응임을 시사합니다.",
+  "source": "Pathology_Robbins_textbook_data.txt: Stevens-Johnson syndrome (SJS) is a severe mucocutaneous reaction characterized by extensive necrosis and detachment of the epidermis. It is considered a drug-induced cutaneous reaction in 80% of cases, with common culprits including sulfonamides, anticonvulsants, penicillins, and allopurinol. SJS typically begins with flu-like symptoms, followed by the rapid onset of painful cutaneous and mucous membrane lesions. Cutaneous lesions begin as erythematous macules that quickly develop central necrosis. Involvement of at least two mucosal surfaces is typical. Laboratory findings may include leukocytosis, elevated transaminases, and eosinophilia. Management includes immediate discontinuation of the suspected drug, supportive care (fluid and electrolyte management, nutritional support, pain control), prevention of secondary infections, and in some cases, systemic corticosteroids or intravenous immunoglobulin. SJS carries a mortality rate of approximately 5%.",
+  "category": "Dermatology"
+}
