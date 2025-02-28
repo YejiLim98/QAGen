@@ -7,8 +7,9 @@ last update : 250228 3P
 ChatGPT 4o, Projects <MCQ Generator>
 
 ### Documents
-1. Original QA set : minimum of 15 Questions about each "Assessment Objective" (./RawQA)
-3. Revised QA set : 10 Questions reviewed and curated from the original QA set. QA set was removed adhering the following rules : 
+1. Original QA set : minimum of 15 Questions about each "Assessment Objective"
+   [RawQA 폴더 열기](./RawQA)
+2. Revised QA set : 10 Questions reviewed and curated from the original QA set. QA set was removed adhering the following rules : 
    - QA set assessing similar contents were reviewed and only ONE QA set was selected.
    - Difficulty level was reviewed and QA set containing obvious answers.
 
