@@ -292,3 +292,73 @@
     "category": "Neurology / Neurosurgery"
   }
 ]
+{
+  "question_id": 3,
+  "chief_complaint": "허리 통증 및 하지 위약",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "68세 남성이 수개월 전부터 시작된 허리 통증과 함께 최근 수일간 진행된 양측 하지 위약 및 배뇨 곤란을 주소로 내원하였다. 신체 검진에서 항문 괄약근의 긴장도 저하가 확인되었으며, 양측 하지 근력 저하와 감각 저하가 관찰되었다. 가장 적절한 치료 방법은?",
+  "exam": "요추 MRI에서 L4-L5 부위의 중심성 추간판 탈출이 관찰되었으며, 경막낭을 심하게 압박하고 있음.",
+  "options": {
+    "A": "물리 치료 및 진통제",
+    "B": "비스테로이드 항염제(NSAIDs) 및 경막외 스테로이드 주사",
+    "C": "긴급 신경외과 수술(감압술)",
+    "D": "코르티코스테로이드 고용량 정맥 투여",
+    "E": "항생제 치료"
+  },
+  "answer": "C",
+  "explanation": "환자는 진행성 하지 위약, 배뇨 곤란, 항문 괄약근 조절 장애가 동반된 '마미 증후군(cauda equina syndrome)'을 시사하는 임상 양상을 보이고 있다. 이는 신경외과적 응급 상황으로, 즉시 감압술을 시행하지 않으면 영구적인 신경 손상이 남을 수 있다. 물리 치료 및 진통제(A)는 초기 허리 통증에는 효과적이나, 본 환자의 경우 신경 증상이 진행되고 있어 적절한 치료가 아니다. NSAIDs 및 스테로이드 주사(B)는 경미한 디스크 병변에서는 고려될 수 있으나, 마미 증후군에서는 응급 수술이 필요하다. 코르티코스테로이드 정맥 투여(D)는 다발성 경화증이나 척수염에서 고려될 수 있으나, 본 환자에서는 근본적인 치료가 아니다. 항생제 치료(E)는 감염성 원인(예: 척추 골수염)에서 필요할 수 있으나, 본 환자의 경우 추간판 탈출이 원인이므로 해당되지 않는다.",
+  "source": [
+    {
+      "source_id": "InternalMed_Harrison_24521",
+      "text": "Cauda equina syndrome is a neurosurgical emergency requiring immediate decompression to prevent permanent neurological damage."
+    }
+  ],
+  "category": "Neurology / Neurosurgery"
+}
+{
+  "question_id": 2,
+  "chief_complaint": "급성 허리 통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "42세 남성이 무거운 물건을 들다가 갑자기 발생한 허리 통증을 주소로 내원하였다. 통증은 둔부와 허벅지 후면으로 방사되며, 누워서 한쪽 다리를 들어올릴 때 통증이 심해진다(Straight leg raising test 양성). 다음 중 가장 가능성이 높은 진단명은?",
+  "exam": "신경학적 검사에서 우측 L5 신경근 분포 감각 저하가 관찰됨. 근력 저하는 없으며, 심부건 반사는 정상이었음.",
+  "options": {
+    "A": "요추 염좌",
+    "B": "추간판 탈출증",
+    "C": "강직성 척추염",
+    "D": "요추 척추관 협착증",
+    "E": "전이성 척추암"
+  },
+  "answer": "B",
+  "explanation": "환자는 급성으로 발생한 허리 통증과 함께 방사통을 동반하며, Straight leg raising test가 양성인 상태이다. 이는 요추 추간판 탈출증(herniated disc)의 전형적인 임상 양상이다. L5 신경근 분포의 감각 저하는 L4-L5 디스크 탈출을 시사한다. 요추 염좌(A)는 신경학적 이상이 없으며, 단순 근육통 양상이 일반적이다. 강직성 척추염(C)은 젊은 남성에서 서서히 진행하는 염증성 요통이 특징적이며, HLA-B27 검사와 영상 소견이 필요하다. 요추 척추관 협착증(D)은 보행 시 악화되는 신경인성 파행이 특징적이다. 전이성 척추암(E)은 만성적이며 야간에도 지속되는 통증이 흔하다.",
+  "source": [
+    {
+      "source_id": "InternalMed_Harrison_24520",
+      "text": "Lumbar disc herniation often presents with acute low back pain with radiation down the leg, particularly in the distribution of the affected nerve root."
+    }
+  ],
+  "category": "Orthopedic Surgery"
+}
+
+{
+  "question_id": 9,
+  "chief_complaint": "허리 통증 및 발열",
+  "purpose": "허리통증을 호소하는 사람에서 감염 여부를 감별할 수 있다.",
+  "question": "52세 남성이 2주 전부터 발생한 허리 통증과 발열을 주소로 내원하였다. 최근 치과 치료를 받은 적이 있으며, 신체 진찰에서 요추부 국소 압통이 확인되었다. 가장 적절한 다음 검사 조치는?",
+  "exam": "체온 38.5°C, 요추부 국소 압통, 신경학적 이상 없음.",
+  "options": {
+    "A": "요추 X-ray",
+    "B": "요추 MRI 및 혈액배양 검사",
+    "C": "근전도 검사",
+    "D": "요추 천자",
+    "E": "근골격 초음파"
+  },
+  "answer": "B",
+  "explanation": "발열과 함께 허리 통증이 동반되는 경우 척추 감염(예: 척추 골수염)을 의심해야 한다. 요추 MRI 및 혈액배양 검사(B)를 시행하여 감염의 원인과 범위를 확인하는 것이 중요하다. X-ray(A)는 초기 감염을 감지하는 데 민감도가 낮다. 근전도 검사(C)는 신경근 질환 감별에 적합하다. 요추 천자(D)는 수막염 감별을 위한 검사이며, 본 환자와는 적절하지 않다. 근골격 초음파(E)는 연부 조직 평가에는 유용하지만 척추 골수염 평가에는 제한적이다.",
+  "source": [
+    {
+      "source_id": "InternalMed_Harrison_24527",
+      "text": "Vertebral osteomyelitis should be suspected in patients with back pain and fever. MRI and blood cultures are the preferred diagnostic tools."
+    }
+  ],
+  "category": "Infectious Diseases"
+}
