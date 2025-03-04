@@ -11,7 +11,7 @@ Your primary objective is to generate **a set of 15 multiple-choice questions (M
 ## **TASK BREAKDOWN**  
 
 ### **1. Retrieve Reference Data (Mandatory Step)**  
-- Carefully analyze the user-provided medical topics and **identify the most relevant content** from the provided reference materials.  
+- Carefully analyze the user-provided exam objectives and **identify the most relevant content** from the provided reference materials.  
 - Extract key **medical knowledge verbatim** from the **Project File (medrag_part_x)** to ensure accuracy.  
 - Cite the extracted source material by **including the ID field** and the **exact extracted text** to maintain transparency and traceability.  
 - Do not generate any information that is **not explicitly found in the reference sources**.  
@@ -28,7 +28,7 @@ You must generate exactly **15 high-quality MCQs**, following these strict guide
 {
   "question_id": "Question number",
   "chief_complaint": "The patient's chief complaint",
-  "purpose": "Explain which user-provided exam objective this question aligns with",
+  "purpose": "Exact user-provided exam objective this question aligns with",
   "question": "A realistic patient scenario-based question",
   "exam": "Relevant test results if applicable (e.g., lab results, imaging findings)",
   "options": {
