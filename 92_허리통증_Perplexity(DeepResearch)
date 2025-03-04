@@ -1,0 +1,369 @@
+{
+  "question_id": 1,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "68세 남성이 3개월 전부터 시작된 허리 통증과 양측 하지 저림을 주소로 내원하였다. 환자는 특히 서 있거나 걸을 때 증상이 악화되고, 앉거나 허리를 구부릴 때 완화된다고 한다. 최근에는 걸을 수 있는 거리가 점점 짧아지고 있다고 한다. 증상은 주로 양측 엉덩이와 허벅지 뒤쪽으로 나타나며, 종아리까지 내려가는 경우는 드물다. 신체검진에서 요추부 신전 시 통증이 악화되고, 양측 하지의 근력은 정상이다. 심부건반사는 정상이고 감각 이상도 없다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "요추 추간판 탈출증", 
+    "B": "요추 척추관 협착증", 
+    "C": "강직성 척추염", 
+    "D": "척추 압박 골절", 
+    "E": "척추 전이성 종양" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 68세 고령 남성으로, 양측성 하지 통증을 호소하며 특히 서 있거나 걸을 때 증상이 악화되고 앉거나 허리를 구부릴 때 완화되는 전형적인 요추 척추관 협착증(lumbar spinal stenosis)의 증상을 보입니다. 환자가 호소하는 '신경성 파행(neurogenic claudication)'은 요추 척추관 협착증의 특징적인 증상으로, 보행 시 하지 통증, 저림, 약화가 나타나며 보행 거리가 제한됩니다. 이러한 증상은 앉거나 허리를 구부리면 완화되는데, 이는 이 자세에서 척추관이 넓어지기 때문입니다. 요추 척추관 협착증은 주로 퇴행성 변화로 인해 발생하며, 노년층에서 흔합니다. 환자의 증상이 양측성이고 주로 엉덩이와 허벅지에 국한되며, 신체검진에서 심부건반사와 감각이 정상인 점도 요추 척추관 협착증에 부합합니다. 요추 추간판 탈출증은 주로 일측성 방사통을 보이며, 요통보다 하지 방사통이 더 심하고, 기침이나 재채기와 같은 복압 증가 시 악화되는 특징이 있습니다. 강직성 척추염은 주로 젊은 남성에서 발생하며, 염증성 허리 통증(아침에 더 심하고 활동 시 호전됨)과 경직이 특징입니다. 척추 압박 골절은 급성 허리 통증이 특징이며, 외상력이나 골다공증이 있는 경우 의심할 수 있습니다. 척추 전이성 종양은 특히 밤에 악화되는 심한 통증, 체중 감소, 식욕 부진 등의 전신 증상을 동반할 수 있으며, 과거 암 병력이 중요한 단서가 됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Lumbar spinal stenosis is most often due to degenerative disease (spondylosis). Neurogenic claudication is the classic symptom, characterized by back and buttock or leg pain induced by walking or standing and relieved by sitting. Symptoms may be unilateral or bilateral and are often described as aching, cramping, or burning pain in the buttocks and legs. Unlike vascular claudication, symptoms are provoked by standing without walking. Unlike lumbar disk disease, symptoms are relieved by sitting rather than by standing. Patients with neurogenic claudication often report fewer symptoms going up a hill than going down. When going up a hill, the spine naturally flexes forward, increasing the spinal canal diameter. Patients with lumbar stenosis can often walk much farther when pushing a shopping cart, which similarly forces the spine into slight flexion. Physical examination reveals normal muscle strength, sensation, and reflexes in most patients. When symptoms are severe, patients adopt a slightly flexed, forward-leaning posture.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 1주일 전부터 시작된 심한 허리 통증과 왼쪽 다리 저림을 주소로 내원하였다. 환자는 무거운 물건을 들다가 갑자기 허리에 통증이 시작되었다고 한다. 통증은 허리에서 왼쪽 엉덩이와 다리 바깥쪽으로 방사되며, 기침이나 재채기를 할 때 악화된다고 한다. 신체검진에서 직각 하지 거상 검사(straight leg raising test)에서 왼쪽 45도에서 양성 소견을 보이며, 왼쪽 발의 배측 굴곡(dorsiflexion) 근력이 Grade 4/5로 감소되어 있다. 감각 검사에서 왼쪽 발등과 첫 번째, 두 번째 발가락 사이 감각이 저하되어 있다. 이 환자의 진단에 가장 적절한 검사는?",
+  "options": { 
+    "A": "요추부 단순 방사선 검사", 
+    "B": "요추부 MRI", 
+    "C": "골밀도 검사", 
+    "D": "혈액 검사(ESR, CRP)", 
+    "E": "근전도 검사" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 35세 여성으로 급성 허리 통증과 왼쪽 하지 방사통을 호소하며, 특히 무거운 물건을 든 후 증상이 시작되었고 기침이나 재채기와 같은 복압 증가 시 악화되는 특징이 있습니다. 신체검진에서 왼쪽 직각 하지 거상 검사 양성, 왼쪽 발의 배측 굴곡 근력 저하, 왼쪽 발등과 첫 번째, 두 번째 발가락 사이의 감각 저하를 보입니다. 이러한 임상 소견은 L4-L5 또는 L5-S1 수준의 요추 추간판 탈출증(lumbar disc herniation)과 이로 인한 L5 신경근 압박을 강하게 시사합니다. 요추 추간판 탈출증의 진단에 가장 적절한 검사는 요추부 MRI입니다. MRI는 추간판의 상태, 신경근 압박 정도, 그리고 척추관 내 다른 구조물(예: 황색인대, 척추 후관절 등)의 변화를 상세히 평가할 수 있는 최선의 검사입니다. 또한 MRI는 비침습적이며 방사선 노출 없이 연부조직의 상세한 영상을 제공합니다. 요추부 단순 방사선 검사는 골절, 종양, 측만증 등의 골성 병변을 확인하는 데 유용하지만, 추간판 탈출증의 확인에는 제한적입니다. 골밀도 검사는 골다공증 평가에 사용되며, 이 환자의 임상상과는 관련이 적습니다. 혈액 검사(ESR, CRP)는 염증성 또는 감염성 질환을 평가하는 데 유용하지만, 이 환자의 임상상은 기계적 원인(추간판 탈출증)을 더 강하게 시사합니다. 근전도 검사는 만성적인 신경병증이나 신경근병증을 평가하는 데 유용하지만, 급성 디스크 탈출증의 초기 진단에는 일반적으로 필요하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Magnetic resonance imaging (MRI) is the study of choice for the detection of disk disease. It is indicated in patients with severe or persistent symptoms, especially if surgery is being considered. MRI can detect disk protrusion, disk desiccation, annular tears, spinal stenosis, and other structural abnormalities. The diagnostic accuracy of MRI for disk disease is high, with a sensitivity of 83-96% and specificity of 68-75%. Both false-positive and false-negative findings are common; abnormalities on MRI, including disk protrusion, are present in many asymptomatic adults, especially those over age 40. Therefore, the clinical presentation should be the primary basis for diagnosis, with MRI serving to confirm a clinical impression. MRI is particularly valuable in evaluating patients with clinical evidence of nerve root compression who may benefit from surgical intervention.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 남성이 3일 전부터 시작된 심한 요통과 왼쪽 다리 방사통으로 내원하였다. 환자는 이전에도 간헐적인 요통이 있었으나 이번처럼 심하지는 않았다고 한다. 최근 허리를 삐끗한 후 증상이 악화되었다. 신체검진에서 요추부 압통이 있으며, 직각 하지 거상 검사에서 왼쪽 30도에서 양성이다. 근력, 감각, 심부건반사는 정상이다. MRI에서 L5-S1 수준의 좌측 추간판 탈출증이 확인되었다. 신경근 압박은 경미하며, 마미총 증후군의 증거는 없다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "요추부 MRI: L5-S1 수준에서 좌측 외측으로 추간판 탈출이 관찰됨. 신경근 압박은 경미하며, 척추관 협착은 없음.",
+  "options": { 
+    "A": "즉각적인 수술적 치료", 
+    "B": "침상 안정, 비스테로이드성 소염제, 물리치료", 
+    "C": "경막외 스테로이드 주사", 
+    "D": "척추 고정술", 
+    "E": "광범위 항생제 투여" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 45세 남성으로 급성 요통과 좌측 하지 방사통을 호소하며, MRI에서 L5-S1 수준의 좌측 추간판 탈출증이 확인되었습니다. 신경근 압박은 경미하며, 신체검진에서 근력, 감각, 심부건반사는 정상입니다. 또한 마미총 증후군의 증거는 없습니다. 이러한 상황에서 가장 적절한 초기 치료는 보존적 치료로, 침상 안정, 비스테로이드성 소염제(NSAIDs), 물리치료가 포함됩니다. 급성 요통과 방사통을 동반한 요추 추간판 탈출증의 80-90%는 보존적 치료로 6-12주 내에 호전됩니다. 보존적 치료의 목표는 통증 완화, 염증 감소, 그리고 기능 회복입니다. 1-2일의 침상 안정은 급성기에 도움이 될 수 있으나, 장기간의 침상 안정은 권장되지 않습니다. NSAIDs는 통증과 염증을 감소시키며, 근육 이완제는 근육 경련을 완화시킬 수 있습니다. 물리치료는 급성기가 지난 후 시작할 수 있으며, 코어 근육 강화와 유연성 향상에 중점을 둡니다. 즉각적인 수술적 치료는 마미총 증후군, 진행하는 신경학적 결손, 또는 참을 수 없는 통증이 있는 경우에 고려되나, 이 환자의 경우 해당되지 않습니다. 경막외 스테로이드 주사는 보존적 치료에 반응하지 않는 지속적인 방사통이 있는 경우 고려할 수 있습니다. 척추 고정술은 불안정성이나 퇴행성 변화가 심한 경우에 고려되며, 단순 추간판 탈출증의 초기 치료로는 적절하지 않습니다. 광범위 항생제 투여는 감염성 원인(예: 척추 감염)이 의심될 때 고려되나, 이 환자의 임상상은 감염을 시사하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: The initial treatment of acute low back pain with radiculopathy is conservative care, which is effective in ~90% of patients. For patients with evidence of mild to moderate nerve root compression on imaging and without significant or progressive motor deficits, a trial of conservative therapy is appropriate. This includes 1-2 days of bed rest if the pain is severe, followed by gradual resumption of activities as tolerated, NSAIDs for pain relief, and physical therapy. Short courses of oral steroids (e.g., prednisone, starting at 60-80 mg/d with a taper over 1-2 weeks) may provide temporary pain relief, but evidence for efficacy is limited. Opioid analgesics should be avoided when possible due to their limited efficacy for neuropathic pain and the risk of dependence. Epidural steroid injections may be considered for patients with persistent radicular pain despite 4-6 weeks of conservative therapy. Surgery is typically reserved for patients with progressive neurologic deficits, cauda equina syndrome, or intractable pain despite an adequate trial of conservative therapy.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "25세 남성이 6개월 전부터 시작된 만성 요통을 주소로 내원하였다. 환자는 통증이 서서히 시작되었으며, 특히 아침에 일어날 때 뻣뻣함이 심하고, 활동 후에는 오히려 완화된다고 한다. 야간에 통증으로 인해 잠에서 깨는 경우도 있다고 한다. 가족력에서 아버지가 유사한 증상으로 진단받은 적이 있다고 한다. 신체검진에서 요추부 운동 범위가 모든 방향으로 제한되어 있으며, 흉추부 확장(thoracic expansion)이 제한되어 있다. 양측 엉덩이에도 통증을 호소한다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "척추 전이성 종양", 
+    "B": "강직성 척추염", 
+    "C": "화농성 척추염", 
+    "D": "요추 추간판 탈출증", 
+    "E": "척추 압박 골절" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 25세 젊은 남성으로, 6개월 이상 지속된 만성 요통을 호소하며, 아침에 뻣뻣함이 심하고 활동 후 호전되는 염증성 허리 통증(inflammatory back pain)의 특징을 보입니다. 또한 야간 통증, 가족력(아버지의 유사 증상), 요추부 운동 제한, 흉추부 확장 제한, 그리고 양측 엉덩이 통증(천장관절염을 시사)과 같은 임상 소견은 강직성 척추염(ankylosing spondylitis)에 합당합니다. 강직성 척추염은 주로 척추와 천장관절을 침범하는 만성 염증성 질환으로, 주로 HLA-B27 양성인 젊은 남성에서 발생합니다. 전형적인 증상으로는 3개월 이상 지속되는 염증성 허리 통증, 아침 강직, 운동으로 호전, 야간 통증 등이 있습니다. 질환이 진행함에 따라 척추의 강직과 운동 제한이 점진적으로 발생하며, 특히 흉추부 확장 제한은 강직성 척추염의 특징적인 소견입니다. 척추 전이성 종양은 보통 더 고령에서 발생하며, 특히 밤에 악화되는 지속적인 통증, 체중 감소, 식욕 부진과 같은 전신 증상을 동반할 수 있고, 대개 이전 암 병력이 있습니다. 화농성 척추염은 급성 발열, 심한 요통, 척추 압통, 그리고 종종 백혈구 증가와 같은 감염 징후를 동반합니다. 요추 추간판 탈출증은 주로 급성 또는 아급성으로 발생하며, 하지 방사통과 신경학적 결손을 동반할 수 있고, 이 환자의 만성적이고 염증성인 임상상과는 맞지 않습니다. 척추 압박 골절은 주로 외상이나 골다공증이 있는 고령자에서 발생하며, 급성 통증을 특징으로 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Ankylosing spondylitis (AS) is a chronic inflammatory disease primarily affecting the axial skeleton, with sacroiliitis as its hallmark. The disease typically begins in the second or third decade, with a male predominance of 3:1. The diagnosis is based on clinical criteria, including chronic inflammatory back pain (duration >3 months, age of onset <45 years, insidious onset, improvement with exercise, no improvement with rest, pain at night with improvement upon arising), limited motion of the lumbar spine, and limited chest expansion. A family history of AS or related disorders is common. The pathognomonic site of joint involvement is the sacroiliac joints, and chronic inflammation in these joints eventually leads to fibrosis and ossification. Symptoms typically begin with intermittent bouts of low back pain that radiate into the buttocks. The pain is worse in the morning or after periods of inactivity and improves with movement. As the disease progresses, patients experience permanent limitation of spinal mobility and ankylosis.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "72세 여성이 3일 전부터 시작된 심한 요통을 주소로 내원하였다. 환자는 계단에서 미끄러져 넘어진 후 통증이 시작되었다고 한다. 통증은 허리 중앙부에 국한되어 있으며, 움직일 때 악화된다. 환자는 5년 전 폐경 후 골다공증을 진단받았으나 치료를 받지 않았다고 한다. 또한 3개월 전부터 스테로이드를 복용 중이라고 한다. 신체검진에서 요추부 중앙에 압통이 있으며, 신경학적 결손은 없다. 이 환자의 진단에 가장 적절한 영상 검사는?",
+  "options": { 
+    "A": "요추부 단순 방사선 검사", 
+    "B": "요추부 MRI", 
+    "C": "골밀도 검사", 
+    "D": "골스캔", 
+    "E": "복부 초음파" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 72세 여성으로 최근 낙상 후 발생한 급성 요통을 호소하며, 골다공증과 스테로이드 사용의 위험 인자를 가지고 있습니다. 이러한 임상상은 골다공증성 척추 압박 골절(osteoporotic vertebral compression fracture)을 강하게 시사합니다. 척추 압박 골절의 진단에 가장 적절한 초기 영상 검사는 요추부 단순 방사선 검사입니다. 단순 방사선 검사는 빠르고 접근성이 높으며, 저비용으로 척추 압박 골절을 쉽게 확인할 수 있습니다. 일반적으로 측면(lateral) 촬영에서 척추체의 높이 감소, 쐐기형 변형, 또는 함몰이 관찰됩니다. 이 환자의 경우 고령, 여성, 골다공증, 스테로이드 사용, 그리고 최근의 낙상 병력은 모두 골다공증성 척추 압박 골절의 위험 인자입니다. 요추부 MRI는 더 상세한 영상을 제공하지만, 초기 진단을 위해 반드시 필요하지는 않습니다. 그러나 신경학적 증상이 있거나, 병적 골절이 의심되거나, 또는 단순 방사선 검사에서 불명확한 소견이 있는 경우 MRI를 고려할 수 있습니다. 골밀도 검사는 골다공증의 진단과 중증도 평가에 유용하지만, 급성 척추 압박 골절의 진단에는 도움이 되지 않습니다. 골스캔은 전신 골격에서 골 대사가 증가된 부위를 찾는 데 유용하며, 다발성 골절이나 전이성 골종양이 의심될 때 유용하지만, 척추 압박 골절의 초기 평가에는 일반적으로 필요하지 않습니다. 복부 초음파는 척추 질환의 평가에 적절하지 않습니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: The initial evaluation of suspected vertebral compression fractures should include plain radiographs of the spine. Lateral views are most useful, as they demonstrate loss of vertebral body height, either anteriorly (wedge fracture), centrally (biconcave fracture), or posteriorly. Most osteoporotic compression fractures occur in the lower thoracic and upper lumbar spine. MRI is indicated when there is concern for pathologic fracture due to malignancy, infection, or if neurologic deficits are present. MRI can also help differentiate acute from chronic fractures using T2-weighted sequences, which show hyperintensity (bone edema) in acute fractures. Risk factors for vertebral compression fractures include advanced age, female gender, low body weight, early menopause, history of previous fragility fracture, family history of osteoporotic fractures, glucocorticoid therapy, smoking, and alcohol use. Bone mineral density testing is essential for the diagnosis and monitoring of osteoporosis but is not the primary diagnostic test for acute fractures.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "54세 남성이 2주 전부터 시작된 심한 허리 통증과 발열을 주소로 내원하였다. 환자는 최근 요로 감염으로 치료받은 병력이 있으며, 당뇨병으로 인슐린 치료 중이다. 내원 시 체온은 38.5°C이고, 요추부에 심한 압통이 있다. 혈액 검사에서 백혈구 14,000/μL, ESR 85 mm/hr, CRP 12 mg/dL로 상승되어 있다. MRI에서 L3-L4 척추체와 추간판에 골수 신호 변화와 조영 증강이 관찰되며, 주변으로 작은 농양이 형성되어 있다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "요추부 MRI: L3-L4 척추체와 추간판에 T1 강조영상에서 저신호, T2 강조영상에서 고신호, 조영 증강되는 병변이 관찰됨. 주변으로 작은 농양이 형성되어 있음.",
+  "options": { 
+    "A": "6주간의 정맥 항생제 투여", 
+    "B": "침상 안정과 비스테로이드성 소염제 투여", 
+    "C": "즉각적인 수술적 배농 및 항생제 투여", 
+    "D": "경피적 추간판 절제술", 
+    "E": "척추 유합술" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 54세 남성으로 2주간의 심한 허리 통증과 발열을 호소하며, 요로 감염의 병력과 당뇨병과 같은 위험 인자를 가지고 있습니다. 검사에서 백혈구 증가, ESR 및 CRP 상승과 같은 염증 지표가 상승되어 있으며, MRI에서 L3-L4 척추체와 추간판에 감염을 시사하는 변화가 관찰됩니다. 이러한 임상상은 화농성 척추염(pyogenic vertebral osteomyelitis) 또는 추간판염(discitis)을 강하게 시사합니다. 화농성 척추염의 가장 적절한 치료는 장기간의 항생제 투여입니다. 일반적으로 혈액 배양 또는 조직 생검을 통해 원인균을 확인한 후, 감수성에 따른 적절한 항생제를 4-6주간 정맥 투여합니다. 흔한 원인균으로는 황색포도상구균(S. aureus)이 가장 흔하며, 요로 감염과 관련된 경우 그람 음성균이 원인일 수 있습니다. 이 환자의 경우, 신경학적 결손이 없고 농양의 크기가 작으므로, 초기에는 항생제 치료만으로 충분할 수 있습니다. 침상 안정과 비스테로이드성 소염제는 비특이적 요통에 적절한 치료이나, 감염성 원인에는 불충분합니다. 즉각적인 수술적 배농은 대규모 경막외 농양, 진행하는 신경학적 결손, 불안정성, 또는 항생제 치료에 반응하지 않는 경우에 고려됩니다. 경피적 추간판 절제술은 추간판 탈출증 치료에 사용되는 방법이며, 감염에는 적절하지 않습니다. 척추 유합술은 불안정성이나 심한 변형이 있는 경우에 고려되지만, 초기 감염 치료에는 일반적으로 필요하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pyogenic vertebral osteomyelitis (infection of the vertebral body) is often associated with discitis (infection of the intervertebral disk). Treatment consists of parenteral antibiotics for 4-6 weeks, targeting the identified pathogen. Empirical therapy should be directed against Staphylococcus aureus, the most common causative organism, with consideration for gram-negative coverage depending on risk factors. Antibiotic selection can be refined once culture results are available. Surgical intervention is indicated for patients with neurologic deficits, spinal instability, large epidural abscesses, or failure of medical therapy. Patients with small epidural abscesses, those without neurologic deficits, and those considered poor surgical candidates can often be treated successfully with antibiotics alone. The response to therapy should be monitored clinically and with serial measurements of ESR and CRP. Delay in diagnosis and treatment may lead to permanent neurologic damage, spinal deformity, or death.",
+  "category": "Infectious Diseases"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "32세 여성이 임신 30주 차에 점점 심해지는 허리 통증으로 내원하였다. 환자는 통증이 요추부 하단과 골반 부위에 집중되어 있으며, 특히 오래 서 있거나 걸을 때 악화된다고 한다. 요통은 처음이 아니며, 첫 번째 임신 때도 비슷한 증상이 있었으나 출산 후 호전되었다고 한다. 환자는 최근 체중이 증가했으며, 자세에도 변화가 있다고 느낀다. 신체검진에서 요추부 전만이 증가되어 있고, 천장관절 부위에 압통이 있으며, 신경학적 검사는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "요추 추간판 탈출증", 
+    "B": "임신 관련 허리통증", 
+    "C": "척추 압박 골절", 
+    "D": "강직성 척추염", 
+    "E": "척추 종양" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 32세 임신 30주 차 여성으로, 점진적으로 악화되는 요통과 골반통을 호소하며, 이전 임신 시에도 유사한 증상이 있었으나 출산 후 호전된 병력이 있습니다. 신체검진에서 요추부 전만 증가와 천장관절 부위 압통이 관찰됩니다. 이러한 임상상은 임신 관련 허리통증(pregnancy-related back pain)에 합당합니다. 임신 중 허리통증은 매우 흔하며, 약 50-70%의 임산부가 경험합니다. 주요 원인으로는 체중 증가, 자세 변화(특히 요추 전만 증가), 호르몬 변화(특히 릴랙신 분비 증가로 인한 인대 이완), 천장관절과 골반 인대의 스트레스 등이 있습니다. 임신 관련 허리통증은 주로 요추 하부와 골반 부위에 발생하며, 활동 시 악화되고 휴식 시 완화되는 특징이 있습니다. 또한 이전 임신 중 허리통증 병력은 재발의 위험 인자입니다. 요추 추간판 탈출증은 주로 하지 방사통을 동반하며, 신경학적 징후가 있을 수 있습니다. 이 환자의 임상상은 국소적인 요통과 골반통이 주된 증상이며, 신경학적 검사는 정상입니다. 척추 압박 골절은 주로 외상이나 골다공증이 있는 고령자에서 발생하며, 임신 자체는 척추 압박 골절의 위험 인자가 아닙니다. 강직성 척추염은 주로 젊은 남성에게 영향을 미치며, 염증성 허리 통증(아침에 더 심하고 활동 시 호전됨)과 경직이 특징입니다. 척추 종양은 임상적으로 드물며, 일반적으로 지속적인 통증, 야간통, 체중 감소 등의 적신호 증상을 동반합니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt: Back pain is one of the most common complaints during pregnancy, affecting 50-70% of pregnant women. The most common type is pregnancy-related low back pain, which typically affects the lumbar region, often radiating to the posterior thighs. It is associated with increased lumbar lordosis (swayback) secondary to the enlarging uterus and anterior shift in the body's center of gravity. Pelvic girdle pain is another common type, affecting the sacroiliac joints and pubic symphysis. Risk factors include previous episodes of back pain, multiparty, increased maternal weight, and physically demanding work. Physiological changes contributing to back pain during pregnancy include weight gain, postural changes, hormonal effects (particularly relaxin, which increases ligamentous laxity), and mechanical stress on the sacroiliac joints and pelvic ligaments. Management primarily involves activity modification, appropriate exercises, pelvic support belts, physical therapy, and acetaminophen for pain relief. Most pregnancy-related back pain resolves after delivery, although some women may experience persistent symptoms.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "65세 남성이 2개월 전부터 점진적으로 악화되는 요통을 주소로 내원하였다. 환자는 통증이 특히 밤에 심하며, 휴식 시에도 호전되지 않는다고 한다. 최근 5kg의 체중 감소와 식욕 부진이 있었다고 한다. 과거력상 10년 전 전립선암으로 수술받은 병력이 있다. 신체검진에서 요추부 중앙에 심한 압통이 있으며, 신경학적 검사는 정상이다. 단순 방사선 검사에서 L3 척추체에 골용해성(osteolytic) 병변이 의심된다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "요추부 단순 방사선 검사: L3 척추체에 골용해성 병변 의심 소견",
+  "options": { 
+    "A": "요추부 MRI와 혈청 PSA 검사", 
+    "B": "골밀도 검사", 
+    "C": "요추부 단순 CT", 
+    "D": "척추 유연성 검사", 
+    "E": "HLA-B27 검사" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 65세 남성으로 2개월간 점진적으로 악화되는 요통을 호소하며, 특히 야간에 악화되고 휴식 시에도 호전되지 않는 특징이 있습니다. 또한 체중 감소, 식욕 부진과 같은 전신 증상을 동반하고 있으며, 과거 전립선암 병력이 있습니다. 단순 방사선 검사에서 L3 척추체에 골용해성 병변이 의심됩니다. 이러한 임상상은 전이성 척추 종양(metastatic spine tumor), 특히 전립선암의 척추 전이를 강하게 시사합니다. 전이성 척추 종양의 평가에 가장 적절한 다음 검사는 요추부 MRI와 혈청 PSA(전립선 특이 항원) 검사입니다. MRI는 종양의 범위, 척수나 신경근의 압박 정도, 연부조직 침범 등을 평가하는 데 가장 우수한 영상 검사입니다. 특히 T1 강조영상에서 저신호, T2 강조영상에서 고신호를 보이는 골수 대체 소견이 전이성 종양의 특징입니다. 혈청 PSA 검사는 전립선암의 재발이나 전이를 평가하는 데 중요한 종양 표지자로, 이 환자의 경우 전립선암 병력이 있어 매우 유용한 검사입니다. 골밀도 검사는 골다공증 평가에 유용하지만, 종양성 병변의 평가에는 제한적입니다. 요추부 단순 CT는 골성 구조를 자세히 볼 수 있지만, 연부조직과 골수 상태를 평가하는 데는 MRI보다 제한적입니다. 척추 유연성 검사는 척추의 기계적 문제를 평가하는 데 도움이 되지만, 종양성 병변의 평가에는 적절하지 않습니다. HLA-B27 검사는 강직성 척추염과 같은 염증성 척추 질환을 평가하는 데 유용하지만, 이 환자의 임상상은 종양성 원인을 더 강하게 시사합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: MRI is the most sensitive imaging modality for detecting metastatic lesions in the spine and is particularly useful in evaluating patients with back pain and a history of cancer. Typical MRI findings of metastatic disease include hypointense lesions on T1-weighted images, hyperintense lesions on T2-weighted images, and enhancement with gadolinium contrast, reflecting replacement of normal fatty bone marrow by tumor cells. MRI can also assess epidural extension, cord compression, and involvement of paravertebral soft tissues. For patients with a history of prostate cancer, serum PSA is an important biomarker for disease recurrence or progression. Rising PSA levels often precede clinically evident metastatic disease. Bone metastases from prostate cancer are typically osteoblastic (bone-forming) but can also present as mixed or osteolytic lesions. Systemic symptoms such as weight loss, anorexia, and night pain are common in patients with metastatic spine disease and should prompt thorough investigation, especially in those with a history of malignancy.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 남성이 10일 전부터 시작된 요통과 양측 하지 저림, 소변 지림을 주소로 응급실에 내원하였다. 환자는 1주일 전 교통사고로 허리를 다쳤으며, 이후 증상이 점차 악화되었다고 한다. 현재 양측 하지의 근력 약화와 항문 주위 감각 저하를 호소한다. 신체검진에서 양측 하지 근력이 Grade 3/5로 감소되어 있으며, 항문 괄약근 긴장도가 저하되어 있다. 요추부 MRI에서 L4-L5 수준에서 대량의 추간판 탈출이 확인되었으며, 이로 인한 심한 척추관 협착과 마미총 압박 소견이 관찰된다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "요추부 MRI: L4-L5 수준에서 후방으로 대량의 추간판 탈출이 관찰되며, 척추관을 거의 완전히 막고 있음. 마미총이 심하게 압박되어 있는 소견.",
+  "options": { 
+    "A": "즉각적인 응급 수술(48시간 이내)", 
+    "B": "2주간의 보존적 치료 후 재평가", 
+    "C": "경막외 스테로이드 주사", 
+    "D": "고용량 경구 스테로이드 투여", 
+    "E": "침상 안정과 진통제 투여" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 28세 남성으로 외상 후 발생한 진행성 요통, 양측 하지 근력 약화, 소변 지림, 항문 주위 감각 저하, 그리고 항문 괄약근 긴장도 저하를 보이고 있습니다. MRI에서 L4-L5 수준의 대량 추간판 탈출로 인한 마미총 압박이 확인되었습니다. 이러한 임상상은 마미총 증후군(cauda equina syndrome)에 합당합니다. 마미총 증후군은 대량 추간판 탈출이나 종양, 외상 등으로 인해 마미총(요수 이하의 신경근 다발)이 압박되어 발생하는 응급 상황입니다. 특징적인 증상으로는 안장 부위 감각 저하, 방광 및 장 기능 장애(소변 지림, 배뇨 곤란, 변실금 등), 하지 근력 약화, 양측성 하지 방사통 등이 있습니다. 마미총 증후군은 신경외과적 응급 상황으로, 가장 적절한 치료는 즉각적인 수술적 감압(48시간 이내)입니다. 지연된 수술은 영구적인 신경학적 결손의 위험을 증가시킵니다. 일반적으로 후방 감압 수술(후궁 절제술 및 추간판 제거술)을 시행합니다. 보존적 치료, 경막외 스테로이드 주사, 경구 스테로이드 투여, 또는 단순한 침상 안정은 마미총 증후군에 적절한 치료가 아니며, 증상과 신경학적 결손이 악화될 위험이 있습니다. 마미총 증후군은 조기 진단과 신속한 수술적 치료가 예후에 중요한 영향을 미치는 응급 상황입니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: Cauda equina syndrome is a neurosurgical emergency characterized by compression of the cauda equina (the bundle of nerve roots descending from the lower spinal cord). It typically presents with a characteristic constellation of symptoms including saddle anesthesia (numbness in the perineal region), bowel and/or bladder dysfunction (urinary retention, overflow incontinence, or fecal incontinence), bilateral radicular pain, and lower extremity weakness. The most common cause is a large central disc herniation, though other causes include trauma, tumor, epidural hematoma, or abscess. MRI is the diagnostic modality of choice. Treatment consists of urgent surgical decompression, ideally within 48 hours of symptom onset. Delay in diagnosis and treatment may result in permanent neurological deficits, particularly bladder and bowel dysfunction. Prognosis depends largely on the severity and duration of symptoms before decompression, with better outcomes observed in patients who undergo surgery within 24-48 hours of symptom onset.",
+  "category": "Neurology / Neurosurgery"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "42세 여성이 3개월 전부터 시작된 지속적인 허리 통증을 주소로 내원하였다. 환자는 통증이 요추부 양측에 있으며, 등과 엉덩이로 퍼진다고 한다. 통증은 휴식이나 자세 변화에도 호전되지 않으며, 밤에도 지속된다고 한다. 환자는 최근 6개월간 5kg의 체중 감소가 있었으며, 만성 피로감을 호소한다. 또한 구강 건조, 안구 건조, 관절통도 있다고 한다. 환자는 또한 최근 기억력 저하와 집중력 감소를 호소하며, 일상 업무 수행에 어려움을 느낀다고 한다. 신체검진에서 압통점이 등, 목, 어깨, 엉덩이 등 여러 부위에서 관찰되며, 관절의 부종이나 변형은 없다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "근막통증증후군", 
+    "B": "섬유근통", 
+    "C": "요추 추간판 탈출증", 
+    "D": "강직성 척추염", 
+    "E": "전이성 척추 종양" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 42세 여성으로 3개월 이상 지속된 만성 허리 통증을 호소하며, 통증이 광범위하게 퍼져 있고, 휴식이나 자세 변화에도 호전되지 않으며, 밤에도 지속됩니다. 또한 체중 감소, 만성 피로감, 구강 건조, 안구 건조, 관절통 등의 전신 증상을 동반하고 있습니다. 신체검진에서 여러 부위에 압통점이 관찰됩니다. 이러한 임상상은 섬유근통(fibromyalgia)에 합당합니다. 섬유근통은 만성 광범위 통증, 피로, 수면 장애, 인지 장애 등을 특징으로 하는 중추성 통증 증후군입니다. 주로 30-50대 여성에서 호발하며, 통증은 신체 여러 부위에 존재하고 3개월 이상 지속됩니다. 진단 기준으로는 광범위한 통증 지수(widespread pain index)와 증상 중증도 척도(symptom severity scale)를 사용합니다. 섬유근통 환자의 약 25-65%에서 구강 건조, 안구 건조와 같은 건조 증상이 동반될 수 있으며, 이는 쇼그렌 증후군(Sjögren's syndrome)과의 중복 또는 유사성을 시사할 수 있습니다. 근막통증증후군은 특정 근육이나 근막의 통증으로, 유발점(trigger point)이 특징적이지만, 이 환자의 광범위한 통증과 전신 증상은 섬유근통에 더 부합합니다. 요추 추간판 탈출증은 주로 요통과 하지 방사통을 특징으로 하며, 신경근 압박 징후가 있습니다. 강직성 척추염은 주로 염증성 요통(아침에 심하고 활동 시 호전)과 경직을 특징으로 하며, 천장관절염이 흔합니다. 전이성 척추 종양은 특히 밤에 악화되는 심한 통증, 체중 감소, 식욕 부진 등을 동반할 수 있지만, 이 환자의 압통점과 같은 특징적인 소견은 섬유근통에 더 부합합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Fibromyalgia is a central pain syndrome characterized by chronic widespread musculoskeletal pain, fatigue, sleep disturbances, and cognitive dysfunction. It affects approximately 2-4% of the population, with a female-to-male ratio of 7:1. The 2016 diagnostic criteria from the American College of Rheumatology include: (1) widespread pain index (WPI) ≥7 and symptom severity scale (SSS) score ≥5, or WPI 4-6 and SSS ≥9; (2) symptoms present at a similar level for at least 3 months; and (3) no other disorder that would otherwise explain the pain. Common associated symptoms include cognitive difficulties ('fibro fog'), headaches, irritable bowel symptoms, and paresthesias. Physical examination typically reveals multiple tender points, though these are no longer required for diagnosis. Many patients with fibromyalgia report sicca symptoms (dry eyes, dry mouth) similar to those seen in Sjögren's syndrome, with prevalence rates of 20-35% for sicca-like symptoms in fibromyalgia cohorts. The pathophysiology involves central sensitization with amplification of pain transmission and decreased descending inhibition of pain pathways.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "36세 남성이 2일 전 무거운 물건을 들다가 갑자기 발생한 급성 허리 통증을 주소로 내원하였다. 환자는 통증이 허리 중앙과 양측 허리 근육에 국한되어 있으며, 방사통은 없다고 한다. 통증은 허리를 움직일 때 악화되고, 누워 있을 때 다소 완화된다고 한다. 신체검진에서 요추부 주변 근육의 압통과 경직이 관찰되며, 요추 운동 범위가 통증으로 인해 제한되어 있다. 신경학적 검사에서 근력, 감각, 반사는 모두 정상이다. 직각 하지 거상 검사는 음성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "요부 염좌/근육성 요통", 
+    "B": "요추 추간판 탈출증", 
+    "C": "요추 척추관 협착증", 
+    "D": "척추 압박 골절", 
+    "E": "천장관절 기능이상" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 36세 남성으로 최근 무거운 물건을 들다가 발생한 급성 허리 통증을 호소합니다. 통증은 허리 중앙과 양측 근육에 국한되어 있고, 하지로의 방사통이 없으며, 신체검진에서 요추 주변 근육의 압통과 경직이 관찰됩니다. 신경학적 검사는 정상이고 직각 하지 거상 검사도 음성입니다. 이러한 임상상은 요부 염좌 또는 근육성 요통(lumbar strain/muscle-related back pain)에 합당합니다. 요부 염좌는 허리 근육이나 인대의 과도한 사용, 부적절한 사용, 또는 외상으로 인한 미세 손상으로 발생하며, 요통의 가장 흔한 원인 중 하나입니다. 특징적으로 급성 발병, 국소적 요통, 신경학적 증상의 부재, 움직임에 의한 악화가 있으며, 대부분 2-4주 내에 자연 호전됩니다. 반면, 요추 추간판 탈출증은 주로 하지 방사통을 동반하며, 직각 하지 거상 검사에서 양성 소견을 보이는 경우가 많습니다. 요추 척추관 협착증은 주로 고령에서 발생하며, 보행 시 악화되고 앉을 때 완화되는 신경성 파행이 특징입니다. 척추 압박 골절은 주로 외상이나 골다공증이 있는 고령자에서 발생하며, 국소적인 압통과 타진 통증이 있습니다. 천장관절 기능이상은 주로 엉덩이와 둔부 통증을 유발하며, 천장관절 유발 검사(예: Patrick 검사)에서 양성 소견을 보입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Mechanical low back pain, including lumbar strain or sprain, accounts for approximately 70% of all low back pain cases. It typically results from overuse, improper use, or trauma to the paraspinal, lumbar, and abdominal muscles and/or ligaments. Clinically, patients present with acute-onset pain localized to the lower back, often after a specific inciting event such as heavy lifting or twisting. The pain is exacerbated by movement and may be associated with muscle spasm and reduced range of motion. Unlike radicular pain, mechanical back pain does not radiate below the buttocks, and neurological examination remains normal. The straight leg raise test is typically negative. Muscle spasm and localized tenderness of the affected muscles are often present on examination. Most cases are self-limited, with significant improvement within 2-4 weeks with conservative management.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 12,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "15세 여자 청소년이 6개월 전부터 시작된 요통과 왼쪽 다리 통증을 주소로 내원하였다. 환자는 체조 선수로 활동 중이며, 특히 허리를 과신전할 때 통증이 심해진다고 한다. 신체검진에서 요추의 과신전 시 통증이 유발되며, 왼쪽 다리로의 방사통이 있다. 신경학적 검사는 정상이다. 일반 방사선 검사에서 L5 척추의 추궁(pars interarticularis)에 불연속성이 의심된다. 이 환자의 진단을 위해 가장 적절한 다음 검사는?",
+  "exam": "요추부 일반 방사선 검사(측면 사진): L5 추궁(pars interarticularis)에 불연속성이 의심됨.",
+  "options": { 
+    "A": "요추부 MRI", 
+    "B": "요추부 CT", 
+    "C": "골밀도 검사", 
+    "D": "척수 조영술", 
+    "E": "전기진단 검사(근전도)" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 15세 여자 청소년으로 체조 선수이며, 허리 과신전 시 악화되는 요통과 방사통을 호소합니다. 일반 방사선 검사에서 L5 추궁의 불연속성이 의심됩니다. 이러한 임상상과 방사선학적 소견은 척추 분리증(spondylolysis)을 강하게 시사합니다. 척추 분리증은 척추뼈의 추궁(pars interarticularis) 부위의 결손으로, 주로 반복적인 요추 과신전(예: 체조, 미식축구 라인맨, 역도, 다이빙 등)을 하는 청소년 운동선수에서 발생합니다. 증상은 요통, 방사통, 그리고 때로는 신경학적 증상을 포함할 수 있습니다. 단순 방사선 검사는 초기 검사로 유용하지만, 작은 골절선이나 초기 병변은 놓칠 수 있습니다. 이러한 경우, 추궁 결손의 정확한 평가를 위해 요추부 CT가 가장 적절한 다음 검사입니다. CT는 뼈의 상세한 구조를 보여주어 작은 골절선이나 결손을 명확히 확인할 수 있습니다. 또한 양측성인지, 안정성이 있는지 등을 평가하는 데 도움이 됩니다. 요추부 MRI는 디스크, 신경근, 척수 등 연부조직 평가에 우수하지만, 작은 골성 결손을 확인하는 데는 CT보다 제한적입니다. 그러나 MRI는 연관된 디스크 병변이나 신경 압박을 평가하는 데 유용할 수 있습니다. 골밀도 검사는 골다공증 평가에 유용하지만, 척추 분리증 진단에는 도움이 되지 않습니다. 척수 조영술은 침습적이며, 현대 영상 기술(CT, MRI)이 발달한 현재에는 거의 사용되지 않습니다. 전기진단 검사는 신경학적 증상이 뚜렷하거나 말초신경병증이 의심될 때 유용하지만, 이 환자의 임상상에는 적절하지 않습니다.",
+  "source": "Orthopedic_Surgery_textbook_data.txt: Computed tomography (CT) is the imaging modality of choice for the definitive diagnosis of spondylolysis, as it provides excellent visualization of the bony architecture of the spine. CT can detect early or subtle pars defects that may be missed on plain radiographs, and it can determine whether the lesion is unilateral or bilateral, acute or chronic. Thin-slice CT with sagittal and coronal reconstructions is particularly useful for evaluating the pars interarticularis. Spondylolysis is most common at L5 (85-95% of cases), followed by L4. It is especially prevalent in adolescent athletes involved in activities requiring repeated lumbar hyperextension, such as gymnastics, football (linemen), weightlifting, and diving. Clinical presentation typically includes low back pain that worsens with extension activities, and may include radicular symptoms if there is associated nerve root compression. A single-photon emission computed tomography (SPECT) bone scan may be useful in cases where CT findings are equivocal, as it can detect active lesions with increased metabolic activity.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 13,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "75세 여성이 2일 전 집안에서 넘어져 발생한 심한 요통을 주소로 내원하였다. 환자는 10년 전 폐경 후 골다공증을 진단받았으나, 치료를 제대로 받지 않았다고 한다. 신체검진에서 요추부 중앙에 심한 압통이 있으며, 경미한 타진 통증이 있다. 신경학적 검사는 정상이다. 요추부 X-선 검사에서 L1 척추체의 압박 골절이 확인되었으며, 골밀도 검사에서 T-score가 -3.2로 심한 골다공증 소견을 보인다. 환자는 현재 심한 통증으로 일상생활에 어려움이 있다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "요추부 X-선 검사: L1 척추체의 약 30% 높이 감소를 보이는 압박 골절 소견. 골밀도 검사: 요추부 T-score -3.2",
+  "options": { 
+    "A": "보존적 치료(진통제, 휴식, 보조기)와 골다공증 치료", 
+    "B": "즉각적인 개방적 척추 유합술", 
+    "C": "경피적 척추성형술(vertebroplasty)과 골다공증 치료", 
+    "D": "방사선 치료", 
+    "E": "스테로이드 경막외 주사" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 75세 여성으로 최근 낙상으로 인한 L1 척추체 압박 골절이 확인되었으며, 심한 골다공증(T-score -3.2)이 있습니다. 현재 심한 통증으로 일상생활에 어려움이 있는 상태입니다. 골다공증성 척추 압박 골절 환자의 적절한 치료 계획은 통증 조절과 골절 안정화, 그리고 기저 골다공증의 치료를 포함해야 합니다. 이 환자의 경우, 심한 통증으로 일상생활이 어려운 상태이므로 경피적 척추성형술(vertebroplasty)과 골다공증 치료가 가장 적절합니다. 경피적 척추성형술은 골시멘트(주로 PMMA)를 압박 골절된 척추체 내로 주입하여 안정화시키는 최소침습적 시술입니다. 이 시술은 급성기(보통 발생 후 6주 이내)의 통증이 심한 골다공증성 척추 압박 골절 환자에서 즉각적인 통증 완화 효과를 제공할 수 있습니다. 또한 반드시 병행해야 할 것은 기저 골다공증에 대한 치료로, 비스포스포네이트, 데노수맙, 테리파라타이드 등의 약물 치료와 칼슘, 비타민 D 보충이 포함됩니다. 보존적 치료(진통제, 휴식, 보조기)와 골다공증 치료는 일차적 접근법이지만, 이 환자처럼 심한 통증으로 일상생활이 어려운 경우에는 경피적 척추성형술이 더 효과적일 수 있습니다. 개방적 척추 유합술은 불안정성, 진행하는 신경학적 결손, 또는 심한 척추 변형이 있는 경우에 고려되지만, 이 환자의 상태에서는 과도한 시술입니다. 방사선 치료는 주로 전이성 척추 종양과 같은 악성 질환에 적용되며, 골다공증성 척추 압박 골절에는 적절하지 않습니다. 스테로이드 경막외 주사는 신경근 압박으로 인한 방사통이 있는 경우에 도움이 될 수 있지만, 이 환자의 골다공증성 압박 골절 치료로는 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: For patients with osteoporotic vertebral compression fractures and significant pain that limits daily activities, vertebral augmentation procedures (vertebroplasty or kyphoplasty) may provide immediate pain relief. These minimally invasive procedures involve the injection of bone cement (polymethylmethacrylate) into the fractured vertebral body, which stabilizes the fracture and may prevent further vertebral collapse. They are most effective when performed within 6 weeks of fracture onset in patients with acute pain. Contraindications include fracture retropulsion causing spinal stenosis, active infection, and coagulopathy. Complications, though rare, include cement leakage, which can lead to nerve root compression or pulmonary embolism. These procedures should be considered as part of a comprehensive treatment plan that includes pharmacologic therapy for osteoporosis (bisphosphonates, denosumab, or teriparatide), calcium and vitamin D supplementation, and measures to prevent falls. Conservative treatment with analgesics, rest, and bracing is appropriate for patients with mild to moderate pain or those who are poor candidates for invasive procedures.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 14,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "56세 남성이 3개월 전부터 점진적으로 악화되는 요통을 주소로 내원하였다. 환자는 5년 전 당뇨병을 진단받았으며, 최근 혈당 조절이 잘 되지 않는다고 한다. 통증은 주로 오른쪽 허리에서 엉덩이와 대퇴 후면, 종아리 바깥쪽, 그리고 발 바깥쪽으로 방사된다고 한다. 또한 오른쪽 발의 저림과 감각 저하가 있으며, 야간에 악화되는 화끈거리는 통증을 호소한다. 신체검진에서 요추부 운동 범위는 정상이나, 오른쪽 발의 감각이 저하되어 있고, 발목 반사가 감소되어 있다. 직각 하지 거상 검사는 음성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "요추 추간판 탈출증", 
+    "B": "당뇨병성 신경병증", 
+    "C": "요추 척추관 협착증", 
+    "D": "천장관절 기능이상", 
+    "E": "척추 전이성 종양" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 56세 남성으로 장기간의 당뇨병 병력이 있으며, 최근 혈당 조절이 잘 되지 않는 상태입니다. 3개월 전부터 점진적으로 악화되는 요통과 함께 특징적으로 야간에 악화되는 화끈거리는 통증, 저림, 감각 저하와 같은 신경병증성 증상을 호소합니다. 신체검진에서 발목 반사 감소와 발의 감각 저하가 있으나, 직각 하지 거상 검사는 음성입니다. 이러한 임상상은 당뇨병성 신경병증(diabetic neuropathy)을 강하게 시사합니다. 당뇨병성 신경병증은 만성 고혈당으로 인한 말초신경의 손상으로, 가장 흔한 형태는 원위 대칭성 다발신경병증입니다. 특징적인 증상으로는 사지 원위부(특히 발)에서 시작하여 근위부로 진행하는 감각 이상(저림, 화끈거림, 찌르는 듯한 통증), 감각 저하, 그리고 심부건반사 감소가 있습니다. 통증은 종종 야간에 악화되며, 환자들은 이로 인해 수면 장애를 경험할 수 있습니다. 요추 추간판 탈출증은 주로 급성 또는 아급성으로 발생하며, 직각 하지 거상 검사에서 양성 소견을 보이는 경우가 많습니다. 또한 통증은 특정 피부분절(dermatome)을 따라 분포하며, 기침이나 재채기와 같은 복압 증가 시 악화됩니다. 요추 척추관 협착증은 주로 보행 시 악화되고 앉거나 허리를 구부리면 완화되는 신경성 파행이 특징이며, 양측성 증상이 더 흔합니다. 천장관절 기능이상은 주로 엉덩이와 둔부 통증을 유발하며, 다리 원위부로의 방사통은 덜 흔합니다. 척추 전이성 종양은 특히 밤에 악화되는 지속적인 통증, 체중 감소, 식욕 부진과 같은 전신 증상을 동반할 수 있지만, 이 환자의 당뇨병 병력과 특징적인 신경병증성 증상은 당뇨병성 신경병증에 더 부합합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Diabetic neuropathy is a chronic complication of diabetes mellitus characterized by diffuse or focal damage to peripheral nerves. The most common form is distal symmetric polyneuropathy, which affects approximately 50% of patients with long-standing diabetes. Risk factors include poor glycemic control, duration of diabetes, age, height, hypertension, dyslipidemia, and smoking. Typical symptoms include burning, tingling, or stabbing sensations that begin in the feet and progress proximally. Neuropathic pain is often worse at night and may interfere with sleep. Physical examination reveals decreased sensation (particularly vibration and light touch), reduced or absent ankle reflexes, and occasionally mild distal weakness. Unlike radiculopathy due to herniated disc, diabetic neuropathy typically presents with symmetric distal sensory symptoms, negative straight leg raise test, and symptoms that do not follow a specific dermatomal pattern. Management includes improved glycemic control, pain management with medications such as pregabalin, gabapentin, duloxetine, or tricyclic antidepressants, and attention to foot care to prevent ulceration and subsequent amputation.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "48세 남성이 3개월 전부터 시작된 허리 통증과 발열을 주소로 내원하였다. 환자는 지난 8개월 동안 인도에 체류했으며, 2개월 전부터 기침, 체중 감소, 식욕 부진이 있었다고 한다. 통증은 지속적이며 야간에 악화된다. 신체검진에서 요추부에 국소적인 압통과 경직이 있으며, 체온은 38.2°C이다. 혈액 검사에서 적혈구 침강속도(ESR)가 85 mm/hr, C-반응성 단백(CRP)이 4.5 mg/dL로 상승되어 있다. 흉부 X-선 검사에서 우상엽에 침윤이 관찰된다. 이 환자의 허리 통증 원인을 평가하기 위한 가장 적절한 검사는?",
+  "exam": "흉부 X-선 검사: 우상엽에 결절성 침윤과 공동 형성이 의심됨.",
+  "options": { 
+    "A": "요추부 MRI와 객담 항산균 검사", 
+    "B": "단순 요추부 X-선 검사", 
+    "C": "혈액 배양 검사", 
+    "D": "신경전도 검사", 
+    "E": "골스캔" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 48세 남성으로 3개월간의 만성 허리 통증, 발열, 기침, 체중 감소, 식욕 부진과 같은 전신 증상을 호소합니다. 또한 결핵 유행 지역인 인도에 장기 체류한 병력이 있습니다. 검사에서 ESR과 CRP 상승과 같은 염증 지표가 증가되어 있고, 흉부 X-선에서 우상엽 침윤이 관찰됩니다. 이러한 임상상은 결핵성 척추염(tuberculous spondylitis) 또는 포트병(Pott's disease)을 강하게 시사합니다. 결핵성 척추염은 척추 결핵의 한 형태로, 주로 흉추와 요추에 영향을 미치며, 인접한 추간판과 척추체를 침범합니다. 특징적으로 만성 진행성 요통, 국소 압통, 발열, 체중 감소, 그리고 흔히 폐결핵을 동반합니다. 이 환자의 허리 통증 원인을 평가하기 위한 가장 적절한 검사는 요추부 MRI와 객담 항산균 검사입니다. MRI는 척추 감염의 초기 변화를 감지하는 데 가장 민감한 영상 검사로, 척추체와 추간판의 침범 정도, 농양 형성, 척추관 협착 등을 평가할 수 있습니다. 객담 항산균 검사는 활동성 폐결핵 진단에 중요하며, 양성인 경우 척추 결핵의 가능성을 높이는 간접적인 증거가 됩니다. 필요시 CT 유도하 생검을 통해 병변에서 직접 항산균 도말 및 배양 검사를 시행할 수 있습니다. 단순 요추부 X-선 검사는 초기 결핵성 척추염에서 변화가 미미하거나 비특이적일 수 있어 제한적입니다. 혈액 배양 검사는 급성 화농성 척추염에서는 유용할 수 있지만, 결핵성 척추염에서는 양성률이 낮습니다. 신경전도 검사는 말초신경 기능을 평가하는 검사로, 이 환자의 임상상에는 적절하지 않습니다. 골스캔은 전신 골격의 신진대사 이상을 평가하는 데 유용하지만, 감염의 특성과 범위를 평가하는 데는 MRI보다 제한적입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Magnetic resonance imaging (MRI) is the modality of choice for the diagnosis of tuberculous spondylitis (Pott's disease). MRI findings include involvement of multiple contiguous vertebral bodies with relative preservation of the intervertebral disc (compared to pyogenic spondylodiscitis), subligamentous spread of infection, large paravertebral abscesses, and heterogeneous signal intensity on T2-weighted images due to caseous necrosis. The thoracic spine is most commonly affected (42%), followed by the lumbar (38%) and cervical regions (3%). Definitive diagnosis requires identification of Mycobacterium tuberculosis from specimens obtained via CT-guided biopsy or open surgery. Acid-fast bacilli smear and culture, as well as nucleic acid amplification tests such as GeneXpert MTB/RIF, can be performed on the tissue samples. Concurrent pulmonary tuberculosis is present in approximately 50% of cases, so chest radiography and sputum examination for acid-fast bacilli should be performed. Laboratory findings typically include elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), with or without leukocytosis. Tuberculin skin test or interferon-gamma release assays are useful adjuncts but do not distinguish between active and latent tuberculosis.",
+  "category": "Infectious Diseases"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "40세 남성이 8개월 전부터 시작된 만성 허리 통증을 주소로 내원하였다. 환자는 건설 노동자로 일하고 있으며, 통증이 점차 악화되어 일상생활에 지장을 준다고 한다. 통증은 주로 허리 부위에 국한되어 있으며, 간헐적으로 왼쪽 엉덩이까지 퍼진다. 수 차례 병원을 방문하여 다양한 약물 치료와 물리치료를 받았으나 별다른 호전이 없었다고 한다. 환자는 통증으로 인해 우울감을 느끼며, 일과 가정생활에 어려움을 겪고 있다고 한다. MRI 검사에서 경미한 디스크 돌출과 퇴행성 변화 외에 뚜렷한 구조적 이상은 없다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "요추부 MRI: L4-5, L5-S1 수준에서 경미한 디스크 돌출과 퇴행성 변화가 관찰됨. 신경 압박 소견은 없음.",
+  "options": { 
+    "A": "척추 유합술", 
+    "B": "다학제적 만성 통증 재활 프로그램", 
+    "C": "경막외 스테로이드 주사", 
+    "D": "장기간 오피오이드 처방", 
+    "E": "침상 안정" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 40세 남성으로 8개월간 지속된 만성 허리 통증을 호소하며, 여러 치료에도 불구하고 호전이 없고, 우울감과 기능적 제한을 경험하고 있습니다. MRI에서 경미한 디스크 돌출과 퇴행성 변화 외에 뚜렷한 구조적 이상이 없습니다. 이러한 임상상은 비특이적 만성 요통(chronic non-specific low back pain)을 시사합니다. 만성 요통은 단순히 신체적 문제만이 아니라 심리적, 사회적, 직업적 요소가 복합적으로 작용하는 생물심리사회적(biopsychosocial) 상태로 이해해야 합니다. 이 환자에게 가장 적절한 치료 계획은 다학제적 만성 통증 재활 프로그램입니다. 이 프로그램은 물리치료, 운동 요법, 인지행동치료, 통증 교육, 직업 재활 등을 포함한 종합적인 접근법으로, 여러 전문가(의사, 물리치료사, 심리학자, 직업치료사 등)가 참여합니다. 목표는 통증 감소뿐만 아니라 기능 향상, 대처 기술 개발, 정상적인 활동으로의 복귀입니다. 척추 유합술은 명확한 구조적 불안정성, 진행하는 신경학적 결손, 또는 보존적 치료에 실패한 심한 디스크 질환이 있는 경우에 고려되지만, 이 환자의 경우 MRI에서 뚜렷한 구조적 이상이 없으므로 적절하지 않습니다. 경막외 스테로이드 주사는 주로 신경근 압박에 의한 방사통이 있는 경우에 단기적 증상 완화를 위해 사용되지만, 이 환자의 주 증상은 국소적 요통이며 MRI에서 신경 압박 소견이 없습니다. 장기간 오피오이드 처방은 만성 비암성 통증에서는 부작용, 내성, 의존성 등의 위험이 있어 일반적으로 권장되지 않습니다. 침상 안정은 급성기에도 제한적으로 권장되며, 만성 요통에서는 오히려 근육 약화와 기능 감소를 초래할 수 있어 권장되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Multidisciplinary pain rehabilitation programs are the treatment of choice for patients with chronic non-specific low back pain who have failed conventional therapies and have significant psychological or functional impairment. These programs integrate physical, psychological, and occupational therapy approaches, focusing on functional restoration rather than pain elimination. Key components include structured exercise, cognitive-behavioral therapy for pain management, patient education about pain mechanisms, gradual return to normal activities, and vocational rehabilitation when needed. The biopsychosocial model acknowledges that chronic pain is influenced by a complex interaction of physical, psychological, and social factors, all of which need to be addressed for effective treatment. Several randomized controlled trials have demonstrated that multidisciplinary rehabilitation programs significantly improve function, reduce pain, and increase return-to-work rates compared to usual care or single-modality treatments. Outcomes are typically measured in terms of improved function, reduced disability, and enhanced quality of life rather than complete pain elimination. Long-term opioid therapy should generally be avoided for chronic non-specific low back pain due to limited evidence of long-term efficacy and substantial risks of adverse effects, tolerance, dependence, and addiction.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "38세 여성이 2개월 전부터 시작된 요통과 양측 엉덩이 통증을 주소로 내원하였다. 환자는 아침에 일어날 때 뻣뻣함이 심하고, 최소 1시간 이상 지속된다고 한다. 낮 동안 활동하면 통증이 다소 완화된다고 한다. 환자는 최근 안구 충혈과 통증이 있었으며, 피부에 인설성 발진이 있다고 한다. 가족력에서 아버지가 유사한 증상으로 진단받은 적이 있다고 한다. 신체검진에서 엉덩이와 천장관절 부위에 압통이 있으며, 무릎과 팔꿈치에 인설성 판(scaly plaques)이 관찰된다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "피부 사진: 팔꿈치와 무릎에 경계가 명확한 홍반성 인설성 판이 관찰됨.",
+  "options": { 
+    "A": "건선성 관절염", 
+    "B": "강직성 척추염", 
+    "C": "류마티스 관절염", 
+    "D": "전신성 홍반성 루푸스", 
+    "E": "반응성 관절염" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 38세 여성으로 2개월간의 요통과 양측 엉덩이 통증을 호소하며, 아침 강직이 1시간 이상 지속되고, 활동 시 호전되는 염증성 요통의 특징을 보입니다. 또한 안구 충혈과 통증(포도막염 시사), 피부의 인설성 발진, 그리고 신체검진에서 무릎과 팔꿈치의 인설성 판이 관찰됩니다. 가족력에서 아버지의 유사 증상도 있습니다. 이러한 임상상은 건선성 관절염(psoriatic arthritis)에 합당합니다. 건선성 관절염은 건선과 관련된 염증성 관절염으로, 혈청 음성 척추관절병증(seronegative spondyloarthropathy)에 속합니다. 환자의 약 15-30%가 척추 침범(척추염)을 경험하며, 이는 염증성 요통, 천장관절염, 그리고 때로는 강직성 척추염과 유사한 축성 침범을 보입니다. 건선성 관절염의 특징적인 소견으로는 건선성 피부 병변(특히 팔꿈치, 무릎, 두피), 손발톱 변화(pitting, onycholysis), 손가락/발가락의 소시지 모양 부종(dactylitis), 부착부염(enthesitis), 그리고 포도막염과 같은 안구 증상 등이 있습니다. 또한 HLA-B27 양성률이 일반 인구보다 높으며, 가족력이 흔합니다. 강직성 척추염도 염증성 요통과 천장관절염을 특징으로 하지만, 전형적으로 건선 피부 병변을 동반하지 않습니다. 강직성 척추염은 주로 남성에서 흔하며, HLA-B27 양성률이 더 높습니다. 류마티스 관절염은 주로 손, 손목, 발의 작은 관절을 대칭적으로 침범하며, 건선 피부 병변이나 천장관절염은 일반적이지 않습니다. 전신성 홍반성 루푸스는 다양한 임상상을 보일 수 있지만, 전형적으로 나비 모양 발진, 광과민성, 구강 궤양, 관절염, 신장 침범 등을 특징으로 합니다. 반응성 관절염은 위장관 또는 비뇨생식기 감염 후 발생하는 관절염으로, 주로 하지의 비대칭적 소수 관절염과 요도염, 결막염 등을 특징으로 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Psoriatic arthritis (PsA) is an inflammatory arthritis associated with psoriasis, classified as a seronegative spondyloarthropathy. Approximately 15-30% of patients with PsA develop spinal involvement, characterized by inflammatory back pain, sacroiliitis, and sometimes axial disease resembling ankylosing spondylitis. Distinctive clinical features include psoriatic skin lesions (typically on elbows, knees, scalp, and intergluteal cleft), nail changes (pitting, onycholysis, hyperkeratosis), dactylitis (sausage-shaped swelling of fingers or toes), enthesitis (inflammation at tendon, ligament, or joint capsule insertions), and extra-articular manifestations such as uveitis. The disease affects men and women equally, typically presenting in the third to fifth decades. Family history is often positive, with HLA-B27 positivity more common than in the general population, though less frequent than in ankylosing spondylitis. Inflammatory back pain in PsA is characterized by insidious onset, improvement with exercise, worsening with rest, and morning stiffness lasting more than 30 minutes. Radiographic findings in the spine may include asymmetric sacroiliitis, non-marginal syndesmophytes, and asymmetric paravertebral ossification.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 3주 전부터 시작된 심한 허리 통증과 왼쪽 다리 저림을 주소로 내원하였다. 환자는 3개월 전 요추 추간판 탈출증으로 미세 추간판 절제술을 받은 병력이 있다. 현재 통증은 수술 전보다 더 심하며, 특히 밤에 악화된다고 한다. 또한 38.2°C의 발열이 있으며, 수술 부위에 발적과 압통이 있다고 한다. 신체검진에서 요추부 수술 부위에 발적, 부종, 압통이 있으며, 왼쪽 다리의 근력 Grade 4/5, 왼쪽 발목 반사 저하가 관찰된다. 이 환자의 진단을 위해 시행해야 할 가장 적절한 검사는?",
+  "options": { 
+    "A": "단순 요추부 X-선 검사", 
+    "B": "요추부 MRI와 혈액 배양 검사", 
+    "C": "신경전도 검사", 
+    "D": "골스캔", 
+    "E": "HLA-B27 검사" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 35세 여성으로 최근(3개월 전) 요추 수술을 받은 병력이 있으며, 3주 전부터 발생한 심한 요통, 다리 저림, 발열, 그리고 수술 부위의 발적과 압통을 호소합니다. 이러한 임상상은 수술 후 척추 감염(postoperative spinal infection)을 강하게 시사합니다. 척추 수술 후 감염은 심각한 합병증으로, 주로 수술 부위 통증의 악화, 발열, 국소 압통과 발적, 수술 부위 배액, 그리고 때로는 신경학적 결손을 특징으로 합니다. 이 환자의 진단을 위해 가장 적절한 검사는 요추부 MRI와 혈액 배양 검사입니다. MRI는 척추 감염을 진단하는 데 가장 민감한 영상 검사로, 척추체, 추간판, 경막외 공간의 염증성 변화, 농양 형성 등을 평가할 수 있습니다. 조영 증강(gadolinium) MRI는 감염과 수술 후 변화를 구별하는 데 특히 유용합니다. 혈액 배양 검사는 원인 병원체를 확인하고 적절한 항생제 치료를 결정하는 데 중요합니다. 또한 염증 표지자(ESR, CRP)의 측정도 진단과 치료 반응 모니터링에 유용합니다. 경우에 따라 CT 유도하 경피적 생검이나 수술적 생검이 필요할 수 있습니다. 단순 요추부 X-선 검사는 초기 척추 감염에서 변화가 미미하거나 비특이적일 수 있어 제한적입니다. 신경전도 검사는 말초신경 기능을 평가하는 검사로, 척추 감염의 초기 진단에는 적절하지 않습니다. 골스캔은 조기 골수염 진단에 유용할 수 있지만, MRI가 더 높은 민감도와 특이도를 제공합니다. HLA-B27 검사는 주로 강직성 척추염과 같은 염증성 척추 질환의 평가에 사용되며, 이 환자의 임상상은 감염성 원인을 더 강하게 시사합니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: Magnetic resonance imaging (MRI) with gadolinium enhancement is the imaging modality of choice for diagnosing postoperative spinal infections. Typical MRI findings include abnormal signal intensity in the vertebral bodies and intervertebral disc, enhancement of these structures and the adjacent soft tissues with gadolinium, and possibly epidural or paraspinal abscess formation. In patients who have undergone recent spinal surgery, distinguishing between normal postoperative changes and infection can be challenging, but certain features such as fluid collections, rapid progression of bony destruction, or epidural abscesses strongly suggest infection. Blood cultures should be obtained prior to antibiotic administration, as they may identify the causative organism in approximately 50-70% of cases. Elevated inflammatory markers, including erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), are sensitive but nonspecific indicators of infection. Serial measurements are useful for monitoring response to therapy. CT-guided percutaneous needle aspiration or open surgical biopsy may be necessary if blood cultures are negative but clinical suspicion remains high. Histopathological examination and culture of the obtained tissue can provide a definitive diagnosis and guide appropriate antibiotic therapy.",
+  "category": "Infectious Diseases"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "16세 남자 청소년이 점진적으로 악화되는 허리 통증과 자세 변화를 주소로 내원하였다. 환자는 학교에서 등이 굽었다는 놀림을 받아 부모가 병원에 데려왔다고 한다. 신체검진에서 우측으로 볼록한 흉추부 만곡이 관찰되며, Adams 전방굴곡 검사에서 우측 흉추부의 늑골 돌출(rib hump)이 뚜렷하다. 신경학적 검사는 정상이다. 전후방 척추 X-선 검사에서 주만곡 Cobb 각이 38도로 측정되었으며, MRI에서 구조적 이상은 관찰되지 않았다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "전후방 척추 X-선 검사: T5-T12 우측 볼록 만곡, Cobb 각 38도. Risser sign 2단계.",
+  "options": { 
+    "A": "관찰 및 정기적 추적 관찰", 
+    "B": "보조기 착용", 
+    "C": "물리치료와 강화 운동", 
+    "D": "척추 유합술", 
+    "E": "카이로프랙틱 치료" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 16세 남자 청소년으로 신체검진과 방사선학적 검사에서 확인된 우측 볼록 흉추부 만곡(Cobb 각 38도)과 Adams 전방굴곡 검사에서 늑골 돌출을 보이는 특발성 척추측만증(idiopathic scoliosis)을 가지고 있습니다. 특발성 척추측만증은 구조적 원인 없이 발생하는 척추의 3차원적 변형으로, 주로 성장기 청소년에서 발생합니다. 치료 방침은 만곡의 크기(Cobb 각), 환자의 골 성숙도(Risser sign), 잔여 성장 가능성, 그리고 만곡의 진행 위험 등을 고려하여 결정됩니다. Cobb 각 25-45도와 Risser sign 0-2단계(미성숙 골격)를 가진 성장기 청소년에게는 보조기 착용이 가장 적절한 치료입니다. 보조기는 만곡의 진행을 막는 것이 주요 목적이며, 일반적으로 하루 16-23시간 착용하고 골 성숙이 완료될 때까지(여자: Risser 4, 월경 시작 후 2년; 남자: Risser 5) 계속합니다. 보조기의 효과는 착용 시간과 직접적인 관련이 있습니다. 관찰 및 정기적 추적 관찰은 Cobb 각 10-25도의 경미한 만곡이나 골 성숙이 완료된 환자에게 적절합니다. 물리치료와 강화 운동은 보조기 착용과 함께 보조적으로 시행할 수 있지만, 단독으로는 유의한 만곡(>25도)의 진행을 막지 못합니다. 척추 유합술은 Cobb 각 45-50도 이상의 심한 만곡, 보조기 치료에 실패한 경우, 또는 빠르게 진행하는 만곡에 고려됩니다. 이 환자의 경우 Cobb 각 38도와 Risser sign 2단계로 아직 성장이 진행 중이므로, 수술보다는 보조기 치료가 적절합니다. 카이로프랙틱 치료는 특발성 척추측만증의 진행을 막거나 교정하는 데 효과가 입증되지 않았습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt: Bracing is the primary nonoperative treatment for idiopathic scoliosis and is indicated for skeletally immature patients (Risser sign 0-2) with curves measuring 25-45 degrees. The goal of bracing is to prevent curve progression during the adolescent growth spurt rather than to correct the existing deformity. Various types of orthoses are available, including the Boston brace (thoracolumbosacral orthosis) and the Milwaukee brace (cervicothoracolumbosacral orthosis). The recommended wearing time is 16-23 hours daily, with full-time wear showing better results than part-time protocols. Bracing should continue until skeletal maturity is reached (Risser 4-5). The effectiveness of bracing is directly related to the duration of brace wear, as demonstrated in the Bracing in Adolescent Idiopathic Scoliosis Trial (BrAIST), which showed a 72% success rate with bracing compared to 48% with observation alone. Surgical intervention, typically posterior spinal fusion with instrumentation, is recommended for curves greater than 45-50 degrees in skeletally immature patients or curves greater than 50 degrees in skeletally mature individuals. The goals of surgery are to achieve curve correction, prevent further progression, and maintain trunk balance while fusing as few vertebral segments as possible.",
+  "category": "Orthopedic Surgery"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "허리통증",
+  "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
+  "question": "45세 여성이 1년 전부터 시작된 허리와 엉덩이 통증을 주소로 내원하였다. 환자는 오른쪽 엉덩이와 둔부에 국한된 통증이 있으며, 특히 오래 앉아 있거나 오른쪽으로 눕거나 계단을 오를 때 악화된다고 한다. 환자는 최근 출산력이나 외상력은 없으며, 과거력상 특이사항도 없다. 신체검진에서 요추부 운동 범위는 정상이나, 오른쪽 천장관절 부위에 압통이 있다. Patrick 검사(FABER test)에서 오른쪽 양성 소견을 보이며, Gaenslen 검사에서도 오른쪽 양성이다. 직각 하지 거상 검사는 음성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": { 
+    "A": "요추 추간판 탈출증", 
+    "B": "요추 척추관 협착증", 
+    "C": "천장관절 기능이상", 
+    "D": "대퇴 활액낭염", 
+    "E": "고관절 골관절염" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 45세 여성으로 1년간 지속된 오른쪽 엉덩이와 둔부 통증을 호소하며, 특히 오래 앉아 있거나, 이환된 쪽으로 누워 있거나, 계단 오르기 시 악화되는 특징이 있습니다. 신체검진에서 오른쪽 천장관절 부위 압통과 함께 Patrick 검사(FABER test)와 Gaenslen 검사에서 양성 소견을 보입니다. 이러한 임상상은 천장관절 기능이상(sacroiliac joint dysfunction)에 합당합니다. 천장관절 기능이상은 천장관절의 과도한 움직임(불안정성)이나 제한된 움직임(고정)으로 인한 통증 증후군으로, 주로 한쪽 엉덩이와 둔부의 통증을 특징으로 합니다. 통증은 종종 요부, 서혜부, 대퇴부 뒤쪽까지 방사될 수 있습니다. 악화 요인으로는 오래 앉아 있기, 이환된 쪽으로 누워 있기, 계단 오르기, 한 다리로 서 있기 등이 있습니다. 신체검진에서 천장관절 부위의 압통과 함께 천장관절 스트레스 검사(Patrick/FABER 검사, Gaenslen 검사, 천장관절 압박 검사 등)에서 양성 소견을 보입니다. 요추 추간판 탈출증은 주로 하지 방사통을 동반하며, 직각 하지 거상 검사에서 양성 소견을 보이는 경우가 많습니다. 이 환자는 직각 하지 거상 검사가 음성이며, 둔부 통증이 주증상입니다. 요추 척추관 협착증은 주로 양측성 하지 통증과 신경성 파행(보행 시 악화, 앉을 때 완화)을 특징으로 합니다. 대퇴 활액낭염은 서혜부나 대퇴부 전외측의 통증을 유발하며, 종종 촉지되는 종괴나 국소 압통이 있습니다. 고관절 골관절염은 일반적으로 서혜부 통증, 고관절 운동 제한, 그리고 내회전 시 통증을 특징으로 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Sacroiliac joint dysfunction is characterized by pain originating from the sacroiliac joint due to either hypermobility (joint instability) or hypomobility (joint fixation). The pain is typically unilateral, located in the posterior pelvis and buttock, and may radiate to the posterolateral thigh, rarely extending below the knee. Aggravating factors include prolonged sitting, standing on the affected leg, climbing stairs, and lying on the affected side. Pain with transitional movements, such as moving from sitting to standing, is common. Physical examination findings include tenderness over the sacroiliac joint, positive provocative tests such as FABER (Flexion, ABduction, External Rotation) or Patrick test, Gaenslen's test, and sacroiliac compression test. The FABER test is performed by placing the ipsilateral foot on the contralateral knee and applying gentle pressure to the flexed knee; reproduction of pain over the sacroiliac joint is considered a positive test. Gaenslen's test involves extending the hip on the affected side while the contralateral hip is flexed; pain in the sacroiliac region indicates a positive test. Diagnosis is primarily clinical, as imaging studies often show nonspecific findings. Diagnostic sacroiliac joint injections can be both diagnostic and therapeutic.",
+  "category": "Orthopedic Surgery"
+}
