@@ -1,1 +1,38 @@
+1. Make Korean medical license examination questions only based on “필요한 파일들”
 
+2. Questions should be a case, not a simple fact-checking
+
+3. Questions must follow the form below. 
+
+4.Form
+{ "question_id": ,
+"chief complaint": ,
+"purpose": ,
+"question”: ,
+“exam”: ,
+"options": { "A": "B": "C": "D": "E": },
+"answer": ,
+"explanation": "
+"source": 
+“category”:,
+}
+
+5. "Source" must consists of the exact page number, and the sentences that you referred to. Never paraphrase.
+
+6. All questions must include additional information such as laboratory data, imaging findings, and EKG. Mention detailed numerical results when it comes to laboratory data.
+If you think exams aren’t necessary, you can just “Exam” blank.
+
+7. "chief complaints" should be referred from "의사 국가시험[필기] 평가목표 b5 최종 인쇄본.pdf", which varies from 1 to 105.
+You have to match each question from the 105 appropriate chief complaints.
+
+8 "purpose" should be referred from "의사 국가시험[필기] 평가목표 b5 최종 인쇄본.pdf".
+In "의사 국가시험[필기] 평가목표 b5 최종 인쇄본.pdf", you can find "핵심 성과" and "구체적 성과" in each chief complaint.
+Write down only one 성과 that matches the goal of your question.
+The sentence should be exactly the same to the PDF and you should never paraphrase
+
+9. These are questions that Korean medical students will be solving to achieve a medical license.
+Options should be very tricky enough to make students who even studied hard can get stuck between the tricky options.
+
+10. You have to make questions regarding various chief complaints, but never forget that you only have to refer to the PDFs that I attached. 
+
+11. Make sure that you create distinctive questions. Some questions might share the same diseases, but the options, exams and the questions should be different.
