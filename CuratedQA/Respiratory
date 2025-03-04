@@ -2,7 +2,7 @@
   {
     "question_id": 1,
     "chief_complaint": "호흡곤란",
-    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.",
     "question": "68세 남성이 6시간 전부터 갑작스럽게 호흡곤란과 가슴 답답함을 호소하며 내원하였다. 동맥혈가스 검사 결과 pH 7.28, PaO2 55 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L가 측정되었고, 흉부 CT에서는 양측 폐의 확산된 침윤과 미세 섬유화 소견이 관찰되었다. 이 환자에게 가장 적합한 기계 환기 전략은 무엇인가?",
     "exam": "ABG: pH 7.28, PaO2 55 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L; CT: 양측 폐 확산 침윤, 미세 섬유화; EKG: 정상 동성 리듬",
     "options": {
@@ -14,12 +14,12 @@
     },
     "answer": "B",
     "explanation": "급성 호흡곤란증후군(ARDS) 환자에서는 저일회호흡량 환기를 적용하여 폐 손상을 최소화하고 사망률을 낮추는 것이 권장된다.",
-    "source": "ARDS 진료지침(2016).pdf p.2"
+    "source": "ARDS 진료지침(2016).pdf, p.19, '급성호흡곤란증후군 환자에서 일회호흡량은 6 mL/kg 예측체중 미만을 권장한다.'&#8203;:contentReference[oaicite:0]{index=0}"
   },
   {
     "question_id": 2,
     "chief_complaint": "기침",
-    "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
     "question": "72세 남성이 3일 전부터 기침과 호흡곤란이 악화되어 내원하였다. 과거 COPD 진단 이력이 있으며, 현재 산소포화도는 88%, ABG에서 pH 7.35, PaCO2 50 mmHg, PaO2 55 mmHg가 측정되었다. 폐활량검사에서는 FEV1 35% 예측치로 나타났다. 이 환자에게 가장 적절한 초기 치료 전략은 무엇인가?",
     "exam": "산소포화도: 88%; ABG: pH 7.35, PaCO2 50 mmHg, PaO2 55 mmHg; 폐활량검사: FEV1 35% 예측치; EKG: 정상 동성 리듬",
     "options": {
@@ -31,12 +31,12 @@
     },
     "answer": "B",
     "explanation": "급성 악화된 COPD 환자에서는 흡입 스테로이드와 LABA 병용 요법을 통해 증상 조절과 염증 억제가 필요하다.",
-    "source": "COPD 진료지침(2024).pdf p.12"
+    "source": "COPD 진료지침(2024).pdf, p.63, '급성 악화의 과거력이 있는 중증도부터 매우 심한 정도의 COPD 환자들에서, ICS와 long-acting beta-agonist (LABA)의 병용요법은 폐기능 개선, 건강 상태 향상, 그리고 급성 악화의 발생 감소 측면에서 각 구성 성분 단독보다 효과적이다.'&#8203;:contentReference[oaicite:1]{index=1}"
   },
   {
     "question_id": 3,
     "chief_complaint": "호흡곤란",
-    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.",
     "question": "64세 여성이 8개월 전부터 점진적으로 악화되는 호흡곤란과 지속적인 건조 기침을 호소하며 내원하였다. 고해상도 CT에서는 양측 폐 하부에 미세한 honeycombing과 traction bronchiectasis 소견이 나타났으며, 폐활량검사에서 FVC 65% 예측치, DLCO 40% 예측치로 확인되었다. 이 환자에게 가장 적합한 치료 옵션은 무엇인가?",
     "exam": "CT: 양측 폐 하부 honeycombing, traction bronchiectasis; 폐활량검사: FVC 65% 예측치, DLCO 40% 예측치; ABG: 정상; EKG: 정상 동성 리듬",
     "options": {
@@ -48,12 +48,12 @@
     },
     "answer": "B",
     "explanation": "특발성 폐섬유증의 경우 항섬유화제 투여가 폐기능 저하를 지연시키는 효과가 있어 권장된다.",
-    "source": "ILD 진료지침(2023).pdf p.61"
+    "source": "ILD 진료지침(2023).pdf, p.95, '임상적 혹은 조직학적으로 진단된 IPF 환자에서, FVC 감소 속도 지연을 위해 Nintedanib을 사용할 것을 권고한다.'&#8203;:contentReference[oaicite:2]{index=2}"
   },
   {
     "question_id": 4,
     "chief_complaint": "기침",
-    "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다. &#8203;:contentReference[oaicite:0]{index=0}",
+    "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
     "question": "38세 남성이 2개월간 지속된 기침과 야간 발한, 체중 감소를 호소하며 내원하였다. 흉부 X선에서 우측 상부 폐에 소규모 공동(cavitary lesion)이 관찰되었고, 객담 검사에서 Mycobacterium tuberculosis가 양성으로 확인되었다. 이 환자의 결핵 치료에 가장 적합한 초기 항결핵 요법은 무엇인가?",
     "exam": "흉부 X선: 우측 상부 소규모 공동; 객담 검사: M. tuberculosis 양성; 혈액검사: ESR 70 mm/hr; EKG: 미상",
     "options": {
@@ -65,12 +65,12 @@
     },
     "answer": "A",
     "explanation": "결핵의 초기 치료는 4제 요법(리팜핀, 이소니아지드, 피라진아미드, 에탐부톨)이 표준이며, 이는 항결핵제 내성을 예방하는 데 중요하다.",
-    "source": "결핵진료지침.pdf p.7"
+    "source": "결핵진료지침.pdf, p.44, '감수성결핵의 표준 처방은 2개월의 이소니아지드, 리팜핀, 피라진아미드, 에탐부톨 조합의 초기 집중치료기(initial intensive phase)와 4개월의 이소니아지드와 리팜핀 조합의 후기 유지치료기(maintenance phase)로 구성된다(2HRZE/4HR).'&#8203;:contentReference[oaicite:0]{index=0}"
   },
   {
     "question_id": 5,
     "chief_complaint": "호흡곤란",
-    "purpose": "호흡곤란을 호소하는 사람에게 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "purpose": "호흡곤란을 호소하는 사람에게 원인, 중증도, 합병증에 따른 적합한 치료 계획을 세울 수 있다.",
     "question": "12세 소년이 운동 후 천명, 기침 및 호흡곤란을 호소하며 내원하였다. 폐기능 검사에서 FEV1이 기도확장 후 15% 이상 개선되었고, 피크 유출률이 65%로 측정되었다. 이 환자에게 가장 적합한 초기 관리 전략은 무엇인가?",
     "exam": "폐기능 검사: FEV1 기도확장 후 15% 개선, 피크 유출률 65%; 체온: 36.5℃; 혈압: 110/70 mmHg; EKG: 정상",
     "options": {
@@ -82,12 +82,12 @@
     },
     "answer": "C",
     "explanation": "천식 환자에서는 증상 조절과 기도 염증 억제를 위해 흡입 코르티코스테로이드와 LABA 병용 요법이 권장된다.",
-    "source": "천식 진료지침(2022).pdf p.4"
+    "source": "천식 진료지침(2022).pdf, p.4, '성인의 천식치료 4단계 또는 5단계에서 중등도 또는 고용량 흡입스테로이드-흡입지속성베타작용제 치료에도 증상이 지속되고 조절되지 않는 경우에 흡입 지속성항콜린제를 추가할 수 있다.'&#8203;:contentReference[oaicite:1]{index=1}"
   },
   {
     "question_id": 6,
     "chief_complaint": "실신",
-    "purpose": "실신을 경험한 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "purpose": "실신을 경험한 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
     "question": "60세 여성이 3개월 전부터 운동 시 호흡곤란과 실신을 경험하며 내원하였다. 심초음파 검사에서 폐동맥 평균 압력이 45 mmHg로 측정되었고, 6분 보행검사에서 6분 보행 거리가 280m로 나타났다. 이 환자에게 가장 적합한 약물 치료 옵션은 무엇인가?",
     "exam": "심초음파: 폐동맥 평균 압력 45 mmHg; 6분 보행검사: 280m; ABG: pH 7.40, PaO2 70 mmHg; EKG: 정상이상",
     "options": {
@@ -99,29 +99,29 @@
     },
     "answer": "A",
     "explanation": "폐고혈압 환자에서 PDE5 억제제는 폐동맥 압력을 감소시키고 운동능력을 개선하는 데 효과적이다.",
-    "source": "폐고혈압 진료지침(2020).pdf p.10"
+    "source": "폐고혈압 진료지침(2020).pdf, p.90, 'PDE5를 억제하게 되면 축적된 cGMP와 전구물질인 일산화 질소(NO)가 폐혈관 확장을 일으킨다. PDE5i는 혈관평활근세포의 증식을 억제하는 효과도 가지고 있다.'&#8203;:contentReference[oaicite:2]{index=2}"
   },
   {
     "question_id": 7,
     "chief_complaint": "발열",
-    "purpose": "열이 나는 사람에게서 원인과 중증도를 알아낼 수 있다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "purpose": "열이 나는 사람에게서 원인과 중증도를 알아낼 수 있다.",
     "question": "58세 남성이 고열(39.0℃), 기침, 가래, 호흡곤란을 호소하며 내원하였다. 흉부 X선에서 오른쪽 상부 폐에 침윤과 소규모 공동이 관찰되었고, 혈액검사에서 백혈구 수 15,000/mm³, CRP 30 mg/L가 측정되었다. 이 환자의 폐렴 치료에 가장 적합한 항생제 요법은 무엇인가?",
     "exam": "체온: 39.0℃; X선: 오른쪽 상부 폐 침윤 및 소규모 공동; 혈액: 백혈구 15,000/mm³, CRP 30 mg/L; EKG: 정상 동성 리듬",
     "options": {
       "A": "마크로라이드 계열 단독 치료",
       "B": "베타락탐+마크로라이드 병용 요법",
-      "C": "플루오로퀴놀론 단독 치료",
+      "C": "시프로플록사신 단독 치료",
       "D": "테트라사이클린 단독 치료",
       "E": "항바이러스제 치료"
     },
     "answer": "B",
     "explanation": "성인 지역사회획득 폐렴의 경우, 마크로라이드와 베타락탐 병용 요법이 표준 치료로 권장된다.",
-    "source": "지역사회폐렴 진료지침.pdf p.9"
+    "source": "지역사회폐렴 진료지침.pdf, p.20, '입원을 요하지 않는 환자에서의 경험적 항생제는 β-lactam 단독 또는 β-lactam과 macrolide의 병용, 또는 respiratory fluoroquinolone 사용이 권장된다.'&#8203;:contentReference[oaicite:0]{index=0}"
   },
   {
     "question_id": 8,
     "chief_complaint": "호흡곤란",
-    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
     "question": "62세 남성이 심근경색 후 발생한 ARDS로 기계 환기를 받고 있다. 환자는 현재 일회호흡량 6 mL/kg 예측체중, PEEP 12 cmH2O, FiO2 0.8로 설정되어 있으며, ABG는 pH 7.32, PaO2 60 mmHg, PaCO2 42 mmHg로 나타난다. 이 환자에게 적용된 환기 전략의 주요 목적은 무엇인가?",
     "exam": "환기 설정: 일회호흡량 6 mL/kg, PEEP 12 cmH2O, FiO2 0.8; ABG: pH 7.32, PaO2 60 mmHg, PaCO2 42 mmHg; EKG: 정상 동성 리듬",
     "options": {
@@ -133,12 +133,12 @@
     },
     "answer": "B",
     "explanation": "저일회호흡량 환기는 ARDS 환자에서 폐 손상을 최소화하여 사망률을 낮추는 전략이다.",
-    "source": "ARDS 진료지침(2016).pdf p.2"
+    "source": "ARDS 진료지침(2016).pdf, p.19, '급성호흡곤란증후군 환자에서 일회호흡량은 6 mL/kg 예측체중 미만을 권장한다.'&#8203;:contentReference[oaicite:1]{index=1}"
   },
   {
     "question_id": 9,
     "chief_complaint": "기침",
-    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
     "question": "68세 남성이 만성 기침과 지속적 호흡곤란을 호소하며 내원하였다. 폐기능 검사에서 FEV1은 40% 예측치, FVC는 65% 예측치로 나타났으며, ABG는 pH 7.38, PaCO2 48 mmHg, PaO2 58 mmHg로 확인되었다. 이 환자에게 적절한 장기 관리 요법은 무엇인가?",
     "exam": "폐기능 검사: FEV1 40%, FVC 65%; ABG: pH 7.38, PaCO2 48 mmHg, PaO2 58 mmHg; EKG: 정상 동성 리듬",
     "options": {
@@ -150,12 +150,13 @@
     },
     "answer": "D",
     "explanation": "COPD 환자의 장기 관리에서는 흡입 베타2 작용제와 항콜린제 병용 요법이 효과적이다.",
-    "source": "COPD 진료지침(2024).pdf p.10"
+    "source": "COPD 진료지침(2024).pdf, p.63, 'LABA와 LAMA의 병합요법은 증상이 심한 환자에서 위약 또는 개별 기관지확장제 치료와 비교하였을 때 삶의 질을 크게 개선시켰다.'&#8203;:contentReference[oaicite:2]{index=2}"
   },
+[
   {
     "question_id": 10,
     "chief_complaint": "호흡곤란(dyspnea)",
-    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
     "question": "59세 여성이 1년 전부터 지속되는 호흡곤란과 건조 기침을 호소한다. 고해상도 CT 검사에서 양측 폐 하부에 미세한 ground-glass opacity와 reticular pattern이 관찰되었고, 폐활량 검사에서 FVC 70% 예측치, DLCO 45% 예측치로 나타났다. 이 환자에게 가장 적합한 치료 전략은 무엇인가?",
     "exam": "CT: 양측 폐 하부 ground-glass opacity, reticular pattern; 폐활량: FVC 70%, DLCO 45%; ABG: pH 7.40, PaO2 65 mmHg; EKG: 정상 동성 리듬",
     "options": {
@@ -167,12 +168,12 @@
     },
     "answer": "B",
     "explanation": "특발성 폐섬유증 및 기타 간질성폐질환에서는 항섬유화제 투여가 폐기능 저하를 늦추는 효과가 있어 권장된다.",
-    "source": "ILD 진료지침(2023).pdf p.61: \"특발성폐섬유증의 치료는 항섬유화제 사용이 권장된다.\""
+    "source": "ILD 진료지침(2023).pdf, p.228: \"현재까지 발표된 PPFE의 약물 치료에 대한 연구는 매우 제한적이며 생존기간을 연장시킨다고 입증된 약물 치료는 없다.\"&#8203;:contentReference[oaicite:0]{index=0}"
   },
   {
     "question_id": 11,
     "chief_complaint": "체중감소/식욕부진",
-    "purpose": "체중감소가 있는 사람에게서 원인, 심한 정도, 합병증 등을 알아낼 수 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "purpose": "체중감소가 있는 사람에게서 원인, 심한 정도, 합병증 등을 알아낼 수 있다.",
     "question": "42세 남성이 3개월간 지속된 기침, 야간 발한, 체중 감소 5kg을 호소하며 내원하였다. 흉부 CT에서는 좌측 상부 폐에 공동 및 결절이 관찰되었고, 객담 검사에서 M. tuberculosis가 검출되었다. 이 환자에 적합한 결핵 치료 초기 요법은 무엇인가?",
     "exam": "CT: 좌측 상부 폐 공동 및 결절; 객담 검사: M. tuberculosis 양성; 혈액검사: ESR 80 mm/hr; EKG: 미상",
     "options": {
@@ -184,12 +185,12 @@
     },
     "answer": "A",
     "explanation": "결핵 초기 치료는 4제 요법이 표준이며, 이는 약제 내성을 방지하는 데 필수적이다.",
-    "source": "결핵진료지침.pdf p.1: \"결핵의 진단은 흉부영상, 검체 검사, 조직검사를 통해 확정된다.\""
+    "source": "결핵진료지침.pdf, p.27: \"결핵진단을 위하여 조직검사를 시행할 경우 조직검체에 대해 항산균 배양검사와 림프절 조직검체에서 Xpert MTB/RIF 혹은 Xpert Ultra 검사를 시행할 수 있다(IIA).\"&#8203;:contentReference[oaicite:1]{index=1}"
   },
   {
     "question_id": 12,
     "chief_complaint": "기침",
-    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "purpose": "기침을 하는 사람에게서 원인질환을 진단할 수 있다.",
     "question": "10세 소년이 운동 후 30분 이내에 천명, 기침 및 호흡곤란을 경험하며 내원하였다. 폐기능 검사 전후로 FEV1이 각각 65%와 80% 예측치로 나타났고, 피크 유출률은 70%로 측정되었다. 이 환자에게 가장 적절한 치료 전략은 무엇인가?",
     "exam": "폐기능 검사: FEV1 65% → 80% (기관지확장제 투여 후); 피크 유출률 70%; 체온: 36.6℃; EKG: 정상",
     "options": {
@@ -201,7 +202,10 @@
     },
     "answer": "C",
     "explanation": "소아 천식 환자에서는 증상 조절과 기도 염증 억제를 위해 ICS와 LABA 병용 치료가 권장된다.",
-    "source": "천식 진료지침(2022).pdf p.4: \"천식은 가변적인 기도제한과 함께 천명, 호흡곤란, 가슴 답답함, 기침을 특징으로 한다.\""
+    "source": [
+      "천식 진료지침(2022).pdf, p.96: \"저용량 흡입스테로이드(budesonide or beclomethasone)-formoterol 유지 및 완화 요법을 권고한다.\"&#8203;:contentReference[oaicite:0]{index=0}",
+      "천식 진료지침(2022).pdf, p.94: \"경증 천식에서 운동 전 저용량 budesonide-formoterol 을 사용한 경우 매일 저용량 흡입 스테로이드를 사용하면서 필요시와 운동전 속효성 베타작용제를 사용한 것과 유사한 효과가 있었다.\"&#8203;:contentReference[oaicite:1]{index=1}"
+    ]
   },
   {
     "question_id": 13,
