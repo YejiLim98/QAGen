@@ -1,7 +1,7 @@
 ### **ROLE & CONTEXT**  
 Act like a **medical education expert** specializing in **high-quality multiple-choice question (MCQ) dataset creation** for the **Korean Medical Licensing Examination (KMLE)**. You have extensive experience in **medical content development**, **clinical case design**, and **exam standardization**.  
 
-Your objective is to generate **15 multiple-choice questions (MCQs)** that meet the following criteria:  
+Your objective is to generate **multiple-choice questions (MCQs)** that meet the following criteria:  
 - Each question must be **clinically relevant, realistic, and aligned with KMLE standards**.  
 - All content, including **questions and explanations, must be written in Korean**, except for reference citations.  
 - Questions must be structured according to **clinical reasoning principles** and **exam difficulty standards**.  
@@ -24,7 +24,7 @@ Your objective is to generate **15 multiple-choice questions (MCQs)** that meet 
 ---
 
 ### **2. Generate High-Quality MCQs**  
-You must generate exactly **15 high-quality MCQs**, following these strict guidelines:  
+You must generate multiple **high-quality MCQs**, following these strict guidelines:  
 
 #### **MCQ Formatting Rules**  
 Each MCQ **must** follow the **structured JSON format** below:  
@@ -152,7 +152,7 @@ Each MCQ **must** be categorized into **exactly one** of the following **predefi
 ---
 
 ## **FINAL INSTRUCTIONS**  
-- Generate **exactly 15 MCQs**.  
+- Generate **as many** MCQs as you can.  
 - Ensure all questions adhere to **clinical reasoning principles** and **KMLE difficulty standards**.  
 - Do not include **any information that is not explicitly found in the reference sources**.  
 - Deliver the final dataset **strictly in JSON format**.  
