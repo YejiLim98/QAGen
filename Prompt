@@ -118,34 +118,22 @@ Each MCQ **must** be categorized into **exactly one** of the following **predefi
 
 ```json
 {
-  "question_id": "001",
-  "chief_complaint": "60세 남성이 혈압 조절이 되지 않아 내원함",
-  "purpose": "고혈압 환자의 약물 선택에 대한 적절한 치료 계획을 수립할 수 있다.",
-  "question": "60세 남성이 최근 혈압이 160/95 mmHg로 측정되었으며, ACE 억제제(Enalapril) 단독 요법을 사용 중이다. 기저질환으로 제2형 당뇨병이 있으며, 하루에 2병의 맥주를 섭취하고 10년간 흡연(1갑/일) 경력이 있다. 가장 적절한 치료법은?",
-  "exam": {
-    "Lab": "크레아티닌 1.2 mg/dL, 칼륨 4.5 mEq/L, 공복 혈당 145 mg/dL",
-    "ECG": "좌심실 비대 소견"
+  "question_id": 27,
+  "chief complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "34세 여성이 2시간 전부터 급격히 악화된 가슴 답답함과 호흡곤란을 주소로 응급실에 내원하였다. 환자는 평소 알레르기성 비염이 있었으며, 꽃가루가 많은 날이나 운동 후 간헐적으로 비슷한 증상을 경험했으나 오늘처럼 심하지는 않았다고 한다. 신체 검진에서 청진 시 양측 폐야에서 미만성 천명음이 들리며, 호기가 연장되어 있다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "혈압 130/80 mmHg, 맥박 110회/분, 호흡수 28회/분, 산소포화도 92%이다. 심전도와 흉부 X-선은 정상이었다. 동맥혈 가스 분석에서 pH 7.38, PaO2 78 mmHg, PaCO2 35 mmHg, HCO3 22 mEq/L이다. 폐기능 검사에서 FEV1 60%(정상 예측치의), FEV1/FVC 65%로 감소되어 있으며, 기관지 확장제 투여 후 FEV1이 15% 증가하였다."
+  "options": { 
+    "A": "속효성 베타2 작용제 흡입과 전신 스테로이드 투여", 
+    "B": "항생제 정맥 투여", 
+    "C": "항응고제 투여", 
+    "D": "니트로글리세린 설하 투여", 
+    "E": "이뇨제 정맥 투여" 
   },
-  "options": {
-    "A": "ACE 억제제 용량 증량",
-    "B": "베타차단제 추가",
-    "C": "칼슘채널차단제(CCB) 추가",
-    "D": "이뇨제 추가",
-    "E": "알파차단제 추가"
-  },
-  "answer": "C",
-  "explanation": "제2형 당뇨병 환자에서 고혈압 치료 시, ACE 억제제와 CCB 병용이 1차 치료로 권장된다. 환자의 좌심실 비대 소견을 고려할 때, CCB 추가가 효과적이다.",
-  "source": [
-    {
-      "source_id": "Hypertension_Guidelines_2023_1023",
-      "text": "고혈압 가이드라인에 따르면, 제2형 당뇨병이 있는 환자에게는 ACE 억제제와 CCB 병용이 1차 치료로 권장된다."
-    },
-    {
-      "source_id": "Hypertension_Guidelines_2023_1056",
-      "text": "단독요법으로 혈압 조절이 어려운 경우, 다른 기전의 항고혈압제를 추가하는 것이 효과적이다."
-    }
-  ],
-  "category": "Cardiology"
+  "answer": "A",
+  "explanation": "이 환자는 급성 호흡곤란과 가슴 답답함을 호소하며, 알레르기성 비염의 과거력이 있고, 꽃가루나 운동과 같은 유발 인자와 관련된 유사 증상의 병력이 있습니다. 신체 검진에서 빈맥, 빈호흡, 양측 폐야의 미만성 천명음, 연장된 호기가 관찰되며, 폐기능 검사에서 FEV1과 FEV1/FVC 비율의 감소, 기관지 확장제에 대한 반응성이 확인되었습니다. 이러한 임상상은 급성 천식 발작(acute asthma exacerbation)을 강하게 시사합니다. 천식은 가역적인 기도 폐쇄, 기도 과민성, 만성 기도 염증을 특징으로 하는 만성 호흡기 질환으로, 흔히 알레르기 항원, 운동, 감염, 대기 오염 등의 유발 인자에 의해 악화됩니다. 급성 천식 발작의 초기 치료는 속효성 베타2 작용제(short-acting beta2 agonist, SABA)의 반복 흡입과 전신 스테로이드 투여입니다. 속효성 베타2 작용제(예: 살부타몰, 알부테롤)는 기관지 평활근을 이완시켜 기도 폐쇄를 신속하게 완화시키며, 전신 스테로이드(예: 프레드니솔론, 메틸프레드니솔론)는 기도 염증을 감소시켜 증상 호전과 재발 방지에 중요합니다. 중등도 이상의 천식 발작에서는 항콜린성 약물(예: 이프라트로피움)을 추가하고, 산소 투여와 지속적인 모니터링이 필요합니다. 항생제는 감염이 동반된 경우에만 고려되며, 이 환자의 임상상은 감염을 시사하지 않습니다. 항응고제는 폐색전증 치료에 사용되지만, 이 환자의 임상상은 천식에 더 부합합니다. 니트로글리세린은 협심증 치료에 사용되며, 이뇨제는 심부전에 의한 폐울혈 치료에 사용됩니다.",
+  "source": "InternalMed_Harrison: The initial treatment of acute asthma exacerbations consists of repeated administration of a rapid-acting inhaled beta2-agonist (albuterol/salbutamol), early administration of systemic corticosteroids, and supplemental oxygen if hypoxemia is present. For moderate to severe exacerbations, an inhaled anticholinergic agent (ipratropium bromide) can be added to the beta2-agonist treatment. Albuterol is usually administered as a nebulized solution (2.5-5 mg) or via a metered-dose inhaler (4-8 puffs) every 20 minutes for the first hour, with subsequent dosing tailored to the patient's response. Systemic corticosteroids (prednisone 40-60 mg orally or methylprednisolone 60-125 mg intravenously) should be given to all patients with moderate to severe exacerbations or those who fail to respond promptly and completely to inhaled beta2-agonist treatment. Corticosteroids speed the resolution of airflow obstruction, reduce the rate of relapse, and decrease hospitalizations.",
+  "category": "Pulmonology (Respiratory Medicine)"
 }
 ```  
 
