@@ -1,0 +1,347 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "체중 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 체중증가 기전, 체중증가 유형과 정도, 체중증가로 인한 의학적 문제 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 여성이 최근 6개월 동안 8kg의 체중 증가를 호소하며 내원하였다. 환자는 평소 불규칙한 식습관과 야간 근무로 인해 생활 패턴이 일정하지 않다고 한다. 신체검사 결과 BMI 28 kg/m², 복부 둘레 증가, 그리고 안면 부종이 관찰되었다. 이 환자의 체중 증가 원인을 감별하기 위해 가장 적절한 검사는?",
+    "exam": "BMI 28 kg/m², 혈압 130/85 mmHg, 갑상선 촉진상 이상 소견 없음",
+    "options": {
+      "A": "공복 혈당 및 당화혈색소 측정",
+      "B": "24시간 소변 코르티솔 검사",
+      "C": "갑상선 기능 검사",
+      "D": "복부 초음파",
+      "E": "뇌하수체 MRI"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 비만과 안면 부종을 호소하고 있으며, 갑상선 기능 저하증(hypothyroidism)으로 인한 체중 증가 가능성이 있다. 갑상선 기능 저하증은 신진대사 저하로 체중 증가를 유발할 수 있으며, 이를 평가하기 위해 갑상선 기능 검사가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10389",
+        "text": "Hypothyroidism is a common cause of weight gain due to reduced metabolic rate and fluid retention."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "체중 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인과 기저질환, 동반질환 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "50세 남성이 최근 1년간 체중이 12kg 증가하여 내원하였다. 환자는 주로 앉아서 일하며 운동을 거의 하지 않고, 식습관은 주로 고탄수화물 위주라고 한다. 신체 검사에서 복부 비만이 두드러지며 혈압이 140/90 mmHg로 측정되었다. 다음 중 이 환자의 체중 증가와 가장 관련이 높은 대사이상은?",
+    "exam": "BMI 31 kg/m², 혈압 140/90 mmHg, 공복 혈당 110 mg/dL, 중성지방 200 mg/dL",
+    "options": {
+      "A": "갑상선 기능 저하증",
+      "B": "쿠싱 증후군",
+      "C": "대사증후군",
+      "D": "원발성 고알도스테론증",
+      "E": "신증후군"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 복부 비만, 고혈압, 고중성지방혈증, 공복 혈당 상승을 보이며 대사증후군(metabolic syndrome)의 기준을 충족한다. 대사증후군은 내장 지방 증가와 관련이 있으며 심혈관 질환 위험을 높일 수 있다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Metabolic syndrome is characterized by abdominal obesity, insulin resistance, hypertension, and dyslipidemia."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "비만 및 체중 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "37세 여성이 체중 증가와 피로감을 주소로 내원하였다. 환자는 최근 1년간 체중이 15kg 증가하였으며, 얼굴이 둥글어지고 쉽게 멍이 들며, 근력 저하를 느낀다고 한다. 신체 검사에서 중심성 비만과 버팔로 험프(buffalo hump)가 관찰되었다. 이 환자의 치료로 가장 적절한 것은?",
+    "exam": "BMI 32 kg/m², 혈압 145/95 mmHg, 공복 혈당 120 mg/dL, 24시간 소변 코르티솔 증가",
+    "options": {
+      "A": "식이 요법 및 운동",
+      "B": "갑상선 호르몬 보충 요법",
+      "C": "코르티솔 분비 종양 제거",
+      "D": "인슐린 투여",
+      "E": "이뇨제 투여"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 쿠싱 증후군(Cushing’s syndrome)의 특징적인 임상 양상을 보이며, 24시간 소변 코르티솔 검사가 증가되어 있음이 확인되었다. 쿠싱 증후군의 근본적인 치료는 원인이 되는 부신 종양 또는 뇌하수체 종양을 제거하는 것이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10391",
+        "text": "Cushing’s syndrome is characterized by central obesity, muscle weakness, and easy bruising, with elevated urinary cortisol levels."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "체중 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 체중증가 기전, 체중증가 유형과 정도, 체중증가로 인한 의학적 문제 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "52세 남성이 최근 1년간 10kg 체중 증가를 경험하였으며, 주로 복부 비만이 심해졌다고 내원하였다. 그는 피곤함을 자주 느끼고 아침에 일어나기 어렵다고 호소하였다. 배우자는 그가 자는 동안 숨을 헐떡이며 코를 심하게 곤다고 한다. 이 환자에서 의심할 수 있는 가장 가능성이 높은 질환은?",
+    "exam": "BMI 32 kg/m², 복부 둘레 증가, 혈압 140/90 mmHg",
+    "options": {
+      "A": "쿠싱 증후군",
+      "B": "폐쇄성 수면 무호흡증",
+      "C": "갑상선 기능 저하증",
+      "D": "신증후군",
+      "E": "대사증후군"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 복부 비만, 피로감, 낮 동안 졸림, 코골이 및 수면 중 무호흡을 보이고 있어 폐쇄성 수면 무호흡증(obstructive sleep apnea, OSA)이 강하게 의심된다. OSA는 체중 증가 및 대사 이상과 관련이 있으며, 적절한 진단 및 치료가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10392",
+        "text": "Obstructive sleep apnea is characterized by intermittent airway obstruction during sleep, leading to daytime sleepiness, fatigue, and metabolic complications."
+      }
+    ],
+    "category": "Pulmonology (Respiratory Medicine)"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "체중 증가 및 부종",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인과 기저질환, 동반질환 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "40세 여성이 6개월 동안 체중 증가와 전신 부종을 주소로 내원하였다. 환자는 최근 얼굴이 둥글어지고 손발이 붓는다고 한다. 신체 검사에서 혈압이 150/95 mmHg이며, 얼굴과 하지 부종이 관찰되었다. 검사 결과 단백뇨가 4.2 g/day로 확인되었다. 이 환자의 체중 증가 원인으로 가장 적절한 것은?",
+    "exam": "BMI 30 kg/m², 혈압 150/95 mmHg, 단백뇨 4.2 g/day",
+    "options": {
+      "A": "대사증후군",
+      "B": "폐쇄성 수면 무호흡증",
+      "C": "신증후군",
+      "D": "쿠싱 증후군",
+      "E": "갑상선 기능 저하증"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 심한 단백뇨(>3.5 g/day)와 전신 부종을 보이며, 이는 신증후군(nephrotic syndrome)의 전형적인 소견이다. 신증후군에서는 단백질 손실로 인해 혈중 알부민 농도가 감소하여 체액 저류가 발생하고, 결과적으로 체중 증가와 부종이 나타난다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10393",
+        "text": "Nephrotic syndrome is characterized by significant proteinuria, hypoalbuminemia, edema, and hyperlipidemia."
+      }
+    ],
+    "category": "Nephrology"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "체중 증가 및 식욕 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "27세 남성이 최근 3개월간 체중이 8kg 증가하였으며, 식욕이 왕성해졌다고 내원하였다. 환자는 최근 감정 기복이 심해지고, 잠을 적게 자도 피곤하지 않다고 한다. 또한 충동적으로 많은 돈을 소비하는 경향이 있다고 한다. 이 환자에서 가장 적절한 치료는?",
+    "exam": "BMI 29 kg/m², 혈압 130/85 mmHg, 기분이 고양되어 있으며 과도한 자신감을 보임",
+    "options": {
+      "A": "갑상선 호르몬 치료",
+      "B": "리튬 투여",
+      "C": "스테로이드 치료",
+      "D": "인슐린 투여",
+      "E": "항우울제 치료"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 식욕 증가, 체중 증가, 수면 감소, 충동적 행동을 보이며 조증(Mania)이 강하게 의심된다. 조증은 양극성 장애(Bipolar disorder)의 한 형태이며, 치료로 리튬(Lithium) 또는 항정신병 약물(예: 발프로산)이 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10394",
+        "text": "Mania is characterized by elevated mood, increased energy, decreased need for sleep, and impulsive behavior."
+      }
+    ],
+    "category": "Psychiatry"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "비만 및 월경 불순",
+    "purpose": "체중증가 또는 비만이 있는 사람에게 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "25세 여성이 체중 증가와 월경 불순을 주소로 내원하였다. 최근 1년간 10kg이 증가하였으며, 생리가 2~3개월에 한 번씩 불규칙하게 온다고 한다. 또한 얼굴에 여드름이 심해지고 털이 많이 자랐다고 한다. 다음 중 이 환자에서 가장 적절한 치료는?",
+    "exam": "BMI 30 kg/m², 혈압 125/80 mmHg, 다모증과 여드름이 관찰됨",
+    "options": {
+      "A": "에스트로겐-프로게스틴 복합 경구피임약",
+      "B": "갑상선 호르몬 보충",
+      "C": "쿠싱 증후군 치료",
+      "D": "신장 기능 평가 및 이뇨제 처방",
+      "E": "항정신병 약물 치료"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 비만, 월경 불순, 다모증, 여드름을 보이며 다낭성 난소 증후군(PCOS)이 강하게 의심된다. PCOS의 1차 치료는 호르몬 조절을 위한 에스트로겐-프로게스틴 복합 경구피임약(Combined oral contraceptive pills, COCs)이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10395",
+        "text": "Polycystic ovary syndrome (PCOS) is characterized by menstrual irregularities, hyperandrogenism, and obesity, often treated with combined oral contraceptives."
+      }
+    ],
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "체중 증가 및 변비",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인과 기저질환, 동반질환 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "43세 여성이 최근 6개월간 체중 증가와 함께 심한 피로감, 변비, 피부 건조를 호소하며 내원하였다. 신체 검사에서 창백하고 부어 보이는 얼굴과 건조한 피부가 관찰되었다. 이 환자의 체중 증가 원인을 감별하기 위해 가장 적절한 검사는?",
+    "exam": "BMI 27 kg/m², 혈압 125/80 mmHg, 피부 건조, 눈꺼풀 부종",
+    "options": {
+      "A": "공복 혈당 및 당화혈색소 검사",
+      "B": "갑상선 기능 검사",
+      "C": "뇌하수체 MRI",
+      "D": "부신 피질 호르몬 검사",
+      "E": "복부 초음파"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 체중 증가, 피로감, 변비, 피부 건조 등의 증상을 보이며 이는 갑상선 기능 저하증(hypothyroidism)의 전형적인 임상 양상이다. 이를 감별하기 위해 갑상선 기능 검사가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10396",
+        "text": "Hypothyroidism is characterized by fatigue, weight gain, constipation, dry skin, and facial puffiness."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "체중 증가 및 복부 둘레 증가",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 체중증가 기전, 체중증가 유형과 정도, 체중증가로 인한 의학적 문제 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 남성이 체중 증가와 함께 복부 둘레 증가를 주소로 내원하였다. 그는 최근 식욕이 증가했으며 피로감을 호소하고 있다. 신체 검사에서 간비대가 관찰되었고, 혈액 검사에서 고지혈증이 확인되었다. 이 환자에서 가장 가능성이 높은 진단명은?",
+    "exam": "BMI 30 kg/m², 복부 둘레 증가, 간비대, 공복 혈당 115 mg/dL, 중성지방 250 mg/dL",
+    "options": {
+      "A": "대사증후군",
+      "B": "알코올성 지방간",
+      "C": "비알코올성 지방간질환(NAFLD)",
+      "D": "쿠싱 증후군",
+      "E": "신증후군"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 복부 비만, 고지혈증, 간비대를 보이며 이는 비알코올성 지방간질환(NAFLD)과 일치하는 소견이다. NAFLD는 비만, 대사증후군, 당뇨병과 밀접한 연관이 있으며 적절한 체중 감량과 생활 습관 개선이 중요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10397",
+        "text": "Nonalcoholic fatty liver disease (NAFLD) is associated with obesity, metabolic syndrome, and insulin resistance."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "체중 증가 및 우울감",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "39세 여성이 최근 4개월 동안 7kg의 체중 증가와 지속적인 우울감, 수면 증가를 주소로 내원하였다. 식욕이 증가하여 특히 단 음식을 많이 찾는다고 한다. 이 환자에서 가장 적절한 치료는?",
+    "exam": "BMI 26 kg/m², 혈압 120/75 mmHg, 우울한 표정, 반응이 둔함",
+    "options": {
+      "A": "인지행동치료(CBT)",
+      "B": "SSRI 계열 항우울제",
+      "C": "비만 치료제 처방",
+      "D": "식이 요법 및 운동",
+      "E": "갑상선 호르몬 보충 요법"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 체중 증가, 과수면, 단 음식 선호 등 비정형 우울증(atypical depression)의 특징을 보이고 있다. 비정형 우울증에서는 SSRI 계열 항우울제가 효과적이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10398",
+        "text": "Atypical depression is characterized by increased appetite, weight gain, hypersomnia, and mood reactivity."
+      }
+    ],
+    "category": "Psychiatry"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "체중 증가 및 손 떨림",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "60세 남성이 최근 몇 개월 동안 체중이 증가하고 손이 떨리는 증상을 주소로 내원하였다. 신체 검사에서 안면 부종과 서맥이 확인되었다. 이 환자에서 시행해야 할 가장 적절한 검사는?",
+    "exam": "BMI 28 kg/m², 혈압 110/70 mmHg, 맥박 55회/분, 안면 부종",
+    "options": {
+      "A": "뇌 MRI",
+      "B": "갑상선 기능 검사",
+      "C": "부신 기능 검사",
+      "D": "신장 기능 검사",
+      "E": "심전도"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 서맥, 안면 부종, 체중 증가 등을 보이며 이는 갑상선 기능 저하증(hypothyroidism)과 일치하는 소견이다. 따라서 갑상선 기능 검사를 시행하는 것이 적절하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10399",
+        "text": "Hypothyroidism presents with weight gain, bradycardia, puffiness, and coarse skin."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "체중 증가 및 피로감",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인과 기저질환, 동반질환 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 남성이 최근 6개월 동안 10kg 체중 증가와 지속적인 피로감을 주소로 내원하였다. 환자는 식욕이 증가하였으며 아침에 일어나기 힘들다고 한다. 신체 검사에서 복부 비만과 중심성 체지방 분포가 관찰되었다. 이 환자에서 시행해야 할 가장 적절한 검사는?",
+    "exam": "BMI 31 kg/m², 혈압 140/90 mmHg, 복부 둘레 증가",
+    "options": {
+      "A": "공복 혈당 및 당화혈색소 검사",
+      "B": "갑상선 기능 검사",
+      "C": "24시간 소변 코르티솔 검사",
+      "D": "뇌하수체 MRI",
+      "E": "신장 기능 검사"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 중심성 비만과 고혈압을 동반한 체중 증가를 보이며, 이는 쿠싱 증후군(Cushing's syndrome)의 가능성을 시사한다. 쿠싱 증후군 감별을 위해 24시간 소변 코르티솔 검사가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10400",
+        "text": "Cushing's syndrome is characterized by central obesity, hypertension, and metabolic disturbances due to prolonged cortisol exposure."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "체중 증가 및 부종",
+    "purpose": "체중증가 또는 비만이 있는 사람에게서 원인과 기저질환, 동반질환 등을 알아내기 위한 방법을 선택하고 그 결과를 해석할 수 있다.",
+    "question": "50세 여성이 3개월 전부터 체중 증가와 전신 부종을 주소로 내원하였다. 환자는 최근 피로감을 호소하며 소변량이 감소했다고 한다. 신체 검사에서 하지 부종과 안검 부종이 관찰되었다. 이 환자의 체중 증가 원인을 감별하기 위해 가장 적절한 검사는?",
+    "exam": "BMI 30 kg/m², 혈압 145/95 mmHg, 단백뇨 3.8 g/day",
+    "options": {
+      "A": "공복 혈당 및 당화혈색소 검사",
+      "B": "갑상선 기능 검사",
+      "C": "신장 기능 검사 및 단백뇨 검사",
+      "D": "복부 초음파",
+      "E": "부신 피질 호르몬 검사"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 단백뇨와 함께 전신 부종을 보이며 신증후군(nephrotic syndrome)의 가능성이 크다. 따라서 신장 기능 검사와 단백뇨 검사가 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10401",
+        "text": "Nephrotic syndrome is characterized by significant proteinuria, hypoalbuminemia, and generalized edema."
+      }
+    ],
+    "category": "Nephrology"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "체중 증가 및 불규칙한 월경",
+    "purpose": "체중증가 또는 비만이 있는 사람에게 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "29세 여성이 최근 1년간 체중이 12kg 증가하였으며, 월경이 불규칙해져서 내원하였다. 환자는 여드름이 심해지고 털이 많아졌다고 호소하였다. 초음파 검사에서 양측 난소의 미세 낭종이 관찰되었다. 이 환자에서 가장 적절한 치료는?",
+    "exam": "BMI 28 kg/m², 혈압 125/80 mmHg, 다모증 및 여드름",
+    "options": {
+      "A": "에스트로겐-프로게스틴 복합 경구피임약",
+      "B": "갑상선 호르몬 보충",
+      "C": "쿠싱 증후군 치료",
+      "D": "항우울제 투여",
+      "E": "고탄수화물 식이"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 다낭성 난소 증후군(PCOS)이 의심되며, 치료로는 에스트로겐-프로게스틴 복합 경구피임약(Combined oral contraceptives)이 가장 적절하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10402",
+        "text": "Polycystic ovary syndrome (PCOS) is managed with combined oral contraceptives to regulate menstrual cycles and reduce hyperandrogenic symptoms."
+      }
+    ],
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "체중 증가 및 우울감",
+    "purpose": "체중증가 또는 비만이 있는 사람에게 원인 또는 기저질환, 동반질환 유무에 따른 적합한 치료 계획을 선택할 수 있다.",
+    "question": "42세 남성이 최근 4개월간 체중이 8kg 증가하고 우울감이 심해져서 내원하였다. 환자는 의욕이 없고, 잠을 많이 자도 개운하지 않다고 한다. 또한 단 음식을 자주 찾는다고 한다. 이 환자에게 적절한 치료는?",
+    "exam": "BMI 27 kg/m², 혈압 120/75 mmHg, 우울한 표정, 반응이 둔함",
+    "options": {
+      "A": "인지행동치료(CBT)",
+      "B": "SSRI 계열 항우울제",
+      "C": "비만 치료제",
+      "D": "갑상선 호르몬 보충",
+      "E": "인슐린 투여"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 비정형 우울증(atypical depression)의 가능성이 높으며, SSRI 계열 항우울제가 효과적인 치료법이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10403",
+        "text": "Atypical depression is characterized by increased appetite, hypersomnia, and mood reactivity."
+      }
+    ],
+    "category": "Psychiatry"
+  }
+]
