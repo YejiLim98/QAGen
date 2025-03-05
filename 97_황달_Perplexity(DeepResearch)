@@ -1,1 +1,380 @@
+{
+  "question_id": 1,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "28세 남성이 1주일 전부터 시작된 황달과, 3일 전부터 진한 소변으로 내원하였다. 환자는 3주 전에 외국 여행을 다녀왔으며, 현지 식당에서 조개류를 먹었다고 한다. 여행에서 돌아온 후 2주간 전신 피로감, 식욕 감퇴, 오심 및 구토가 있었다. 신체 검사에서 공막 황달과 우상복부 압통이 관찰되었으며, 간이 늑골 아래로 2cm 촉지되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 8.2 mg/dL, 직접 빌리루빈 5.4 mg/dL, AST, 1450 U/L, ALT 1820 U/L, ALP 210 U/L, GGT 180 U/L\n혈청학적 검사: HAV IgM 항체 양성, HBsAg 음성, anti-HBc IgM 음성, anti-HCV 음성\n복부 초음파: 간 실질의 미만성 에코 증가, 담낭벽 비후, 담도 확장 소견 없음",
+  "options": {
+    "A": "급성 A형 간염",
+    "B": "급성 B형 간염",
+    "C": "급성 C형 간염",
+    "D": "알코올성 간염",
+    "E": "약물 유발성 간염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 황달, 식욕 감퇴, 오심, 구토 등의 전형적인 급성 바이러스성 간염 증상을 보이고 있습니다. 검사 결과 HAV IgM 항체가 양성이며, 다른 간염 바이러스 표지자는 음성입니다. HAV IgM 항체는 급성 A형 간염 감염의 특이적 표지자로, 증상 발현 5-10일 전에 양성으로 전환되어 감염 후 약 3-6개월 동안 양성을 유지합니다. 환자의 여행력과 해산물 섭취력은 A형 간염의 위험 요소입니다. A형 간염은 주로 분변-구강 경로로 전파되며, 오염된 음식이나 물을 통해 감염됩니다. 임상 경과는 대개 양호하며, 대부분의 환자는 6개월 이내에 회복됩니다. 간수치(AST, ALT)의 현저한 상승도 급성 바이러스성 간염에 합당한 소견입니다. 복부 초음파에서 담도 확장 소견이 없는 것은 폐쇄성 황달을 배제합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Hepatitis A virus (HAV) is transmitted by the fecal-oral route, and infection is facilitated by close personal contact and poor sanitation. Common source outbreaks may be traced to contaminated food, water, or shellfish. The incubation period averages 30 days (range 15–49 days). HAV replicates in the liver, reaches the liver via the portal vein, is shed into the bile and excreted in feces. Peak infectivity occurs during the 2-week period before the onset of jaundice. Virus is no longer detected in the stools after the first week of jaundice. Therefore, isolation of patients (beyond the usual precautions for patients with diarrhea) is not necessary after the first week of jaundice.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 3일 전부터 시작된 황달과 전신 피로감으로 내원하였다. 환자는 최근 10일간 발열, 오한 및 전신 관절통을 경험했다고 한다. 약물 복용력은 없으며, 가족력상 빈혈이나 황달의 병력도 없다. 신체 검사에서 체온 38.2°C, 혈압 110/70mmHg, 맥박 95회/분, 호흡수 18회/분이었다. 환자는 창백한 결막과 황달이 있었으며, 비장이 2cm 촉지되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 8.2 g/dL, 백혈구 12,500/μL, 혈소판 185,000/μL\n총 빌리루빈 4.8 mg/dL, 직접 빌리루빈 0.7 mg/dL, AST 42 U/L, ALT 38 U/L, LDH 820 U/L (정상 범위: 120-250 U/L)\n소변 검사: 요빌리노겐 증가, 빌리루빈 음성",
+  "options": {
+    "A": "복부 초음파",
+    "B": "간 생검",
+    "C": "혈액 도말 검사",
+    "D": "MRCP (자기공명담췌관조영술)",
+    "E": "혈청 바이러스 간염 표지자 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 간접 빌리루빈(총 빌리루빈 - 직접 빌리루빈) 수치가 높고, 직접 빌리루빈이 낮으며, 간 효소 상승이 경미한 점에서 간외 용혈성 황달을 시사합니다. 헤모글로빈 감소, LDH 상승, 간접 빌리루빈 상승은 용혈성 빈혈의 전형적인 검사 소견입니다. 소변에서 요빌리노겐이 증가하고 빌리루빈이 음성인 것도 간접 빌리루빈 증가를 지지합니다(간접 빌리루빈은 수용성이 아니어서 신장에서 여과되지 않음). 발열, 오한과 같은 전신 증상과 비장 비대는 감염성 원인의 용혈성 빈혈을 시사합니다. 이런 환자에서 가장 적절한 다음 검사는 말초 혈액 도말 검사로, 이를 통해 적혈구 형태 이상, 기생충 감염(말라리아 등) 여부를 확인할 수 있습니다. 용혈성 빈혈의 원인을 빠르게 진단하여 적절한 치료를 시작하는 것이 중요합니다.",
+  "source": "Pathology_Robbins_textbook_data.txt - Hemolytic anemias are a diverse group of disorders characterized by shortened red cell survival. Hemolysis can result from intrinsic red cell defects, extrinsic factors that injure normal red cells, or a combination of these causes. Manifestations include jaundice (due to increased bilirubin from breakdown of hemoglobin), reticulocytosis, and, in severe cases, hemoglobinemia, hemoglobinuria, and hemosiderinuria. The diagnosis of hemolysis is supported by laboratory findings showing decreased haptoglobin, increased indirect bilirubin, elevated lactate dehydrogenase, and reticulocytosis. Examination of the peripheral blood smear may reveal red cell fragments, parasitized red cells, or abnormal red cell morphology indicative of the underlying cause.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "65세 여성이 2주 전부터 진행되는 황달, 가려움증, 6kg의 체중 감소로 내원하였다. 환자는 최근 수개월간 식후 우상복부 통증이 있었으며, 최근 1주일간 대변 색이 옅어졌다고 한다. 과거력상 담석증으로 10년 전 담낭절제술을 받았다. 환자는 평소 술과 담배를 하지 않았다. 신체 검사에서 공막 황달이 관찰되었으며, 우상복부에 압통이 있었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: 총 빌리루빈 12.5 mg/dL, 직접 빌리루빈 9.8 mg/dL, AST 120 U/L, ALT 135 U/L, ALP 780 U/L, GGT 620 U/L\n혈청 CA 19-9: 880 U/mL (정상 범위: <37 U/mL)\n복부 CT: 확장된 간내 및 간외 담관, 췌장 두부에 3cm 크기의 종괴, 담낭은 관찰되지 않음(이전 담낭절제술로 인함)\nMRCP: 췌장 두부 종괴에 의한 총담관 폐쇄",
+  "options": {
+    "A": "내시경적 역행성 담췌관조영술(ERCP)과 담관 스텐트 삽입",
+    "B": "경피경간 담도배액술(PTBD)",
+    "C": "췌십이지장 절제술(Whipple procedure)",
+    "D": "간이식",
+    "E": "간생검"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 폐쇄성 황달의 전형적인 임상상을 보이고 있습니다. 직접 빌리루빈의 현저한 상승, ALP와 GGT의 증가, CT와 MRCP에서 보이는 담관 확장 및 췌장 두부의 종괴는 췌장암에 의한 담도 폐쇄를 강력히 시사합니다. 또한 CA 19-9의 현저한 상승은 췌장암 가능성을 더욱 지지합니다. 이 환자는 근치적 수술(췌십이지장 절제술)이 궁극적인 치료가 될 수 있으나, 현재 심한 황달이 있어 수술 전 담즙 배액이 필요합니다. 담즙 정체 상태에서 바로 대수술을 시행할 경우 간 기능 부전, 응고 장애, 상처 치유 지연, 감염 등의 합병증 위험이 증가합니다. 따라서 ERCP를 통한 담관 스텐트 삽입을 통해 담즙 배액을 먼저 시행하는 것이 적절합니다. 이를 통해 황달을 감소시키고, 간 기능을 개선시킨 후 정확한 병기 결정과 근치적 수술 여부를 결정하는 것이 권장됩니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt - Periampullary tumors, including pancreatic head carcinoma, may present with obstructive jaundice. The most important diagnostic test is a contrast-enhanced CT scan of the abdomen. Obstructive jaundice from periampullary tumors is most commonly managed by endoscopic retrograde cholangiopancreatography (ERCP) and stent placement; percutaneous transhepatic biliary drainage (PTBD) is an alternative when ERCP is not possible. Relief of jaundice before pancreaticoduodenectomy (Whipple procedure) reduces operative morbidity. Recent evidence suggests that preoperative biliary drainage may not be necessary if bilirubin levels are only moderately elevated (<15 mg/dL) and early surgery is feasible.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "생후 3일된 남아가 황달로 내원하였다. 아기는 39주에 질식분만으로 태어났으며, 출생 시 체중은 3.2kg이었다. 분만 과정에서 특별한 문제는 없었다. 어머니의 혈액형은 O형 Rh 양성이며, 아기의 혈액형은 A형 Rh 양성이다. 아기는 모유 수유 중이며, 하루에 기저귀 6-7개를 적시고, 대변도 정상적으로 보고 있다. 신체 검사에서 활력 징후는 안정적이었으며, 공막과 피부에 황달이 관찰되었다. 간비종대는 없었다. 이 신생아 황달의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: 총 빌리루빈 12.8 mg/dL, 직접 빌리루빈 0.6 mg/dL, 혈색소 16.5 g/dL, 망상적혈구 2.8%, 혈액형 A형 Rh 양성\n직접 Coombs 검사: 양성\n혈액 도말 검사: 구상적혈구증 없음",
+  "options": {
+    "A": "생리적 황달",
+    "B": "모유 황달",
+    "C": "ABO 부적합에 의한 용혈성 질환",
+    "D": "담도 폐쇄",
+    "E": "Gilbert 증후군"
+  },
+  "answer": "C",
+  "explanation": "이 신생아는 생후 3일째 황달이 있으며, 검사에서 간접 빌리루빈의 상승이 보입니다. 어머니의 혈액형은 O형이고 아기는 A형으로, ABO 부적합의 가능성이 있습니다. 직접 Coombs 검사 양성은 아기의 적혈구 표면에 항체가 부착되어 있음을 의미하며, 이는 어머니에게서 유래된 항-A 항체가 아기의 적혈구를 공격하는 ABO 부적합에 합당합니다. O형의 어머니는 자연적으로 항-A와 항-B 항체를 가지고 있으며, 이 항체들은 IgG 유형으로 태반을 통과할 수 있습니다. 생리적 황달은 보통 생후 2-3일에 나타나지만, 직접 Coombs 검사 양성과 같은 용혈성 증거는 보이지 않습니다. 모유 황달은 보통 생후 4-7일에 시작되어 점차 증가하는 양상을 보입니다. 담도 폐쇄는 직접 빌리루빈의 상승을 동반하며, Gilbert 증후군은 신생아기에 증상을 나타내기 어렵습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - ABO incompatibility occurs in approximately 20-25% of pregnancies and is the most common cause of hemolytic disease of the newborn. The mother is usually blood group O, and the fetus is group A, B, or AB. The mother has naturally occurring anti-A and anti-B antibodies, which cross the placenta and cause hemolysis of fetal red blood cells. Unlike Rh incompatibility, ABO incompatibility can occur during the first pregnancy. The diagnosis is suggested by jaundice presenting within the first 24-48 hours of life, a positive direct Coombs test, and evidence of hemolysis (increased reticulocyte count, spherocytosis on peripheral blood smear). The hemolysis is usually mild to moderate, and severe hydrops fetalis is rare. Treatment options include phototherapy and, in severe cases, exchange transfusion.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "황달",
+  "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "56세 남성이 1주일 전부터 시작된 황달, 오심, 구토, 식욕 감퇴로 응급실에 내원하였다. 환자는 3개월 전 폐결핵을 진단받고 isoniazid, rifampin, ethambutol, pyrazinamide로 치료 중이다. 환자는 간헐적으로 술을 마시며, 최근에는 통증 조절을 위해 acetaminophen을 복용했다고 한다. 신체 검사에서 공막 황달, 우상복부 압통이 관찰되었다. 환자는 혼동된 상태였으며, 간성 진전(간병증수전)이 관찰되었다. 응급실에서 시행한 이 환자의 초기 치료로 가장 적절한 것은?",
+  "exam": "혈액 검사: 총 빌리루빈 18.5 mg/dL, 직접 빌리루빈 11.2 mg/dL, AST 1850 U/L, ALT 2250 U/L, ALP 190 U/L, GGT 155 U/L, 알부민 2.8 g/dL, PT 22초(정상 11-13초), INR 2.8\n동맥혈 가스 분석: pH 7.32, pCO2 32 mmHg, pO2 88 mmHg, HCO3 16 mEq/L\n복부 초음파: 간 실질의 미만성 에코 증가, 간 크기 감소, 담도 확장 소견 없음, 복수 소견 관찰됨",
+  "options": {
+    "A": "N-acetylcysteine 투여",
+    "B": "결핵 치료제 유지 및 경과 관찰",
+    "C": "간 생검",
+    "D": "Prednisolone 투여",
+    "E": "결핵 치료제 중단 및 간 이식 평가"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 약물 유발성 간 손상(Drug-Induced Liver Injury, DILI)으로 인한 급성 간부전의 임상상을 보이고 있습니다. 결핵 치료제, 특히 isoniazid, rifampin, pyrazinamide는 잘 알려진 간독성 약물입니다. 환자의 임상 증상(황달, 오심, 구토, 혼동), 현저히 상승된 간 효소, 연장된 PT/INR, 저알부민혈증, 복수는 심각한 간 손상을 시사합니다. 특히 정신 상태 변화(혼동)와 간성 진전은 간성 뇌증을 의미하며, 이는 중증 간부전의 징후입니다. 이러한 경우 즉시 모든 간독성 약물(결핵 치료제와 acetaminophen)을 중단해야 합니다. 약물 유발성 급성 간부전에서는 N-acetylcysteine이 acetaminophen 독성 외에도 효과가 있을 수 있으나, 이 환자는 이미 간성 뇌증과 응고 장애가 있는 진행된 간부전 상태로, 간 이식에 대한 평가가 가장 중요합니다. 약물 유발성 급성 간부전에서 간 이식은 생존율을 크게 향상시킬 수 있는 유일한 확실한 치료법입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Drug-induced liver injury (DILI) is a leading cause of acute liver failure. Numerous medications, including antituberculosis drugs (isoniazid, rifampin, pyrazinamide), can cause severe liver injury. DILI may present as hepatocellular injury (predominantly elevated aminotransferases), cholestatic injury (predominantly elevated alkaline phosphatase), or mixed pattern. The development of jaundice in the setting of drug-induced hepatocellular injury is associated with poor prognosis (Hy's law). Immediate withdrawal of the offending drug is essential. Liver transplantation should be considered in patients with progressive liver failure, as evidenced by deepening jaundice, coagulopathy, encephalopathy, and metabolic acidosis. N-acetylcysteine may be beneficial in non-acetaminophen DILI but is not a substitute for transplantation evaluation in severe cases.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "17세 여학생이 2주 전부터 시작된 황달과 복부 팽만으로 내원하였다. 환자는 최근 3개월간 학업 성적이 급격히 저하되었으며, 이상한 행동을 보이고 감정 조절이 어려웠다고 한다. 최근 1개월간 손 떨림이 있어 글씨 쓰기가 어려웠다고 한다. 가족력상 환자의 오빠가 10세에 간부전으로 사망했다. 신체 검사에서 황달, 거미형 혈관종, 손의 진전, 의도 떨림이 관찰되었다. 안과 검사에서 Kayser-Fleischer 고리가 발견되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 2.8 mg/dL, AST 120 U/L, ALT 95 U/L, ALP 110 U/L, 혈색소 10.5 g/dL, 혈소판 110,000/μL\n혈청 알부민 2.9 g/dL, PT 16초(정상 11-13초), INR 1.5\n복부 초음파: 간 크기 감소, 거친 에코 질감, 비장 비대, 소량의 복수",
+  "options": {
+    "A": "24시간 소변 구리 측정",
+    "B": "항핵항체(ANA) 검사",
+    "C": "간 생검과 HBV DNA 정량 검사",
+    "D": "혈청 알파태아단백(AFP) 측정",
+    "E": "MRCP (자기공명담췌관조영술)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 황달, 신경정신과적 증상(학업 성적 저하, 이상 행동, 감정 조절 장애), 신경학적 증상(손 떨림, 의도 떨림), 간부전 징후(알부민 감소, PT 연장)를 보이고 있습니다. 안과 검사에서 Kayser-Fleischer 고리가 발견된 것은 윌슨병을 강력히 시사합니다. 가족력상 형제가 어린 나이에 간부전으로 사망한 것도 상염색체 열성 질환인 윌슨병의 가능성을 지지합니다. 윌슨병은 ATP7B 유전자 돌연변이로 인해 구리 대사 장애가 발생하여 간, 뇌, 각막 등에 구리가 축적되는 질환입니다. 이 환자의 경우 간경변으로 진행된 소견(간 크기 감소, 비장 비대, 복수)도 보입니다. 윌슨병 진단을 위한 가장 적절한 검사는 24시간 소변 구리 측정으로, 윌슨병 환자에서는 소변 구리 배출이 100μg/24시간 이상으로 증가합니다. 혈청 세룰로플라스민 측정, ATP7B 유전자 검사도 진단에 도움이 됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Wilson's disease is an autosomal recessive disorder caused by mutations in ATP7B, a copper-transporting ATPase. The disease is characterized by excessive deposition of copper in the liver, brain, and other tissues. The major diagnostic findings include the presence of Kayser-Fleischer rings in the cornea, low serum ceruloplasmin levels (<20 mg/dL), elevated 24-hour urinary copper excretion (>100 μg/24 h), and elevated hepatic copper concentration (>250 μg/g dry weight) on liver biopsy. Neurologic manifestations include tremor, dysarthria, dystonia, and psychiatric disturbances. Early diagnosis and treatment with chelating agents (D-penicillamine, trientine) or zinc can prevent progression of liver and neurologic disease.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "황달",
+  "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "34세 여성(임신 33주)이 2일 전부터 시작된 황달, 오심, 우상복부 통증으로 응급실에 내원하였다. 환자는 5일 전부터 두통, 전신 부종이 있었다고 한다. 산전 관리는 규칙적으로 받아왔으며, 1주일 전 검사에서 혈압 145/95 mmHg, 소변 단백질 2+로 확인되었다. 내원 당시 신체 검사에서 혈압 170/110 mmHg, 맥박 110회/분, 호흡수 24회/분이었으며, 전신 부종, 공막 황달, 우상복부 압통이 관찰되었다. 태아 심박수는 분당 150회였다. 이 환자의 적절한 초기 치료는?",
+  "exam": "혈액 검사: 헤모글로빈 9.5 g/dL, 혈소판 45,000/μL, 백혈구 13,500/μL\n총 빌리루빈 3.8 mg/dL, 직접 빌리루빈 1.2 mg/dL, AST 560 U/L, ALT 620 U/L, LDH 980 U/L\n크레아티닌 1.8 mg/dL, 요산 8.5 mg/dL\n혈액 도말: 분열적혈구(schistocytes) 관찰됨\n소변 검사: 단백 3+\n초음파: 태아 크기 임신 32주에 해당, 태아 활동성 양호, 양수량 정상, 태반 조기박리 소견 없음, 간 실질에 이상 소견 없으나 간 주변으로 소량의 복수 관찰됨",
+  "options": {
+    "A": "마그네슘 설페이트 정맥주사 및 항고혈압제 투여",
+    "B": "즉각적인 제왕절개 분만",
+    "C": "간 생검",
+    "D": "항바이러스제 치료",
+    "E": "항암화학요법"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 33주 산모로 고혈압, 단백뇨, 부종의 전자간증(preeclampsia) 소견과 함께 황달, 간 효소 상승, 혈소판 감소, 용혈성 빈혈(분열적혈구 관찰), 신기능 저하가 동반되어 있습니다. 이는 HELLP 증후군(Hemolysis, Elevated Liver enzymes, Low Platelets)을 시사합니다. HELLP 증후군은 중증 전자간증의 변형으로, 산모와 태아 모두에게 생명을 위협하는 응급 상황입니다. 이 증후군은 간 괴사, 간내 출혈, 간파열 등 심각한 합병증을 일으킬 수 있으며, 산모의 사망률과 이환율이 높습니다. HELLP 증후군의 유일한 근본적 치료는 분만이며, 산모의 상태가 불안정하고 합병증 위험이 높은 경우 임신 주수에 관계없이 즉각적인 분만이 필요합니다. 마그네슘 설페이트는 경련 예방을 위해 사용될 수 있으나, 분만 없이 보존적 치료만으로는 상태가 악화될 수 있습니다. 따라서 33주의 임신 주수와 환자의 심각한 임상 상태를 고려할 때, 즉각적인 제왕절개 분만이 가장 적절한 초기 치료입니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt - HELLP syndrome (Hemolysis, Elevated Liver enzymes, and Low Platelets) is a severe variant of preeclampsia that occurs in 0.5-0.9% of all pregnancies and in 10-20% of cases with severe preeclampsia. Hemolysis is characterized by abnormal peripheral blood smear (schistocytes), elevated bilirubin (>1.2 mg/dL), and elevated LDH (>600 U/L). Liver enzymes are significantly elevated, with AST or ALT ≥70 IU/L. Thrombocytopenia is defined as platelet count <100,000/μL. HELLP syndrome can lead to serious maternal complications including disseminated intravascular coagulation, placental abruption, acute renal failure, pulmonary edema, subcapsular liver hematoma, and hepatic rupture. Maternal mortality rate is approximately 1%, and perinatal mortality rates range from 10-60%. The only definitive treatment for HELLP syndrome is delivery, regardless of gestational age. For women beyond 34 weeks' gestation, immediate delivery is recommended. For those between 24 and 34 weeks, a course of corticosteroids followed by delivery is often advised, especially if there is evidence of multiorgan dysfunction or deteriorating maternal or fetal condition.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인을 감별진단할 수 있다.",
+  "question": "52세 여성이 서서히 진행된 황달과 가려움증으로 내원하였다. 환자는 6개월 전부터 심한 피로감, 전신 가려움증, 피부 색소 침착을 경험하였으며, 최근 2개월 동안 황달이 발생했다고 한다. 환자는 과거 갑상선기능저하증과 류마티스 관절염으로 진단받은 병력이 있다. 신체 검사에서 공막 황달, 전신 피부 가려움 흔적, 손바닥 홍반, 간이 우측 늑골 아래로 2cm 촉지되었다. 이 환자의 진단으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: 총 빌리루빈 4.8 mg/dL, 직접 빌리루빈 3.6 mg/dL, AST 92 U/L, ALT 78 U/L, ALP 720 U/L, GGT 420 U/L, 총 콜레스테롤 310 mg/dL\n자가항체 검사: 항미토콘드리아 항체(AMA) 양성(1:320), 항핵항체(ANA) 양성(1:80), 항평활근항체(ASMA) 음성\n복부 초음파: 간 실질의 이상 소견 없음, 비장비대, 담도 확장 소견 없음",
+  "options": {
+    "A": "원발성 담즙성 담관염(이전 명칭: 원발성 담즙성 간경화)",
+    "B": "원발성 경화성 담관염",
+    "C": "자가면역성 간염",
+    "D": "약물 유발성 간손상",
+    "E": "알코올성 간염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 중년 여성으로 서서히 진행된 황달, 가려움증, 피로감을 호소하고 있습니다. 검사 결과에서 담즙정체 양상의 간기능 이상(직접 빌리루빈, ALP, GGT의 현저한 상승, 상대적으로 경미한 AST, ALT 상승)과 항미토콘드리아 항체(AMA) 양성 소견을 보이고 있습니다. 이러한 임상 양상은 원발성 담즙성 담관염(이전 명칭: 원발성 담즙성 간경화)에 합당합니다. 원발성 담즙성 담관염은 주로 중년 여성에서 발생하는 만성 진행성 담즙정체 질환으로, 소담관(intrahepatic bile ducts)의 파괴와 염증이 특징입니다. 환자의 기저 자가면역 질환(갑상선기능저하증, 류마티스 관절염)도 원발성 담즙성 담관염과 흔히 연관됩니다. 항미토콘드리아 항체는 이 질환의 진단적 표지자로, 환자의 95% 이상에서 양성입니다. 초기에는 가려움증과 피로감만 있다가 점차 황달이 발생하고, 치료하지 않으면 간경화로 진행합니다. 원발성 경화성 담관염은 대담관과 소담관을 모두 침범하며, 70% 이상에서 염증성 장질환과 연관되고, 항미토콘드리아 항체가 음성입니다. 자가면역성 간염은 주로 AST, ALT의 현저한 상승을 보이며, 항핵항체 또는 항평활근항체가 높은 역가로 양성입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Primary biliary cholangitis (PBC), formerly called primary biliary cirrhosis, is an autoimmune disease characterized by a slowly progressive nonsuppurative destructive cholangitis affecting small intrahepatic bile ducts. It primarily affects middle-aged women, with a female:male ratio of 10:1. The diagnosis is established by the triad of cholestatic liver biochemical tests (elevated alkaline phosphatase and gamma-glutamyltranspeptidase), positive antimitochondrial antibodies (AMA, present in >95% of patients), and characteristic liver biopsy findings (nonsuppurative destructive cholangitis). PBC is often associated with other autoimmune diseases such as Sjögren's syndrome, autoimmune thyroid disease, and rheumatoid arthritis. Patients typically present with fatigue, pruritus, and eventually jaundice. Untreated, the disease progresses to cirrhosis and liver failure. Ursodeoxycholic acid (UDCA) is the first-line therapy, which can slow disease progression and improve transplant-free survival when started early.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "70세 남성이 갑작스런 황달, 우상복부 통증, 오한으로 응급실에 내원하였다. 환자는 3일 전 심한 상복부 통증이 있었으며, 이후 소변 색이 진해지고 황달이 발생했다고 한다. 내원 8시간 전부터는 고열과 오한이 시작되었다. 환자는 고혈압, 당뇨병이 있으며, 10년 전 담석이 있다는 이야기를 들었으나 특별한 치료를 받지 않았다. 신체 검사에서 체온 39.2°C, 혈압 100/60mmHg, 맥박 110회/분, 호흡수 22회/분이었다. 공막 황달이 관찰되었으며, 우상복부에 압통이 있었고, 머피 징후(Murphy's sign)는 음성이었다. 이 환자의 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: 백혈구 18,500/μL(호중구 85%), 헤모글로빈 13.5 g/dL, 혈소판 210,000/μL\n총 빌리루빈 6.8 mg/dL, 직접 빌리루빈 5.2 mg/dL, AST 120 U/L, ALT 110 U/L, ALP 420 U/L, GGT 350 U/L\n복부 초음파: 담낭 내 다수의 담석, 담낭벽 비후(8mm), 총담관 확장(12mm), 총담관 말단부에 1.5cm 크기의 담석, 간내 담관 확장",
+  "options": {
+    "A": "경피경간 담도배액술(PTBD)",
+    "B": "개복 담낭절제술과 총담관 절개술",
+    "C": "즉각적인 내시경적 역행성 담췌관조영술(ERCP)과 담관 괄약근 절개술",
+    "D": "담즙산 제제(ursodeoxycholic acid) 경구 투여",
+    "E": "경정맥 항생제 투여 및 경과 관찰"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 담석에 의한 총담관 폐쇄와 급성 담관염(Charcot's triad: 황달, 복통, 발열)의 전형적인 임상상을 보이고 있습니다. 검사 결과에서 백혈구 증가, 담즙정체 양상의 간기능 이상(직접 빌리루빈, ALP, GGT 상승), 영상 검사에서 총담관 확장과 총담관 말단부 담석이 확인되었습니다. 급성 담관염은 담도 폐쇄로 인한 담즙 정체와 세균 감염이 결합된 응급 상황으로, 적절한 치료 없이는 패혈증으로 진행할 수 있습니다. 치료는 두 가지 주요 요소로 구성됩니다: 1) 적절한 항생제 치료와 2) 담도 감압 및 담즙 배액. 이 환자의 경우 즉각적인 내시경적 역행성 담췌관조영술(ERCP)과 담관 괄약근 절개술을 통해 총담관 말단부 담석을 제거하고 담도 배액을 확보하는 것이 가장 적절한 치료입니다. 항생제 치료만으로는 담도 폐쇄가 해결되지 않아 불충분하며, 수술적 접근은 환자의 상태가 불안정하고 덜 침습적인 방법이 가능할 때는 일반적으로 2차 옵션으로 고려됩니다. 경피경간 담도배액술(PTBD)은 ERCP가 불가능하거나 실패한 경우에 고려됩니다. 담낭절제술은 급성기가 지난 후 계획된 수술로 시행하는 것이 좋습니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt - Acute cholangitis is a bacterial infection of the biliary tract, most commonly associated with biliary obstruction from gallstones. The classic presentation is Charcot's triad: right upper quadrant pain, jaundice, and fever with chills. The addition of altered mental status and hypotension (Reynolds' pentad) indicates a more severe form of the disease with high mortality. Management involves fluid resuscitation, broad-spectrum antibiotics, and biliary decompression. Endoscopic retrograde cholangiopancreatography (ERCP) with sphincterotomy and stone extraction is the preferred method for biliary decompression. ERCP should be performed urgently (within 24-48 hours) in patients with severe cholangitis. For patients with mild to moderate cholangitis, ERCP can be performed semi-electively after initial stabilization with antibiotics. Percutaneous transhepatic biliary drainage (PTBD) is an alternative when ERCP is not feasible or unsuccessful. Surgery is reserved for patients who fail endoscopic and percutaneous approaches or those with complicated biliary tract disease.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "64세 남성이 2개월 전부터 진행되는 황달, 체중 감소, 전신 피로감으로 내원하였다. 환자는 시골에 거주하며 민물고기 회를 자주 먹는다고 한다. 과거력상 30년 전 민물고기 회를 먹은 후 복통으로 병원에 내원하여 간흡충증을 진단받고 치료받은 적이 있다. 최근 1개월간 5kg의 체중 감소가 있었다. 신체 검사에서 공막 황달, 우상복부 압통, 간비대가 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 10.5 mg/dL, 직접 빌리루빈 8.2 mg/dL, AST 85 U/L, ALT 72 U/L, ALP 620 U/L, GGT 450 U/L\n혈청 CA 19-9: 420 U/mL (정상 범위: <37 U/mL)\n복부 CT: 간내 담관 확장, 좌측 간내 담관 합류부 주변으로 불균일하게 조영증강되는 3cm 크기의 종괴, 간문부 림프절 비대\n대변 검사: 간흡충 충란 양성",
+  "options": {
+    "A": "간세포암",
+    "B": "담관세포암",
+    "C": "전이성 간암",
+    "D": "간농양",
+    "E": "담도 결석"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 간흡충 감염의 병력이 있는 64세 남성으로, 황달, 체중 감소, 피로감의 점진적인 발현을 보이고 있습니다. 검사 결과에서 담즙정체 양상의 간기능 이상(직접 빌리루빈, ALP, GGT의 현저한 상승)을 보이며, CA 19-9 종양 표지자가 상승되어 있습니다. CT에서 간내 담관 확장과 좌측 간내 담관 합류부에 종괴가 관찰되고, 대변 검사에서 간흡충 충란이 검출되었습니다. 이러한 임상상은 간흡충증과 연관된 담관세포암(Cholangiocarcinoma)에 합당합니다. 간흡충(Clonorchis sinensis, Opisthorchis viverrini)의 만성 감염은 담관세포암의 주요 위험 인자로, 재발성 담관 손상, 염증, 담관상피 증식을 유발하여 장기간에 걸쳐 담관암 발생 위험을 증가시킵니다. 특히 민물고기 회를 자주 섭취하는 지역에서 흔하게 발생합니다. 담관세포암은 초기에는 증상이 없다가 점차 담도 폐쇄로 인한 황달, 복통, 체중 감소 등이 나타납니다. 간세포암은 주로 만성 B형 또는 C형 간염, 알코올성 간경변과 연관되며, 영상 소견이 다릅니다. 담도 결석은 갑작스러운 증상 발현과 심한 통증을 특징으로 하며, 영상에서 결석이 보입니다. 간농양은 발열, 백혈구 증가 등 급성 감염 소견을 보입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Cholangiocarcinoma is a malignancy arising from the biliary epithelium of the intrahepatic or extrahepatic bile ducts. Risk factors include primary sclerosing cholangitis, choledochal cysts, and liver fluke infections (Clonorchis sinensis, Opisthorchis viverrini). Chronic liver fluke infection induces chronic inflammation and epithelial proliferation in the bile ducts, leading to malignant transformation. In endemic areas of Southeast Asia, where raw or undercooked fish consumption is common, liver fluke-associated cholangiocarcinoma is a major health problem. Patients typically present with painless jaundice, weight loss, and fatigue. Diagnosis relies on imaging studies (ultrasonography, CT, MRI/MRCP), tumor markers (CA 19-9, which may be elevated but is not specific), and sometimes endoscopic retrograde cholangiopancreatography (ERCP) with brushings for cytology. Treatment options include surgical resection for localized disease, liver transplantation in selected cases, and palliative biliary drainage for unresectable tumors. Prognosis is generally poor, with 5-year survival rates of 5-10% for unresectable disease.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "45세 남성이 최근 6개월간 간헐적인 황달과 전신 가려움증으로 내원하였다. 환자는 만성 궤양성 대장염으로 10년 전 진단받고 치료 중이다. 과거 음주력이나 약물 복용력은 없으며, 가족력에서 특이사항은 없다. 최근 3개월간 2kg의 체중 감소가 있었다. 신체 검사에서 공막 황달, 간비대는 없었으며, 복부에 특이 소견은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 3.1 mg/dL, AST 72 U/L, ALT 65 U/L, ALP 580 U/L, GGT 320 U/L\n혈청 자가항체: 항핵항체(ANA) 약양성(1:40), p-ANCA 양성\n복부 CT: 간내 및 간외 담관의 불규칙한 협착과 확장, 담관벽의 비후, 간실질 이상 소견 없음\nMRCP: 간내 및 간외 담관의 다발성 협착과 확장을 보이는 '구슬 목걸이(beaded)' 양상",
+  "options": {
+    "A": "원발성 담즙성 담관염",
+    "B": "원발성 경화성 담관염",
+    "C": "담석증",
+    "D": "자가면역성 간염",
+    "E": "약물 유발성 간손상"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 궤양성 대장염의 병력을 가진 환자로, 간헐적인 황달과 가려움증을 호소하고 있습니다. 검사 결과에서 담즙정체 양상의 간기능 이상(직접 빌리루빈, ALP, GGT의 현저한 상승)을 보이며, p-ANCA 양성이고, 영상 검사에서 담관의 다발성 협착과 확장을 보이는 '구슬 목걸이' 양상이 관찰됩니다. 이러한 임상상은 원발성 경화성 담관염(Primary Sclerosing Cholangitis, PSC)에 합당합니다. PSC는 간내외 담관의 염증과 섬유화로 인해 담관의 협착과 확장이 반복되는 만성 진행성 질환으로, 염증성 장질환, 특히 궤양성 대장염과 강한 연관성이 있습니다(PSC 환자의 약 70-80%가 염증성 장질환을 동반). p-ANCA는 PSC 환자의 약 60-80%에서 양성을 보입니다. MRCP와 같은 담관 영상 검사에서 보이는 특징적인 '구슬 목걸이' 양상은 PSC의 진단적 소견입니다. 원발성 담즙성 담관염은 항미토콘드리아 항체(AMA) 양성을 특징으로 하며, 소담관만을 침범합니다. 담석증은 영상 검사에서 명확한 결석이 관찰되며, 자가면역성 간염은 주로 AST, ALT의 현저한 상승을 특징으로 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Primary sclerosing cholangitis (PSC) is a chronic, progressive cholestatic liver disease characterized by inflammation and fibrosis of both intrahepatic and extrahepatic bile ducts, leading to the formation of multiple bile duct strictures. PSC is strongly associated with inflammatory bowel disease (IBD), particularly ulcerative colitis, which is present in approximately 70-80% of PSC patients. The disease typically affects young to middle-aged adults with a male predominance. Patients with PSC often present with fatigue, pruritus, and intermittent jaundice. Laboratory findings include elevated alkaline phosphatase and gamma-glutamyltransferase, and perinuclear antineutrophil cytoplasmic antibodies (p-ANCA) are positive in 60-80% of patients. Magnetic resonance cholangiopancreatography (MRCP) or endoscopic retrograde cholangiopancreatography (ERCP) typically shows multifocal strictures and dilatations of the biliary tree, giving a characteristic 'beaded' appearance. PSC is associated with an increased risk of cholangiocarcinoma, colorectal cancer, and gallbladder cancer.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 12,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "22세 남자 대학생이 간헐적인 황달로 내원하였다. 환자는 지난 4년간 스트레스를 받거나 과로 후, 또는 금식 후에 경미한 황달이 발생했다가 저절로 호전되는 양상이었다고 한다. 현재 특별한 약물 복용력은 없었으며, 알코올은 사교적으로만 마신다고 한다. 가족력상 환자의 형도 비슷한 증상이 있다고 한다. 신체 검사에서 공막에 경미한 황달 외에 특이 소견은 없었으며, 간비대나 비장비대는 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 0.3 mg/dL, AST, ALT, ALP, GGT 모두 정상 범위\n혈색소 15.2 g/dL, 백혈구 6,500/μL, 혈소판 230,000/μL\n망상적혈구 1.2%(정상), LDH 정상 범위\n공복 시 총 빌리루빈 4.6 mg/dL, 직접 빌리루빈 0.4 mg/dL\n복부 초음파: 간담도계에 이상 소견 없음",
+  "options": {
+    "A": "급성 바이러스성 간염",
+    "B": "알코올성 간염",
+    "C": "용혈성 빈혈",
+    "D": "길버트 증후군",
+    "E": "간세포암"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 젊은 남성으로 스트레스, 과로, 금식 등 신체적 스트레스 상황에서 발생하는 간헐적이고 경미한 황달을 보이고 있습니다. 검사 결과에서 간접 빌리루빈의 단독 상승(총 빌리루빈 상승, 직접 빌리루빈 정상)을 보이며, 다른 간기능 검사는 모두 정상입니다. 금식 시 빌리루빈 수치가 더 상승하는 것도 특징적입니다. 이러한 임상상은 길버트 증후군(Gilbert's syndrome)에 합당합니다. 길버트 증후군은 UGT1A1 유전자 변이로 인한 빌리루빈 포합(결합) 감소로 발생하는 양성 질환으로, 간접 빌리루빈의 경미한 상승이 특징입니다. 상염색체 열성 유전 양상을 보이며, 남성에서 더 흔합니다(약 5-10%). 증상은 보통 경미하거나 없으며, 스트레스, 과로, 금식, 감염 등으로 악화될 수 있습니다. 진단은 임상 양상과 함께 간기능 검사가 정상이면서 간접 빌리루빈만 상승한 경우 고려할 수 있습니다. 가족력이 있는 것도 유전적 배경을 지지합니다. 용혈성 빈혈은 망상적혈구 증가, LDH 상승, 헤모글로빈 감소를 동반합니다. 급성 바이러스성 간염과 알코올성 간염은 간효소(AST, ALT) 상승을 동반합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Gilbert's syndrome is a common, benign, hereditary condition characterized by mild, unconjugated hyperbilirubinemia in the absence of liver disease or hemolysis. It affects approximately 5-10% of the population, with a higher prevalence in males. The condition is caused by reduced activity of UDP-glucuronosyltransferase 1A1 (UGT1A1), the enzyme responsible for conjugating bilirubin. Most cases are due to a promoter polymorphism in the UGT1A1 gene (UGT1A1*28), resulting in reduced enzyme expression. Gilbert's syndrome is typically asymptomatic, with patients occasionally developing mild jaundice during periods of stress, fasting, or illness. Diagnosis is based on clinical findings, with mild unconjugated hyperbilirubinemia (usually <5 mg/dL) and normal liver function tests. The diagnosis can be confirmed by provocative testing, such as a 2-day fast, which causes a substantial increase in serum bilirubin in affected individuals. No treatment is required, and patients should be reassured about the benign nature of the condition.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 13,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 여성이 2주 전부터 시작된 황달, 복부 팽만, 하지 부종으로 내원하였다. 환자는 최근 6개월간 하루 소주 1-2병을 마셨다고 하며, 2개월 전부터는 식욕 감퇴로 거의 식사를 하지 못했다고 한다. 과거력상 15년 전 B형 간염으로 진단받았으나 정기적인 검진은 받지 않았다. 신체 검사에서 공막 황달, 거미형 혈관종, 복수, 하지 부종이 관찰되었다. 이 환자에게 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "혈액 검사: 총 빌리루빈 8.5 mg/dL, 직접 빌리루빈 5.2 mg/dL, AST 220 U/L, ALT 65 U/L, ALP 180 U/L, 알부민 2.5 g/dL, PT 22초(정상 11-13초), INR 2.5\nHBsAg 양성, anti-HBe 양성, HBeAg 음성",
+  "options": {
+    "A": "간 생검",
+    "B": "복부 초음파와 도플러 검사",
+    "C": "내시경적 역행성 담췌관조영술(ERCP)",
+    "D": "간 섬유화 스캔(Fibroscan)",
+    "E": "MRCP (자기공명담췌관조영술)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 B형 간염과 알코올 남용의 병력이 있는 38세 여성으로, 황달, 복수, 하지 부종 등 간경변의 임상 소견을 보이고 있습니다. 검사 결과에서 총 빌리루빈과 직접 빌리루빈의 상승, AST>ALT 양상의 간효소 상승, 저알부민혈증, PT/INR 연장 등 간기능 저하 소견을 보입니다. 또한 HBsAg 양성으로 현재 B형 간염 보균 상태이며, HBeAg 음성, anti-HBe 양성은 HBeAg 혈청전환이 일어난 만성 B형 간염 상태를 의미합니다. 이러한 환자에서 가장 우선적으로 시행해야 할 검사는 복부 초음파와 도플러 검사입니다. 이 검사를 통해 간경변의 형태학적 특징(결절성 간 표면, 간 크기 변화, 비장비대), 복수의 정도, 문맥 고혈압의 증거(비장비대, 측부 순환), 간문맥의 혈류 방향과 속도, 간정맥 혈류 패턴, 그리고 간세포암과 같은 합병증 여부를 평가할 수 있습니다. 또한 비침습적이고 비용 효율적이며 방사선 노출이 없는 장점이 있습니다. 간 생검은 출혈 위험이 높은 환자(PT/INR 연장)에서는 위험할 수 있으며, ERCP와 MRCP는 담도 질환의 평가에 유용하지만 이 환자의 임상 상황(간경변 의심)에서는 일차적 검사로 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Ultrasound is the most widely used imaging technique for the diagnosis of cirrhosis and its complications. It is noninvasive, widely available, and relatively inexpensive. In patients with cirrhosis, ultrasound can reveal a nodular liver surface, liver size changes (often shrunken in advanced cirrhosis), splenomegaly, and signs of portal hypertension such as ascites and portosystemic collaterals. Doppler ultrasonography provides valuable information about blood flow direction and velocity in the portal vein and can detect portal vein thrombosis, a serious complication of cirrhosis. Additionally, ultrasound is an important screening tool for hepatocellular carcinoma in patients with cirrhosis. The hepatic venous pressure gradient (HVPG), a measure of the difference between wedged and free hepatic venous pressures, is the gold standard for assessing portal pressure. An HVPG >10 mmHg defines clinically significant portal hypertension and is predictive of complications such as variceal hemorrhage when >12 mmHg.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 14,
+  "chief complaint": "황달",
+  "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "3일된 남아가 황달로 내원하였다. 아기는 38주에 자연 분만으로 태어났으며, 출생 시 체중은 3.0kg이었다. 출생 후 첫날에는 황달이 없었으나, 생후 2일째부터 황달이 발생하여 점차 심해졌다. 아기는 모유 수유 중이며, 하루에 기저귀 6-7개를 적시고, 대변도 정상적으로 보고 있다. 신체 검사에서 활력징후는 안정적이었으며, 전신에 심한 황달이 관찰되었다. 신경학적 진찰에서 과긴장, 후궁반장(opisthotonus), 높은 음역의 울음이 관찰되었다. 이 신생아에게 가장 적절한 응급 치료는?",
+  "exam": "혈액 검사: 총 빌리루빈 28.5 mg/dL, 직접 빌리루빈 0.8 mg/dL, 혈색소 15.5 g/dL, 망상적혈구 4.5%, 백혈구 9,500/μL\n혈액형: 아기 A형 Rh 양성, 어머니 O형 Rh 양성\n직접 Coombs 검사: 양성",
+  "options": {
+    "A": "광선치료(phototherapy) 단독",
+    "B": "교환수혈(exchange transfusion)과 광선치료 병합",
+    "C": "페노바르비탈 투여",
+    "D": "정맥 면역글로불린(IVIG) 단독",
+    "E": "경구 활성탄 투여"
+  },
+  "answer": "B",
+  "explanation": "이 신생아는 생후 3일째 심한 황달(총 빌리루빈 28.5 mg/dL)과 함께 신경학적 이상 소견(과긴장, 후궁반장, 높은 음역의 울음)을 보이고 있어 빌리루빈 뇌증(bilirubin encephalopathy) 또는 핵황달(kernicterus)이 의심됩니다. 검사 결과에서 간접 빌리루빈의 현저한 상승, 망상적혈구 증가, 직접 Coombs 검사 양성 소견을 보이며, 어머니와 아기의 혈액형 불일치(모: O형, 아기: A형)가 있어 ABO 부적합에 의한 용혈성 질환이 원인으로 추정됩니다. 이러한 상황에서 가장 적절한 응급 치료는 교환수혈과 광선치료의 병합입니다. 교환수혈은 빌리루빈 수치가 매우 높고 신경학적 증상이 있는 경우 즉각적으로 빌리루빈 수치를 낮추고 빌리루빈 뇌증의 진행을 방지하기 위한 가장 효과적인 방법입니다. 광선치료도 병행하여 빌리루빈의 추가 감소를 촉진합니다. 신생아의 빌리루빈 수치가 25 mg/dL 이상이고 신경학적 증상이 있는 경우, 광선치료만으로는 빌리루빈 수치를 빠르게 낮추기 어려워 불충분한 치료가 될 수 있습니다. 페노바르비탈은 빌리루빈 결합과 배설을 촉진하지만 효과가 나타나는 데 시간이 걸리므로 이 응급 상황에는 적합하지 않습니다. 정맥 면역글로불린은 용혈성 질환에서 보조적으로 사용될 수 있지만, 이미 빌리루빈 뇌증이 의심되는 상황에서는 단독 치료로 불충분합니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Severe hyperbilirubinemia (total serum bilirubin >25 mg/dL) can lead to bilirubin encephalopathy (acute bilirubin neurotoxicity) and kernicterus (chronic bilirubin encephalopathy). The symptoms of acute bilirubin encephalopathy include lethargy, hypotonia, poor feeding, and abnormal tone (alternating hypotonia and hypertonia). As the condition progresses, the infant may develop hypertonia of extensor muscles, retrocollis and opisthotonus, high-pitched cry, and seizures. Exchange transfusion is indicated for severe hyperbilirubinemia when the total serum bilirubin exceeds exchange transfusion thresholds, when there is evidence of acute bilirubin encephalopathy, or when intensive phototherapy fails to prevent a rise in total serum bilirubin to a level approaching exchange transfusion thresholds. Exchange transfusion rapidly removes bilirubin and hemolyzed red blood cells, replacing them with normal red blood cells that lack sensitizing antigens. The procedure removes approximately 50% of circulating bilirubin. Intensive phototherapy should be continued during and after the exchange transfusion. Intravenous immune globulin (IVIG, 0.5-1 g/kg) may be used as an adjunct therapy in isoimmune hemolytic disease to reduce the need for exchange transfusion.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인을 감별진단할 수 있다.",
+  "question": "42세 여성이 2주 전부터 시작된 황달, 피로감, 식욕 감퇴로 내원하였다. 환자는 1개월 전 갑상선기능저하증을 진단받고 레보티록신을 복용 중이며, 3개월 전부터는 우울증으로 항우울제(fluoxetine)를 복용 중이다. 신체 검사에서 공막 황달, 우상복부 압통이 관찰되었으며, 발진이나 발열은 없었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 6.2 mg/dL, 직접 빌리루빈 4.5 mg/dL, AST 850 U/L, ALT 920 U/L, ALP 210 U/L, GGT 180 U/L\n항핵항체(ANA) 양성(1:320, 균질형 패턴), anti-smooth muscle antibody(ASMA) 양성(1:80), anti-LKM 음성, IgG 2450 mg/dL(정상 700-1600 mg/dL)\n혈청 ceruloplasmin 정상, HBsAg 음성, anti-HCV 음성\n복부 초음파: 간 실질의 미만성 에코 증가, 담도 확장 소견 없음",
+  "options": {
+    "A": "약물 유발성 간손상",
+    "B": "자가면역성 간염",
+    "C": "알코올성 간염",
+    "D": "급성 B형 간염",
+    "E": "윌슨병"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 중년 여성으로 황달과 간효소의 현저한 상승을 보이고 있습니다. 검사 결과에서 AST, ALT의 현저한 상승(>800 U/L)과 함께 항핵항체(ANA)와 항평활근항체(ASMA)가 양성이며, 혈청 IgG가 상승되어 있습니다. 이러한 소견은 자가면역성 간염(Autoimmune Hepatitis, AIH)에 합당합니다. 자가면역성 간염은 간세포에 대한 면역 매개성 손상을 특징으로 하는 만성 간질환으로, 여성에서 더 흔합니다. 임상 양상은 무증상부터 전격성 간부전까지 다양하며, 종종 다른 자가면역 질환(이 환자의 경우 갑상선기능저하증)과 연관됩니다. 진단은 임상 소견, 생화학적 검사(ALT, AST 상승), 혈청학적 검사(ANA, ASMA, anti-LKM 등 자가항체 양성), 혈청 IgG 상승, 간 조직 소견을 종합하여 이루어집니다. 약물 유발성 간손상은 항우울제와 연관될 수 있으나, 자가항체 양성과 IgG 상승은 일반적이지 않습니다. 알코올성 간염은 음주력이 없고, AST:ALT 비율이 2:1 이상인 특징적 소견이 없습니다. 급성 B형 간염은 HBsAg 음성으로 배제됩니다. 윌슨병은 ceruloplasmin이 정상이고, 42세의 나이에 처음 발현하는 것은 드뭅니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Autoimmune hepatitis (AIH) is a chronic, progressive liver disease characterized by continuing hepatocellular inflammation and necrosis, with a tendency to progress to cirrhosis and liver failure. It predominantly affects women and is associated with circulating autoantibodies and elevated immunoglobulin G (IgG) levels. The disease can present with a wide spectrum of clinical manifestations, from asymptomatic elevation of liver enzymes to acute severe hepatitis or even fulminant hepatic failure. Extrahepatic autoimmune disorders, such as thyroiditis, rheumatoid arthritis, or ulcerative colitis, may coexist in 40% of patients. The diagnosis of AIH is based on a combination of clinical, biochemical, immunological, and histological features, and the exclusion of other causes of liver disease. The serological hallmarks include elevated serum IgG and the presence of autoantibodies, particularly antinuclear antibodies (ANA) and anti-smooth muscle antibodies (ASMA) in type 1 AIH, or anti-liver-kidney microsomal type 1 (anti-LKM1) antibodies in type 2 AIH. Liver biopsy typically shows interface hepatitis, lymphoplasmacytic infiltration, and hepatocyte rosetting. Corticosteroids, alone or in combination with azathioprine, remain the cornerstone of therapy.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
+  "question": "생후 6주된 여아가 2주 이상 지속되는 황달로 내원하였다. 아이는 40주에 자연 분만으로 태어났으며, 출생 시 체중은 3.3kg이었다. 출생 후 첫 주에 경미한 황달이 있었으나 생후 2주 경 황달이 심해졌다. 어머니는 최근 아이의 소변 색이 진해졌고, 대변 색이 회색빛을 띤다고 보고하였다. 아이는 모유 수유 중이며, 체중 증가는 양호하다. 신체 검사에서 공막 황달과 복부 촉진에서 3cm 크기의 단단한 간이 촉지되었다. 이 신생아의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 12.5 mg/dL, 직접 빌리루빈 8.8 mg/dL, AST 145 U/L, ALT 160 U/L, ALP 620 U/L, GGT 350 U/L\n복부 초음파: 간비대, 담낭 위축, 담도 확장 소견 없음\n핵의학 간담도 스캔(HIDA scan): 장관 내 방사성 동위원소 배설 없음",
+  "options": {
+    "A": "생리적 황달",
+    "B": "모유 황달",
+    "C": "담도 폐쇄",
+    "D": "ABO 부적합에 의한 용혈성 질환",
+    "E": "선천성 톡소플라즈마증"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 생후 6주된 영아로 2주 이상 지속되는 황달, 무담즙변(acholic stool, 회색빛 대변), 진한 소변, 간비대를 보이고 있습니다. 검사 결과에서 직접 빌리루빈의 현저한 상승, ALP와 GGT의 상승이 관찰되며, 핵의학 간담도 스캔에서 장관 내 방사성 동위원소 배설이 없습니다. 이러한 임상상은 담도 폐쇄(Biliary Atresia)에 합당합니다. 담도 폐쇄는 간 내외 담관의 진행성 염증성 폐쇄를 특징으로 하는 신생아 담도 질환으로, 치료하지 않으면 간경변과 간부전으로 진행합니다. 담도 폐쇄의 특징적인 임상 소견은 지속되는 황달, 무담즙변, 간비대입니다. 직접 빌리루빈의 상승, 담낭 위축, 핵의학 간담도 스캔에서 장관 내 방사성 동위원소 배설 없음은 진단에 도움이 됩니다. 담도 폐쇄의 확진은 간 생검과 수술 중 담도 조영술을 통해 이루어지며, 치료는 가능한 빨리(보통 생후 60일 이내) Kasai 술식(간문장-장문합술)을 시행하는 것입니다. 생리적 황달과 모유 황달은 직접 빌리루빈 상승이나 무담즙변을 보이지 않으며, ABO 부적합에 의한 용혈성 질환은 보통 생후 첫 주에 최고조에 달하고, 간접 빌리루빈 상승이 특징입니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Biliary atresia is a progressive, idiopathic, fibro-obliterative cholangiopathy of infancy affecting both intrahepatic and extrahepatic bile ducts. It is the most common cause of neonatal cholestasis and obstructive jaundice in infants and the most frequent indication for liver transplantation in children. The incidence ranges from 1 in 5,000 to 1 in 19,000 live births, with a slight female predominance. Infants typically present with persistent jaundice, acholic (clay-colored) stools, dark urine, and hepatomegaly. Initial evaluation should include fractionated bilirubin levels, liver function tests, and abdominal ultrasonography, which may show an absent or small gallbladder. Hepatobiliary scintigraphy (DISIDA or HIDA scan) showing non-excretion of radiotracer into the intestine is supportive of the diagnosis. Percutaneous liver biopsy showing bile duct proliferation, bile plugs, and portal tract fibrosis is highly suggestive. The definitive diagnosis requires operative cholangiography. Treatment involves surgical hepatoportoenterostomy (Kasai procedure) ideally performed before 60 days of age, but even with early surgical intervention, most patients eventually develop cirrhosis and require liver transplantation.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 간이식 2주 후 발생한 황달로 내원하였다. 환자는 만성 C형 간염으로 인한 간경변 및 간세포암으로 간이식을 받았다. 이식 후 tacrolimus, mycophenolate mofetil, prednisolone으로 면역억제 치료 중이다. 3일 전부터 발열, 오한, 우상복부 통증이 시작되었고, 황달이 발생했다. 신체 검사에서 체온 38.5°C, 혈압 130/80mmHg, 맥박 95회/분이었으며, 공막 황달과 간이식 부위에 압통이 관찰되었다. 이 환자에서 원인 진단을 위해 가장 먼저 시행해야 할 검사는?",
+  "exam": "혈액 검사: 총 빌리루빈 6.5 mg/dL, 직접 빌리루빈 4.2 mg/dL, AST, 450 U/L, ALT 520 U/L, ALP 230 U/L, GGT 190 U/L\n백혈구 12,500/μL, 혈색소 11.5 g/dL, 혈소판 180,000/μL\n혈중 tacrolimus 농도: 8 ng/mL (목표 범위: 5-10 ng/mL)",
+  "options": {
+    "A": "복부 초음파와 도플러 검사",
+    "B": "내시경적 역행성 담췌관조영술(ERCP)",
+    "C": "MRCP (자기공명담췌관조영술)",
+    "D": "경피적 간 생검",
+    "E": "바이러스 혈청학적 검사(CMV PCR)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 간이식 후 2주 시점에 발열, 우상복부 통증, 황달이 발생했습니다. 검사 결과에서 총 빌리루빈과 직접 빌리루빈의 상승, 간효소의 현저한 상승이 관찰됩니다. 간이식 후 황달의 원인은 다양하며, 거부 반응, 혈관 합병증(간동맥 혈전증, 문맥 혈전증), 담도 합병증(담도 누출, 담도 협착), 약물 독성, 감염(CMV 등) 등이 포함됩니다. 이 환자에서 가장 먼저 시행해야 할 검사는 복부 초음파와 도플러 검사입니다. 이 검사는 비침습적이며, 이식된 간의 혈관 개통성(간동맥, 간문맥, 간정맥)을 평가하고, 담도 확장 여부, 간실질의 상태, 체액 저류 등을 확인할 수 있습니다. 특히 간이식 후 초기에 발생하는 간동맥 혈전증은 담도 허혈과 간괴사를 유발할 수 있어 응급 상황입니다. 초음파 검사가 정상이라면, 이후 거부 반응, 감염 등의 평가를 위해 간 생검이나 바이러스 혈청학적 검사를 고려할 수 있습니다. ERCP는 담도 합병증이 의심될 때 유용하지만, 초기 선별 검사로는 침습적입니다. MRCP도 담도 평가에 유용하지만, 혈관 합병증을 배제하고 난 후에 고려하는 것이 적절합니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt - Vascular complications after liver transplantation, particularly hepatic artery thrombosis (HAT), are serious events that can lead to graft failure and patient mortality. HAT occurs in 3-9% of adult liver transplant recipients and up to 15% of pediatric recipients. Early diagnosis is critical as emergency revascularization or retransplantation may be necessary. Doppler ultrasonography is the first-line imaging modality for suspected vascular complications due to its noninvasiveness, availability, and high sensitivity. It can detect abnormalities in hepatic arterial, portal venous, and hepatic venous flow. In the setting of HAT, patients typically present with fever, elevated liver enzymes, and biliary complications due to ischemia of the biliary epithelium, which receives its blood supply predominantly from the hepatic artery. The absence of arterial flow on Doppler ultrasonography is highly suggestive of HAT and should prompt immediate angiographic confirmation and intervention. Other causes of early graft dysfunction include acute cellular rejection, primary nonfunction, biliary complications, and infections (particularly cytomegalovirus).",
+  "category": "General Surgery"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "18세 남성이 신생아기부터 지속된 황달로 내원하였다. 황달은 출생 직후부터 발생했으며, 신생아기에 광선치료를 받았으나 황달이 완전히 호전되지 않았다고 한다. 환자는 현재까지 매일 8-12시간 광선치료를 집에서 시행하고 있으며, 최근 수면 장애, 집중력 저하, 피로감을 호소하고 있다. 신체 검사에서 공막 황달 외에 특이 소견은 없었다. 환자의 부모는 혈족결혼이 아니었으며, 가족력에서 유사한 황달 환자는 없었다. 환자는 지난 1년간 두 차례 발작이 있었으며, 뇌파검사에서 간헐적인 발작파가 관찰되었다. 이 환자의 가장 적절한 장기 치료 계획은?",
+  "exam": "혈액 검사: 총 빌리루빈 25.8 mg/dL, 직접 빌리루빈 0.6 mg/dL, AST 38 U/L, ALT 42 U/L, ALP 110 U/L\n소변 검사: 요빌리노겐 양성, 빌리루빈 음성\n유전자 검사: UGT1A1 유전자의 동종접합 돌연변이(homozygous mutations) 확인\n뇌 MRI: 기저핵과, 시상, 해마에 T2 고신호 강도 병변",
+  "options": {
+    "A": "광선치료 강화와 페노바르비탈 투여",
+    "B": "담즙산 제제(ursodeoxycholic acid) 경구 투여",
+    "C": "혈장교환술 정기적 시행",
+    "D": "간이식",
+    "E": "간문맥-대정맥 단락술"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 신생아기부터 심한 간접 빌리루빈혈증이 지속되고, 광선치료에 불완전한 반응을 보이며, UGT1A1 유전자의 동종접합 돌연변이가 확인되어 Crigler-Najjar 증후군 제1형에 합당합니다. Crigler-Najjar 증후군 제1형은 빌리루빈 UDP-글루쿠론산전이효소(UGT1A1) 활성이 완전히 결핍된 상태로, 심한 비결합형(간접) 고빌리루빈혈증을 특징으로 합니다. 이 질환에서는 빌리루빈이 뇌에 축적되어 신경독성을 일으키는 핵황달(kernicterus)이 발생할 위험이 높습니다. 환자가 경험한 발작과 뇌 MRI 소견은 이미 빌리루빈 뇌증이 진행되었음을 시사합니다. Crigler-Najjar 증후군 제1형의 전통적 치료는 하루 12시간 이상의 집중적인 광선치료이지만, 나이가 들면서 효과가 감소하고, 피부 표면적 대 체적 비율이 감소하여 광선치료의 효율이 떨어집니다. 이 환자는 이미 광선치료에도 불구하고 빌리루빈 수치가 매우 높고 신경학적 합병증이 발생한 상태이므로, 간이식이 가장 적절한 장기 치료입니다. 간이식은 UGT1A1 효소 활성을 회복시켜 빌리루빈 대사를 정상화하고 추가적인 뇌 손상을 방지할 수 있는 유일한 근치적 치료법입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Crigler-Najjar syndrome type I is a rare autosomal recessive disorder characterized by severe unconjugated hyperbilirubinemia (bilirubin levels typically 20-45 mg/dL) due to complete absence of bilirubin UDP-glucuronosyltransferase (UGT1A1) activity. It is caused by homozygous inactivating mutations in the UGT1A1 gene. Patients present with jaundice shortly after birth and are at high risk for developing kernicterus (bilirubin encephalopathy). Treatment involves intensive phototherapy (10-12 hours daily), which becomes less effective as children grow older due to decreased surface area-to-volume ratio and increased skin thickness. Phenobarbital is ineffective in type I disease, unlike type II where it can induce residual enzyme activity. Plasmapheresis or exchange transfusion may be used temporarily during acute crises. Liver transplantation is currently the only definitive treatment, providing the necessary enzyme activity to normalize bilirubin metabolism and prevent neurological complications. Gene therapy approaches are under investigation but not yet clinically available.",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "60세 남성이 3주 전부터 시작된 황달, 우상복부 통증, 8kg의 체중 감소로 내원하였다. 환자는 최근 6개월간 식후 복통과 식욕 감퇴가 있었으며, 최근 1주일간 소변 색이 진해지고 대변 색이 옅어졌다고 한다. 과거력상 고혈압과 당뇨병으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 공막 황달이 관찰되었으며, 우상복부에 경미한 압통이 있었다. 촉진에서 간이 늑골 아래로 2cm 촉지되었으며, Courvoisier 징후는 음성이었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: 총 빌리루빈 15.2 mg/dL, 직접 빌리루빈 12.8 mg/dL, AST 95 U/L, ALT 85 U/L, ALP 520 U/L, GGT 480 U/L\n혈청 CA 19-9: 650 U/mL (정상 범위: <37 U/mL)\n복부 CT: 간문부 주변으로 3cm 크기의 종괴, 양측 간내 담관 확장, 종괴의 간동맥과 문맥 침범 소견 없음\nMRCP: Bismuth-Corlette 분류 IIIA형의 간문부 담관암",
+  "options": {
+    "A": "간이식",
+    "B": "내시경적 역행성 담췌관조영술(ERCP)과 양측 담관 스텐트 삽입",
+    "C": "간엽절제술과 담관공장문합술",
+    "D": "방사선 치료 단독",
+    "E": "전신 항암화학요법 단독"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 황달, 복통, 체중 감소를 주소로 내원한 60세 남성으로, 검사 결과 직접 빌리루빈의 현저한 상승, ALP와 GGT의 상승, CA 19-9의 상승을 보이며, 영상 검사에서 간문부 종괴와 양측 간내 담관 확장 소견이 관찰됩니다. 이는 Klatskin 종양(간문부 담관암)에 합당합니다. MRCP에서 Bismuth-Corlette 분류 IIIA형은 총간관과 우측 간내 담관 합류부를 침범하고 좌측 담관은 침범하지 않은 상태를 의미합니다. 이 환자의 경우 영상에서 간동맥이나 문맥 침범 소견이 없어 절제 가능성이 있습니다. 절제 가능한 간문부 담관암에서는 근치적 수술(해당 담관을 배출하는 간엽 절제와 담관공장문합술)이 가장 적절한 치료입니다. Bismuth-Corlette 분류 IIIA형에서는 우측 간엽절제술과 함께 담관공장문합술을 시행하게 됩니다. 내시경적 담관 스텐트 삽입은 황달 감소를 위한 고식적 치료나 수술 전 담즙 배액 목적으로 시행할 수 있으나, 절제 가능한 환자에서 근치적 치료로는 적절하지 않습니다. 간이식은 일부 제한된 경우에만 고려됩니다. 방사선 치료와 항암화학요법은 보조 요법으로 사용되거나 절제 불가능한 경우의 고식적 치료로 사용됩니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt - Perihilar cholangiocarcinoma (Klatskin tumor) is a malignancy arising from the biliary epithelium at or near the confluence of the right and left hepatic ducts. The Bismuth-Corlette classification is used to describe the anatomic extent of these tumors: type I involves the common hepatic duct below the confluence; type II involves the confluence; type IIIA extends into the right hepatic duct; type IIIB extends into the left hepatic duct; and type IV involves both right and left hepatic ducts up to or beyond secondary biliary radicles. Surgical resection offers the only chance for cure, with 5-year survival rates of 20-40% for R0 resection. The surgical approach is determined by the tumor location and extent. Type IIIA tumors typically require right hepatectomy with caudate lobectomy to achieve negative margins, while type IIIB tumors require left hepatectomy with caudate lobectomy. Biliary drainage may be performed preoperatively in patients with severe hyperbilirubinemia or cholangitis, although its routine use remains controversial. Preoperative portal vein embolization may be necessary in patients with small future liver remnant. Liver transplantation may be considered in highly selected patients with early-stage unresectable hilar cholangiocarcinoma, particularly after neoadjuvant chemoradiation therapy.",
+  "category": "General Surgery"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "황달",
+  "purpose": "황달이 있는 사람에게서 원인을 감별진단할 수 있다.",
+  "question": "30세 여성이 3일 전부터 시작된 황달, 전신 쇠약감, 두통으로 내원하였다. 환자는 2주 전 상기도 감염으로 항생제(amoxicillin-clavulanate)를 7일간 복용했다고 한다. 과거력상 특이사항은 없었으며, 약물 알레르기 병력도 없었다. 신체 검사에서 체온 37.5°C, 혈압 110/70mmHg, 맥박 90회/분이었다. 공막 황달이 관찰되었으며, 간과 비장은 촉지되지 않았다. 피부에 발진은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 6.2 mg/dL, 직접 빌리루빈 0.8 mg/dL, AST 55 U/L, ALT 60 U/L, ALP 110 U/L, GGT 65 U/L\n혈색소 9.8 g/dL, 백혈구 8,200/μL, 혈소판 235,000/μL, 망상적혈구 12%\n직접 Coombs 검사: 양성\n혈액 도말: 구상적혈구(spherocytes) 관찰됨\n소변 검사: 요빌리노겐 증가, 빌리루빈 음성",
+  "options": {
+    "A": "약물 유발성 간손상",
+    "B": "바이러스성 간염",
+    "C": "약물 유발성 용혈성 빈혈",
+    "D": "윌슨병",
+    "E": "길버트 증후군"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 30세 여성으로 항생제 복용 후 황달이 발생한 사례입니다. 검사 결과에서 간접 빌리루빈의 상승(총 빌리루빈 - 직접 빌리루빈), 상대적으로 경미한 간효소 상승, 헤모글로빈 감소, 망상적혈구 증가, 직접 Coombs 검사 양성, 혈액 도말에서 구상적혈구 관찰 등 용혈성 빈혈의 특징적인 소견을 보입니다. 이러한 임상상은 약물 유발성 용혈성 빈혈, 특히 면역 매개성 용혈성 빈혈에 합당합니다. 약물 유발성 용혈성 빈혈은 크게 두 가지 기전으로 발생합니다: 1) 약물-항체 복합체 형성(면역 복합체 기전)이나 약물 유도 자가항체 형성(약물 유도 자가면역) 등의 면역학적 기전과 2) 직접적인 세포 독성이나 산화 스트레스 유발 등의 비면역학적 기전. 이 환자의 경우 직접 Coombs 검사 양성은 적혈구 표면에 항체가 부착되어 있음을 의미하며, 이는 면역 매개성 용혈을 시사합니다. Amoxicillin-clavulanate는 면역 매개성 용혈성 빈혈을 유발할 수 있는 약물 중 하나입니다. 약물 유발성 간손상은 주로 간효소의 현저한 상승과 직접 빌리루빈의 상승을 특징으로 합니다. 바이러스성 간염 역시 간효소의 현저한 상승을 보입니다. 윌슨병은 ceruloplasmin 감소, 24시간 소변 구리 증가 등의 특징적인 소견을 보입니다. 길버트 증후군은 간접 빌리루빈의 경미한 상승만 있고 용혈의 증거는 없습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Drug-induced immune hemolytic anemia (DIIHA) is a rare but potentially serious complication of drug therapy. It can be caused by drug-induced antibodies reacting with red blood cells by various mechanisms: (1) drug-dependent antibodies (e.g., the drug binds to the RBC membrane, and antibody binds to the drug, forming an immune complex); (2) drug-independent antibodies (true autoantibodies induced by drugs); and (3) immune complex mechanism (drug-antibody complexes deposit nonspecifically on RBC membranes). Common drugs implicated in DIIHA include penicillins, cephalosporins, nonsteroidal anti-inflammatory drugs, quinine, and sulfonamides. Clinical manifestations include the sudden onset of anemia, jaundice, and occasionally hemoglobinuria. Laboratory findings include decreased hemoglobin, increased reticulocytes, elevated indirect bilirubin, positive direct Coombs (antiglobulin) test, and spherocytes on peripheral blood smear. Treatment involves immediate discontinuation of the offending drug, supportive care, and, in severe cases, corticosteroids or intravenous immunoglobulin. Most patients recover fully within several weeks after drug discontinuation.",
+  "category": "Hematology and Oncology"
+}
 
