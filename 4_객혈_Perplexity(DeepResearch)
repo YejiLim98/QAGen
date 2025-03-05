@@ -1,0 +1,380 @@
+{
+  "question_id": 1,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "58세 남성이 3일 전부터 시작된 소량의 객혈로 내원하였다. 환자는 30갑년의 흡연력이 있으며, 최근 2개월간 마른 기침, 체중 감소(5kg), 식욕 부진을 호소하였다. 기침은 주로 아침에 심하였으며, 소량의 혈액이 섞인 가래가 간헐적으로 관찰되었다. 과거력에서 특이사항은 없었으며, 최근 해외여행력도 없었다. 신체 검사에서 우측 상부 흉부에서 미세한 수포음이 청진되었고, 림프절 종대는 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 X-선: 우상엽에 3cm 크기의 결절성 병변, 주변부 불규칙한 경계\n흉부 CT: 우상엽에 3.2cm 크기의 불규칙한 경계를 가진 종괴, 종격동 림프절 비대 소견\n혈액 검사: 헤모글로빈 13.2 g/dL, 백혈구 8,500/μL, 혈소판 210,000/μL\n가래 검사: 항산균 도말 음성, 세균 배양 검사 음성, 악성 세포 검사 시행 중",
+  "options": {
+    "A": "폐결핵",
+    "B": "폐암",
+    "C": "세균성 폐렴",
+    "D": "기관지확장증",
+    "E": "폐흡충증"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 장기간의 흡연력을 가진 58세 남성으로, 소량의 객혈과 함께 만성 기침, 체중 감소, 식욕 부진 등의 전신 증상을 보입니다. 흉부 영상 검사에서 우상엽에 경계가 불규칙한 결절성 병변이 관찰되며, 종격동 림프절 비대가 동반되어 있습니다. 이러한 임상 양상과 검사 결과는 폐암을 가장 강력히 시사합니다. 흡연은 폐암의 주요 위험 인자이며, 중년 이상의 흡연자에서 객혈, 체중 감소, 만성 기침이 있을 때 폐암을 반드시 고려해야 합니다. 폐결핵도 객혈의 중요한 원인이지만, 이 환자에서는 가래 항산균 검사가 음성이고, 영상 소견이 종괴 형태로 나타나며, 림프절 비대가 동반되어 결핵보다는 폐암에 더 합당합니다. 세균성 폐렴은 보통 급성 경과를 보이며, 발열과 백혈구 증가가 동반됩니다. 기관지확장증의 경우 반복적인 객혈과 다량의 화농성 가래가 특징적이며, 영상 검사에서 기관지 확장 소견이 관찰됩니다. 폐흡충증은 민물고기 생식 병력이 중요하며, 호산구 증가와 함께 특징적인 영상 소견을 보입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Lung cancer can present with a variety of symptoms including cough, hemoptysis, dyspnea, chest pain, and constitutional symptoms such as weight loss and fatigue. Hemoptysis occurs in 20-30% of patients with lung cancer and may range from blood-streaked sputum to massive hemoptysis. Risk factors include smoking (associated with 85-90% of lung cancer cases), exposure to asbestos, radon, and other environmental carcinogens. Radiographic findings typically show a solitary pulmonary nodule or mass, often with irregular borders, and may be accompanied by mediastinal lymphadenopathy. Bronchoscopy with biopsy and/or cytologic examination of sputum are common diagnostic approaches. The diagnosis of lung cancer is confirmed by pathologic examination of tissue, and treatment options depend on the histologic type and stage of disease.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 반복적인 객혈로 내원하였다. 환자는 약 10년 전부터 아침에 주로 발생하는 기침과 함께 다량의 화농성 가래를 호소해 왔으며, 최근 6개월간 소량의 객혈이 한 달에 2-3회 있었다고 한다. 3년 전 폐렴으로 입원 치료한 병력이 있으며, 흡연력은 없다. 신체 검사에서 우하부 흉부에서 수포음이 청진되었고, 곤봉지(clubbing)가 양손 손가락에서 관찰되었다. 흉부 X-선에서 우하엽에 침윤과 함께 기관지 벽 비후 소견이 보였다. 이 환자의 진단을 위해 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "혈액 검사: 백혈구 9,500/μL(호중구 70%), 헤모글로빈 12.8 g/dL, ESR 38 mm/hr, CRP 1.2 mg/dL\n객담 배양 검사: 일반 세균 배양에서 Pseudomonas aeruginosa 동정\n폐기능 검사: FEV1/FVC 68%, FEV1 예측치의 75%",
+  "options": {
+    "A": "기관지 내시경",
+    "B": "고해상도 흉부 CT",
+    "C": "환기-관류 스캔",
+    "D": "흉부 MRI",
+    "E": "기관지 조영술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 기침, 화농성 가래, 반복적인 객혈, 그리고 폐렴 병력이 있는 45세 여성으로, 기관지확장증을 강하게 시사하는 임상 양상을 보입니다. 기관지확장증은 기관지 벽이 비가역적으로 확장되어 기관지 배액 기능이 손상된 상태로, 반복적인 호흡기 감염과 객혈이 특징입니다. 이 환자의 경우 객담 배양에서 녹농균(Pseudomonas aeruginosa) 감염이 확인되었는데, 이는 기관지확장증 환자에서 흔히 발견되는 병원체입니다. 기관지확장증의 진단을 위해 가장 우선적으로 시행해야 할 검사는 고해상도 흉부 CT입니다. 이 검사는 확장된 기관지, 기관지 벽 비후, 'signet ring sign'(주변 폐동맥보다 직경이 큰 기관지) 등 기관지확장증의 특징적인 소견을 보여줍니다. 기관지 내시경은 객혈의 원인이 불명확하거나 다른 질환(예: 종양)이 의심될 때 유용하지만, 기관지확장증의 일차 진단 도구로는 적합하지 않습니다. 환기-관류 스캔은 폐색전증 진단에 주로 사용되며, 흉부 MRI는 기관지확장증 진단에 일반적으로 사용되지 않습니다. 기관지 조영술은 과거에 사용되었으나, 현재는 고해상도 CT가 더 안전하고 정확하여 거의 사용되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Bronchiectasis is defined as an irreversible dilatation of bronchi with destruction of the elastic and muscular components of the bronchial walls. It is characterized by chronic cough with mucopurulent sputum production, recurrent respiratory infections, and hemoptysis. Physical examination may reveal crackles, rhonchi, or clubbing. The diagnosis is best established by high-resolution computed tomography (HRCT) of the chest, which shows bronchial dilatation (bronchial lumen diameter greater than accompanying pulmonary artery, 'signet ring sign'), lack of bronchial tapering, bronchial wall thickening, and mucus plugging. Common etiologies include post-infectious (bacterial, tuberculous), primary ciliary dyskinesia, allergic bronchopulmonary aspergillosis, immunodeficiency states, and cystic fibrosis. Sputum cultures often reveal potentially pathogenic organisms, most commonly Haemophilus influenzae, Pseudomonas aeruginosa, and Streptococcus pneumoniae. Management includes bronchial hygiene measures, antimicrobials for exacerbations, and surgical resection in localized disease with significant symptoms.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "35세 남성이 1주일 전부터 시작된 객혈로 내원하였다. 객혈량은 하루 약 20-30mL 정도였으며, 발열, 체중 감소, 야간 발한 증상이 2개월 전부터 있었다고 한다. 환자는 6개월 전 북한에서 한국으로 이주했으며, 과거 결핵 접촉력은 불명확하다고 한다. 신체 검사에서 우상부 흉부에서 수포음이 청진되었고, 체온은 38.2°C였다. 흉부 X-선에서 우상엽에 공동을 동반한 침윤이 관찰되었다. 이 환자에게 가장 적합한 초기 치료 계획은?",
+  "exam": "흉부 CT: 우상엽에 2.5cm 크기의 공동을 포함한 다발성 결절성 병변, 주변 소엽성 병변\n가래 검사: 항산균 도말 양성(2+), Xpert MTB/RIF 검사에서 결핵균 검출, 리팜핀 내성 없음\n혈액 검사: 백혈구 9,000/μL, 헤모글로빈 12.5 g/dL, 혈소판 280,000/μL, CRP 3.5 mg/dL\nHIV 검사: 음성",
+  "options": {
+    "A": "이소니아지드, 리팜핀, 에탐부톨, 피라진아미드로 구성된 4제 요법",
+    "B": "기관지 동맥 색전술 시행 후 항결핵제 시작",
+    "C": "아목시실린-클라불란산 및 클라리스로마이신 투여",
+    "D": "수술적 절제 후 항결핵제 시작",
+    "E": "경과 관찰 및 대증 치료"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 객혈, 발열, 체중 감소, 야간 발한 등 활동성 폐결핵을 시사하는 증상을 보이고 있습니다. 흉부 CT에서 우상엽에 공동을 동반한 병변이 관찰되며, 가래 검사에서 항산균 도말 양성 및 결핵균 핵산증폭검사(Xpert MTB/RIF) 양성 결과가 확인되었습니다. 이는 활동성 폐결핵의 확진에 해당합니다. 폐결핵에 의한 객혈의 경우, 객혈량이 대량이 아니라면 항결핵제 치료가 우선입니다. 초기 치료는 이소니아지드(INH), 리팜핀(RIF), 에탐부톨(EMB), 피라진아미드(PZA)로 구성된 4제 요법을 시작해야 합니다. 약제 감수성 검사 결과에 따라 이후 치료 약제를 조정할 수 있으며, 일반적으로 총 6개월의 치료 기간이 필요합니다. 기관지 동맥 색전술(B)은 대량 객혈이나 보존적 치료에 반응하지 않는 경우에 고려할 수 있으나, 이 환자의 객혈량(20-30mL/일)은 상대적으로 적어 일차 치료로 적절하지 않습니다. 아목시실린-클라불란산과 클라리스로마이신(C)은 세균성 폐렴 치료에 사용되는 항생제로, 결핵 치료에는 효과가 없습니다. 수술적 절제(D)는 약제 내성 결핵이나 지속적인 객혈이 있는 국소 병변에 제한적으로 고려할 수 있습니다. 단순 경과 관찰(E)은 활동성 결핵에서는 부적절한 접근입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Tuberculosis (TB) remains a major global health problem, with approximately 10 million new cases annually. Pulmonary TB is the most common form, and symptoms include cough, hemoptysis, fever, night sweats, and weight loss. Hemoptysis occurs in up to 30% of patients with active pulmonary TB and can range from blood-streaked sputum to massive, life-threatening bleeding. The diagnosis is established by identification of Mycobacterium tuberculosis in sputum or other clinical specimens, either by acid-fast bacilli (AFB) smear, nucleic acid amplification tests (such as Xpert MTB/RIF), or culture. Chest radiography typically shows upper lobe infiltrates with cavitation in reactivation TB. The standard initial treatment for drug-susceptible pulmonary TB consists of a 2-month intensive phase with isoniazid (INH), rifampin (RIF), ethambutol (EMB), and pyrazinamide (PZA), followed by a 4-month continuation phase with INH and RIF. Drug resistance testing is essential for guiding therapy. Most cases of hemoptysis due to TB resolve with antimycobacterial therapy, but bronchial artery embolization may be necessary for massive hemoptysis.",
+  "category": "Infectious Diseases"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "62세 남성이 갑자기 발생한 대량 객혈로 응급실에 내원하였다. 환자는 약 500mL 정도의 선홍색 혈액을 기침과 함께 배출하였으며, 현재도 소량의 출혈이 지속되고 있다. 환자는 20년 전 폐결핵으로 치료받은 병력이 있으며, 10년간 만성 기침과 화농성 가래가 있었다고 한다. 내원 시 활력징후는 혈압 100/60mmHg, 맥박 120회/분, 호흡수 28회/분, 산소포화도 88%(실내 공기)였다. 신체 검사에서 양측 하부 폐야에서 거친 수포음이 청진되었고, 빈맥과 빈호흡이 관찰되었다. 이 환자의 초기 응급 처치로 가장 적절한 것은?",
+  "exam": "혈액 검사: 헤모글로빈 9.8 g/dL, 백혈구 12,500/μL, 혈소판 220,000/μL, PT/INR 1.1, aPTT 정상\n동맥혈 가스분석: pH 7.31, PaO2 58 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L\n흉부 X-선: 양측 하부 폐야의 기관지확장증 소견, 우중엽의 침윤",
+  "options": {
+    "A": "기관 삽관 및 단일 기관지 풍선 카테터 삽입",
+    "B": "마주앉은 자세 유지 및 진해제 투여",
+    "C": "즉시 기관지 내시경 시행",
+    "D": "항생제 정맥 투여 및 경과 관찰",
+    "E": "기관지 동맥 색전술 즉시 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 대량 객혈(500mL)과 지속적인 출혈, 저산소혈증, 혈역학적 불안정(빈맥, 저혈압 경향)을 보이는 응급 상황입니다. 대량 객혈 환자의 초기 응급 처치에서 가장 중요한 것은 기도 확보와 환기/산소화 유지입니다. 이 환자는 저산소혈증(PaO2 58mmHg, 산소포화도 88%)과 호흡성 산증 소견을 보이고 있어 즉각적인 기도 관리가 필요합니다. 기관 삽관을 통해 기도를 확보하고, 단일 기관지 풍선 카테터(예: Fogarty 카테터 또는 기관지 차단기)를 삽입하여 출혈 부위를 분리시키는 것이 적절합니다. 이를 통해 반대쪽 폐로의 혈액 흡인을 방지하고 적절한 환기를 유지할 수 있습니다. 마주앉은 자세 유지 및 진해제 투여(B)는 소량의 객혈에서 고려할 수 있지만, 이 환자와 같은 대량 객혈과 저산소혈증 상황에서는 불충분합니다. 기관지 내시경(C)은 출혈 부위 확인 및 치료에 유용하지만, 대량 출혈 상황에서는 시야 확보가 어렵고 오히려 저산소혈증을 악화시킬 수 있어 기도 확보 후에 시행해야 합니다. 항생제 정맥 투여 및 경과 관찰(D)만으로는 급성 대량 출혈에 대처할 수 없습니다. 기관지 동맥 색전술(E)은 대량 객혈의 효과적인 치료법이지만, 환자 상태가 안정된 후에 시행해야 하며, 초기 응급 처치로는 기도 확보가 우선입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Massive hemoptysis, defined as >100-600 mL of blood expectorated within 24 hours, is a medical emergency with a mortality rate of >50% if untreated. The immediate priorities in management are maintaining airway patency and adequate gas exchange, followed by localizing the bleeding site and controlling hemorrhage. If the bleeding side is known, the patient should be positioned with the bleeding side down to prevent aspiration into the unaffected lung. Intubation with a single-lumen endotracheal tube may be necessary if the patient shows signs of respiratory failure or is unable to clear secretions. In cases of massive bleeding, a double-lumen endotracheal tube or an endobronchial blocker (e.g., Fogarty catheter) may be used to isolate the bleeding lung. Once the patient is stabilized, bronchoscopy can help localize the bleeding site. Rigid bronchoscopy may be preferred in massive hemoptysis as it allows better suctioning and airway control. Bronchial artery embolization is highly effective in controlling bleeding, with immediate success rates of 75-90%, though rebleeding may occur in about 20% of cases. Surgery (lobectomy or pneumonectomy) is reserved for localized disease when other measures fail or for specific conditions like aspergilloma.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "48세 여성이 2일 전부터 시작된 소량의 객혈과 호흡곤란으로 내원하였다. 환자는 3주 전 장시간 비행기 여행을 다녀왔으며, 1주일 전부터 갑자기 발생한 우측 하지 통증과 부종이 있었다고 한다. 호흡곤란은 갑자기 시작되었으며 가만히 있어도 숨이 차다고 호소하였다. 과거력상 2회의 자연유산이 있었으며, 가족력에서 어머니가 50대에 폐색전증으로 사망했다고 한다. 신체 검사에서 빈맥, 빈호흡이 관찰되었고, 우측 하지에 종창과 압통이 있었으며, 호만스 징후(Homans' sign)가 양성이었다. 심전도에서 동성 빈맥, S1Q3T3 패턴이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "활력징후: 혈압 110/70mmHg, 맥박 110회/분, 호흡수 24회/분, 체온 37.0°C, 산소포화도 92%(실내 공기)\n혈액 검사: D-dimer 2.8 μg/mL(정상 <0.5), NT-proBNP 450 pg/mL, 트로포닌 I 정상\n동맥혈 가스분석: pH 7.45, PaO2 68 mmHg, PaCO2 32 mmHg, HCO3 22 mEq/L, A-a gradient 증가\n흉부 CT 혈관조영술: 양측 폐동맥 주요 분지의 다발성 충만 결손, 우측 하지 도플러 초음파: 우측 슬와정맥의 혈전",
+  "options": {
+    "A": "급성 심근경색",
+    "B": "지역사회획득 폐렴",
+    "C": "급성 폐색전증",
+    "D": "기관지확장증",
+    "E": "폐암"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 폐색전증의 전형적인 임상 양상을 보여줍니다. 갑작스러운 호흡곤란과 소량의 객혈, 하지의 심부정맥혈전증(DVT) 소견(우측 하지 통증, 부종, 양성 호만스 징후), 최근의 장시간 비행(부동 상태), 그리고 가족력(어머니의 폐색전증)은 모두 폐색전증의 위험 인자 및 임상 소견에 합당합니다. 검사 결과에서도 D-dimer 상승, 저산소혈증, A-a gradient 증가, 호흡성 알칼리혈증이 확인되었으며, 흉부 CT 혈관조영술에서 폐동맥의 충만 결손과 하지 도플러 초음파에서 슬와정맥 혈전이 확인되어 폐색전증 진단이 확립되었습니다. 객혈은 폐색전증 환자의 약 5-15%에서 나타날 수 있으며, 주로 폐경색이 동반된 경우 발생합니다. 급성 심근경색(A)의 경우 흉통이 더 두드러지며, 트로포닌 상승이 있어야 하나 이 환자에서는 정상입니다. 지역사회획득 폐렴(B)은 일반적으로 발열, 화농성 객담, 국소적 폐 침윤이 특징이나 이 환자에서는 해당 소견이 없습니다. 기관지확장증(D)은 만성 화농성 객담과 반복적인 호흡기 감염이 특징이며, 폐암(E)은 점진적인 증상 발현과 위험 인자(흡연 등)가 있어야 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Pulmonary embolism (PE) is a common and potentially lethal condition that results from obstruction of the pulmonary arterial bed, most commonly by thrombi originating in the deep veins of the legs. Clinical manifestations include dyspnea (73%), pleuritic chest pain (66%), cough (37%), and hemoptysis (13%). Risk factors include immobilization, surgery, trauma, malignancy, pregnancy, oral contraceptive use, and hereditary thrombophilic disorders. The diagnosis is based on clinical suspicion, D-dimer testing, and imaging studies. Computed tomographic pulmonary angiography (CTPA) is the imaging test of choice for suspected PE, with sensitivity and specificity exceeding 95%. Ventilation-perfusion scanning is an alternative when CTPA is contraindicated. Treatment includes anticoagulation, with low-molecular-weight heparin, unfractionated heparin, or fondaparinux, followed by oral anticoagulants (warfarin or direct oral anticoagulants). Thrombolytic therapy is reserved for patients with massive PE and hemodynamic instability. Inferior vena cava filters are considered when anticoagulation is contraindicated or has failed.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "45세 여성이 운동 시 호흡곤란과 간헐적인 소량의 객혈로 내원하였다. 환자는 점차 악화되는 운동 시 호흡곤란이 6개월 전부터 있었으며, 최근 1개월 동안 소량의 객혈이 3회 있었다고 한다. 과거력상 10년 전 류마티스열을 앓은 적이 있다고 하며, 특별한 약물 복용력은 없었다. 신체 검사에서 경도의 순음성 수축기 심잡음이 관찰되었고, 폐기저부에서 미세한 수포음이 청진되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 X-선: 좌심방 확대, 폐울혈 소견\n심전도: 좌심방 비대, 심방세동\n심초음파: 승모판막 개구면적 1.2cm², 판막 비후 및 석회화, 좌심방 확대(직경 4.5cm)\n혈액 검사: 헤모글로빈 13.0 g/dL, 백혈구 7,500/μL, 혈소판 230,000/μL, BNP 180 pg/mL",
+  "options": {
+    "A": "승모판 협착증",
+    "B": "기관지확장증",
+    "C": "폐결핵",
+    "D": "폐암",
+    "E": "만성 기관지염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 45세 여성으로 운동 시 호흡곤란과 간헐적인 소량의 객혈을 주소로 내원하였습니다. 과거력에서 류마티스열을 앓은 병력이 있으며, 심초음파에서 승모판막 개구면적 감소(1.2cm², 정상 4-6cm²), 판막 비후 및 석회화, 좌심방 확대 소견이 관찰됩니다. 이러한 임상 양상과 검사 결과는 승모판 협착증에 합당합니다. 승모판 협착증은 류마티스열의 후기 합병증으로, 판막의 비후와 유착으로 인해 좌심방에서 좌심실로의 혈류가 제한됩니다. 이로 인해 좌심방 압력이 상승하고 폐정맥 고혈압이 발생하여 폐울혈과 폐부종을 초래할 수 있습니다. 폐모세혈관의 압력 상승과 파열로 인해 객혈이 발생할 수 있으며, 이는 승모판 협착증 환자의 약 10-15%에서 관찰되는 증상입니다. 또한 좌심방 확대로 인한 심방세동이 흔히 동반되며, 이 환자에서도 심전도에서 확인됩니다. 승모판 협착증 환자는 초기에는 무증상이나, 판막 면적이 2cm² 이하로 감소하면 운동 시 호흡곤란이 나타나고, 1.5cm² 이하에서는 일상 활동에서도 증상이 나타날 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Mitral stenosis is characterized by obstruction to left ventricular filling due to narrowing of the mitral valve orifice. Rheumatic fever remains the predominant cause worldwide, though its incidence has declined in developed countries. The normal mitral valve area is 4-6 cm²; symptoms develop when the area decreases to <2.5 cm². Clinical manifestations include dyspnea on exertion, fatigue, palpitations, and hemoptysis. Hemoptysis occurs in 10-15% of patients due to rupture of pulmonary-bronchial venous connections and is rarely massive. Physical examination reveals a diastolic rumbling murmur, an opening snap, and signs of pulmonary congestion. Electrocardiography may show left atrial enlargement and atrial fibrillation. Echocardiography is the diagnostic gold standard, demonstrating valve thickening, calcification, reduced leaflet motion, and left atrial enlargement. Treatment includes diuretics for symptom relief, beta-blockers or calcium channel blockers for rate control in atrial fibrillation, anticoagulation to prevent thromboembolism, and percutaneous balloon mitral valvuloplasty or surgical valve replacement for severe symptomatic stenosis.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "52세 남성이 3일 전부터 시작된 혈액이 섞인 가래와 기침으로 내원하였다. 환자는 15갑년의 흡연력이 있으며, 2년 전부터 만성 기침과 약간의 호흡곤란이 있었으나 특별한 치료를 받지 않았다고 한다. 객혈량은 하루 약 10-20mL 정도이며, 최근 발열이나 체중 감소는 없었다. 신체 검사에서 활력징후는 안정적이었으며, 흉부 청진에서 양측 하부 폐야에서 수포음이 들렸다. 흉부 X-선에서 양측 폐 하부에 불규칙한 망상 결절성 음영이 관찰되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 14.0 g/dL, 백혈구 7,800/μL(정상 분포), 혈소판 230,000/μL\n가래 검사: 항산균 도말 음성, 세균 배양 검사 음성\n폐기능 검사: FEV1/FVC 65%, FEV1 예측치의 68%, DLCO 감소",
+  "options": {
+    "A": "기관지 내시경",
+    "B": "흉부 고해상도 CT",
+    "C": "폐 관류 스캔",
+    "D": "폐생검",
+    "E": "기관지 동맥 조영술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 52세 남성으로 소량의 객혈이 있으며, 흡연력과 만성 기침, 호흡곤란 등의 만성 호흡기 증상이 있고, 흉부 X-선에서 양측 폐 하부의 망상 결절성 음영이 관찰됩니다. 폐기능 검사에서는 경도의 폐쇄성 장애와 DLCO(일산화탄소 확산능) 감소 소견을 보입니다. 이러한 소견들은 다양한 만성 폐질환(간질성 폐질환, 만성 폐쇄성 폐질환, 기관지확장증 등)을 시사할 수 있습니다. 객혈의 원인을 감별하기 위해 가장 적절한 다음 검사는 흉부 고해상도 CT입니다. 고해상도 CT는 흉부 X-선으로 확인하기 어려운 미세한 폐 실질 변화와 기관지 이상을 자세히 보여줄 수 있으며, 간질성 폐질환, 기관지확장증, 종양, 혈관 이상 등 다양한 객혈 원인을 효과적으로 식별할 수 있습니다. 또한 비침습적이고 널리 이용 가능하며, 다음 단계의 검사(예: 기관지 내시경, 생검 등)를 계획하는 데도 유용한 정보를 제공합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - The diagnostic approach to hemoptysis should be guided by the clinical presentation, severity of bleeding, and available resources. High-resolution computed tomography (HRCT) of the chest has become the imaging modality of choice for the initial evaluation of hemoptysis, with sensitivity superior to chest radiography for detecting bronchiectasis, small parenchymal lesions, and vascular abnormalities. HRCT can identify the bleeding site in up to 80% of cases and the specific cause in 60-77%, making it an essential tool in evaluating patients with hemoptysis, even those with a normal chest radiograph. HRCT is particularly useful for detecting bronchiectasis, which may not be apparent on chest radiography. Bronchoscopy remains an important diagnostic tool, especially for localizing the bleeding site and evaluating endobronchial lesions, but its yield is maximized when performed after HRCT has identified areas of concern. For patients with massive hemoptysis or those in whom bronchoscopy and HRCT fail to identify a cause, bronchial arteriography may be performed both for diagnosis and potential therapeutic embolization. Additional tests such as complete blood count, coagulation studies, urinalysis, and autoimmune markers may be necessary depending on the clinical suspicion.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "38세 여성이 2주 전부터 시작된 객혈, 발열, 관절통으로 내원하였다. 환자는 3개월 전부터 지속되는 비출혈, 비폐색, 화농성 비루가 있었으며, 최근 양측 무릎과 손목 관절의 통증이 심해졌다고 한다. 2주 전부터는 마른 기침과 함께 소량의 객혈이 시작되었으며, 전신 쇠약감도 호소하였다. 신체 검사에서 발열(38.2°C)과 양측 무릎의 부종 및 압통이 관찰되었고, 흉부 청진에서 양측 폐야에서 산발적인 수포음이 들렸다. 검사 결과 항호중구 세포질 항체(ANCA) 양성(c-ANCA/PR3-ANCA 패턴)이 확인되었고, 흉부 CT에서 다발성 결절성 병변과 일부 공동 형성이 관찰되었다. 부비동 CT에서는 양측 상악동과 사골동의 점막 비후가 보였다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: 헤모글로빈 11.0 g/dL, 백혈구 12,500/μL(호중구 75%), 혈소판 350,000/μL, ESR 85 mm/hr, CRP 6.8 mg/dL, 크레아티닌 1.3 mg/dL\n요검사: 혈뇨(RBC 25-30/HPF), 단백뇨(1+)\n면역학적 검사: c-ANCA/PR3-ANCA 양성(역가 1:320), p-ANCA/MPO-ANCA 음성\n흉부 CT: 양측 폐에 다발성 결절성 병변, 일부 공동 형성\n부비동 CT: 양측 상악동과 사골동의 점막 비후",
+  "options": {
+    "A": "항생제 치료(레보플록사신)와 대증 요법",
+    "B": "고용량 프레드니솔론 단독 치료",
+    "C": "사이클로포스파미드와 고용량 프레드니솔론 병합 요법",
+    "D": "리툭시맙과 고용량 프레드니솔론 병합 요법",
+    "E": "경과 관찰 및 증상 악화 시 치료 시작"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 상기도 증상(비출혈, 비폐색, 화농성 비루), 하기도 증상(객혈, 폐 결절), 관절 증상(관절통, 관절 부종), 신장 침범(혈뇨, 단백뇨, 경도의 크레아티닌 상승)과 함께 c-ANCA/PR3-ANCA 양성을 보이는 전형적인 육아종성 다발혈관염(GPA, 이전 명칭: 베게너 육아종증) 환자입니다. GPA는 상기도, 폐, 신장을 주로 침범하는 전신성 소혈관 혈관염으로, 치료하지 않을 경우 빠르게 진행하여 생명을 위협할 수 있습니다. 이 환자는 폐 침범(객혈, 폐 결절)과 신장 침범(혈뇨, 단백뇨, 크레아티닌 상승)이 동반된 중증 GPA로 판단되며, 이런 경우 적극적인 면역억제 치료가 필요합니다. 관해 유도(remission induction)를 위한 표준 치료는 사이클로포스파미드와 고용량 프레드니솔론의 병합 요법입니다. 사이클로포스파미드는 경구 또는 정맥 투여가 가능하며, 프레드니솔론은 보통 1mg/kg/일로 시작하여 임상 반응에 따라 서서히 감량합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Granulomatosis with polyangiitis (GPA, formerly Wegener's granulomatosis) is a necrotizing vasculitis that primarily affects small to medium-sized vessels and is characterized by granulomatous inflammation of the upper and lower respiratory tracts and necrotizing glomerulonephritis. The disease is strongly associated with antineutrophil cytoplasmic antibodies (ANCA), particularly those with specificity for proteinase 3 (PR3-ANCA). Clinical manifestations include sinusitis, otitis media, rhinitis, pulmonary infiltrates or nodules, hemoptysis, and renal disease. Treatment depends on disease severity, with severe disease (e.g., pulmonary hemorrhage, rapidly progressive glomerulonephritis) requiring aggressive immunosuppression. The standard regimen for remission induction in severe GPA includes cyclophosphamide in combination with high-dose glucocorticoids. Cyclophosphamide can be administered orally (2 mg/kg/day) or intravenously (15 mg/kg every 2-3 weeks). Rituximab in combination with glucocorticoids has been shown to be as effective as cyclophosphamide for remission induction. Once remission is achieved (usually within 3-6 months), patients are transitioned to less toxic maintenance therapy, such as azathioprine, methotrexate, or rituximab. With appropriate treatment, remission can be induced in 75-90% of patients, but relapses are common, occurring in up to 50% of patients within 5 years.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "60세 남성이 간헐적으로 발생하는 객혈로 내원하였다. 환자는 30년 전 폐결핵으로 치료받은 병력이 있으며, 2년 전부터 간헐적으로 소량의 객혈이 있었으나 특별한 치료 없이 호전되었다고 한다. 최근 2주간 객혈량이 증가하여 하루 약 50mL 정도의 선홍색 혈액을 기침과 함께 배출하고 있다고 호소하였다. 환자는 경미한 기침 외에 발열, 체중 감소, 야간 발한 등의 전신 증상은 없었다. 신체 검사에서 우상부 흉부에서 수포음이 청진되었고, 다른 특이 소견은 관찰되지 않았다. 흉부 X-선에서 우상엽에 동그란 종괴와 주변 공동이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 CT: 우상엽에 이전 결핵으로 인한 공동 내부에 5cm 크기의 둥근 종괴, 주변에 'air crescent sign' 관찰\n혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 7,000/μL(호산구 3%), 혈소판 250,000/μL, CRP 0.8 mg/dL\n혈청 검사: 아스페르길루스 특이 IgG 항체 양성, 아스페르길루스 갈락토만난 항원 음성\n가래 검사: 항산균 도말 및 배양 음성, KOH 도말에서 격벽이 있는 균사 관찰",
+  "options": {
+    "A": "폐결핵 재발",
+    "B": "폐아스페르길루스종",
+    "C": "세균성 폐농양",
+    "D": "폐암",
+    "E": "기관지확장증"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 과거 폐결핵 병력이 있는 60세 남성으로, 간헐적인 객혈을 주소로 내원하였습니다. 영상 검사에서 이전 결핵으로 인한 공동 내부에 둥근 종괴가 관찰되며, 'air crescent sign'이 특징적으로 보입니다. 혈청 검사에서 아스페르길루스 특이 IgG 항체 양성이고, 가래 KOH 도말에서 격벽이 있는 균사가 관찰되었습니다. 이러한 임상 양상과 검사 결과는 폐아스페르길루스종(폐 진균구)에 합당합니다. 폐아스페르길루스종은 주로 이전 결핵, 기관지확장증, 낭성 폐질환 등으로 형성된 공동 내에 아스페르길루스 균사가 자라나 형성된 'fungus ball'입니다. 가장 흔한 증상은 객혈로, 경미한 객혈부터 생명을 위협하는 대량 객혈까지 다양하게 나타날 수 있습니다. 객혈의 원인은 종괴 주변의 비정상적인 혈관 형성과 관련이 있습니다. CT에서 특징적인 'air crescent sign'(공기 초승달 징후)은 공동 내 종괴 주위로 공기가 차 있는 모양으로 나타납니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Aspergilloma (fungus ball) is a conglomeration of fungal hyphae, inflammatory cells, fibrin, mucus, and tissue debris that typically develops in a preexisting pulmonary cavity. Such cavities are commonly due to prior tuberculosis, sarcoidosis, bronchiectasis, or other bullous lung diseases. Aspergillus fumigatus is the most frequent causative species. Clinical manifestations range from asymptomatic to severe hemoptysis, which is the most common symptom and can be life-threatening due to erosion of bronchial arteries. Other symptoms may include cough, dyspnea, and malaise. The diagnosis is suggested by radiographic findings: a mobile intracavitary mass with an air crescent visible on chest radiography or CT. The \"air crescent sign\" represents air between the fungal ball and the cavity wall. Serum precipitins (IgG antibodies) against Aspergillus are positive in >90% of cases, while galactomannan antigen is typically negative. Treatment is often challenging, with antifungal therapy showing limited efficacy due to poor drug penetration into the cavity. Bronchial artery embolization may be used to control hemoptysis, but definitive management for recurrent or severe hemoptysis is surgical resection when feasible.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "32세 남성이 유독 가스에 노출된 후 발생한 호흡곤란과 객혈로 응급실에 내원하였다. 환자는 화학 공장에서 근무 중 염소 가스가 누출되는 사고가 발생하여 약 5분간 노출되었으며, 즉시 현장에서 벗어났다고 한다. 노출 직후부터 심한 기침, 호흡곤란, 흉통이 시작되었고, 1시간 전부터 소량의 혈액이 섞인 가래가 배출되기 시작했다고 한다. 내원 시 환자는 심한 호흡곤란과 천명음을 보였으며, 산소포화도는 88%(실내 공기)였다. 활력징후는 혈압 145/90mmHg, 맥박 120회/분, 호흡수 30회/분이었고, 흉부 청진에서 양측 폐야에서 광범위한 수포음과 천명음이 들렸다. 이 환자의 초기 응급 처치로 가장 적절한 것은?",
+  "exam": "동맥혈 가스분석: pH 7.32, PaO2 60 mmHg(실내 공기), PaCO2 45 mmHg, HCO3 22 mEq/L\n흉부 X-선: 양측 폐야의 간질성 및 폐포성 침윤, 경미한 폐부종 소견\n혈액 검사: 백혈구 15,500/μL(호중구 85%), 헤모글로빈 14.5 g/dL, 혈소판 280,000/μL\n심전도: 동성 빈맥",
+  "options": {
+    "A": "고농도 산소 공급, 기관지확장제 흡입, 정맥 스테로이드 투여",
+    "B": "즉시 기관 삽관 및 기계 환기",
+    "C": "항생제 정맥 투여",
+    "D": "기관지 내시경을 통한 출혈 부위 지혈",
+    "E": "기관지 동맥 색전술 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 염소 가스 노출 후 발생한 급성 화학적 폐손상/흡입 손상으로 인한 증상을 보이고 있습니다. 염소는 수용성 자극성 가스로, 상기도 및 하기도에 심한 염증과 손상을 일으킬 수 있습니다. 흡입 시 기관지 경련, 점막 부종, 염증성 삼출물, 폐부종 등을 유발하여 호흡곤란, 천명음, 기침, 객혈 등의 증상이 나타날 수 있습니다. 이 환자는 중등도-중증의 흡입 손상을 보이나, 현재 의식은 명료하고 자발 호흡이 유지되고 있으며 산소포화도가 88%로 심각한 저산소혈증은 아닌 상태입니다. 초기 응급 처치로 가장 적절한 것은 고농도 산소 공급, 기관지확장제 흡입, 정맥 스테로이드 투여입니다. 산소는 저산소혈증을 교정하고, 기관지확장제(알부테롤, 이프라트로피움 등)는 기관지 경련을 완화하며, 정맥 스테로이드(메틸프레드니솔론 등)는 기도 염증을 줄이는 데 도움이 됩니다. 이러한 치료로 대부분의 환자는 24-48시간 내에 호전됩니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Inhalation of toxic gases or fumes can cause acute respiratory distress due to direct chemical injury to the tracheobronchial tree and lungs. Chlorine gas is a highly water-soluble irritant that primarily affects the upper respiratory tract and can cause immediate symptoms including cough, choking, eye and throat irritation, and chest tightness. With higher concentrations or prolonged exposure, it can penetrate deeper into the respiratory tract, causing bronchospasm, pulmonary edema, and acute respiratory distress syndrome (ARDS). Clinical manifestations include dyspnea, wheezing, hemoptysis, and hypoxemia. Chest radiographs may show patchy infiltrates, and pulmonary function tests typically reveal obstructive patterns. Management of acute inhalation injury includes removal from exposure, administration of supplemental oxygen, and bronchodilators for bronchospasm. Systemic corticosteroids may help reduce airway inflammation, though their efficacy is not definitively established. Intubation and mechanical ventilation are reserved for severe cases with progressive respiratory failure. Most patients with mild to moderate exposure improve within 24-48 hours, though some may develop reactive airways dysfunction syndrome (RADS), a condition characterized by persistent asthma-like symptoms following a single high-level exposure to an irritant.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "65세 남성이 2주 전부터 시작된 혈액이 섞인 가래와 호흡곤란으로 내원하였다. 환자는 40갑년의 흡연력이 있으며, 최근 3개월간 마른 기침, 우측 흉부 통증, 호흡곤란이 점차 심해졌다고 한다. 객혈은 소량이나 지속적이며, 체중이 2개월간 8kg 감소했다고 한다. 신체 검사에서 우측 폐에서 호흡음이 감소되었고, 우측 쇄골상 림프절이 촉지되었다. 흉부 X-선에서 우측 폐문부 종괴와 함께 우측 폐의 부분적 무기폐 소견이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 CT: 우측 주기관지를 침범하는 4cm 크기의 종괴, 우측 폐문부 및 종격동 림프절 비대, 우중엽 무기폐\n혈액 검사: 헤모글로빈 13.0 g/dL, 백혈구 9,500/μL, 혈소판 280,000/μL\n가래 세포검사: 비정형 세포 관찰됨",
+  "options": {
+    "A": "폐결핵",
+    "B": "중심형 폐암(기관지암)",
+    "C": "기관지확장증",
+    "D": "사르코이도시스",
+    "E": "기관지 이물"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 장기간의 흡연력을 가진 65세 남성으로, 지속적인 소량의 객혈, 만성 기침, 호흡곤란, 체중 감소 등의 증상을 보입니다. 영상 검사에서 우측 주기관지를 침범하는 종괴와 함께 림프절 비대, 무기폐 소견이 관찰되며, 가래 세포검사에서 비정형 세포가 발견되었습니다. 이러한 임상 양상은 중심형 폐암(기관지암)에 합당합니다. 중심형 폐암은 주로 주기관지나 엽기관지에서 발생하며, 기관지 내강을 막아 무기폐를 유발할 수 있습니다. 흡연은 중심형 폐암의 주요 위험 인자이며, 중심형 폐암은 말초형 폐암보다 기침, 객혈, 호흡곤란, 반복적 폐렴 등의 증상이 일찍 나타나는 경향이 있습니다. 폐결핵도 객혈과 폐문부 종괴를 유발할 수 있으나, 40갑년의 흡연력, 체중 감소, CT에서 기관지 내 종괴 소견은 폐암에 더 합당합니다. 기관지확장증은 주로 만성 화농성 객담과 반복적인 호흡기 감염이 특징이며, 사르코이도시스는 양측성 폐문부 림프절 비대가 흔하고 객혈은 상대적으로 드뭅니다. 기관지 이물은 급성 발현이 특징적이며, 장기간의 진행성 증상과 일치하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Lung cancers can be classified anatomically as central or peripheral, which has implications for clinical presentation and diagnostic approach. Central lung cancers arise in the main lobar or segmental bronchi and are more likely to be squamous cell carcinomas or small cell lung cancers. Due to their location, they often present earlier with symptoms such as cough, hemoptysis, wheezing, and postobstructive pneumonia or atelectasis. Hemoptysis occurs in approximately 30-50% of patients with central tumors due to erosion of the bronchial mucosa and blood vessels. On chest radiography, central tumors may appear as hilar masses or perihilar infiltrates, often with associated atelectasis or pneumonia. Bronchoscopy is particularly valuable for diagnosing central lesions, as they are usually visible and accessible for biopsy. In contrast, peripheral tumors, which are more likely to be adenocarcinomas, may grow to a large size before causing symptoms and are often detected incidentally on chest imaging. The diagnostic yield of bronchoscopy is lower for peripheral lesions, and CT-guided needle biopsy is often more appropriate.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 12,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "22세 남성이 1주일 전부터 시작된 객혈과 혈뇨로 내원하였다. 환자는 2주 전 상기도 감염 증상이 있었으며, 점차 기침과 함께 소량의 혈액이 섞인 가래가 발생했다고 한다. 최근 3일간 소변색이 붉어졌으며, 안면과 다리에 부종이 생겼다고 호소하였다. 과거력에서 특이사항은 없었다. 신체 검사에서 혈압 150/95mmHg, 맥박 95회/분이었으며, 안면과 하지에 함요부종이 관찰되었다. 흉부 청진에서 양측 폐기저부에서 수포음이 들렸다. 이 환자의 진단을 위해 가장 중요한 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 10.2 g/dL, 백혈구 10,500/μL, 혈소판 230,000/μL, BUN 48 mg/dL, 크레아티닌 2.8 mg/dL\n요검사: 혈뇨(+++), 단백뇨(+++), 적혈구 원주\n흉부 X-선: 양측 폐야에 미만성 폐포성 침윤\n동맥혈 가스분석: pH 7.32, PaO2 78 mmHg(실내 공기), PaCO2 35 mmHg",
+  "options": {
+    "A": "항사구체 기저막 항체(anti-GBM antibody) 검사",
+    "B": "항핵항체(ANA) 검사",
+    "C": "기관지 내시경 및 경기관지 폐생검",
+    "D": "흉부 고해상도 CT",
+    "E": "혈청 보체(C3, C4) 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 22세 남성으로 객혈과 혈뇨, 급성 신기능 저하를 보이고 있습니다. 이러한 폐-신증후군(pulmonary-renal syndrome)은 여러 질환에서 나타날 수 있으나, 젊은 남성에서 선행하는 상기도 감염 후 발생한 급성 경과는 굿파스처 증후군(Goodpasture's syndrome)을 강하게 시사합니다. 굿파스처 증후군은 항사구체 기저막 항체(anti-GBM antibody)에 의한 자가면역 질환으로, 폐출혈과 급속 진행성 사구체신염을 특징으로 합니다. 이 환자의 진단을 위해 가장 중요한 검사는 혈청 항사구체 기저막 항체(anti-GBM antibody) 검사입니다. 이 항체는 굿파스처 증후군 환자의 85-90%에서 양성이며, 진단에 높은 특이도를 가집니다. 항체 양성 결과는 혈장분리교환술(plasmapheresis), 고용량 스테로이드, 면역억제제와 같은 적극적인 치료를 신속히 시작해야 함을 의미합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Goodpasture's syndrome is an autoimmune disease characterized by the production of pathogenic antibodies against type IV collagen in the glomerular and alveolar basement membranes, leading to a pulmonary-renal syndrome of glomerulonephritis and pulmonary hemorrhage. The disease typically affects young men, with peaks of incidence in the second and third decades, and again in the sixth and seventh decades. Clinical manifestations include hemoptysis, dyspnea, anemia, hematuria, proteinuria, and rapidly progressive glomerulonephritis leading to renal failure. Serologic testing for anti-glomerular basement membrane (anti-GBM) antibodies is the cornerstone of diagnosis, with positivity in 85-90% of cases. Linear deposition of IgG along the glomerular basement membrane on immunofluorescence of renal biopsy specimens is diagnostic. Precipitating factors may include respiratory tract infections, cigarette smoking, exposure to hydrocarbon solvents, and influenza. Treatment includes plasmapheresis to remove circulating antibodies, combined with immunosuppression using corticosteroids and cyclophosphamide. Early diagnosis and treatment are essential to prevent irreversible renal damage and life-threatening pulmonary hemorrhage. The prognosis is poor when treatment is initiated after serum creatinine exceeds 5-6 mg/dL or when dialysis is required.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 13,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "18세 여성이 반복적인 객혈과 기침으로 내원하였다. 환자는 어린 시절부터 만성 기침, 화농성 가래, 반복적인 호흡기 감염, 잦은 설사와 성장 지연이 있었으며, 14세에 낭성 섬유증으로 진단받았다. 최근 1주일간 객혈이 심해져 하루 약 30-40mL의 혈액이 섞인 가래를 배출하고 있으며, 호흡곤란과 발열도 동반되었다. 신체 검사에서 체온 38.2°C, 호흡수 24회/분, 산소포화도 92%(실내 공기)였으며, 양측 폐에서 수포음과 천명음이 청진되었다. 환자의 BMI는 17kg/m²로 저체중 상태였다. 이 환자에게 가장 적합한 초기 치료 계획은?",
+  "exam": "흉부 X-선: 양측 폐의 만성 기관지확장증, 상엽 우세의 결절-낭성 변화, 침윤 소견\n가래 배양 검사: Pseudomonas aeruginosa 다량 검출\n혈액 검사: 백혈구 14,500/μL(호중구 80%), 헤모글로빈 12.5 g/dL, CRP 8.5 mg/dL\n폐기능 검사: FEV1 예측치의 45%, FVC 예측치의 60%",
+  "options": {
+    "A": "경구 항생제(레보플록사신)만 투여",
+    "B": "정맥 항생제(항녹농균 활성), 기도 청결 요법, DNase 흡입",
+    "C": "즉시 기관지 동맥 색전술 시행",
+    "D": "항섬유소용해제(tranexamic acid) 정맥 투여",
+    "E": "고압 산소 요법"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 낭성 섬유증 환자로, 중등도의 객혈과 함께 급성 폐 감염 악화(발열, 호흡곤란, 증가된 화농성 가래, 폐침윤, 백혈구 증가)를 보이고 있습니다. 낭성 섬유증 환자에서 객혈은 흔한 합병증으로, 기관지 벽 내 비정상적인 혈관 형성과 만성 염증으로 인해 발생합니다. 이 환자의 객혈량은 하루 30-40mL로 중등도이며, 급성 감염이 악화 요인으로 작용하고 있습니다. 가장 적합한 초기 치료는 정맥 항생제(항녹농균 활성이 있는), 적극적인 기도 청결 요법, 그리고 DNase(dornase alfa) 흡입입니다. 녹농균(Pseudomonas aeruginosa)은 낭성 섬유증 환자에서 가장 흔한 병원체로, 항녹농균 활성이 있는 두 가지 정맥 항생제(예: 세프타지딤과 토브라마이신)를 병합하여 14일 이상 투여해야 합니다. 기도 청결 요법(체위 배액, 진동 요법, 양압 호기)은 점액 제거에 필수적이며, DNase는 객담 내 DNA를 분해하여 객담 점도를 낮춥니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Cystic fibrosis (CF) is an autosomal recessive disorder caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, leading to abnormal ion transport across epithelial surfaces. Pulmonary manifestations include chronic bacterial infections, bronchiectasis, and progressive respiratory failure. Hemoptysis occurs in approximately 1% of patients per year and can range from blood-streaked sputum to massive bleeding. Management of acute pulmonary exacerbations includes intravenous antibiotics (typically a combination of an aminoglycoside and an antipseudomonal beta-lactam), aggressive airway clearance techniques, and bronchodilators. Dornase alfa (recombinant human DNase), which cleaves extracellular DNA in CF sputum, reduces sputum viscosity and improves pulmonary function. For mild to moderate hemoptysis (<240 mL/24 h), the treatment focuses on the underlying exacerbation with antibiotics, continued airway clearance techniques, and correction of any coagulopathy. Massive hemoptysis (>240 mL/24 h or compromised respiratory status) may require bronchial artery embolization or, rarely, surgical resection. CFTR modulators, such as ivacaftor, lumacaftor, and elexacaftor, are now available for specific CFTR mutations and have shown significant improvements in lung function, exacerbation rates, and quality of life.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 14,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "55세 남성이 2주 전부터 시작된 간헐적 객혈과 기침으로 내원하였다. 환자는 30갑년의 흡연력이 있으며, 최근 3개월간 5kg의 체중 감소가 있었다고 한다. 기침은 주로 아침에 심했으며, 간헐적으로 소량의 혈액이 섞인 가래가 배출되었다. 최근 2주간 좌측 어깨 통증이 발생했으며, 심호흡 시 통증이 악화된다고 한다. 신체 검사에서 좌상부 폐야에서 호흡음이 감소되었고, 좌측 쇄골상 림프절이 촉지되었다. 흉부 X-선에서 좌상엽에 4cm 크기의 종괴 음영이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 CT: 좌상엽에 4.5cm 크기의 불규칙한 경계를 가진 종괴, 폐문부 및 종격동 림프절 비대\n혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 9,800/μL, 혈소판 280,000/μL, CRP 1.2 mg/dL\n가래 세포검사: 비정형 세포 관찰됨",
+  "options": {
+    "A": "폐결핵",
+    "B": "세균성 폐렴",
+    "C": "폐암",
+    "D": "폐흡충증",
+    "E": "기관지확장증"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 55세 흡연자로 객혈, 체중 감소, 어깨 통증과 같은 증상을 보이며, 영상 검사에서 좌상엽 종괴와 림프절 비대가 관찰됩니다. 이러한 임상 양상은 폐암에 합당합니다. 특히 30갑년의 장기 흡연력은 폐암의 중요한 위험 인자이며, 3개월간의 체중 감소와 같은 전신 증상, 그리고 좌측 어깨 통증(상완신경총이나 흉막 침범 가능성)은 폐암을 더욱 시사합니다. 또한 가래 세포검사에서 비정형 세포가 관찰된 점도 종양을 뒷받침합니다. 폐결핵도 객혈과 상엽 침범을 보일 수 있으나, 종괴형 병변과 폐문부/종격동 림프절 비대는 폐암에 더 특징적입니다. 세균성 폐렴은 보통 급성 경과를 보이며, 발열과 백혈구 증가가 현저합니다. 폐흡충증은 민물고기 생식 병력이 중요하며, 기관지확장증은 만성 화농성 가래와 특징적인 영상 소견(기관지 확장)을 보입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Lung cancer is the leading cause of cancer-related mortality worldwide, with cigarette smoking being the primary risk factor. Clinical manifestations depend on the location and size of the tumor and can include cough, hemoptysis, dyspnea, chest pain, and constitutional symptoms such as weight loss and fatigue. Hemoptysis occurs in approximately 20-30% of patients with lung cancer. Superior sulcus tumors (Pancoast tumors) may cause shoulder pain and Horner's syndrome due to invasion of the brachial plexus and sympathetic chain. Radiographic findings typically include a solitary pulmonary nodule or mass, often with irregular borders, and may be accompanied by hilar or mediastinal lymphadenopathy. Central tumors are more likely to cause hemoptysis due to erosion into blood vessels. The diagnosis is established by histologic or cytologic examination of tumor tissue, obtained by bronchoscopy, CT-guided needle biopsy, or surgical procedures. Treatment depends on the cell type, disease stage, and patient's performance status, with options including surgery, radiation therapy, chemotherapy, and targeted therapy.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "42세 남성이 갑자기 발생한 대량 객혈로 응급실에 내원하였다. 환자는 내원 직전 약 300mL의 선홍색 혈액을 기침과 함께 배출하였고, 현재도 소량의 출혈이 계속되고 있다. 과거력상 5년 전부터 수차례 객혈이 있었으나 특별한 원인 질환은 발견되지 않았다고 한다. 이전에도 두 차례 대량 객혈로 입원한 적이 있었으며, 특별한 치료 없이 자연 호전되었다고 한다. 신체 검사에서 혈압 100/60mmHg, 맥박 122회/분, 호흡수 26회/분, 산소포화도 94%(비강 캐뉼라 3L/min)였다. 환자는 불안해 보였으며, 흉부 청진에서 우측 중부 폐야에서 천명음이 들렸다. 기존 검사에서 기관지확장증, 폐결핵, 폐암, 혈액응고 이상 등은 모두 배제되었다. 이 환자의 대량 객혈에 대한 가장 적절한 치료는?",
+  "exam": "혈액 검사: 헤모글로빈 12.8 g/dL, 백혈구 8,000/μL, 혈소판 180,000/μL, PT 12초, aPTT 30초\n흉부 CT: 우중엽 부위에 국소적인 젖빛유리음영(ground-glass opacity)과 소량의 기관지 내 혈액 외 특이 소견 없음\n기관지 내시경: 우중엽 기관지에서 활동성 출혈 확인, 구체적인 병변은 관찰되지 않음\n기관지 동맥 조영술: 우측 기관지 동맥의 과확장 및 굴곡, 폐실질 내 선조 불규칙성(parenchymal streaking) 소견",
+  "options": {
+    "A": "항생제 정맥 투여 및 경과 관찰",
+    "B": "기관지 내시경을 통한 에피네프린 국소 주입",
+    "C": "기관지 동맥 색전술",
+    "D": "정맥 내 항섬유소용해제(tranexamic acid) 투여",
+    "E": "응급 개흉술 및 폐엽 절제술"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 반복적인 대량 객혈로 내원한 42세 남성입니다. 현재의 출혈량(300mL)은 대량 객혈에 해당하며, 혈역학적으로 약간의 불안정성(빈맥, 저혈압 경향)을 보이고 있습니다. 기존 검사에서 폐 실질 질환이나 응고 장애는 발견되지 않았으며, 기관지 내시경에서 출혈 부위는 확인되었으나 구체적인 병변은 없었습니다. 기관지 동맥 조영술에서 우측 기관지 동맥의 과확장 및 굴곡이 확인되었는데, 이는 특발성 기관지동맥확장증에 합당한 소견입니다. 이 환자의 대량 객혈에 대한 가장 적절한 치료는 기관지 동맥 색전술입니다. 기관지 동맥 색전술은 대량 객혈의 일차적 치료로, 출혈을 즉시 멈추게 하는 데 90% 이상의 성공률을 보입니다. 특히 이 환자처럼 기관지 동맥의 이상이 확인된 경우 매우 효과적입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Bronchial artery embolization (BAE) has become the first-line therapy for massive hemoptysis in most cases, particularly when surgery is contraindicated or the patient is clinically unstable. The procedure involves selective catheterization of the bronchial arteries followed by injection of embolic materials (polyvinyl alcohol particles, gelatin sponge, or metallic coils) to occlude the abnormal vessels. Success rates for immediate control of bleeding range from 80-90%, though recurrent bleeding may occur in 10-30% of patients, usually within the first year. The most common causes of hemoptysis requiring BAE include bronchiectasis, tuberculosis, aspergilloma, and lung cancer. In some cases, no underlying pulmonary pathology is identified despite comprehensive evaluation, a condition termed cryptogenic or idiopathic hemoptysis. These patients often have abnormal bronchial arteries characterized by hypertrophy, tortuosity, and hypervascularity on angiography, and they respond well to embolization. Complications of BAE are rare but include chest pain, fever, dysphagia, bronchial necrosis, and, most seriously, spinal cord ischemia due to inadvertent embolization of spinal arteries. For this reason, meticulous angiographic technique with identification of spinal artery feeders is essential.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "28세 여성이 2년간 반복되는 간헐적인 소량의 객혈로 내원하였다. 환자는 객혈 외에 간헐적인 기침, 특히 우측으로 누우면 심해지는 기침을 호소하였다. 최근 1개월간 객혈 빈도가 증가했으나, 발열, 체중 감소, 야간 발한 등의 전신 증상은 없었다. 흡연력은 없으며, 과거 결핵 접촉력도 없었다. 신체 검사에서 활력징후는 정상이었고, 흉부 청진에서 특이 소견은 없었다. 흉부 X-선은 정상이었으나, 흉부 CT에서 우중엽 기관지 내에 1.5cm 크기의 경계가 명확한 결절이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 6,800/μL, 혈소판 280,000/μL, CRP 0.3 mg/dL\n가래 검사: 항산균 도말 및 배양 음성, 세균 배양 음성, 세포검사 음성\n기관지 내시경: 우중엽 기관지에 표면이 매끄럽고 혈관이 풍부한 분홍색 종괴가 관찰됨, 조직검사 시행함",
+  "options": {
+    "A": "기관지 카르시노이드 종양",
+    "B": "기관지 결핵",
+    "C": "기관지 선종",
+    "D": "편평세포 폐암",
+    "E": "육아종성 병변"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 28세 젊은 여성으로 2년간 지속된 간헐적 소량의 객혈과 체위에 따라 악화되는 기침을 호소하고 있습니다. 흉부 CT에서 우중엽 기관지 내에 경계가 명확한 결절이 관찰되었고, 기관지 내시경에서 표면이 매끄럽고 혈관이 풍부한 분홍색 종괴가 확인되었습니다. 이러한 임상 양상과 검사 소견은 기관지 카르시노이드 종양에 합당합니다. 기관지 카르시노이드 종양은 신경내분비 기원의 저등급 악성 종양으로, 30-40대 젊은 환자에서 흔하며, 중심 기관지에 발생하는 경향이 있습니다. 주요 증상은 기관지 폐쇄로 인한 기침, 천명음, 반복적인 폐렴이며, 종양이 혈관이 풍부하여 객혈이 약 20-30%에서 발생합니다. 기관지 내시경에서 카르시노이드 종양은 전형적으로 매끄럽고 둥근 분홍색 또는 붉은색 병변으로 관찰되며, 접촉 시 쉽게 출혈하는 특성이 있습니다. 치료는 주로 수술적 절제입니다. 기관지 결핵은 일반적으로 항산균 검사 양성이며, 체중 감소, 발열 등의 전신 증상이 동반됩니다. 편평세포 폐암은 주로 흡연자의 중앙 기관지에서 발생하나, 이 환자는 비흡연자인 28세 여성이며 2년간의 만성 경과를 보이므로 가능성이 낮습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Bronchial carcinoid tumors are neuroendocrine neoplasms that account for 1-2% of all lung tumors. They occur most commonly in the third and fourth decades of life and show no gender predilection. Approximately 80% of bronchial carcinoids are classified as typical carcinoids, which are low-grade malignancies with excellent prognosis, while the remaining 20% are atypical carcinoids with more aggressive behavior. Most bronchial carcinoids (70%) occur in the main, lobar, or segmental bronchi, and the remainder develop in the peripheral lung. Symptoms result from bronchial obstruction (cough, wheeze, recurrent pneumonia) or, less commonly, from hormone production (carcinoid syndrome, Cushing's syndrome). Hemoptysis occurs in approximately 20-30% of patients due to the highly vascular nature of these tumors. Bronchoscopy typically reveals a smooth, round, pink or reddish endobronchial lesion that bleeds easily with manipulation. CT imaging shows a well-circumscribed nodule, often with punctate calcifications, and may also demonstrate post-obstructive atelectasis or pneumonia. Treatment for localized disease is primarily surgical resection, with excellent long-term survival rates (>90% at 5 years for typical carcinoids).",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "34세 남성이 3일 전부터 시작된 객혈과 호흡곤란으로 응급실에 내원하였다. 환자는 평소 건강했으나 2주 전부터 발열, 체중 감소, 관절통이 있었다고 한다. 내원 시 산소포화도는 88%(실내 공기)였으며, 양측 폐야에서 미세한 수포음이 청진되었다. 흉부 X-선에서 양측 폐야에 미만성 폐포성 침윤이 관찰되었다. 혈액 검사에서 크레아티닌 2.5mg/dL로 상승되어 있었고, 요검사에서 적혈구 원주와 단백뇨가 확인되었다. 이 환자에서 진단에 가장 도움이 되는 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 10.2 g/dL, 백혈구 10,500/μL, 혈소판 110,000/μL, BUN 38 mg/dL, 크레아티닌 2.5 mg/dL, CRP 8.5 mg/dL, ESR 85 mm/hr\n요검사: 적혈구 >50/HPF, 단백질 3+, 적혈구 원주 양성\n흉부 X-선: 양측 폐야의 미만성 폐포성 침윤\n동맥혈 가스분석: pH 7.42, PaO2 58 mmHg(실내 공기), PaCO2 32 mmHg",
+  "options": {
+    "A": "폐 조직 생검",
+    "B": "항핵항체(ANA) 및 항호중구세포질항체(ANCA), 항사구체 기저막 항체(anti-GBM) 검사",
+    "C": "혈청 아스페르길루스 항원 검사",
+    "D": "객담 항산균 도말 및 배양 검사",
+    "E": "흉부 고해상도 CT"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 34세 남성으로 급성 객혈, 호흡곤란과 함께 신기능 저하, 혈뇨, 단백뇨를 보이고 있습니다. 이러한 폐-신증후군(pulmonary-renal syndrome)은 여러 자가면역 질환, 특히 ANCA 연관 혈관염(현미경적 다발혈관염, 육아종성 다발혈관염 등)이나 항사구체 기저막 항체 질환(굿파스처 증후군) 등에서 나타날 수 있습니다. 환자가 최근 전신 증상(발열, 체중 감소, 관절통)을 보이는 점도 자가면역 질환의 가능성을 시사합니다. 이러한 상황에서 진단에 가장 도움이 되는 검사는 항핵항체(ANA) 및 항호중구세포질항체(ANCA) 검사입니다. ANCA는 현미경적 다발혈관염(p-ANCA/MPO-ANCA 주로 양성)과 육아종성 다발혈관염(c-ANCA/PR3-ANCA 주로 양성)의 진단에 중요하며, ANA는 루푸스 신염과 관련된 폐출혈의 진단에 도움이 됩니다. 또한 항사구체 기저막 항체(anti-GBM) 검사도 함께 시행하여 굿파스처 증후군을 배제해야 합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - The pulmonary-renal syndrome is defined by the combination of diffuse alveolar hemorrhage (DAH) and glomerulonephritis. This syndrome may be caused by a variety of disorders, including ANCA-associated vasculitis (AAV), anti-glomerular basement membrane (anti-GBM) disease, immune complex-mediated diseases such as systemic lupus erythematosus, and rarely, drug-induced vasculitis. Microscopic polyangiitis (MPA) is one of the most common causes of pulmonary-renal syndrome, characterized by necrotizing small-vessel vasculitis with few or no immune deposits, and is strongly associated with perinuclear ANCA (p-ANCA) directed against myeloperoxidase (MPO). Clinical manifestations include constitutional symptoms (fever, weight loss, fatigue), pulmonary involvement (dyspnea, cough, hemoptysis), and renal disease (hematuria, proteinuria, rapidly progressive glomerulonephritis). The diagnosis of AAV relies on a combination of clinical features, serologic testing for ANCA, and histopathologic findings. Serologic testing should include ANA, ANCA with immunofluorescence pattern (cytoplasmic or perinuclear) and ELISA for specific antigens (PR3 and MPO), and anti-GBM antibodies. Tissue diagnosis is often necessary, with renal biopsy generally preferred over lung biopsy due to higher diagnostic yield and lower risk. Treatment includes high-dose corticosteroids and cyclophosphamide or rituximab for remission induction.",
+  "category": "Rheumatology"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "70세 남성이 소량의 객혈과 호흡곤란으로 내원하였다. 환자는 5년 전 심근경색으로 관상동맥 스텐트 삽입술을 받았으며, 3개월 전부터 호흡곤란이 심해져 왔다고 한다. 최근 1주일 전부터 기침과 함께 소량의 분홍빛 거품이 섞인 객담이 발생했다고 한다. 환자는 아스피린과 클로피도그렐을 복용하고 있었다. 신체 검사에서 경정맥 확장, 양측 하지 부종, 양측 폐기저부의 수포음, 심첨부의 수축기 잡음이 관찰되었다. 심전도에서 좌심실 비대 소견이 보였고, 흉부 X-선에서 심비대, 폐울혈, 양측 흉수가 확인되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "활력징후: 혈압 150/90mmHg, 맥박 95회/분, 호흡수 24회/분, 산소포화도 92%(실내 공기)\n혈액 검사: NT-proBNP 8,500 pg/mL, 트로포닌 I 0.02 ng/mL, 헤모글로빈 12.8 g/dL, 크레아티닌 1.3 mg/dL\n심초음파: 좌심실 구혈률 30%, 확장된 좌심실, 경도의 승모판 역류, 이완기 장애\n흉부 CT: 양측 폐야의 간질성 부종, 폐정맥 확장, 소량의 양측 흉수",
+  "options": {
+    "A": "수혈 및 신선동결혈장 투여",
+    "B": "이뇨제 정맥 투여, 산소 공급, 앉은 자세 유지",
+    "C": "항생제 정맥 투여(세프트리악손과 아지스로마이신)",
+    "D": "항혈소판제 중단 및 비타민 K 투여",
+    "E": "기관지 내시경을 통한 출혈 부위 지혈"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 울혈성 심부전으로 인한 폐부종 및 객혈 양상을 보이고 있습니다. 심근경색의 과거력, 경정맥 확장, 하지 부종, 수축기 심잡음, 심비대, 폐울혈 등의 임상 소견과 함께 NT-proBNP 상승과 심초음파에서 좌심실 구혈률 저하(30%)는 심부전을 강력히 시사합니다. 객혈은 실제 혈액보다는 분홍빛 거품이 섞인 객담(pink frothy sputum) 형태로, 이는 폐부종에 의한 것입니다. 이러한 심인성 폐부종과 관련된 객혈의 치료는 기저 심부전의 치료에 초점을 맞추어야 합니다. 이뇨제(푸로세미드) 정맥 투여는 체액 과부하를 감소시키고, 산소 공급은 저산소혈증을 교정하며, 앉은 자세 유지는 정맥환류를 감소시켜 폐부종을 완화합니다. 이 환자의 객혈은 출혈보다는 폐부종에 의한 것이므로, 수혈이나 지혈 관련 치료(A, D, E)는 불필요합니다. 또한 감염의 증거가 없으므로 항생제 투여(C)도 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Cardiogenic pulmonary edema results from elevated pulmonary venous pressure due to left heart failure, leading to transudation of fluid into the pulmonary interstitium and alveoli. Common causes include acute coronary syndromes, decompensated heart failure, valvular heart disease, and hypertensive emergencies. Clinical manifestations include dyspnea, orthopnea, tachypnea, tachycardia, rales on auscultation, and occasionally pink frothy sputum, which represents a mixture of edema fluid and small amounts of blood from ruptured capillaries. The diagnosis is based on clinical presentation, chest radiography showing interstitial edema, vascular redistribution, and pleural effusions, and elevated natriuretic peptide levels (BNP or NT-proBNP). Echocardiography helps assess left ventricular function, valvular abnormalities, and diastolic dysfunction. Management includes positioning the patient upright to decrease venous return, oxygen supplementation to correct hypoxemia, and diuretics (intravenous furosemide) to reduce preload. In severe cases, non-invasive positive pressure ventilation may be beneficial. Vasodilators such as nitroglycerin reduce preload and afterload, improving cardiac output. Severe refractory cases may require inotropic support or mechanical circulatory assistance. The underlying cause (e.g., ischemia, arrhythmia, valvular disease) should be identified and treated concurrently.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "29세 여성이 임신 28주에 객혈과 호흡곤란으로 응급실에 내원하였다. 환자는 2일 전부터 우측 흉부 통증, 호흡곤란, 그리고 소량의 혈액이 섞인 가래가 발생했다고 한다. 환자는 이전에 건강했으며, 임신 중 합병증은 없었다. 단, 환자는 2주 전 장거리 비행기 여행을 다녀왔다고 한다. 신체 검사에서 맥박 110회/분, 호흡수 26회/분, 산소포화도 94%(실내 공기)였으며, 우측 폐 하부에서 수포음이 청진되었다. 우측 종아리에 경미한 압통이 있었으나 부종은 없었다. D-dimer가 상승되어 있었고, 흉부 X-선에서 우하엽에 침윤이 의심되었다. 임신 중인 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 11,000/μL, 헤모글로빈 10.8 g/dL, 혈소판 195,000/μL, D-dimer 1.8 μg/mL(정상 <0.5)\n동맥혈 가스분석: pH 7.46, PaO2 72 mmHg(실내 공기), PaCO2 30 mmHg, HCO3 22 mEq/L\n흉부 X-선: 우하엽의 쐐기형 침윤, 소량의 흉수\n하지 도플러 초음파: 음성(혈전 없음)",
+  "options": {
+    "A": "지역사회획득 폐렴",
+    "B": "급성 폐색전증",
+    "C": "기관지확장증",
+    "D": "임신 관련 폐부종",
+    "E": "기관지 선종"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 28주 여성으로 갑작스러운 흉부 통증, 호흡곤란, 소량의 객혈을 보이고 있습니다. 최근 장거리 여행력, 빈맥, 빈호흡, D-dimer 상승, 우하엽의 쐐기형 침윤 등의 소견은 급성 폐색전증을 강력히 시사합니다. 임신은 과응고 상태를 유발하는 중요한 위험 인자이며, 임신 중 정맥혈전색전증(VTE)의 위험은 정상인에 비해 4-5배 증가합니다. 장거리 비행기 여행은 추가적인 위험 요소입니다. 폐색전증에서 객혈은 폐경색이 동반될 경우 발생할 수 있으며, 환자의 약 15%에서 관찰됩니다. 하지 도플러 초음파가 음성이더라도 폐색전증을 배제할 수 없는데, 이는 혈전이 이미 떨어져 나갔거나, 심부정맥혈전증 없이 폐색전증이 발생할 수도 있기 때문입니다. 지역사회획득 폐렴(A)도 고려할 수 있으나, 발열이 없고 백혈구 증가가 경미하며, 최근 여행력과 D-dimer 상승 등을 고려하면 폐색전증 가능성이 더 높습니다. 기관지확장증(C)은 만성 질환으로 급성 발현과 맞지 않습니다. 임신 관련 폐부종(D)은 주로 임신 후기나 산후에 발생하며, 양측성 침윤이 특징적입니다. 기관지 선종(E)은 만성 경과를 보이는 종양으로, 이 환자의 급성 증상과 일치하지 않습니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt - Venous thromboembolism (VTE), which includes deep vein thrombosis (DVT) and pulmonary embolism (PE), is a leading cause of maternal mortality in developed countries. Pregnancy induces a hypercoagulable state due to increased levels of coagulation factors, decreased anticoagulant activity, and venous stasis. The risk of VTE during pregnancy is 4-5 times higher than in non-pregnant women of similar age, with the highest risk in the postpartum period. Additional risk factors include previous VTE, thrombophilia, age >35 years, obesity, immobility, long-distance travel, and cesarean delivery. Clinical manifestations of PE during pregnancy include dyspnea, pleuritic chest pain, tachypnea, tachycardia, and occasionally hemoptysis. Diagnosis can be challenging as symptoms may overlap with normal pregnancy symptoms. D-dimer levels rise physiologically during pregnancy, reducing specificity. Compression ultrasonography of the lower extremities is the first-line diagnostic test for suspected DVT, though a negative study does not exclude PE. For suspected PE, chest radiography should be performed first to exclude other causes. If PE remains suspected, ventilation-perfusion (V/Q) scanning is often preferred over CT pulmonary angiography (CTPA) during pregnancy due to lower radiation dose to the maternal breast tissue, though CTPA provides more definitive diagnosis. Management includes anticoagulation with low-molecular-weight heparin (LMWH), which does not cross the placenta and has a lower risk of heparin-induced thrombocytopenia and osteoporosis than unfractionated heparin.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "55세 남성이 대량 객혈로 내원하였다. 환자는 2시간 전 갑자기 500mL 이상의 선홍색 혈액을 기침과 함께 배출하였고, 내원 직전에도 300mL 정도의 추가 출혈이 있었다고 한다. 환자는 20년 전 폐결핵으로 치료받은 병력이 있으며, 최근 6개월간 간헐적인 소량 객혈이 있었으나 검사받지 않았다고 한다. 내원 시 환자는 의식이 혼미했으며, 활력징후는 혈압 85/50mmHg, 맥박 130회/분, 호흡수 32회/분, 산소포화도 82%(비강 캐뉼라 5L/min)였다. 신체 검사에서 양측 폐야에서 수포음이 청진되었고, 좌측 상부 흉부에서 거친 호흡음이 들렸다. 환자는 지속적으로 소량의 선홍색 객혈을 보였다. 이 환자의 응급 처치로 가장 우선적인 것은?",
+  "exam": "혈액 검사: 헤모글로빈 8.5 g/dL, 백혈구 12,500/μL, 혈소판 210,000/μL, PT/INR 1.1, aPTT 32초\n동맥혈 가스분석: pH 7.28, PaO2 52 mmHg(비강 캐뉼라 5L/min), PaCO2 50 mmHg, HCO3 21 mEq/L\n흉부 X-선: 좌상엽의 공동성 병변과 주변 침윤, 양측 폐야의 미만성 침윤(흡인 의심)",
+  "options": {
+    "A": "즉시 수혈 및 혈압 상승제 투여",
+    "B": "기관 삽관 및 환자를 출혈 측 아래로 위치시킴",
+    "C": "기관지 내시경을 통한 국소 에피네프린 주입",
+    "D": "항생제 정맥 투여 후 경과 관찰",
+    "E": "즉시 개흉술 및 폐절제술 시행"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 대량 객혈(800mL 이상)로 인한 급성 호흡부전과 혈역학적 불안정 상태를 보이고 있습니다. 저산소혈증(PaO2 52mmHg), 저혈압(85/50mmHg), 빈맥(130회/분), 의식 혼미 등은 생명을 위협하는 응급 상황임을 시사합니다. 이러한 대량 객혈의 초기 응급 처치에서 가장 우선적인 것은 기도 확보와 환기/산소화 유지입니다. 이를 위해 즉시 기관 삽관을 시행하고, 환자를 출혈 측(이 경우 좌측) 아래로 위치시켜야 합니다. 기관 삽관은 기도를 보호하고 환기를 유지하며, 기관지경 검사와 같은 추가 처치를 가능하게 합니다. 환자를 출혈 측 아래로 위치시키는 것은 건강한 폐로의 혈액 흡인을 방지하는 데 중요합니다. 일단 기도가 확보되면, 수혈과 혈압 상승제(A)와 같은 순환 지지도 중요하지만, 기도 확보가 우선입니다. 기관지 내시경을 통한 국소 에피네프린 주입(C)은 출혈 부위 확인 및 지혈에 도움이 될 수 있으나, 기도 확보 후에 시행해야 합니다. 항생제 투여(D)는 감염 조절에 중요할 수 있으나, 즉각적인 기도 및 순환 관리가 더 긴급합니다. 수술적 치료(E)는 대량 객혈이 보존적 치료에 반응하지 않을 때 고려할 수 있지만, 응급 상황에서 초기 처치로는 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - The initial management of massive hemoptysis focuses on maintaining airway patency, ensuring adequate oxygenation and ventilation, and restoring hemodynamic stability. Patients should be positioned with the bleeding lung in the dependent position to prevent aspiration of blood into the unaffected lung. Intubation is often necessary for airway protection and may be performed with a single-lumen endotracheal tube, though selective intubation of the main bronchus of the non-bleeding lung can be considered in extreme cases. Double-lumen endotracheal tubes allow isolation of the bleeding lung but are technically more difficult to place, especially in emergency situations. After airway stabilization, efforts should be made to localize the source of bleeding. Chest radiography may reveal infiltrates or cavitary lesions, but may not accurately identify the bleeding site if there is aspiration of blood into both lungs. Rigid or flexible bronchoscopy can help locate the bleeding source and provide therapeutic interventions such as local instillation of epinephrine, cold saline lavage, or endobronchial blockade using a Fogarty catheter. Blood volume should be restored with intravenous fluids and blood products as needed. Correction of coagulopathy is essential, using fresh frozen plasma, platelets, or specific factor replacement as indicated. Definitive management typically involves bronchial artery embolization, though surgery may be necessary for localized disease when embolization fails or is unavailable.",
+  "category": "Emergency Medicine"
+}
+
