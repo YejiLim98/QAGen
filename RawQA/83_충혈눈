@@ -1,0 +1,416 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "충혈된 눈",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "23세 남성이 좌측 눈의 충혈과 불편감을 주소로 내원하였다. 환자는 최근 감기 증상이 있었으며, 눈곱이 끼고 가려움증을 호소한다. 세극등 검사에서 결막 충혈과 투명한 분비물이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 결막 충혈, 투명한 분비물, 각막 투명함",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "바이러스 결막염",
+      "C": "세균성 결막염",
+      "D": "녹내장",
+      "E": "포도막염"
+    },
+    "answer": "B",
+    "explanation": "바이러스 결막염은 감기와 같은 상기도 감염 후 발생하는 경우가 많으며, 주로 투명한 분비물과 함께 결막 충혈이 관찰된다. 세균성 결막염은 고름 같은 화농성 분비물이 특징적이며, 알레르기 결막염은 심한 가려움증과 양측성이 흔하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Infections after surgical procedures or penetrating injuries are due most often to S. aureus and occasionally to other gram-positive bacteria or gram-negative bacilli."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "충혈된 눈과 눈부심",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "30세 남성이 충혈된 눈과 눈부심을 주소로 내원하였다. 세극등 검사에서 각막 표면에 염증이 관찰되며, 형광염색 검사에서 상피 결손이 확인되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 각막 혼탁, 형광염색 검사에서 염색 양성",
+    "options": {
+      "A": "포도막염",
+      "B": "결막염",
+      "C": "단순포진 각막염",
+      "D": "녹내장",
+      "E": "공막염"
+    },
+    "answer": "C",
+    "explanation": "단순포진 각막염(HSV keratitis)은 형광염색 검사에서 나뭇가지 모양(dendritic pattern)의 각막 궤양이 특징적이며, 눈부심과 시력 저하를 동반할 수 있다. 치료로는 항바이러스제(acyclovir 또는 valacyclovir)가 필요하며, 스테로이드 점안제는 금기이다.",
+    "source": [
+      {
+        "source_id": "First_Aid_Step2_873",
+        "text": "Ultrasound can help differentiate a cystic from a solid mass."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "충혈된 눈과 화끈거림",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "35세 남성이 3일 전부터 시작된 눈의 충혈과 화끈거림을 주소로 내원하였다. 세극등 검사에서 결막 충혈과 함께 눈꺼풀 가장자리에 작은 농포들이 보였다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 결막 충혈, 눈꺼풀 가장자리 농포, 가벼운 각막 자극 소견",
+    "options": {
+      "A": "포도막염",
+      "B": "세균성 결막염",
+      "C": "안검염",
+      "D": "녹내장",
+      "E": "단순포진 각막염"
+    },
+    "answer": "C",
+    "explanation": "안검염(Blepharitis)은 눈꺼풀 가장자리에 염증이 발생하는 질환으로, 세균 감염(Staphylococcus aureus 등) 또는 지루성 피부염과 연관될 수 있다. 농포와 같은 염증 소견이 관찰되며, 치료로는 온찜질과 항생제 연고 또는 점안액 사용이 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Infections after surgical procedures or penetrating injuries are due most often to S. aureus and occasionally to other gram-positive bacteria or gram-negative bacilli."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "충혈된 눈과 심한 통증",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "40세 남성이 충혈된 눈과 심한 통증을 주소로 응급실에 내원하였다. 시력 저하를 호소하며, 세극등 검사에서 전방 축농이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 결막 충혈, 전방 축농, 윤부 충혈",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "각막궤양",
+      "C": "세균성 결막염",
+      "D": "포도막염",
+      "E": "공막염"
+    },
+    "answer": "D",
+    "explanation": "포도막염(Uveitis)은 전방 축농과 함께 심한 안통을 동반하는 것이 특징이다. 치료로는 국소 스테로이드 점안제와 산동제(cycloplegics) 사용이 필요하며, 근본적인 원인을 찾아야 한다(예: 감염, 자가면역 질환).",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "The identification of these syndromes by careful examination is one of the cardinal skills of the clinical neurologist."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "충혈된 눈과 이물감",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "32세 남성이 충혈된 눈과 눈의 이물감을 주소로 내원하였다. 직업상 용접 작업을 하며, 어제 작업 도중 보호 안경을 착용하지 않았다. 세극등 검사에서 각막 표면에 작은 이물질이 관찰되었다. 가장 적절한 처치는?",
+    "exam": "세극등 검사: 각막 표면에 금속 이물질 확인, 경미한 충혈",
+    "options": {
+      "A": "점안 항생제와 스테로이드 점안제 투여",
+      "B": "점안 마취제 투여 후 면봉으로 이물질 제거",
+      "C": "구강 항생제 투여 후 자연 배출 기다림",
+      "D": "점안 항생제만 처방 후 경과 관찰",
+      "E": "냉찜질과 인공눈물 사용"
+    },
+    "answer": "B",
+    "explanation": "각막 이물질은 점안 마취제 투여 후 면봉이나 이물 제거용 바늘을 이용하여 신속히 제거해야 한다. 이후 점안 항생제를 사용하여 감염을 예방한다. 스테로이드 점안제는 각막 손상 부위를 악화시킬 수 있어 금기이다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Infections after surgical procedures or penetrating injuries are due most often to S. aureus and occasionally to other gram-positive bacteria or gram-negative bacilli."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "충혈된 눈과 눈의 통증",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "55세 여성이 좌측 눈의 충혈과 심한 통증을 주소로 응급실에 내원하였다. 시력이 급격히 저하되었으며, 동공이 확대되고 반응이 느려졌다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 결막 충혈, 각막 부종, 동공 확대 및 반응 저하",
+    "options": {
+      "A": "포도막염",
+      "B": "급성 폐쇄각 녹내장",
+      "C": "세균성 결막염",
+      "D": "각막궤양",
+      "E": "알레르기 결막염"
+    },
+    "answer": "B",
+    "explanation": "급성 폐쇄각 녹내장은 안압 상승으로 인해 심한 안통과 시력 저하를 초래하며, 동공 확대 및 반응 저하가 특징적이다. 응급 안압 강하 치료(acetazolamide 정맥 투여, 점안제 사용)가 필요하다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "The identification of these syndromes by careful examination is one of the cardinal skills of the clinical neurologist."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "충혈된 눈과 삼출물",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "40세 여성이 아침에 일어났을 때 눈이 붙어서 잘 안 떠진다고 호소하며 내원하였다. 눈곱이 많고 충혈이 있으며, 노란색 화농성 분비물이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "신체검사: 결막 충혈, 화농성 분비물",
+    "options": {
+      "A": "바이러스 결막염",
+      "B": "세균성 결막염",
+      "C": "알레르기 결막염",
+      "D": "공막염",
+      "E": "포도막염"
+    },
+    "answer": "B",
+    "explanation": "세균성 결막염은 화농성(노란색 또는 녹색) 분비물과 함께 눈꺼풀 붙음 현상이 특징적이다. 원인균으로는 S. aureus, S. pneumoniae, H. influenzae 등이 흔하며, 국소 항생제 점안제(예: moxifloxacin)를 사용하여 치료한다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10392",
+        "text": "S. aureus and gram-negative bacilli. Tumor necrosis factor inhibitors predispose to mycobacterial infections and could be associated with septic arthritis."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "충혈된 눈과 눈부심",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "27세 남성이 충혈된 눈과 눈부심을 주소로 내원하였다. 최근 야외에서 오랜 시간 활동한 후 증상이 시작되었으며, 세극등 검사에서 각막 표면에 미세한 점상 결손이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 각막 표면의 미세한 점상 결손, 결막 충혈",
+    "options": {
+      "A": "포도막염",
+      "B": "자외선 각막염",
+      "C": "세균성 결막염",
+      "D": "안구건조증",
+      "E": "급성 녹내장"
+    },
+    "answer": "B",
+    "explanation": "자외선 각막염(Photokeratitis)은 강한 자외선 노출(예: 용접, 스키, 해변 활동) 후 수 시간 내 발생하는 통증, 눈부심, 충혈이 특징적이다. 치료로는 냉찜질, 인공눈물, NSAIDs 점안제 등이 사용된다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Infections after surgical procedures or penetrating injuries are due most often to S. aureus and occasionally to other gram-positive bacteria or gram-negative bacilli."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "충혈된 눈과 두통",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "45세 남성이 좌측 눈의 충혈과 심한 두통을 주소로 응급실에 내원하였다. 시력 저하와 함께 구역 및 구토를 동반하였으며, 검안경 검사에서 시신경 부종이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "검안경 검사: 시신경 유두 부종, 결막 충혈",
+    "options": {
+      "A": "포도막염",
+      "B": "두개내압 상승",
+      "C": "알레르기 결막염",
+      "D": "바이러스 결막염",
+      "E": "급성 녹내장"
+    },
+    "answer": "B",
+    "explanation": "두개내압 상승(Increased Intracranial Pressure, ICP)은 시신경 유두 부종, 심한 두통, 구토를 동반할 수 있다. 원인 감별을 위해 뇌 영상 검사가 필요하며, 치료는 원인 질환에 따라 결정된다.",
+    "source": [
+      {
+        "source_id": "First_Aid_Step2_873",
+        "text": "Ultrasound can help differentiate a cystic from a solid mass."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "충혈된 눈과 흐린 시야",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "60세 남성이 좌측 눈의 충혈과 점진적인 시력 저하로 내원하였다. 세극등 검사에서 전방 축농과 후방유리체 혼탁이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 전방 축농, 후방 유리체 혼탁",
+    "options": {
+      "A": "포도막염",
+      "B": "세균성 결막염",
+      "C": "알레르기 결막염",
+      "D": "안구 내염",
+      "E": "급성 녹내장"
+    },
+    "answer": "D",
+    "explanation": "안구 내염(Endophthalmitis)은 심각한 안구 감염으로, 수술 후 또는 외상 후 발생할 수 있다. 즉각적인 항생제 치료와 경우에 따라 유리체 절제술이 필요하다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10392",
+        "text": "S. aureus and gram-negative bacilli. Tumor necrosis factor inhibitors predispose to mycobacterial infections and could be associated with septic arthritis."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "충혈된 눈과 안구통",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "42세 남성이 충혈된 눈과 심한 안구통을 주소로 내원하였다. 시력 저하를 동반하며, 세극등 검사에서 공막 주위의 심한 충혈과 통증이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 공막 주변 심한 충혈, 안구 눌렀을 때 통증 증가",
+    "options": {
+      "A": "포도막염",
+      "B": "각막염",
+      "C": "공막염",
+      "D": "알레르기 결막염",
+      "E": "급성 녹내장"
+    },
+    "answer": "C",
+    "explanation": "공막염(Scleritis)은 심한 안구통과 공막 주위의 깊은 충혈을 동반하는 질환으로, 류마티스 관절염 등의 자가면역 질환과 연관될 수 있다. 치료는 스테로이드 또는 면역억제제 사용이 필요하다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "The identification of these syndromes by careful examination is one of the cardinal skills of the clinical neurologist."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "충혈된 눈과 시력 저하",
+    "purpose": "충혈눈이 있는 사람에게서 병력청취와 신체진찰을 통해 원인을 알아낼 수 있다.",
+    "question": "33세 여성이 충혈된 눈과 함께 점진적인 시력 저하를 주소로 내원하였다. 과거력상 다발성 경화증을 진단받았으며, 색각 이상과 안구 운동 시 통증을 동반한다. 가장 가능성이 높은 진단은?",
+    "exam": "신체검사: 안구 운동 시 통증, 색각 저하, 상대적 동공운동 이상(RAPD)",
+    "options": {
+      "A": "급성 녹내장",
+      "B": "공막염",
+      "C": "시신경염",
+      "D": "바이러스 결막염",
+      "E": "포도막염"
+    },
+    "answer": "C",
+    "explanation": "시신경염(Optic Neuritis)은 다발성 경화증과 연관이 많으며, 시력 저하, 색각 이상, 안구 운동 시 통증, 상대적 동공운동 이상(RAPD)이 특징적이다. 치료는 스테로이드 정맥 투여가 권장된다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10392",
+        "text": "S. aureus and gram-negative bacilli. Tumor necrosis factor inhibitors predispose to mycobacterial infections and could be associated with septic arthritis."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "충혈된 눈과 시력 저하",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "45세 남성이 오른쪽 눈의 충혈과 심한 통증을 주소로 내원하였다. 시력 저하를 호소하며, 세극등 검사에서 전방 축농이 관찰되었다. 가장 적절한 치료는?",
+    "exam": "세극등 검사: 결막 충혈, 전방 축농, 안압 상승",
+    "options": {
+      "A": "항생제 안약 투여",
+      "B": "스테로이드 점안제 투여",
+      "C": "응급 안압 강하 치료",
+      "D": "냉찜질 및 대증 치료",
+      "E": "안과 외래 경과 관찰"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 급성 폐쇄각 녹내장이 의심되며, 즉각적인 안압 강하 치료가 필요하다. 치료로는 아세타졸아마이드(acetazolamide) 정맥 투여 및 점안제 치료가 포함된다. 세균성 결막염과 달리 녹내장은 신속한 치료가 필요하며, 단순 대증 치료만으로 호전되지 않는다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "The identification of these syndromes by careful examination is one of the cardinal skills of the clinical neurologist."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "충혈된 눈과 눈물 증가",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "28세 여성이 충혈된 눈과 다량의 눈물을 흘리는 증상으로 내원하였다. 최근 감기 증상이 있었으며, 친구 중 한 명도 같은 증상을 경험했다고 한다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 결막 충혈, 투명한 분비물, 각막은 정상 소견",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "바이러스 결막염",
+      "C": "세균성 결막염",
+      "D": "녹내장",
+      "E": "포도막염"
+    },
+    "answer": "B",
+    "explanation": "바이러스 결막염(특히 아데노바이러스 감염)은 고도로 전염성이 있으며, 감기 증상과 함께 발생하는 경우가 많다. 투명한 분비물과 눈물 증가가 특징적이며, 자가 제한적이지만 심한 경우 스테로이드 점안제를 고려할 수 있다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10392",
+        "text": "S. aureus and gram-negative bacilli. Tumor necrosis factor inhibitors predispose to mycobacterial infections and could be associated with septic arthritis."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "충혈된 눈과 눈꺼풀 부종",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "8세 남아가 좌측 눈꺼풀 부종과 충혈을 주소로 내원하였다. 눈 주위가 심하게 부어 있으며, 촉진 시 압통이 있고 눈을 움직이기 어려워한다. 가장 가능성이 높은 진단은?",
+    "exam": "신체검사: 좌측 눈꺼풀의 심한 부종 및 압통, 안구 운동 제한",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "바이러스 결막염",
+      "C": "안와 봉와직염",
+      "D": "안검염",
+      "E": "급성 녹내장"
+    },
+    "answer": "C",
+    "explanation": "안와 봉와직염(orbital cellulitis)은 눈 주위 조직의 심각한 감염으로, 안구 운동 제한과 통증이 특징적이다. 즉각적인 정맥 항생제 치료가 필요하며, 심한 경우 외과적 배농이 필요할 수 있다.",
+    "source": [
+      {
+        "source_id": "First_Aid_Step2_873",
+        "text": "Ultrasound can help differentiate a cystic from a solid mass."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 16,
+    "chief_complaint": "충혈된 눈과 통증",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "50세 여성이 오른쪽 눈의 심한 충혈과 통증으로 내원하였다. 2주 전부터 만성 관절염 치료를 위해 면역억제제를 복용 중이었다. 세극등 검사에서 각막 중심부에 깊은 궤양이 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "세극등 검사: 각막 중심부 궤양, 심한 충혈, 전방 축농",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "각막궤양",
+      "C": "바이러스 결막염",
+      "D": "공막염",
+      "E": "포도막염"
+    },
+    "answer": "B",
+    "explanation": "각막궤양(Corneal Ulcer)은 세균, 바이러스, 곰팡이 감염 등에 의해 발생할 수 있으며, 면역억제제 복용 환자에서 위험이 높다. 치료는 원인균에 따른 항생제 또는 항진균제 점안제 사용이 필수적이다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "The identification of these syndromes by careful examination is one of the cardinal skills of the clinical neurologist."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 17,
+    "chief_complaint": "충혈된 눈과 눈물 증가",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "6개월 된 영아가 지속적인 눈물 흘림과 충혈로 내원하였다. 눈곱이 자주 끼고, 눈 안쪽에 부종이 동반되어 있다. 가장 가능성이 높은 진단은?",
+    "exam": "신체검사: 눈물샘 부위 부종, 누르면 점액성 분비물 배출",
+    "options": {
+      "A": "바이러스 결막염",
+      "B": "세균성 결막염",
+      "C": "선천성 비루관 폐쇄",
+      "D": "알레르기 결막염",
+      "E": "급성 녹내장"
+    },
+    "answer": "C",
+    "explanation": "선천성 비루관 폐쇄(Congenital Nasolacrimal Duct Obstruction)는 신생아에서 흔히 발생하며, 지속적인 눈물 흘림과 점액성 분비물이 특징이다. 치료로는 비루관 마사지와 점안 항생제 사용을 고려하며, 1년 이상 지속 시 비루관 탐침술을 시행할 수 있다.",
+    "source": [
+      {
+        "source_id": "First_Aid_Step2_873",
+        "text": "Ultrasound can help differentiate a cystic from a solid mass."
+      }
+    ],
+    "category": "Ophthalmology"
+  },
+  {
+    "question_id": 18,
+    "chief_complaint": "충혈된 눈과 눈꺼풀 부종",
+    "purpose": "충혈눈이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "15세 남성이 충혈된 눈과 눈꺼풀 부종으로 내원하였다. 최근 감기 증상이 있었으며, 눈꺼풀 아래 결막에 작은 투명한 소포가 다수 관찰되었다. 가장 가능성이 높은 진단은?",
+    "exam": "신체검사: 결막에 투명한 소포 다수, 눈꺼풀 부종",
+    "options": {
+      "A": "알레르기 결막염",
+      "B": "세균성 결막염",
+      "C": "단순포진 결막염",
+      "D": "안검염",
+      "E": "급성 녹내장"
+    },
+    "answer": "C",
+    "explanation": "단순포진 결막염(Herpetic Conjunctivitis)은 단순포진 바이러스(HSV)에 의해 발생하며, 결막 및 눈꺼풀에 작은 투명한 소포가 형성되는 것이 특징적이다. 치료로는 항바이러스 점안제(Acyclovir 또는 Ganciclovir)가 사용된다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_10390",
+        "text": "Infections after surgical procedures or penetrating injuries are due most often to S. aureus and occasionally to other gram-positive bacteria or gram-negative bacilli."
+      }
+    ],
+    "category": "Ophthalmology"
+  }
+]
