@@ -1,0 +1,371 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "만성적인 피로",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "48세 남성이 6개월 전부터 지속된 피로를 주소로 내원하였다. 환자는 매일 8시간 이상 수면을 취하지만 아침에 일어나도 개운하지 않으며, 오후가 되면 더욱 심한 피로감을 느낀다고 한다. 최근 체중이 4kg 감소하였으며, 식욕은 감소하였다. 활력징후는 정상이었으며, 신체진찰에서 특이 소견은 없었다. 환자의 혈액 검사 결과는 다음과 같다.\n\n- 헤모글로빈: 10.2 g/dL (정상: 13.5–17.5)\n- MCV: 72 fL (정상: 80–100)\n- 철: 30 μg/dL (정상: 60–170)\n- 총 철결합능(TIBC): 450 μg/dL (정상: 250–450)\n- 페리틴: 8 ng/mL (정상: 12–300)\n\n이 환자의 피로 원인으로 가장 가능성이 높은 것은?",
+    "exam": "철결핍성 빈혈 소견",
+    "options": {
+      "A": "만성 피로 증후군",
+      "B": "철결핍성 빈혈",
+      "C": "우울증",
+      "D": "갑상선기능저하증",
+      "E": "만성 신질환"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 소견상 철결핍성 빈혈이 의심됩니다. 낮은 헤모글로빈 수치, 저MCV, 낮은 혈청 철 및 페리틴 수치, 증가된 총 철결합능(TIBC)은 철결핍성 빈혈의 전형적인 검사 소견입니다. 철결핍성 빈혈은 피로를 유발하는 주요 원인 중 하나이며, 특히 체중 감소 및 식욕 저하가 동반될 수 있습니다. 만성 피로 증후군은 감염, 스트레스 등이 원인이 될 수 있으며, 특정 혈액 검사 소견 없이 피로가 지속될 때 의심됩니다. 우울증은 일반적으로 정신적 증상이 동반되며, 갑상선기능저하증은 TSH, fT4 검사를 통해 진단됩니다. 만성 신질환은 크레아티닌 및 사구체 여과율(GFR) 감소가 동반됩니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_3997",
+        "text": "Metabolic and endocrine diseases of various types may cause inordinate degrees of lassitude and fatigue. Sometimes there is, in addition, a true muscular weakness. In persons with hypothyroidism with or without frank myxedema, lassitude and fatigue are frequent complaints, as are muscle aches and joint pains."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "최근 3개월 동안 지속되는 피로",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "35세 여성이 최근 3개월 동안 지속되는 피로를 주소로 내원하였다. 환자는 정상 체중을 유지하고 있으며, 식욕 저하나 체중 감소는 없다. 하지만 무기력함과 집중력 저하를 호소하며, 잠을 자도 개운하지 않다고 한다. 신체 진찰상 특이 소견은 없었으나, 혈액 검사 결과에서 다음과 같은 소견이 확인되었다.\n\n- TSH: 8.5 μU/mL (정상: 0.4–4.5)\n- fT4: 0.7 ng/dL (정상: 0.8–1.8)\n\n이 환자의 피로 원인으로 가장 가능성이 높은 것은?",
+    "exam": "갑상선 기능 저하 소견",
+    "options": {
+      "A": "만성 피로 증후군",
+      "B": "갑상선기능저하증",
+      "C": "우울증",
+      "D": "수면무호흡증",
+      "E": "철결핍성 빈혈"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 피로, 무기력함, 집중력 저하를 호소하며, 혈액 검사에서 TSH 상승 및 fT4 감소가 확인되어 갑상선기능저하증(hypothyroidism)이 의심됩니다. 갑상선기능저하증은 피로의 흔한 원인 중 하나이며, 저하된 신진대사로 인해 지속적인 피로감을 유발할 수 있습니다. 만성 피로 증후군은 갑상선 기능 이상 없이 원인이 불명확한 경우 고려됩니다. 우울증은 정신적 증상이 주가 되며, 수면무호흡증은 코골이 및 주간 졸음이 특징적입니다. 철결핍성 빈혈은 낮은 헤모글로빈과 저MCV 소견이 동반됩니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_3997",
+        "text": "Metabolic and endocrine diseases of various types may cause inordinate degrees of lassitude and fatigue. Sometimes there is, in addition, a true muscular weakness. In persons with hypothyroidism with or without frank myxedema, lassitude and fatigue are frequent complaints, as are muscle aches and joint pains."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "최근 6개월간 지속되는 피로와 체중 감소",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "58세 남성이 최근 6개월간 지속되는 피로와 체중 감소(6kg)를 주소로 내원하였다. 환자는 최근 식욕이 감소하고 쉽게 피곤해진다고 하며, 밤에 식은땀이 나고 감기와 비슷한 증상이 반복된다고 한다. 신체 진찰에서 좌측 쇄골상 림프절이 촉지되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- 백혈구: 8,500/mm³ (정상: 4,000–10,000)\n- 헤모글로빈: 11.5 g/dL (정상: 13.5–17.5)\n- 혈소판: 220,000/mm³ (정상: 150,000–450,000)\n- LDH: 310 U/L (정상: 100–250)\n- ESR: 45 mm/hr (정상: 0–20)\n\n이 환자의 피로 원인으로 가장 가능성이 높은 것은?",
+    "exam": "림프절 비대 및 LDH 상승",
+    "options": {
+      "A": "결핵",
+      "B": "림프종",
+      "C": "만성 피로 증후군",
+      "D": "만성 신질환",
+      "E": "갑상선기능항진증"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 체중 감소, 야간 발한, 피로 등의 전신 증상과 함께 좌측 쇄골상 림프절이 촉지되며, LDH 상승 및 ESR 상승이 확인되었습니다. 이는 림프종(lymphoma)의 전형적인 소견으로, 비호지킨 림프종 또는 호지킨 림프종이 의심됩니다. 결핵도 체중 감소와 야간 발한을 유발할 수 있지만, 폐렴 증상이 동반되지 않았으며, 림프절 비대와 높은 LDH 상승이 림프종을 더 시사합니다. 만성 피로 증후군은 감염성 요인이 배제된 경우 고려됩니다. 만성 신질환은 크레아티닌 상승과 관련이 있으며, 갑상선기능항진증은 체중 감소와 피로를 유발할 수 있으나 주로 빈맥과 발한이 특징적입니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1827",
+        "text": "Fatigue, particularly in association with unexplained unintended weight loss, can be a sign of occult malignancy, but this is only rarely identified as causative in patients with unexplained chronic fatigue in the absence of other telltale signs or symptoms."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "아침부터 지속되는 심한 피로",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "40세 여성이 최근 3개월간 아침부터 지속되는 피로를 주소로 내원하였다. 환자는 두통과 어깨 통증을 동반하며, 아침에 일어나도 개운하지 않고 몸이 무겁다고 한다. 신체 진찰에서 전신 압통이 관찰되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- 백혈구: 6,500/mm³ (정상: 4,000–10,000)\n- 헤모글로빈: 12.5 g/dL (정상: 13.5–17.5)\n- CRP: 0.4 mg/dL (정상: <0.5)\n- ESR: 12 mm/hr (정상: 0–20)\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "전신 압통 및 정상 혈액 검사 소견",
+    "options": {
+      "A": "류마티스 관절염",
+      "B": "섬유근통",
+      "C": "갑상선기능저하증",
+      "D": "강직성 척추염",
+      "E": "전신 홍반성 루푸스"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 전신적인 피로와 통증, 특히 전신 압통이 동반된 것이 특징으로, 이는 섬유근통(fibromyalgia)의 전형적인 임상 양상입니다. 섬유근통은 염증성 질환과 달리 혈액 검사에서 염증 수치(CRP, ESR)가 정상이거나 경미한 상승을 보이며, 객관적인 검사 이상 없이 광범위한 근육 통증과 피로를 유발합니다. 류마티스 관절염은 아침 강직과 손가락 관절염이 특징적이며, 염증 수치 상승이 흔합니다. 강직성 척추염은 주로 요추부 강직과 HLA-B27 양성과 연관됩니다. 갑상선기능저하증은 체중 증가, 추위 불내성, 무기력과 같은 증상을 동반하며, 갑상선 기능 검사로 감별할 수 있습니다. 전신 홍반성 루푸스(SLE)는 다발성 장기 침범과 ANA 양성 소견을 보입니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_31569",
+        "text": "In addition to a thorough history, a systematic physical examination is warranted to exclude disorders causing fatigue (e.g., endocrine disorders, neoplasms, heart failure). The heart rate of CFS patients is often slightly above normal. Laboratory tests serve primarily to exclude other diagnoses; no test can diagnose CFS."
+      }
+    ],
+    "category": "Rheumatology"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "3개월 동안 지속되는 피로와 미열",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "45세 남성이 3개월 동안 지속되는 피로와 미열을 주소로 내원하였다. 환자는 간헐적인 관절통과 체중 감소(3kg)를 호소하며, 최근 손가락이 붓고 아침에 뻣뻣해지는 느낌이 있다고 한다. 신체 진찰에서 양측 손가락 관절의 압통과 부종이 관찰되었으며, 혈액 검사 결과는 다음과 같다.\n\n- ESR: 55 mm/hr (정상: 0–20)\n- CRP: 2.5 mg/dL (정상: <0.5)\n- 류마티스 인자(RF): 양성\n- 항CCP 항체: 양성\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "류마티스 인자 및 항CCP 항체 양성, 염증 수치 상승",
+    "options": {
+      "A": "전신 홍반성 루푸스",
+      "B": "류마티스 관절염",
+      "C": "강직성 척추염",
+      "D": "섬유근통",
+      "E": "전신 경화증"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 만성적인 피로와 함께 양측 손가락 관절의 압통 및 부종이 있으며, ESR과 CRP 상승, 류마티스 인자(RF) 및 항CCP 항체 양성이 확인되었습니다. 이는 류마티스 관절염(rheumatoid arthritis, RA)의 전형적인 진단 소견입니다. RA는 만성 염증성 질환으로 관절의 파괴를 초래하며, 초기에는 손가락 및 손목 관절에 주로 영향을 미칩니다. 전신 홍반성 루푸스(SLE)는 다양한 장기 침범과 ANA 양성이 특징이며, 강직성 척추염은 주로 요추부와 천장관절 침범이 특징입니다. 섬유근통은 만성적인 근육통과 압통이 특징이지만, 염증성 마커는 상승하지 않습니다. 전신 경화증(systemic sclerosis)은 피부 경화와 관련된 질환으로 주로 말초 혈관 이상을 동반합니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_3997",
+        "text": "Fatigue and musculoskeletal symptoms are common presenting complaints in patients with autoimmune diseases. Rheumatoid arthritis is characterized by symmetric joint inflammation, morning stiffness, and elevated inflammatory markers."
+      }
+    ],
+    "category": "Rheumatology"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "만성적인 피로와 근력 저하",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "52세 남성이 최근 6개월간 운동 후 심한 피로를 주소로 내원하였다. 계단을 오를 때 숨이 차고 쉽게 지친다고 한다. 환자는 고혈압 병력이 있으며, 최근 발목 부종이 발생했다고 한다. 신체 진찰에서 경정맥 확장과 하지 부종이 관찰되었으며, 심음 청진 시 제3심음(S3)이 들렸다. 혈액 검사 결과는 다음과 같았다.\n\n- BNP: 500 pg/mL (정상: <100)\n- 크레아티닌: 1.1 mg/dL (정상: 0.6–1.3)\n- 헤모글로빈: 13.5 g/dL (정상: 13.5–17.5)\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "BNP 상승 및 제3심음 청진",
+    "options": {
+      "A": "만성 폐쇄성 폐질환",
+      "B": "심부전",
+      "C": "빈혈",
+      "D": "갑상선기능저하증",
+      "E": "신부전"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 운동 후 피로, 숨참, 하지 부종을 호소하며, 신체 진찰에서 경정맥 확장과 제3심음(S3)이 청진되는 등 심부전의 특징적인 임상 양상을 보입니다. BNP 상승은 심부전 진단에 유용한 생체 지표이며, 좌심실 기능 저하를 시사합니다. 만성 폐쇄성 폐질환(COPD)은 호흡곤란과 만성 기침이 특징적이며, 빈혈은 일반적으로 피로를 유발하지만 BNP 상승과 관련이 없습니다. 갑상선기능저하증은 서맥과 체중 증가가 특징이며, 신부전은 크레아티닌 상승이 동반됩니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1827",
+        "text": "Fatigue is one of the most taxing patient-reported symptoms of congestive heart failure and negatively affects quality of life."
+      }
+    ],
+    "category": "Cardiology"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "만성적인 피로와 근력 저하",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "58세 남성이 만성적인 피로와 함께 점진적인 근력 저하를 주소로 내원하였다. 환자는 근육 경련과 삼킴 곤란을 호소하며, 최근 체중이 5kg 감소하였다고 한다. 신체 진찰에서 근위축과 근섬유 다발 수축(fasciculation)이 관찰되었으며, 심부건반사는 항진되어 있었다. 혈액 검사 결과는 다음과 같았다.\n\n- CK (Creatine Kinase): 150 U/L (정상: 22–198)\n- 전해질: 정상 범위\n- 신경전도 검사: 정상\n- 근전도(EMG): 신경원병적 변화 확인\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "근위축, 근섬유 다발 수축, 근전도 이상",
+    "options": {
+      "A": "중증근무력증",
+      "B": "근디스트로피",
+      "C": "근위축성 측삭 경화증",
+      "D": "다발근염",
+      "E": "길랑-바레 증후군"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 진행성 근력 저하, 근위축, 근섬유 다발 수축(fasciculation), 심부건반사 항진 등의 전형적인 근위축성 측삭경화증(ALS, Amyotrophic Lateral Sclerosis) 임상 양상을 보입니다. ALS는 운동신경세포(neuron)의 퇴행성 변화로 인해 상위 및 하위 운동신경 증상이 동시에 나타나는 질환입니다. 중증근무력증(myasthenia gravis)은 반복적인 근육 사용 후 근력 저하가 특징이며, 근섬유 다발 수축이 관찰되지 않습니다. 근디스트로피는 주로 젊은 연령층에서 발생하며, CK 수치가 상승하는 경우가 많습니다. 다발근염(polymyositis)은 주로 근육의 염증을 동반하며, 근력 약화와 CK 상승을 동반합니다. 길랑-바레 증후군(GBS)은 급성으로 진행되며, 감염 후 발생하는 탈수초성 신경병증입니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_3987",
+        "text": "Fatigue and intolerance of exercise (i.e., fatigue with even mild exertion) are prominent manifestations of certain muscle diseases. The most prominent such disorder displaying fatigue and lack of muscular endurance is myasthenia gravis, in which progressively less power is developed with each muscle contraction. Additionally, motor neuron diseases such as ALS present with muscle atrophy, fasciculations, and progressive weakness."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "만성적인 피로와 반복되는 감염",
+    "purpose": "피로를 호소하는 사람에게서 병력, 신체소견, 검사소견을 종합하여 원인질환을 알아낼 수 있다.",
+    "question": "35세 남성이 최근 6개월 동안 지속된 피로와 반복되는 상기도 감염을 주소로 내원하였다. 환자는 체중 감소(4kg)를 경험했으며, 미열과 야간 발한을 동반하고 있다. 신체 진찰에서 다발성 경부 림프절 종대가 확인되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- 백혈구: 2,500/mm³ (정상: 4,000–10,000)\n- 헤모글로빈: 10.5 g/dL (정상: 13.5–17.5)\n- 혈소판: 130,000/mm³ (정상: 150,000–450,000)\n- LDH: 450 U/L (정상: 100–250)\n- CD4+ T세포 수: 180 cells/mm³ (정상: 500–1500)\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CD4 감소 및 림프절 종대",
+    "options": {
+      "A": "만성 림프구성 백혈병",
+      "B": "결핵",
+      "C": "HIV 감염",
+      "D": "림프종",
+      "E": "중증 재생불량성 빈혈"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 만성적인 피로, 체중 감소, 야간 발한, 다발성 림프절 종대 및 면역 저하를 동반하고 있으며, 특히 CD4+ T세포 수가 200 미만으로 감소한 상태입니다. 이는 후천성면역결핍증후군(AIDS)의 전형적인 임상 양상으로, HIV 감염을 강력히 시사합니다. 만성 림프구성 백혈병(CLL)은 림프구 증가가 특징이며, 결핵은 호흡기 증상이 동반될 가능성이 큽니다. 림프종은 비슷한 양상을 보일 수 있으나 CD4 감소가 특징적이지 않습니다. 중증 재생불량성 빈혈은 범혈구 감소증을 보이며, 림프절 종대가 특징적이지 않습니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1826",
+        "text": "Infection Both acute and chronic infections commonly lead to fatigue as part of the broader infectious syndrome. Evaluation for undiagnosed infection as the cause of unexplained fatigue, and particularly prolonged or chronic fatigue, should be guided by the history, physical examination, and infectious risk factors, with particular attention to risk for tuberculosis, HIV, chronic hepatitis B and C, and endocarditis."
+      }
+    ],
+    "category": "Infectious Diseases"
+  },
+
+  {
+    "question_id": 9,
+    "chief_complaint": "낮 동안의 졸음 및 피로",
+    "purpose": "피로를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 남성이 낮 동안의 심한 졸음과 피로를 주소로 내원하였다. 환자는 밤에 7-8시간 수면을 취하지만, 아침에 일어나도 피로가 지속되며 낮 동안 졸음을 참기 어려워한다. 배우자는 환자가 수면 중에 심하게 코를 골고 가끔 숨을 멈추는 것을 관찰했다고 한다. 환자의 BMI는 32 kg/m²이며, 혈압은 140/90 mmHg였다. 가장 적절한 진단 검사는?",
+    "exam": "비만, 고혈압, 수면무호흡 의심 소견",
+    "options": {
+      "A": "다중 수면 잠복기 검사(MSLT)",
+      "B": "야간 수면다원검사(PSG)",
+      "C": "갑상선 기능 검사(TSH, fT4)",
+      "D": "빈혈 검사(헤모글로빈, 페리틴)",
+      "E": "뇌 자기공명영상(MRI)"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 폐쇄성 수면무호흡증(OSA)이 강하게 의심됩니다. 비만, 코골이, 주간 졸음 등의 전형적인 소견이 있으며, 배우자가 무호흡을 관찰한 것이 중요한 단서가 됩니다. 폐쇄성 수면무호흡증의 진단을 위해 가장 적절한 검사는 야간 수면다원검사(PSG)입니다. 다중 수면 잠복기 검사(MSLT)는 기면증을 평가하는 검사이며, 갑상선 기능 저하증은 야간 무호흡을 유발할 수 있지만, 본 환자의 증상을 가장 잘 설명하는 것은 아닙니다. 빈혈 검사는 피로의 원인을 감별하는 데 유용하나, 본 환자의 경우 무호흡과 관련된 특징적인 증상을 보입니다. 뇌 MRI는 구조적 뇌질환을 평가하는 데 유용하지만, 이 경우 1차적으로 필요한 검사는 아닙니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_3994",
+        "text": "The sleep apnea syndrome is an important and often overlooked cause of fatigue and daytime drowsiness. In overweight men who snore loudly and need to nap frequently, testing for sleep apnea is indicated."
+      }
+    ],
+    "category": "Pulmonology (Respiratory Medicine)"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "만성적인 피로와 근력 저하",
+    "purpose": "피로를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "62세 남성이 만성적인 피로와 함께 점진적인 근력 저하를 주소로 내원하였다. 최근 몇 개월 동안 계단을 오르기가 힘들어졌으며, 팔을 위로 들어 올리는 것도 어려워졌다고 한다. 신체 진찰에서 사지 근력이 저하되어 있었으며, 심부건반사는 정상 범위였다. 혈액 검사 결과 다음과 같은 소견이 확인되었다.\n\n- CK (Creatine Kinase): 850 U/L (정상: 22–198)\n- 항핵항체 (ANA): 양성\n- 항Jo-1 항체: 양성\n\n이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "근력 저하 및 염증성 근육 질환 의심 소견",
+    "options": {
+      "A": "중증근무력증",
+      "B": "근막통 증후군",
+      "C": "다발근염",
+      "D": "근위축성 측삭 경화증",
+      "E": "갑상선기능저하증"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 점진적인 근력 저하와 만성 피로를 호소하며, CK 수치 증가 및 항Jo-1 항체 양성이 확인되었습니다. 이는 다발근염(polymyositis)의 전형적인 소견으로, 근육의 염증성 병변이 원인이 되어 피로와 근력 저하를 유발할 수 있습니다. 중증근무력증은 반복 사용 시 근력 감소가 특징이며 CK 상승이 동반되지 않습니다. 근막통 증후군은 국소적인 근육 통증이 주요 증상이며, 근위축성 측삭 경화증(ALS)은 점진적인 근력 소실이 특징이지만 염증성 검사 소견이 없습니다. 갑상선기능저하증은 CK 상승이 동반될 수 있으나, 특이적인 항체 소견 없이 서서히 진행되는 전신 피로가 주된 증상입니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_3987",
+        "text": "Not unexpectedly, fatigue and intolerance of exercise (i.e., fatigue with even mild exertion) are prominent manifestations of certain muscle disease. The most prominent such disorder displaying fatigue and lack of muscular endurance is myasthenia gravis, in which progressively less power is developed with each muscle contraction."
+      }
+    ],
+    "category": "Rheumatology"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "오후에 심해지는 피로",
+    "purpose": "피로를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "26세 여성이 오후가 되면 점점 심해지는 피로와 눈꺼풀이 처지는 증상을 주소로 내원하였다. 환자는 최근 몇 개월 동안 반복적으로 같은 증상이 발생했으며, 밤이 되면 증상이 심해진다고 한다. 신체 진찰에서 눈꺼풀 내림 현상이 관찰되었으며, Ice Pack Test를 시행한 결과 일시적인 증상 호전이 확인되었다. 다음으로 시행해야 할 적절한 검사는?",
+    "exam": "오후에 악화되는 피로 및 Ice Pack Test 양성 반응",
+    "options": {
+      "A": "갑상선 기능 검사",
+      "B": "신경전도 검사 및 반복 자극 검사",
+      "C": "철결핍성 빈혈 검사",
+      "D": "수면다원검사",
+      "E": "뇌 MRI"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 오후에 악화되는 피로와 눈꺼풀 처짐(ptosis), 그리고 Ice Pack Test에서 일시적인 증상 호전이 나타나 중증근무력증(myasthenia gravis, MG)이 의심됩니다. 중증근무력증은 신경근 접합부에서 아세틸콜린 수용체에 대한 항체에 의해 유발되는 자가면역 질환이며, 반복적인 근육 사용 후 피로가 심해지는 것이 특징입니다. 진단을 위해서는 신경전도 검사 및 반복 자극 검사가 필요하며, 아세틸콜린 수용체 항체 검사도 유용합니다. 갑상선 기능 저하는 피로를 유발할 수 있지만, 특징적인 근육 피로 소견이 없으며, 철결핍성 빈혈은 빈혈 및 저MCV가 동반됩니다. 수면다원검사는 수면무호흡증을 평가하는 데 사용되며, 뇌 MRI는 중추신경계 질환을 감별할 때 고려됩니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_3987",
+        "text": "Not unexpectedly, fatigue and intolerance of exercise (i.e., fatigue with even mild exertion) are prominent manifestations of certain muscle disease. The most prominent such disorder displaying fatigue and lack of muscular endurance is myasthenia gravis, in which progressively less power is developed with each muscle contraction."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "간헐적인 피로와 어지럼증",
+    "purpose": "피로를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "27세 여성이 간헐적인 피로와 어지럼증을 주소로 내원하였다. 최근 몇 개월 동안 앉아 있다가 일어서면 어지럽고 기운이 빠지는 증상이 발생하며, 짧게 실신한 적도 있다고 한다. 신체 진찰에서 혈압이 앉아 있을 때 110/70 mmHg였으나, 기립 후 85/55 mmHg로 감소하였다. 가장 적절한 추가 검사는?",
+    "exam": "기립 시 혈압 감소",
+    "options": {
+      "A": "심전도",
+      "B": "부신 피질 호르몬 검사",
+      "C": "혈액 가스 분석",
+      "D": "뇌 MRI",
+      "E": "수면다원검사"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 기립 시 혈압 저하와 피로, 어지럼증을 동반하는 것이 특징적이며, 이는 부신기능저하증(adrenal insufficiency)에서 흔히 나타납니다. 부신 피질 호르몬 검사(아침 코르티솔 및 ACTH 자극 검사)를 통해 진단할 수 있습니다. 심전도는 부정맥 감별에 필요할 수 있으나, 기립성 저혈압의 주 원인은 신경계 또는 내분비 문제입니다. 혈액 가스 분석은 산-염기 이상을 평가하는 데 사용되며, 뇌 MRI는 중추신경계 질환을 감별할 때 필요합니다. 수면다원검사는 수면무호흡증 평가에 사용됩니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1824",
+        "text": "Fatigue in association with heat intolerance, sweating, and palpitations is typical of hyperthyroidism. Adrenal insufficiency can also manifest with unexplained fatigue as a primary or prominent symptom, often in association with anorexia, weight loss, nausea, myalgias, and arthralgias; hyponatremia and hyperkalemia may be present at time of diagnosis."
+      }
+    ],
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "급격한 체중 감소와 피로",
+    "purpose": "피로를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "60세 여성이 최근 4개월 동안 7kg의 체중 감소와 지속적인 피로를 주소로 내원하였다. 환자는 밤에 땀을 많이 흘리며, 식욕이 감소하였다고 한다. 신체 진찰에서 간 비대와 촉지 가능한 우측 복부 종괴가 확인되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- AST: 110 U/L (정상: 10–40)\n- ALT: 95 U/L (정상: 7–56)\n- ALP: 320 U/L (정상: 44–147)\n- 총 빌리루빈: 2.3 mg/dL (정상: 0.2–1.2)\n- AFP: 800 ng/mL (정상: <10)\n\n가장 적절한 추가 검사는?",
+    "exam": "간 효소 상승 및 AFP 증가",
+    "options": {
+      "A": "복부 초음파",
+      "B": "간 조직 생검",
+      "C": "PET-CT",
+      "D": "대장 내시경",
+      "E": "혈청 철분 검사"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 체중 감소, 야간 발한, 간 비대 및 간 효소 상승을 보이며, AFP (alpha-fetoprotein) 수치가 증가한 상태입니다. 이는 간세포암(hepatocellular carcinoma, HCC)을 강력히 시사하는 소견입니다. 가장 적절한 추가 검사는 복부 초음파이며, 이를 통해 간 종양을 확인할 수 있습니다. 이후 필요 시 CT 또는 MRI를 통해 종양의 정확한 크기와 혈관 침범 여부를 평가합니다. 간 조직 생검은 조직학적 진단을 위해 필요할 수 있으나, 비침습적 영상 검사로 충분히 진단할 수 있는 경우가 많습니다. PET-CT는 원격 전이를 평가할 때 고려됩니다. 대장 내시경은 대장암 감별에 유용하나, 본 환자의 임상적 특징과 부합하지 않습니다. 혈청 철분 검사는 철결핍성 빈혈 감별에 유용하지만, 본 증례에서는 우선적인 검사가 아닙니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1827",
+        "text": "Fatigue, particularly in association with unexplained unintended weight loss, can be a sign of occult malignancy. Hepatocellular carcinoma should be suspected in patients with liver enzyme elevation and elevated alpha-fetoprotein levels."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "만성적인 피로와 피부 황달",
+    "purpose": "피로를 호소하는 사람에게 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "60세 남성이 3개월 동안 지속되는 피로와 피부 황달을 주소로 내원하였다. 환자는 최근 식욕이 감소하였으며, 대변이 회색빛을 띠고 있다고 한다. 신체 진찰에서 공막 황달이 관찰되었으며, 복부 촉진 시 간 비대가 확인되었다. 혈액 검사 결과는 다음과 같다.\n\n- AST: 120 U/L (정상: 10–40)\n- ALT: 90 U/L (정상: 7–56)\n- ALP: 450 U/L (정상: 44–147)\n- 총 빌리루빈: 5.2 mg/dL (정상: 0.2–1.2)\n- CA 19-9: 350 U/mL (정상: <37)\n\n가장 적절한 추가 검사는?",
+    "exam": "ALP 및 총 빌리루빈 상승, CA 19-9 상승",
+    "options": {
+      "A": "복부 초음파",
+      "B": "복부 CT",
+      "C": "간 조직 생검",
+      "D": "대장 내시경",
+      "E": "간 기능 검사 반복"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 만성적인 피로와 황달을 호소하며, 대변의 회색 변색 및 간 비대가 관찰되었습니다. ALP 및 총 빌리루빈 상승과 함께 CA 19-9 상승이 확인되어 담도 폐쇄 및 췌장암이 강하게 의심됩니다. 이 경우 가장 적절한 추가 검사는 복부 CT로, 췌장 또는 담도의 종괴를 평가할 수 있습니다. 복부 초음파는 초기 검사로 유용할 수 있으나, 정확한 평가를 위해 CT가 필요합니다. 간 조직 생검은 간 실질 질환 평가에 유용하지만, 본 증례에서는 1차 검사가 아닙니다. 대장 내시경은 결장암 평가에 사용되며, 반복적인 간 기능 검사는 진단적 가치가 제한적입니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1827",
+        "text": "Fatigue, particularly in association with unexplained unintended weight loss, can be a sign of occult malignancy."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "야간 발한과 만성 피로",
+    "purpose": "피로를 호소하는 사람에게 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "47세 여성이 6개월간 지속된 피로와 야간 발한을 주소로 내원하였다. 환자는 식욕이 감소하였으며, 최근 체중이 4kg 감소하였다고 한다. 신체 진찰에서 다발성 경부 림프절 종대가 관찰되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- 백혈구: 8,900/mm³ (정상: 4,000–10,000)\n- 헤모글로빈: 11.2 g/dL (정상: 13.5–17.5)\n- 혈소판: 210,000/mm³ (정상: 150,000–450,000)\n- LDH: 320 U/L (정상: 100–250)\n- 말초혈액도말검사: 비정형 림프구 증가\n\n가장 적절한 추가 검사는?",
+    "exam": "경부 림프절 종대 및 LDH 상승",
+    "options": {
+      "A": "흉부 X-ray",
+      "B": "림프절 생검",
+      "C": "뼈 스캔",
+      "D": "복부 초음파",
+      "E": "혈청 철분 검사"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 만성적인 피로, 야간 발한, 체중 감소, 다발성 림프절 비대 및 LDH 상승이 관찰되며, 이는 림프종(lymphoma)의 전형적인 임상 양상입니다. 가장 적절한 추가 검사는 림프절 생검으로, 이를 통해 병리학적 확진을 내릴 수 있습니다. 흉부 X-ray는 흉곽 내 림프절 비대를 평가할 수 있으나 확진을 위한 검사는 아닙니다. 뼈 스캔은 골 전이를 평가하는 데 사용되며, 복부 초음파는 복강 내 림프절 비대를 확인할 수 있지만 확진에 직접적인 도움이 되지 않습니다. 혈청 철분 검사는 철결핍성 빈혈을 감별하는 데 필요하지만, 본 증례에서는 우선적인 검사가 아닙니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1827",
+        "text": "Fatigue, particularly in association with unexplained unintended weight loss, can be a sign of occult malignancy. Lymphoma should be suspected in patients with persistent lymphadenopathy and elevated LDH levels."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 16,
+    "chief_complaint": "전신 피로 및 피부색 변화",
+    "purpose": "피로를 호소하는 사람에게 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "50세 남성이 전신 피로와 피부 색소 침착을 주소로 내원하였다. 환자는 최근 식욕 감소와 체중 감소를 경험했으며, 기립성 어지럼증을 동반하고 있다. 신체 진찰에서 손바닥과 점막 부위의 색소 침착이 관찰되었으며, 혈액 검사 결과는 다음과 같았다.\n\n- 나트륨: 128 mEq/L (정상: 135–145)\n- 칼륨: 5.8 mEq/L (정상: 3.5–5.0)\n- 혈당: 68 mg/dL (정상: 70–110)\n- 코르티솔 (AM): 2.1 µg/dL (정상: 5–25)\n- ACTH: 250 pg/mL (정상: 10–50)\n\n가장 적절한 추가 검사는?",
+    "exam": "저나트륨혈증, 고칼륨혈증, 저혈당 및 ACTH 증가",
+    "options": {
+      "A": "복부 CT",
+      "B": "뇌 MRI",
+      "C": "신경전도 검사",
+      "D": "간 기능 검사",
+      "E": "ACTH 자극 검사"
+    },
+    "answer": "E",
+    "explanation": "이 환자는 피로, 체중 감소, 색소 침착, 기립성 어지럼증과 함께 저나트륨혈증, 고칼륨혈증 및 저혈당을 보이며, 이는 원발성 부신기능저하증(Addison병)의 특징적인 소견입니다. ACTH 증가와 낮은 코르티솔 수치는 부신의 기능 저하를 시사하며, 확진을 위해 ACTH 자극 검사가 필요합니다. 복부 CT는 전이성 부신 질환 평가에 사용될 수 있지만, 1차 검사로는 ACTH 자극 검사가 우선됩니다. 뇌 MRI는 뇌하수체 기능 저하증(이차성 부신기능저하증)을 감별할 때 유용할 수 있습니다. 신경전도 검사는 말초신경병증 감별을 위한 검사이며, 간 기능 검사는 간질환 감별에 사용됩니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_1824",
+        "text": "Adrenal insufficiency can also manifest with unexplained fatigue as a primary or prominent symptom, often in association with anorexia, weight loss, nausea, myalgias, and arthralgias; hyponatremia and hyperkalemia may be present at time of diagnosis."
+      }
+    ],
+    "category": "Endocrinology"
+  }
+]
