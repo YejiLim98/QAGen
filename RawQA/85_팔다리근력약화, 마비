@@ -1,0 +1,417 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "팔다리 근력약화",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "45세 남성이 3일 전부터 점진적으로 진행된 양측 하지 근력 저하로 내원하였다. ...",
+    "exam": "근력검사: 양측 하지 근위부 및 원위부 근력 3/5, 심부건 반사(DTR) 저하. 감각검사 정상. ...",
+    "options": {
+      "A": "길랭-바레 증후군",
+      "B": "중증근무력증",
+      "C": "근이영양증",
+      "D": "다발성 경화증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 최근 상기도 감염 병력이 있으며, 이후 양측 하지의 점진적인 근력 저하 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "길랭-바레 증후군(Guillain-Barré Syndrome, GBS)은 말초신경의 급성 면역매개 탈수초화 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "서서히 진행되는 근력 저하",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "55세 남성이 1년 전부터 점진적으로 진행된 근위부 근력 저하로 내원하였다. ...",
+    "exam": "근전도 검사: 근병증 패턴. 혈청 CK: 1800 U/L. 근육 조직검사: 림프구 침윤 ...",
+    "options": {
+      "A": "다발근염",
+      "B": "중증근무력증",
+      "C": "길랭-바레 증후군",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 점진적인 근위부 근력 저하, 혈청 CK 상승, 근전도상 근병증 양상, 근육 조직검사에서 림프구 침윤이 확인되어 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "다발근염은 림프구 침윤과 근섬유 괴사가 특징이며 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "간헐적인 근력 저하",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "28세 여성이 오후가 되면 심해지는 근력 약화를 주소로 내원하였다. 특히 눈꺼풀 처짐(ptosis)과 ...",
+    "exam": "Ice pack test에서 일시적 증상 호전, 오토면역 항체 양성(AChR-Ab).",
+    "options": {
+      "A": "중증근무력증",
+      "B": "길랭-바레 증후군",
+      "C": "다발성 경화증",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 Ice pack test에서 증상이 호전되는 특징적 소견을 보이며, 이는 중증근무력증 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "중증근무력증은 반복 사용 후 근력 저하, Ice pack test 반응성 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "점진적인 근위부 근력 약화",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "45세 남성이 6개월 전부터 점진적으로 진행되는 근위부 근력 약화로 내원하였다. ...",
+    "exam": "혈청 CK 3000 U/L 상승, 근섬유 변성 및 림프구 침윤 확인됨.",
+    "options": {
+      "A": "다발근염",
+      "B": "중증근무력증",
+      "C": "근이영양증",
+      "D": "루게릭병(ALS)",
+      "E": "길랭-바레 증후군"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 점진적인 근위부 근력 약화, 혈청 CK 상승, 근섬유 변성과 림프구 침윤이 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "다발근염은 림프구 침윤과 근섬유 변성이 특징이며 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "급성으로 발생한 편측 마비",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "68세 남성이 갑작스럽게 발생한 좌측 팔다리 근력 약화로 응급실에 내원하였다. ...",
+    "exam": "좌측 팔다리 근력 2/5, 바빈스키 반사 양성, 심부건 반사 항진, 고혈압 및 심방세동 병력.",
+    "options": {
+      "A": "뇌경색",
+      "B": "길랭-바레 증후군",
+      "C": "중증근무력증",
+      "D": "루게릭병(ALS)",
+      "E": "다발근염"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 갑작스럽게 발생한 편측 마비, 심부건 반사 항진, 바빈스키 반상 양성 등의 상부운동신경원 병변 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6250",
+        "text": "급성으로 발생한 편측 마비와 상부운동신경원 징후 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "급성으로 발생한 하지 마비",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인 부위를 감별할 수 있다.",
+    "question": "33세 남성이 아침에 일어나자마자 양측 하지 마비를 호소하며 응급실에 내원하였다. ...",
+    "exam": "양측 하지 근력 저하(0/5), 심부건 반사 소실, 방광 조절 장애.",
+    "options": {
+      "A": "척수 손상",
+      "B": "길랭-바레 증후군",
+      "C": "중증근무력증",
+      "D": "루게릭병(ALS)",
+      "E": "다발성 경화증"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 외상 병력 이후 급성으로 발생한 하지 마비와 방광 조절 장애를 보이며, 이는 척수 손상의 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "척수 손상은 급성으로 발생하며, 하지 마비와 감각 저하, 방광 기능 장애 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+
+  {
+    "question_id": 7,
+    "chief_complaint": "급성 팔다리 근력저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "56세 남성이 갑작스럽게 발생한 우측 팔다리 근력 저하로 내원하였다. ...",
+    "exam": "혈압 150/95 mmHg, 심박수 82회/분, 심잡음 없음. NIHSS 8점.",
+    "options": {
+      "A": "뇌 MRI",
+      "B": "뇌 CT",
+      "C": "요추천자",
+      "D": "근전도 검사",
+      "E": "혈청 CK 및 Aldolase 검사"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 급성으로 발생한 일측성 근력 저하를 보이며, 이는 뇌혈관 질환(뇌졸중)의 가능성이 높습니다. ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "급성 뇌졸중 평가에서는 비조영 뇌 CT가 가장 먼저 시행 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "급성 하지 마비",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "30세 여성이 갑작스럽게 발생한 양측 하지 마비로 내원하였다. 최근 1주 전 감기 증상을 겪었으며, ...",
+    "exam": "심부건 반사 소실, 감각 정상, 최근 상기도 감염 병력.",
+    "options": {
+      "A": "길랭-바레 증후군",
+      "B": "다발성 경화증",
+      "C": "중증근무력증",
+      "D": "척수병증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 급성 양측 하지 마비, 심부건 반사 소실, 최근 감염 병력 등의 특징을 보이며, ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "길랭-바레 증후군은 급성으로 발생하며, 반사가 소실되고 대칭적인 하지 마비 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "간헐적인 하지 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "35세 남성이 운동 후 악화되는 하지 근력 저하를 주소로 내원하였다. ...",
+    "exam": "혈청 칼륨 2.5 mEq/L, 운동 후 일시적 근력 저하.",
+    "options": {
+      "A": "주기성 마비 (Hypokalemic Periodic Paralysis)",
+      "B": "중증근무력증",
+      "C": "길랭-바레 증후군",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 운동 후 악화되는 근력 저하와 저칼륨혈증이 관찰되며, 이는 주기성 마비의 전형적인 특징입니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "주기성 마비(Hypokalemic Periodic Paralysis)는 운동 후 저칼륨혈증 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "간헐적인 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "40세 남성이 반복적으로 운동 후 악화되는 근력 저하를 주소로 내원하였다. ...",
+    "exam": "혈청 칼륨 2.3 mEq/L, 운동 후 일시적 근력 저하.",
+    "options": {
+      "A": "주기성 마비 (Hypokalemic Periodic Paralysis)",
+      "B": "중증근무력증",
+      "C": "길랭-바레 증후군",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 운동 후 악화되는 근력 저하와 저칼륨혈증이 관찰되며, 이는 주기성 마비(Hypokalemic Periodic Paralysis)의 전형적인 특징입니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "주기성 마비(Hypokalemic Periodic Paralysis)는 운동 후 저칼륨혈증과 함께 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "서서히 진행하는 사지 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "52세 여성이 수개월 전부터 서서히 진행하는 사지 근력 저하로 내원하였다. 신경학적 검사에서 상지 및 ...",
+    "exam": "혈청 CK 3200 U/L, 항-Jo-1 항체 양성, 피부 발진 동반.",
+    "options": {
+      "A": "피부근염",
+      "B": "중증근무력증",
+      "C": "루게릭병(ALS)",
+      "D": "길랭-바레 증후군",
+      "E": "다발성 경화증"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 근위부 근력 약화, 혈청 CK 상승, 항-Jo-1 항체 양성, 피부 발진 등의 특징적 소견으로 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "피부근염은 근병증과 피부 발진을 동반하며, 항-Jo-1 항체 양성이 특징적 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "운동 후 악화되는 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "40세 남성이 반복적으로 운동 후 악화되는 근력 저하를 주소로 내원하였다. ...",
+    "exam": "혈청 칼륨 2.4 mEq/L, 운동 후 일시적 근력 저하.",
+    "options": {
+      "A": "주기성 마비 (Hypokalemic Periodic Paralysis)",
+      "B": "중증근무력증",
+      "C": "길랭-바레 증후군",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 운동 후 악화되는 근력 저하와 저칼륨혈증이 관찰되며, 이는 주기성 마비(Hypokalemic Periodic Paralysis)의 전형적인 특징입니다.",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "주기성 마비(Hypokalemic Periodic Paralysis)는 운동 후 저칼륨혈증과 함께 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "점진적인 팔다리 근력 저하",
+    "purpose": "팔다리 근육마비가 있는 사람에게 응급조치가 필요한 경우를 선별하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "32세 여성이 수개월 전부터 시작된 근위부 근력 약화로 내원하였다. ...",
+    "exam": "혈청 CK: 2500 U/L (정상: 26-192 U/L). 근전도 검사: 근병증 양상. 항-Jo-1 항체 양성.",
+    "options": {
+      "A": "고용량 코르티코스테로이드",
+      "B": "플라스마페레시스",
+      "C": "피리도스티그민",
+      "D": "IVIG",
+      "E": "항콜린제"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 근위부 근력 약화, 혈청 CK 상승, 근전도 검사에서 근병증 양상, 항-Jo-1 항체 양성이 있어 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "다발근염 및 피부근염 환자는 CK 상승, 근병증 양상, 항-Jo-1 항체 양성이 특징적이며 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "점진적인 근위부 근력 약화 및 삼킴 곤란",
+    "purpose": "팔다리 근육마비가 있는 사람에게 응급조치가 필요한 경우를 선별하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "45세 남성이 6개월 전부터 점진적인 근력 약화와 삼킴 곤란을 호소하며 내원하였다. ...",
+    "exam": "근전도 검사: 신경병증 패턴. Babinski sign 양성. 심부건 반사 항진.",
+    "options": {
+      "A": "루게릭병(ALS)",
+      "B": "다발성 경화증",
+      "C": "중증근무력증",
+      "D": "길랭-바레 증후군",
+      "E": "다발근염"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 진행성 근력 저하, 삼킴 곤란, 심부건 반사 항진, Babinski sign 양성 등 상하부 운동신경원 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "ALS는 상하부 운동신경원의 점진적 퇴행성 변화로 인해 근력 저하, 삼킴 곤란 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "점진적인 팔다리 근력 저하",
+    "purpose": "팔다리 근육마비가 있는 사람에게 응급조치가 필요한 경우를 선별하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "62세 남성이 1년 전부터 점진적으로 진행하는 양측 팔다리 근력 약화를 주소로 내원하였다. ...",
+    "exam": "근전도 검사: 신경원성 변화, 바빈스키 반사 양성, 심부건 반사 항진.",
+    "options": {
+      "A": "루게릭병(ALS)",
+      "B": "길랭-바레 증후군",
+      "C": "중증근무력증",
+      "D": "근이영양증",
+      "E": "다발근염"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 점진적인 근력 저하, 근위축, 심부건 반사 항진, 바빈스키 반사 양성 등의 특징을 보이며, ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6250",
+        "text": "ALS는 상부 및 하부 운동신경원의 점진적 퇴행성 변화로 인해 근력 저하와 근위축 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 16,
+    "chief_complaint": "서서히 진행하는 근위부 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "47세 여성이 1년 전부터 서서히 진행하는 근위부 근력 약화와 전신 피로를 주소로 내원하였다. ...",
+    "exam": "혈청 CK 2500 U/L로 상승, 항-Jo-1 항체 양성, 근전도 검사에서 근병증 패턴.",
+    "options": {
+      "A": "다발근염",
+      "B": "중증근무력증",
+      "C": "루게릭병(ALS)",
+      "D": "길랭-바레 증후군",
+      "E": "다발성 경화증"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 근위부 근력 약화, 혈청 CK 상승, 항-Jo-1 항체 양성 등의 특징적 소견을 보이며 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "다발근염은 근병증, 근위부 근력 저하, CK 상승, 항-Jo-1 항체 양성이 특징적 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 17,
+    "chief_complaint": "점진적인 하지 근력 저하 및 감각 이상",
+    "purpose": "팔다리 근육마비가 있는 사람에게 응급조치가 필요한 경우를 선별하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "65세 남성이 수개월 전부터 서서히 진행하는 하지 근력 저하와 감각 저하를 주소로 내원하였다. ...",
+    "exam": "MRI에서 척수 압박 소견 확인, 심부건 반사 항진, 감각 저하.",
+    "options": {
+      "A": "긴급 감압 수술",
+      "B": "고용량 스테로이드 치료",
+      "C": "플라스마페레시스",
+      "D": "피리도스티그민",
+      "E": "면역억제제"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 척수 압박으로 인해 점진적인 하지 근력 약화와 감각 저하를 보이며, 이는 신경학적 응급상황으로 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6245",
+        "text": "척수 압박은 즉각적인 감압 수술이 필요하며 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 18,
+    "chief_complaint": "운동 후 악화되는 하지 근력 저하",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "30세 남성이 운동 후 악화되는 하지 근력 저하를 주소로 내원하였다. ...",
+    "exam": "혈청 칼륨(K) 수치가 2.4 mEq/L로 낮게 측정, 운동 후 일시적 근력 저하.",
+    "options": {
+      "A": "주기성 마비 (Hypokalemic Periodic Paralysis)",
+      "B": "중증근무력증",
+      "C": "길랭-바레 증후군",
+      "D": "근이영양증",
+      "E": "루게릭병(ALS)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 운동 후 악화되는 근력 저하와 저칼륨혈증이 관찰되며, 이는 주기성 마비(Hypokalemic Periodic Paralysis)의 ...",
+    "source": [
+      {
+        "source_id": "Neurology_Adams_6233",
+        "text": "주기성 마비(Hypokalemic Periodic Paralysis)는 운동 후 저칼륨혈증과 함께 ..."
+      }
+    ],
+    "category": "Neurology / Neurosurgery"
+  }
+]
