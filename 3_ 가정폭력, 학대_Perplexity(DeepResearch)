@@ -1,0 +1,189 @@
+{
+  "question_id": 1,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "4세 남아가 양팔과 등, 엉덩이의 다발성 타박상으로 어머니와 함께 응급실에 내원하였다. 어머니는 아이가 어제 놀이터에서 놀다가 미끄럼틀에서 떨어졌다고 설명했다. 그러나 신체 검사에서 다양한 치유 단계의 타박상과 손가락 모양의 압박 자국이 관찰되었다. 아이는 검사 중 위축된 모습을 보였고, 눈 맞춤을 피했다. 병원 방문이 늦은 이유에 대해 어머니는 '아이가 많이 아파 보이지 않아서 기다렸다'고 설명했다. 이 환자에서 아동 학대 가능성을 시사하는 가장 중요한 소견은?",
+  "exam": "신체 검사: 양팔에 다양한 크기와 색깔의 타박상, 등과 엉덩이에 손가락 모양의 압박 자국, 오른쪽 손목에 치유 중인 화상 자국\n방사선 검사: 우측 상완골 원위부에 나선형 골절, 이전 늑골 골절의 골 형성 흔적",
+  "options": {
+    "A": "신체 검사 소견과 제공된 낙상 병력 간의 불일치",
+    "B": "다양한 치유 단계의 타박상",
+    "C": "우측 상완골 원위부의 나선형 골절",
+    "D": "치료를 위해 내원한 시간이 늦은 점",
+    "E": "아이의 위축된 행동"
+  },
+  "answer": "A",
+  "explanation": "아동 학대를 평가할 때 가장 중요한 소견은 신체 검사 소견과 제공된 병력 간의 불일치입니다. 이 사례에서 어머니는 아이가 '어제' 미끄럼틀에서 떨어졌다고 설명했지만, 신체 검사에서는 '다양한 치유 단계의 타박상'이 발견되었습니다. 이는 단일 사건이 아닌 다양한 시기에 발생한 여러 외상을 시사하며, 제공된 병력으로는 설명할 수 없습니다. 또한 손가락 모양의 압박 자국이나 이전 골절의 흔적 역시 단순한 낙상으로는 설명되기 어렵습니다. 다양한 치유 단계의 타박상은 그 자체로 중요한 학대 지표이지만, 이 역시 제공된 병력과의 불일치를 통해 의미를 가집니다. 병력과 신체 검사 소견 간의 불일치는 아동 학대를 의심할 수 있는 가장 기본적이고 중요한 단서입니다. 치료 지연, 이전 골절의 흔적, 아동의 행동 변화도 중요한 학대 지표이지만, 병력과 검사 소견의 불일치가 가장 핵심적인 학대 판단 기준이 됩니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Child physical abuse refers to nonaccidental trauma or injury inflicted on a child. Diagnosis requires a high index of suspicion. Key indicators include injuries inconsistent with the history provided, multiple injuries in various stages of healing, injuries with specific patterns (e.g., cigarette burns, belt marks, grab marks), and delay in seeking care. Physical findings concerning for abuse include bruises in various stages of healing, patterns suggestive of specific injury mechanisms (e.g., grab marks, belt marks), burns with clear demarcation lines, and fractures highly specific for abuse (e.g., metaphyseal fractures, posterior rib fractures, and scapular fractures). Young children with spiral fractures of long bones should be evaluated for abuse, especially when the history is inconsistent with the injury pattern or developmental capabilities of the child.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "85세 여성이 전반적인 쇠약감과 의식 저하로 요양원 직원에 의해 응급실로 이송되었다. 환자는 최근 6개월간 재가 요양 서비스를 받으며 혼자 거주하였고, 주 보호자인 아들이 주 1회 방문하고 있었다. 그러나 방문 간호사의 보고에 따르면 3주간 아들의 방문이 없었으며, 식료품과 약물 공급이 중단되었다고 한다. 신체 검사에서 심한 탈수 상태, 등과 둔부의 3-4단계 욕창, 양측 하지 부종, 전신 영양실조 상태가 관찰되었다. 환자의 체중은 3개월 전보다 8kg 감소했다. 이 환자에서 노인 학대/방임 평가를 위해 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "활력징후: 혈압 90/50mmHg, 맥박 112회/분, 호흡수 24회/분, 체온 35.8°C\n신체 검사: BMI 16.2 kg/m², 피부 및 점막 탈수 소견, 둔부와 천골 부위에 3-4단계 욕창(약 5cm×4cm), 패혈증 의심 소견\n혈액 검사(일부): 백혈구 16,500/μL, 혈색소 9.0 g/dL, 혈소판 95,000/μL, 알부민 2.3 g/dL",
+  "options": {
+    "A": "두경부 CT",
+    "B": "전해질 및 신장 기능 검사",
+    "C": "골밀도 검사",
+    "D": "정신상태 검사(MMSE)",
+    "E": "약물 스크리닝 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 심한 탈수, 영양실조, 다발성 욕창이 있는 상태로 노인 방임의 특징적인 소견을 보입니다. 가장 우선적으로 필요한 검사는 전해질 및 신장 기능 검사입니다. 심한 탈수는 전해질 불균형(특히 나트륨, 칼륨)과 신장 기능 저하를 초래할 수 있으며, 이는 즉각적인 치료가 필요한 생명을 위협하는 상태일 수 있습니다. 탈수, 영양실조, 감염(욕창에서 유래된 패혈증 의심) 상태에서 신장 기능 저하와 전해질 불균형은 흔히 발생하며, 즉각적인 수액 치료와 전해질 교정이 필요합니다. 노인 학대/방임 환자에서는 즉각적인 의학적 안정화가 우선되어야 하며, 다른 검사(두경부 CT, 골밀도 검사, 정신상태 검사, 약물 스크리닝)는 환자의 상태가 안정된 후 시행될 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Elder neglect is the most common form of elder mistreatment, accounting for approximately 60% of cases reported to adult protective services. It is defined as the failure of a designated caregiver to meet the needs of a dependent elderly person. Neglect may be physical (e.g., withholding food, medications, or personal care), emotional, or financial. Signs of neglect include poor hygiene, malnutrition, dehydration, untreated medical conditions, pressure ulcers, contractures, and recurrent falls. Laboratory studies are essential in the evaluation of suspected neglect and should include a complete blood count, comprehensive metabolic panel (including electrolytes, BUN, creatinine, glucose, and albumin), thyroid function tests, and vitamin levels (B12, folate, vitamin D). Electrolyte abnormalities and renal function impairment are particularly common in severely neglected elders due to chronic dehydration and malnutrition. These abnormalities may lead to acute medical emergencies that require immediate intervention before addressing the underlying neglect situation.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 적합한 치료 계획을 세울 수 있다.",
+  "question": "32세 여성이 좌측 안면 타박상과 두통으로 응급실에 내원하였다. 처음에는 집안에서 넘어졌다고 설명했으나, 의사와 단독 면담 중 남편이 술에 취해 얼굴을 때렸다고 고백했다. 환자는 4년 전부터 점점 심해지는 폭력을 경험했으며, 이번이 세 번째 병원 방문이지만 이전에는 항상 사고로 위장했다고 한다. 두 명의 어린 자녀(3세, 6세)가 있으며, 최근 남편이 큰 아이에게도 체벌을 시작했다고 한다. 환자는 경제적으로 남편에게 의존하고 있으며, 분노 조절에 문제가 있는 남편이 이혼을 요구하면 자신과 아이들을 해칠까 두렵다고 말한다. 이 환자에게 가장 적합한 초기 치료 계획은?",
+  "exam": "활력징후: 혈압 135/85mmHg, 맥박 95회/분, 호흡수 18회/분\n신체 검사: 좌측 안면 타박상, 좌측 관골 부위 압통, 목과 상지에 다양한 치유 단계의 타박상\n영상 검사: 안면 CT상 좌측 관골 골절\n위험 평가: 최근 폭력의 빈도 및 심각성 증가, 아동에 대한 폭력 확대, 가해자의 살해 위협, 가해자의 약물 및 알코올 남용",
+  "options": {
+    "A": "골절 치료 후 귀가 조치 및 외래 추적 관찰",
+    "B": "정신건강의학과 협진 및 불안/우울증 약물 치료",
+    "C": "부부 상담 의뢰 및 분노 조절 프로그램 추천",
+    "D": "안전 계획 수립, 법률 지원 및 보호시설 연계",
+    "E": "가정 방문 간호 서비스 연계 및 정기적 모니터링"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 심각한 가정 폭력의 피해자로, 안전 위험도 평가에서 생명을 위협할 수 있는 여러 위험 요소(폭력의 심각성 증가, 아동에 대한 폭력 확대, 살해 위협, 약물/알코올 남용)가 확인되었습니다. 이런 경우 가장 먼저 고려해야 할 것은 환자와 아이들의 안전입니다. 안전 계획을 수립하고, 법률 지원을 제공하며, 보호시설과 연계하는 것이 가장 적절한 초기 치료 계획입니다. 안전 계획에는 비상 연락처, 중요 서류 확보, 안전한 대피 경로, 필수품 준비 등이 포함되어야 합니다. 단순히 신체적 상처를 치료하고 귀가시키는 것은 환자와 아이들을 위험한 환경으로 돌려보내는 것이므로 부적절합니다. 부부 상담이나 분노 조절 프로그램은 가정 폭력 상황, 특히 살해 위협이 있는 경우 초기 중재로 적절하지 않으며 오히려 위험을 증가시킬 수 있습니다. 정신건강의학과 협진은 환자의 정신건강 지원을 위해 필요할 수 있지만, 안전 확보 후에 고려해야 합니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt - Intimate partner violence (IPV) is a serious public health problem that affects millions of Americans. IPV includes physical violence, sexual violence, stalking, and psychological aggression by a current or former intimate partner. Healthcare providers play a crucial role in identifying and supporting victims. When IPV is identified, the priority is ensuring the safety of the victim and any children involved. Risk assessment should evaluate factors such as escalation of violence, threats with weapons, threats to kill, substance abuse by the perpetrator, and extension of violence to children. Immediate interventions include documentation of injuries, safety planning, connection to advocacy services and shelters, and legal assistance (restraining orders, custody arrangements). Couples therapy is contraindicated in active IPV situations as it may increase risk. Mental health services for depression, PTSD, and anxiety should be offered but should not take precedence over safety interventions. Medical professionals are mandated reporters for child abuse but should engage collaboratively with adult victims about reporting requirements while prioritizing safety.",
+  "category": "Psychiatry"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 필요한 가정 내외의 자원 활용방법과 법적, 윤리적 대응방법을 선택할 수 있다.",
+  "question": "7세 여아가 배뇨 시 통증과 성기 출혈로 어머니와 함께 응급실에 내원하였다. 어머니는 최근 이혼했으며, 아이가 전 남편(아이의 아버지)과 주말을 보낸 후 이러한 증상을 호소했다고 한다. 어머니는 아이가 평소와 달리 조용해졌고, 악몽에 시달리며, 아버지와 만나는 것을 두려워한다고 설명했다. 신체 검사에서 외음부 발적과 종창, 처녀막 열상이 관찰되었다. 아이는 조심스럽게 질문했을 때 '아빠가 아래를 만졌다'고 말했으나, 더 이상의 설명은 회피했다. 의사는 아동 성학대가 강력히 의심된다고 판단했다. 이 상황에서 의사의 가장 적절한 법적, 윤리적 대응은?",
+  "exam": "신체 검사: 외음부 발적과 종창, 처녀막 열상, 성기 주변 타박상, 대퇴 내측 타박상\n검사 결과: 성매개감염 검사 진행 중, 법의학적 증거 수집 완료",
+  "options": {
+    "A": "환자와 어머니의 비밀 보장을 위해 사건을 기록만 하고 신고는 보류한다",
+    "B": "어머니에게 경찰에 신고할 것을 권유하고 의사는 진료에만 집중한다",
+    "C": "아동보호기관과 경찰에 즉시 신고하고 법의학적 증거를 보존한다",
+    "D": "아버지와 상담을 통해 상황을 확인한 후 신고 여부를 결정한다",
+    "E": "어머니가 이혼 과정에 있으므로, 허위 신고 가능성을 고려해 추가 증거를 기다린다"
+  },
+  "answer": "C",
+  "explanation": "아동 성학대가 의심되는 경우 의사는 아동보호서비스와 경찰에 즉시 신고할 법적 의무가 있습니다. 이는 '신고 의무자'로서의 의사의 책임이며, 아동의 안전을 최우선으로 고려하는 윤리적 접근입니다. 이 사례에서는 명확한 신체적 증거(외음부 손상, 처녀막 열상)와 아동의 부분적 진술이 성학대 가능성을 강력히 시사합니다. 법의학적 증거 수집과 보존은 법적 절차에 중요하며, 초기에 적절히 수집되어야 합니다. 환자와 가족의 비밀 보장은 일반적인 의료 윤리 원칙이지만, 아동 학대 의심 사례에서는 신고 의무가 우선합니다. 어머니에게만 신고를 맡기거나(B), 가해 의심자와 상담하는 것(D)은 추가적인 위험을 초래할 수 있습니다. 또한 이혼 과정에서의 허위 신고 가능성(E)은 고려할 수 있지만, 명확한 신체적 증거가 있는 경우 즉시 신고하는 것이 아동 보호를 위한 올바른 접근입니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Child sexual abuse (CSA) is defined as the involvement of a child in sexual activity that he or she does not fully comprehend, is unable to give informed consent to, or for which the child is not developmentally prepared. Physical findings that are highly suggestive of sexual abuse include acute lacerations or ecchymosis of the hymen, vaginal lacerations, perianal lacerations extending deep to the external anal sphincter, and forensic evidence confirming the presence of semen or sperm. Healthcare providers are mandated reporters of suspected child abuse and neglect. When CSA is suspected based on disclosure or physical findings, healthcare providers must report to child protective services and/or law enforcement according to state laws. The medical documentation should be detailed and objective, including verbatim statements from the child. Collaboration with specialized forensic interviewers is recommended to minimize repeated questioning. The examination for CSA should include collection of forensic evidence when the abuse occurred within 72 hours, and testing for sexually transmitted infections. The child's safety is the paramount concern, and medical professionals should not attempt to investigate or confirm the identity of the perpetrator before reporting.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "76세 남성이 반복적인 낙상과 체중 감소로 내원하였다. 환자는 경도의 인지 장애가 있으며, 성인 딸과 사위와 함께 살고 있다. 딸은 바쁘다며 병원에 동행하지 않았고 대신 이웃이 환자를 데려왔다. 이웃은 환자가 종종 더러운 옷을 입고 있고, 집 밖에서 혼자 배회하는 것을 보았다고 말했다. 환자는 면담에서 불안해 보였으며, 딸과 사위가 자신의 연금을 관리하면서 식사를 제대로 제공하지 않고, 필요한 당뇨병 약을 구입해주지 않는다고 말했다. 또한 사위가 화가 날 때마다 자신을 '쓸모없는 짐'이라고 부르며 고함을 지른다고 했다. 신체 검사에서 양측 팔에 다양한 단계의 타박상과 영양실조 징후가 관찰되었다. 이 환자에서 가장 의심해야 할 노인 학대 유형은?",
+  "exam": "활력징후: 혈압 145/85mmHg, 맥박 88회/분, 체온 36.3°C\n신체 검사: BMI 17.0 kg/m², 양측 상지에 다양한 단계의 타박상, 둔부에 욕창 1단계, 발의 진균 감염, 구강 위생 불량, 건조한 피부\n검사 결과: 알부민 2.8 g/dL, 헤모글로빈 10.5 g/dL, 혈당 285 mg/dL, HbA1c 9.8%, MMSE 23/30",
+  "options": {
+    "A": "신체적 학대",
+    "B": "정서적 학대",
+    "C": "성적 학대",
+    "D": "방임",
+    "E": "복합적 학대 (방임, 정서적 학대, 재정적 착취)"
+  },
+  "answer": "E",
+  "explanation": "이 사례는 여러 유형의 노인 학대가 복합적으로 나타나는 전형적인 예입니다. 환자의 병력과 검사 결과에서 방임(영양실조, 필요한 당뇨병 약물 미제공, 불량한 구강 위생, 욕창, 조절되지 않는 당뇨병), 정서적 학대('쓸모없는 짐'이라고 부르며 고함), 그리고 재정적 착취(연금 관리를 빌미로 한 경제적 통제)의 증거가 모두 관찰됩니다. 또한 다양한 단계의 타박상은 신체적 학대 가능성도 시사합니다. 노인 학대는 종종 여러 유형이 동시에 발생하며, 포괄적인 평가가 필요합니다. 이 환자의 경우 딸과 사위에 의한 돌봄 부재(방임), 언어적 학대(정서적 학대), 그리고 경제적 자원의 부적절한 사용(재정적 착취)이 복합적으로 발생하고 있으며, 이는 노인 학대의 전형적인 복합 양상입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Elder abuse is a complex phenomenon that involves a combination of physical abuse, psychological or emotional abuse, sexual abuse, financial exploitation, and neglect. Often, multiple forms of abuse coexist in the same setting. Physical abuse involves acts resulting in pain or injury, including hitting, pushing, and inappropriate use of restraints or medications. Psychological abuse includes verbal threats, humiliation, and isolation. Neglect refers to the failure to provide necessities such as food, medication, medical care, and assistance with activities of daily living. Financial exploitation involves the misuse of an elderly person's resources, including theft, fraud, and coerced property transfers. Warning signs of elder abuse include unexplained injuries (bruises, fractures), weight loss, poor hygiene, pressure ulcers, medication nonadherence, frequent emergency department visits, and withdrawal or depression. Risk factors for elder abuse include cognitive impairment, functional dependence, social isolation, caregiver stress, substance abuse by the caregiver, and financial dependence of the caregiver on the elderly person. Physicians should maintain a high index of suspicion for elder abuse when these risk factors are present.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "28세 여성이 갈비뼈 통증으로 응급실에 내원하였다. 환자는 집에서 계단에서 넘어졌다고 설명했다. 이전에도 유사한 낙상으로 3회 응급실을 방문한 기록이 있다. 신체 검사에서 양측 상완과 등에 다양한 단계의 타박상이 관찰되었다. 환자는 간호사가 질문할 때 불안해 보였으며, 동행한 남편이 질문에 대신 답하려는 경향을 보였다. 환자를 단독으로 면담했을 때, 눈물을 흘리며 '도움이 필요하지만 어떻게 해야 할지 모르겠다'고 말했다. 이 환자에게서 가정폭력 피해자를 식별하는 데 가장 중요한 단서는?",
+  "exam": "활력징후: 혈압 130/80mmHg, 맥박 95회/분, 체온 36.5°C\n신체 검사: 우측 하부 갈비뼈 압통, 양측 상완에 다양한 단계의 타박상, 등에 손가락 모양의 압박 자국, 후두부에 2cm 크기의 혈종\n영상 검사: 흉부 X-선 촬영에서 우측 9번, 10번 갈비뼈 골절, 이전 골절 흔적 관찰됨",
+  "options": {
+    "A": "가해자로 의심되는 사람이 면담 내내 환자 곁을 떠나지 않음",
+    "B": "환자가 계단에서 넘어졌다고 일관되게 주장함",
+    "C": "다양한 단계의 타박상과 병력의 불일치",
+    "D": "갈비뼈 골절의 존재",
+    "E": "반복적인 응급실 방문 기록"
+  },
+  "answer": "C",
+  "explanation": "가정폭력 피해자를 식별하는 데 가장 중요한 단서는 신체적 손상의 패턴과 환자가 제공한 병력 간의 불일치입니다. 이 환자의 경우, 계단에서의 단일 낙상으로는 설명하기 어려운 다양한 단계의 타박상, 손가락 모양의 압박 자국, 그리고 다발성 부위의 손상(갈비뼈, 후두부, 등, 상완)이 관찰됩니다. 이러한 불일치는 반복적 외상의 가능성을 강하게 시사합니다. 가해자가 면담에 동석하는 것(A), 반복적 응급실 방문(E), 갈비뼈 골절(D)도 가정폭력을 의심할 수 있는 단서이지만, 손상 패턴과 병력의 불일치가 가장 객관적이고 명확한 지표입니다. 환자가 일관된 설명을 하는 것(B)은 희생자가 위협이나 두려움으로 인해 진실을 말하지 못하는 경우가 많기 때문에 가정폭력을 배제하는 근거가 될 수 없습니다. 추가적으로 환자가 단독 면담에서 도움이 필요하다고 암시한 것은 가정폭력 가능성을 더욱 강화합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Intimate partner violence (IPV) is a pattern of coercive behaviors that may include physical injury, sexual assault, psychological abuse, economic control, isolation, and intimidation perpetrated by someone who is or was involved in an intimate relationship with the victim. Physicians should maintain a high index of suspicion for IPV, especially when there is a mismatch between the reported mechanism of injury and the actual injuries observed. Common physical findings include injuries in various stages of healing, injuries to the head, neck, torso, breasts, abdomen, or genitals, and bilateral or multiple injuries. Behavioral indicators that should raise suspicion include a partner who appears overly protective or controlling, who insists on staying close by and answering questions directed to the patient, or a patient who seems fearful, overly anxious to please their partner, or reluctant to speak in front of them. When IPV is suspected, the patient should be interviewed alone, and direct, nonjudgmental questions should be asked about safety at home. Documentation should be thorough and objective, with detailed descriptions of injuries and the patient's direct quotes.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "2세 남아가 의식저하로 응급실에 내원하였다. 아이는 어머니의 남자친구가 돌보는 동안 침대에서 떨어져 머리를 부딪쳤다고 한다. 내원 시 아이는 기면 상태였으며, 글래스고 혼수 척도(GCS) 11점이었다. 신체 검사에서 두정부의 팽창된 혈종과 망막 출혈이 관찰되었으며, 양측 대퇴부와 등에 다양한 단계의 타박상이 발견되었다. 즉시 두부 CT를 시행하였다. 이 환자에서 아동 학대 가능성을 시사하는 가장 중요한 영상 소견은?",
+  "exam": "활력징후: 혈압 90/60mmHg, 맥박 140회/분, 호흡수 30회/분, 체온 36.7°C\n신체 검사: 의식 저하(GCS 11), 두정부 혈종, 양측 망막 출혈, 양측 대퇴부와 등에 다양한 단계의 타박상\n검사 결과: 혈색소 10.5 g/dL, 혈소판 230,000/μL, PT/INR 정상, 간기능 검사 정상\n두부 CT: 양측성 경막하 혈종, 다양한 연령의 뇌 실질내 출혈, 뇌부종, 두개골 골절 없음",
+  "options": {
+    "A": "경막하 혈종의 존재",
+    "B": "다양한 연령의 뇌 실질내 출혈",
+    "C": "두개골 골절의 부재",
+    "D": "뇌부종",
+    "E": "전체 뇌 용적의 감소"
+  },
+  "answer": "B",
+  "explanation": "이 환자의 경우, 다양한 연령(서로 다른 시기)의 뇌 실질내 출혈이 관찰되는 것이 아동 학대를 가장 강력히 시사하는 소견입니다. 이는 단일 외상으로는 설명할 수 없는 소견으로, 반복적인 두부 외상을 의미합니다. 급성 외상으로 설명된 병력(침대에서 낙상)과 일치하지 않는 이러한 영상 소견은 비사고성 외상의 중요한 증거입니다. 영아 학대와 관련된 두부 외상에서는 '흔들린 아이 증후군(Shaken Baby Syndrome)' 또는 '학대성 두부 외상(Abusive Head Trauma)'을 고려해야 합니다. 이러한 경우 경막하 혈종(A)이 흔히 발견되지만, 단일 손상으로도 발생할 수 있어 단독으로는 학대를 확정할 수 없습니다. 두개골 골절의 부재(C)는 흔들림으로 인한 외상을 시사할 수 있으나, 정상적인 낙상에서도 골절이 없을 수 있습니다. 뇌부종(D)과 뇌 용적 감소(E)는 외상의 중증도나 만성도를 반영할 수 있지만, 학대의 특이적 지표는 아닙니다. 또한 망막 출혈과 경막하 혈종의 조합은 흔들린 아이 증후군의 특징적인 소견이며, 이는 신체 검사와 CT 소견을 종합하여 평가해야 합니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Abusive head trauma (AHT), previously known as shaken baby syndrome, is a serious form of child abuse that involves violent shaking of an infant or young child, leading to brain injury. The classic triad of AHT includes subdural hemorrhage, retinal hemorrhages, and encephalopathy. Neuroimaging findings highly suggestive of AHT include the presence of subdural hemorrhages in multiple locations (e.g., interhemispheric, over the convexities, in the posterior fossa), subdural hemorrhages of different ages (indicating repetitive trauma), and brain injuries in the absence of impact injuries to the scalp or skull (suggesting acceleration-deceleration injury rather than direct impact). MRI is particularly useful in identifying and dating subdural hemorrhages of different ages, which is a critical finding in AHT. The presence of extensive retinal hemorrhages, especially if they are multilayered and extend to the ora serrata, is another important diagnostic finding. The history provided by caregivers in cases of AHT is typically inconsistent with the severity or nature of the injuries observed, such as attributing severe intracranial injuries to minor falls or denying any trauma at all.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 적합한 치료 계획을 세울 수 있다.",
+  "question": "80세 여성이 다발성 타박상과 영양실조로 내원하였다. 환자는 6개월 전 치매 진단을 받았으며, 50세 된 아들과 함께 살고 있다. 아들은 어머니가 자주 넘어지고 식사를 거부한다고 설명했다. 신체 검사에서 다양한 단계의 타박상, 영양실조, 탈수 소견이 관찰되었으며, 등에 손가락 모양의 압박 자국이 있었다. 환자와의 면담 중 아들이 케어에 압도되어 있고 우울감을 호소하며, 어머니를 돌보는 것이 너무 힘들다고 토로했다. 추가 조사 결과 아들은 최근 실직했으며, 알코올 문제가 있는 것으로 확인되었다. 이 상황에서 가장 적절한 초기 치료 계획은?",
+  "exam": "활력징후: 혈압 100/60mmHg, 맥박 92회/분, 체온 36.2°C\n신체 검사: BMI 17.5 kg/m², 다양한 단계의 타박상(양측 상지, 둔부), 등에 손가락 모양의 압박 자국, 피부 탄력도 감소, 구강 점막 건조\n검사 결과: 알부민 2.5 g/dL, 혈색소 10.2 g/dL, BUN 28 mg/dL, 크레아티닌 1.1 mg/dL, MMSE 18/30",
+  "options": {
+    "A": "환자를 퇴원시키고 가정 방문 간호 서비스만 연계한다",
+    "B": "노인보호기관에 신고하고 환자를 아들로부터 즉시 분리한다",
+    "C": "환자 입원, 노인보호기관 신고, 사회복지 및 아들 지원 서비스 연계",
+    "D": "아들에게 간병 교육만 제공한 후 환자를 퇴원시킨다",
+    "E": "경찰에 학대 혐의로 신고하고 아들에 대한 법적 조치를 우선 진행한다"
+  },
+  "answer": "C",
+  "explanation": "이 사례는 노인 학대/방임이 의심되는 상황으로, 법적으로 노인보호기관에 신고해야 하는 의무가 있습니다. 그러나 이 사례에서 돌봄 제공자(아들)의 스트레스, 정신건강 문제(우울감), 경제적 어려움(실직), 그리고 알코올 문제가 학대의 주요 요인으로 작용하고 있음을 고려해야 합니다. 가장 적절한 초기 치료 계획은 환자를 입원시켜 즉각적인 의학적 안정화(영양실조, 탈수 치료)를 제공하고, 법적 의무에 따라 노인보호기관에 신고하며, 동시에 돌봄 제공자인 아들에게 필요한 지원(알코올 치료, 정신건강 지원, 경제적 지원)을 연계하는 것입니다. 이는 단기적으로 환자의 안전을 확보하면서도, 장기적으로 가족 기능 향상과 재학대 방지를 목표로 합니다. 단순히 가정 방문 간호 서비스만 연계하는 것(A)은 환자의 안전을 보장할 수 없으며, 신고와 즉각적인 분리(B)나 법적 조치만 우선시하는 것(E)은 돌봄 제공자의 문제를 해결하지 못해 장기적 솔루션이 되지 못합니다. 간병 교육만 제공하는 것(D)은 현재의 학대 상황과 근본 원인(알코올 문제, 경제적 어려움)을 해결하지 못합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Management of elder abuse requires a multidisciplinary approach addressing both the victim's safety and the caregiver's needs. When elder abuse is identified, healthcare providers should assess the immediate safety of the elderly person, the severity of abuse, and the capacity of the perpetrator to change their behavior. In cases where caregiver stress, substance abuse, or mental health issues contribute to the abuse, interventions should include support and treatment for the caregiver alongside protection for the elder. Resources may include respite care, adult day programs, home health services, counseling, support groups, and substance abuse treatment. When the elderly person requires immediate protection, hospital admission may be necessary to ensure safety while a comprehensive care plan is developed. Reporting requirements for elder abuse vary by jurisdiction, but healthcare providers should be familiar with local laws and reporting procedures. The goal of intervention is to ensure the elder's safety while preserving their autonomy as much as possible, and maintaining family relationships when appropriate and safe. Adult protective services can provide investigation, case management, and referrals to community resources.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 필요한 가정 내외의 자원 활용방법과 법적, 윤리적 대응방법을 선택할 수 있다.",
+  "question": "25세 여성이 3개월 된 영아와 함께 산후 검진을 위해 내원하였다. 여성은 최근에 이혼한 남편과 별거 중이며, 아이의 양육권을 두고 갈등 중이다. 진료 중 여성은 의사에게 '전 남편이 자신을 계속 괴롭히고 있으며, 전화와 문자로 위협하고, 집 주변을 배회한다'고 털어놓았다. 또한 전 남편이 '아이를 데려가겠다'고 협박했으며, 최근에는 그녀의 집에 무단으로 침입한 적도 있다고 했다. 여성은 불안과 공포를 호소하며 도움을 요청했다. 이 환자에게 가장 적절한 법적, 윤리적 조치는?",
+  "exam": "정신상태 검사: 불안 증상(PHQ-9 15점, GAD-7 18점), 외상후 스트레스 장애 선별 검사 양성\n스토킹/위협 평가: 위험 수준 '높음'(전 배우자의 위협적 행동, 집 침입, 아이에 대한 협박)",
+  "options": {
+    "A": "이혼 소송과 관련된 문제이므로 가정법원에 의뢰한다",
+    "B": "위협을 증명할 증거가 부족하므로 더 심각한 상황이 발생할 때까지 기다린다",
+    "C": "가정폭력 상담 센터 의뢰, 법률 지원 연계, 안전 계획 수립을 돕는다",
+    "D": "정신건강의학과 의뢰만 시행한다",
+    "E": "양측 상담을 통한 중재를 시도한다"
+  },
+  "answer": "C",
+  "explanation": "이 사례는 이혼 후 스토킹, 위협, 무단 침입 등 가정폭력의 연장선으로 볼 수 있는 상황입니다. 위험 평가에서 '높음'으로 나타났으며, 아이에 대한 협박까지 포함되어 있어 즉각적인 개입이 필요합니다. 가장 적절한 조치는 가정폭력 상담 센터에 의뢰하고, 법률 지원(접근금지명령 등)을 연계하며, 환자와 아이의 안전 계획을 수립하는 것입니다. 안전 계획에는 비상 연락처, 안전한 대피 경로, 필수 서류 준비, 지역 보호소 정보 등이 포함되어야 합니다. 단순히 가정법원에 의뢰하는 것(A)은 즉각적인 보호 조치가 없어 위험할 수 있으며, 더 심각한 상황을 기다리는 것(B)은 환자와 아이의 안전을 위협합니다. 정신건강 지원(D)은 중요하지만 법적 보호와 안전 계획이 함께 이루어져야 합니다. 가해자와 피해자 간의 중재(E)는 가정폭력 상황에서는 오히려 위험을 증가시킬 수 있어 권장되지 않습니다. 의료인은 가정폭력이 범죄임을 인식하고, 피해자의 안전을 최우선으로 고려하는 윤리적 의무가 있습니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt - Post-separation violence and stalking represent a dangerous extension of intimate partner violence (IPV) that often escalates after a victim attempts to leave an abusive relationship. Stalking involves repeated unwanted attention, harassment, or contact that induces fear or concern for one's safety. In the context of IPV, stalking may include following the victim, appearing at their home or workplace, making unwanted phone calls, sending unwanted messages, and making threats. Such behaviors are associated with increased risk of homicide, particularly during periods of separation or custody disputes. When a patient discloses stalking or post-separation threats, healthcare providers should: (1) validate the patient's concerns and emphasize that such behavior is a crime; (2) conduct a thorough risk assessment, including threats to children or family members; (3) help develop a safety plan that includes changing routines, informing trusted individuals about the situation, securing home safety, and having emergency contacts; (4) connect the patient with legal services for protective orders; (5) document all incidents with dates and specific behaviors; and (6) refer to specialized domestic violence services. Unlike other relationship conflicts, mediation or couples counseling is contraindicated in stalking situations as it may increase danger to the victim.",
+  "category": "Psychiatry"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "12세 여아가 학교에서 갑자기 발생한 불안 발작으로 소아정신과 외래에 내원하였다. 최근 6개월간 성적이 급격히 저하되었고, 수면 장애와 사회적 위축을 보였다. 학교 상담교사는 아이가 불안하고 쉽게 놀라며, 자신감이 부족하고 자존감이 낮다고 보고했다. 신체 검사에서 특이 소견은 없었으나, 면담에서 아이는 눈 맞춤을 피하고 위축된 모습을 보였다. 부모와의 면담에서 아버지는 딸의 행동에 대해 매우 비판적이었으며, '더 열심히 하지 않으면 아무것도 될 수 없을 것'이라고 말했다. 치료 계획 논의 중 아버지는 '내가 안 시키면 공부를 안 한다', '매일 숙제와 시험 성적을 확인한다', '성적이 떨어지면 외출을 금지시키고 하루 종일 공부하게 한다'고 설명했다. 이 사례에서 가장 의심해야 할 학대 유형은?",
+  "exam": "신체 검사: 특이 소견 없음, 신체 학대의 흔적 없음\n심리 검사: 아동 우울 척도(CDI) 상승, 아동 불안 척도(SCARED) 상승, 불안/우울 증상, 외상후 스트레스 장애 선별 검사 양성\n가족 평가: 높은 수준의 학업적 기대, 엄격한 훈육, 자녀의 정서적 욕구에 대한 인식 부족",
+  "options": {
+    "A": "신체적 학대",
+    "B": "성적 학대",
+    "C": "정서적 학대",
+    "D": "방임",
+    "E": "학대의 증거 없음"
+  },
+  "answer": "C",
+  "explanation": "이 사례는 정서적 학대의 특징적인 양상을 보여줍니다. 정서적 학대는 아동의 정서적, 심리적 발달에 부정적인 영향을 미치는 행동 패턴으로, 지속적인 비난, 위협, 굴욕, 거부, 고립, 과도한 압박 등이 포함됩니다. 이 환자의 경우, 아버지의 지속적인 비판적 태도, 과도한 학업적 기대와 압박, 아이의 정서적 욕구 무시, 성적에 따른 심리적 처벌(외출 금지, 강제 학습) 등이 정서적 학대에 해당합니다. 이러한 행동은 아동에게 불안, 우울, 낮은 자존감, 학업 성적 저하, 사회적 위축 등의 심리적 영향을 미칠 수 있습니다. 신체적 학대(A)나 성적 학대(B)의 명확한 증거는 없습니다. 방임(D)은 아동의 기본적 필요(영양, 안전, 의료, 교육 등)를 제공하지 않는 것을 의미하는데, 이 사례에서는 오히려 과도한 개입이 문제입니다. '학대의 증거 없음'(E)은 명백한 정서적 학대 징후를 고려할 때 적절하지 않습니다. 정서적 학대는 신체적 흔적을 남기지 않아 식별하기 어려울 수 있지만, 아동의 심리적, 행동적 변화와 부모-자녀 상호작용 패턴을 주의 깊게 관찰함으로써 평가할 수 있습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Psychological or emotional abuse involves a repeated pattern of caregiver behavior that conveys to children that they are worthless, flawed, unloved, unwanted, endangered, or only of value in meeting another's needs. Forms of emotional abuse include spurning (belittling, degrading, rejecting), terrorizing (threatening harm), exploiting/corrupting (modeling antisocial behavior), denying emotional responsiveness (ignoring, failing to express affection), isolating (confining, placing unreasonable limitations), and mental health/medical/educational neglect (refusing or failing to provide necessary treatment). Signs and symptoms of emotional abuse may include anxiety, depression, withdrawal, fearfulness, low self-esteem, decline in school performance, sleep disturbances, and age-inappropriate behaviors. While emotional abuse may occur alone, it commonly accompanies other forms of maltreatment and amplifies their negative effects. The diagnosis relies on careful observation of parent-child interactions, a comprehensive assessment of the child's functioning across multiple domains, and collateral information from schools and other caregivers. The long-term consequences of emotional abuse can be as severe as those of other forms of maltreatment, including increased risk for psychiatric disorders, substance abuse, and relationship difficulties.",
+  "category": "Psychiatry"
+}
