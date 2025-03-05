@@ -50,7 +50,7 @@ Orthopedic Surgery
 Emergency Medicine
 Urology
 
-시험문제를 100개 문항 정도 만들어줘. LLM 모델을 fine tuning하기 위한 QA set이기 때문에 JSON 파일 형태로 출력해주면 더 좋을 것 같아.
+시험문제를 5개 문항 정도 만들어줘. LLM 모델을 fine tuning하기 위한 QA set이기 때문에 JSON 파일 형태로 출력해주면 더 좋을 것 같아. # 토큰 수 제한으로 자꾸 끊겨서 10개 문항에서 5개 문항으로 변경함.
 
 절대 외부 자료 검색하지 말고 내가 보내준 자료만 참고해
 
