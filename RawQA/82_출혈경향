@@ -1,0 +1,416 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "잦은 코피 및 잇몸 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "35세 남성이 잦은 코피와 잇몸 출혈을 주소로 내원하였다. 환자는 어릴 때부터 쉽게 멍이 들었으며, 가족 중에 유사한 병력이 있는 사람이 있다고 한다. 신체검사에서 점상 출혈과 멍이 다수 관찰되었다. 다음 중 이 환자의 출혈 경향의 가장 가능성이 높은 원인은?",
+    "exam": "혈소판 수: 25,000/mm³ (정상: 150,000~450,000/mm³), PT: 정상, aPTT: 정상",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "특발성 혈소판 감소성 자반증",
+      "D": "파브리병",
+      "E": "DIC (파종성 혈관내 응고)"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 점상 출혈 및 낮은 혈소판 수치를 보이며, PT와 aPTT는 정상입니다. 이는 혈소판 감소와 관련된 출혈경향을 시사하며, 특히 가족력이 있는 경우 특발성 혈소판 감소성 자반증(ITP)이 가장 가능성이 높습니다. 혈우병 A와 B는 응고인자 결핍으로 인한 출혈 질환으로 aPTT가 연장될 가능성이 높으며, DIC는 혈소판 감소와 함께 PT와 aPTT 모두 연장되는 특징을 보입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_737",
+        "text": "Primary immune thrombocytopenia is also known as idiopathic thrombocytopenic purpura (ITP). In children, it is usually acute in onset, short lived, and typically follows a viral illness. In contrast, ITP in adults is gradual in onset, chronic in nature, and has no identifiable cause."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "잦은 코피 및 멍이 잘 듦",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "10세 남아가 잦은 코피와 멍이 잘 드는 증상으로 내원하였다. 가족력에서 아버지가 비슷한 증상을 경험한 적이 있다고 한다. 혈액검사에서 혈소판 수치는 정상이나 출혈시간이 연장되어 있으며, 응고 인자 검사에서 특정 인자의 활성도가 감소되어 있다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "PT: 정상, aPTT: 연장, 혈소판 수: 정상, 출혈시간: 연장",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "von Willebrand 병",
+      "D": "파종성 혈관내 응고",
+      "E": "혈전성 혈소판 감소성 자반증"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 정상 혈소판 수치를 가지면서 출혈시간이 연장되고 aPTT가 증가한 점에서 혈우병보다는 von Willebrand 병(vWD)을 시사한다. vWD는 vWF의 기능 이상으로 인해 혈소판 부착 및 혈액응고 과정이 저하되어 출혈 경향을 보인다. vWD는 상염색체 우성 유전으로 가족력이 있는 경우가 많다.",
+    "source": [
+      {
+        "source_id": "Pathology_Robbins_2949",
+        "text": "Deficiencies of platelets (thrombocytopenia) also are an important cause of bleeding. These occur in a variety of clinical settings that are discussed later. Other bleeding disorders stem from qualitative defects in platelet function. Such defects may be acquired, as in uremia and certain myeloproliferative disorders and after aspirin ingestion; or inherited, as in von Willebrand disease and other rare congenital disorders."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "수술 후 지속적인 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "65세 남성이 대장암 절제술을 받은 후 지속적인 출혈이 발생하였다. 수술 전 혈액검사에서 혈소판 수치와 PT, aPTT가 모두 정상 범위였다. 그러나 수술 중 과다 출혈로 인해 다량의 수혈을 받았다. 현재 혈액검사에서 혈소판 수치가 감소하고, PT와 aPTT가 연장되어 있으며, 섬유소분해산물(FDP)이 증가되어 있다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 50,000/μL, PT: 연장, aPTT: 연장, FDP: 증가, D-dimer: 증가",
+    "options": {
+      "A": "파종성 혈관내 응고(DIC)",
+      "B": "혈우병 A",
+      "C": "항인지질 항체 증후군",
+      "D": "혈전성 혈소판 감소성 자반증",
+      "E": "간질환에 의한 응고 장애"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 대량 수혈 후 혈소판 감소, PT 및 aPTT 연장, FDP 및 D-dimer 상승이 관찰되며 이는 파종성 혈관내 응고(DIC)를 강하게 시사한다. DIC는 과다 출혈, 패혈증, 외상 등에 의해 유발될 수 있으며, 전신적인 응고 활성화와 섬유소 용해 과정이 동시에 진행되어 출혈과 미세혈전 형성이 동반된다.",
+    "source": [
+      {
+        "source_id": "Pathology_Robbins_2948",
+        "text": "Bleeding also can be triggered by systemic conditions that inflame or damage endothelial cells. If severe enough, such insults convert the vascular lining to a pro-thrombotic surface that activates coagulation throughout the circulatory system, a condition known as disseminated intravascular coagulation (DIC)."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "경미한 외상 후 지속적인 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "25세 여성이 계단에서 넘어져 경미한 타박상을 입었으나 이후 멍이 심하게 들고 출혈이 쉽게 멈추지 않는다고 내원하였다. 가족력에서 어머니도 출혈 경향이 있다고 하였다. 혈액검사 결과 PT와 aPTT는 정상이나, 출혈시간이 연장되어 있었다. 가장 가능성 높은 진단은?",
+    "exam": "PT: 정상, aPTT: 정상, 혈소판 수: 정상, 출혈시간: 연장",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "Glanzmann 혈소판무력증",
+      "D": "Bernard-Soulier 증후군",
+      "E": "Von Willebrand 병"
+    },
+    "answer": "C",
+    "explanation": "Glanzmann 혈소판무력증은 혈소판의 응집 기능 장애로 인해 출혈시간이 연장되지만 PT와 aPTT는 정상으로 유지되는 특징이 있다. 이는 혈소판의 GpIIb/IIIa 수용체의 기능 이상으로 인한 질환으로, 출혈 경향이 가족력과 연관될 수 있다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1032",
+        "text": "Glanzmann thrombasthenia is a rare autosomal recessive disorder characterized by a defect in platelet aggregation due to a deficiency or dysfunction of the glycoprotein IIb/IIIa complex."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "잇몸 출혈 및 혈뇨",
+    "purpose": "출혈경향이 있는 사람에게 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "40세 남성이 잇몸 출혈과 혈뇨로 내원하였다. 환자는 최근 바이러스 감염을 앓았으며, 이후 피부에 점상출혈(petechiae)이 나타났다. 혈액검사에서 혈소판 수치는 15,000/μL로 감소되어 있고, PT와 aPTT는 정상 범위였다. 이 환자에게 가장 적절한 초기 치료는?",
+    "exam": "혈소판 수: 15,000/μL, PT: 정상, aPTT: 정상, 출혈시간: 연장",
+    "options": {
+      "A": "신선동결혈장(FFP) 투여",
+      "B": "혈소판 수혈",
+      "C": "코르티코스테로이드 치료",
+      "D": "저분자량 헤파린 투여",
+      "E": "비타민 K 투여"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 면역성 혈소판 감소성 자반증(ITP)의 전형적인 임상 양상을 보인다. ITP는 바이러스 감염 이후 발생하는 자가면역 질환으로, 혈소판 파괴가 증가하여 출혈 경향이 나타난다. 초기 치료는 코르티코스테로이드 투여이며, 심한 경우 면역글로불린(IVIG) 또는 혈소판 수혈이 필요할 수 있다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1040",
+        "text": "Idiopathic thrombocytopenic purpura (ITP) is an immune-mediated disorder characterized by increased platelet destruction and impaired platelet production. Initial treatment includes corticosteroids and, in severe cases, IVIG or platelet transfusion."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "무릎 관절 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "8세 남아가 경미한 외상 후 무릎 관절 부위에 심한 부종과 통증을 호소하며 내원하였다. 가족력에서 외삼촌이 비슷한 증상을 보인 적이 있다. 혈액검사에서 PT는 정상이나, aPTT가 연장되어 있으며 혈소판 수치는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "PT: 정상, aPTT: 연장, 혈소판 수: 정상",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "von Willebrand 병",
+      "D": "항인지질 항체 증후군",
+      "E": "파종성 혈관내 응고(DIC)"
+    },
+    "answer": "A",
+    "explanation": "혈우병 A는 응고 인자 VIII의 결핍으로 인해 발생하는 X-연관 열성 유전 질환이며, 주로 남아에서 나타난다. 특징적으로 aPTT가 연장되지만 PT는 정상이며, 혈소판 수치도 정상이다. 관절 내 출혈(hemarthrosis)이 흔한 임상 소견이다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1101",
+        "text": "Hemophilia A is an X-linked recessive disorder caused by a deficiency of factor VIII. It is characterized by prolonged aPTT with normal PT and platelet count, and spontaneous joint bleeding is a common manifestation."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "소화기 출혈 및 멍이 잘 듦",
+    "purpose": "출혈경향이 있는 사람에게 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "60세 남성이 수개월 전부터 지속되는 쉽게 멍이 들고 잇몸 출혈이 발생하며, 최근에는 검은색 변을 보았다고 내원하였다. 환자는 만성 간경변증을 앓고 있다. 혈액검사에서 PT와 aPTT가 모두 연장되어 있고, 혈소판 수치도 감소되어 있다. 이 환자의 출혈 경향에 대한 가장 적절한 치료는?",
+    "exam": "혈소판 수: 80,000/μL, PT: 연장, aPTT: 연장, 섬유소원 감소",
+    "options": {
+      "A": "비타민 K 투여",
+      "B": "혈소판 수혈",
+      "C": "신선동결혈장(FFP) 투여",
+      "D": "항혈소판제 투여",
+      "E": "저분자량 헤파린 투여"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 간질환에 의한 응고 장애로 인해 출혈 경향이 나타나고 있다. 간은 응고 인자의 주요 합성 기관이며, 간경변이 심화되면 응고 인자 생산이 감소하여 PT와 aPTT가 연장될 수 있다. 신선동결혈장(FFP)에는 여러 응고 인자가 포함되어 있어 이러한 환자의 출혈 조절에 효과적이다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1120",
+        "text": "Liver disease can lead to a coagulopathy due to impaired production of clotting factors. In such cases, fresh frozen plasma (FFP) can provide the necessary clotting factors to help control bleeding."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "여성의 월경과다 및 멍이 잘 듦",
+    "purpose": "출혈경향이 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "35세 여성이 평소보다 월경량이 많아지고 사소한 외상에도 멍이 쉽게 생긴다고 내원하였다. 가족력에서 어머니가 비슷한 증상을 겪은 적이 있다고 한다. 혈액검사에서 혈소판 수치는 정상이며, 출혈시간이 연장되어 있고 aPTT가 증가되어 있다. 이 환자에서 추가로 확인해야 할 검사는?",
+    "exam": "PT: 정상, aPTT: 증가, 혈소판 수: 정상, 출혈시간: 연장",
+    "options": {
+      "A": "응고 인자 VIII 활성도 검사",
+      "B": "혈소판 응집 검사",
+      "C": "항인지질 항체 검사",
+      "D": "D-dimer 측정",
+      "E": "신장 기능 검사"
+    },
+    "answer": "A",
+    "explanation": "이 환자의 임상 양상과 검사 결과는 von Willebrand 병(vWD)을 시사한다. vWD는 vWF 결핍으로 인해 출혈시간 연장과 aPTT 증가를 보이며, 혈소판 수치는 정상으로 유지된다. 확진을 위해 응고 인자 VIII 활성도 및 von Willebrand 인자 기능 검사를 시행해야 한다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1150",
+        "text": "von Willebrand disease is the most common inherited bleeding disorder. It is characterized by prolonged bleeding time, increased aPTT, and normal platelet count. Factor VIII activity and von Willebrand factor assays are essential for diagnosis."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "소아에서 반복되는 점상출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "5세 남아가 피부에 반복적인 점상출혈과 경미한 외상 후 지속적인 출혈로 내원하였다. 가족력은 없으며, 최근 바이러스 감염을 앓은 적이 있다. 혈액검사에서 혈소판 수치는 8,000/μL로 감소되어 있으며, PT와 aPTT는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 8,000/μL, PT: 정상, aPTT: 정상",
+    "options": {
+      "A": "면역성 혈소판 감소성 자반증(ITP)",
+      "B": "혈전성 혈소판 감소성 자반증(TTP)",
+      "C": "파종성 혈관내 응고(DIC)",
+      "D": "Glanzmann 혈소판무력증",
+      "E": "von Willebrand 병"
+    },
+    "answer": "A",
+    "explanation": "면역성 혈소판 감소성 자반증(ITP)은 소아에서 흔히 바이러스 감염 후 발생하는 자가면역 질환으로, 혈소판 감소와 점상출혈을 특징으로 한다. PT와 aPTT는 정상이며, 혈소판 감소가 두드러진다. 대부분의 경우 자연 회복되지만, 중증 출혈이 있으면 코르티코스테로이드나 면역글로불린(IVIG) 치료를 고려한다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1205",
+        "text": "Immune thrombocytopenic purpura (ITP) is an autoimmune disorder characterized by isolated thrombocytopenia following viral infections. PT and aPTT remain normal, and most pediatric cases resolve spontaneously."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "급성 신부전과 신경학적 증상",
+    "purpose": "출혈경향이 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "35세 여성이 발열, 빈혈, 신경학적 이상(착란, 두통) 및 급성 신부전으로 내원하였다. 혈액검사에서 혈소판 감소와 용혈성 빈혈이 관찰되었으며, 말초 혈액 도말에서 분열 적혈구가 확인되었다. PT 및 aPTT는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 20,000/μL, 혈색소: 8.2 g/dL, 망상적혈구: 증가, LDH: 증가, haptoglobin: 감소, PT: 정상, aPTT: 정상",
+    "options": {
+      "A": "혈전성 혈소판 감소성 자반증(TTP)",
+      "B": "파종성 혈관내 응고(DIC)",
+      "C": "면역성 혈소판 감소성 자반증(ITP)",
+      "D": "항인지질 항체 증후군",
+      "E": "급성 백혈병"
+    },
+    "answer": "A",
+    "explanation": "혈전성 혈소판 감소성 자반증(TTP)은 용혈성 빈혈, 혈소판 감소, 신경학적 이상, 신부전, 발열이 특징적인 질환이다. 말초 혈액 도말에서 분열 적혈구가 확인되며, PT 및 aPTT는 정상이다. 치료는 즉각적인 혈장교환술(plasmapheresis)이며, 치료가 지연될 경우 치명적일 수 있다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1220",
+        "text": "Thrombotic thrombocytopenic purpura (TTP) presents with a pentad of symptoms: thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal dysfunction, and fever. Urgent plasma exchange is the treatment of choice."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "수술 후 지속적인 출혈 및 응고 장애",
+    "purpose": "출혈경향이 있는 사람에게 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "55세 남성이 대장암 절제술 후 출혈이 지속되어 내원하였다. 혈액검사에서 PT와 aPTT가 연장되어 있고, 혈소판 수치는 감소되어 있으며, D-dimer와 FDP가 상승되어 있다. 이 환자의 가장 적절한 치료는?",
+    "exam": "혈소판 수: 50,000/μL, PT: 연장, aPTT: 연장, D-dimer: 증가, FDP: 증가",
+    "options": {
+      "A": "신선동결혈장(FFP) 투여",
+      "B": "비타민 K 투여",
+      "C": "혈소판 수혈",
+      "D": "헤파린 정맥 주입",
+      "E": "철분 보충제 투여"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 파종성 혈관내 응고(DIC)로 인한 출혈 경향을 보이고 있다. DIC는 전신적인 응고 활성화와 섬유소 용해 과정이 동시에 진행되는 상태로, 신선동결혈장(FFP)이 부족한 응고 인자를 보충하는 주요 치료법이다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1250",
+        "text": "Disseminated intravascular coagulation (DIC) is a systemic coagulopathy characterized by widespread clotting activation and secondary fibrinolysis. Fresh frozen plasma (FFP) can replenish deficient clotting factors and support hemostasis."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "수술 후 지속적인 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "65세 남성이 고관절 치환술 후 지속적인 출혈로 내원하였다. 혈액검사에서 PT는 정상이나 aPTT가 연장되어 있으며, 혈소판 수치는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "PT: 정상, aPTT: 연장, 혈소판 수: 정상",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "항인지질 항체 증후군",
+      "D": "파종성 혈관내 응고(DIC)",
+      "E": "간질환에 의한 응고 장애"
+    },
+    "answer": "A",
+    "explanation": "혈우병 A는 응고 인자 VIII의 결핍으로 인해 발생하며, PT는 정상이나 aPTT가 연장되는 특징을 보인다. 외상이나 수술 후 출혈이 쉽게 멈추지 않는 것이 특징이다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1301",
+        "text": "Hemophilia A is an X-linked recessive disorder characterized by prolonged aPTT with normal PT and spontaneous or post-surgical bleeding."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "여성의 잦은 코피 및 멍",
+    "purpose": "출혈경향이 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "30세 여성이 잦은 코피와 쉽게 멍이 드는 증상으로 내원하였다. 혈액검사에서 혈소판 수치는 정상이며, 출혈시간이 연장되어 있고 aPTT가 약간 증가되어 있다. 가족력에서 어머니도 비슷한 증상을 겪었다고 한다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "PT: 정상, aPTT: 증가, 혈소판 수: 정상, 출혈시간: 연장",
+    "options": {
+      "A": "혈우병 A",
+      "B": "Glanzmann 혈소판무력증",
+      "C": "von Willebrand 병",
+      "D": "혈전성 혈소판 감소성 자반증",
+      "E": "항인지질 항체 증후군"
+    },
+    "answer": "C",
+    "explanation": "von Willebrand 병(vWD)은 혈소판 부착 및 응고 기능을 담당하는 vWF 결핍으로 인해 출혈경향을 초래한다. 출혈시간 연장과 aPTT 증가가 특징이며, 가족력이 동반될 수 있다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1325",
+        "text": "Von Willebrand disease is the most common inherited bleeding disorder, characterized by prolonged bleeding time and increased aPTT with normal platelet count."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "위장관 출혈 및 피부 점상출혈",
+    "purpose": "출혈경향이 있는 사람에게 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "50세 남성이 위장관 출혈과 피부 점상출혈로 내원하였다. 혈액검사에서 혈소판 수치가 30,000/μL로 감소되어 있으며, PT 및 aPTT는 정상이다. 말초 혈액 도말에서 분열 적혈구가 확인되었다. 이 환자의 가장 적절한 치료는?",
+    "exam": "혈소판 수: 30,000/μL, 혈색소: 9.5 g/dL, 망상적혈구: 증가, LDH: 증가, haptoglobin: 감소, PT: 정상, aPTT: 정상",
+    "options": {
+      "A": "신선동결혈장(FFP) 투여",
+      "B": "코르티코스테로이드 치료",
+      "C": "혈장교환술(plasmapheresis)",
+      "D": "헤파린 투여",
+      "E": "철분 보충제 투여"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 혈전성 혈소판 감소성 자반증(TTP)로 의심되며, 즉각적인 혈장교환술(plasmapheresis)이 필요하다. TTP는 혈소판 감소, 용혈성 빈혈, 신경학적 이상, 신부전, 발열이 특징이며, 말초 혈액 도말에서 분열 적혈구가 관찰된다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1350",
+        "text": "Thrombotic thrombocytopenic purpura (TTP) is characterized by thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal dysfunction, and fever. Plasma exchange is the treatment of choice."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "잦은 멍과 잇몸 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 병력, 신체진찰 소견과 검사소견을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "45세 남성이 잇몸 출혈과 쉽게 멍이 드는 증상으로 내원하였다. 혈액검사에서 혈소판 수치는 90,000/μL로 감소되어 있으며, PT와 aPTT는 정상이다. 말초 혈액 도말에서 거대 혈소판이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 90,000/μL, PT: 정상, aPTT: 정상, 거대 혈소판 관찰",
+    "options": {
+      "A": "면역성 혈소판 감소성 자반증(ITP)",
+      "B": "Glanzmann 혈소판무력증",
+      "C": "혈전성 혈소판 감소성 자반증(TTP)",
+      "D": "파종성 혈관내 응고(DIC)",
+      "E": "항인지질 항체 증후군"
+    },
+    "answer": "A",
+    "explanation": "면역성 혈소판 감소성 자반증(ITP)은 혈소판의 면역 매개 파괴로 인해 발생하며, 혈소판 감소와 함께 PT 및 aPTT는 정상으로 유지된다. 거대 혈소판이 말초 혈액 도말에서 관찰될 수 있으며, 치료는 코르티코스테로이드나 면역글로불린(IVIG) 투여를 고려한다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1401",
+        "text": "Immune thrombocytopenic purpura (ITP) is characterized by isolated thrombocytopenia with normal PT and aPTT. Peripheral blood smear may show large platelets, indicating increased platelet turnover."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 16,
+    "chief_complaint": "장기간 항응고제 사용 후 출혈",
+    "purpose": "출혈경향이 있는 사람에게 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "70세 남성이 심방세동으로 인해 와파린을 복용 중이며, 최근 잇몸 출혈과 소변에서 혈뇨가 관찰되었다. 혈액검사에서 PT가 연장되어 있으며, INR은 5.5로 확인되었다. 이 환자의 가장 적절한 치료는?",
+    "exam": "PT: 연장, INR: 5.5, aPTT: 연장",
+    "options": {
+      "A": "비타민 K 투여",
+      "B": "신선동결혈장(FFP) 투여",
+      "C": "혈소판 수혈",
+      "D": "헤파린 중단 후 와파린 유지",
+      "E": "철분 보충제 투여"
+    },
+    "answer": "A",
+    "explanation": "와파린 과다복용으로 인한 출혈의 경우, 즉각적인 비타민 K 투여가 필요하다. INR이 5.5 이상으로 연장된 경우 비타민 K를 경구 또는 정맥으로 투여하며, 심각한 출혈이 동반된 경우 신선동결혈장(FFP)도 함께 사용될 수 있다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1420",
+        "text": "Warfarin overdose can lead to prolonged PT/INR and increased bleeding risk. Vitamin K is the treatment of choice, and in severe cases, fresh frozen plasma (FFP) may be required."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 17,
+    "chief_complaint": "급성 신부전과 출혈",
+    "purpose": "출혈경향이 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "30세 여성이 발열, 신경학적 증상, 혈뇨 및 급성 신부전으로 내원하였다. 혈액검사에서 혈소판 감소와 용혈성 빈혈이 관찰되었으며, 말초 혈액 도말에서 분열 적혈구가 확인되었다. PT 및 aPTT는 정상이다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 20,000/μL, 혈색소: 7.5 g/dL, LDH: 증가, haptoglobin: 감소, PT: 정상, aPTT: 정상",
+    "options": {
+      "A": "혈전성 혈소판 감소성 자반증(TTP)",
+      "B": "파종성 혈관내 응고(DIC)",
+      "C": "급성 신부전 유발 혈전색전증",
+      "D": "항인지질 항체 증후군",
+      "E": "면역성 혈소판 감소성 자반증(ITP)"
+    },
+    "answer": "A",
+    "explanation": "혈전성 혈소판 감소성 자반증(TTP)은 혈소판 감소, 용혈성 빈혈, 신경학적 이상, 신부전, 발열이 특징적인 질환이다. 말초 혈액 도말에서 분열 적혈구가 관찰되며, PT 및 aPTT는 정상이다. 즉각적인 혈장교환술(plasmapheresis)이 필요하다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1450",
+        "text": "Thrombotic thrombocytopenic purpura (TTP) presents with thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal dysfunction, and fever. Urgent plasma exchange is the treatment of choice."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 18,
+    "chief_complaint": "임신 중 심한 출혈 경향",
+    "purpose": "출혈경향이 있는 사람에게서 원인에 따른 적합한 치료법을 선택할 수 있다.",
+    "question": "임신 34주차의 여성이 심한 출혈 경향과 함께 복통을 호소하며 내원하였다. 혈액검사에서 혈소판 수치는 감소하였으며, PT 및 aPTT가 연장되었고 D-dimer가 증가하였다. 가장 가능성 높은 진단은?",
+    "exam": "혈소판 수: 40,000/μL, PT: 연장, aPTT: 연장, D-dimer: 증가",
+    "options": {
+      "A": "파종성 혈관내 응고(DIC)",
+      "B": "항인지질 항체 증후군",
+      "C": "혈전성 혈소판 감소성 자반증(TTP)",
+      "D": "면역성 혈소판 감소성 자반증(ITP)",
+      "E": "Von Willebrand 병"
+    },
+    "answer": "A",
+    "explanation": "파종성 혈관내 응고(DIC)는 산과적 응급 상황(태반 조기 박리, 자간전증, 패혈증 등)에서 발생할 수 있으며, 응고 인자 소모로 인해 PT 및 aPTT 연장, 혈소판 감소, D-dimer 증가를 보인다.",
+    "source": [
+      {
+        "source_id": "Hematology_Williams_1500",
+        "text": "Disseminated intravascular coagulation (DIC) is a systemic coagulopathy associated with obstetric complications. It presents with thrombocytopenia, prolonged PT/aPTT, and elevated D-dimer levels."
+      }
+    ],
+    "category": "Hematology and Oncology"
+  }
+]
