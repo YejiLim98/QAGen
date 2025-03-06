@@ -1,0 +1,393 @@
+[
+  {
+    "question_id": 1,
+    "chief_complaint": "항문 통증 및 출혈",
+    "purpose": "항문통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "45세 남성이 배변 시 심한 항문 통증과 소량의 출혈을 주소로 내원하였다. 환자는 최근 변비가 심해지면서 배변 시 극심한 통증을 느끼고 있다고 한다. 신체진찰에서 항문 주위에 12시 방향으로 선형의 열상이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 진찰상 항문 열상이 확인되며, 항문괄약근의 과도한 긴장이 동반됨.",
+    "options": {
+      "A": "치열",
+      "B": "치핵",
+      "C": "항문농양",
+      "D": "크론병",
+      "E": "직장암"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 변비 병력이 있으며 배변 시 심한 통증과 출혈을 동반하는 선형의 항문 열상이 관찰되었으므로 치열(anal fissure)이 가장 가능성이 높은 진단입니다. 치열은 주로 배변 시 심한 통증과 출혈을 동반하며, 항문괄약근의 과도한 긴장이 흔히 동반됩니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11655",
+        "text": "Anal fissures present with severe pain during defecation and bright red blood on toilet paper. Examination reveals a linear tear in the anal mucosa, most commonly at the posterior midline."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "배변 시 극심한 항문 통증과 지속적인 불편감",
+    "purpose": "항문통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "28세 남성이 배변 시 극심한 항문 통증과 지속적인 불편감을 주소로 내원하였다. 최근 몇 개월 동안 증상이 반복적으로 발생하며, 배변 후에도 통증이 지속된다고 한다. 신체진찰에서 항문 후방에 만성적인 열상이 확인되었으며, 피부 태그(sentinel pile)가 동반되었다. 이 환자의 가장 적절한 치료는?",
+    "exam": "항문 후방의 만성적인 열상과 피부 태그 확인됨.",
+    "options": {
+      "A": "식이 섬유 보충 및 좌욕",
+      "B": "고무 밴드 결찰술",
+      "C": "광범위 항생제 투여",
+      "D": "내괄약근 절개술",
+      "E": "스테로이드 국소 도포"
+    },
+    "answer": "D",
+    "explanation": "이 환자는 만성 치열(anal fissure)이 의심됩니다. 만성 치열의 경우 식이 요법과 좌욕 등의 보존적 치료에 반응하지 않을 가능성이 높으며, 내괄약근 절개술(lateral internal sphincterotomy)이 가장 효과적인 치료 방법입니다. 이는 항문 괄약근의 긴장을 줄여 상처 치유를 돕습니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11655",
+        "text": "Chronic anal fissures often require lateral internal sphincterotomy to relieve sphincter spasm and promote healing."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "항문 주위의 가려움과 작열감",
+    "purpose": "항문통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "42세 여성이 항문 주위의 가려움과 작열감을 주소로 내원하였다. 최근 배변 후 항문 주위가 화끈거리는 느낌이 지속되며, 긁으면 증상이 더욱 악화된다고 한다. 신체진찰에서 항문 주위의 홍반과 백색의 위축된 피부 병변이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위의 홍반과 백색의 위축된 병변 확인됨.",
+    "options": {
+      "A": "치열",
+      "B": "항문 주위 습진",
+      "C": "백반증",
+      "D": "편평태선",
+      "E": "항문 편평상피암"
+    },
+    "answer": "C",
+    "explanation": "백반증(Lichen sclerosus)은 항문 주위와 외음부에서 흔히 발생하는 만성 염증성 질환으로, 가려움증과 작열감을 유발하며 백색의 위축된 병변이 특징적입니다. 치료는 국소 스테로이드 연고입니다.",
+    "source": [
+      {
+        "source_id": "Dermatology_2021",
+        "text": "Lichen sclerosus presents with pruritus and atrophic white plaques in the anogenital region. First-line treatment is high-potency topical corticosteroids."
+      }
+    ],
+    "category": "Dermatology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "배변 시 통증과 항문 주위의 작열감",
+    "purpose": "항문통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "40세 남성이 배변 시 통증과 항문 주위의 작열감을 주소로 내원하였다. 증상은 수 주 전부터 시작되었으며, 간헐적으로 항문 주위에서 작은 수포가 발생한다고 한다. 신체진찰에서 항문 주위 피부에 군집된 작은 궤양이 확인되었으며, 통증이 동반되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위에 군집된 작은 궤양과 통증 확인됨.",
+    "options": {
+      "A": "치열",
+      "B": "항문 단순포진",
+      "C": "항문농양",
+      "D": "크론병",
+      "E": "항문루"
+    },
+    "answer": "B",
+    "explanation": "항문 단순포진(herpetic proctitis)은 HSV(herpes simplex virus)에 의해 발생하며, 배변 시 통증, 작열감, 군집된 작은 궤양이 특징적입니다. 치료는 항바이러스제(acyclovir, valacyclovir) 투여입니다.",
+    "source": [
+      {
+        "source_id": "Dermatology_2021",
+        "text": "Herpetic proctitis presents with painful clustered ulcers in the perianal region, often associated with burning sensation. Diagnosis is confirmed via viral culture or PCR."
+      }
+    ],
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "항문 주위 종괴와 통증",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "37세 남성이 항문 주위의 종괴와 심한 통증을 주소로 내원하였다. 환자는 이틀 전부터 항문 주위가 붓고 심하게 아프며, 앉거나 걷는 것이 힘들다고 한다. 발열(38.2℃)이 동반되며, 신체진찰에서 항문 주위 피부가 홍반을 띠고, 촉진 시 심한 압통이 있는 종괴가 확인되었다. 이 환자의 가장 적절한 진단은?",
+    "exam": "혈액검사상 백혈구 증가(14,000/mm³), 항문 주위의 압통성 종괴 확인됨.",
+    "options": {
+      "A": "치핵",
+      "B": "항문농양",
+      "C": "크론병",
+      "D": "직장농양",
+      "E": "피부낭종"
+    },
+    "answer": "B",
+    "explanation": "항문농양(anal abscess)은 감염에 의해 항문 주위 조직에 고름이 고여 발생하는 질환으로, 심한 통증과 발열을 동반하며, 항문 주위의 발적과 압통성 종괴가 특징적입니다. 치료는 절개 배농이 기본입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11657",
+        "text": "Anorectal abscess presents with severe perianal pain, swelling, erythema, and fever. Incision and drainage are the definitive treatments."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "항문 주위 농양이 반복됨",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "35세 여성이 반복적인 항문 주위 농양과 배농을 주소로 내원하였다. 3개월 전 항문농양으로 절개 및 배농을 시행하였으나, 최근 동일 부위에서 다시 고름이 나오는 증상이 발생하였다. 항문 진찰에서 항문 주위에 개구부가 확인되었으며, 배농이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위 개구부와 배농이 확인됨.",
+    "options": {
+      "A": "치핵",
+      "B": "치열",
+      "C": "항문루",
+      "D": "크론병",
+      "E": "직장암"
+    },
+    "answer": "C",
+    "explanation": "반복적인 항문농양과 지속적인 배농이 있는 경우 항문루(anal fistula)를 의심해야 합니다. 항문루는 항문선 감염으로 인한 농양이 터지면서 형성되며, 치료는 수술적 절제나 루엣술(seton placement)입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11657",
+        "text": "Recurrent perianal abscess with persistent drainage is highly suggestive of an anal fistula, which requires surgical management."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "만성적인 항문 통증과 점액성 분비물",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "50세 남성이 6개월 전부터 지속된 항문 주위 통증과 점액성 분비물을 주소로 내원하였다. 환자는 배변 후에도 찜찜한 느낌이 지속되며, 항문 부위에서 액체가 흘러나온다고 한다. 신체진찰에서 항문 주위에 개구부가 확인되었으며, 촉진 시 누공이 촉지되었다. 이 환자의 가장 적절한 진단은?",
+    "exam": "항문 주위 개구부와 점액성 분비물 확인됨. 항문경 검사에서 누공 경로가 보임.",
+    "options": {
+      "A": "치핵",
+      "B": "항문루",
+      "C": "항문농양",
+      "D": "크론병",
+      "E": "직장암"
+    },
+    "answer": "B",
+    "explanation": "항문루(anal fistula)는 항문샘 감염으로 인해 발생하는 만성적인 상태로, 지속적인 항문 주위 분비물과 누공 개구부가 특징적입니다. 치료는 수술적 절제나 루엣술(seton placement)이 필요합니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11657",
+        "text": "Anal fistula typically presents with chronic perianal discharge and a visible external opening. Surgical intervention is required for definitive treatment."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "배변 시 찌르는 듯한 항문 통증",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "34세 남성이 배변 시 찌르는 듯한 항문 통증을 주소로 내원하였다. 통증은 배변 후에도 몇 시간 동안 지속되며, 혈변은 없었다. 신체진찰에서 항문 주위에 명확한 병변이 발견되지 않았다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 진찰에서 명확한 병변 발견되지 않음.",
+    "options": {
+      "A": "항문 통증 증후군(Anorectal pain syndrome)",
+      "B": "치핵",
+      "C": "항문농양",
+      "D": "치열",
+      "E": "크론병"
+    },
+    "answer": "A",
+    "explanation": "항문 통증 증후군(Anorectal pain syndrome, proctalgia fugax)은 명확한 구조적 이상 없이 발생하는 항문 및 직장 통증으로, 보통 몇 분에서 몇 시간 지속되며 배변과 관련이 있을 수 있습니다. 치료는 증상 완화 위주의 보존적 치료입니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_11650",
+        "text": "Proctalgia fugax is a functional anorectal pain disorder characterized by episodic, self-limited rectal pain without an identifiable organic cause."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "배변 후 지속되는 항문 통증",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "37세 여성이 배변 후 지속되는 항문 통증을 주소로 내원하였다. 환자는 변비가 잦으며, 배변 후 항문 부위에서 찌르는 듯한 통증이 몇 시간 동안 지속된다고 한다. 신체진찰에서 항문 후벽에 만성적인 선형 열상이 확인되었다. 이 환자의 가장 적절한 치료는?",
+    "exam": "항문 후벽에 만성적인 선형 열상 확인됨.",
+    "options": {
+      "A": "고무 밴드 결찰술",
+      "B": "내괄약근 절개술",
+      "C": "경화요법",
+      "D": "광범위 항생제 투여",
+      "E": "전신 스테로이드 치료"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 만성 치열(anal fissure)이 의심됩니다. 만성 치열의 경우 보존적 치료(식이요법, 좌욕)에 반응하지 않는다면 내괄약근 절개술(lateral internal sphincterotomy)이 가장 효과적인 치료 방법입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11655",
+        "text": "Chronic anal fissures often require lateral internal sphincterotomy to relieve sphincter spasm and promote healing."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "배변 후 지속되는 항문 불편감",
+    "purpose": "항문통증이 있는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "50세 여성이 배변 후 지속되는 항문 불편감과 이물감을 주소로 내원하였다. 환자는 앉아 있을 때 불편감이 심해지며, 최근 변을 볼 때 출혈이 동반된다고 한다. 신체진찰에서 항문에서 돌출된 2cm 크기의 종물이 확인되었으며, 항문경 검사에서 내치핵이 관찰되었다. 이 환자의 초기 치료로 가장 적절한 선택지는?",
+    "exam": "항문경 검사상 내치핵 2도(배변 시 돌출되나 자연 복원됨) 관찰됨.",
+    "options": {
+      "A": "경화요법",
+      "B": "고무밴드 결찰술",
+      "C": "외과적 절제술",
+      "D": "전신 스테로이드 치료",
+      "E": "광범위 항생제 투여"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 배변 후 불편감과 출혈을 동반하는 2도 내치핵이 확인되었으며, 내치핵 1~3도의 경우 고무밴드 결찰술이 효과적인 치료 방법입니다. 이는 조직의 괴사를 유도하여 치핵을 축소시키는 방법으로, 비교적 간단하고 효과적인 치료법입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11659",
+        "text": "Rubber band ligation is the preferred treatment for symptomatic grade I-III internal hemorrhoids, leading to tissue necrosis and eventual resolution."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 11,
+    "chief_complaint": "배변 시 출혈과 항문 이물감",
+    "purpose": "항문통증이 있는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "60세 남성이 배변 시 출혈과 항문 이물감을 주소로 내원하였다. 환자는 최근 변을 볼 때 피가 휴지에 묻어나며, 배변 후 항문 부위에 무언가 튀어나온 듯한 느낌을 받는다고 한다. 항문 진찰에서 3도 내치핵이 확인되었다. 이 환자의 가장 적절한 치료는?",
+    "exam": "항문경 검사상 3도 내치핵(배변 시 돌출되며 손으로 밀어넣어야 복원됨) 관찰됨.",
+    "options": {
+      "A": "식이 섬유 보충 및 좌욕",
+      "B": "고무밴드 결찰술",
+      "C": "경화요법",
+      "D": "치핵 절제술",
+      "E": "광범위 항생제 투여"
+    },
+    "answer": "B",
+    "explanation": "3도 내치핵은 배변 시 돌출되지만 손으로 밀어넣어야 복원되는 상태로, 보존적 치료보다 고무밴드 결찰술이 효과적인 치료법입니다. 이는 조직 괴사를 유도하여 치핵을 축소시키는 방법으로, 수술적 절제보다 덜 침습적인 치료입니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11659",
+        "text": "Rubber band ligation is an effective treatment for symptomatic grade III internal hemorrhoids."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 12,
+    "chief_complaint": "항문 부위의 지속적인 통증과 덩어리",
+    "purpose": "항문통증이 있는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "55세 여성이 항문 부위의 지속적인 통증과 덩어리를 주소로 내원하였다. 환자는 몇 달 전부터 변비가 심해졌으며, 최근 배변 시 종종 통증을 느꼈다고 한다. 신체진찰에서 항문 주위에 단단한 3cm 크기의 종괴가 촉지되었고, 항문경 검사에서 괴사성 중심부를 가진 종양이 관찰되었다. 이 환자의 가장 적절한 다음 단계는?",
+    "exam": "항문경 검사에서 괴사성 중심부를 가진 단단한 종괴 확인됨.",
+    "options": {
+      "A": "고무밴드 결찰술",
+      "B": "조직 생검",
+      "C": "광범위 항생제 투여",
+      "D": "대변 잠혈 검사",
+      "E": "항생제 및 좌욕 치료"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 항문암(anal cancer)이 의심됩니다. 항문에서 단단한 종괴가 만져지고 괴사가 동반된 경우, 반드시 조직 생검을 시행하여 확진해야 합니다. 이후 방사선 치료와 항암 치료를 고려해야 합니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11662",
+        "text": "Any firm, non-healing anal mass should be biopsied to rule out anal cancer."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 13,
+    "chief_complaint": "항문 주위의 지속적인 가려움",
+    "purpose": "항문통증이 있는 사람에게 원인질환에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "45세 여성이 몇 달 전부터 지속된 항문 주위의 가려움을 주소로 내원하였다. 환자는 특히 야간에 가려움이 심하며, 배변 후에도 찜찜한 느낌이 지속된다고 한다. 신체진찰에서 항문 주위 피부가 비후되고 색소침착이 확인되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위 피부 비후 및 색소침착 확인됨.",
+    "options": {
+      "A": "항문 편평태선",
+      "B": "치핵",
+      "C": "크론병",
+      "D": "항문 주위 습진",
+      "E": "백반증"
+    },
+    "answer": "D",
+    "explanation": "항문 주위 습진(perianal dermatitis)은 만성적인 가려움과 피부 비후 및 색소침착이 특징적입니다. 원인으로는 자극성 접촉피부염, 감염, 만성적인 습한 환경 등이 있으며, 치료는 국소 스테로이드와 보습제 사용입니다.",
+    "source": [
+      {
+        "source_id": "Dermatology_2021",
+        "text": "Perianal dermatitis presents with chronic pruritus, lichenification, and pigmentation. Treatment involves topical corticosteroids and emollients."
+      }
+    ],
+    "category": "Dermatology"
+  },
+  {
+    "question_id": 14,
+    "chief_complaint": "항문 부위의 심한 통증과 부종",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "42세 남성이 갑자기 시작된 항문 부위의 심한 통증과 부종을 주소로 내원하였다. 환자는 어제부터 앉거나 걸을 때 불편함이 심하며, 특히 배변 시 통증이 극심하다고 한다. 신체진찰에서 항문 주위에 단단하고 청색-자색을 띠는 종괴가 확인되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위 2cm 크기의 청색-자색 혈종성 종괴 확인됨.",
+    "options": {
+      "A": "내치핵",
+      "B": "항문농양",
+      "C": "혈전성 외치핵",
+      "D": "항문루",
+      "E": "직장암"
+    },
+    "answer": "C",
+    "explanation": "혈전성 외치핵(thrombosed external hemorrhoid)은 갑자기 발생하는 심한 항문통증과 함께 청색-자색 혈종성 종괴가 특징적입니다. 치료는 급성기의 경우 통증 완화를 위해 혈전 제거술(혈종 절개술)을 시행할 수 있으며, 이후 좌욕과 진통제를 사용합니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11660",
+        "text": "Thrombosed external hemorrhoids present with sudden severe pain and a bluish perianal nodule. Excision of the clot provides immediate pain relief."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 15,
+    "chief_complaint": "배변 시 항문 통증과 체중 감소",
+    "purpose": "항문통증이 있는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "65세 남성이 배변 시 항문 통증과 체중 감소를 주소로 내원하였다. 환자는 몇 달 전부터 변이 가늘어지고 배변 습관이 변하였으며, 최근 체중이 5kg 감소했다고 한다. 신체진찰에서 항문경 검사상 항문관 내 불규칙한 궤양과 종괴가 확인되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문경 검사상 불규칙한 궤양과 출혈이 동반된 종괴 확인됨.",
+    "options": {
+      "A": "치열",
+      "B": "내치핵",
+      "C": "항문암",
+      "D": "항문루",
+      "E": "크론병"
+    },
+    "answer": "C",
+    "explanation": "항문암(anal cancer)은 배변 시 통증, 출혈, 변형된 배변 습관, 체중 감소 등의 증상과 함께 항문 내 불규칙한 종괴가 특징적입니다. 확진을 위해 조직 생검이 필요하며, 치료는 방사선치료와 항암치료가 주로 사용됩니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11662",
+        "text": "Anal cancer presents with altered bowel habits, weight loss, and a mass in the anal canal. Biopsy is required for definitive diagnosis."
+      }
+    ],
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 16,
+    "chief_complaint": "배변 시 점액성 혈변과 항문 통증",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "38세 여성이 배변 시 점액성 혈변과 항문 통증을 주소로 내원하였다. 환자는 수개월 동안 증상이 반복적으로 발생했으며, 최근 체중 감소도 경험했다고 한다. 신체진찰에서 항문 주변 피부가 염증성 변화를 보였으며, 직장수지 검사에서 항문 내 궤양성 병변이 촉지되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "직장수지 검사에서 항문 내 궤양성 병변 촉지됨.",
+    "options": {
+      "A": "치핵",
+      "B": "크론병",
+      "C": "치열",
+      "D": "결핵성 항문염",
+      "E": "항문암"
+    },
+    "answer": "B",
+    "explanation": "크론병은 항문 주위 병변(치열, 누공, 궤양 등)을 동반할 수 있으며, 점액성 혈변, 만성적인 항문 통증이 특징적입니다. 체중 감소와 함께 만성적인 항문 궤양이 관찰된다면 크론병을 강력히 의심해야 합니다.",
+    "source": [
+      {
+        "source_id": "InternalMed_Harrison_11663",
+        "text": "Crohn's disease frequently involves perianal complications, including fissures, abscesses, and deep ulcerations."
+      }
+    ],
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 17,
+    "chief_complaint": "항문 부위의 부종과 지속적인 통증",
+    "purpose": "항문통증을 호소하는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "50세 남성이 항문 부위의 부종과 지속적인 통증을 주소로 내원하였다. 환자는 최근 고열(38.5℃)과 함께 앉아있기 어려운 심한 통증을 호소하였다. 신체진찰에서 항문 주위의 홍반과 심한 압통이 있는 종괴가 촉지되었으며, 배농이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "항문 주위에 심한 압통을 동반한 부종과 배농 확인됨.",
+    "options": {
+      "A": "치핵",
+      "B": "항문농양",
+      "C": "혈전성 외치핵",
+      "D": "항문루",
+      "E": "크론병"
+    },
+    "answer": "B",
+    "explanation": "항문농양(anal abscess)은 항문샘 감염으로 인해 발생하며, 심한 통증, 발열, 홍반, 배농이 특징적입니다. 치료는 즉각적인 절개 및 배농(I&D)이며, 심한 경우 항생제 병용이 필요합니다.",
+    "source": [
+      {
+        "source_id": "Surgery_Schwartz_11657",
+        "text": "Anal abscess presents with severe pain, erythema, and purulent drainage. Incision and drainage are the definitive treatments."
+      }
+    ],
+    "category": "General Surgery"
+  }
+]
