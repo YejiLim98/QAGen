@@ -3,16 +3,7 @@
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "32세 여성이 3개월 전부터 지속된 손가락 관절통과 아침 강직을 주소로 내원하였다. 최근 손가락 관절이 붓고 열감을 동반하며, 햇빛 노출 후 얼굴에 나비 모양 발진이 발생했다고 한다. 이 환자의 가장 적절한 초기 치료는?",
-  "exam": {
-    "WBC": "3,000/μL", "Hb": "10.2 g/dL",
-    "PLT": "110,000/μL",
-    "Cr": "0.8 mg/dL",
-    "BUN": "14 mg/dL",
-    "ANA": "1:320 (positive)",
-    "Anti-dsDNA": "positive",
-    "C3": "55 mg/dL",
-    "C4": "10 mg/dL",
-    "Urinalysis": "Proteinuria (2+), microscopic hematuria"
+  "exam": {"WBC: 3,000/μL, Hb: 10.2 g/dL, PLT: 110,000/μL, Cr: 0.8 mg/dL,BUN: 14 mg/dL, ANA: 1:320 (positive), Anti-dsDNA: positive, C3: 55 mg/dL, C4: 10 mg/dL, Urinalysis: Proteinuria (2+), microscopic hematuria"
   },
   "options": {
     "A": "Hydroxychloroquine 단독 치료",
@@ -31,8 +22,7 @@
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "45세 여성이 6개월 전부터 아침에 심해지는 손가락 관절통을 주소로 내원하였다. 최근 손가락 MCP와 PIP 관절의 종창이 심해졌으며, 피로감과 미열을 호소하고 있다. 이 환자의 가장 적절한 치료 전략은?",
-  "exam": {
-    "WBC: 8,500/μL, Hb: 11.5 g/dL, PLT: 380,000/μL, ESR: 60 mm/hr, CRP: 8.2 mg/dL, RF: 120 IU/mL, Anti-CCP: 210 U/mL, X-ray: 손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
+  "exam": {"WBC: 8,500/μL, Hb: 11.5 g/dL, PLT: 380,000/μL, ESR: 60 mm/hr, CRP: 8.2 mg/dL, RF: 120 IU/mL, Anti-CCP: 210 U/mL, X-ray: 손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
   },
   "options": {
     "A": "NSAIDs 단독 치료",
@@ -51,15 +41,7 @@
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "55세 남성이 갑자기 시작된 오른쪽 엄지발가락의 심한 통증과 발적을 주소로 내원하였다. 환자는 최근 회식에서 과음을 했으며, 이전에도 유사한 증상이 있었지만 자연적으로 호전되었다. 이 환자의 급성 치료로 가장 적절한 것은?",
-  "exam": {
-    "WBC": "11,000/μL",
-    "Hb": "14.2 g/dL",
-    "PLT": "250,000/μL",
-    "ESR": "48 mm/hr",
-    "CRP": "6.5 mg/dL",
-    "Uric acid": "9.2 mg/dL",
-    "Synovial fluid": "WBC 20,000/μL (PMN 85%), urate crystals",
-    "X-ray": "1st MTP joint erosion and chondrocalcinosis"
+  "exam": {"WBC: 11,000/μL, Hb: 14.2 g/dL, PLT: 250,000/μL, ESR: 48 mm/hr, CRP: 6.5 mg/dL, Uric acid: 9.2 mg/dL, Synovial fluid: WBC 20,000/μL (PMN 85%), urate crystals, X-ray: 1st MTP joint erosion and chondrocalcinosis"
   },
   "options": {
     "A": "Allopurinol 시작",
@@ -77,7 +59,7 @@
   "question_id": 5,
   "chief complaint": "혈뇨(hematuria)",
   "purpose": "혈뇨가 있는 사람에게서 원인질환을 알아낼 수 있다.",
-  "question": "65세 남성이 2주 전부터 시작된 소변 색의 변화(붉은색)와 피로감을 주소로 내원하였다. 최근 상기도 감염 증상이 있었으며, 체중 감소를 동반하였다. 신체검사상 혈압은 150/95 mmHg이며, 하지에 미세한 자반(purpura)이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
+  "question": "65세 남성이 2주 전부터 시작된 소변 색의 변화(붉은색)와 피로감을 주소로 내원하였다. 최근 상기도 감염 증상이 있었으며, 체중 감소를 동반하였다. 신체검사상 혈압은 150/95 mmHg이며, 하지에 미세한 자반이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
   "exam": "Urinalysis: RBC > 50/HPF, protein 2+, WBC 5-10/HPF; Serum Cr: 2.8 mg/dL; BUN: 34 mg/dL; C3: 120 mg/dL (정상 90-180 mg/dL); C4: 30 mg/dL (정상 10-40 mg/dL); ANCA: positive (P-ANCA); Chest X-ray: 다발성 폐 침윤 소견",
   "options": {
     "A": "고용량 스테로이드 단독 치료",
@@ -95,8 +77,8 @@
   "question_id": 6,
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
-  "question": "52세 여성이 1년 전부터 손가락 관절통과 함께 피부가 두꺼워지는 느낌이 있어 내원하였다. 최근 손가락이 차가운 환경에서 창백해지고 청색증을 보인 후 붉게 변하는 증상이 반복되었으며, 삼킴 곤란(dysphagia) 증상도 동반되고 있다. 신체검진에서 손가락 피부가 단단해지고, 미세혈관 확장증이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
-  "exam": "ANA: positive (1:320 speckled pattern); Anti-Scl-70: positive; Anti-centromere: negative; Nailfold capillaroscopy: abnormal with giant capillaries and capillary dropout; Chest X-ray: mild interstitial lung disease",
+  "question": "52세 여성이 1년 전부터 손가락 관절통과 함께 피부가 두꺼워지는 느낌이 있어 내원하였다. 최근 손가락이 차가운 환경에서 창백해지고 청색증을 보인 후 붉게 변하는 증상이 반복되었으며, 삼킴 곤란도 동반되고 있다. 신체검진에서 손가락 피부가 단단해지고, 미세혈관 확장증이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "ANA: 양성 (1:320 speckled pattern); Anti-Scl-70: 양성; Anti-centromere: 음성; Nailfold capillaroscopy: abnormal with giant capillaries and capillary dropout; Chest X-ray: mild interstitial lung disease",
   "options": {
     "A": "류마티스 관절염",
     "B": "전신 홍반 루푸스",
@@ -118,7 +100,7 @@
   "options": {
     "A": "전신 홍반 루푸스",
     "B": "전신성 경화증",
-    "C": "미세다발혈관염(Microscopic Polyangiitis)",
+    "C": "미세다발혈관염",
     "D": "쇼그렌 증후군",
     "E": "IgA 신병증"
   },
@@ -201,8 +183,8 @@
 },
 {
   "question_id": 12,
-  "chief complaint": "대동맥 또는 주요 혈관의 염증 및 협착이 있는 환자를 평가하고 진단할 수 있다.",
-  "purpose": "대동맥 또는 주요 혈관의 염증 및 협착이 있는 질환을 감별진단할 수 있다.",
+  "chief complaint": "피로",
+  "purpose": "피로를 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
   "question": "25세 여성이 6개월 전부터 지속된 피로, 체중 감소, 팔 통증을 호소하며 내원하였다. 신체검진에서 좌측 상지의 맥박이 미약하고 혈압 차이가 20mmHg 이상 관찰되었다. 혈액검사에서는 ESR 75mm/hr, CRP 30mg/L로 상승되어 있으며, 혈관조영술에서 대동맥궁 및 좌측 쇄골하동맥의 협착이 확인되었다. 이 환자의 가장 적절한 치료는?",
   "exam": "혈액검사: ESR 75mm/hr, CRP 30mg/L 상승. 영상검사: 대동맥궁 및 좌측 쇄골하동맥 협착 확인.",
   "options": {
@@ -219,15 +201,15 @@
 },
 {
   "question_id": 13,
-  "chief complaint": "피부 및 전신 경화증을 동반한 환자를 평가하고 진단할 수 있다.",
-  "purpose": "피부 및 전신 경화증을 동반한 질환의 감별 진단 및 치료 전략을 설명할 수 있다.",
-  "question": "45세 여성이 손가락의 피부가 두꺼워지고, 차가운 곳에 노출되면 손끝이 창백해지는 증상을 주소로 내원하였다. 내원 당시 혈압은 130/80mmHg였으며, 말초 맥박은 정상이었다. 항핵항체(ANA) 양성, 항-Scl-70 항체 양성이었고, 손톱주름 모세혈관검사에서 거친 변화가 관찰되었다. 흉부 고해상도 CT에서는 간질성 폐질환이 확인되었다. 이 환자의 가장 적절한 초기 치료 전략은?",
+  "chief complaint": "청색증",
+  "purpose": "청색증을 보이는 사람에게 적합한 치료 계획을 수립할 수 있다",
+  "question": "45세 여성이 손가락의 피부가 두꺼워지고, 차가운 곳에 노출되면 손끝이 창백해지는 증상을 주소로 내원하였다. 내원 당시 혈압은 130/80mmHg였으며, 말초 맥박은 정상이었다. 이 환자의 가장 적절한 초기 치료 전략은?",
   "exam": "항핵항체(ANA) 양성, 항-Scl-70 항체 양성. 손톱주름 모세혈관검사에서 거친 변화. 흉부 고해상도 CT에서 간질성 폐질환.",
   "options": {
     "A": "고용량 스테로이드 단독",
     "B": "칼슘채널 차단제 및 국소 혈관 확장제",
-    "C": "면역억제제(사이클로포스파미드 또는 미코페놀레이트 모페틸)",
-    "D": "항섬유화제(닌테다닙 또는 피르페니돈)",
+    "C": "사이클로포스파미드 또는 미코페놀레이트 모페틸",
+    "D": "피르페니돈",
     "E": "고용량 스테로이드 및 항섬유화제 병용"
   },
   "answer": "C",
@@ -237,7 +219,7 @@
 }
 {
   "question_id": 14,
-  "chief complaint": "허리통증(low back pain)",
+  "chief complaint": "허리통증",
   "purpose": "허리통증이 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "29세 남성이 6개월 전부터 지속되는 허리 통증을 주소로 내원하였다. 통증은 **아침에 심하고 운동하면 호전**된다고 한다. 신체검사에서 Modified Schober test가 3cm로 감소되어 있었고, Patrick test에서 천장관절의 압통이 확인되었다. 다음 중 이 환자의 진단을 가장 확실하게 확인할 수 있는 검사는?",
   "exam": "HLA-B27: positive; ESR: 45 mm/hr; CRP: 7.5 mg/dL; Lumbar X-ray: bilateral sacroiliitis (grade 2)",
@@ -255,9 +237,9 @@
 },
 {
   "question_id": 15,
-  "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
+  "chief complaint": "관절통/관절부기",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
-  "question": "52세 여성이 **손가락 관절통과 아침 강직**을 주소로 내원하였다. 6개월 전부터 점진적으로 증상이 악화되었으며, 최근 손가락 PIP 관절과 손목 관절의 부종이 관찰되었다. X-ray에서 뚜렷한 골미란(marginal erosion)이 확인되었다. 이 환자의 1차 치료제로 가장 적절한 것은?",
+  "question": "52세 여성이 손가락 관절통과 아침 강직을 주소로 내원하였다. 6개월 전부터 점진적으로 증상이 악화되었으며, 최근 손가락 PIP 관절과 손목 관절의 부종이 관찰되었다. 이 환자의 1차 치료제로 가장 적절한 것은?",
   "exam": "RF: 132 IU/mL; Anti-CCP: 245 U/mL; ESR: 55 mm/hr; CRP: 9.1 mg/dL; X-ray: 손목 및 PIP 관절 골미란",
   "options": {
     "A": "NSAIDs 단독 치료",
