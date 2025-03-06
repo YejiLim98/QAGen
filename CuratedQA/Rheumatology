@@ -1,118 +1,3 @@
-[
-  {
-    "question_id": 1,
-    "chief complaint": "관절통/관절부기",
-    "purpose": "관절통이나 관절부기가 있는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "65세 여성이 6개월 전부터 손가락과 손목 관절의 통증 및 부종을 호소하며 내원하였다. 아침에 관절이 뻣뻣하고 1시간 이상 지속된다고 한다. 신체 진찰에서 손가락 근위지관절(PIP)과 중수지관절(MCP)의 압통과 종창이 관찰되었다. 다음 중 가장 가능성이 높은 진단은?",
-    "exam": "혈액검사: ESR 55 mm/hr, CRP 10 mg/L, RF 양성, 항CCP 항체 양성",
-    "options": {
-      "A": "골관절염",
-      "B": "류마티스 관절염",
-      "C": "통풍",
-      "D": "강직성 척추염",
-      "E": "전신홍반루푸스"
-    },
-    "answer": "B",
-    "explanation": "류마티스 관절염은 만성 염증성 관절염으로, 손가락과 손목의 작은 관절을 대칭적으로 침범하며, 아침 강직이 1시간 이상 지속된다. 혈액검사에서 ESR, CRP 상승과 RF, 항CCP 항체가 양성일 때 진단 가능성이 높다.",
-    "source": "류마티스 관절염 진료지침, p.XX: '류마티스 관절염은 주로 손가락과 손목 관절을 대칭적으로 침범하며, 조조강직이 특징적이다. 혈액검사에서 항CCP 항체와 RF가 양성인 경우 진단에 도움을 줄 수 있다.'",
-    "category": "내과"
-  },
-  {
-    "question_id": 2,
-    "chief complaint": "상하지통증",
-    "purpose": "상하지 통증이 있는 사람에게서 원인을 감별할 수 있다.",
-    "question": "45세 남성이 오른쪽 무릎의 급성 통증과 부종을 주소로 내원하였다. 환자는 전날 해산물과 술을 과다하게 섭취하였으며, 이전에도 비슷한 경험이 있었다. 신체검사상 우측 무릎이 심하게 부어 있고, 발적과 국소 열감이 동반되어 있다.가장 가능성이 높은 진단은?",
-    "exam": "관절 천자 백혈구 50,000/mm³ (90% 호중구), 요산 수치: 9.5 mg/dL, 관절액 검사: 음성 이중 굴절성을 띠는 바늘 모양 결정 관찰됨",
-    "options": {
-      "A": "류마티스 관절염",
-      "B": "골관절염",
-      "C": "통풍",
-      "D": "반응성 관절염",
-      "E": "패혈성 관절염"
-    },
-    "answer": "C",
-    "explanation": "통풍은 고요산혈증을 배경으로 하며, 급성 발작 시 관절 부종, 발적, 심한 통증을 특징으로 한다. 관절 천자 검사에서 백혈구 증가와 음성 이중 굴절성을 띠는 요산 결정이 관찰되면 진단에 도움을 준다.",
-    "source": "통풍치료 진료지침, p.XX: '통풍성 관절염은 급성 발작 시 심한 통증과 발적, 부종을 특징으로 하며, 관절액 검사에서 음성 이중 굴절성을 보이는 요산 결정이 확인되면 진단할 수 있다.'",
-    "category": "내과"
-  },
-  {
-    "question_id": 3,
-    "chief complaint": "피로",
-    "purpose": "피로를 호소하는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "30세 여성이 수개월 전부터 지속되는 피로감을 주소로 내원하였다. 최근 체중 감소와 미열을 동반하고 있으며, 얼굴에 나비 모양의 발진이 발생하였다. 가장 가능성이 높은 진단은?",
-    "exam": "혈액검사: Hb 9.5 g/dL, WBC 3,500/mm³, PLT 110,000/mm³, ANA 양성, 항dsDNA 항체 양성, C3 50 mg/dL (정상 90-180), C4 10 mg/dL (정상 16-47)",
-    "options": {
-      "A": "만성 피로 증후군",
-      "B": "철결핍성 빈혈",
-      "C": "우울증",
-      "D": "전신 홍반성 루푸스",
-      "E": "갑상선기능저하증"
-    },
-    "answer": "D",
-    "explanation": "전신 홍반성 루푸스(SLE)는 피로, 미열, 체중 감소, 나비 모양 발진 등의 증상을 보이며, ANA 및 항dsDNA 항체가 양성이며 보체(C3, C4) 감소가 특징적이다.",
-    "source": "SLE 진료지침, p.XX: '전신 홍반성 루푸스는 만성 자가면역 질환으로, 피로, 미열, 피부 발진, 혈액학적 이상을 동반할 수 있다. 혈청 검사에서 ANA, 항dsDNA 항체 양성 및 보체 감소가 진단에 유용하다.'",
-    "category": "내과"
-  },
-  {
-    "question_id": 4,
-    "chief complaint": "관절통/관절부기",
-    "purpose": "관절통이나 관절부기가 있는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "65세 여성이 양쪽 무릎과 손가락 관절의 점진적인 통증과 부종을 주소로 내원하였다. 환자는 최근 몇 개월 동안 아침에 손이 뻣뻣하고, 1시간 이상 지속되는 증상을 경험했다. 신체 진찰에서 양측 무릎과 손가락 PIP, MCP 관절의 부종과 압통이 확인되었으며, 손목 관절에서도 경미한 압통이 관찰되었다. 추가 검사로 시행한 항CCP 항체 검사가 양성이었고, 혈청 RF 역시 상승되어 있었다. 다음 중 이 환자의 가장 적절한 초기 치료 전략은?",
-    "exam": "CBC: Hb 11.8 g/dL, WBC 8,500 /µL, Platelet 320,000 /µL\nESR 48 mm/hr, CRP 15 mg/L\nRF +, anti-CCP +\nX-ray: 양측 손과 무릎 관절의 미란 소견",
-    "options": {
-      "A": "NSAID 단독 치료",
-      "B": "고용량 스테로이드 단독 치료",
-      "C": "MTX 단독 치료",
-      "D": "TNF 억제제 단독 치료",
-      "E": "MTX + TNF 억제제 병합 치료"
-    },
-    "answer": "C",
-    "explanation": "류마티스 관절염의 초기 치료에서 Methotrexate(MTX)는 일차적으로 권장되는 DMARD이다. NSAID나 스테로이드는 증상 완화를 위해 보조적으로 사용될 수 있으나, 질병 진행을 막기 위한 근본적인 치료제로는 부족하다.",
-    "source": "류마티스 관절염 진료지침, p. XX: 'MTX is the preferred first-line treatment for RA patients, particularly those with positive RF and anti-CCP antibodies.'",
-    "category": "류마티스 관절염"
-  },
-  {
-    "question_id": 5,
-    "chief complaint": "관절통/관절부기",
-    "purpose": "관절통이나 관절부기가 있는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "55세 남성이 급성으로 시작된 우측 엄지발가락의 극심한 통증과 발적을 주소로 내원하였다. 환자는 최근 술을 많이 마셨으며, 신체 진찰에서 첫 번째 중족지 관절(MTP)의 심한 압통과 부종이 관찰되었다. 추가 검사 결과, 혈중 요산 수치는 9.5 mg/dL로 상승되어 있었다. 다음 중 이 환자의 급성 통풍 발작 치료로 가장 적절한 약제는?",
-    "exam": "혈중 요산: 9.5 mg/dL\nCBC: WBC 10,200 /µL, Neutrophil 70%\nESR 30 mm/hr, CRP 12 mg/L",
-    "options": {
-      "A": "Allopurinol",
-      "B": "Colchicine",
-      "C": "Febuxostat",
-      "D": "Probenecid",
-      "E": "Low-dose aspirin"
-    },
-    "answer": "B",
-    "explanation": "급성 통풍 발작의 1차 치료로 NSAID, Colchicine, 스테로이드가 사용된다. Allopurinol이나 Febuxostat는 요산저하제로서 급성기 치료에 적절하지 않으며, 오히려 증상을 악화시킬 수 있다.",
-    "source": "통풍치료 진료지침, p. XX: 'Colchicine is a first-line treatment for acute gout attacks, particularly in patients who cannot tolerate NSAIDs.'",
-    "category": "통풍"
-  },
-  {
-    "question_id": 6,
-    "chief complaint": "피로",
-    "purpose": "피로를 호소하는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "32세 여성이 3개월 전부터 지속된 피로와 근육통을 주소로 내원하였다. 환자는 이전보다 활동을 하면 쉽게 피로해지며, 특히 아침에 일어나기가 어렵다고 호소하였다. 신체 진찰에서 피부 발진과 구강 궤양이 관찰되었으며, 손가락 말단에서 Raynaud 현상이 확인되었다. 추가 검사에서 ANA가 양성이었으며, 항-dsDNA 항체도 상승되어 있었다. 다음 중 이 환자의 가장 가능성이 높은 진단은?",
-    "exam": "CBC: Hb 10.5 g/dL, WBC 4,200 /µL, Platelet 150,000 /µL\nESR 60 mm/hr, CRP 10 mg/L\nANA +, anti-dsDNA +\n소변 검사: 단백뇨 (+), RBC 5-10/HPF",
-    "options": {
-      "A": "류마티스 관절염",
-      "B": "전신성 홍반성 루푸스(SLE)",
-      "C": "섬유근육통",
-      "D": "다발성 경화증",
-      "E": "쇼그렌 증후군"
-    },
-    "answer": "B",
-    "explanation": "이 환자는 만성적인 피로, 관절통, 피부 발진, Raynaud 현상 및 신장 침범(단백뇨) 등의 전신성 홍반성 루푸스(SLE)의 특징적인 임상양상을 보인다. 또한, ANA와 항-dsDNA 항체의 양성 소견이 있어 진단을 확정할 수 있다.",
-    "source": "SLE 진료지침, p. XX: 'Patients with SLE often present with fatigue, arthralgia, and skin involvement. The presence of ANA and anti-dsDNA antibodies is highly suggestive of SLE.'",
-    "category": "전신성 홍반성 루푸스"
-  }
-]
-
-
-
-
-==============
 {
   "question_id": 1,
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
@@ -147,14 +32,7 @@
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "45세 여성이 6개월 전부터 아침에 심해지는 손가락 관절통을 주소로 내원하였다. 최근 손가락 MCP와 PIP 관절의 종창이 심해졌으며, 피로감과 미열을 호소하고 있다. 이 환자의 가장 적절한 치료 전략은?",
   "exam": {
-    "WBC": "8,500/μL",
-    "Hb": "11.5 g/dL",
-    "PLT": "380,000/μL",
-    "ESR": "60 mm/hr",
-    "CRP": "8.2 mg/dL",
-    "RF": "120 IU/mL",
-    "Anti-CCP": "210 U/mL",
-    "X-ray": "손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
+    "WBC: 8,500/μL, Hb: 11.5 g/dL, PLT: 380,000/μL, ESR: 60 mm/hr, CRP: 8.2 mg/dL, RF: 120 IU/mL, Anti-CCP: 210 U/mL, X-ray: 손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
   },
   "options": {
     "A": "NSAIDs 단독 치료",
@@ -230,7 +108,7 @@
   "explanation": "전신성 경화증(Systemic Sclerosis)은 피부 경화와 내부 장기 침범(폐, 위장관, 심장, 신장)이 특징적이다. Anti-Scl-70 양성 및 비정상적인 모세혈관경 검사는 전신성 경화증을 강하게 시사한다.",
   "source": "류마티스 전공의 진료지침.pdf, p. 1140: '전신성 경화증의 진단은 피부병변과 장기 침범이 있는 경우 어렵지 않다. 하지만 초기 진단은 매우 어렵다.'&#8203;:contentReference[oaicite:0]{index=0}",
   "category": "Rheumatology"
-}
+},
 {
   "question_id": 7,
   "chief complaint": "혈뇨(hematuria)",
@@ -248,4 +126,260 @@
   "explanation": "미세다발혈관염(Microscopic Polyangiitis, MPA)은 P-ANCA(MPO-ANCA) 양성과 신장 및 폐 침범(폐-신장 증후군)을 특징으로 한다. 혈뇨, 단백뇨 및 신부전 증상이 나타나며, 심한 경우 폐포 출혈로 인한 호흡곤란이 동반될 수 있다.",
   "source": "혈관염 진료지침1(ANCA).pdf, p. 1089: 'The antineutrophil cytoplasmic antibody (ANCA)–associated vasculitides (AAV) comprise granulomatosis with polyangiitis (GPA), microscopic polyangiitis (MPA), and eosinophilic granulomatosis with polyangiitis (EGPA). These diseases affect small- and medium-sized vessels and are characterized by multisystem organ involvement.'&#8203;:contentReference[oaicite:0]{index=0}",
   "category": "Rheumatology"
+},
+{
+  "question_id": 8,
+  "chief complaint": "근력저하(muscle weakness)",
+  "purpose": "근력 저하를 보이는 환자에서 원인질환을 감별할 수 있다.",
+  "question": "48세 남성이 3개월 전부터 서서히 진행된 근력 저하를 주소로 내원하였다. 환자는 계단 오르기가 어려워졌으며, 머리를 빗거나 높은 선반에서 물건을 꺼내는 것이 힘들다고 호소한다. 신체검진에서 근위부 근력 저하가 관찰되었으며, 감각 이상은 없었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "CK: 4200 IU/L; LDH: 560 IU/L; AST: 75 IU/L; ALT: 62 IU/L; Anti-Jo-1: positive; EMG: myopathic pattern with fibrillations; Muscle biopsy: endomysial inflammation with CD8+ T cell infiltrates",
+  "options": {
+    "A": "루게릭병(Amyotrophic lateral sclerosis)",
+    "B": "길랭-바레 증후군(Guillain-Barré syndrome)",
+    "C": "다발성 근염(Polymyositis)",
+    "D": "중증 근무력증(Myasthenia gravis)",
+    "E": "근이영양증(Duchenne muscular dystrophy)"
+  },
+  "answer": "C",
+  "explanation": "다발성 근염(Polymyositis)은 주로 근위부 근력 저하와 높은 CK 수치를 동반하며, 근전도에서 근병증성 소견이 나타난다. 근육 생검에서 CD8+ T 세포의 침윤이 특징적이다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1136: '다발성 근염(Polymyositis)은 주로 근위부 근력 저하를 초래하며, Muscle biopsy에서 endomysial inflammation with CD8+ T cell infiltrates가 특징적이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 9,
+  "chief complaint": "근력저하(muscle weakness)",
+  "purpose": "근력 저하를 보이는 환자에서 원인질환을 감별할 수 있다.",
+  "question": "55세 여성이 2개월 전부터 진행된 근력 저하와 피부 발진을 주소로 내원하였다. 환자는 높은 선반에서 물건을 꺼내는 것이 어렵고, 계단 오를 때 힘이 많이 든다고 한다. 최근 얼굴과 손등에 붉은색 발진이 생겼으며, 손가락 관절 주위로 미세한 각질 침착이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "CK: 5100 IU/L; LDH: 620 IU/L; AST: 80 IU/L; ALT: 70 IU/L; Anti-Mi-2: positive; Nailfold capillaroscopy: abnormal; Skin biopsy: interface dermatitis with perivascular inflammation",
+  "options": {
+    "A": "루게릭병(Amyotrophic lateral sclerosis)",
+    "B": "다발성 근염(Polymyositis)",
+    "C": "피부근염(Dermatomyositis)",
+    "D": "쇼그렌 증후군(Sjögren’s syndrome)",
+    "E": "강직성 척추염(Ankylosing spondylitis)"
+  },
+  "answer": "C",
+  "explanation": "피부근염(Dermatomyositis)은 근위부 근력 저하와 함께 특징적인 피부 병변(Gottron’s papules, Heliotrope rash)을 동반한다. Anti-Mi-2 항체 양성 및 피부 생검에서 interface dermatitis 소견이 진단에 도움이 된다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1136: '피부근염(Dermatomyositis)은 전형적인 피부 병변과 근력 저하가 특징적이며, Anti-Mi-2 항체와 피부 생검 소견이 진단에 유용하다.'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
 }
+{
+  "question_id": 10,
+  "chief complaint": "근력 저하(muscle weakness)",
+  "purpose": "근력 저하가 있는 환자에서 원인질환을 감별할 수 있다.",
+  "question": "48세 여성이 수개월 전부터 점진적으로 심해지는 근력 저하로 내원하였다. 계단 오르기와 빗질하기가 어려워졌으며, 최근 음식물을 삼키기 힘들다고 한다. 신체검진상 근위부 근력 저하가 두드러졌으며, 감각 이상이나 건반사 소실은 없었다. CK 수치가 상승하였으며, Anti-Jo-1 항체 양성이 확인되었다. 이 환자의 가장 적절한 치료 전략은?",
+  "exam": "CK: 4,500 U/L; AST: 85 U/L; ALT: 60 U/L; LDH: 900 U/L; ANA: positive (1:160 speckled pattern); Anti-Jo-1: positive; EMG: fibrillation potentials and positive sharp waves",
+  "options": {
+    "A": "NSAIDs 단독 치료",
+    "B": "Methotrexate 단독 치료",
+    "C": "고용량 스테로이드 단독 치료",
+    "D": "고용량 스테로이드 및 면역억제제 병합 치료",
+    "E": "IVIG 단독 치료"
+  },
+  "answer": "D",
+  "explanation": "다발성 근염(Polymyositis, PM)은 근위부 근력 저하를 특징으로 하며, 초기 치료로 고용량 스테로이드를 사용한다. 면역억제제(예: Methotrexate, Azathioprine)는 스테로이드 감량 시 병합 치료로 고려된다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1136: 'Glucocorticoids: High-dose prednisolone 1 mg/kg/일×4주 이상 사용하고 서서히 감량한다. Immunosuppressive drugs: Azathioprine (1.5-2 mg/kg/day) 또는 methotrexate 매주 1회 7.5-25 mg을 glucocorticoid와 함께 사용할 수 있다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+}
+{
+  "question_id": 11,
+  "chief complaint": "근력 저하(muscle weakness)",
+  "purpose": "근력 저하가 있는 환자에서 원인질환을 감별할 수 있다.",
+  "question": "55세 남성이 양쪽 상지와 하지의 점진적인 근력 저하 및 피부 변화로 내원하였다. 손등과 팔꿈치 주변에 보랏빛 발진이 있으며, 목 주변에도 피부색 변화가 관찰되었다. 근위부 근력 저하가 두드러지며, Nailfold capillaroscopy에서 모세혈관 변화가 확인되었다. 이 환자의 추가적인 검사로 가장 적절한 것은?",
+  "exam": "CK: 6,200 U/L; AST: 105 U/L; ALT: 78 U/L; LDH: 1,200 U/L; ANA: positive (1:320 speckled pattern); Anti-Mi-2: positive; Nailfold capillaroscopy: abnormal with dilated capillaries and dropout",
+  "options": {
+    "A": "흉부 CT",
+    "B": "근육 조직검사",
+    "C": "PET-CT",
+    "D": "신장 조직검사",
+    "E": "말초신경 전도검사"
+  },
+  "answer": "C",
+  "explanation": "피부근염(Dermatomyositis, DM)은 악성 종양과의 연관성이 높으므로 추가적인 종양 검색이 필요하다. PET-CT는 종양 동반 가능성을 평가하는 데 유용하다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1134: '다발성 근염(PM)보다 DM과의 연관성이 더 높다. Ovarian cancer, breast cancer, melanoma, colon cancer. 매년 정기적인 검사가 필요(예: PET-CT, pelvic, breast, and rectal examinations, urinalysis, complete blood count, blood chemistry test, chest X-ray).'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 12,
+  "chief complaint": "대동맥 또는 주요 혈관의 염증 및 협착이 있는 환자를 평가하고 진단할 수 있다.",
+  "purpose": "대동맥 또는 주요 혈관의 염증 및 협착이 있는 질환을 감별진단할 수 있다.",
+  "question": "25세 여성이 6개월 전부터 지속된 피로, 체중 감소, 팔 통증을 호소하며 내원하였다. 신체검진에서 좌측 상지의 맥박이 미약하고 혈압 차이가 20mmHg 이상 관찰되었다. 혈액검사에서는 ESR 75mm/hr, CRP 30mg/L로 상승되어 있으며, 혈관조영술에서 대동맥궁 및 좌측 쇄골하동맥의 협착이 확인되었다. 이 환자의 가장 적절한 치료는?",
+  "exam": "혈액검사: ESR 75mm/hr, CRP 30mg/L 상승. 영상검사: 대동맥궁 및 좌측 쇄골하동맥 협착 확인.",
+  "options": {
+    "A": "저용량 아스피린과 고용량 스테로이드",
+    "B": "고용량 스테로이드 단독",
+    "C": "항-TNF 생물학제제 단독",
+    "D": "혈관 성형술 및 스텐트 삽입",
+    "E": "고용량 스테로이드 및 면역억제제 병용"
+  },
+  "answer": "E",
+  "explanation": "Takayasu 동맥염의 치료 원칙은 염증을 조절하고 혈관 협착 진행을 예방하는 것이다. 초기 치료로 고용량 스테로이드가 사용되며, 스테로이드 감량 과정에서 면역억제제(예: 메토트렉세이트, 아자치오프린)를 병용하는 것이 권장된다.",
+  "source": "혈관염 진료지침2.pdf, p.82: 'Takayasu 동맥염의 치료로 고용량 스테로이드와 면역억제제 병용이 권장된다.'",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 13,
+  "chief complaint": "피부 및 전신 경화증을 동반한 환자를 평가하고 진단할 수 있다.",
+  "purpose": "피부 및 전신 경화증을 동반한 질환의 감별 진단 및 치료 전략을 설명할 수 있다.",
+  "question": "45세 여성이 손가락의 피부가 두꺼워지고, 차가운 곳에 노출되면 손끝이 창백해지는 증상을 주소로 내원하였다. 내원 당시 혈압은 130/80mmHg였으며, 말초 맥박은 정상이었다. 항핵항체(ANA) 양성, 항-Scl-70 항체 양성이었고, 손톱주름 모세혈관검사에서 거친 변화가 관찰되었다. 흉부 고해상도 CT에서는 간질성 폐질환이 확인되었다. 이 환자의 가장 적절한 초기 치료 전략은?",
+  "exam": "항핵항체(ANA) 양성, 항-Scl-70 항체 양성. 손톱주름 모세혈관검사에서 거친 변화. 흉부 고해상도 CT에서 간질성 폐질환.",
+  "options": {
+    "A": "고용량 스테로이드 단독",
+    "B": "칼슘채널 차단제 및 국소 혈관 확장제",
+    "C": "면역억제제(사이클로포스파미드 또는 미코페놀레이트 모페틸)",
+    "D": "항섬유화제(닌테다닙 또는 피르페니돈)",
+    "E": "고용량 스테로이드 및 항섬유화제 병용"
+  },
+  "answer": "C",
+  "explanation": "전신성 경화증(Systemic sclerosis) 환자에서 폐 섬유화가 동반된 경우 면역억제제(사이클로포스파미드 또는 미코페놀레이트 모페틸)가 1차 치료제로 권장된다.",
+  "source": "류마티스 전공의 진료지침.pdf, p.1137: '전신성 경화증에서 간질성 폐질환이 동반될 경우 면역억제제 치료가 권장된다.'",
+  "category": "Rheumatology"
+}
+{
+  "question_id": 14,
+  "chief complaint": "허리통증(low back pain)",
+  "purpose": "허리통증이 있는 사람에게서 원인질환을 감별할 수 있다.",
+  "question": "29세 남성이 6개월 전부터 지속되는 허리 통증을 주소로 내원하였다. 통증은 **아침에 심하고 운동하면 호전**된다고 한다. 신체검사에서 Modified Schober test가 3cm로 감소되어 있었고, Patrick test에서 천장관절의 압통이 확인되었다. 다음 중 이 환자의 진단을 가장 확실하게 확인할 수 있는 검사는?",
+  "exam": "HLA-B27: positive; ESR: 45 mm/hr; CRP: 7.5 mg/dL; Lumbar X-ray: bilateral sacroiliitis (grade 2)",
+  "options": {
+    "A": "MRI 천장관절",
+    "B": "HLA-B27 유전자 검사",
+    "C": "X-ray 측면 척추",
+    "D": "항CCP 항체 검사",
+    "E": "골스캔 검사"
+  },
+  "answer": "A",
+  "explanation": "강직성 척추염(AS)은 **염증성 허리 통증과 천장관절염(sacroiliitis)**이 특징이다. 초기에는 X-ray에서 이상 소견이 없을 수 있으며, **MRI가 조기 진단에 가장 민감한 검사**이다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1095: '강직성 척추염의 진단에서 MRI는 조기 병변을 확인할 수 있어 X-ray보다 민감하다. 천장관절염의 특징적 소견이 MRI에서 먼저 나타난다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 15,
+  "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
+  "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
+  "question": "52세 여성이 **손가락 관절통과 아침 강직**을 주소로 내원하였다. 6개월 전부터 점진적으로 증상이 악화되었으며, 최근 손가락 PIP 관절과 손목 관절의 부종이 관찰되었다. X-ray에서 뚜렷한 골미란(marginal erosion)이 확인되었다. 이 환자의 1차 치료제로 가장 적절한 것은?",
+  "exam": "RF: 132 IU/mL; Anti-CCP: 245 U/mL; ESR: 55 mm/hr; CRP: 9.1 mg/dL; X-ray: 손목 및 PIP 관절 골미란",
+  "options": {
+    "A": "NSAIDs 단독 치료",
+    "B": "고용량 스테로이드 단독 투여",
+    "C": "Methotrexate 단독 치료",
+    "D": "Methotrexate와 생물학적 제제 병합 치료",
+    "E": "항말라리아제(Hydroxychloroquine) 단독 사용"
+  },
+  "answer": "C",
+  "explanation": "류마티스 관절염(RA)의 초기 치료는 **Methotrexate(MTX) 단독 요법**이 원칙이다. 골미란이 확인되었으므로 적극적 치료가 필요하지만, **생물학적 제제는 MTX 치료에 반응이 없을 때 추가**한다.",
+  "source": "류마티스 관절염 진료지침.pdf, p. 115: '류마티스 관절염에서 치료의 첫 단계는 MTX 단독 치료이며, MTX 반응이 불충분할 경우 생물학적 제제 병합 요법을 고려한다.'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 16,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "55세 남성이 최근 3개월간 지속적인 근육통, 체중 감소, 야간 발한을 주소로 내원하였다. 신체검진에서 혈압은 160/100 mmHg이며, 하지의 망상청피반(livedo reticularis)이 관찰되었다. 복부 청진에서 신장 동맥 잡음이 들렸으며, 신경학적 검사에서 단독 신경병증(mononeuritis multiplex) 소견이 확인되었다. 이 환자의 감별 진단을 위해 가장 적절한 검사는?",
+  "exam": "혈액검사: ESR 90 mm/hr, CRP 45 mg/L 상승. ANCA 음성. 신장 기능 정상. 복부 CT 혈관조영술: 신장 동맥의 다발성 미세 동맥류 및 협착 소견 확인.",
+  "options": {
+    "A": "ANCA 혈액 검사",
+    "B": "혈관조영술",
+    "C": "신장 조직검사",
+    "D": "항인지질 항체 검사",
+    "E": "척수액 분석"
+  },
+  "answer": "B",
+  "explanation": "Polyarteritis Nodosa (PAN)는 중간 크기의 혈관염으로, ANCA 음성이며 신장 동맥 및 내장 동맥의 미세 동맥류와 협착이 특징적이다. 혈관조영술을 통해 진단을 확정할 수 있다.",
+  "source": "혈관염 진료지침3(PAN).pdf, p. 1063: 'Polyarteritis nodosa (PAN)는 중간 크기 혈관을 주로 침범하며, 신장 및 내장 혈관에서 동맥류 및 협착이 특징적으로 관찰된다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 16,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "50세 남성이 수개월간 진행된 근력 저하로 내원하였다. 계단 오르기와 머리 빗기가 어려워졌으며, 근육통을 동반하였다. 신체검진에서 근위부 근육의 근력이 감소하였으며, 근육 위축 소견은 보이지 않았다. 근전도(EMG) 검사에서 짧은 다상성 활동전위가 관찰되었고, 혈액검사에서는 CK 수치가 상승하였다. 이 환자의 가장 적절한 치료는?",
+  "exam": "혈액검사: CK 2800 U/L (정상 < 200 U/L), AST 85 U/L, ALT 72 U/L. 근전도(EMG): 짧은 다상성 활동전위. 근육 생검: 근섬유 내 염증 침윤 및 괴사.",
+  "options": {
+    "A": "고용량 스테로이드 단독",
+    "B": "IVIG 단독",
+    "C": "면역억제제(아자티오프린 또는 메토트렉세이트) 추가",
+    "D": "TNF 억제제",
+    "E": "물리치료 단독"
+  },
+  "answer": "C",
+  "explanation": "다발성 근염(Polymyositis)은 염증성 근육질환으로, 치료는 고용량 스테로이드와 면역억제제(아자티오프린, 메토트렉세이트)를 병용하는 것이 원칙이다. IVIG는 난치성 또는 혈관염 동반 피부근염에서 고려된다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1136: '다발성 근염 치료는 고용량 스테로이드와 면역억제제 병용이 원칙이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 18,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "48세 여성이 6개월 전부터 지속된 천식 악화와 함께 최근 2주간 발열, 피로, 체중 감소를 주소로 내원하였다. 신체검진에서 양측 폐에서 천명음이 들렸으며, 하지의 점상 출혈이 관찰되었다. 혈액검사에서 호산구 증가와 P-ANCA 양성이 확인되었다. 이 환자의 치료 전략으로 가장 적절한 것은?",
+  "exam": "혈액검사: WBC 12,500/μL, 호산구 45% 증가. ESR 75 mm/hr, CRP 30 mg/L. P-ANCA 양성. 흉부 CT: 다발성 결절성 침윤 소견 확인.",
+  "options": {
+    "A": "고용량 스테로이드 단독",
+    "B": "스테로이드와 메토트렉세이트 병용",
+    "C": "스테로이드와 리툭시맙 병용",
+    "D": "스테로이드와 사이클로포스파마이드 병용",
+    "E": "스테로이드와 메폴리주맙 병용"
+  },
+  "answer": "E",
+  "explanation": "EGPA(Churg-Strauss Syndrome)는 호산구 증가, 천식, 혈관염이 특징적이며, 스테로이드와 함께 IL-5 억제제인 메폴리주맙이 효과적이다. 심한 경우 사이클로포스파마이드가 필요할 수 있다.",
+  "source": "혈관염 진료지침1(ANCA).pdf, p. 1088: 'Eosinophilic Granulomatosis with Polyangiitis (EGPA) 환자에서 메폴리주맙이 치료에 효과적이며, 스테로이드와 병용하는 것이 권장된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 19,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "28세 남성이 2주 전 여행 후 시작된 무릎 관절통과 발뒤꿈치 통증을 주소로 내원하였다. 환자는 최근 설사를 앓았으며, 현재는 호전된 상태이다. 신체검진에서 우측 무릎 부종과 압통이 있었고, 발뒤꿈치 주변에 국소적인 통증이 있었다. 결막염이 동반되어 있었다. 이 환자의 가장 적절한 치료는?",
+  "exam": "혈액검사: WBC 10,500/μL, ESR 45 mm/hr, CRP 8.5 mg/dL, HLA-B27 양성. 관절천자: WBC 25,000/μL (PMN 80%), 결핵균 및 일반 세균 배양 음성.",
+  "options": {
+    "A": "NSAIDs 단독",
+    "B": "항생제 및 NSAIDs 병용",
+    "C": "고용량 스테로이드",
+    "D": "면역억제제(메토트렉세이트)",
+    "E": "TNF 억제제"
+  },
+  "answer": "A",
+  "explanation": "반응성 관절염(Reactive Arthritis)은 감염 후 발생하는 관절염으로, 초기 치료는 NSAIDs가 기본이다. 항생제는 활성 감염이 있는 경우 사용하지만, 증상 발현 후에는 효과가 없다. 스테로이드와 면역억제제는 중증 또는 만성화된 경우 고려된다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1125: '반응성 관절염 치료에서 NSAIDs가 1차 치료로 권장된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 20,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "67세 여성이 1년 전부터 진행된 양측 무릎 통증을 주소로 내원하였다. 활동할 때 통증이 심해지며, 아침 강직은 5분 이내로 짧았다. 신체검진에서 무릎 관절의 압통과 뼈 마찰음(crepitus)이 관찰되었으며, 종창은 없었다. X-ray에서 관절 간격 협소 및 골극 형성이 보였다. 이 환자의 치료로 가장 적절한 선택은?",
+  "exam": "X-ray: 양측 무릎 관절 간격 협소, 골극 형성. 혈액검사: ESR 15 mm/hr, CRP 0.4 mg/dL, RF 음성.",
+  "options": {
+    "A": "Methotrexate 및 스테로이드",
+    "B": "비스테로이드성 소염제(NSAIDs) 및 운동 요법",
+    "C": "TNF 억제제 생물학적 제제",
+    "D": "칼슘 및 비타민 D 보충제",
+    "E": "관절 내 스테로이드 주사"
+  },
+  "answer": "B",
+  "explanation": "골관절염(Osteoarthritis)은 비염증성 관절 질환으로, 1차 치료로는 비약물적 치료(운동, 체중 감량)와 함께 NSAIDs 사용이 권장된다. Methotrexate 및 TNF 억제제는 염증성 관절염에 사용되며, 칼슘/비타민 D 보충제는 골다공증 치료에 적합하다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1082: '골관절염의 치료 원칙은 통증 관리 및 기능 개선을 목표로 하며, 비약물적 치료(운동, 체중 감량)와 약물 치료(NSAIDs, 아세트아미노펜)가 기본이 된다.'&#8203;:contentReference[oaicite:0]{index=0}",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 21,
+  "chief complaint": "",
+  "purpose": "",
+  "question": "50세 여성이 1년 전부터 지속된 구강 건조감과 눈의 작열감을 주소로 내원하였다. 최근 식사 시 삼킴 곤란이 악화되었으며, 구강 내 치아 우식증이 증가하였다. 신체검진에서 이하선이 양측성으로 경미하게 종창되어 있었으며, Schirmer 검사에서 눈물 생성이 감소되어 있었다. 가장 적절한 확진 검사는?",
+  "exam": "Schirmer 검사: 3mm/5분 (정상 ≥10mm); 항-Ro(SSA) 항체 양성, 항-La(SSB) 항체 양성; 침샘 조직 생검: 림프구 침윤 관찰됨.",
+  "options": {
+    "A": "항핵항체(ANA) 검사",
+    "B": "침선 조직 생검",
+    "C": "IgG4 관련 질환 검사",
+    "D": "항중성구 세포질 항체(ANCA) 검사",
+    "E": "류마티스 인자(RF) 검사"
+  },
+  "answer": "B",
+  "explanation": "쇼그렌 증후군(Sjogren's syndrome)의 확진을 위해서는 침샘 조직 생검이 필요하며, 림프구 침윤이 확인될 경우 진단할 수 있다. Schirmer 검사는 보조적인 진단 도구이며, ANA, RF는 진단에 도움이 되지만 확진 검사로 사용되지 않는다.",
+  "source": "류마티스 전공의 진료지침.pdf, p. 1082: '쇼그렌 증후군의 진단은 항-Ro/SSA, 항-La/SSB 항체 검사와 침샘 조직 생검을 기반으로 한다.'&#8203;:contentReference[oaicite:1]{index=1}",
+  "category": "Rheumatology"
+}
+
+
+
+
