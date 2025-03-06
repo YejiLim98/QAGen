@@ -21,7 +21,7 @@
   "question_id": 2,
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
-  "question": "45세 여성이 6개월 전부터 아침에 심해지는 손가락 관절통을 주소로 내원하였다. 최근 손가락 MCP와 PIP 관절의 종창이 심해졌으며, 피로감과 미열을 호소하고 있다. 이 환자의 가장 적절한 치료 전략은?",
+  "question": "45세 여성이 6개월 전부터 아침에 심해지는 손가락 관절통을 주소로 내원하였다. 최근 손가락의 중수지관절과와 근위지관절의 종창이 심해졌으며, 피로감과 미열을 호소하고 있다. 이 환자의 가장 적절한 치료 전략은?",
   "exam": {"WBC: 8,500/μL, Hb: 11.5 g/dL, PLT: 380,000/μL, ESR: 60 mm/hr, CRP: 8.2 mg/dL, RF: 120 IU/mL, Anti-CCP: 210 U/mL, X-ray: 손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
   },
   "options": {
@@ -41,8 +41,7 @@
   "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "55세 남성이 갑자기 시작된 오른쪽 엄지발가락의 심한 통증과 발적을 주소로 내원하였다. 환자는 최근 회식에서 과음을 했으며, 이전에도 유사한 증상이 있었지만 자연적으로 호전되었다. 이 환자의 급성 치료로 가장 적절한 것은?",
-  "exam": {"WBC: 11,000/μL, Hb: 14.2 g/dL, PLT: 250,000/μL, ESR: 48 mm/hr, CRP: 6.5 mg/dL, Uric acid: 9.2 mg/dL, Synovial fluid: WBC 20,000/μL (PMN 85%), urate crystals, X-ray: 1st MTP joint erosion and chondrocalcinosis"
-  },
+  "exam": "WBC: 11,000/μL, Hb: 14.2 g/dL, PLT: 250,000/μL, ESR: 48 mm/hr, CRP: 6.5 mg/dL, Uric acid: 9.2 mg/dL, Synovial fluid: WBC 20,000/μL (PMN 85%), 요산 결정, X-ray: 첫째 발허리발가락관절의 미란 및 연골석회화",
   "options": {
     "A": "Allopurinol 시작",
     "B": "Colchicine 투여",
@@ -57,10 +56,10 @@
 }
 {
   "question_id": 5,
-  "chief complaint": "혈뇨(hematuria)",
+  "chief complaint": "혈뇨",
   "purpose": "혈뇨가 있는 사람에게서 원인질환을 알아낼 수 있다.",
-  "question": "65세 남성이 2주 전부터 시작된 소변 색의 변화(붉은색)와 피로감을 주소로 내원하였다. 최근 상기도 감염 증상이 있었으며, 체중 감소를 동반하였다. 신체검사상 혈압은 150/95 mmHg이며, 하지에 미세한 자반이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
-  "exam": "Urinalysis: RBC > 50/HPF, protein 2+, WBC 5-10/HPF; Serum Cr: 2.8 mg/dL; BUN: 34 mg/dL; C3: 120 mg/dL (정상 90-180 mg/dL); C4: 30 mg/dL (정상 10-40 mg/dL); ANCA: positive (P-ANCA); Chest X-ray: 다발성 폐 침윤 소견",
+  "question": "65세 남성이 2주 전부터 시작된 붉은 소변과 피로감을 주소로 내원하였다. 최근 상기도 감염 증상이 있었으며, 체중 감소를 동반하였다. 신체검사상 혈압은 150/95 mmHg이며, 하지에 미세한 자반이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
+  "exam": "요검사: RBC > 50/HPF, protein 2+, WBC 5-10/HPF; Serum Cr: 2.8 mg/dL; BUN: 34 mg/dL; C3: 120 mg/dL (정상 90-180 mg/dL); C4: 30 mg/dL (정상 10-40 mg/dL); ANCA: 양성 (P-ANCA); Chest X-ray: 다발성 폐 침윤 소견",
   "options": {
     "A": "고용량 스테로이드 단독 치료",
     "B": "플라스마 페레시스와 면역억제제 병합 치료",
@@ -75,7 +74,7 @@
 }
 {
   "question_id": 6,
-  "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
+  "chief complaint": "관절통/관절부기",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "52세 여성이 1년 전부터 손가락 관절통과 함께 피부가 두꺼워지는 느낌이 있어 내원하였다. 최근 손가락이 차가운 환경에서 창백해지고 청색증을 보인 후 붉게 변하는 증상이 반복되었으며, 삼킴 곤란도 동반되고 있다. 신체검진에서 손가락 피부가 단단해지고, 미세혈관 확장증이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
   "exam": "ANA: 양성 (1:320 speckled pattern); Anti-Scl-70: 양성; Anti-centromere: 음성; Nailfold capillaroscopy: abnormal with giant capillaries and capillary dropout; Chest X-ray: mild interstitial lung disease",
@@ -92,26 +91,8 @@
   "category": "Rheumatology"
 },
 {
-  "question_id": 7,
-  "chief complaint": "혈뇨(hematuria)",
-  "purpose": "혈뇨가 있는 사람에게서 원인질환을 감별할 수 있다.",
-  "question": "64세 남성이 2주 전부터 시작된 전신 쇠약감과 소변 색의 변화(붉은색)를 주소로 내원하였다. 최근 호흡곤란이 발생했으며, 마른 기침을 동반하고 있다. 신체검사에서 혈압은 150/95 mmHg, 경도의 하지 부종이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
-  "exam": "Urinalysis: RBC > 50/HPF, protein 3+, WBC 5-10/HPF; Serum Cr: 3.2 mg/dL; BUN: 40 mg/dL; C3: 110 mg/dL (정상 90-180 mg/dL); C4: 35 mg/dL (정상 10-40 mg/dL); ANCA: positive (P-ANCA, MPO-ANCA); Chest X-ray: diffuse alveolar hemorrhage",
-  "options": {
-    "A": "전신 홍반 루푸스",
-    "B": "전신성 경화증",
-    "C": "미세다발혈관염",
-    "D": "쇼그렌 증후군",
-    "E": "IgA 신병증"
-  },
-  "answer": "C",
-  "explanation": "미세다발혈관염(Microscopic Polyangiitis, MPA)은 P-ANCA(MPO-ANCA) 양성과 신장 및 폐 침범(폐-신장 증후군)을 특징으로 한다. 혈뇨, 단백뇨 및 신부전 증상이 나타나며, 심한 경우 폐포 출혈로 인한 호흡곤란이 동반될 수 있다.",
-  "source": "혈관염 진료지침1(ANCA).pdf, p. 1089: 'The antineutrophil cytoplasmic antibody (ANCA)–associated vasculitides (AAV) comprise granulomatosis with polyangiitis (GPA), microscopic polyangiitis (MPA), and eosinophilic granulomatosis with polyangiitis (EGPA). These diseases affect small- and medium-sized vessels and are characterized by multisystem organ involvement.'&#8203;:contentReference[oaicite:0]{index=0}",
-  "category": "Rheumatology"
-},
-{
   "question_id": 8,
-  "chief complaint": "근력저하(muscle weakness)",
+  "chief complaint": "근력저하",
   "purpose": "근력 저하를 보이는 환자에서 원인질환을 감별할 수 있다.",
   "question": "48세 남성이 3개월 전부터 서서히 진행된 근력 저하를 주소로 내원하였다. 환자는 계단 오르기가 어려워졌으며, 머리를 빗거나 높은 선반에서 물건을 꺼내는 것이 힘들다고 호소한다. 신체검진에서 근위부 근력 저하가 관찰되었으며, 감각 이상은 없었다. 이 환자의 가장 가능성 높은 진단은?",
   "exam": "CK: 4200 IU/L; LDH: 560 IU/L; AST: 75 IU/L; ALT: 62 IU/L; Anti-Jo-1: positive; EMG: myopathic pattern with fibrillations; Muscle biopsy: endomysial inflammation with CD8+ T cell infiltrates",
@@ -129,7 +110,7 @@
 },
 {
   "question_id": 9,
-  "chief complaint": "근력저하(muscle weakness)",
+  "chief complaint": "근력저하",
   "purpose": "근력 저하를 보이는 환자에서 원인질환을 감별할 수 있다.",
   "question": "55세 여성이 2개월 전부터 진행된 근력 저하와 피부 발진을 주소로 내원하였다. 환자는 높은 선반에서 물건을 꺼내는 것이 어렵고, 계단 오를 때 힘이 많이 든다고 한다. 최근 얼굴과 손등에 붉은색 발진이 생겼으며, 손가락 관절 주위로 미세한 각질 침착이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
   "exam": "CK: 5100 IU/L; LDH: 620 IU/L; AST: 80 IU/L; ALT: 70 IU/L; Anti-Mi-2: positive; Nailfold capillaroscopy: abnormal; Skin biopsy: interface dermatitis with perivascular inflammation",
