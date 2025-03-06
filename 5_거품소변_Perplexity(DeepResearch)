@@ -1,0 +1,285 @@
+{
+  "question_id": 1,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 남성이 2주 전부터 시작된 거품 소변과 전신 부종으로 내원하였다. 환자는 특별한 과거력이 없었으나, 최근 상기도 감염 후 얼굴 부종이 시작되었고 점차 다리와 복부 부종으로 진행되었다고 한다. 또한 소변량이 감소하고 소변에 거품이 심하게 생긴다고 호소하였다. 신체 검사에서 혈압 148/95mmHg, 안면과 다리의 함요부종이 관찰되었으며, 복수가 의심되었다. 이 환자에서 원인을 파악하기 위해 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 14.2 g/dL, 백혈구 7,500/μL, 혈소판 230,000/μL, BUN 25 mg/dL, 크레아티닌 1.1 mg/dL, 총 단백 4.8 g/dL, 알부민 2.1 g/dL, 총 콜레스테롤 350 mg/dL\n소변 검사: 비중 1.025, 단백 4+, 적혈구 0-1/HPF, 백혈구 0-2/HPF",
+  "options": {
+    "A": "24시간 소변 단백 정량",
+    "B": "신장 초음파",
+    "C": "항핵항체(ANA) 검사",
+    "D": "신장 조직검사",
+    "E": "소변 단백/크레아티닌 비율"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 거품 소변, 전신 부종, 저알부민혈증, 고콜레스테롤혈증, 심한 단백뇨를 보이는 전형적인 신증후군(nephrotic syndrome)의 임상상을 보이고 있습니다. 신증후군의 진단 기준은 1) 하루 3.5g 이상의 단백뇨, 2) 저알부민혈증(혈청 알부민 <3.0g/dL), 3) 부종, 4) 고지혈증입니다. 이 환자의 경우 소변검사에서 단백 4+로 심한 단백뇨, 혈청 알부민 2.1g/dL로 저알부민혈증, 전신 부종, 총 콜레스테롤 350mg/dL로 고지혈증을 모두 충족하고 있습니다. 신증후군 진단을 위해 가장 우선적으로 시행해야 할 검사는 24시간 소변 단백 정량입니다. 이 검사는 하루 동안 배출되는 총 단백량을 정확히 측정하여 신증후군의 진단 기준인 3.5g/일 이상의 단백뇨를 확인하는 데 필수적입니다. 또한 이 결과는 치료 반응을 모니터링하는 기준점으로도 활용됩니다. 소변 단백/크레아티닌 비율(E)도 단백뇨를 정량화하는 방법이지만, 24시간 소변 단백 정량이 더 정확하며 신증후군 진단의 표준 검사입니다. 신장 초음파(B)는 신장의 크기나 구조적 이상을 평가하는 데 유용하지만, 단백뇨의 양을 정량화하는 데는 도움이 되지 않습니다. 항핵항체 검사(C)는 루푸스 신염과 같은 자가면역 질환 평가에 유용하나, 일차적인 신증후군 진단에는 필수적이지 않습니다. 신장 조직검사(D)는 신증후군의 원인을 확인하기 위해 종종 필요하지만, 단백뇨를 정량화하고 신증후군 진단을 확립한 후에 시행합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Nephrotic syndrome is a clinical complex characterized by proteinuria (>3.5 g/day), hypoalbuminemia (<3.0 g/dL), edema, and hyperlipidemia. The initial diagnostic evaluation should include a 24-hour urine collection for protein determination or a spot urine protein-to-creatinine ratio, serum albumin, and lipid profile. The degree of proteinuria is the best indicator of the severity of the nephrotic syndrome and is used to monitor response to therapy. In adults, the most common causes of nephrotic syndrome are diabetic nephropathy, primary glomerular diseases (minimal change disease, focal segmental glomerulosclerosis, membranous nephropathy), and secondary glomerular diseases (lupus nephritis, amyloidosis). A renal biopsy is often necessary to establish the specific diagnosis, guide therapy, and provide prognostic information, but should be performed after confirming the diagnosis of nephrotic syndrome through quantification of proteinuria.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "62세 남성이 3개월 전부터 시작된 거품 소변으로 내원하였다. 환자는 15년 전 제2형 당뇨병 진단을 받았으며, 최근 2년간 혈당 조절이 잘 되지 않았다고 한다. 현재 메트포르민 1000mg 하루 2회, 글리메피리드 4mg 하루 1회 복용 중이다. 신체 검사에서 혈압 162/94mmHg, 경도의 하지 부종이 관찰되었다. 환자는 현재 항고혈압제를 복용하지 않고 있다. 검사실 소견에서 미세알부민뇨와 사구체여과율 감소가 확인되었다. 이 환자에게 가장 적합한 치료는?",
+  "exam": "혈액 검사: 공복혈당 185 mg/dL, HbA1c 8.5%, BUN 32 mg/dL, 크레아티닌 1.8 mg/dL, eGFR 38 mL/min/1.73m², 총 콜레스테롤 220 mg/dL, LDL 콜레스테롤 145 mg/dL\n소변 검사: 단백 2+, 알부민/크레아티닌 비율 780 mg/g, 적혈구 0-2/HPF, 포도당 2+\n안저 검사: 비증식성 당뇨병성 망막병증",
+  "options": {
+    "A": "스테로이드 치료",
+    "B": "안지오텐신 수용체 차단제(ARB) 추가",
+    "C": "사이클로스포린 치료",
+    "D": "이뇨제 단독 추가",
+    "E": "메트포르민 중단 및 인슐린 치료로 전환"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 장기간 조절되지 않은 제2형 당뇨병, 고혈압, 미세알부민뇨, 사구체여과율 감소를 보이는 당뇨병성 신증 환자입니다. 당뇨병성 신증은 당뇨병의 미세혈관 합병증으로, 초기에는 미세알부민뇨로 시작하여 점차 현성 단백뇨, 신기능 저하로 진행합니다. 이 환자는 알부민/크레아티닌 비율 780 mg/g으로 미세알부민뇨(30-300 mg/g)를 넘어 현성 알부민뇨(>300 mg/g) 상태이며, eGFR 38 mL/min/1.73m²로 중등도의 신기능 저하(CKD stage 3b)를 보이고 있습니다. 당뇨병성 신증 환자에게 가장 적합한 치료는 안지오텐신 수용체 차단제(ARB) 또는 안지오텐신 전환효소 억제제(ACEi)입니다. 이러한 약물은 사구체 내압을 감소시켜 단백뇨를 줄이고 신기능 저하 진행을 늦추는 효과가 있습니다. 또한 이 환자는 고혈압(162/94mmHg)이 있어 혈압 조절이 필요하며, ARB는 신보호 효과와 함께 혈압 조절에도 도움이 됩니다. 스테로이드 치료(A)와 사이클로스포린 치료(C)는 일부 원발성 사구체 질환에는 효과적이지만, 당뇨병성 신증에는 적응증이 아닙니다. 이뇨제 단독 추가(D)는 부종 조절에는 도움이 되지만, 당뇨병성 신증의 진행을 늦추는 데는 효과적이지 않습니다. 메트포르민은 eGFR이 30 mL/min/1.73m² 미만일 때 금기이므로, 현재 환자(eGFR 38)는 용량 감량이 필요할 수 있으나 완전히 중단할 필요는 없습니다. 따라서 메트포르민 중단 및 인슐린 치료로의 전환(E)은 현 단계에서 최선의 선택이 아닙니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Diabetic nephropathy is the leading cause of chronic kidney disease and end-stage renal disease worldwide. It is characterized by the development of proteinuria with subsequent progressive decline in glomerular filtration rate (GFR). The natural history typically progresses from microalbuminuria (30-300 mg/day) to macroalbuminuria (>300 mg/day) and eventually to declining GFR and end-stage renal disease. Risk factors include poor glycemic control, hypertension, longer duration of diabetes, genetic predisposition, and smoking. The cornerstone of management includes glycemic control, blood pressure control, and inhibition of the renin-angiotensin-aldosterone system. Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs) are first-line agents due to their protective effects on the kidney beyond blood pressure control. They reduce intraglomerular pressure, decrease proteinuria, and slow the progression of diabetic nephropathy. SGLT2 inhibitors have also shown renoprotective effects and reduction in cardiovascular events in patients with diabetic nephropathy. Blood pressure should be targeted to <130/80 mmHg, and HbA1c to <7% when feasible. Metformin should be used with caution in patients with reduced GFR and is contraindicated when eGFR is <30 mL/min/1.73m².",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 콩팥생검이 필요한 경우를 구분할 수 있다.",
+  "question": "25세 여성이 1개월 전부터 시작된 거품 소변과 안면 부종으로 내원하였다. 환자는 6개월 전부터 관절통, 구강 궤양, 광과민성을 경험했으며, 최근 안면에 홍반성 발진이 발생했다고 한다. 신체 검사에서 양쪽 볼에 나비 모양의 홍반, 손가락 관절의 압통 및 부종, 경도의 안면 부종이 관찰되었다. 혈압은 135/85mmHg이었다. 검사실 소견에서 단백뇨, 현미경적 혈뇨, 항핵항체 양성, 항dsDNA 항체 양성이 확인되었다. 이 환자에서 콩팥생검이 필요한 가장 중요한 이유는?",
+  "exam": "혈액 검사: 헤모글로빈 10.8 g/dL, 백혈구 3,800/μL, 혈소판 110,000/μL, BUN 28 mg/dL, 크레아티닌 1.2 mg/dL, 알부민 3.2 g/dL, C3 60 mg/dL(정상: 90-180), C4 8 mg/dL(정상: 10-40)\n면역학적 검사: 항핵항체(ANA) 1:640 양성(homogeneous pattern), 항dsDNA 항체 양성(65 IU/mL, 정상: <30)\n소변 검사: 단백 3+, 적혈구 20-30/HPF, 적혈구 원주 양성, 단백/크레아티닌 비율 2.8 g/g",
+  "options": {
+    "A": "루푸스 진단을 확진하기 위해",
+    "B": "신증후군 진단을 확진하기 위해",
+    "C": "루푸스 신염의 병리학적 분류(class)를 결정하기 위해",
+    "D": "항핵항체 양성에 따른 통상적인 검사로",
+    "E": "고혈압의 신장 손상 정도를 평가하기 위해"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전신성 홍반성 루푸스(SLE)와 루푸스 신염의 임상상을 보이고 있습니다. 관절통, 광과민성, 나비 모양 발진, 구강 궤양과 같은 전형적인 SLE 증상과 함께, 검사실 소견에서 항핵항체 양성, 항dsDNA 항체 양성, 보체(C3, C4) 감소, 백혈구 감소, 혈소판 감소 등 SLE에 합당한 소견을 보입니다. 또한 단백뇨, 현미경적 혈뇨, 적혈구 원주는 루푸스 신염을 강력히 시사합니다. 이 환자에서 콩팥생검이 필요한 가장 중요한 이유는 루푸스 신염의 병리학적 분류(class)를 결정하기 위해서입니다. 루푸스 신염은 ISN/RPS 분류에 따라 Class I(미세간질성)부터 Class VI(경화성)까지 6가지로 분류되며, 이 분류는 치료 방법 결정과 예후 예측에 중요합니다. 특히 증식성 루푸스 신염(Class III, IV)은 더 적극적인 면역억제 치료가 필요하며, 신장 기능의 빠른 악화를 예방하기 위해 조기에 적절한 치료를 시작하는 것이 중요합니다. 루푸스 진단 확진(A)은 이미 임상 소견과 검사 결과로 가능하며, 콩팥생검이 반드시 필요하지 않습니다. 신증후군 진단 확진(B)은 24시간 소변 단백 정량이나 단백/크레아티닌 비율로 가능합니다. 항핵항체 양성에 따른 통상적 검사(D)는 적절하지 않으며, 이 환자의 고혈압은 경미하고 루푸스 신염의 결과일 가능성이 높아 선택지 E도 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Lupus nephritis is one of the most serious complications of systemic lupus erythematosus (SLE), affecting approximately 40-70% of patients. Renal manifestations range from asymptomatic urinary abnormalities to rapidly progressive glomerulonephritis leading to end-stage renal disease. Clinical features include proteinuria, hematuria, red cell casts, and varying degrees of renal insufficiency. The diagnosis of lupus nephritis is suggested by the presence of active urinary sediment and/or declining renal function in a patient with SLE. Serologic markers such as anti-double-stranded DNA antibodies and low complement levels (C3 and C4) often correlate with renal disease activity. Renal biopsy is the gold standard for establishing the diagnosis and determining the appropriate therapeutic approach. The International Society of Nephrology/Renal Pathology Society (ISN/RPS) classification divides lupus nephritis into six classes based on histopathologic features: Class I (minimal mesangial), Class II (mesangial proliferative), Class III (focal proliferative), Class IV (diffuse proliferative), Class V (membranous), and Class VI (advanced sclerosing). Treatment is guided by the histologic class, with more aggressive immunosuppression required for proliferative forms (Classes III and IV), typically consisting of induction therapy with corticosteroids and cyclophosphamide or mycophenolate mofetil, followed by maintenance therapy with less toxic agents.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "14세 남자 청소년이 학교 검진에서 발견된 단백뇨로 내원하였다. 환자는 특별한 증상이 없었으며, 과거력 및 가족력에서 특이사항은 없었다. 신체 검사에서 혈압 110/70mmHg, 키 162cm(50 백분위수), 체중 52kg(50 백분위수)로 정상이었으며, 다른 이상 소견은 관찰되지 않았다. 학교 검진 당시 오후에 시행한 소변 검사에서 단백 2+가 검출되었으나, 병원에서 다음날 아침 첫 소변에서는 단백이 음성이었다. 이 환자에서 단백뇨의 원인을 파악하기 위해 가장 적절한 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 6,500/μL, 혈소판 250,000/μL, BUN 12 mg/dL, 크레아티닌 0.7 mg/dL, 총 단백 7.0 g/dL, 알부민
+4.5 g/dL\n소변 검사(학교 검진, 오후): 비중 1.020, 단백 2+, 적혈구 0-1/HPF, 백혈구 0-2/HPF\n소변 검사(병원, 아침 첫 소변): 비중 1.018, 단백 음성, 적혈구 0-1/HPF, 백혈구 0-2/HPF",
+  "options": {
+    "A": "24시간 소변 단백 정량",
+    "B": "분리 소변 검사(오전, 오후, 취침 전)",
+    "C": "신장 초음파",
+    "D": "신장 조직검사",
+    "E": "안지오텐신 전환효소 억제제 투여 후 단백뇨 반응 평가"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 오후 소변에서는 단백뇨가 검출되나 아침 첫 소변에서는 단백뇨가 없는 양상을 보이고 있습니다. 또한 무증상이며, 혈압, 신기능, 혈액 검사가 모두 정상입니다. 이러한 임상 양상은 기립성 단백뇨(orthostatic proteinuria, 체위성 단백뇨)를 강하게 시사합니다. 기립성 단백뇨는 청소년과 젊은 성인에서 발견되는 무증상 단백뇨의 가장 흔한 원인으로, 누워있을 때는 단백뇨가 없다가 기립 시에만 단백뇨가 발생하는 양상을 보입니다. 이는 양성 경과를 보이며, 신장 질환으로 진행하지 않습니다. 기립성 단백뇨의 진단을 위해 가장 적절한 검사는 분리 소변 검사입니다. 환자에게 취침 직전(누워있기 전)에 소변을 보게 한 후, 밤새 누워있다가 아침에 기상 직후 첫 소변(supine position)을 채취하고, 그 후 2시간 이상 기립 상태를 유지한 후 소변(upright position)을 채취하여 단백뇨의 존재 여부를 비교합니다. 기립성 단백뇨의 경우, 아침 첫 소변(supine)에서는 단백뇨가 없거나 매우 적고, 기립 후 소변(upright)에서만 단백뇨가 나타납니다. 24시간 소변 단백 정량(A)은 일일 단백뇨 총량을 측정하는 데 유용하지만, 기립성 단백뇨와 기타 원인을 구분하는 데에는 한계가 있습니다. 신장 초음파(C)와 신장 조직검사(D)는 이 환자처럼 다른 이상 소견이 없는 경우에는 초기 평가로 적절하지 않습니다. 안지오텐신 전환효소 억제제 투여(E)는 단백뇨의 진단보다는 치료에 사용되는 방법으로, 기립성 단백뇨의 진단에는 필요하지 않습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Orthostatic (postural) proteinuria is a benign condition characterized by increased protein excretion in the upright position but normal excretion when the patient is supine. It is the most common cause of asymptomatic proteinuria in children and adolescents, accounting for approximately 60% of cases. The condition is more prevalent in males and tall, thin adolescents. The diagnosis is established by a split urine protein examination: the patient voids before going to bed, discards this specimen, then collects a specimen immediately upon arising in the morning (supine specimen) and another after being upright for at least 2 hours (upright specimen). In orthostatic proteinuria, the supine specimen shows minimal or no proteinuria, while the upright specimen shows significant proteinuria. The total protein excretion in 24 hours is usually <1 g and rarely exceeds 1.5 g. The exact mechanism is unknown but may involve increased glomerular pressure due to compression of the renal vein when upright. The prognosis is excellent, with no progression to chronic kidney disease. Long-term studies following patients for up to 50 years have shown no increased risk of renal disease or hypertension. No treatment is necessary, and the condition often resolves spontaneously during adulthood.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "32세 남성이 3일 전부터 시작된 거품 소변과 혈뇨로 내원하였다. 환자는 1주일 전 편도염으로 치료받은 병력이 있으며, 최근 얼굴과 발목 부종, 요통이 발생했다고 한다. 과거력에서 20세와 25세 때 각각 상기도 감염 후 육안적 혈뇨를 경험한 적이 있었다. 신체 검사에서 혈압 145/90mmHg, 경도의 안면 부종과 발목 부종이 관찰되었다. 검사실 소견에서 미세 혈뇨, 단백뇨, 경도의 신기능 저하가 확인되었다. 혈청 IgA가 증가되어 있었고, C3와 C4는 정상이었다. 신장 조직검사에서 메산지움 증식과 메산지움 내 IgA 침착이 관찰되어 IgA 신증으로 진단받았다. 이 환자에게 가장 적합한 치료 방법은?",
+  "exam": "혈액 검사: 헤모글로빈 13.8 g/dL, 백혈구 8,200/μL, 혈소판 260,000/μL, BUN 22 mg/dL, 크레아티닌 1.4 mg/dL, eGFR 62 mL/min/1.73m², 알부민 3.8 g/dL, IgA 480 mg/dL(정상: 70-400), C3 98 mg/dL, C4 28 mg/dL\n소변 검사: 단백 2+, 적혈구 >50/HPF, 적혈구 원주 양성, 단백/크레아티닌 비율 1.2 g/g\n신장 조직검사: 메산지움 증식성 사구체신염, 메산지움 내 IgA 침착, 경도의 세뇨관-간질 섬유화(10-15%)",
+  "options": {
+    "A": "경과 관찰만 시행",
+    "B": "안지오텐신 전환효소 억제제(ACEi) 투여",
+    "C": "고용량 스테로이드 단독 치료",
+    "D": "사이클로포스파미드와 스테로이드 병합 요법",
+    "E": "플라즈마페레시스(혈장교환술)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 IgA 신증으로 진단된 32세 남성입니다. IgA 신증은 메산지움 내 IgA 침착을 특징으로 하는 가장 흔한 원발성 사구체신염입니다. 환자는 단백뇨(단백/크레아티닌 비율 1.2 g/g, 이는 약 하루 1.2g의 단백뇨에 해당), 고혈압(145/90mmHg), 경도의 신기능 저하(eGFR 62 mL/min/1.73m²)를 보이고 있어, 적극적인 치료가 필요합니다. 이 환자에게 가장 적합한 치료는 안지오텐신 전환효소 억제제(ACEi) 또는 안지오텐신 수용체 차단제(ARB) 투여입니다. IgA 신증 환자에서 ACEi/ARB는 단백뇨를 감소시키고 신기능 저하 진행을 늦추는 효과가 있으며, 고혈압이 동반된 경우 혈압 조절에도 도움이 됩니다. IgA 신증에서는 특히 단백/크레아티닌 비율이 1 g/g 이상인 경우 ACEi/ARB 치료가 권장되며, 이 환자의 경우 단백/크레아티닌 비율 1.2 g/g, 고혈압, 경도의 신기능 저하가 있어 이 치료의 좋은 적응증입니다. 경과 관찰만 시행(A)하는 것은 신기능 저하와 단백뇨가 있는 환자에게 적절하지 않습니다. 고용량 스테로이드 단독 치료(C)는 단백뇨가 더 심하거나(>3g/일) 급속히 진행하는 신기능 저하가 있는 경우에 고려할 수 있으나, 이 환자의 경우 1차 치료로는 ACEi/ARB가 더 적절합니다. 사이클로포스파미드와 스테로이드 병합 요법(D)은 반월형성(crescentic) IgA 신증이나 급속 진행성 사구체신염 양상을 보이는 중증 환자에게 주로 사용되며, 이 환자의 경우 필요하지 않습니다. 플라즈마페레시스(E)는 IgA 신증에서 일반적으로 권장되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - IgA nephropathy (IgAN) is the most common form of primary glomerulonephritis worldwide, characterized by mesangial proliferation and predominant IgA deposition in the mesangium. Clinical presentation varies from asymptomatic microscopic hematuria to rapidly progressive glomerulonephritis. Macroscopic hematuria often follows mucosal infections, particularly of the upper respiratory tract (synpharyngitic hematuria). The diagnosis is established by kidney biopsy showing mesangial IgA deposits on immunofluorescence. The Oxford classification system identifies histologic features that predict poor prognosis: mesangial hypercellularity, endocapillary proliferation, segmental glomerulosclerosis, tubular atrophy/interstitial fibrosis, and crescents. Treatment depends on risk stratification, with higher risk defined by proteinuria >1 g/day, hypertension, and reduced GFR. Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs) are first-line therapy for patients with proteinuria, as they reduce proteinuria and slow disease progression. Corticosteroids may be considered for patients with persistent proteinuria >1 g/day despite 3-6 months of optimized supportive care, though recent trial results have raised questions about their risk-benefit ratio. Immunosuppressive agents such as cyclophosphamide or rituximab are reserved for rapidly progressive disease. Tonsillectomy may be beneficial in selected patients with recurrent tonsillitis-associated macroscopic hematuria.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "68세 남성이 전신 무력감, 요통, 거품 소변으로 내원하였다. 환자는 6개월 전부터 전신 무력감과 체중 감소(10kg)가 있었으며, 최근 요통이 심해졌다고 한다. 과거력상 고혈압 외에는 특이 병력이 없었다. 신체 검사에서 창백함과 오른쪽 갈비뼈 압통이 관찰되었으며, 혈압은 145/85mmHg였다. 검사실 소견에서 규칙적인 형태의 단백뇨, 빈혈, 신기능 저하, 고칼슘혈증이 확인되었다. 소변 단백 전기영동에서 특이 소견이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 헤모글로빈 8.5 g/dL, 백혈구 6,500/μL, 혈소판 210,000/μL, BUN 35 mg/dL, 크레아티닌 2.2 mg/dL, 칼슘 11.8 mg/dL, 알부민 3.6 g/dL, 총 단백 8.4 g/dL, 단백-알부민 격차 4.8 g/dL\n소변 검사: 단백 3+, 적혈구 0-1/HPF, 백혈구 0-2/HPF\n소변 단백 전기영동: M-단백 검출\n혈청 단백 전기영동 및 면역고정 전기영동: IgG κ 유형의 M-단백혈증\n척추 X-선: 다발성 용해성 골 병변",
+  "options": {
+    "A": "다발성 골수종",
+    "B": "초점성 분절성 사구체경화증",
+    "C": "당뇨병성 신증",
+    "D": "아밀로이드증",
+    "E": "IgA 신증"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 단백뇨, 신기능 저하, 빈혈, 고칼슘혈증, 요통과 함께 소변 및 혈청 단백 전기영동에서 M-단백(단클론성 감마글로불린)이 검출되었으며, 척추 X-선에서 다발성 용해성 골 병변이 관찰되었습니다. 이러한 소견은 다발성 골수종의 전형적인 임상 양상입니다. 다발성 골수종은 형질세포의 악성 증식으로 인한 혈액암으로, 전형적인 임상 증상은 CRAB(Calcium elevation, Renal insufficiency, Anemia, Bone lesions)으로 요약됩니다. 이 환자는 고칼슘혈증(11.8 mg/dL), 신부전(크레아티닌 2.2 mg/dL), 빈혈(헤모글로빈 8.5 g/dL), 골 병변(다발성 용해성 병변)을 모두 보이고 있습니다. 단백뇨는 대개 벤스존스 단백뇨(Bence Jones proteinuria)라고 불리는 경쇄(light chain) 단백질 때문이며, 이는 소변 단백 전기영동에서 확인됩니다. 또한 혈청에서 IgG κ 유형의 M-단백혈증이 확인되었습니다. 다발성 골수종에서 단백뇨는 경쇄 과분비, 경쇄 침착에 의한 직접적인 세뇨관 손상, 또는 아밀로이드증 등에 의해 발생할 수 있습니다. 초점성 분절성 사구체경화증(B)은 주로 성인의 신증후군을 일으키는 질환이나, M-단백혈증, 고칼슘혈증, 골 병변 등의 소견을 설명할 수 없습니다. 당뇨병성 신증(C)은 당뇨병이 있는 환자에서 발생하는 진행성 신장 질환으로, 이 환자는 당뇨병 병력이 없습니다. 아밀로이드증(D)도 단백뇨를 일으킬 수 있으며 다발성 골수종과 관련될 수 있으나, 이 환자의 주요 임상 및 검사 소견은 다발성 골수종에 더 합당합니다. IgA 신증(E)은 IgA 침착을 특징으로 하는 사구체신염으로, 이 환자의 M-단백혈증, 고칼슘혈증, 골 병변 등을 설명할 수 없습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Multiple myeloma is a malignant proliferation of plasma cells characterized by the presence of monoclonal immunoglobulin (M protein) in serum and/or urine, along with related organ or tissue impairment. The classic tetrad of multiple myeloma is often referred to as CRAB: hypercalcemia, renal insufficiency, anemia, and bone lesions. Renal involvement occurs in 20-40% of patients at diagnosis and in up to 50% during the course of the disease. Mechanisms of renal damage include cast nephropathy ('myeloma kidney') from precipitation of light chains in distal tubules, AL amyloidosis, light chain deposition disease, hypercalcemia, and direct tubular toxicity from light chains. Proteinuria is common and usually consists of light chains (Bence Jones protein), which may not be detected by routine urine dipstick tests that primarily detect albumin. Therefore, urine protein electrophoresis is essential for evaluation. Diagnosis requires the presence of clonal bone marrow plasma cells ≥10% or biopsy-proven plasmacytoma, plus one or more of the following: evidence of end-organ damage (CRAB features), clonal plasma cells ≥60%, involved/uninvolved serum free light chain ratio ≥100, or >1 focal lesion on MRI. Treatment typically involves combination chemotherapy with proteasome inhibitors, immunomodulatory drugs, and/or monoclonal antibodies, often followed by autologous stem cell transplantation in eligible patients.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 콩팥생검이 필요한 경우를 구분할 수 있다.",
+  "question": "30세 여성이 얼굴 부종과 거품 소변으로 내원하였다. 환자는 임신 8주 상태로, 1주일 전부터 발과 손이 붓기 시작했으며 최근에는 눈과 얼굴도 부어있다고 한다. 환자는 소변량이 줄고 소변에 거품이 많이 생긴다고 호소하였다. 과거력에서 특이사항은 없었다. 신체 검사에서 혈압 120/75mmHg, 안면 부종과 하지의 함요부종이 관찰되었다. 검사실 소견에서 심한 단백뇨와 저알부민혈증이 확인되었으나, 혈뇨는 없었다. 이 환자에서 콩팥생검의 적응증으로 가장 적절한 것은?",
+  "exam": "혈액 검사: 헤모글로빈 12.0 g/dL, 백혈구 8,500/μL, 혈소판 250,000/μL, BUN 15 mg/dL, 크레아티닌 0.8 mg/dL, 총 단백 5.0 g/dL, 알부민 2.2 g/dL, 총 콜레스테롤 280 mg/dL\n소변 검사: 단백 4+, 적혈구 0-2/HPF, 백혈구 0-2/HPF, 24시간 소변 단백 6.5 g\n면역학적 검사: ANA 음성, 항dsDNA 항체 음성, C3/C4 정상",
+  "options": {
+    "A": "임신 1기의 심한 신증후군",
+    "B": "단백뇨 외에 혈뇨가 없어 생검이 불필요함",
+    "C": "모든 임신 중 단백뇨 환자에서 콩팥생검이 필요함",
+    "D": "임신 중 단백뇨는 전자간증 감별을 위해 항상 생검이 필요함",
+    "E": "저알부민혈증이 있어 콩팥생검 위험성이 높음"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 임신 8주(1기)의 30세 여성으로, 심한 단백뇨(24시간 소변 단백 6.5g), 저알부민혈증(알부민 2.2 g/dL), 부종을 보이는 신증후군 상태입니다. 임신 중 단백뇨는 크게 두 가지로 나눌 수 있습니다: 임신 이전부터 있었던 원발성 신장 질환과 임신에 의해 유발된 상태(주로 전자간증/자간증). 전자간증은 주로 임신 20주 이후(2기 후반~3기)에 발생하며, 고혈압과 단백뇨가 특징입니다. 이 환자는 임신 8주로 전자간증이 발생하기에는 이른 시기이며, 혈압도 정상(120/75mmHg)이어서 전자간증의 가능성은 낮습니다. 따라서 이 환자의 심한 신증후군은 원발성 사구체질환(예: 미세변화질환, 국소분절사구체경화증, 막성 신증 등)일 가능성이 높습니다. 임신 1기에 심한 신증후군이 발생한 경우, 원발성 사구체질환의 진단과 적절한 치료를 위해 콩팥생검이 필요합니다. 치료되지 않은 심한 신증후군은 임신에 부정적인 영향을 미칠 수 있으며, 특히 저알부민혈증은 태아 성장 지연과 연관될 수 있습니다. 따라서 원인 질환을 정확히 진단하고 적절한 치료를 시작하는 것이 중요합니다. 단백뇨 외에 혈뇨가 없다고 해서 생검이 불필요하다는 것(B)은 적절하지 않습니다. 혈뇨 없이 단백뇨만 있는 원발성 사구체질환(예: 미세변화질환)도 많이 있습니다. 모든 임신 중 단백뇨 환자에서 콩팥생검이 필요하다는 것(C)은 과도한 접근이며, 임신 2-3기에 발생한 경미한 단백뇨와 고혈압은 전자간증의 가능성이 높아 대개 생검 없이 치료합니다. 임신 중 단백뇨가 전자간증 감별을 위해 항상 생검이 필요하다는 것(D)도 부정확합니다. 저알부민혈증이 콩팥생검의 상대적 금기는 아니므로, 선택지 E도 적절하지 않습니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt - Nephrotic syndrome during pregnancy presents a diagnostic challenge, as it may represent either preexisting renal disease or pregnancy-related conditions such as preeclampsia. The timing of presentation is crucial for differential diagnosis. Nephrotic syndrome in the first or early second trimester is unlikely to be preeclampsia, which typically develops after 20 weeks' gestation. In such cases, primary glomerular disease should be suspected, and renal biopsy may be necessary for definitive diagnosis. Common causes of nephrotic syndrome in pregnancy include minimal change disease, focal segmental glomerulosclerosis, membranous nephropathy, and diabetic nephropathy. Renal biopsy during pregnancy is generally safe when performed by experienced operators, particularly in the first and early second trimesters when the uterus is not large enough to interfere with access to the kidney. The benefits of establishing a specific diagnosis and initiating appropriate therapy often outweigh the risks, especially with severe nephrotic syndrome (>3.5 g/day proteinuria) presenting in early pregnancy. Untreated nephrotic syndrome carries significant maternal and fetal risks, including thromboembolic complications, infections, preterm delivery, fetal growth restriction, and acute kidney injury. Treatment depends on the underlying cause, with corticosteroids being first-line therapy for minimal change disease and some cases of focal segmental glomerulosclerosis.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "6세 남아가 전신 부종과 거품 소변으로 내원하였다. 환자는 2주 전 상기도 감염 후 얼굴이 붓기 시작했으며, 점차 복부와 다리까지 부종이 진행되었다고 한다. 소변량이 줄고 소변에 거품이 많이 생긴다고 하며, 최근 체중이 3kg 증가하였다. 과거력에서 특이사항은 없었다. 신체 검사에서 혈압 110/70mmHg, 전신 부종이 관찰되었으며, 복수가 의심되었다. 검사실 소견에서 심한 단백뇨, 저알부민혈증, 고콜레스테롤혈증이 확인되었다. 신장 조직검사에서 광학현미경상 정상 소견, 전자현미경에서 족돌기 융합 소견이 관찰되었다. 이 환자의 가장 적합한 치료는?",
+  "exam": "혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 7,500/μL, 혈소판 320,000/μL, BUN 15 mg/dL, 크레아티닌 0.5 mg/dL, 총 단백 4.2 g/dL, 알부민 1.8 g/dL, 총 콜레스테롤 350 mg/dL\n소변 검사: 비중 1.030, 단백 4+, 적혈구 0-1/HPF, 백혈구 0-2/HPF, 24시간 소변 단백 5.2 g\n면역학적 검사: ANA 음성, 항dsDNA 항체 음성, C3/C4 정상\n신장 조직검사: 광학현미경상 정상 사구체 구조, 면역형광 음성, 전자현미경에서 족돌기 융합 소견",
+  "options": {
+    "A": "경구 프레드니솔론 치료",
+    "B": "사이클로포스파미드와 스테로이드 병합 요법",
+    "C": "ACE 억제제 단독 치료",
+    "D": "경구 사이클로스포린 단독 치료",
+    "E": "대증 요법(이뇨제와 저염식)만 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 심한 단백뇨(24시간 소변 단백 5.2g), 저알부민혈증(알부민 1.8 g/dL), 부종, 고콜레스테롤혈증을 보이는 전형적인 신증후군 상태입니다. 신장 조직검사에서 광학현미경상 정상 소견이지만 전자현미경에서 족돌기 융합 소견이 관찰되었고, 면역형광 검사는 음성인 점을 고려할 때 미세변화질환(Minimal Change Disease, MCD)으로 진단할 수 있습니다. 미세변화질환은 소아 신증후군의 가장 흔한 원인(약 80%)이며, 상기도 감염 후 발생하는 경우가 흔합니다. 미세변화질환의 첫 번째 치료는 경구 프레드니솔론입니다. 일반적으로 소아에서는 프레드니솔론을 60mg/m²/일(최대 60mg/일) 용량으로 4-6주간 매일 투여한 후, 이후 4-6주에 걸쳐 서서히 감량합니다. 이 치료로 약 90%의 환자가 완전 관해에 이르며, 대부분 2주 내에 단백뇨가 호전되기 시작합니다. 사이클로포스파미드와 스테로이드 병합 요법(B)은 스테로이드 의존성 또는 빈번한 재발을 보이는 미세변화질환 환자에게 고려할 수 있으나, 초기 치료로는 일반적으로 사용되지 않습니다. ACE 억제제(C)는 단백뇨를 감소시키는 효과가 있으나, 미세변화질환의 일차 치료로는 적절하지 않습니다. 사이클로스포린(D)은 스테로이드 저항성이거나 의존성인 환자에게 고려할 수 있는 2차 약제입니다. 대증 요법만 시행(E)하는 것은 효과적인 특이 치료가 있는 미세변화질환에서는 적절하지 않습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Minimal change disease (MCD) is the most common cause of nephrotic syndrome in children, accounting for approximately 80% of cases in children under age 10 years. The characteristic pathologic finding is the absence of abnormalities on light microscopy ('minimal change'), negative immunofluorescence, and diffuse effacement of podocyte foot processes on electron microscopy. Clinical features include the sudden onset of edema, massive proteinuria (often >50 mg/kg/day), hypoalbuminemia (<2.5 g/dL), and hypercholesterolemia. Most children have normal blood pressure and normal renal function. The etiology is unknown, but it is thought to involve T-cell dysfunction leading to the production of a circulating factor that damages podocytes. Corticosteroids are the cornerstone of treatment, with prednisone or prednisolone typically administered at a dose of 60 mg/m²/day (maximum 60 mg/day) for 4-6 weeks, followed by 40 mg/m²/alternate days for another 4-6 weeks with subsequent tapering. Approximately 90% of children with MCD achieve complete remission with this regimen, with most showing a response within 2 weeks. For frequent relapses or steroid-dependent disease, alternative therapies include cyclophosphamide, cyclosporine, tacrolimus, mycophenolate mofetil, or rituximab. The long-term prognosis is excellent, with most children eventually achieving permanent remission and normal kidney function.",
+  "category": "Pediatrics"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 3개월 전부터 시작된 거품 소변과 발목 부종으로 내원하였다. 환자는 전신 부종, 피로감, 식욕 감소를 호소하였다. 과거력에서 특이사항은 없었으나, 최근 2년간 매월 진통소염제(NSAIDs)를 2주 이상 복용했다고 한다. 신체 검사에서 혈압 150/90mmHg, 안면과 하지의 함요부종이 관찰되었다. 검사실 소견에서 심한 단백뇨, 저알부민혈증, 경도의 신기능 저하가 확인되었다. 이 환자의 단백뇨 원인을 파악하기 위한 다음 단계로 가장 적절한 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 12.5 g/dL, 백혈구 6,800/μL, 혈소판 240,000/μL, BUN 28 mg/dL, 크레아티닌 1.4 mg/dL, eGFR 55 mL/min/1.73m², 총 단백 5.0 g/dL, 알부민 2.3 g/dL, 총 콜레스테롤 285 mg/dL\n소변 검사: 단백 3+, 적혈구 2-5/HPF, 백혈구 0-2/HPF, 24시간 소변 단백 6.8 g\n면역학적 검사: ANA 음성, 항dsDNA 항체 음성, C3/C4 정상, ANCA 음성\n신장 초음파: 양측 신장 크기 정상, 피질 에코 증가, 피질-수질 경계 불명확",
+  "options": {
+    "A": "신장 조직검사",
+    "B": "추가적인 혈청 면역 검사",
+    "C": "신장 동맥 조영술",
+    "D": "NSAIDs 중단 후 3개월간 경과 관찰",
+    "E": "소변 세포학 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 심한 단백뇨(24시간 소변 단백 6.8g), 저알부민혈증(알부민 2.3 g/dL), 부종을 보이는 신증후군 상태이며, 경도의 신기능 저하(크레아티닌 1.4 mg/dL, eGFR 55 mL/min/1.73m²)도 동반되어 있습니다. 환자는 NSAIDs를 장기간 복용한 병력이 있으며, 이는 신증후군의 원인이 될 수 있는 약제입니다. NSAIDs는 주로 미세변화질환(MCD)이나 급성 세뇨관간질신염을 유발할 수 있으며, 드물게 막성 신증이나 국소분절사구체경화증과도 연관될 수 있습니다. 이 환자에서 가장 적절한 다음 단계 검사는 신장 조직검사입니다. 신장 조직검사는 신증후군을 일으키는 정확한 병리학적 진단을 제공하며, 이는 적절한 치료 계획 수립과 예후 평가에 중요합니다. 특히 성인에서 발생한 신증후군은 소아와 달리 다양한 원인에 의해 발생할 수 있으므로, 정확한 진단을 위해 조직검사가 필요합니다. 가능한 원인으로는 NSAIDs 유발 사구체병증뿐만 아니라 원발성 사구체신염(막성 신증, 국소분절사구체경화증 등)도 고려해야 합니다. 추가적인 혈청 면역 검사(B)는 이미 기본적인 면역학적 검사(ANA, 항dsDNA 항체, 보체, ANCA)가 음성이므로 추가적인 진단적 가치가 제한적입니다. 신장 동맥 조영술(C)은 신혈관성 고혈압이 의심될 때 유용하나, 이 환자의 주요 문제인 신증후군의 원인을 파악하는 데는 도움이 되지 않습니다. NSAIDs 중단 후 3개월간 경과 관찰(D)은 경미한 단백뇨나 신기능 저하의 경우 고려할 수 있으나, 이미 심한 신증후군이 발생한 경우에는 적극적인 진단적 접근이 필요합니다. 소변 세포학 검사(E)는 요로계 악성 종양 의심 시 유용하나, 신증후군 진단에는 일반적으로 사용되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Nephrotic syndrome in adults requires a systematic approach to diagnosis, with renal biopsy playing a central role in identifying the underlying pathology. Common causes in adults include primary glomerular diseases (membranous nephropathy, focal segmental glomerulosclerosis, minimal change disease) and secondary causes (diabetes, lupus, amyloidosis, medications). Drug-induced nephrotic syndrome is an important consideration, with nonsteroidal anti-inflammatory drugs (NSAIDs) being a well-recognized cause. NSAIDs can lead to nephrotic syndrome through several mechanisms, including minimal change disease, acute interstitial nephritis with nephrotic-range proteinuria, and rarely membranous nephropathy. The nephrotoxicity of NSAIDs is dose-dependent and related to their inhibition of renal prostaglandins, which regulate renal hemodynamics and salt and water homeostasis. In patients with heavy proteinuria (>3.5 g/day) and nephrotic syndrome, renal biopsy is generally indicated to establish the specific diagnosis, guide therapy, and provide prognostic information. This is particularly important in adults, where the spectrum of diseases causing nephrotic syndrome is broader than in children, and the likelihood of minimal change disease (which has an excellent response to corticosteroids) is much lower. While drug discontinuation may lead to improvement in some cases of NSAID-induced nephropathy, definitive diagnosis through biopsy is often necessary before initiating specific therapies, particularly in cases with significant proteinuria, renal dysfunction, or systemic symptoms.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 콩팥생검이 필요한 경우를 구분할 수 있다.",
+  "question": "48세 여성이 3개월 전부터 시작된 거품 소변으로 내원하였다. 환자는 최근 1달간 발목 부종과 복부 팽만감이 있었으며, 소변량이 줄고 체중이 4kg 증가했다고 한다. 과거력에서 20년 전 B형 간염 바이러스(HBV) 보균자로 진단받았으나 특별한 치료 없이 지냈다고 한다. 신체 검사에서 혈압 135/85mmHg, 하지 부종, 경도의 복수가 관찰되었다. 검사실 소견에서 단백뇨, 저알부민혈증, B형 간염 혈청 표지자 양성이 확인되었다. 이 환자에서 콩팥생검의 적응증으로 가장 적절한 것은?",
+  "exam": "혈액 검사: 헤모글로빈 12.5 g/dL, 백혈구 5,800/μL, 혈소판 160,000/μL, BUN 18 mg/dL, 크레아티닌 0.9 mg/dL, 총 단백 5.2 g/dL, 알부민 2.4 g/dL, AST 45 U/L, ALT 52 U/L\nB형 간염 표지자: HBsAg 양성, HBeAg 음성, anti-HBe 양성, HBV DNA 2,500 IU/mL\n소변 검사: 단백 3+, 적혈구 0-2/HPF, 백혈구 0-2/HPF, 24시간 소변 단백 5.8 g\n복부 초음파: 간 표면 불규칙, 간실질 에코 증가, 경도의 비장 비대, 소량의 복수",
+  "options": {
+    "A": "신증후군 범위의 단백뇨가 있어 항상 콩팥생검이 필요함",
+    "B": "간경변이 동반되어 출혈 위험이 높아 콩팥생검은 금기임",
+    "C": "B형 간염 관련 신장 질환의 병리 유형을 확인하기 위함",
+    "D": "콩팥생검 없이 경험적으로 항바이러스제 치료를 시작해야 함",
+    "E": "환자의 신기능이 정상이므로 콩팥생검이 불필요함"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 B형 간염 바이러스(HBV) 보균자로, 신증후군 범위의 단백뇨(24시간 소변 단백 5.8g), 저알부민혈증(알부민 2.4 g/dL), 부종을 보이고 있습니다. B형 간염은 다양한 형태의 사구체신염을 유발할 수 있으며, 가장 흔한 것은 막성 신증(membranous nephropathy)입니다. 그 외에도 막증식성 사구체신염(membranoproliferative glomerulonephritis), IgA 신증, 국소분절사구체경화증(FSGS) 등이 발생할 수 있습니다. 이 환자에서 콩팥생검의 적응증은 B형 간염 관련 신장 질환의 병리 유형을 확인하기 위함입니다. 병리 유형에 따라 치료 접근법이 달라질 수 있으며, 특히 항바이러스제 치료의 적응증과 예후를 결정하는 데 중요합니다. B형 간염 관련 막성 신증의 경우, 항바이러스제 치료가 단백뇨 감소와 신기능 보존에 효과적일 수 있으나, 다른 유형의 사구체신염에서는 효과가 다를 수 있습니다. 신증후군 범위의 단백뇨가 있다고 해서 모든 환자에게 콩팥생검이 필요한 것은 아니므로(A), 이는 적절하지 않습니다. 이 환자는 경도의 간 효소 상승과 초음파에서 만성 간질환 소견이 있지만, 혈소판 수치가 160,000/μL로 출혈 위험이 심각하게 증가했다고 볼 수 없어 콩팥생검이 절대적 금기는 아닙니다(B). 콩팥생검 없이 경험적으로 항바이러스제 치료를 시작하는 것(D)은 정확한 신장 질환의 유형과 중증도를 모르는 상태에서 적절하지 않을 수 있습니다. 환자의 신기능이 정상이라도 신증후군 범위의 단백뇨가 있으므로, 원인 질환 확인을 위한 콩팥생검이 필요할 수 있어(E)도 적절하지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Hepatitis B virus (HBV) infection is associated with various forms of glomerular disease, with membranous nephropathy being the most common. Other patterns include membranoproliferative glomerulonephritis, IgA nephropathy, and rarely focal segmental glomerulosclerosis. The pathogenesis involves immune complex deposition, with HBV antigens (particularly HBeAg and HBsAg) detected in glomerular deposits. Clinical manifestations range from asymptomatic proteinuria to nephrotic syndrome, with or without microscopic hematuria. Renal biopsy is crucial for establishing the specific pathologic pattern, which has implications for treatment approach and prognosis. For instance, HBV-associated membranous nephropathy often improves with antiviral therapy, while other patterns may have variable responses. The decision to perform renal biopsy should consider the severity of proteinuria, renal function, and coagulation status. While thrombocytopenia and coagulopathy in advanced liver disease may increase bleeding risk, moderate thrombocytopenia (>50,000/μL) is not an absolute contraindication when the diagnostic yield outweighs the risks. Treatment primarily involves antiviral therapy to suppress viral replication, with agents like entecavir or tenofovir preferred due to their high potency and low resistance rates. Immunosuppressive therapy is generally avoided unless there is evidence of rapidly progressive disease or when the glomerular disease persists despite viral suppression.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "32세 여성이 임신 32주에 거품 소변과 발목 부종으로 내원하였다. 환자는 임신 전 건강했으며, 첫 임신이었다. 최근 2주간 발목 부종과 얼굴이 붓는 증상이 있었으며, 1주일 전부터 심한 거품 소변이 있었다고 한다. 또한 두통과 시력 변화도 간헐적으로 경험했다고 호소하였다. 내원 시 혈압은 162/100mmHg였으며, 전신 부종이 관찰되었다. 검사실 소견에서 심한 단백뇨, 혈소판 감소, 간 효소 상승이 확인되었다. 이 환자의 적합한 치료 방침은?",
+  "exam": "혈액 검사: 헤모글로빈 11.2 g/dL, 백혈구 8,500/μL, 혈소판 90,000/μL, BUN 22 mg/dL, 크레아티닌 1.1 mg/dL, AST 102 U/L, ALT 95 U/L, LDH 580 U/L, 요산 7.2 mg/dL\n소변 검사: 단백 4+, 적혈구 2-5/HPF, 백혈구 0-2/HPF, 단백/크레아티닌 비율 4.5 g/g\n태아 초음파: 태아 성장 지연(추정 체중 10백분위수 미만), 양수량 감소, 제대동맥 도플러에서 이완기말 혈류 감소",
+  "options": {
+    "A": "경구 항고혈압제 투여와 보존적 치료",
+    "B": "산전 스테로이드 투여 후 24-48시간 내 분만 계획",
+    "C": "고용량 스테로이드 치료",
+    "D": "체액량 증가를 위한 정맥 알부민 투여",
+    "E": "임신 유지를 위한 토코라이시스(tocolytics) 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 32주 산모로, 고혈압(162/100mmHg), 심한 단백뇨(단백/크레아티닌 비율 4.5 g/g), 부종, 두통, 시력 변화와 함께 혈소판 감소(90,000/μL), 간 효소 상승(AST 102 U/L, ALT 95 U/L), 그리고 태아 성장 지연 소견을 보이고 있습니다. 이러한 임상 양상은 중증 전자간증(severe preeclampsia)에 합당합니다. 임신 32주에 발생한 중증 전자간증에서는 산전 스테로이드 투여 후 24-48시간 내 분만 계획이 가장 적절한 치료입니다. 34주 미만의 임신에서 중증 전자간증이 있을 경우, 모체와 태아 상태가 안정적이라면 태아 폐 성숙을 위한 산전 코르티코스테로이드(베타메타손 또는 덱사메타손) 투여 후 분만을 계획하는 것이 권장됩니다. 이는 미숙아의 호흡곤란증후군, 뇌실내출혈, 괴사성장염 등의 합병증 위험을 감소시킵니다. 그러나 모체나 태아의 상태가 불안정하다면(예: 자간증, 태반조기박리, 태아곤란 등), 스테로이드 투여 완료 전이라도 즉각적인 분만이 필요할 수 있습니다. 경구 항고혈압제 투여와 보존적 치료(A)는 경증-중등도 전자간증이나 34주 미만에서 모체와 태아 상태가 안정적일 때 고려할 수 있으나, 이 환자는 중증 전자간증으로 분만 계획이 필요합니다. 고용량 스테로이드 치료(C)는 태아 폐 성숙을 위한 산전 스테로이드와는 다르며, 전자간증 자체의 치료에는 효과가 입증되지 않았습니다. 정맥 알부민 투여(D)는 전자간증 치료에 일반적으로 사용되지 않으며, 오히려 체액 과부하를 악화시킬 수 있습니다. 토코라이시스(E)는 조산 억제제로, 중증 전자간증에서는 금기입니다.",
+  "source": "Obstentrics_Williams_textbook_data.txt - Preeclampsia is a multisystem disorder characterized by new-onset hypertension and proteinuria or end-organ dysfunction after 20 weeks of gestation. Severe features include systolic blood pressure ≥160 mm Hg or diastolic blood pressure ≥110 mm Hg, thrombocytopenia (<100,000/μL), impaired liver function (elevated transaminases to twice normal concentration), progressive renal insufficiency, pulmonary edema, or new-onset cerebral or visual disturbances. When preeclampsia is diagnosed, the decision for delivery depends on gestational age, maternal and fetal condition, and severity of disease. For pregnancies <34 weeks with severe preeclampsia, a short delay (24-48 hours) may be considered to administer corticosteroids for fetal lung maturity if the maternal and fetal conditions are stable. However, immediate delivery is indicated regardless of gestational age if there is maternal hemodynamic instability, eclampsia, pulmonary edema, disseminated intravascular coagulation, abruptio placentae, or non-reassuring fetal testing. For gestations ≥34 weeks with severe preeclampsia, delivery is recommended. Magnesium sulfate is administered for seizure prophylaxis in severe preeclampsia, continuing through delivery and for at least 24 hours postpartum. Antihypertensive therapy is generally initiated for persistent systolic blood pressure ≥160 mm Hg or diastolic blood pressure ≥110 mm Hg to prevent maternal cerebrovascular accidents and congestive heart failure.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 남성이 1개월 전부터 시작된 거품 소변과 다리 부종으로 내원하였다. 환자는 최근 몇 달간 피로감, 체중 감소, 식욕 부진이 있었으며, 소변량이 줄고 발목 부종이 점차 악화되었다고 한다. 과거력에서 5년 전 정맥 약물 사용력이 있었으나, 현재는 사용하지 않는다고 하였다. 신체 검사에서 혈압 145/90mmHg, 양측 하지의 함요부종이 관찰되었다. 검사실 소견에서 심한 단백뇨, 고콜레스테롤혈증, 저알부민혈증이 확인되었다. 이 환자의 단백뇨 원인을 파악하기 위해 다음으로 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 11.5 g/dL, 백혈구 6,500/μL, 혈소판 220,000/μL, BUN 32 mg/dL, 크레아티닌 1.6 mg/dL, eGFR 48 mL/min/1.73m², 총 단백 4.8 g/dL, 알부민 2.2 g/dL, 총 콜레스테롤 320 mg/dL\n소변 검사: 단백 4+, 적혈구 0-1/HPF, 백혈구 0-2/HPF, 24시간 소변 단백 8.5 g\n면역학적 검사: ANA 음성, 항dsDNA 항체 음성, C3/C4 정상",
+  "options": {
+    "A": "HIV 항체 검사",
+    "B": "C형 간염 항체 검사",
+    "C": "항사구체 기저막 항체(anti-GBM) 검사",
+    "D": "항인지질 항체 검사",
+    "E": "골수 생검"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 심한 단백뇨(24시간 소변 단백 8.5g), 저알부민혈증(알부민 2.2 g/dL), 고콜레스테롤혈증(320 mg/dL), 부종을 보이는 신증후군 상태이며, 신기능 저하(크레아티닌 1.6 mg/dL, eGFR 48 mL/min/1.73m²)도 동반되어 있습니다. 과거 정맥 약물 사용력은 HIV나 C형 간염과 같은 바이러스 감염의 위험 요인입니다. 이 환자의 임상 양상은 HIV 관련 신증(HIV-associated nephropathy, HIVAN)의 가능성을 시사합니다. HIVAN은 HIV 감염자에서 발생하는 특징적인 신장 질환으로, 주로 국소분절사구체경화증(focal segmental glomerulosclerosis, FSGS)의 병리 소견을 보이며, 급속히 진행하는 신기능 저하와 심한 단백뇨가 특징입니다. 특히 아프리카계 인종에서 더 흔하게 발생합니다. 이 환자에서 단백뇨의 원인을 파악하기 위한 가장 적절한 다음 검사는 HIV 항체 검사입니다. HIV 감염이 확인되면, 항레트로바이러스 치료(ART)를 시작하여 HIV 복제를 억제하고 신장 질환의 진행을 늦출 수 있습니다. C형 간염 항체 검사(B)도 과거 정맥 약물 사용자에서 고려해볼 수 있으나, C형 간염 관련 신장 질환은 주로 막증식성 사구체신염이나 한랭글로불린혈증과 연관되며, 이 환자처럼 심한 신증후군 양상을 보이는 경우는 상대적으로 드뭅니다. 항사구체 기저막 항체 검사(C)는 굿파스처 증후군의 진단에 유용하나, 이 환자의 소변 검사에서 혈뇨가 없어 가능성이 낮습니다. 항인지질 항체 검사(D)는 항인지질 증후군과 관련된 신장 병변의 진단에 도움이 되지만, 이 환자의 임상 양상과는 맞지 않습니다. 골수 생검(E)은 다발성 골수종이나 림프증식성 질환이 의심될 때 고려하나, 이 환자의 임상 양상은 이러한 질환보다 HIVAN에 더 합당합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - HIV-associated nephropathy (HIVAN) is a distinctive form of kidney disease characterized by heavy proteinuria, often in the nephrotic range, and rapidly progressive renal failure. The most common histopathologic finding is collapsing focal segmental glomerulosclerosis (FSGS), though other patterns may also be observed. HIVAN predominantly affects individuals of African descent, suggesting a genetic predisposition, and is associated with advanced HIV disease, though it can occur at any CD4 count. Risk factors include intravenous drug use, untreated HIV infection, and genetic variants in APOL1. Clinical presentation typically includes nephrotic-range proteinuria (often >3.5 g/day), hypoalbuminemia, edema, and variable degrees of renal insufficiency. Urinalysis shows significant proteinuria with minimal hematuria, and renal ultrasound often reveals enlarged, echogenic kidneys. The diagnosis is established by demonstrating HIV infection in a patient with compatible clinical and laboratory findings, though renal biopsy provides definitive diagnosis. The mainstay of treatment is antiretroviral therapy (ART), which can slow or halt disease progression and may even lead to partial reversal of renal dysfunction if initiated early. Adjunctive therapies include ACE inhibitors or ARBs for proteinuria reduction, and corticosteroids in select cases. Without treatment, HIVAN typically progresses to end-stage renal disease within months.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 콩팥생검이 필요한 경우를 구분할 수 있다.",
+  "question": "65세 남성이 6개월 전부터 시작된 거품 소변과 다리 부종으로 내원하였다. 환자는 진행성 피로감, 체중 감소, 설사, 감각 이상을 호소하였다. 과거력에서 15년 전부터 류마티스 관절염으로 치료받고 있었다. 신체 검사에서 설상설(macroglossia), 양측 하지의 함요부종, 간비대가 관찰되었다. 발목과 손목 관절에서 경직과 압통이 있었다. 검사실 소견에서 단백뇨, 빈혈, 신기능 저하, 간 효소 상승, 알칼리 인산분해효소 증가가 확인되었다. 흉부 X-선과 심초음파에서 심비대와 우심실 충만 장애가 관찰되었다. 이 환자에서 콩팥생검의 필요성을 가장 적절하게 설명한 것은?",
+  "exam": "혈액 검사: 헤모글로빈 9.8 g/dL, 백혈구 6,200/μL, 혈소판 190,000/μL, BUN 35 mg/dL, 크레아티닌 1.8 mg/dL, eGFR 38 mL/min/1.73m², 총 단백 5.4 g/dL, 알부민 2.5 g/dL, AST 55 U/L, ALT 62 U/L, ALP 280 U/L\n소변 검사: 단백 3+, 적혈구 0-2/HPF, 백혈구 0-2/HPF, 단백/크레아티닌 비율 6.2 g/g\n혈청 및 소변 면역고정 전기영동: M-단백 음성\n심초음파: 좌심실 벽 비후, 과립상 심근 에코, 이완기 장애, 심낭 삼출",
+  "options": {
+    "A": "신증후군 범위의 단백뇨가 있어 반드시 조직검사가 필요함",
+    "B": "아밀로이드증의 진단을 위해 신장이 가장 적절한 생검 부위임",
+    "C": "류마티스 관절염 관련 신장 침범을 확인하기 위함",
+    "D": "다발성 골수종 배제를 위해 신장 조직검사가 필요함",
+    "E": "신기능 저하의 원인을 파악하기 위해 조직검사가 반드시 필요함"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 다양한 기관 침범을 시사하는 증상과 소견을 보이고 있습니다: 심한 단백뇨(단백/크레아티닌 비율 6.2 g/g)와 신기능 저하, 간비대와 간 효소 상승, 설상설(macroglossia), 심비대와 심부전 소견, 말초 신경병증(감각 이상), 그리고 장 증상(설사). 이러한 다발성 장기 침범과 함께 15년간의 류마티스 관절염 병력은 AA 아밀로이드증(이차성 아밀로이드증)의 가능성을 강력히 시사합니다. 아밀로이드증은 불용성 아밀로이드 단백질이 다양한 조직과 장기에 침착되는 질환입니다. AA 아밀로이드증은 주로 류마티스 관절염, 염증성 장질환, 만성 감염 등 장기간의 염증성 질환에 의해 발생합니다. 이 환자에서 콩팥생검이 필요한 이유는 아밀로이드증의 진단을 위해 신장이 가장 적절한 생검 부위이기 때문입니다. 신장은 아밀로이드 침착이 흔히 발생하는 장기이며, 콩팥생검은 상대적으로 안전하고 진단 수율이 높습니다. 콩세포 적색(Congo red) 염색을 통해 특징적인 아밀로이드 침착을 확인할 수 있으며, 면역조직화학 검사를 통해 AA 또는 AL 아밀로이드의 유형을 구분할 수 있습니다. 신증후군 범위의 단백뇨가 있다고 해서 모든 환자에게 콩팥생검이 필요한 것은 아니므로(A), 이는 적절하지 않습니다. 류마티스 관절염 자체는 신장 침범이 흔하지 않으며(C), 이 환자의 다발성 장기 침범 소견은 아밀로이드증에 더 합당합니다. 혈청 및 소변 면역고정 전기영동에서 M-단백이 음성이므로, 다발성 골수종의 가능성은 낮습니다(D). 신기능 저하의 원인을 파악하기 위해 조직검사가 항상 필요한 것은 아니며(E), 이 환자의 경우 아밀로이드증의 진단이 주요 목적입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Amyloidosis comprises a group of disorders characterized by the extracellular deposition of insoluble protein fibrils in various tissues and organs. The two most common types are AL amyloidosis (derived from immunoglobulin light chains in plasma cell dyscrasias) and AA amyloidosis (derived from serum amyloid A protein in chronic inflammatory conditions). Renal involvement is common in both forms, manifesting primarily as proteinuria, often in the nephrotic range, and progressive decline in renal function. AA amyloidosis is strongly associated with chronic inflammatory conditions, particularly rheumatoid arthritis, inflammatory bowel disease, and chronic infections. Clinical manifestations typically depend on the organs involved and may include nephrotic syndrome, restrictive cardiomyopathy (with low voltage on ECG and thickened ventricular walls on echocardiography), hepatomegaly, macroglossia, peripheral and autonomic neuropathy, and gastrointestinal symptoms. Diagnosis requires histologic confirmation through tissue biopsy, with Congo red staining demonstrating characteristic apple-green birefringence under polarized light. While various sites may be biopsied, the kidney is often preferred in patients with proteinuria due to its high diagnostic yield and relatively standardized procedure. Typing of amyloid fibrils is essential for treatment decisions and can be accomplished through immunohistochemistry, immunoelectron microscopy, or mass spectrometry. Treatment of AA amyloidosis focuses on controlling the underlying inflammatory condition to reduce serum amyloid A production, while AL amyloidosis typically requires chemotherapy targeting the underlying plasma cell dyscrasia.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "70세 남성이 2개월 전부터 시작된 거품 소변과 하지 부종으로 내원하였다. 환자는 6개월 전 진행성 폐암(비소세포폐암)으로 진단받고 면역 체크포인트 억제제(pembrolizumab)로 치료 중이었다. 신체 검사에서 혈압 140/85mmHg, 양측 하지의 함요부종이 관찰되었다. 검사실 소견에서 단백뇨, 미세혈뇨, 신기능 저하가 확인되었다. 신장 조직검사에서 급성 세뇨관 간질 신염 및 사구체 기저막에 과립상 면역 복합체 침착이 관찰되었다. 이 환자에게 가장 적합한 치료는?",
+  "exam": "혈액 검사: 헤모글로빈 11.2 g/dL, 백혈구 7,200/μL, 혈소판 190,000/μL, BUN 38 mg/dL, 크레아티닌 2.2 mg/dL, eGFR 30 mL/min/1.73m², 알부민 3.2 g/dL\n소변 검사: 단백 2+, 적혈구 10-15/HPF, 백혈구 5-10/HPF, 단백/크레아티닌 비율 2.8 g/g\n면역학적 검사: ANA 1:80 양성, 항dsDNA 항체 음성, C3/C4 정상, ANCA 음성\n신장 조직검사: 급성 세뇨관 간질 신염, 간질 내 T세포 침윤, 사구체 기저막에 과립상 면역 복합체 침착",
+  "options": {
+    "A": "면역 체크포인트 억제제 투여 지속",
+    "B": "면역 체크포인트 억제제 중단 및 고용량 스테로이드 투여",
+    "C": "사이클로포스파미드와 스테로이드 병합 요법",
+    "D": "혈장교환술(plasmapheresis) 시행",
+    "E": "ACE 억제제 단독 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 면역 체크포인트 억제제(pembrolizumab) 치료 중 발생한 신장 이상 반응을 보이고 있습니다. 면역 체크포인트 억제제는 면역계의 억제를 해제하여 항암 효과를 나타내지만, 이로 인해 다양한 면역 관련 이상반응(immune-related adverse events, irAEs)이 발생할 수 있습니다. 신장 관련 irAEs는 대개 급성 세뇨관 간질 신염(acute tubulointerstitial nephritis, ATIN)의 형태로 나타나며, 사구체 질환도 동반될 수 있습니다. 이 환자의 신장 조직검사에서 급성 세뇨관 간질 신염과 함께 사구체 기저막에 면역 복합체 침착이 관찰되었으며, 임상적으로 단백뇨, 혈뇨, 신기능 저하 소견을 보이고 있습니다. 면역 체크포인트 억제제 관련 신장 이상 반응의 가장 적합한 치료는 면역 체크포인트 억제제 중단 및 고용량 스테로이드 투여입니다. 일반적으로 중등도-중증의 신장 이상 반응(≥ G2, 크레아티닌 기저치의 1.5-3배 상승)에서는 면역 체크포인트 억제제를 중단하고, 프레드니솔론 1-2mg/kg/일 또는 이에 상응하는 용량의 스테로이드를 투여합니다. 대부분의 환자에서 스테로이드에 좋은 반응을 보이며, 신기능이 회복되면 서서히 감량합니다. 면역 체크포인트 억제제 투여 지속(A)은 신장 이상 반응을 악화시킬 수 있어 적절하지 않습니다. 사이클로포스파미드와 스테로이드 병합 요법(C)은 스테로이드에 반응하지 않는 중증 사례에서 고려할 수 있으나, 초기 치료로는 과도합니다. 혈장교환술(D)은 면역 체크포인트 억제제 관련 신장 이상 반응의 표준 치료가 아닙니다. ACE 억제제 단독 투여(E)는 단백뇨 감소에 도움이 될 수 있으나, 원인 치료에는 부족합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment but are associated with unique immune-related adverse events (irAEs) affecting various organ systems. Renal irAEs occur in approximately 2-5% of patients receiving ICIs, with acute tubulointerstitial nephritis (ATIN) being the most common histopathologic finding. Glomerular diseases, including membranous nephropathy, minimal change disease, and lupus-like nephritis, have also been reported. The pathogenesis involves activation of drug-specific T cells, reactivation of drug-specific memory T cells, or loss of tolerance to renal antigens. Risk factors include combination immunotherapy, concomitant use of potentially nephrotoxic drugs, and prior kidney disease. Clinical manifestations typically occur 3-10 months after ICI initiation and include acute kidney injury, proteinuria, pyuria, and occasionally hematuria. Diagnosis relies on the temporal relationship between ICI initiation and renal dysfunction, exclusion of other causes, and, when necessary, kidney biopsy. Management is guided by the severity of renal dysfunction. For grade 2 toxicity (creatinine 1.5-3 times baseline), ICI therapy should be withheld, and prednisone 0.5-1 mg/kg/day initiated. For grade 3-4 toxicity (creatinine >3 times baseline), ICI therapy should be permanently discontinued, and prednisone 1-2 mg/kg/day started. Most patients (60-80%) show improvement with corticosteroids, though refractory cases may require additional immunosuppression. Re-challenge with ICI therapy after resolution may be considered in select cases, preferably with a different agent and close monitoring.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "거품 소변",
+  "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "8세 남아가 얼굴 부종과 거품 소변으로 내원하였다. 환자는 2주 전 인두통과 발열로 치료받은 병력이 있으며, 3일 전부터 얼굴이 붓기 시작했다고 한다. 소변 색이 짙어지고 거품이 많이 생겼으며, 소변량이 감소했다고 호소하였다. 신체 검사에서 혈압 130/80mmHg, 안면 부종, 복부와 다리의 경도 부종이 관찰되었다. 검사실 소견에서 혈뇨와 단백뇨가 확인되었으며, C3 보체 수치가 감소해 있었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 헤모글로빈 12.5 g/dL, 백혈구 8,500/μL, 혈소판 280,000/μL, BUN 32 mg/dL, 크레아티닌 1.1 mg/dL, 총 단백 6.0 g/dL, 알부민 3.1 g/dL, ASO 650 IU/mL(정상: <200), C3 40 mg/dL(정상: 90-180), C4 25 mg/dL(정상: 10-40)\n소변 검사: 비중 1.028, 단백 2+, 적혈구 >50/HPF, 적혈구 원주 양성, 단백/크레아티닌 비율 1.8 g/g",
+  "options": {
+    "A": "급성 사구체신염",
+    "B": "미세변화질환",
+    "C": "IgA 신증",
+    "D": "막성 신증",
+    "E": "루푸스 신염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 8세 소아로, 최근 인두통과 발열 병력 후 발생한 부종, 혈뇨, 단백뇨, 고혈압, 신기능 저하, 그리고 감소된 C3 보체 수치를 보이고 있습니다. 또한 ASO(항스트렙토리신-O) 역가가 상승되어 있습니다. 이러한 임상 양상은 급성 사구체신염(acute glomerulonephritis), 특히 연쇄구균 감염 후 사구체신염(post-streptococcal glomerulonephritis, PSGN)에 전형적입니다. PSGN은 주로 A군 연쇄구균 인두염이나 피부 감염(농가진) 후 1-2주 후에 발생하며, 혈뇨, 단백뇨, 부종, 고혈압, 그리고 급성 신기능 저하가 특징입니다. 병리학적으로는 면역 복합체 침착과 보체 활성화로 인한 사구체 손상이 나타납니다. 진단적 검사실 소견으로는 ASO 역가 상승, 낮은 C3 보체 수치(감염 후 면역 복합체 형성으로 인한 보체 소모), 그리고 C4는 정상인 경우가 많습니다. 미세변화질환(B)은 순수 신증후군을 유발하며, 보통 현미경적 혈뇨나 적혈구 원주는 없고, C3 감소도 보이지 않습니다. IgA 신증(C)도 혈뇨와 단백뇨를 보일 수 있으나, 일반적으로 ASO 역가 상승이나 C3 감소는 보이지 않으며, 주로 상기도 감염 동안 또는 직후에 육안적 혈뇨가 특징적입니다. 막성 신증(D)은 주로 성인에서 발생하며, 심한 단백뇨와 신증후군을 특징으로 하나, 혈뇨가 적고 C3 감소는 일반적으로 보이지 않습니다. 루푸스 신염(E)은 전신성 홍반성 루푸스의 일부로 발생하며, C3와 C4 모두 감소할 수 있으나, 8세 소아에서는 드물고 다른 루푸스 증상(관절염, 발진 등)이 없어 가능성이 낮습니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Post-streptococcal glomerulonephritis (PSGN) is the most common type of acute glomerulonephritis in children, typically occurring following group A streptococcal pharyngitis or impetigo. The latency period is approximately 1-2 weeks after pharyngitis and 3-6 weeks after skin infection. The clinical presentation includes gross or microscopic hematuria, proteinuria (usually non-nephrotic), edema (especially periorbital), hypertension, and varying degrees of renal insufficiency. Pathophysiologically, PSGN results from immune complex deposition and complement activation, leading to glomerular inflammation. Laboratory findings typically include elevated anti-streptolysin O (ASO) or anti-DNase B titers (more sensitive for skin infections), low C3 complement levels (in 90% of cases) with normal C4 (indicating alternative complement pathway activation), and urinalysis showing red blood cells, red cell casts, and proteinuria. Diagnosis is based on the clinical presentation, evidence of recent streptococcal infection, and characteristic laboratory findings. Renal biopsy is usually unnecessary unless the presentation is atypical or severe. Treatment is supportive, focusing on fluid and sodium restriction, antihypertensive therapy if needed, and treatment of any ongoing streptococcal infection. Loop diuretics may be used for edema management. The prognosis is generally excellent in children, with most achieving complete recovery of renal function. However, microscopic hematuria may persist for months, and long-term follow-up is recommended to monitor for rare cases of chronic renal disease.",
+  "category": "Pediatrics"
+}
