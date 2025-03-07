@@ -1,0 +1,715 @@
+[
+  {
+    "question_id": 1,
+    "chief complaint": "출혈경향",
+    "purpose": "출혈경향이 있는 사람에게서 출혈의 원인과 중증도를 알아낼 수 있다.",
+    "question": "65세 남성이 정기 건강검진에서 백혈구 증가를 보이며 내원하였다. 환자는 특별한 증상을 호소하지 않았다. 이 환자의 가장 적절한 초기 치료 전략은?",
+    "exam": "CBC: WBC 15,500/uL, Lymphocyte 75%, Hb 12.5 g/dL, Platelet 130,000/uL. 면역표현형 검사: CD5+, CD19+, CD23+ 세포 확인.",
+    "options": {
+      "A": "Fludarabine 단독 치료",
+      "B": "관찰 및 추적 검사",
+      "C": "Rituximab 단독 치료",
+      "D": "Cyclophosphamide 병용 화학요법",
+      "E": "동종 조혈모세포 이식"
+    },
+    "answer": "B",
+    "explanation": "무증상 CLL 환자는 즉각적인 치료가 필요하지 않으며, 정기적인 추적 검사가 원칙이다. 치료는 증상이 있거나 질병이 진행할 때 고려한다.",
+    "source": "cll.pdf, MS-50, NCCN Guidelines Version 2.2025&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "허리통증",
+    "purpose": "허리통증이 있는 사람에게서 원인을 감별할 수 있다.",
+    "question": "72세 남성이 3개월간 지속된 허리 통증으로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "혈액 검사: Hb 9.8 g/dL, Cr 2.1 mg/dL, 총 단백 9.2 g/dL, Albumin 3.0 g/dL. 골수 생검: 형질세포 25% 관찰. 단백 전기영동 검사: 단일 클론 면역글로불린 M spike 검출.",
+    "options": {
+      "A": "Waldenström macroglobulinemia",
+      "B": "다발성 골수종",
+      "C": "만성 림프구성 백혈병",
+      "D": "골수이형성 증후군",
+      "E": "골수증식성 질환"
+    },
+    "answer": "B",
+    "explanation": "형질세포가 10% 이상이고, 단클론 면역글로불린이 검출되며 빈혈과 신기능 장애를 동반하는 것은 다발성 골수종의 특징이다.",
+    "source": "myeloma.pdf, MS-9, NCCN Guidelines Version 1.2025&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "출혈경향",
+    "purpose": "출혈경향이 있는 사람에게서 출혈의 원인과 중증도를 알아낼 수 있다.",
+    "question": "56세 남성이 최근 2주간의 피로감과 점상 출혈을 주소로 내원하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 3,200/uL, Hb 7.8 g/dL, Platelet 22,000/uL. 말초 혈액 도말 검사: 골수성 아세포(blast) 30% 관찰. 골수 생검: CD34+, MPO+ 아세포 확인.",
+    "options": {
+      "A": "저용량 사이타라빈",
+      "B": "7+3 항암화학요법 (사이타라빈 + 다우노루비신)",
+      "C": "Rituximab 단독 치료",
+      "D": "이마티닙 치료",
+      "E": "동종 조혈모세포 이식"
+    },
+    "answer": "B",
+    "explanation": "급성 골수성 백혈병(AML)의 표준 치료는 '7+3 요법'으로, 사이타라빈 7일 및 다우노루비신 3일 병용 요법을 시행한다.",
+    "source": "aml.pdf, MS-86, NCCN Guidelines Version 2.2025&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "피로",
+    "purpose": "피로를 호소하는 사람에게서 원인을 감별할 수 있다.",
+    "question": "68세 남성이 최근 수개월간 지속된 피로감과 출혈 경향으로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 2,900/uL, Hb 8.4 g/dL, Platelet 48,000/uL. 골수 생검: 과형성된 골수, 과립구 및 적혈구 계열의 이상형성(dysplasia) 관찰. 염색체 분석: -5q 단독 결실 확인.",
+    "options": {
+      "A": "골수이형성 증후군 (MDS)",
+      "B": "다발성 골수종",
+      "C": "만성 림프구성 백혈병",
+      "D": "급성 골수성 백혈병",
+      "E": "골수증식성 질환"
+    },
+    "answer": "A",
+    "explanation": "MDS는 골수계 세포의 이상형성을 특징으로 하며, -5q 단독 결실이 관찰되는 경우 저위험군 MDS로 분류된다. 빈혈 및 혈소판 감소가 흔히 동반된다.",
+    "source": "mds.pdf, p.59: 'MDS의 특징으로 골수 이상형성(dysplasia)과 특정 염색체 이상(-5q 등)이 관찰된다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "목덩이",
+    "purpose": "목덩이가 있는 사람에게서 덩이의 원인을 감별할 수 있다.",
+    "question": "58세 여성이 최근 목 부위 림프절 종대와 체중 감소를 주소로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "림프절 생검: 비정형 대형 B세포 증식, CD20+, BCL6+, MYC 재배열 확인. PET-CT: 다발성 림프절 비대 소견.",
+    "options": {
+      "A": "만성 림프구성 백혈병",
+      "B": "미만성 거대 B세포 림프종 (DLBCL)",
+      "C": "호지킨 림프종",
+      "D": "다발성 골수종",
+      "E": "여포형 림프종"
+    },
+    "answer": "B",
+    "explanation": "DLBCL은 빠르게 진행하는 고형 림프종으로, CD20 양성과 BCL6 발현, MYC 재배열이 특징적이다. PET-CT에서 광범위한 림프절 비대가 관찰될 수 있다.",
+    "source": "b-cell.pdf, p.ST-4: 'DLBCL은 MYC 및 BCL6 재배열이 동반될 수 있으며, 빠르게 진행하는 B세포 림프종의 특징을 보인다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "36세 남성이 지속적인 발열과 잦은 감염으로 내원하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 1,800/uL, Hb 9.2 g/dL, Platelet 110,000/uL. 골수 생검: 림프구 계열 아세포 40%, TdT+, CD10+, CD19+ 확인. 염색체 분석: t(9;22) 확인됨.",
+    "options": {
+      "A": "Hyper-CVAD 화학요법",
+      "B": "Rituximab 단독 치료",
+      "C": "이마티닙(티로신 키나제 억제제) 기반 치료",
+      "D": "자기 조혈모세포 이식",
+      "E": "고용량 스테로이드 단독 치료",
+    },
+    "answer": "C",
+    "explanation": "t(9;22) 양성 급성 림프모구성 백혈병(Ph+ ALL)은 티로신 키나제 억제제(TKI, 예: 이마티닙) 기반 치료를 포함한 다제 항암화학요법이 필수적이다.",
+    "source": "all.pdf, p.MS-94: 't(9;22) 양성 ALL은 표준 화학요법과 함께 티로신 키나제 억제제(TKI)를 필수적으로 사용해야 한다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 7,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "47세 여성이 최근 3개월 동안의 멍이 쉽게 드는 증상과 잦은 코피로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 3,100/uL, Hb 7.2 g/dL, Platelet 15,000/uL. 골수 생검: 저세포성 골수, 적혈구, 과립구, 거핵구 모두 감소. 절대 호중구 수 430/uL.",
+    "options": {
+      "A": "골수이형성 증후군",
+      "B": "급성 골수성 백혈병",
+      "C": "재생불량성 빈혈",
+      "D": "발작성 야간 혈색소뇨증",
+      "E": "원발성 골수섬유증"
+    },
+    "answer": "C",
+    "explanation": "재생불량성 빈혈(Aplastic anemia)은 골수 저세포증과 범혈구 감소증을 특징으로 한다. 특히 절대 호중구 수(ANC) <500/uL이면 중증으로 간주된다.",
+    "source": "06.pdf, p.742: '골수 생검: 세포충실도가 저하되어 있음. 중성구치<500/uL, 혈소판치<20,000/uL이면 중증 재생불량성빈혈로 간주함.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "31세 남성이 목 부위 림프절 종대와 야간 발한, 체중 감소로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "림프절 생검: Reed-Sternberg 세포 확인, CD15+, CD30+. PET-CT: 경부 및 종격동 림프절 비대 관찰됨.",
+    "options": {
+      "A": "미만성 거대 B세포 림프종 (DLBCL)",
+      "B": "호지킨 림프종",
+      "C": "버킷 림프종",
+      "D": "만성 림프구성 백혈병",
+      "E": "전형적인 여포형 림프종"
+    },
+    "answer": "B",
+    "explanation": "호지킨 림프종은 Reed-Sternberg 세포가 특징적이며, CD15 및 CD30 발현을 보인다. PET-CT에서 종격동 및 경부 림프절 비대가 흔하게 관찰된다.",
+    "source": "b-cell.pdf, p. NHODG-D 4 of 4: 'Hodgkin’s lymphoma is characterized by the presence of Reed-Sternberg cells expressing CD15 and CD30.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "54세 여성이 건강검진에서 혈소판 증가 소견을 보여 정밀 검사를 시행하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 8,200/uL, Hb 13.9 g/dL, Platelet 950,000/uL. JAK2 V617F 돌연변이 양성. 골수 생검: 거대 핵형성이 증가한 거핵구 관찰.",
+    "options": {
+      "A": "Hydroxyurea",
+      "B": "Warfarin",
+      "C": "리툭시맙",
+      "D": "고용량 스테로이드",
+      "E": "전신 항응고제"
+    },
+    "answer": "A",
+    "explanation": "본태성 혈소판증가증(ET)은 JAK2 V617F 돌연변이가 흔하며, 혈전 위험이 높은 경우 hydroxyurea가 1차 치료제로 사용된다.",
+    "source": "mds.pdf, p. MDS-RS-T: 'Essential thrombocythemia is characterized by JAK2 V617F mutation and an increased number of large megakaryocytes in the bone marrow. Hydroxyurea is the first-line treatment for high-risk patients.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 10,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 여성이 만성 피로와 어지럼증으로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 5,600/uL, Hb 9.2 g/dL, Platelet 310,000/uL. 혈청 철 30 μg/dL, 총 철결합능(TIBC) 450 μg/dL, 혈청 페리틴 8 ng/mL.",
+    "options": {
+      "A": "철결핍성 빈혈",
+      "B": "재생불량성 빈혈",
+      "C": "악성 빈혈",
+      "D": "용혈성 빈혈",
+      "E": "만성질환 빈혈"
+    },
+    "answer": "A",
+    "explanation": "철결핍성 빈혈은 낮은 혈청 철과 페리틴, 증가된 총 철결합능(TIBC)이 특징이다. 빈혈과 함께 만성 피로 및 어지럼증을 보일 수 있다.",
+    "source": "06.pdf, p.731: '철결핍성 빈혈은 낮은 혈청 철(serum iron), 증가된 TIBC, 낮은 페리틴을 특징으로 하며, 피로와 어지럼증이 흔한 증상이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 11,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "45세 남성이 피부의 멍과 잦은 코피로 내원하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 7,200/uL, Hb 13.1 g/dL, Platelet 22,000/uL. 말초 혈액 도말 검사: 혈소판 감소 외 특이 소견 없음. 골수 생검: 거핵세포 수 증가, 혈소판 생성 감소.",
+    "options": {
+      "A": "코르티코스테로이드",
+      "B": "리툭시맙",
+      "C": "혈소판 수혈",
+      "D": "헤파린 투여",
+      "E": "아스피린 투여"
+    },
+    "answer": "A",
+    "explanation": "면역성 혈소판 감소증(ITP)의 1차 치료는 스테로이드 치료이다. 혈소판 감소 외에 특이적 골수 이상이 없으며, 거핵세포 수 증가가 관찰될 경우 ITP 가능성이 높다.",
+    "source": "06.pdf, p.778: '면역성 혈소판 감소증(ITP)의 치료는 코르티코스테로이드가 1차 치료로 사용되며, 혈소판 수혈은 출혈이 심할 때 고려된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 12,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "27세 남성이 소아기부터 간헐적인 잇몸 출혈과 쉽게 멍이 드는 증상으로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 6,100/uL, Hb 14.0 g/dL, Platelet 180,000/uL. BT 9분(정상 <8분), aPTT 45초(정상 25-35초), PT 정상. VWF 항원 30%, Ristocetin cofactor 활성 25%.",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈전성 혈소판 감소성 자반증(TTP)",
+      "C": "von Willebrand 병",
+      "D": "파종성 혈관내 응고(DIC)",
+      "E": "면역성 혈소판 감소증(ITP)"
+    },
+    "answer": "C",
+    "explanation": "von Willebrand 병(VWD)은 BT 연장과 aPTT 증가를 보이며, VWF 항원 및 Ristocetin cofactor 활성 저하가 특징적이다.",
+    "source": "06.pdf, p.783: 'von Willebrand disease는 BT 연장, aPTT 연장, VWF 항원 및 ristocetin cofactor 활성 저하를 특징으로 한다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 13,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "42세 여성이 최근 심한 피로감과 노란 피부색을 주소로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 6,800/uL, Hb 8.1 g/dL, Platelet 275,000/uL. Reticulocyte 8.2%, Haptoglobin 감소, Unconjugated bilirubin 증가, LDH 증가. 말초 혈액 도말 검사: spherocyte 관찰됨. Direct Coombs test 양성.",
+    "options": {
+      "A": "자가면역성 용혈성 빈혈",
+      "B": "발작성 야간 혈색소뇨증",
+      "C": "철결핍성 빈혈",
+      "D": "악성 빈혈",
+      "E": "재생불량성 빈혈"
+    },
+    "answer": "A",
+    "explanation": "자가면역성 용혈성 빈혈(AIHA)은 Coombs test 양성, reticulocytosis, spherocyte 증가가 특징적이다. 황달과 용혈 소견이 동반될 수 있다.",
+    "source": "06.pdf, p.738: '자가면역성 용혈성 빈혈(AIHA)은 Coombs' test (+), spherocyte 증가, haptoglobin 감소, LDH 상승이 특징이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "55세 남성이 치과 치료 후 멈추지 않는 출혈을 주소로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 7,000/uL, Hb 13.5 g/dL, Platelet 210,000/uL. PT 정상, aPTT 56초(연장), BT 정상. 혈액 응고 인자 검사: Factor VIII 활성도 5% (정상 50-150%).",
+    "options": {
+      "A": "혈우병 A",
+      "B": "혈우병 B",
+      "C": "von Willebrand 병",
+      "D": "파종성 혈관내 응고(DIC)",
+      "E": "면역성 혈소판 감소증(ITP)"
+    },
+    "answer": "A",
+    "explanation": "혈우병 A는 Factor VIII 결핍으로 인해 aPTT가 연장되며 PT는 정상이다. 출혈 경향이 있으며 치과 치료 후 출혈이 지속되는 것이 특징적이다.",
+    "source": "06.pdf, p.783: '혈우병 A는 Factor VIII 결핍으로 인해 aPTT 연장, PT 정상, 출혈 경향이 증가하는 특징이 있다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 15,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "38세 여성이 3개월 전부터 계속되는 코피와 월경 과다를 주소로 내원하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 5,900/uL, Hb 12.1 g/dL, Platelet 200,000/uL. BT 11분(연장), aPTT 42초(연장), PT 정상. VWF 항원 20%, Ristocetin cofactor 활성 18%.",
+    "options": {
+      "A": "Desmopressin(DDAVP) 투여",
+      "B": "혈소판 수혈",
+      "C": "Factor VIII 농축액 투여",
+      "D": "헤파린 투여",
+      "E": "Tranexamic acid 투여"
+    },
+    "answer": "A",
+    "explanation": "von Willebrand 병(VWD)은 BT 연장, aPTT 증가, VWF 항원 및 ristocetin cofactor 활성 저하가 특징이다. 경미한 경우 Desmopressin(DDAVP)이 1차 치료제로 사용된다.",
+    "source": "06.pdf, p.783: 'von Willebrand disease는 BT 연장, aPTT 연장, VWF 항원 및 ristocetin cofactor 활성 저하를 특징으로 하며, 치료로 Desmopressin(DDAVP)이 사용될 수 있다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 16,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "63세 남성이 손발 저림과 기억력 감퇴로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 5,400/uL, Hb 7.8 g/dL, Platelet 270,000/uL. MCV 110 fL. 말초 혈액 도말 검사: 과분절 호중구 관찰. 혈청 비타민 B12 85 pg/mL (정상: 200-900 pg/mL).",
+    "options": {
+      "A": "거대적아구성 빈혈",
+      "B": "철결핍성 빈혈",
+      "C": "지중해 빈혈",
+      "D": "재생불량성 빈혈",
+      "E": "용혈성 빈혈"
+    },
+    "answer": "A",
+    "explanation": "거대적아구성 빈혈은 비타민 B12 또는 엽산 결핍으로 인해 발생하며, MCV 증가와 과분절 호중구가 특징적이다. 신경학적 증상(손발 저림, 기억력 감퇴)이 동반될 수 있다.",
+    "source": "06.pdf, p.735: '거대적아구성 빈혈은 주로 비타민 B12 결핍과 엽산 결핍에 의해 발생하며, MCV 증가 및 과분절 호중구가 특징이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "49세 남성이 최근 심한 피로감과 잇몸 출혈로 내원하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 8,000/uL, Hb 10.2 g/dL, Platelet 15,000/uL. PT 17초(연장), aPTT 55초(연장). 말초 혈액 도말 검사: schistocyte 관찰됨. Fibrinogen 감소, D-dimer 상승.",
+    "options": {
+      "A": "혈장 교환술",
+      "B": "Heparin 투여",
+      "C": "혈소판 수혈",
+      "D": "코르티코스테로이드",
+      "E": "Fresh Frozen Plasma(FFP) 투여"
+    },
+    "answer": "E",
+    "explanation": "파종성 혈관내 응고(DIC)는 PT/aPTT 연장, 혈소판 감소, schistocyte, D-dimer 상승이 특징적이다. 응급 치료로 Fresh Frozen Plasma(FFP) 투여가 필요하다.",
+    "source": "06.pdf, p.776: 'DIC는 PT/aPTT 연장, 혈소판 감소, schistocyte 관찰, D-dimer 상승이 특징이며, 치료로 FFP가 사용될 수 있다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "58세 여성이 두통과 시야 장애로 내원하였다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 9,200/uL, Hb 17.5 g/dL, Platelet 620,000/uL. JAK2 V617F 돌연변이 양성. 적혈구 용적률(Hct) 58%.",
+    "options": {
+      "A": "본태성 혈소판증가증",
+      "B": "만성 골수성 백혈병",
+      "C": "다발성 골수종",
+      "D": "진성 적혈구증가증",
+      "E": "골수이형성 증후군"
+    },
+    "answer": "D",
+    "explanation": "진성 적혈구증가증(PV)은 JAK2 V617F 돌연변이 양성과 Hct 증가(>55%)가 특징이며, 두통, 시야 장애와 같은 증상을 유발할 수 있다.",
+    "source": "06.pdf, p.741: '진성 적혈구증가증(polycythemia vera, PV)은 JAK2 돌연변이 양성, Hct >55%, 두통 및 시야 장애가 주요 증상이다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 19,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "67세 남성이 3개월 전부터 지속되는 피로감과 간헐적인 복부 팽만감을 주소로 내원하였다. 내원 2주 전부터는 가벼운 운동 후 숨이 차고 어지러움을 느꼈다. 복부 진찰에서 비장이 촉지되었다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 68,500/uL (Neutrophil 63%, Basophil 5%), Hb 11.2 g/dL, Platelet 480,000/uL. 말초 혈액 도말 검사: 골수구 계열 세포 증가, 호염기구 증가, blast 4%. 염색체 분석: t(9;22) 양성. LAP score 감소.",
+    "options": {
+      "A": "만성 골수성 백혈병(CML)",
+      "B": "진성 적혈구증가증(PV)",
+      "C": "본태성 혈소판증가증(ET)",
+      "D": "골수이형성 증후군(MDS)",
+      "E": "급성 골수성 백혈병(AML)"
+    },
+    "answer": "A",
+    "explanation": "CML은 백혈구 증가(WBC>50,000/uL), 호염기구 증가, LAP score 감소, t(9;22) 양성이 특징적이다. 비장 비대와 서서히 진행하는 피로감, 호흡곤란이 흔하다.",
+    "source": "06.pdf, p.747: 'CML의 특징은 t(9;22) 양성, 백혈구 증가, 호염기구 증가, LAP score 감소이다. 초기에는 서서히 진행하는 피로감과 비장 비대가 흔하다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "45세 남성이 갑작스러운 의식 저하와 함께 응급실로 내원하였다. 최근 1주일 동안 지속적인 발열과 점상 출혈이 있었으며, 내원 당시 혈압 85/60 mmHg, 심박수 115회/분이었다. 이 환자의 가장 적절한 초기 치료는?",
+    "exam": "CBC: WBC 6,700/uL, Hb 9.5 g/dL, Platelet 18,000/uL. PT 정상, aPTT 정상, Fibrinogen 정상. 말초 혈액 도말 검사: schistocyte 증가. 신기능 검사: Cr 2.4 mg/dL. LDH 상승, Haptoglobin 감소.",
+    "options": {
+      "A": "혈장 교환술",
+      "B": "코르티코스테로이드",
+      "C": "혈소판 수혈",
+      "D": "헤파린 투여",
+      "E": "항생제 단독 치료"
+    },
+    "answer": "A",
+    "explanation": "혈전성 혈소판 감소성 자반증(TTP)은 schistocyte 증가, 혈소판 감소, 신부전, 신경학적 증상(의식 저하)으로 나타난다. 즉각적인 혈장 교환술이 필수적이다.",
+    "source": "06.pdf, p.780: 'TTP는 혈소판 감소, schistocyte 증가, 신기능 저하, 신경학적 이상을 특징으로 하며, 혈장 교환술이 최우선 치료이다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 21,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "28세 남성이 피로감과 황달을 주소로 내원하였다. 환자는 최근 감기약을 복용한 적 있으며, 내원 2일 전부터 소변 색이 짙어졌다고 한다. 이 환자의 가장 가능성이 높은 진단명은?",
+    "exam": "CBC: WBC 7,200/uL, Hb 7.0 g/dL, Platelet 230,000/uL. Reticulocyte 9.8%. 말초 혈액 도말 검사: bite cell 및 Heinz body 관찰됨. LDH 상승, Haptoglobin 감소, Direct Coombs test 음성.",
+    "options": {
+      "A": "G6PD 결핍증",
+      "B": "자가면역성 용혈성 빈혈(AIHA)",
+      "C": "발작성 야간 혈색소뇨증(PNH)",
+      "D": "비타민 B12 결핍성 빈혈",
+      "E": "철결핍성 빈혈"
+    },
+    "answer": "A",
+    "explanation": "G6PD 결핍증은 감염 또는 약물(예: 감기약) 복용 후 용혈성 빈혈이 발생하며, Heinz body와 bite cell이 특징적이다. Coombs test는 음성이다.",
+    "source": "06.pdf, p.739: 'G6PD 결핍증은 산화 스트레스(감염, 약물)에 의해 용혈이 유발되며, Heinz body, bite cell이 특징적이다. Direct Coombs test는 음성이다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 22,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "61세 남성이 피로감과 간헐적인 발열로 내원하였다. 말초 혈액 도말 검사에서 과립구 계열 미성숙 세포가 증가하였으며, 분자 검사에서 특정 돌연변이가 확인되었다. 이 환자의 가장 적절한 1차 치료 전략은?",
+    "exam": "CBC: WBC 35,200/uL, Hb 10.8 g/dL, Platelet 92,000/uL. 말초 혈액 도말 검사: 골수성 아세포 15%, 분열 중인 과립구 증가. 유전자 검사: FLT3-ITD 돌연변이 양성.",
+    "options": {
+      "A": "Midostaurin + 7+3 화학요법",
+      "B": "Imatinib 단독 치료",
+      "C": "Rituximab + CHOP 요법",
+      "D": "Azacitidine 단독 치료",
+      "E": "Bortezomib + Dexamethasone"
+    },
+    "answer": "A",
+    "explanation": "FLT3-ITD 양성 급성 골수성 백혈병(AML) 환자는 Midostaurin(FLT3 억제제)과 표준 7+3 화학요법(사이타라빈 + 다우노루비신) 병용 치료가 표준 치료법이다.",
+    "source": "aml.pdf, p.MS-70: 'FLT3-ITD 변이가 있는 AML 환자에서 midostaurin 병용 치료는 생존율 향상과 관련이 있다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 23,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "72세 여성이 최근 수개월간 지속되는 야간 발한과 체중 감소로 내원하였다. 복부 CT에서 다발성 림프절 비대가 관찰되었으며, 생검에서 특정 표면 마커가 확인되었다. 이 환자의 적절한 치료 전략은?",
+    "exam": "CBC: WBC 8,600/uL, Hb 11.5 g/dL, Platelet 210,000/uL. 림프절 생검: CD20+, BCL2+, Ki-67 70%. PET-CT: 경부, 액와부, 복부 림프절 비대.",
+    "options": {
+      "A": "Rituximab + CHOP",
+      "B": "Imatinib",
+      "C": "Bortezomib + Lenalidomide",
+      "D": "Dasatinib",
+      "E": "Azacitidine"
+    },
+    "answer": "A",
+    "explanation": "CD20 양성 B세포 림프종(DLBCL)에서 Rituximab + CHOP(cyclophosphamide, doxorubicin, vincristine, prednisone) 요법이 1차 치료로 사용된다.",
+    "source": "b-cell.pdf, p.NHODG-D 4 of 4: 'DLBCL 치료의 표준은 Rituximab과 CHOP 화학요법의 병용이다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 24,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "35세 남성이 최근 피로감과 잦은 감염으로 내원하였다. 골수 생검에서 림프구 계열 아세포가 증가하였으며, 염색체 분석에서 특정 변이가 확인되었다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 2,800/uL, Hb 9.1 g/dL, Platelet 110,000/uL. 골수 생검: 림프구 계열 아세포 35%, TdT+, CD10+, CD19+ 확인. 염색체 분석: t(9;22) 양성.",
+    "options": {
+      "A": "Dasatinib + Hyper-CVAD",
+      "B": "Bortezomib + Dexamethasone",
+      "C": "Rituximab 단독 치료",
+      "D": "Fludarabine + Cyclophosphamide",
+      "E": "Azacitidine 단독 치료"
+    },
+    "answer": "A",
+    "explanation": "t(9;22) 양성 급성 림프모구성 백혈병(Ph+ ALL)에서는 Dasatinib(티로신 키나제 억제제, TKI)과 Hyper-CVAD(강화 화학요법)가 표준 치료법이다.",
+    "source": "all.pdf, p.MS-94: 't(9;22) 양성 ALL 환자는 표준 화학요법과 함께 Dasatinib 같은 TKI 치료가 필수적이다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 25,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "52세 남성이 피로감과 코피로 내원하였다. 내원 당시 혈압은 100/65 mmHg, 맥박 98회/분이었으며, 피부 점상출혈이 관찰되었다. 혈액 검사에서 혈소판 감소와 PT/aPTT 연장이 확인되었다. 골수 검사 결과와 유전자 분석을 기반으로 이 환자의 가장 적절한 초기 치료는?",
+    "exam": "CBC: WBC 2,800/uL, Hb 8.5 g/dL, Platelet 18,000/uL. PT 16.5초(연장), aPTT 45초(연장), Fibrinogen 80 mg/dL(감소). 골수 생검: 과립이 풍부한 아세포 증가, Auer rod 관찰됨. 유전자 검사: t(15;17) 양성.",
+    "options": {
+      "A": "All-trans retinoic acid (ATRA) + Arsenic trioxide (ATO)",
+      "B": "7+3 화학요법 (사이타라빈 + 다우노루비신)",
+      "C": "Rituximab + CHOP",
+      "D": "Venetoclax + Azacitidine",
+      "E": "Cyclophosphamide + Dexamethasone"
+    },
+    "answer": "A",
+    "explanation": "급성 전골수성 백혈병(APL, AML M3)은 t(15;17) 전좌가 특징이며, 심한 출혈 경향과 DIC(파종성 혈관내 응고)를 동반할 수 있다. 표준 치료는 ATRA(전형적인 레티노산) + ATO(비소 트리옥사이드) 병용 요법이다.",
+    "source": "aml.pdf, p.APL-1: 'APL(t(15;17) 양성)에서는 ATRA + ATO가 1차 치료로 권장된다. DIC 위험이 높으므로 조기 치료가 필수적이다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 26,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "64세 여성이 1개월 전부터 지속된 식욕 부진과 체중 감소로 내원하였다. 복부 진찰에서 간비대가 관찰되었으며, 혈액검사에서 백혈구 증가와 빈혈이 동반되었다. 골수 검사 결과 특정 유전자 돌연변이가 확인되었다. 이 환자의 적절한 치료 전략은?",
+    "exam": "CBC: WBC 52,000/uL (Neutrophil 65%, Basophil 6%), Hb 10.2 g/dL, Platelet 510,000/uL. 골수 생검: 골수계 세포 과증식, blast 3%. 유전자 검사: BCR-ABL1 재배열(t(9;22) 양성).",
+    "options": {
+      "A": "Dasatinib",
+      "B": "Midostaurin",
+      "C": "Bortezomib",
+      "D": "Azacitidine",
+      "E": "Fludarabine + Cyclophosphamide"
+    },
+    "answer": "A",
+    "explanation": "BCR-ABL1 양성 만성 골수성 백혈병(CML)은 티로신 키나제 억제제(TKI)인 Dasatinib, Imatinib, Nilotinib 중 하나로 치료한다. Dasatinib은 1차 치료 옵션 중 하나이다.",
+    "source": "aml.pdf, p.MS-7: 'BCR-ABL1 양성 CML 환자에서 Dasatinib, Imatinib, Nilotinib은 1차 치료 옵션으로 사용된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 27,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "70세 남성이 피로감과 출혈 경향으로 내원하였다. 골수 검사에서 골수이형성 증후군(MDS)이 의심되었으며, 세포유전학적 검사에서 특정 유전자 이상이 확인되었다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 4,500/uL, Hb 7.6 g/dL, Platelet 55,000/uL. 골수 생검: 과형성 골수, 과립구 및 적혈구 계열의 이상형성. 유전자 검사: del(5q) 단독 결실 확인.",
+    "options": {
+      "A": "Lenalidomide",
+      "B": "Azacitidine",
+      "C": "Venetoclax + Decitabine",
+      "D": "7+3 화학요법",
+      "E": "Cyclophosphamide + Rituximab"
+    },
+    "answer": "A",
+    "explanation": "del(5q) 단독 결실이 있는 저위험군 MDS는 Lenalidomide 치료에 높은 반응을 보인다. 고형암과 달리, 7+3 화학요법은 일반적으로 사용되지 않는다.",
+    "source": "mds.pdf, p. MDS-RS-T: 'del(5q) 단독 결실을 가진 MDS 환자는 Lenalidomide 치료에 높은 반응을 보인다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 28,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "57세 남성이 체중 감소와 상복부 통증을 주소로 내원하였다. 내시경 검사에서 진행성 종양이 확인되었으며, 조직 검사에서 특정 유전자 변이가 발견되었다. 이 환자의 1차 항암 치료로 가장 적절한 선택지는?",
+    "exam": "위내시경: 진행성 종양, 조직 생검에서 선암 확인. 면역조직화학염색: HER2 overexpression 양성 (IHC 3+). PET-CT: 복강 내 림프절 전이 확인.",
+    "options": {
+      "A": "FOLFOX + Trastuzumab",
+      "B": "FOLFIRI + Bevacizumab",
+      "C": "Capecitabine + Lapatinib",
+      "D": "Gemcitabine + Cisplatin",
+      "E": "Pembrolizumab 단독 요법"
+    },
+    "answer": "A",
+    "explanation": "HER2 양성 진행성 위암에서는 Trastuzumab이 포함된 FOLFOX(Fluorouracil + Leucovorin + Oxaliplatin) 또는 CAPOX(Capecitabine + Oxaliplatin) 요법이 표준 치료로 권장된다.",
+    "source": "06.pdf, p.859: 'HER2 양성 위암에서는 Trastuzumab과 화학요법을 병용하는 것이 표준 치료로 권장된다. ToGA 연구에서 Trastuzumab 병용 치료가 전체 생존율을 유의미하게 증가시켰다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 29,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "48세 여성이 유방암 진단 후 치료 계획 수립을 위해 내원하였다. 조직 검사에서 특정 유전자 변이가 확인되었으며, 면역조직화학염색 결과도 나왔다. 이 환자의 최적의 치료 전략은?",
+    "exam": "유방 조직 생검: 침윤성 유관암 확인. 면역조직화학염색: ER(-), PR(-), HER2(3+). 유전자 검사: HER2 증폭 양성. PET-CT: 액와 림프절 전이 확인.",
+    "options": {
+      "A": "Paclitaxel + Trastuzumab + Pertuzumab",
+      "B": "Tamoxifen + Anastrozole",
+      "C": "Bevacizumab + Capecitabine",
+      "D": "FOLFIRI + Cetuximab",
+      "E": "Pembrolizumab 단독 요법"
+    },
+    "answer": "A",
+    "explanation": "HER2 양성 유방암 환자의 표준 치료는 Trastuzumab과 Pertuzumab을 포함한 항체 기반 치료이며, Paclitaxel과 병용하여 사용된다.",
+    "source": "06.pdf, p.863: 'HER2 양성 유방암에서는 Trastuzumab과 Pertuzumab의 병용이 생존율을 향상시키며, Paclitaxel과 함께 사용된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 30,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "65세 남성이 허리 통증과 피로감을 주소로 내원하였다. 혈액 검사에서 빈혈이 관찰되었으며, 단백 전기영동 검사에서 특이 소견이 발견되었다. 이 환자의 1차 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 5,200/uL, Hb 9.8 g/dL, Platelet 140,000/uL. 혈청 단백 전기영동: M spike 증가. 면역고정 검사: IgG λ 단일클론 단백 검출. 골수 생검: 형질세포 30% 증가.",
+    "options": {
+      "A": "Bortezomib + Lenalidomide + Dexamethasone",
+      "B": "Fludarabine + Cyclophosphamide",
+      "C": "Rituximab + CHOP",
+      "D": "Azacitidine + Venetoclax",
+      "E": "Hydroxyurea 단독 치료"
+    },
+    "answer": "A",
+    "explanation": "활동성 다발성 골수종(MM)에서는 Bortezomib(프로테아좀 억제제), Lenalidomide(IMiD), Dexamethasone(스테로이드)의 3제 병용 요법이 1차 치료로 권장된다.",
+    "source": "myeloma.pdf, p.MS-10: '활동성 다발성 골수종 치료에서는 Bortezomib + Lenalidomide + Dexamethasone이 표준 치료로 권장된다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 28,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "57세 남성이 체중 감소와 상복부 통증을 주소로 내원하였다. 내시경 검사에서 진행성 종양이 확인되었으며, 조직 검사에서 특정 유전자 변이가 발견되었다. 이 환자의 1차 항암 치료로 가장 적절한 선택지는?",
+    "exam": "위내시경: 진행성 종양, 조직 생검에서 선암 확인. 면역조직화학염색: HER2 overexpression 양성 (IHC 3+). PET-CT: 복강 내 림프절 전이 확인.",
+    "options": {
+      "A": "FOLFOX + Trastuzumab",
+      "B": "FOLFIRI + Bevacizumab",
+      "C": "Capecitabine + Lapatinib",
+      "D": "Gemcitabine + Cisplatin",
+      "E": "Pembrolizumab 단독 요법"
+    },
+    "answer": "A",
+    "explanation": "HER2 양성 진행성 위암에서는 Trastuzumab이 포함된 FOLFOX(Fluorouracil + Leucovorin + Oxaliplatin) 또는 CAPOX(Capecitabine + Oxaliplatin) 요법이 표준 치료로 권장된다.",
+    "source": "06.pdf, p.859: 'HER2 양성 위암에서는 Trastuzumab과 화학요법을 병용하는 것이 표준 치료로 권장된다. ToGA 연구에서 Trastuzumab 병용 치료가 전체 생존율을 유의미하게 증가시켰다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 29,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "48세 여성이 유방암 진단 후 치료 계획 수립을 위해 내원하였다. 조직 검사에서 특정 유전자 변이가 확인되었으며, 면역조직화학염색 결과도 나왔다. 이 환자의 최적의 치료 전략은?",
+    "exam": "유방 조직 생검: 침윤성 유관암 확인. 면역조직화학염색: ER(-), PR(-), HER2(3+). 유전자 검사: HER2 증폭 양성. PET-CT: 액와 림프절 전이 확인.",
+    "options": {
+      "A": "Paclitaxel + Trastuzumab + Pertuzumab",
+      "B": "Tamoxifen + Anastrozole",
+      "C": "Bevacizumab + Capecitabine",
+      "D": "FOLFIRI + Cetuximab",
+      "E": "Pembrolizumab 단독 요법"
+    },
+    "answer": "A",
+    "explanation": "HER2 양성 유방암 환자의 표준 치료는 Trastuzumab과 Pertuzumab을 포함한 항체 기반 치료이며, Paclitaxel과 병용하여 사용된다.",
+    "source": "06.pdf, p.863: 'HER2 양성 유방암에서는 Trastuzumab과 Pertuzumab의 병용이 생존율을 향상시키며, Paclitaxel과 함께 사용된다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 30,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "65세 남성이 허리 통증과 피로감을 주소로 내원하였다. 혈액 검사에서 빈혈이 관찰되었으며, 단백 전기영동 검사에서 특이 소견이 발견되었다. 이 환자의 1차 치료 전략으로 가장 적절한 것은?",
+    "exam": "CBC: WBC 5,200/uL, Hb 9.8 g/dL, Platelet 140,000/uL. 혈청 단백 전기영동: M spike 증가. 면역고정 검사: IgG λ 단일클론 단백 검출. 골수 생검: 형질세포 30% 증가.",
+    "options": {
+      "A": "Bortezomib + Lenalidomide + Dexamethasone",
+      "B": "Fludarabine + Cyclophosphamide",
+      "C": "Rituximab + CHOP",
+      "D": "Azacitidine + Venetoclax",
+      "E": "Hydroxyurea 단독 치료"
+    },
+    "answer": "A",
+    "explanation": "활동성 다발성 골수종(MM)에서는 Bortezomib(프로테아좀 억제제), Lenalidomide(IMiD), Dexamethasone(스테로이드)의 3제 병용 요법이 1차 치료로 권장된다.",
+    "source": "myeloma.pdf, p.MS-10: '활동성 다발성 골수종 치료에서는 Bortezomib + Lenalidomide + Dexamethasone이 표준 치료로 권장된다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 31,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "59세 남성이 최근 림프종 진단을 받고 항암 치료를 시작한 후 48시간 이내에 혼돈 상태와 경련을 보여 내원하였다. 이 환자의 가장 적절한 치료 전략은?",
+    "exam": "CBC: WBC 95,000/uL, Hb 10.4 g/dL, Platelet 120,000/uL. 혈청 생화학 검사: K+ 6.3 mmol/L, Uric acid 12.5 mg/dL, Phosphorus 6.8 mg/dL, Calcium 6.1 mg/dL, Creatinine 2.3 mg/dL. LDH 2,100 U/L. ECG: T파 증가, QT 연장 소견.",
+    "options": {
+      "A": "Rasburicase + Aggressive hydration",
+      "B": "Allopurinol + Sodium bicarbonate",
+      "C": "칼슘 보충 + Loop 이뇨제",
+      "D": "Cyclophosphamide 감량 후 재투여",
+      "E": "Dexamethasone 단독 치료"
+    },
+    "answer": "A",
+    "explanation": "종양 용해 증후군(TLS)은 고칼륨혈증, 고요산혈증, 고인산혈증 및 저칼슘혈증을 특징으로 하며, 신부전과 심전도 이상을 초래할 수 있다. Rasburicase는 요산을 신속히 제거하여 신장 손상을 예방하는 데 효과적이다.",
+    "source": "06.pdf, p.839: '종양 용해 증후군의 치료는 Rasburicase와 적극적인 수액 치료가 기본이며, 심한 경우 혈액투석이 필요할 수 있다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 32,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "65세 여성이 최근 허리 통증이 심해지고 하지 마비 증상이 발생하여 내원하였다. 신경학적 검사에서 양측 하지의 심부건 반사가 감소되어 있으며, 방광 기능 장애가 동반되었다. 이 환자의 적절한 초기 치료는?",
+    "exam": "MRI: 흉추 8번에 종양성 병변으로 인한 척수 압박 소견. 신경학적 검사: 하지 근력 2/5, 항문 괄약근 조절 저하, Babinski 반사 양성.",
+    "options": {
+      "A": "고용량 Dexamethasone 투여 후 응급 방사선 치료",
+      "B": "Methotrexate 고용량 투여",
+      "C": "골수 생검 후 항암제 조기 투여",
+      "D": "혈장 교환술 시행",
+      "E": "단순 진통제 투여 및 대기 관찰"
+    },
+    "answer": "A",
+    "explanation": "암 관련 척수 압박(Cord compression)은 신경 손상을 예방하기 위해 고용량 Dexamethasone을 투여한 후, 가능한 한 빨리 방사선 치료 또는 수술적 감압을 시행해야 한다.",
+    "source": "06.pdf, p.835: '암성 척수 압박은 신속한 진단과 치료가 필수적이며, 초기 치료로 고용량 Dexamethasone을 투여하고 방사선 치료를 시행해야 한다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 33,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "70세 남성이 최근 피로감과 식욕 저하를 주소로 내원하였다. 혈액 검사에서 고칼슘혈증이 확인되었으며, 복부 CT에서 다발성 골전이가 관찰되었다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "혈청 Ca: 14.2 mg/dL, Albumin 3.6 g/dL. PTHrP 상승. 신장 기능: Cr 1.5 mg/dL. EKG: 단축된 QT 간격.",
+    "options": {
+      "A": "수액 보충 + Zoledronic acid",
+      "B": "칼슘 보충 + Vitamin D",
+      "C": "고용량 Prednisone 단독 치료",
+      "D": "항부정맥제 투여",
+      "E": "전신 항응고제 투여"
+    },
+    "answer": "A",
+    "explanation": "악성 고칼슘혈증(Malignant hypercalcemia)은 Zoledronic acid(비스포스포네이트) 및 적극적인 수액 치료가 1차 치료로 권장된다.",
+    "source": "06.pdf, p.841: '악성 고칼슘혈증의 치료는 충분한 수액 보충과 Zoledronic acid 같은 비스포스포네이트 사용이 기본 원칙이다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  },
+[
+  {
+    "question_id": 34,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "50세 남성이 급성 백혈병 진단 후 동종 조혈모세포 이식을 받았다. 이식 후 3주째 전신 발진과 설사, 간 기능 이상이 발생하였다. 이 환자의 가장 적절한 치료 전략은?",
+    "exam": "CBC: WBC 5,300/uL, Hb 10.5 g/dL, Platelet 210,000/uL. 피부 생검: 표피 괴사 및 림프구 침윤. 간 기능 검사: AST 110 U/L, ALT 98 U/L, 총빌리루빈 3.5 mg/dL. 대변 검사: 대량 수양성 설사, 세균 및 바이러스 PCR 음성.",
+    "options": {
+      "A": "고용량 Methylprednisolone",
+      "B": "Methotrexate 감량 후 유지",
+      "C": "면역글로불린 정맥 투여(IVIG)",
+      "D": "항생제 및 지지요법",
+      "E": "Ruxolitinib 투여"
+    },
+    "answer": "A",
+    "explanation": "급성 이식편대숙주병(aGVHD)은 피부, 간, 위장관을 침범할 수 있으며, 1차 치료로 고용량 스테로이드(Methylprednisolone)가 사용된다.",
+    "source": "06.pdf, p.846: '급성 GVHD는 피부, 간, 위장관을 침범할 수 있으며, 치료는 Methylprednisolone을 1차로 사용하며 반응이 없을 경우 Ruxolitinib 등의 2차 치료제를 고려할 수 있다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 35,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "63세 여성이 B세포 림프종으로 CAR-T 세포 치료를 받은 후 48시간 이내에 발열과 저혈압이 발생하였다. 이 환자의 가장 적절한 치료 전략은?",
+    "exam": "혈압 85/60 mmHg, 체온 39.1℃, 심박수 110회/분. CBC: WBC 2,300/uL, Hb 9.8 g/dL, Platelet 130,000/uL. CRP 상승. 혈액 배양 검사: 음성. 면역치료 독성 평가: CRS Grade 2.",
+    "options": {
+      "A": "Tocilizumab 정맥 투여",
+      "B": "고용량 스테로이드 투여",
+      "C": "항생제 단독 치료",
+      "D": "CAR-T 세포 치료 중단",
+      "E": "수액 및 혈압 상승제 투여 후 경과 관찰"
+    },
+    "answer": "A",
+    "explanation": "CAR-T 세포 치료 후 발생하는 사이토카인 방출 증후군(CRS)은 Tocilizumab(IL-6 수용체 차단제)이 1차 치료로 권장된다.",
+    "source": "b-cell.pdf, p.123: 'CRS 발생 시 Tocilizumab이 1차 치료로 권장되며, 심한 경우 스테로이드 병용이 고려될 수 있다.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 36,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "72세 남성이 진행성 췌장암으로 치료 중 최근 한쪽 다리 부종과 호흡곤란이 발생하였다. 이 환자의 초기 치료 전략으로 가장 적절한 것은?",
+    "exam": "하지 초음파: 우측 대퇴 정맥 내 혈전 확인. D-dimer 상승. 흉부 CT: 다발성 폐색전증 소견. 산소포화도 92%.",
+    "options": {
+      "A": "저분자량 헤파린(LMWH) 투여",
+      "B": "정맥 필터 삽입",
+      "C": "항암제 감량 후 재평가",
+      "D": "와파린 사용",
+      "E": "혈전 용해제 투여"
+    },
+    "answer": "A",
+    "explanation": "암 관련 정맥 혈전 색전증(CAT)에서는 저분자량 헤파린(LMWH)이 1차 치료로 권장된다.",
+    "source": "06.pdf, p.841: '암 관련 정맥 혈전 색전증 치료로 저분자량 헤파린(LMWH)이 표준 치료로 권장된다.'&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Hematology and Oncology"
+  }
+]
+
+
+
+
+
