@@ -1,10 +1,10 @@
 [
     {
         "question_id": 1,
-        "chief complaint": "두통 (headache)",
-        "purpose": "두통이 있는 사람에게서 원인질환을 감별할 수 있다.",
+        "chief complaint": "두통",
+        "purpose": "두통을 호소하는 사람에게서 원인질환을 감별할 수 있다.",
         "question": "35세 남성이 고열과 두통을 호소하며 내원하였다. 3일 전부터 시작된 고열과 오한이 있었으며, 이후 점진적으로 심해지는 두통이 발생하였다. 신경학적 검사에서 경부 강직이 관찰되었으며, Kernig 및 Brudzinski 징후가 양성이었다. 뇌척수액 검사 결과 WBC 2,300/mm³(90% 다형핵 백혈구), 단백 150 mg/dL, 포도당 30 mg/dL(혈당 100 mg/dL)이었다. 그람 염색에서 그람 양성 쌍구균이 관찰되었다. 이 환자의 가장 적절한 초기 경험적 항생제 치료는 무엇인가?",
-        "exam": "뇌척수액 검사: WBC 2,300/mm³(90% 다형핵 백혈구), 단백 150 mg/dL, 포도당 30 mg/dL(혈당 100 mg/dL)\n그람 염색: 그람 양성 쌍구균",
+        "exam": "뇌척수액 검사: WBC 2,300/mm³(90% 다형핵 백혈구), 단백 150 mg/dL, 포도당 30 mg/dL(혈당 100 mg/dL), 그람 염색: 그람 양성 쌍구균",
         "options": {
             "A": "Ceftriaxone + Vancomycin",
             "B": "Ampicillin + Gentamicin",
@@ -14,13 +14,13 @@
         },
         "answer": "A",
         "explanation": "세균성 수막염이 의심되는 환자로, 뇌척수액 검사에서 다형핵 백혈구 증가 및 포도당 감소가 관찰되며, 그람 염색에서 그람 양성 쌍구균이 확인됨. 이는 Streptococcus pneumoniae 감염을 시사하며, 초기 경험적 항생제로 Ceftriaxone + Vancomycin 병합 요법이 권장됨.",
-        "source": "세균성 수막염 지침.pdf, p.149, \"Vancomycin+3rd generation cephalosporina (Cefotaxime, Ceftriaxone) 병용요법이 권장된다.\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "세균성 수막염 지침.pdf, p.149, \"Vancomycin+3rd generation cephalosporina (Cefotaxime, Ceftriaxone) 병용요법이 권장된다.",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 2,
-        "chief complaint": "급성복통 (acute abdominal pain)",
-        "purpose": "급성복통이 있는 사람에게서 원인질환을 감별할 수 있다.",
+        "chief complaint": "급성복통",
+        "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아낼 수 있다.",
         "question": "45세 여성이 복통과 발열을 주소로 내원하였다. 5일 전부터 점차 악화되는 복통이 있었으며, 최근 오심과 구토도 동반되었다. 복부 진찰에서 우하복부 압통 및 반발통이 있었다. 이 환자의 적절한 초기 항생제 치료로 가장 적절한 것은?",
         "exam": "복부 CT: 충수돌기 주변 농양 형성, WBC 17,000/mm³, CRP 15 mg/dL",
         "options": {
@@ -37,10 +37,10 @@
     },
     {
         "question_id": 3,
-        "chief complaint": "발열 (fever)",
-        "purpose": "발열이 있는 사람에서 감염 여부를 감별할 수 있다.",
+        "chief complaint": "발열",
+        "purpose": "열이 나는 사람에게서 원인과 중증도를 알아낼 수 있다.",
         "question": "28세 남성이 1주일간 지속된 발열과 피로를 주소로 내원하였다. 환자는 최근 동남아시아 여행을 다녀왔으며, 여행 후 5일째부터 38.5°C 이상의 발열이 지속되고 있다. 신체 진찰에서 간비대와 비장비대가 관찰되었다. 이 환자의 가장 가능성이 높은 진단명은?",
-        "exam": "말초혈액 도말검사: 고리 모양 원형체 관찰,Hb 10.2 g/dL, WBC 3,200/mm³, PLT 80,000/mm³, AST 72 U/L, ALT 55 U/L",
+        "exam": "말초혈액 도말검사: 고리 모양 원형체 관찰, Hb 10.2 g/dL, WBC 3,200/mm³, PLT 80,000/mm³, AST 72 U/L, ALT 55 U/L",
         "options": {
             "A": "렙토스피라증 (Leptospirosis)",
             "B": "말라리아 (Malaria)",
@@ -52,11 +52,11 @@
         "explanation": "환자는 최근 동남아 여행 후 발열과 간비대 및 비장비대를 보이며, 말초혈액 도말검사에서 고리 모양 원형체가 관찰됨. 이는 Plasmodium spp. 감염을 시사하며, 말라리아로 진단할 수 있다.",
         "source": "감염분과 전공의 진료지침.pdf, p.986, \"혈액도말법: 후층도말(thick smear) - 감염여부 판정, 원충혈증 판정\"&#8203;:contentReference[oaicite:2]{index=2}",
         "category": "Infectious Diseases"
-    },[
+    },
     {
         "question_id": 4,
-        "chief complaint": "호흡곤란 (dyspnea)",
-        "purpose": "호흡곤란이 있는 환자에서 감염 여부를 감별할 수 있다.",
+        "chief complaint": "호흡곤란",
+        "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
         "question": "72세 여성이 3일 전부터 시작된 호흡곤란과 기침을 주소로 내원하였다. 환자는 당뇨와 고혈압의 병력이 있으며, 최근 인플루엔자 백신을 접종하지 않았다. 활력징후는 혈압 110/70 mmHg, 맥박 98회/분, 호흡수 22회/분, 체온 38.6°C이다. 흉부 청진에서 우측 하엽에서 수포음이 들렸으며, 흉부 X-ray에서 우하엽 침윤이 관찰되었다. 이 환자의 치료로 가장 적절한 항생제 선택은?",
         "exam": "흉부 X-ray: 우하엽 침윤",
         "options": {
@@ -73,26 +73,26 @@
     },
     {
         "question_id": 5,
-        "chief complaint": "피부 병변 (skin lesion)",
-        "purpose": "피부 병변이 있는 사람에서 감염성 질환 여부를 감별할 수 있다.",
+        "chief complaint": "피부발진",
+        "purpose": "피부발진이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
         "question": "50세 남성이 3일 전부터 시작된 좌측 하퇴부 홍반과 부종을 주소로 내원하였다. 병변은 점점 확대되었으며, 통증이 동반되었다. 발열(38.2°C)과 오한이 있었다. 이 환자의 가장 적절한 치료 선택지는?",
         "exam": "혈액검사: WBC 14,500/mm³, CRP 18 mg/dL, 피부 병변: 경계가 명확한 홍반 및 부종, 압통 동반",
         "options": {
-            "A": "Vancomycin",
-            "B": "Amoxicillin-Clavulanate",
-            "C": "Clindamycin",
-            "D": "Cefazolin",
-            "E": "Metronidazole"
+            "A": "반코마이신",
+            "B": "아목시실린-클라불란산",
+            "C": "클린다마이신",
+            "D": "세파졸린",
+            "E": "메트로니다졸"
         },
         "answer": "D",
         "explanation": "경계가 명확한 홍반과 부종, 발열을 동반한 임상 양상은 연조직 감염(단순 봉와직염, erysipelas)을 시사함. 가장 흔한 원인균은 Group A Streptococcus이며, 치료로 1세대 세팔로스포린(Cefazolin)이 권장됨.",
-        "source": "감염분과 전공의 진료지침.pdf, p.887, \"Cefazolin IV/IM 0.5-1.5 g q6-8h 3-6 g\"&#8203;:contentReference[oaicite:1]{index=1}",
+        "source": "감염분과 전공의 진료지침.pdf, p.887, \"Cefazolin IV/IM 0.5-1.5 g q6-8h 3-6 g\"​:contentReference[oaicite:1]{index=1}",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 6,
-        "chief complaint": "설사 (diarrhea)",
-        "purpose": "설사가 있는 환자에서 감염성 질환 여부를 감별할 수 있다.",
+        "chief complaint": "57. 설사 (diarrhea)",
+        "purpose": "설사가 있는 사람에게서 원인을 감별할 수 있다.",
         "question": "38세 여성이 3일 전부터 시작된 물 설사와 복통을 주소로 내원하였다. 환자는 최근 해외여행을 다녀왔으며, 길거리 음식을 섭취한 병력이 있다. 하루 10회 이상의 묽은 변을 보았으며, 혈변은 없었다. 활력징후는 혈압 100/60 mmHg, 맥박 96회/분, 체온 37.8°C였다. 가장 적절한 치료 전략은?",
         "exam": "혈액검사: WBC 9,800/mm³, Na 132 mmol/L, K 3.2 mmol/L",
         "options": {
@@ -104,15 +104,15 @@
         },
         "answer": "D",
         "explanation": "해외여행 후 발생한 수양성 설사로, 여행자 설사(traveler’s diarrhea) 가능성이 높음. 혈변이 없는 비침습성 설사의 경우, 경구 수액 요법이 1차 치료로 권장됨. 항생제는 중증 또는 지속적인 경우 고려됨.",
-        "source": "감염분과 전공의 진료지침.pdf, p.950, \"급성기에 충분한 수분공급과 전해질의 균형을 맞추는 것은 가장 중요한 치료이다.\"&#8203;:contentReference[oaicite:2]{index=2}",
+        "source": "감염분과 전공의 진료지침.pdf, p.950, \"급성기에 충분한 수분공급과 전해질의 균형을 맞추는 것은 가장 중요한 치료이다.\"​:contentReference[oaicite:2]{index=2}",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 7,
-        "chief complaint": "림프절 종대 (lymphadenopathy)",
-        "purpose": "림프절 종대가 있는 사람에서 감염성 질환 여부를 감별할 수 있다.",
-        "question": "24세 여성이 2주 전부터 지속된 경부 림프절 종대를 주소로 내원하였다. 최근 미열과 야간 발한을 동반하였으며, 체중이 3kg 감소하였다. 신체 진찰에서 우측 경부에 2cm 크기의 무통성 림프절이 촉지되었으며, 피부 발적이나 동통은 없었다. 혈액검사에서 WBC 8,200/mm³, Hb 11.2 g/dL, PLT 210,000/mm³, ESR 50 mm/hr, CRP 12 mg/dL가 확인되었다. 흉부 X-ray에서 종격동 림프절 비대가 관찰되었다. 이 환자의 가장 적절한 다음 검사는?",
-        "exam": "혈액검사: WBC 8,200/mm³, Hb 11.2 g/dL, PLT 210,000/mm³, ESR 50 mm/hr, CRP 12 mg/dL\n흉부 X-ray: 종격동 림프절 비대",
+        "chief complaint": "목덩이",
+        "purpose": "목덩이가 있는 사람에게서 덩이의 원인을 감별할 수 있다.",
+        "question": "24세 여성이 2주 전부터 지속된 경부 림프절 종대를 주소로 내원하였다. 최근 미열과 야간 발한을 동반하였으며, 체중이 3kg 감소하였다. 신체 진찰에서 우측 경부에 2cm 크기의 무통성 림프절이 촉지되었으며, 피부 발적이나 동통은 없었다. 이 환자의 가장 적절한 다음 검사는?",
+        "exam": "혈액검사: WBC 8,200/mm³, Hb 11.2 g/dL, PLT 210,000/mm³, ESR 50 mm/hr, CRP 12 mg/dL, 흉부 X-ray: 종격동 림프절 비대",
         "options": {
             "A": "림프절 초음파",
             "B": "항산균 도말 및 배양검사",
@@ -127,10 +127,10 @@
     },
     {
         "question_id": 8,
-        "chief complaint": "배뇨통 (dysuria)",
-        "purpose": "배뇨통이 있는 사람에서 감염성 질환 여부를 감별할 수 있다.",
-        "question": "35세 여성이 3일 전부터 시작된 배뇨통과 빈뇨를 주소로 내원하였다. 최근 성관계 후 증상이 발생하였으며, 발열이나 옆구리 통증은 없었다. 활력징후는 정상 범위였으며, 혈액검사에서 WBC 9,500/mm³, CRP 5 mg/dL가 확인되었다. 소변검사에서 WBC 50/HPF, 세균 양성이었으며, 질 분비물이나 기타 이상 소견은 없었다. 이 환자의 가장 적절한 치료 선택지는?",
-        "exam": "혈액검사: WBC 9,500/mm³, CRP 5 mg/dL\n소변검사: WBC 50/HPF, 세균 양성",
+        "chief complaint": "배뇨곤란/배뇨통",
+        "purpose": "배뇨곤란/배뇨통을 호소하는 사람에게서 원인을 감별진단할 수 있다.,
+        "question": "35세 여성이 3일 전부터 시작된 배뇨통과 빈뇨를 주소로 내원하였다. 최근 성관계 후 증상이 발생하였으며, 발열이나 옆구리 통증은 없었다. 혈압은 110/70 mmHg, 맥박 82회/분, 체온 37.2℃다. 이 환자의 가장 적절한 치료 선택지는?",
+        "exam": "혈액검사: WBC 9,500/mm³, CRP 5 mg/dL. 소변검사: WBC 50/HPF, 적혈구 5/HPF, 세균 양성, 질산염 양성, 단백뇨 없음. 소변 배양 검사 진행 중.",
         "options": {
             "A": "Trimethoprim-sulfamethoxazole",
             "B": "Metronidazole",
@@ -143,30 +143,31 @@
         "source": "감염분과 전공의 진료지침.pdf, p.952, \"Trimethoprim-sulfamethoxazole (TMP-SMX)에 대한 내성률이 10-20% 이하인 경우에는 경험적으로 TMP-SMX (1정에 80 mg/400 mg)를 한 번에 2정씩 하루 2번, 총 3일간 투여하고 amoxicillin/clavulanate, ciprofloxacin, ofloxacin 등도 사용할 수 있다.\"&#8203;:contentReference[oaicite:0]{index=0}",
         "category": "Infectious Diseases"
     },
+[
     {
         "question_id": 9,
-        "chief complaint": "전신염증반응증후군/패혈증 (Systemic Inflammatory Response Syndrome/Sepsis)",
+        "chief complaint": "전신염증반응증후군/패혈증",
         "purpose": "전신염증반응증후군/패혈증이 있는 사람에게서 원인질환을 감별할 수 있다.",
-        "question": "67세 남성이 고열과 의식 저하로 응급실에 내원하였다. 과거력으로 당뇨병과 만성 신부전이 있으며, 최근 감기 증상이 있었다. 활력징후는 혈압 85/50 mmHg, 맥박 112회/분, 호흡수 24회/분, 체온 39.0°C였다. 혈액검사에서 WBC 18,000/mm³, 혈중 젖산(lactate) 5.2 mmol/L, 혈청 크레아티닌 2.3 mg/dL가 확인되었다. 환자는 수액 치료에도 혈압이 지속적으로 90/60 mmHg 이하로 유지되었다. 이 환자에서 가장 적절한 다음 치료는?",
-        "exam": "혈압 85/50 mmHg, 맥박 112회/분, 호흡수 24회/분, 체온 39.0°C\n혈액검사: WBC 18,000/mm³, Lactate 5.2 mmol/L, Cr 2.3 mg/dL",
+        "question": "67세 남성이 고열과 의식 저하로 응급실에 내원하였다. 과거력으로 당뇨병과 만성 신부전이 있으며, 최근 감기 증상이 있었다. 환자는 수액 치료에도 혈압이 지속적으로 90/60 mmHg 이하로 유지되었다. 이 환자에서 가장 적절한 다음 치료는?",
+        "exam": "혈압 85/50 mmHg, 맥박 112회/분, 호흡수 24회/분, 체온 39.0°C, 혈액검사: WBC 18,000/mm³, Lactate 5.2 mmol/L, Cr 2.3 mg/dL",
         "options": {
-            "A": "Norepinephrine 주입",
-            "B": "Hydrocortisone 정맥투여",
-            "C": "Vasopressin 주입",
-            "D": "도파민(Dopamine) 사용",
-            "E": "도부타민(Dobutamine) 사용"
+            "A": "노르에피네프린 정맥주사",
+            "B": "스테로이드 정맥주사",
+            "C": "바소프레신 정맥주사",
+            "D": "도파민 정맥주사",
+            "E": "도부타민 정맥주사"
         },
         "answer": "A",
         "explanation": "수액 치료에도 혈압이 90/60 mmHg 이하로 유지되는 패혈성 쇼크(septic shock) 상태로, 1차 선택 혈관수축제는 Norepinephrine이므로 정맥 주입이 필요함.",
-        "source": "감염분과 전공의 진료지침.pdf, p.929, \"동맥혈압이 65 mmHg (혹은 수축기혈압 90 mmHg) 이상 유지되어야 이상적인 수액치료가 되고 있으며 수액공급만으로 이를 유지할 수 없다면 혈압상승제를 투여해야 함\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.929, \"동맥혈압이 65 mmHg (혹은 수축기혈압 90 mmHg) 이상 유지되어야 이상적인 수액치료가 되고 있으며 수액공급만으로 이를 유지할 수 없다면 혈압상승제를 투여해야 함\"​:contentReference[oaicite:0]{index=0}",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 10,
-        "chief complaint": "체중감소/식욕부진 (Weight loss/anorexia)",
+        "chief complaint": "체중감소/식욕부진",
         "purpose": "체중감소가 있는 사람에게서 기저질환을 진단할 수 있다.",
-        "question": "45세 남성이 2개월 전부터 지속된 마른 기침과 체중 감소(5kg)를 주소로 내원하였다. 야간 발한과 미열이 동반되었으며, 환자는 5년 전 결핵 치료를 받은 과거력이 있었다. 흉부 X-ray에서 우상엽에 공동(cavity) 형성이 관찰되었다. 객담 검사는 3회 시행하였으나 AFB 도말 검사에서 음성이었다. GeneXpert 검사도 음성이었으며, 기관지 내시경 검사에서 얻은 객담에서도 AFB 배양 결과는 음성이었다. 이 환자에서 추가적으로 시행해야 할 검사는?",
-        "exam": "흉부 X-ray: 우상엽 공동 형성\n객담 3회 AFB 도말 및 GeneXpert 음성, 기관지 내시경 AFB 배양 음성",
+        "question": "45세 남성이 2개월 전부터 지속된 마른 기침과 체중 감소(5kg)를 주소로 내원하였다. 야간 발한과 미열이 동반되었으며, 환자는 5년 전 결핵 치료를 받은 과거력이 있었다.이 환자에서 추가적으로 시행해야 할 검사는?",
+        "exam": "흉부 X-ray: 우상엽 공동 형성, 객담 3회 AFB 도말 및 GeneXpert 음성, 기관지 내시경 AFB 배양 음성",
         "options": {
             "A": "흉부 CT",
             "B": "기관지 폐포 세척액(BAL) AFB 배양",
@@ -176,15 +177,15 @@
         },
         "answer": "B",
         "explanation": "결핵이 강력히 의심되지만 객담 AFB 도말 및 배양이 음성인 경우, 기관지 내시경을 이용한 기관지 폐포 세척액(BAL) 배양 검사가 필요함.",
-        "source": "감염분과 전공의 진료지침.pdf, p.1004, \"폐포자충폐렴: Pneumocystis jirovecii에 대한 객담(induced) 면역형광염색, 구강세척액 PCR, 기관지폐포세척(BAL), 경기관지폐생검 혹은 개흉폐생검\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.1004, \"폐포자충폐렴: Pneumocystis jirovecii에 대한 객담(induced) 면역형광염색, 구강세척액 PCR, 기관지폐포세척(BAL), 경기관지폐생검 혹은 개흉폐생검",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 11,
-        "chief complaint": "발열 (Fever)",
-        "purpose": "발열이 있는 사람에서 감염성 질환 여부를 감별할 수 있다.",
-        "question": "52세 남성이 3주간 지속된 발열과 야간 발한을 주소로 내원하였다. 최근 치과 치료를 받았으며, 검사 결과에서 심잡음이 새롭게 발생한 것이 확인되었다. 혈액배양검사에서 Enterococcus faecalis가 검출되었으며, 심초음파에서 승모판에 10mm 크기의 식물(vegetation)이 관찰되었다. 이 환자의 적절한 치료 전략은?",
-        "exam": "혈액배양: Enterococcus faecalis 양성\n심초음파: 승모판에 10mm 크기의 vegetation",
+        "chief complaint": "발열/불명열",
+        "purpose": "열이 나는 사람에게서 원인과 중증도를 알아낼 수 있다.",
+        "question": "52세 남성이 3주간 지속된 발열과 야간 발한을 주소로 내원하였다. 최근 치과 치료를 받았으며, 검사 결과에서 심잡음이 새롭게 발생한 것이 확인되었다. 이 환자의 적절한 치료 전략은?",
+        "exam": "혈액배양: Enterococcus faecalis 양성, 심초음파: 승모판에 10mm 크기의 vegetation",
         "options": {
             "A": "Ceftriaxone 단독 투여",
             "B": "Ampicillin + Gentamicin 병합요법",
@@ -199,16 +200,16 @@
     },
     {
         "question_id": 12,
-        "chief complaint": "호흡곤란 (Dyspnea)",
-        "purpose": "호흡곤란이 있는 사람에서 감염 여부를 감별할 수 있다.",
-        "question": "65세 남성이 최근 인플루엔자 감염 후 점차 진행되는 호흡곤란과 기침을 주소로 내원하였다. 활력징후는 혈압 105/70 mmHg, 맥박 110회/분, 호흡수 28회/분, 체온 39.2°C였으며, 흉부 청진에서 광범위한 수포음이 들렸다. 흉부 X-ray에서 다엽성 폐 침윤이 관찰되었다. 객담 배양에서 황색포도상구균이 검출되었다. 이 환자의 적절한 경험적 항생제 선택은?",
+        "chief complaint": "호흡곤란",
+        "purpose": "호흡곤란을 호소하는 사람에게서 원인, 중증도, 합병증을 알아낼 수 있다.",
+        "question": "65세 남성이 최근 인플루엔자 감염 후 점차 진행되는 호흡곤란과 기침을 주소로 내원하였다. 활력징후는 혈압 105/70 mmHg, 맥박 110회/분, 호흡수 28회/분, 체온 39.2°C였으며, 흉부 청진에서 광범위한 수포음이 들렸다. 이 환자의 적절한 경험적 항생제 선택은?",
         "exam": "흉부 X-ray: 다엽성 폐 침윤, 객담 배양: 황색포도상구균 검출",
         "options": {
-            "A": "Ceftriaxone",
-            "B": "Levofloxacin",
-            "C": "Vancomycin + Piperacillin-Tazobactam",
-            "D": "Doxycycline",
-            "E": "Azithromycin"
+            "A": "세프트리악손",
+            "B": "레보플록사신",
+            "C": "반코마이신 + 피페라실린-타조박탐",
+            "D": "독시사이클린",
+            "E": "아지스로마이신"
         },
         "answer": "C",
         "explanation": "인플루엔자 감염 후 발생한 폐렴에서 다엽성 침윤과 황색포도상구균 검출은 메티실린 내성 황색포도상구균(MRSA) 폐렴을 시사함. 경험적 치료로 Vancomycin + Piperacillin-Tazobactam 병합요법이 권장됨.",
@@ -217,9 +218,9 @@
     },
     {
         "question_id": 13,
-        "chief complaint": "발열",
-        "purpose": "열이 나는 사람에게 적합한 치료 계획을 수립할 수 있다",
-        "question": "37세 남성이 최근 아프리카 여행 후 귀국한 지 2주 후부터 간헐적인 발열과 오한으로 내원하였다. 환자는 여행 전에 말라리아 예방약을 복용하지 않았다. 발열은 48시간 주기로 발생하였으며, 두통과 근육통이 동반되었다. 혈액검사에서 Hb 10.5 g/dL, WBC 6,000/mm³, PLT 110,000/mm³, AST 55 U/L, ALT 45 U/L가 확인되었다. 말초혈액 도말검사에서 적혈구 내부의 'ring form'이 다수 확인되었으며, 적혈구 감염률은 0.8%였다. 이 환자의 적절한 치료 전략은?",
+        "chief complaint": "발열/불명열",
+        "purpose": "열이 나는 사람에게 적합한 치료 계획을 수립할 수 있다.",
+        "question": "37세 남성이 최근 아프리카 여행 후 귀국한 지 2주 후부터 간헐적인 발열과 오한으로 내원하였다. 발열은 48시간 주기로 발생하였으며, 두통과 근육통이 동반되었다. 이 환자의 적절한 치료 전략은?",
         "exam": "혈액검사: Hb 10.5 g/dL, WBC 6,000/mm³, PLT 110,000/mm³, AST 55 U/L, ALT 45 U/L\n말초혈액 도말검사: RBC 내 ring form 감염체, 감염률 0.8%",
         "options": {
             "A": "Artesunate IV",
@@ -230,15 +231,15 @@
         },
         "answer": "C",
         "explanation": "48시간 주기의 발열 패턴과 말초혈액 도말검사 소견을 고려할 때, P. falciparum 감염이 강력히 의심됨. 경증 말라리아(P. falciparum)의 1차 치료제로 Atovaquone-Proguanil이 권장된다.",
-        "source": "감염분과 전공의 진료지침.pdf, p.987, \"다약제 내성 P. falciparum 말라리아 치료: Artemether-lumefantrine (1.5/9 mg/kg 1일 2회 3일간 음식과 함께 복용)과 artesunate (4 mg/kg 1일 1회 3일간) 중 1제 plus Mefloquine (25 mg of base/kg – 8 mg/kg 1일 1회 3일간) or Atovaquone-proguanil (20/8 mg/kg 1일 1회 3일간 음식과 함께 복용).\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.987",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 14,
         "chief complaint": "피로",
-        "purpose": "피로를 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다. ",
-        "question": "28세 여성이 최근 동남아 여행 후 3주간 지속된 피로와 창백한 피부를 주소로 내원하였다. 환자는 간헐적인 발열을 경험했으며, 말초혈액 도말검사에서 RBC 내 'Schüffner's dots'가 확인되었다. 혈액검사에서 Hb 8.3 g/dL, WBC 5,400/mm³, PLT 120,000/mm³, 총 빌리루빈 3.2 mg/dL가 확인되었다. 이 환자의 가장 적절한 치료는?",
-        "exam": "혈액검사: Hb 8.3 g/dL, WBC 5,400/mm³, PLT 120,000/mm³, 총 빌리루빈 3.2 mg/dL\n말초혈액 도말검사: RBC 내 Schüffner's dots",
+        "purpose": "피로를 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+        "question": "28세 여성이 최근 동남아 여행 후 3주간 지속된 피로와 창백한 피부를 주소로 내원하였다. 이 환자의 가장 적절한 치료는?",
+        "exam": "혈액검사: Hb 8.3 g/dL, WBC 5,400/mm³, PLT 120,000/mm³, 총 빌리루빈 3.2 mg/dL말초혈액 도말검사: RBC 내 Schüffner's dots",
         "options": {
             "A": "Chloroquine + Primaquine",
             "B": "Artesunate IV",
@@ -248,15 +249,15 @@
         },
         "answer": "A",
         "explanation": "Schüffner's dots는 Plasmodium vivax 감염을 시사하며, 치료에는 Chloroquine이 필요하며, 간 내 잠복 기생충을 제거하기 위해 Primaquine을 병합해야 한다.",
-        "source": "감염분과 전공의 진료지침.pdf, p.987, \"P. vivax와 P. ovale 감염의 근치(재발방지): Primaquine 15 mg base를 14일간 매일 1회 경구 투여 (0.25 mg base/kg), - 심한 G6PD 결핍이 있는 환자, 임산부, 1세 이하 영아에게는 금기\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.987",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 15,
         "chief complaint": "발열/불명열",
-        "purpose": "열이 나는 사람에게 적합한 치료 계획을 수립할 수 있다",
+        "purpose": "열이 나는 사람에게 적합한 치료 계획을 수립할 수 있다.",
         "question": "45세 남성이 최근 남아시아 여행 후 발열과 혼돈 상태로 내원하였다. 활력징후는 혈압 90/60 mmHg, 맥박 118회/분, 호흡수 28회/분, 체온 40.5°C였다. 이 환자의 가장 적절한 치료는?",
-        "exam": "혈액검사: Hb 7.8 g/dL, WBC 5,100/mm³, PLT 40,000/mm³, Cr 3.2 mg/dL, BUN 45 mg/dL, LDH 780 U/L\n말초혈액 도말검사: 적혈구 감염률 15% 이상",
+        "exam": "혈액검사: Hb 7.8 g/dL, WBC 5,100/mm³, PLT 40,000/mm³, Cr 3.2 mg/dL, BUN 45 mg/dL, LDH 780 U/L, 말초혈액 도말검사: 적혈구 감염률 15% 이상",
         "options": {
             "A": "Chloroquine",
             "B": "Quinine + Doxycycline",
@@ -266,15 +267,15 @@
         },
         "answer": "C",
         "explanation": "적혈구 감염률이 15% 이상이며 급성 신부전을 동반하는 중증 말라리아(P. falciparum) 감염으로, IV Artesunate가 1차 치료로 권장된다.",
-        "source": "", "감염분과 전공의 진료지침.pdf, p.988, \"심한 P. falciparum 말라리아: Artesunate (2.4 mg/kg 정맥 주사하고 12시간, 24시간 후에 2.4 mg/kg 투여, 이후 필요시 매일 투여)"
+        "source": "감염분과 전공의 진료지침.pdf, p.988",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 16,
         "chief complaint": "기침",
         "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
-        "question": "55세 남성이 2개월간 지속된 기침과 체중 감소(5kg)를 주소로 내원하였다. 환자는 당뇨병이 있으며, 최근 해외여행력은 없다. 흉부 X-ray에서 좌상엽에 공동(cavitary lesion)이 관찰되었으며, 객담 항산균 도말검사에서 AFB 양성이었다. GeneXpert 검사에서 리팜핀(Rifampin) 내성이 확인되었다. 이 환자의 가장 적절한 치료 전략은?",
-        "exam": "흉부 X-ray: 좌상엽 공동 형성\n객담 검사: AFB 양성, GeneXpert에서 Rifampin 내성 확인",
+        "question": "55세 남성이 2개월간 지속된 기침과 체중 감소(5kg)를 주소로 내원하였다. 환자는 당뇨병이 있으며, 최근 해외여행력은 없다. 이 환자의 가장 적절한 치료 전략은?",
+        "exam": "흉부 X-ray: 좌상엽 공동 형성, 객담 검사: AFB 양성, GeneXpert에서 Rifampin 내성 확인",
         "options": {
             "A": "Isoniazid, Rifampin, Pyrazinamide, Ethambutol (HRZE) 6개월",
             "B": "Bedaquiline, Linezolid, Levofloxacin, Clofazimine 포함 요법",
@@ -284,14 +285,14 @@
         },
         "answer": "B",
         "explanation": "Rifampin 내성이 확인된 다제내성 결핵(MDR-TB)의 경우, WHO 가이드라인에 따라 Bedaquiline, Linezolid, Levofloxacin, Clofazimine을 포함한 약제 조합이 권장된다.",
-        "source": "감염분과 전공의 진료지침.pdf, p.1045, \"리팜핀 내성 결핵의 경우 bedaquiline, linezolid, levofloxacin, clofazimine을 포함한 치료가 권장된다.\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.1045, \"리팜핀 내성 결핵의 경우 bedaquiline, linezolid, levofloxacin, clofazimine을 포함한 치료가 권장된다.\"",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 17,
         "chief complaint": "설사",
         "purpose": "설사를 하는 사람에게 원인에 따른 치료 계획을 수립할 수 있다.",
-        "question": "68세 여성이 최근 병원에서 항생제(Ceftriaxone + Azithromycin) 치료를 받은 후 수양성 설사와 복통으로 내원하였다. 활력징후는 혈압 110/70 mmHg, 맥박 98회/분, 호흡수 20회/분, 체온 37.8°C였다. 가장 적절한 치료는?",
+        "question": "68세 여성이 최근 병원에서 항생제 치료를 받은 후 수양성 설사와 복통으로 내원하였다. 활력징후는 혈압 110/70 mmHg, 맥박 98회/분, 호흡수 20회/분, 체온 37.8°C였다. 가장 적절한 치료는?",
         "exam": "혈액검사: WBC 17,500/mm³, Cr 1.2 mg/dL\n대변 검사: C. difficile 독소 양성",
         "options": {
             "A": "Metronidazole 경구 투여",
@@ -302,14 +303,14 @@
         },
         "answer": "B",
         "explanation": "항생제 사용 후 발생한 수양성 설사와 C. difficile 독소 양성은 항생제 관련 위막성 대장염을 시사하며, 경구 Vancomycin이 1차 치료로 권장된다.",
-        "source": "감염분과 전공의 진료지침.pdf, p.950, \"항균제 투여가 필요한 질환: severe C. difficile 감염.\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.950, \"항균제 투여가 필요한 질환: severe C. difficile 감염.\"",
         "category": "Infectious Diseases"
     },
     {
         "question_id": 18,
-        "chief complaint": "림프절 종대 (Lymphadenopathy)",
-        "purpose": "림프절 종대가 있는 사람에서 원인 질환을 감별할 수 있다.",
-        "question": "29세 남성이 3주 전부터 지속된 경부 림프절 종대를 주소로 내원하였다. 미열과 피로감을 동반하며, 최근 체중이 4kg 감소하였다. 신체 진찰에서 우측 경부 림프절이 2cm 크기로 촉지되었으며, 압통은 없었다. 혈액검사에서 WBC 8,100/mm³, Hb 12.5 g/dL, PLT 220,000/mm³, ESR 65 mm/hr, CRP 10 mg/dL가 확인되었다. 흉부 X-ray에서 종격동 림프절 비대가 관찰되었다. 가장 적절한 다음 검사는?",
+        "chief complaint": "목덩이",
+        "purpose": "목덩이가 있는 사람에게서 원인을 감별할 수 있다.",
+        "question": "29세 남성이 3주 전부터 지속된 경부 림프절 종대를 주소로 내원하였다. 미열과 피로감을 동반하며, 최근 체중이 4kg 감소하였다. 신체 진찰에서 우측 경부 림프절이 2cm 크기로 촉지되었으며, 압통은 없었다. 가장 적절한 다음 검사는?",
         "exam": "혈액검사: WBC 8,100/mm³, Hb 12.5 g/dL, PLT 220,000/mm³, ESR 65 mm/hr, CRP 10 mg/dL\n흉부 X-ray: 종격동 림프절 비대",
         "options": {
             "A": "림프절 초음파",
@@ -320,7 +321,7 @@
         },
         "answer": "C",
         "explanation": "무통성 경부 림프절 종대와 체중 감소, 종격동 림프절 비대는 림프종을 시사함. 확진을 위해 림프절 생검이 필요함.",
-        "source": "감염분과 전공의 진료지침.pdf, p.1004, \"림프절 종대의 원인 감별을 위해 림프절 생검이 필요할 수 있으며, 감염성 및 비감염성 원인에 대한 조직학적 평가가 필수적이다.\"&#8203;:contentReference[oaicite:0]{index=0}",
+        "source": "감염분과 전공의 진료지침.pdf, p.1004, \"림프절 종대의 원인 감별을 위해 림프절 생검이 필요할 수 있으며, 감염성 및 비감염성 원인에 대한 조직학적 평가가 필수적이다.\"",
         "category": "Infectious Diseases"
     },
     {
