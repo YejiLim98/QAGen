@@ -1,6 +1,5 @@
 [
   {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
     "question_id": "1",
     "chief_complaint": "황달",
     "purpose": "황달이 있는 환자의 원인을 감별할 수 있다.",
@@ -27,7 +26,6 @@
     "category": "Hepatology"
   },
   {
-    "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
     "question_id": "2",
     "chief_complaint": "황달",
     "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
@@ -53,7 +51,6 @@
     "category": "Gastroenterology"
   },
   {
-  "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
   "question_id": "3",
   "chief_complaint": "황달",
   "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
@@ -80,7 +77,6 @@
   "category": "Gastroenterology"
   },
  {
-  "topic": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
   "question_id": "4",
   "chief_complaint": "52세 여성이 피로와 황달을 주소로 내원함.",
   "purpose": "황달이 있는 사람에게서 증상의 발생 원인을 제시할 수 있다.",
@@ -107,7 +103,6 @@
   "category": "Gastroenterology"
  },
 {
-  "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
   "question_id": "5",
   "chief_complaint": "황달",
   "purpose": "황달 환자에서 적절한 검사법을 선택하고 결과를 해석할 수 있다.",
@@ -134,7 +129,6 @@
   "category": "Gastroenterology"
 },
   {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
     "question_id": "6",
     "chief_complaint": "황달",
     "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
@@ -161,7 +155,6 @@
     "category": "Gastroenterology"
   },
   {
-    "topic": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
     "question_id": "7",
     "chief_complaint": "황달",
     "purpose": "황달이 있는 사람에게서 원인, 심한 정도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
@@ -188,7 +181,6 @@
     "category": "Gastroenterology"
   },
   {
-    "topic": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
     "question_id": "8",
     "chief_complaint": "황달",
     "purpose": "황달로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
@@ -215,5 +207,50 @@
     ],
     "category": "Gastroenterology"
   },
-
+  {
+    "question_id": 9,
+    "chief_complaint": "황달",
+    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+    "question": "생후 3일 된 만삭아(재태 연령 39주)가 황달로 소아과 외래에 내원하였다. 출생 체중은 3.2kg이었으며, 출생 후 모유 수유를 시작하였다. 신체 검진에서 공막 황달이 관찰되며, 활력징후는 정상 범위이다. 가장 적절한 치료는",
+    "exam": "lab 총 빌리루빈 12.5 mg/dL, 직접 빌리루빈 0.5 mg/dL",
+    "options": {
+        "A": "광선 치료",
+        "B": "정맥 면역글로불린(IVIG) 투여",
+        "C": "교환 수혈",
+        "D": "경과 관찰 및 모유 수유 유지",
+        "E": "페노바르비탈 투여"
+    },
+    "answer": "D",
+    "explanation": "이 신생아는 생리적 황달(physiologic jaundice)의 전형적인 소견을 보인다. 생리적 황달은 생후 2~4일 사이 발생하며, 1~2주 내로 저절로 호전된다. 치료가 필요하지 않으며, 모유 수유를 지속하는 것이 권장된다. 광선 치료는 빌리루빈이 15 mg/dL 이상이거나 급격히 상승하는 경우 고려한다. IVIG 및 교환 수혈은 용혈성 질환(예: 신생아 Rh 부적합증)이 의심될 때 시행한다.",
+    "source": [
+        {
+            "source_id": "medrag_part_7.json",
+            "text": "Physiologic jaundice is a common cause of hyperbilirubinemia among newborns. It is a diagnosis of exclusion, made after careful evaluation has ruled out more serious causes of jaundice, such as hemolysis, infection, and metabolic diseases. Physiologic jaundice is the result of many factors that are normal physiologic characteristics of newborns: increased bilirubin production resulting from an increased RBC mass, shortened RBC life span, and hepatic immaturity of ligandin and glucuronosyltransferase. Physiologic jaundice may be exaggerated among infants of Greek and Asian ancestry.",
+        }
+    ],
+    "category": "Pediatrics"
+  }
+  {
+    "question_id": 10,
+    "chief_complaint": "황달",
+    "purpose": "황달이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+    "question": "25세 남성이 건강 검진에서 총 빌리루빈 수치가 2.5 mg/dL로 측정되어 내원하였다. 과거 병력에서 특별한 질환은 없으며, 최근 3일 동안 금식 후 혈액 검사를 받았다. 환자는 피로감을 호소하지만 다른 특이 증상은 없다. 신체 검진은 정상 범위이며 간비대나 비장비대는 관찰되지 않았다. 혈액 검사 결과에서 AST/ALT, ALP, GGT, 혈색소 및 망상 적혈구 수치는 모두 정상 범위였다. 이 환자의 가장 적절한 치료는?",
+    "exam": "총 빌리루빈 2.5 mg/dL, 직접 빌리루빈 0.2 mg/dL, AST: 20 U/L, ALT: 22 U/L, ALP: 75 U/L, GGT: 20 U/L, Hb: 15 g/dL",
+    "options": {
+        "A": "페노바르비탈 처방",
+        "B": "간 생검 후 경과 관찰",
+        "C": "특별한 치료 없이 경과 관찰",
+        "D": "UDCA (우르소데옥시콜산) 투여",
+        "E": "스테로이드 치료"
+    },
+    "answer": "C",
+    "explanation": "길버트 증후군(Gilbert syndrome)은 경미한 **비결합형(간접형) 고빌리루빈혈증**을 특징으로 하는 양성 질환으로, **특별한 치료가 필요하지 않다**. 환자는 평소 스트레스, 금식, 피로를 피하는 것이 도움이 될 수 있다. 페노바르비탈(phenobarbital)은 UGT1A1 효소를 유도하여 빌리루빈 수치를 낮출 수 있으나, 임상적으로 사용되지 않는다.",
+    "source": [
+        {
+            "source_id": "medrag_part_3.json",
+            "text": "Patients with Gilbert’s syndrome have mild unconjugated hyperbilirubinemia, with serum levels almost always <103 μmol/L (6 mg/dL). The serum levels may fluctuate, and jaundice is often identified only during periods of fasting. Treatment is not required.",
+        }
+    ],
+    "category": "Gastroenterology"
+  }
 ]
