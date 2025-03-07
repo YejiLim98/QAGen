@@ -1,0 +1,115 @@
+{
+  "question_id": 1,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 다뇨와 다음으로 내원하였다. 환자는 2주 전부터 하루 소변량이 급격히 증가하여 약 5-6L 정도이며, 갈증이 심해 물을 계속 마시게 된다고 호소하였다. 소변이 맑고 무색이며, 밤에도 3-4회 소변을 보기 위해 깨어난다고 한다. 환자는 1개월 전 뇌하수체 선종으로 경접형동 접근법을 통한 종양 제거술을 받았다. 수술 직후에는 특별한 증상이 없었으나, 2주 전부터 현재의 증상이 갑자기 시작되었다고 한다. 환자는 현재 갑상선기능저하증으로 갑상선호르몬을 복용 중이며, 다른 기저질환이나 약물 복용력은 없다. 신체 검사에서 혈압 130/85 mmHg, 맥박 88회/분, 호흡수 16회/분, 체온 36.5°C이었다. 피부와 점막은 건조해 보였으나, 다른 이상 소견은 관찰되지 않았다. 이 환자에서 다뇨증의 원인을 평가하기 위한 가장 적절한 검사는?",
+  "exam": "혈액 검사: Na 147 mEq/L, K 4.0 mEq/L, Cl 108 mEq/L, HCO3 24 mEq/L, BUN 18 mg/dL, Cr 0.9 mg/dL, Glucose 95 mg/dL, Ca 9.2 mg/dL, Albumin 4.2 g/dL\n소변 검사: 비중 1.002, pH 6.0, 단백질(-), 포도당(-)\n24시간 소변량: 5,800 mL\n갑상선 기능 검사: TSH 2.1 μIU/mL, Free T4 1.2 ng/dL",
+  "options": {
+    "A": "수분제한검사 후 항이뇨호르몬 투여 반응 평가",
+    "B": "혈청 및 소변 삼투압 측정",
+    "C": "신장 초음파 검사",
+    "D": "혈청 항이뇨호르몬(ADH) 농도 측정",
+    "E": "고삼투압 자극 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 중추성 요붕증(central diabetes insipidus)이 의심되는 임상 소견을 보이고 있습니다.\n\n중추성 요붕증은 뇌하수체 후엽에서 분비되는 항이뇨호르몬(ADH, 바소프레신)의 분비 부족으로 인해 발생하는 질환입니다. 주요 원인으로는 뇌하수체 수술, 뇌종양, 두부 외상, 뇌혈관 질환, 자가면역 질환 등이 있습니다.\n\n이 환자의 경우 다음과 같은 소견이 중추성 요붕증을 강력히 시사합니다:\n\n1. 뇌하수체 수술의 병력: 경접형동 접근법을 통한 뇌하수체 선종 제거술을 1개월 전에 받았음\n2. 전형적인 임상 양상: 다뇨(하루 5-6L), 다음(심한 갈증), 야간뇨\n3. 증상의 갑작스러운 발생: 수술 후 2주 뒤 급격히 발생\n4. 검사 소견: 낮은 소변 비중(1.002)과 농축된 소변을 만들지 못함\n5. 경미한 고나트륨혈증(Na 147 mEq/L): 수분 부족을 반영\n\n이런 상황에서 다뇨증의 원인을 평가하기 위한 가장 적절한 검사는 '수분제한검사 후 항이뇨호르몬 투여 반응 평가'입니다.\n\n수분제한검사는 다뇨의 원인이 항이뇨호르몬 결핍(중추성 요붕증), 신장의 항이뇨호르몬에 대한 반응성 저하(신성 요붕증), 또는 단순한 과도한 수분 섭취(심인성 다음증)인지 감별하는 데 유용합니다. \n\n수분제한검사의 과정은 다음과 같습니다:\n1. 충분한 안전 조치 하에 수분 섭취를 중단합니다.\n2. 체중, 소변량, 소변 삼투압, 혈청 삼투압 등을 정기적으로 측정합니다.\n3. 체중이 기저치의 3% 이상 감소하거나, 혈청 삼투압이 300 mOsm/kg 이상이 되면 검사를 종료합니다.\n4. 마지막 소변 및 혈액 샘플을 채취한 후, 항이뇨호르몬(데스모프레신)을 투여합니다.\n5. 항이뇨호르몬 투여 후 소변 삼투압의 변화를 관찰합니다.\n\n결과 해석:\n- 중추성 요붕증: 수분제한 후 소변 농축 능력이 저하되어 있으나(소변 삼투압 <300 mOsm/kg), 항이뇨호르몬 투여 후 소변 삼투압이 50% 이상 증가합니다.\n- 신성 요붕증: 수분제한 후에도 소변 농축 능력이 저하되어 있으며, 항이뇨호르몬 투여 후에도 소변 삼투압 증가가 미미합니다(<10%).\n- 심인성 다음증: 수분제한 후 소변 농축 능력이 정상적으로 회복됩니다(소변 삼투압 >500 mOsm/kg).\n\n이 환자의 경우, 뇌하수체 수술 병력과 임상 소견을 고려할 때 중추성 요붕증이 가장 의심되므로, 수분제한검사 후 항이뇨호르몬 투여 반응을 평가하는 것이 진단에 가장 도움이 됩니다.\n\n혈청 및 소변 삼투압 측정(B)은 요붕증의 진단에 도움이 되지만, 그 자체로는 중추성 요붕증과 신성 요붕증을 구별하기 어렵습니다. 이 검사는 수분제한검사의 일부로 시행되는 것이 적절합니다.\n\n신장 초음파 검사(C)는 이 환자에게서 다뇨증의 원인으로 의심되는 신장 질환의 증거가 없으므로 일차적으로 필요하지 않습니다. 신장 질환이 의심될 경우 유용할 수 있지만, 이 환자의 임상 양상은 중추성 요붕증에 합당합니다.\n\n혈청 항이뇨호르몬(ADH) 농도 측정(D)은 기술적으로 어렵고 표준화되지 않았으며, 결과 해석이 복잡할 수 있습니다. 또한 ADH의 반감기가 매우 짧고 불안정하여 정확한 측정이 어렵습니다. 따라서 임상적으로 널리 사용되지 않습니다.\n\n고삼투압 자극 검사(E)는 뇌하수체의 ADH 분비 능력을 평가하는 검사로, 고장성 식염수를 주입하여 혈청 삼투압을 증가시킨 후 ADH 분비 반응을 관찰합니다. 이 검사는 부분적 중추성 요붕증을 평가하는 데 유용할 수 있지만, 수분제한검사보다 더 침습적이고 불편하며, 완전한 중추성 요붕증이 의심되는 이 환자에게는 일차적으로 권장되지 않습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Diabetes insipidus (DI) is characterized by the excretion of abnormally large volumes (>50 mL/kg body weight daily) of dilute urine (specific gravity <1.005, osmolality <200 mOsm/kg). The differential diagnosis includes primary polydipsia (excessive fluid intake), central (neurogenic) DI, nephrogenic DI, and gestational DI. Central DI results from deficient synthesis or secretion of arginine vasopressin (AVP) by the posterior pituitary gland, most commonly due to destruction or degeneration of neurons originating in the supraoptic and paraventricular nuclei of the hypothalamus. The causes of central DI can be classified as acquired, genetic, or idiopathic. Acquired causes include pituitary surgery (particularly transsphenoidal approaches for sellar masses), head trauma, granulomatous diseases (e.g., sarcoidosis, Langerhans cell histiocytosis), neoplastic disorders (metastases, craniopharyngioma, germinoma), inflammatory conditions, vascular lesions, and infections. Genetic causes include rare autosomal dominant or recessive forms resulting from mutations in the AVP-neurophysin II gene. Idiopathic central DI accounts for approximately 30% of cases and is often associated with autoimmune destruction of vasopressin-producing neurons, as evidenced by the presence of circulating antibodies to these cells in many patients. The diagnostic approach to polyuria begins with a thorough history, physical examination, and initial laboratory evaluation including serum electrolytes, glucose, calcium, and urine specific gravity. The water deprivation test remains the gold standard for distinguishing between the various causes of polyuria. This test should be performed under close supervision, preferably in a controlled setting. After baseline measurements of body weight, serum sodium, osmolality, and urine volume and osmolality, water intake is restricted. Weight, vital signs, and urine output are monitored hourly, and serum sodium and osmolality are checked every 2-4 hours. The test continues until either (1) urine osmolality stabilizes (less than 30 mOsm/kg change between consecutive hourly samples), (2) body weight decreases by 3%, or (3) serum osmolality or sodium exceeds the upper limit of normal (typically 295-300 mOsm/kg or 145-148 mmol/L, respectively). At this point, a vasopressin analogue (desmopressin 2-4 μg subcutaneously or 10 μg intranasally) is administered, and a final urine sample is collected 1-2 hours later. In central DI, there is failure to concentrate urine during water deprivation (urine osmolality <300 mOsm/kg despite serum hyperosmolality), but administration of vasopressin results in a significant increase in urine osmolality (>50% above the level achieved with dehydration alone). In nephrogenic DI, there is minimal response to vasopressin (<10% increase in urine osmolality), while in primary polydipsia, the urine becomes appropriately concentrated (>500 mOsm/kg) during water deprivation alone, with minimal additional response to vasopressin. Measurement of plasma AVP levels during the water deprivation test may provide additional diagnostic information but is not widely available and is technically challenging due to AVP's short half-life and instability in plasma. The hypertonic saline stimulation test, which involves infusion of 3% saline to raise serum osmolality while measuring AVP responses, may be useful in cases of partial central DI but is less commonly used than water deprivation testing. Magnetic resonance imaging of the hypothalamic-pituitary region is indicated in all patients diagnosed with central DI to evaluate for structural abnormalities, with particular attention to the posterior pituitary 'bright spot' on T1-weighted images, which represents stored vasopressin and is typically absent in central DI.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 방법을 선택할 수 있다.",
+  "question": "65세 남성이 3주 전부터 시작된 다뇨, 다갈, 전신 쇠약감으로 내원하였다. 환자는 평소보다 물을 3배 이상 많이 마시게 되었고, 소변량도 크게 증가했다고 한다. 최근 약 5kg의 체중 감소가 있었으며, 밤에 소변을 보기 위해 3-4회 깨어난다고 호소하였다. 2주 전부터는 시력이 약간 흐려지는 증상도 있다고 한다. 과거력에서 고혈압으로 10년간 약물 치료 중이며, 당뇨 가족력으로 어머니와 형이 있다. 신체 검사에서 혈압 150/90 mmHg, 맥박 85회/분, 호흡수 18회/분, 체온 36.7°C였다. 피부는 건조했으며, 혀와 구강 점막도 건조했다. 신경학적 검사에서 특이 소견은 없었다. 이 환자의 다뇨증 치료를 위한 가장 적절한 초기 치료는?",
+  "exam": "혈액 검사: Glucose 320 mg/dL, Na 137 mEq/L, K 4.2 mEq/L, Cl 101 mEq/L, BUN 28 mg/dL, Cr 1.2 mg/dL, HbA1c 10.2%\n소변 검사: 비중 1.025, 포도당 3+, 케톤 음성, 단백 음성\n24시간 소변량: 약 5L",
+  "options": {
+    "A": "경구 메트포르민(metformin) 투여",
+    "B": "경구 디스모프레신(desmopressin) 투여",
+    "C": "정맥 생리식염수 투여",
+    "D": "정맥 인슐린 주사와 수액 요법",
+    "E": "티아지드(thiazide) 이뇨제 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 제2형 당뇨병에 의한 다뇨증을 보이고 있습니다. 당뇨병성 다뇨증은 고혈당으로 인한 삼투성 이뇨(osmotic diuresis)로 발생합니다.\n\n이 환자에서 제2형 당뇨병을 시사하는 소견은 다음과 같습니다:\n1. 전형적인 당뇨병 증상: 다뇨, 다갈, 체중 감소\n2. 고혈당: 공복 혈당 320 mg/dL\n3. 당화혈색소(HbA1c) 10.2%로 상승\n4. 소변 검사에서 당뇨(3+)\n5. 당뇨 가족력\n6. 연령(65세)과 고혈압 병력(당뇨병의 위험 요인)\n\n당뇨병성 다뇨증의 병태생리는 다음과 같습니다:\n1. 고혈당 상태에서 신장 여과량이 증가하여 포도당이 소변으로 배설됨\n2. 소변으로 배설되는 포도당은 삼투압을 증가시켜 수분을 함께 끌고 나가게 됨(삼투성 이뇨)\n3. 이로 인해 소변량이 증가하고 탈수가 발생함\n4. 탈수로 인해 갈증 중추가 자극되어 다갈이 발생함\n\n이 환자의 경우 혈당이 320 mg/dL로 상승해 있지만, 케톤뇨증이 없고 생명을 위협하는 급성 합병증(당뇨병성 케톤산증, 고삼투압성 고혈당 상태)의 증거는 없습니다. 따라서 제2형 당뇨병의 초기 치료로 경구 혈당강하제인 메트포르민이 가장 적절합니다.\n\n메트포르민은 제2형 당뇨병의 일차 치료제로, 다음과 같은 작용 기전을 가집니다:\n1. 간에서 포도당 생성 억제\n2. 근육과 지방 조직에서 인슐린 감수성 증가\n3. 장에서 포도당 흡수 감소\n\n메트포르민 치료와 함께 생활 습관 개선(식이 조절, 운동), 당뇨병 교육, 정기적인 혈당 모니터링도 필요합니다.\n\n경구 디스모프레신(desmopressin) 투여(B)는 중추성 요붕증 치료에 사용되는 방법으로, 이 환자의 다뇨증은 ADH 부족이 아닌 고혈당으로 인한 삼투성 이뇨이므로 적절하지 않습니다.\n\n정맥 생리식염수 투여(C)는 심한 탈수나 전해질 불균형이 있을 때 필요할 수 있으나, 이 환자는 경구 수분 섭취가 가능하고 심한 탈수 증상이 없으므로 우선적인 치료는 아닙니다.\n\n정맥 인슐린 주사와 수액 요법(D)은 당뇨병성 케톤산증이나 고삼투압성 고혈당 상태와 같은 급성 합병증이 있을 때 필요합니다. 이 환자는 케톤뇨가 없고 의식 변화나 심한 탈수 증상이 없어 이러한 급성 합병증의 증거가 없으므로 우선적인 치료는 아닙니다.\n\n티아지드(thiazide) 이뇨제 투여(E)는 신성 요붕증 치료에 사용될 수 있으나, 이 환자의 다뇨증은 신성 요붕증이 아닌 당뇨병으로 인한 것이므로 적절하지 않습니다. 또한 이뇨제는 소변량을 더 증가시켜 환자의 탈수를 악화시킬 수 있습니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt - Diabetes mellitus (DM) frequently presents with the classic triad of polyuria, polydipsia, and weight loss. The polyuria in diabetes mellitus is osmotic in nature, resulting from filtered glucose exceeding the renal threshold (approximately 180 mg/dL in most individuals), leading to glucosuria. This osmotic load carries water with it, increasing urine output. Type 2 diabetes mellitus (T2DM) accounts for 90-95% of diabetes cases and is characterized by insulin resistance and relative insulin deficiency. Initial management of newly diagnosed T2DM depends on the severity of hyperglycemia, presence of symptoms, and comorbidities. For most patients with an HbA1c less than 9%, initial management includes lifestyle modifications (diet, exercise, weight loss) and metformin, unless contraindicated. Metformin is recommended as first-line therapy due to its efficacy, safety profile, weight neutrality or modest weight loss effect, extensive clinical experience, and low cost. It primarily reduces hepatic glucose production and improves insulin sensitivity in peripheral tissues. Common side effects include gastrointestinal symptoms (diarrhea, nausea, abdominal discomfort), which can be minimized by starting with a low dose and gradually titrating upward, and taking the medication with meals. Metformin is contraindicated in patients with significant renal impairment (eGFR <30 mL/min/1.73 m²), severe hepatic disease, or conditions predisposing to lactic acidosis. For patients with more severe hyperglycemia (HbA1c ≥9%) but without symptoms of metabolic decompensation (polyuria, polydipsia, weight loss), dual therapy with metformin plus another agent (such as a DPP-4 inhibitor, SGLT2 inhibitor, GLP-1 receptor agonist, sulfonylurea, thiazolidinedione, or basal insulin) may be initiated. In patients presenting with significant hyperglycemia (blood glucose >300-350 mg/dL, HbA1c >10-12%) and symptoms of polyuria, polydipsia, and weight loss, insulin therapy (with or without metformin) is often required initially. Once glycemic control is achieved, insulin may be tapered and potentially discontinued if beta cell function is preserved. Patients with severe metabolic decompensation (diabetic ketoacidosis or hyperosmolar hyperglycemic state) require immediate treatment with intravenous fluids, electrolyte replacement, and insulin therapy. Monitoring and follow-up care should include education about self-management, glucose monitoring, recognition of hypoglycemia, and regular assessment for complications. HbA1c should be measured every 3-6 months, with a general target of <7% for most patients, though individualization based on age, comorbidities, and hypoglycemia risk is essential.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 2개월 동안 지속된 심한 갈증과 잦은 소변으로 내원하였다. 환자는 하루에 약 6-7리터의 물을 마시며, 밤에도 여러 번 깨어 소변을 보고 물을 마신다고 한다. 최근 두통이 심해져 응급실에 방문한 적이 있었으며, 1년 전 자동차 사고로 머리를 심하게 부딪혔던 병력이 있다. 신체 검사에서 특이 소견은 없었다. 제한수분검사(water deprivation test)를 실시한 결과, 소변 삼투압은 지속적으로 낮게 유지되었으며(100 mOsm/kg), 혈장 삼투압은 증가하였다(310 mOsm/kg). 데스모프레신(desmopressin) 투여 후 소변 삼투압이 450 mOsm/kg으로 증가하였다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: Na 148 mEq/L, K 3.8 mEq/L, Cl 108 mEq/L, 포도당 95 mg/dL, BUN 15 mg/dL, Cr 0.8 mg/dL, 혈장 삼투압 310 mOsm/kg\n소변 검사: 비중 1.002, 단백질 음성, 포도당 음성, 소변 삼투압 100 mOsm/kg\n뇌 MRI: 뇌하수체 줄기와 후엽 부위에 신호 감소 소견 관찰됨",
+  "options": {
+    "A": "신성 요붕증",
+    "B": "중추성 요붕증",
+    "C": "심인성 다음증",
+    "D": "제1형 당뇨병",
+    "E": "요붕증을 동반한 SIADH"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 중추성 요붕증(Central Diabetes Insipidus)의 전형적인 증상을 보이고 있다. 중추성 요붕증은 뇌하수체 후엽에서 항이뇨호르몬(ADH, 바소프레신)의 생성이나 분비가 부족하여 발생하는 질환이다. 환자는 심한 다뇨증과 다음증을 호소하고 있으며, 외상성 뇌손상 병력이 있다. 외상성 뇌손상은 중추성 요붕증의 흔한 원인 중 하나이다. 검사 결과에서도 중추성 요붕증의 특징적인 소견이 관찰된다. 제한수분검사에서 소변 삼투압이 지속적으로 낮게 유지되며(100 mOsm/kg) 혈장 삼투압은 증가하였다(310 mOsm/kg). 특히 데스모프레신(외부 ADH) 투여 후 소변 삼투압이 크게 증가한 점(100에서 450 mOsm/kg으로)은 중추성 요붕증을 시사한다. 또한 뇌 MRI에서 뇌하수체 줄기와 후엽 부위에 신호 감소 소견은 중추성 요붕증의 구조적 이상을 보여준다. 신성 요붕증의 경우 데스모프레신에 반응하지 않거나 반응이 미미할 것이다. 심인성 다음증은 혈장 삼투압이 정상이거나 낮을 것이다. 제1형 당뇨병은 고혈당을 특징으로 하나 이 환자는 혈당이 정상이다. SIADH는 요붕증과 반대로 항이뇨호르몬이 과다하게 분비되는 질환으로 소변량이 감소하고 혈장 삼투압이 감소한다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: 'Central diabetes insipidus (CDI) results from a deficiency of ADH secretion and is characterized by decreased urine concentration and increased urine volume. The syndrome in humans was first described in the 18th century and was shown to be associated with pituitary disease when patients with pituitary tumors presented with polyuria. CDI can be caused by a variety of diseases or injuries, including head trauma (vehicle accidents), neurosurgery, granulomas (especially those seen in Langerhans' cell histiocytosis), neoplasms, inflammation, autoimmune diseases, or vascular accidents. Head trauma and neurosurgery are the most common causes of CDI. Rare familial forms have also been reported in association with mutations in the gene encoding either vasopressin or vasopressin-neurophysin.'",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 방법을 선택할 수 있다.",
+  "question": "58세 남성이 3개월 전부터 시작된 다뇨, 다음, 체중 감소로 내원하였다. 환자는 최근 3개월 동안 약 8kg의 체중이 감소했으며, 하루에 소변을 약 4L 정도 본다고 한다. 또한 소변을 볼 때마다 거품이 많이 생긴다고 호소한다. 시력이 약간 흐려졌고 발바닥이 저리는 증상도 있다고 한다. 과거력상 10년 전 고혈압을 진단받고 약물 치료 중이며, 가족력상 아버지와 형이 당뇨병으로 치료받은 적이 있다. 신체 검사에서 혈압 150/90mmHg, 맥박 82회/분, 호흡수 18회/분, 체온 36.5℃였다. 복부 비만이 관찰되었고, 양측 발목의 감각이 약간 저하되어 있었다. 이 환자의 다뇨증을 설명하는 가장 적절한 기전은?",
+  "exam": "혈액 검사: 공복 혈당 220 mg/dL, HbA1c 9.8%, 총 콜레스테롤 230 mg/dL, 중성지방 180 mg/dL, HDL 콜레스테롤 35 mg/dL, LDL 콜레스테롤 150 mg/dL, BUN 25 mg/dL, Cr 1.2 mg/dL\n소변 검사: 단백질 2+, 포도당 3+, 케톤체 음성\n안저 검사: 초기 비증식성 당뇨망막병증 소견",
+  "options": {
+    "A": "항이뇨호르몬 분비 감소",
+    "B": "신장 집합관에서의 항이뇨호르몬 저항성",
+    "C": "삼투성 이뇨로 인한 용질 이뇨",
+    "D": "염분 과다 섭취로 인한 나트륨 이뇨",
+    "E": "과다한 물 섭취로 인한 수분 이뇨"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 제2형 당뇨병의 전형적인 증상을 보이고 있다. 공복 혈당 220 mg/dL, HbA1c 9.8%, 소변 내 포도당 양성 등의 소견이 당뇨병을 강력히 시사한다. 당뇨병 환자에서 발생하는 다뇨증은 삼투성 이뇨(osmotic diuresis)에 의한 용질 이뇨 기전으로 발생한다. 혈중 포도당 농도가 신장 재흡수 역치(약 180 mg/dL)를 초과하면 여과된 포도당이 신세뇨관에서 완전히 재흡수되지 못하고 소변으로 배출된다. 이 과정에서 포도당이 세뇨관 내 삼투압을 증가시켜 물의 재흡수를 방해하고, 결과적으로 소변량이 증가하게 된다(삼투성 이뇨). 환자가 호소하는 다뇨, 다음, 체중 감소는 조절되지 않은 당뇨병의 3대 주요 증상이며, 소변의 거품은 당뇨병성 신증의 단백뇨를 시사한다. 시력 흐림은 고혈당으로 인한 수정체의 굴절력 변화나 당뇨망막병증을, 발바닥 저림은 당뇨병성 말초신경병증을 나타낸다. 항이뇨호르몬 분비 감소나 저항성은 각각 중추성 요붕증과 신성 요붕증의 기전이다. 나트륨 이뇨나 수분 이뇨는 이 환자의 임상 양상과 검사 결과로 설명하기 어렵다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: 'Polyuria is often one of the first symptoms of DM and reflects the osmotic diuresis that results from hyperglycemia. The plasma glucose level rises above the renal threshold (normally 180 mg/dL), glucose appears in the urine, and causes an osmotic diuresis with polyuria and polydipsia. Typically, the symptoms of polyuria and polydipsia prompt the patient with type 1 DM to seek medical care. However, in individuals with type 2 DM, these symptoms may develop so gradually that the patient is completely unaware of them. In this setting, the diagnosis may be made because the patient has a condition (skin infection, erectile dysfunction, stroke) that prompt medical attention. Other individuals with undiagnosed type 2 DM are identified through routine laboratory tests.'",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게 원인질환에 따른 적합한 교육내용을 선택할 수 있다.",
+  "question": "32세 여성이 지난 6개월간 지속된 다뇨증, 다음증, 그리고 전반적인 무기력감으로 내원하였다. 환자는 정신과에서 조현병으로 진단받고 7년간 약물 치료 중이며, 최근 약물 용량이 증가했다. 환자는 하루에 5-6리터의 물을 마시며, 깨어 있는 시간 대부분을 물을 마시는 데 보낸다고 한다. 갈증이 심하지 않아도 습관적으로 물을 마신다고 한다. 환자는 정신과 약물로 클로자핀(clozapine)과 할로페리돌(haloperidol)을 복용 중이다. 신체 검사에서 혈압 110/70mmHg, 맥박 75회/분, 호흡수 16회/분, 체온 36.7℃였다. 신경학적 검사에서 특이 소견은 없었다. 이 환자에게 가장 적절한 교육 내용은?",
+  "exam": "혈액 검사: Na 133 mEq/L, K 3.9 mEq/L, Cl 98 mEq/L, 공복 혈당 85 mg/dL, BUN 10 mg/dL, Cr 0.7 mg/dL, 혈장 삼투압 275 mOsm/kg\n소변 검사: 비중 1.003, 단백질 음성, 포도당 음성, 소변 삼투압 80 mOsm/kg\n제한수분검사: 8시간 후 혈장 삼투압 290 mOsm/kg, 소변 삼투압 320 mOsm/kg\n약물 스크리닝: 음성",
+  "options": {
+    "A": "하루 물 섭취량을 5리터로 제한하고 카페인이 함유된 음료를 늘릴 것",
+    "B": "데스모프레신 스프레이를 취침 전 사용하는 방법을 교육할 것",
+    "C": "단계적으로 물 섭취량을 줄이고 물 섭취 일지를 작성하도록 할 것",
+    "D": "인슐린 주사 방법과 저혈당 대처법을 교육할 것",
+    "E": "소금 섭취를 늘리고 물 섭취를 자유롭게 할 것"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 심인성 다음증(psychogenic polydipsia)으로 인한 수분 이뇨(water diuresis)로 다뇨증이 발생한 것으로 판단된다. 환자는 조현병으로 장기간 치료 중이며, 심인성 다음증은 정신질환, 특히 조현병 환자에서 흔하게 발생한다. 환자는 실제 갈증이 없어도 습관적으로 과도한 양의 물을 마시고 있으며, 이로 인해 저나트륨혈증(Na 133 mEq/L)이 발생했다. 제한수분검사에서 정상적인 반응을 보이는 것(수분 제한 후 소변 삼투압 증가)은 항이뇨호르몬 기능이 정상임을 나타내므로, 중추성이나 신성 요붕증을 배제할 수 있다. 이런 환자에게는 단계적으로 물 섭취량을 줄이고 물 섭취 일지를 작성하도록 하는 행동 수정 요법이 가장 적절한 교육 내용이다. 이를 통해 물 섭취에 대한 인식을 높이고 점진적으로 습관을 개선할 수 있다. 물 섭취를 갑자기 5리터로 제한하는 것은 여전히 과도한 양이며, 카페인 음료는 이뇨 작용이 있어 증상을 악화시킬 수 있다. 데스모프레신은 중추성 요붕증의 치료제로, 이 환자에게는 불필요하며 오히려 수분 중독 위험을 증가시킬 수 있다. 인슐린 교육은 당뇨병 환자에게 필요한 내용이며, 소금 섭취 증가는 이 환자의 상태를 악화시킬 수 있다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'Polydipsia (excessive water intake) can occur in patients with psychotic disorders, particularly schizophrenia, and may lead to water intoxication with hyponatremia. This condition, known as psychogenic polydipsia or primary polydipsia, is characterized by excessive fluid intake without physiological stimulus to drink. Management involves behavioral modification strategies including gradual reduction of fluid intake, maintaining a fluid intake diary, and regular monitoring of body weight and serum sodium levels. Antipsychotic medications, particularly clozapine, have been associated with both causing and ameliorating polydipsia in different individuals.'",
+  "category": "Psychiatry"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인질환의 합병증을 파악하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "68세 여성이 3주 전부터 시작된 소변량 증가, 구갈, 그리고 어지러움을 주소로 내원하였다. 환자는 20년 전부터 고혈압으로 치료 중이며, 2개월 전 혈압 조절이 잘 되지 않아 이뇨제 용량을 증가하였다. 하루 소변량은 약 3.5L 정도이며, 특히 이뇨제 복용 후 증상이 심해진다고 한다. 최근 가벼운 실신 에피소드가 있었고, 기립 시 어지러움이 심해져 일상생활에 불편함을 호소한다. 현재 복용 중인 약물은 히드로클로로티아지드(hydrochlorothiazide) 25mg/일, 암로디핀(amlodipine) 5mg/일이다. 신체 검사에서 혈압 130/80mmHg(앉은 자세), 110/60mmHg(서 있는 자세), 맥박 90회/분(앉은 자세), 110회/분(서 있는 자세), 호흡수 18회/분, 체온 36.6℃였다. 피부와 점막이 건조하고, 경정맥 충만도가 감소하였다. 이 환자의 다뇨증과 관련된 가장 우선적인 치료는?",
+  "exam": "혈액 검사: Na 132 mEq/L, K 3.2 mEq/L, Cl 96 mEq/L, HCO3 28 mEq/L, BUN 30 mg/dL, Cr 1.3 mg/dL, 포도당 92 mg/dL, 총 Ca 8.9 mg/dL, 혈장 삼투압 280 mOsm/kg\n소변 검사: 비중 1.010, 단백질 음성, 포도당 음성, Na 30 mEq/L, K 40 mEq/L\n심전도: 정상 동성 리듬, QT 간격 연장",
+  "options": {
+    "A": "히드로클로로티아지드 용량을 50mg/일로 증가",
+    "B": "히드로클로로티아지드 중단과 체액량 회복",
+    "C": "인슐린 치료 시작",
+    "D": "데스모프레신 비강 스프레이 처방",
+    "E": "물 섭취 제한과 정신과 상담"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 티아지드계 이뇨제(hydrochlorothiazide) 사용으로 인한 다뇨증과 체액량 감소 상태를 보이고 있다. 이뇨제는 신장에서 나트륨과 물의 배설을 증가시켜 소변량을 증가시킨다. 환자는 체액량 감소의 여러 징후를 보이고 있다: 기립성 저혈압(앉은 자세에서 130/80mmHg에서 서 있는 자세로 110/60mmHg로 혈압 감소), 기립성 빈맥(맥박 증가), 피부와 점막 건조, 경정맥 충만도 감소. 또한 저칼륨혈증(K 3.2 mEq/L)과 경미한 저나트륨혈증(Na 132 mEq/L)이 관찰되며, 이는 티아지드계 이뇨제의 흔한 부작용이다. QT 간격 연장은 저칼륨혈증으로 인한 심장 합병증이다. 이러한 상황에서 가장 우선적인 치료는 히드로클로로티아지드를 중단하고 체액량을 회복시키는 것이다. 이를 통해 전해질 이상과 기립성 저혈압, 다뇨증 등의 증상을 개선할 수 있다. 히드로클로로티아지드 용량을 증가시키는 것은 현재 상태를 악화시킬 것이다. 인슐린 치료, 데스모프레신 처방, 물 섭취 제한은 이 환자의 상태와 관련이 없는 치료 방법이다.",
+  "source": "Pharmacology_Katzung_textbook_data.txt: 'Thiazide diuretics can cause significant hypokalemia, hyponatremia, hypercalcemia, and hyperuricemia. Hypovolemia can occur, especially in elderly patients, manifesting as orthostatic hypotension and, in severe cases, prerenal azotemia. Volume depletion may be accompanied by dehydration and thirst, leading to increased water intake. The combination of increased water intake and hyponatremia can lead to a state of apparent polyuria. Management of thiazide-induced adverse effects primarily involves discontinuation of the drug and correction of fluid and electrolyte abnormalities. Potassium supplementation is often required to correct hypokalemia, which can cause cardiac arrhythmias, especially in patients taking digoxin.'",
+  "category": "Nephrology"
+}
+
+
