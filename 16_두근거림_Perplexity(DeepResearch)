@@ -1,0 +1,171 @@
+{
+  "question_id": 1,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 기록한 심전도를 판독할 수 있다.",
+  "question": "68세 남성이 갑작스러운 심계항진과 호흡곤란을 주소로 응급실에 내원하였다. 환자는 2시간 전 갑자기 불규칙한 심장 박동을 느끼기 시작했으며, 약간의 흉부 불편감과 어지러움을 동반했다고 한다. 과거력상 고혈압으로 10년간 약물 치료 중이며, 1년 전 일과성 뇌허혈 발작으로 입원한 적이 있다. 신체 검사에서 혈압 150/90 mmHg, 맥박 130회/분(불규칙), 호흡수 22회/분, 체온 36.8°C였다. 심음 청진 시 불규칙한 리듬과 함께 제1심음의 강도가 변화하였고, 폐 청진상 양측 하폐야에 수포음이 청진되었다. 환자의 심전도를 판독할 때 가장 적절한 것은?",
+  "exam": "혈액 검사: Na 140 mEq/L, K 4.2 mEq/L, BUN 20 mg/dL, Cr 1.1 mg/dL, Troponin I 0.02 ng/mL (정상: <0.04 ng/mL), BNP 280 pg/mL (정상: <100 pg/mL)\n흉부 X-선: 경도의 심비대와 폐울혈 소견\n심전도: 심방 세동 파형 이미지(불규칙한 RR 간격, P파 소실, 기저선의 불규칙한 진동)\n심초음파: 좌심방 크기 45mm (정상: <40mm), 좌심실 구혈률 50%, 국소 벽운동 장애 없음",
+  "options": { 
+    "A": "P파가 없고 불규칙한 RR 간격이 있는 심방세동이다.", 
+    "B": "규칙적인 RR 간격과 P파가 없는 심실상성 빈맥이다.", 
+    "C": "역행성 P파가 QRS 뒤에 있는 방실결절회귀성 빈맥이다.", 
+    "D": "톱니모양의 기저선과 규칙적인 RR 간격이 있는 심방조동이다.", 
+    "E": "넓은 QRS 복합체와 방실해리가 있는 심실빈맥이다." 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 갑작스러운 심계항진과 호흡곤란을 호소하며, 신체 검사에서 불규칙한 맥박과 제1심음의 강도 변화가 관찰된다. 심전도 소견으로 P파가 없고 불규칙한 기저선 진동(f파, 세동파)과 불규칙한 RR 간격이 관찰되어 심방세동으로 진단할 수 있다. 심방세동은 가장 흔한 지속성 부정맥으로, 특히 고혈압, 심부전, 허혈성 심장 질환, 판막 질환, 갑상선 질환 등의 위험인자가 있는 고령 환자에서 흔하게 발생한다. 이 환자는 고혈압과 일과성 뇌허혈 발작의 병력이 있어 심방세동의 위험이 증가한 상태이다. 심방조동은 톱니모양의 기저선(F파, 조동파)과 규칙적인 RR 간격이 특징이며, 방실결절회귀성 빈맥은 역행성 P파가 QRS 복합체 뒤에 위치한다. 심실상성 빈맥은 좁은 QRS 복합체와 규칙적인 RR 간격이 특징이며, 심실빈맥은 넓은 QRS 복합체(>120ms)와 종종 방실해리가 관찰된다. 이러한 특징들을 고려할 때, 이 환자의 심전도 소견은 심방세동에 가장 합당하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Atrial fibrillation (AF) is characterized by the absence of discrete P waves, which are replaced by rapid oscillations or fibrillatory waves that vary in amplitude, shape, and timing. The ventricular response is irregularly irregular. The diagnosis of AF requires a rhythm strip showing these characteristics for at least 30 seconds. AF is the most common sustained arrhythmia, affecting approximately 1-2% of the general population, with prevalence increasing dramatically with age. Risk factors include hypertension, heart failure, coronary artery disease, valvular heart disease, diabetes mellitus, and hyperthyroidism. Symptoms can range from palpitations, dyspnea, and fatigue to more severe manifestations like heart failure or thromboembolic events.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "25세 여성이 반복적인 두근거림과 호흡곤란을 주소로 내원하였다. 환자는 최근 3개월간 갑작스럽게 10-15분간 지속되는 심한 두근거림, 호흡곤란, 어지러움, 발한, 가슴 통증이 5-6회 발생했다고 한다. 이러한 증상은 주로 붐비는 쇼핑몰이나 지하철, 엘리베이터 등에서 발생했으며, 증상이 발생할 때는 심장발작이 일어나는 것 같은 극심한 공포감과 죽음에 대한 두려움을 느꼈다고 한다. 이후 환자는 이러한 증상이 다시 발생할까 봐 불안해하며, 붐비는 장소나 대중교통 이용을 피하게 되었다. 과거력상 특이 사항은 없으며, 현재 복용 중인 약물도 없다. 신체 검사에서 혈압 125/75 mmHg, 맥박 85회/분, 호흡수 16회/분, 체온 36.5°C로 정상이었으며, 다른 특이 소견은 없었다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "혈액 검사: CBC, 전해질, 갑상선 기능 검사, 혈당 모두 정상 범위\n흉부 X-선: 정상\n심전도: 정상 동리듬, 심박수 82회/분\n24시간 홀터 모니터링: 증상 발생 시 동성 빈맥(심박수 120-130회/분) 외 특이 소견 없음\n심장 초음파: 정상 심장 구조 및 기능",
+  "options": { 
+    "A": "베타 차단제(프로프라놀롤) 투여", 
+    "B": "인지행동치료와 선택적 세로토닌 재흡수 억제제(SSRI) 투여", 
+    "C": "항부정맥제(플레카이니드) 투여", 
+    "D": "갑상선 호르몬 검사 추가 및 항갑상선 약물 투여", 
+    "E": "관상동맥 조영술 시행" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 갑작스러운 두근거림, 호흡곤란, 발한, 가슴 통증, 죽음에 대한 공포감 등의 증상이 반복적으로 발생하고, 특정 상황(붐비는 장소, 대중교통)에서 증상이 유발되며, 이후 예기 불안과 회피 행동이 나타나는 전형적인 공황장애의 임상 양상을 보인다. 모든 검사 결과는 정상이며, 증상 발생 시 동성 빈맥 외에 부정맥이나 구조적 심장 질환의 증거는 없다. 공황장애의 치료는 약물치료와 심리치료의 병합이 효과적이다. 인지행동치료는 공황장애의 가장 효과적인 심리치료법으로, 환자에게 공황 발작의 신체 감각에 대한 오해석을 교정하고, 점진적 노출을 통해 회피 행동을 감소시킨다. 약물치료로는 선택적 세로토닌 재흡수 억제제(SSRI)가 일차 선택 약물로, 장기적인 증상 조절에 효과적이다. 베타 차단제는 공황 발작의 증상을 일부 완화할 수 있으나, 공황장애의 근본적인 치료법은 아니다. 항부정맥제는 부정맥이 없는 이 환자에게 적절하지 않다. 갑상선 기능 검사는 이미 정상으로 확인되었으며, 관상동맥 조영술은 심장 질환의 증거가 없고 젊은 여성이므로 적응증이 되지 않는다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: Panic disorder treatment typically involves a combination of pharmacotherapy and psychotherapy. Cognitive behavioral therapy (CBT) is the most effective psychotherapeutic approach, with response rates of 70-90%. CBT for panic disorder includes psychoeducation, cognitive restructuring to address catastrophic misinterpretations of bodily sensations, and interoceptive exposure to feared physical sensations. Pharmacological first-line treatments include selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs), which have shown efficacy in reducing panic attack frequency and severity, anticipatory anxiety, and agoraphobic avoidance. SSRIs typically require 4-6 weeks for full therapeutic effect, though some patients may experience improvement earlier. Combining CBT with medication often provides superior outcomes compared to either treatment alone, particularly for severe cases.",
+  "category": "Psychiatry"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 빈도와 동반증상에 따라 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 2개월 전부터 시작된 간헐적인 두근거림을 주소로 내원하였다. 환자는 하루에 수차례, 특히 커피를 마신 후나 스트레스를 받을 때 가슴이 '쿵' 하고 뛰는 느낌이 들며, 이후 짧은 휴지기가 있다고 한다. 증상은 수초간 지속되고 저절로 사라진다고 한다. 환자는 흉통, 호흡곤란, 실신 등의 동반 증상은 없다고 한다. 과거력상 고혈압으로 10년간 약물 치료 중이며, 2년 전 관상동맥 CT에서 경미한 관상동맥 협착(30%)이 있었다. 가족력상 특이 사항은 없다. 신체 검사에서 혈압 135/85 mmHg, 맥박 75회/분(불규칙), 호흡수 16회/분, 체온 36.6°C였으며, 심음 청진 시 간헐적으로 조기 박동과 이후 보상적 휴지기가 관찰되었다. 이 환자의 평가를 위해 가장 적절한 다음 단계는?",
+  "exam": "혈액 검사: 전해질(Na 140 mEq/L, K 4.0 mEq/L, Cl 105 mEq/L, Ca 9.5 mg/dL, Mg 2.0 mg/dL), TSH 2.5 mIU/L (정상: 0.4-4.0 mIU/L)\n심전도: 동리듬, 심박수 76회/분, 간헐적인 조기심실수축(1분에 3-4회), 완전한 보상적 휴지기 있음\n흉부 X-선: 정상",
+  "options": { 
+    "A": "24시간 홀터 모니터링", 
+    "B": "운동부하 심전도 검사", 
+    "C": "전기생리학 검사", 
+    "D": "관상동맥 조영술", 
+    "E": "심장 자기공명영상(MRI)" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 간헐적인 두근거림을 호소하며, 심전도에서 조기심실수축(PVC)이 확인되었다. 환자의 증상은 PVC에 합당한 양상으로, '쿵'하는 느낌은 PVC 자체보다는 이후 보상적 휴지기 후 증가된 충만으로 인한 강한 수축을 감지하는 것이다. 심각한 동반 증상(흉통, 호흡곤란, 실신)이 없고, 기본 검사에서 특별한 이상이 없으므로, 다음 단계로 24시간 홀터 모니터링이 가장 적절하다. 홀터 모니터링은 24시간 동안의 부정맥 빈도, 복잡성, 일중 변동, 그리고 증상과의 연관성을 평가할 수 있어 PVC의 임상적 의의를 판단하는 데 중요하다. 하루 PVC 횟수가 많거나(>10,000회/일), 비지속성 심실빈맥이 있거나, 증상이 심할 경우 추가 평가와 치료가 필요할 수 있다. 운동부하 심전도 검사는 운동 유발 부정맥이나 허혈성 심장 질환이 의심될 때 유용하나, 이 환자는 허혈 증상이 없고 이전 관상동맥 CT에서 경미한 협착만 있었다. 전기생리학 검사는 심실빈맥이나 실신이 있는 복잡한 부정맥 환자에게 적용되는 침습적 검사로, 이 환자에게는 과도하다. 관상동맥 조영술은 허혈성 심장 질환의 진단에 중요하나, 이 환자는 전형적인 허혈 증상이 없다. 심장 MRI는 구조적 심장 질환, 심근병증, 심근염 등의 평가에 유용하나, 조기심실수축만 있는 초기 평가에서는 일반적으로 필요하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Ambulatory electrocardiographic (Holter) monitoring is the cornerstone for evaluating suspected arrhythmias in patients with palpitations. Standard monitoring periods of 24-48 hours provide continuous rhythm assessment and symptom correlation through patient-activated event markers. For infrequent symptoms, event recorders or implantable loop recorders may be more useful. In evaluating premature ventricular complexes (PVCs), Holter monitoring helps determine the frequency (burden), complexity (multi-morphology, couplets, triplets), circadian variation, and relationship to symptoms. Generally, PVCs are considered potentially significant if they occur at high frequency (>10,000/day), are polymorphic, or are associated with symptoms like near-syncope. The presence of underlying structural heart disease significantly influences the clinical importance of PVCs.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "32세 여성이 3개월 전부터 지속된 두근거림, 체중 감소, 열불내성을 주소로 내원하였다. 환자는 가슴이 빠르게 뛰는 느낌이 지속되며, 특히 밤에 누워있을 때 더 심하게 느껴진다고 한다. 최근 5kg의 체중 감소가 있었으며, 식욕은 오히려 증가했다고 한다. 또한 더위를 못 참고, 손이 떨리며, 불안감과 초조함을 호소한다. 월경도 불규칙해졌다고 한다. 과거력상 특이 사항은 없으며, 가족력상 어머니가 갑상선 질환으로 치료받은 적이 있다고 한다. 신체 검사에서 혈압 130/80 mmHg, 맥박 110회/분(규칙적), 호흡수 18회/분, 체온 37.2°C였다. 갑상선이 미만성으로 커져 있었고, 촉진 시 잡음이 들렸다. 양손의 미세 진전이 관찰되었으며, 심음 청진상 규칙적인 빈맥과 함께 수축기 잡음(2/6)이 청진되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: TSH <0.01 mIU/L (정상: 0.4-4.0 mIU/L), 유리 T4 3.5 ng/dL (정상: 0.8-1.8 ng/dL), 유리 T3 8.0 pg/mL (정상: 2.3-4.2 pg/mL), 항갑상선과산화효소항체(anti-TPO) 양성, 항갑상선자극호르몬수용체항체(TRAb) 양성\n심전도: 동성 빈맥, 심박수 112회/분\n갑상선 초음파: 갑상선 미만성 종대, 혈류 증가\n갑상선 스캔: 미만성 섭취 증가",
+  "options": { 
+    "A": "그레이브스병", 
+    "B": "아급성 갑상선염", 
+    "C": "독성 다결절성 갑상선종", 
+    "D": "TSH 분비 뇌하수체 선종", 
+    "E": "기능성 난소 낭종" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 갑상선 기능 항진증의 전형적인 증상인 두근거림, 체중 감소, 열불내성, 다식, 진전, 불안, 월경 불규칙 등을 보이며, 신체 검사에서 미만성 갑상선종, 갑상선 잡음, 빈맥이 관찰된다. 검사 결과 TSH 억제(<0.01 mIU/L)와 유리 T4 및 T3의 상승이 확인되었고, 특히 TRAb(갑상선자극호르몬수용체항체) 양성 소견으로 그레이브스병으로 진단할 수 있다. 그레이브스병은 자가항체(TRAb)가 갑상선자극호르몬(TSH) 수용체에 결합하여 갑상선 호르몬 생성을 자극하는 자가면역 질환이다. 미만성 갑상선종, 갑상선 안병증, 피부 점액수종이 특징적인 임상 소견이며, 여성과 가족력이 있는 경우 더 흔하게 발생한다. 아급성 갑상선염은 바이러스 감염 후 발생하는 일시적인 갑상선 염증으로, 갑상선 통증과 압통이 특징이며, TRAb는 음성이다. 독성 다결절성 갑상선종은 주로 고령에서 발생하며, 비대칭적인 결절성 갑상선종이 특징이고, TRAb는 음성이다. TSH 분비 뇌하수체 선종은 매우 드물게 TSH를 과다 분비하여 갑상선 기능 항진증을 유발하나, 이 경우 TSH가 정상이거나 증가되어 있다. 기능성 난소 낭종은 에스트로겐을 과다 생성할 수 있으나, 갑상선 기능 항진증의 증상과 검사 소견을 설명하지 못한다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Graves' disease, the most common cause of hyperthyroidism, is characterized by diffuse goiter, ophthalmopathy, and occasionally dermopathy. It is an autoimmune disorder caused by thyrotropin receptor antibodies (TRAbs) that stimulate the thyroid hormone synthesis and secretion as well as thyroid growth. Clinical manifestations include heat intolerance, weight loss despite increased appetite, palpitations, anxiety, tremor, and hyperdefecation. Physical examination often reveals tachycardia, warm moist skin, fine tremor, and hyperreflexia. Laboratory findings include suppressed TSH (<0.01 mU/L), elevated free T4 and/or T3, and positive TRAbs. Thyroid scan shows diffuse, increased uptake. The disease is more common in women and tends to occur in families, indicating genetic predisposition.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 여성이 갑작스러운 심계항진을 주소로 응급실에 내원하였다. 환자는 2시간 전부터 갑자기 시작된 빠른 심장 박동과 경미한 흉부 불편감을 호소한다. 과거에도 유사한 증상이 5-6회 있었으며, 보통 수 분에서 수 시간 지속 후 저절로 호전되었다고 한다. 과거력상 다른 특이 사항은 없다. 신체 검사에서 혈압 110/70 mmHg, 맥박 180회/분(규칙적), 호흡수 20회/분, 체온 36.8°C였다. 심음 청진 시 규칙적인 빈맥 외에 특이 소견은 없었으며, 경정맥 압력 상승이나 수포음은 없었다. 환자는 혈역학적으로 안정적이었다. 12유도 심전도에서 규칙적인 좁은 QRS 빈맥(HR 182회/분)이 확인되었으며, P파는 명확하게 식별되지 않았다. 이 환자의 급성기 치료로 가장 적절한 것은?",
+  "exam": "혈액 검사: 전해질, 심장 효소, CBC 모두 정상 범위\n흉부 X-선: 정상\n심전도: 좁은 QRS 복합체(<120ms)를 가진 규칙적인 빈맥, 심박수 182회/분",
+  "options": { 
+    "A": "즉시 전기적 심장율동전환", 
+    "B": "아데노신 6mg 정맥 주사 후 필요시 12mg으로 증량", 
+    "C": "메토프롤롤 5mg 정맥 주사", 
+    "D": "아미오다론 정맥 주입", 
+    "E": "베라파밀 정맥 주사와 동시에 아트로핀 투여" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 발작성으로 발생하는 규칙적인 좁은 QRS 빈맥(심박수 182회/분)을 보이며, 이는 발작성 심실상성 빈맥(PSVT), 특히 방실결절회귀성 빈맥(AVNRT) 또는 방실회귀성 빈맥(AVRT)의 가능성이 높다. 환자는 혈역학적으로 안정적이므로(혈압 110/70 mmHg, 의식 명료), 급성기 치료로는 미주신경 자극 후 아데노신 정맥 주사가 가장 적절하다. 아데노신은 반감기가 매우 짧은(수 초) 약물로, 일시적으로 방실결절 전도를 차단하여 회귀성 빈맥을 종료시킨다. 일반적으로 6mg을 신속하게 정맥 주사하고, 효과가 없으면 12mg으로 증량한다. 아데노신은 진단적 가치도 있어, 투여 후 심전도 반응을 관찰함으로써 부정맥의 기전을 추정할 수 있다. 전기적 심장율동전환은 혈역학적으로 불안정한 환자(저혈압, 흉통, 심부전, 의식 변화 등)에게 즉시 시행해야 하나, 이 환자는 안정적이므로 먼저 약물 치료를 시도할 수 있다. 메토프롤롤이나 베라파밀과 같은 방실결절 차단 약물도 PSVT 치료에 효과적일 수 있으나, 아데노신보다 작용 시간이 길고 부작용(저혈압, 심부전 악화 등)이 더 흔하므로 아데노신이 일차 선택약이다. 아미오다론은 주로 심실성 부정맥 치료에 사용되며, PSVT의 급성기 치료로는 적절하지 않다. 베라파밀과 아트로핀을 동시에 투여하는 것은 표준 치료법이 아니며, 오히려 상반된 효과로 인해 문제를 복잡하게 할 수 있다.",
+  "source": "First_Aid_Step2_textbook_data.txt: Management of paroxysmal supraventricular tachycardia (PSVT) depends on hemodynamic stability. For stable patients with PSVT, initial approach includes vagal maneuvers (Valsalva, carotid sinus massage). If unsuccessful, adenosine is the drug of choice (6 mg IV rapid push, followed by 12 mg if needed). Adenosine has a very short half-life (seconds) and transiently blocks AV node conduction, terminating reentrant tachycardias that involve the AV node (AVNRT, AVRT). Side effects include flushing, chest pain, and brief asystole. Adenosine is diagnostic as well as therapeutic, as the response helps identify the underlying mechanism. If adenosine fails, calcium channel blockers (verapamil, diltiazem) or beta-blockers may be considered. For unstable patients with hypotension, altered mental status, or ischemic chest pain, immediate synchronized cardioversion is indicated.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "35세 여성이 3주 전부터 시작된 두근거림, 피로감, 어지러움을 주소로 내원하였다. 환자는 평소보다 쉽게 피로해지고, 가벼운 계단 오르기에도 숨이 차며, 특히 일어설 때 어지러움을 느낀다고 한다. 두근거림은 주로 운동 시 발생하며, 휴식 시에도 때때로 느껴진다고 한다. 과거력상 월경과다가 있었으며, 최근 월경량이 더 증가했다고 한다. 평소 채식 위주의 식습관을 가지고 있으며, 임신력은 2-0-0-2였다. 신체 검사에서 혈압 110/70 mmHg, 맥박 100회/분(규칙적), 호흡수 18회/분, 체온 36.6°C였다. 결막은 창백하였고, 심음 청진 시 2/6 수축기 잡음이 청진되었다. 복부 진찰에서 특이소견은 없었다. 이 환자의 두근거림의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: Hb 7.5 g/dL (정상: 12-16 g/dL), MCV 75 fL (정상: 80-100 fL), MCH 24 pg (정상: 27-33 pg), 혈소판 350,000/μL, 백혈구 6,500/μL, 페리틴 8 ng/mL (정상: 15-150 ng/mL), TIBC 450 μg/dL (정상: 250-400 μg/dL)\n심전도: 동성 빈맥, 심박수 98회/분\n흉부 X-선: 정상",
+  "options": { 
+    "A": "철결핍성 빈혈", 
+    "B": "급성 출혈", 
+    "C": "유문판 탈출증", 
+    "D": "심방세동", 
+    "E": "갑상선 기능 항진증" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 두근거림, 피로감, 어지러움, 운동시 호흡곤란 등 빈혈의 전형적인 증상을 보이며, 신체 검사에서 결막 창백과 수축기 잡음(고박출량 상태에서 흔히 관찰됨)이 관찰된다. 검사 결과 Hb 7.5 g/dL로 중등도의 빈혈이 확인되며, MCV와 MCH가 감소한 소구성 저색소성 빈혈 소견과 함께 페리틴 감소(8 ng/mL), TIBC 증가(450 μg/dL)가 관찰되어 철결핍성 빈혈로 진단할 수 있다. 철결핍성 빈혈의 주요 원인으로는 월경과다, 임신, 소화기 출혈, 식이 부족 등이 있으며, 이 환자는 월경과다와 채식 위주의 식습관이 원인으로 작용했을 가능성이 높다. 빈혈에서 두근거림은 조직으로의 산소 전달 감소를 보상하기 위한 심박출량 증가로 인해 발생한다. 급성 출혈은 갑작스러운 혈색소 감소와 함께 저혈압, 빈맥, 쇼크 증상을 동반할 수 있으나, 이 환자는 3주간 서서히 진행된 증상을 보인다. 유문판 탈출증은 심장 판막 질환으로 수축기 잡음을 유발할 수 있으나, 환자의 임상 양상과 검사 결과는 빈혈에 더 합당하다. 심방세동은 불규칙한 맥박이 특징이나, 이 환자는 규칙적인 동성 빈맥을 보인다. 갑상선 기능 항진증도 두근거림을 유발할 수 있으나, 체중 감소, 더위 불내성, 발한 증가 등의 특징적인 증상이 없다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Iron deficiency anemia (IDA) is characterized by microcytic, hypochromic red cells, decreased serum iron with increased iron-binding capacity, and low ferritin levels. Common causes include menstrual blood loss, pregnancy, gastrointestinal bleeding, and dietary insufficiency. Clinical manifestations typically develop gradually as anemia progresses and include fatigue, exercise intolerance, weakness, lightheadedness, and palpitations. Palpitations result from increased cardiac output as a compensatory mechanism to maintain tissue oxygenation. Physical examination may reveal pallor, a flow murmur due to increased cardiac output, and tachycardia. The diagnosis is confirmed by laboratory findings of low hemoglobin, decreased MCV and MCH, low serum ferritin (most sensitive indicator), increased total iron-binding capacity (TIBC), and low serum iron.",
+  "category": "Hematology and Oncology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 기록한 심전도를 판독할 수 있다.",
+  "question": "64세 남성이 2일 전부터 시작된 두근거림과 경미한 호흡곤란을 주소로 내원하였다. 환자는 갑자기 규칙적인 빠른 심장 박동이 시작되었으며, 약간의 흉부 불편감과 어지러움이 동반되었다고 한다. 과거력상 고혈압, 2형 당뇨병으로 약물 치료 중이며, 6개월 전 관상동맥 우회술을 받았다. 신체 검사에서 혈압 120/75 mmHg, 맥박 140회/분(규칙적), 호흡수 20회/분, 체온 36.7°C였다. 심음 청진 시 규칙적인 빈맥이 확인되었으며, 경미한 경정맥 확장이 관찰되었다. 환자의 심전도를 보았을 때, 가장 적절한 판독은?",
+  "exam": "혈액 검사: 전해질, 심장 효소, 갑상선 기능 검사 모두 정상 범위\n흉부 X-선: 이전 수술로 인한 흉골 철선 외 특이소견 없음\n심전도: 심방 박동수 약 300회/분, 규칙적인 톱니모양의 기저선, 2:1 방실 전도로 심실 박동수 약 150회/분",
+  "options": { 
+    "A": "심방세동과 빠른 심실반응", 
+    "B": "심방조동과 2:1 방실 전도", 
+    "C": "방실결절회귀성 빈맥", 
+    "D": "심실빈맥", 
+    "E": "다초점심방빈맥" 
+  },
+  "answer": "B",
+  "explanation": "이 환자의 심전도는 규칙적인 톱니모양의 기저선(F파)과 2:1 방실 전도 양상을 보여 심방조동에 합당하다. 심방조동은 심방 박동수가 약 250-350회/분(전형적으로 300회/분)이며, 특징적인 톱니모양(sawtooth pattern) 또는 F파가 관찰된다. 방실 전도는 주로 2:1(심실 박동수 150회/분)이나 가변적일 수 있다. 심방조동은 구조적 심장 질환, 특히 심장 수술 후 환자에서 흔히 발생하며, 이 환자는 6개월 전 관상동맥 우회술을 받은 병력이 있다. 심방세동은 불규칙한 기저선 진동(f파)과 불규칙한 RR 간격이 특징이나, 이 환자는 규칙적인 톱니모양의 기저선과 규칙적인 심실 반응을 보인다. 방실결절회귀성 빈맥은 좁은 QRS 빈맥이지만, 심방 활동이 1:1로 심실과 연결되어 있어 F파와 같은 특징적인 패턴이 없다. 심실빈맥은 넓은 QRS 복합체(>120ms)와 방실해리가 특징이다. 다초점심방빈맥은 다양한 모양의 P파와 불규칙한 PR 간격이 특징이며, 만성 폐질환 환자에서 흔히 발견된다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Atrial flutter is characterized by a rapid, regular atrial rate of 250-350 beats per minute (typically around 300 bpm) with a sawtooth pattern (flutter or F waves) best seen in leads II, III, aVF, and V1. The ventricular response depends on AV nodal conduction, most commonly occurring with 2:1 conduction resulting in a ventricular rate of approximately 150 bpm. The rhythm is usually regular, which helps distinguish it from atrial fibrillation. Typical (counterclockwise) atrial flutter involves a macro-reentrant circuit around the tricuspid annulus, with negative F waves in the inferior leads and positive F waves in V1. Atrial flutter is often associated with structural heart disease and is particularly common following cardiac surgery or in patients with chronic obstructive pulmonary disease.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성(임신 28주)이 지난 4주간 지속된 간헐적인 두근거림과 어지러움을 주소로 내원하였다. 환자는 특히 갑자기 자세를 바꿀 때나 오래 서 있을 때 증상이 심해진다고 한다. 두근거림은 하루에 여러 차례 발생하며 각각 2-3분간 지속된다고 한다. 또한 경미한 호흡곤란과 발목 부종을 호소한다. 환자는 첫 임신으로, 이전에는 건강했으며 특별한 과거력이 없다. 출산 전 검진은 규칙적으로 받았고, 임신 경과는 정상적이었다. 신체 검사에서 혈압 110/65 mmHg, 맥박 95회/분(규칙적), 호흡수 18회/분, 체온 36.7°C였다. 심음 청진 시 grade 2/6의 수축기 심잡음이 청진되었으며, 양측 하지에 경미한 함요 부종이 관찰되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: Hb 10.5 g/dL, Hct 32%, MCV 85 fL, 페리틴 25 ng/mL, 전해질 정상 범위\n심전도: 동성 빈맥, 심박수 95회/분\n심초음파: 정상 좌심실 수축 기능(EF 65%), 경미한 승모판 역류, 구조적 이상 없음\n24시간 홀터 모니터링: 간헐적인 동성 빈맥(최대 심박수 120회/분), 드물게 심방 조기 수축",
+  "options": { 
+    "A": "베타차단제(메토프롤롤) 투여", 
+    "B": "철분 보충, 충분한 수분 섭취, 급격한 체위 변화 피하기 교육", 
+    "C": "전기생리학적 검사 및 카테터 절제술 계획", 
+    "D": "디곡신 투여", 
+    "E": "항응고제(와파린) 투여" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 28주의 임산부로, 간헐적인 두근거림과 어지러움을 호소한다. 검사 결과 경미한 빈혈(Hb 10.5 g/dL)이 있으며, 홀터 모니터링에서 간헐적인 동성 빈맥과 드물게 심방 조기 수축이 확인되었다. 심초음파에서 구조적 심장 질환은 없다. 이러한 임상 양상은 임신 중 흔히 발생하는 생리적 변화와 관련된 증상으로 판단된다. 임신 중에는 혈장량 증가(약 50%)가 적혈구량 증가(약 30%)보다 커서 생리적 빈혈이 발생하며, 이로 인해 두근거림이나 어지러움이 생길 수 있다. 또한 임신 중에는 심박출량이 30-50% 증가하고 심박수가 10-20회/분 증가하는 생리적 변화가 있다. 가장 적절한 치료는 철분 보충(임신 중 필요량 증가), 충분한 수분 섭취, 급격한 체위 변화 피하기 교육 등 비약물적 접근이다. 베타차단제는 태아 성장 지연, 신생아 저혈당, 서맥 등의 부작용 위험이 있어 생리적 두근거림에는 권장되지 않는다. 전기생리학적 검사 및 카테터 절제술은 구조적 심장 질환이나 심각한 부정맥이 있을 때 고려하나, 이 환자는 경미한 증상과 정상 구조의 심장을 가지고 있어 적응증이 되지 않는다. 디곡신은 심방세동/조동이나 심부전에서 사용될 수 있으나, 이 환자의 상태에는 적응증이 되지 않는다. 항응고제는 혈전색전증 위험이 높은 부정맥(예: 심방세동)에서 사용되나, 이 환자는 그러한 부정맥이 없다.",
+  "source": "Obstentrics_Williams_textbook_data.txt: During pregnancy, significant cardiovascular adaptations occur including increased blood volume (40-50%), cardiac output (increases by 30-50% by third trimester), and heart rate (increases by 10-20 beats/min). These physiological changes can manifest as palpitations, which are common during pregnancy due to awareness of normal sinus tachycardia or benign ectopic beats. Management focuses on reassurance once serious arrhythmias are excluded. For physiologic palpitations, non-pharmacological interventions are preferred: 1) Adequate hydration to maintain plasma volume; 2) Iron supplementation to address physiologic anemia of pregnancy (target hemoglobin >10.5 g/dL); 3) Avoidance of stimulants; 4) Positional changes to prevent orthostatic symptoms (avoid supine position, rise slowly from sitting/lying position). Antiarrhythmic medications should be avoided unless absolutely necessary due to potential teratogenic effects and adverse fetal outcomes.",
+  "category": "Obstetrics"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 빈도와 동반증상에 따라 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "22세 남성이 반복적인 심계항진을 주소로 내원하였다. 환자는 고등학교 때부터 갑자기 시작되어 30분에서 2시간 지속되는 빠른 심장 박동이 일 년에 2-3회 있었다고 한다. 최근 빈도가 증가하여 지난 3개월간 4회 발생했으며, 가장 최근 삽화에서는 어지러움과 흉부 불편감이 동반되었다고 한다. 증상은 대부분 갑자기 시작되고 갑자기 종료된다. 과거력 및 가족력상 특이 사항은 없다. 신체 검사에서 혈압 120/75 mmHg, 맥박 75회/분(규칙적), 호흡수 16회/분, 체온 36.6°C였으며, 심음 청진 시 특이 소견은 없었다. 기본 심전도에서 PR 간격 110ms, 델타파, QRS 간격 120ms가 관찰되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 전해질, 갑상선 기능 검사, CBC 모두 정상 범위\n흉부 X-선: 정상\n기본 심전도: PR 간격 110ms, 델타파, QRS 간격 120ms\n24시간 홀터 모니터링: 1회의 발작성 심실상성 빈맥(PSVT) 삽화, 지속 시간 45분, 심박수 220회/분\n심초음파: 좌심실 구혈률 60%, 구조적 이상 없음",
+  "options": { 
+    "A": "운동부하 심전도 검사", 
+    "B": "일상 활동 중 삽화성 이벤트 기록기(event recorder)", 
+    "C": "관상동맥 조영술", 
+    "D": "전기생리학적 검사", 
+    "E": "심장 MRI" 
+  },
+  "answer": "D",
+  "explanation": "이 환자는 반복적인 심계항진이 있으며, 기본 심전도에서 짧은 PR 간격(110ms), 델타파, 넓은 QRS 복합체(120ms)의 특징적인 소견을 보여 WPW(Wolff-Parkinson-White) 증후군으로 진단할 수 있다. WPW 증후군은 심방과 심실 사이에 부속 전도로(accessory pathway)가 있어 조기흥분(pre-excitation)이 발생하는 상태로, 발작성 심실상성 빈맥(PSVT), 특히 방실회귀성 빈맥(AVRT)의 위험이 증가한다. 환자는 24시간 홀터 모니터링에서 PSVT가 확인되었고, 최근 증상 빈도가 증가하고 어지러움과 흉부 불편감이 동반되는 등 증상이 악화되고 있다. 이러한 상황에서 가장 적절한 다음 검사는 전기생리학적 검사(electrophysiology study)이다. 전기생리학적 검사는 부속 전도로의 위치와 특성(전향적/역행적 전도 능력, 불응기 등)을 정확히 평가하고, 빈맥의 유발 가능성과 기전을 확인할 수 있다. 또한 검사 결과에 따라 카테터 절제술을 계획할 수 있어 진단 및 치료 계획 수립에 핵심적인 역할을 한다. 운동부하 심전도 검사는 허혈성 심장 질환의 평가에 유용하나, 이 환자는 젊고 구조적 심장 질환의 증거가 없어 적응증이 되지 않는다. 이벤트 기록기는 증상이 간헐적이고 희귀하여 다른 검사에서 포착되지 않을 때 유용하나, 이 환자는 이미 홀터 모니터링에서 PSVT가 확인되었다. 관상동맥 조영술은 심근 허혈이 의심될 때 시행하나, 이 환자의 나이와 증상은 관상동맥 질환을 시사하지 않는다. 심장 MRI는 구조적 심장 질환, 심근병증, 심근염 등의 평가에 유용하나, WPW 증후군의 평가에는 일반적으로 필요하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Electrophysiologic study (EPS) is indicated in patients with Wolff-Parkinson-White (WPW) syndrome who have symptomatic tachyarrhythmias or concerning features. EPS provides detailed assessment of accessory pathway characteristics including location, antegrade and retrograde conduction properties, and effective refractory periods. This information is crucial for risk stratification, as pathways with short antegrade refractory periods (<250 ms) have increased risk of rapid conduction during atrial fibrillation, potentially leading to ventricular fibrillation. EPS also allows induction of tachycardias to clarify the mechanism (typically AVRT) and facilitates mapping for catheter ablation, which is the definitive treatment with success rates exceeding 95%. Indications for EPS and ablation include: 1) recurrent symptomatic tachycardias; 2) tachycardias associated with hemodynamic compromise; 3) pre-excitation that persists after chemical or electrical cardioversion; and 4) patients in high-risk occupations (pilots, competitive athletes).",
+  "category": "Cardiology"
+},
+
