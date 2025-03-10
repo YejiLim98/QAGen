@@ -110,6 +110,80 @@
   "explanation": "이 환자는 티아지드계 이뇨제(hydrochlorothiazide) 사용으로 인한 다뇨증과 체액량 감소 상태를 보이고 있다. 이뇨제는 신장에서 나트륨과 물의 배설을 증가시켜 소변량을 증가시킨다. 환자는 체액량 감소의 여러 징후를 보이고 있다: 기립성 저혈압(앉은 자세에서 130/80mmHg에서 서 있는 자세로 110/60mmHg로 혈압 감소), 기립성 빈맥(맥박 증가), 피부와 점막 건조, 경정맥 충만도 감소. 또한 저칼륨혈증(K 3.2 mEq/L)과 경미한 저나트륨혈증(Na 132 mEq/L)이 관찰되며, 이는 티아지드계 이뇨제의 흔한 부작용이다. QT 간격 연장은 저칼륨혈증으로 인한 심장 합병증이다. 이러한 상황에서 가장 우선적인 치료는 히드로클로로티아지드를 중단하고 체액량을 회복시키는 것이다. 이를 통해 전해질 이상과 기립성 저혈압, 다뇨증 등의 증상을 개선할 수 있다. 히드로클로로티아지드 용량을 증가시키는 것은 현재 상태를 악화시킬 것이다. 인슐린 치료, 데스모프레신 처방, 물 섭취 제한은 이 환자의 상태와 관련이 없는 치료 방법이다.",
   "source": "Pharmacology_Katzung_textbook_data.txt: 'Thiazide diuretics can cause significant hypokalemia, hyponatremia, hypercalcemia, and hyperuricemia. Hypovolemia can occur, especially in elderly patients, manifesting as orthostatic hypotension and, in severe cases, prerenal azotemia. Volume depletion may be accompanied by dehydration and thirst, leading to increased water intake. The combination of increased water intake and hyponatremia can lead to a state of apparent polyuria. Management of thiazide-induced adverse effects primarily involves discontinuation of the drug and correction of fluid and electrolyte abnormalities. Potassium supplementation is often required to correct hypokalemia, which can cause cardiac arrhythmias, especially in patients taking digoxin.'",
   "category": "Nephrology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인질환의 합병증을 파악하고, 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "55세 남성이 2주 동안 진행된 다뇨, 다음, 전신 쇠약감, 구역감을 주소로 응급실에 내원하였다. 환자는 하루 소변량이 4리터 이상이며, 지속적인 갈증으로 물을 많이 마시게 되었다고 한다. 최근 식욕이 감소하고 체중이 3kg 줄었으며, 변비와 복통도 있다고 한다. 과거력상 특이 사항 없으며, 가족력상 아버지가 전립선암으로 치료받은 병력이 있다. 신체 검사에서 혈압 130/80 mmHg, 맥박 100회/분, 호흡수 20회/분, 체온 37.0°C였으며, 구강 점막이 건조하고 피부 탄력이 감소해 있었다. 신경학적 검사에서 깊은 건반사가 감소되어 있었다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "혈액 검사: Na 148 mEq/L, K 3.0 mEq/L, Cl 110 mEq/L, 혈당 110 mg/dL, BUN 50 mg/dL, Cr 2.0 mg/dL, Ca 13.5 mg/dL, P 2.0 mg/dL, 알부민 3.2 g/dL\n소변 검사: 비중 1.010, 당(-), 단백(+)\n혈액 가스 검사: pH 7.48, HCO3- 32 mEq/L\n흉부 X-선: 우측 폐상부에 다발성 결절 소견\n척추 MRI: T12, L2, L4 척추체에 용해성 병변",
+  "options": { 
+    "A": "수액 공급 및 푸로세미드 투여", 
+    "B": "수액 공급 및 파미드로네이트 투여", 
+    "C": "중탄산나트륨 투여 및 혈액투석", 
+    "D": "데스모프레신 투여 및 수분 제한", 
+    "E": "인슐린과 포도당 투여" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 다뇨, 다음, 구역감, 식욕 감소, 변비, 복통 등의 증상이 있으며, 검사 결과 고칼슘혈증(Ca 13.5 mg/dL), 저인산혈증(P 2.0 mg/dL), 신부전(BUN 50 mg/dL, Cr 2.0 mg/dL), 고나트륨혈증(Na 148 mEq/L), 저칼륨혈증(K 3.0 mEq/L), 대사성 알칼리증(pH 7.48, HCO3- 32 mEq/L)이 관찰된다. 또한 흉부 X-선에서 폐 결절, 척추 MRI에서 다발성 용해성 병변이 있어 악성 종양, 특히 전이성 암의 가능성이 높다. 고칼슘혈증은 종양에 의한 부갑상선 호르몬 관련 단백질(PTHrP) 분비나 골전이에 의한 것으로 추정된다. 다뇨는 고칼슘혈증으로 인한 요농축 장애와 관련이 있다. 고칼슘혈증 위기는 응급 상황으로, 초기 치료는 먼저 수액 공급을 통한 수분 보충과 소변량 증가를 유도하고, 파미드로네이트와 같은 비스포스포네이트를 투여하여 골 흡수를 억제하는 것이다. 푸로세미드는 수액 공급 후 사용할 수 있으나, 초기에는 수액 공급과 비스포스포네이트가 더 중요하다. 중탄산나트륨과 혈액투석은 고칼슘혈증의 일차 치료법이 아니다. 데스모프레신과 수분 제한은 SIADH 치료에 사용되며, 고칼슘혈증에서는 오히려 탈수를 악화시킬 수 있다. 인슐린과 포도당 투여는 고칼륨혈증의 치료법으로, 이 환자는 저칼륨혈증 상태이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hypercalcemic crisis is a medical emergency characterized by severe hypercalcemia (typically >14 mg/dL), dehydration, and acute symptoms including polyuria, mental status changes, and renal insufficiency. Initial management involves aggressive intravenous fluid repletion with normal saline (typically 200-300 mL/h) to restore intravascular volume and enhance calcium excretion. Bisphosphonates (e.g., pamidronate or zoledronic acid) are the most effective agents for treating cancer-related hypercalcemia, inhibiting bone resorption and reducing serum calcium within 24-48 hours. Loop diuretics should be used cautiously and only after adequate rehydration.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 남성이 극심한 다뇨와 갈증을 주소로 내원하였다. 환자는 6개월 전부터 하루 소변량이 7-8리터로 증가했으며, 갈증이 심해 하루에 물을 8리터 이상 마신다고 한다. 최근 1개월간 양극성 장애로 리튬을 복용 중이며, 다른 기저 질환은 없다. 환자는 밤에도 4-5회 소변을 보기 위해 일어나고, 이로 인한 수면 장애를 호소한다. 신체 검사에서 활력 징후는 안정적이었으며, 피부 및 구강 점막의 탈수 소견은 관찰되지 않았다. 환자에게 데스모프레신 20μg 피하 주사 후에도 소변량이 유의하게 감소하지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: Na 145 mEq/L, K 3.8 mEq/L, Cl 105 mEq/L, 혈당 85 mg/dL, BUN 20 mg/dL, Cr 1.0 mg/dL, 혈청 삼투압 298 mOsm/kg, 혈중 리튬 농도 1.2 mmol/L (치료 범위: 0.6-1.2 mmol/L)\n소변 검사: 비중 1.002, 삼투압 120 mOsm/kg, 당(-), 단백(-)\n수분 제한 검사 후 소변 삼투압: 150 mOsm/kg\n데스모프레신 투여 후 소변 삼투압: 160 mOsm/kg",
+  "options": { 
+    "A": "중추성 요붕증", 
+    "B": "신성 요붕증", 
+    "C": "정신성 다음증", 
+    "D": "부분적 중추성 요붕증", 
+    "E": "항이뇨 호르몬 분비 이상 증후군" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 심한 다뇨(하루 소변량 7-8L) 및 다음(하루 물 섭취량 8L 이상)을 보이며, 리튬을 복용하고 있다. 혈액 검사에서 경도의 고나트륨혈증(Na 145 mEq/L)과 고삼투압혈증(298 mOsm/kg)이 관찰되며, 소변은 매우 희석되어 있다(비중 1.002, 삼투압 120 mOsm/kg). 수분 제한 검사 후에도 소변 농축 능력이 저하되어 있으며, 특히 데스모프레신 투여 후에도 소변 삼투압이 유의하게 증가하지 않았다. 이러한 임상 양상은 신성 요붕증에 합당하다. 신성 요붕증은 ADH 분비는 정상이지만 신장 집합관에서 ADH에 대한 반응성이 감소하여 소변 농축 능력이 저하된 상태이다. 리튬은 신성 요붕증의 대표적인 원인 약물로, 수용체와 수분 채널(aquaporin) 단백질 발현을 억제하여 ADH에 대한 저항성을 유발한다. 중추성 요붕증은 ADH 분비 자체가 감소한 상태로, 데스모프레신 투여 시 소변 농축 능력이 정상화된다. 정신성 다음증은 과도한 수분 섭취로 인한 이차적 다뇨로, 혈청 나트륨과 삼투압이 정상 또는 감소되어 있다. 부분적 중추성 요붕증도 데스모프레신에 반응하여 소변 농축이 개선된다. 항이뇨 호르몬 분비 이상 증후군은 ADH가 과다하게 분비되어 저나트륨혈증과 소변 농축이 특징이다.",
+  "source": "Pharmacology_Katzung_textbook_data.txt: Lithium causes nephrogenic diabetes insipidus in up to 20-30% of patients, typically dose-dependent and partially reversible. It appears to decrease the expression of aquaporin-2 water channels in the collecting duct, rendering the kidney resistant to the effects of vasopressin. Clinical manifestations include polyuria (3-4 L/day up to 10 L/day), polydipsia, and dilute urine. Unlike central diabetes insipidus, these patients do not respond to desmopressin. Management includes lithium dose reduction when possible, sodium restriction, and sometimes thiazide diuretics.",
+  "category": "Nephrology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 여성이 3개월 전부터 시작된 다뇨, 다음, 체중 감소, 불안감을 주소로 내원하였다. 환자는 하루 소변량이 3-3.5리터로 증가했으며, 갈증이 심해 물을 자주 마신다고 한다. 최근 5kg의 체중 감소가 있었고, 식욕은 오히려 증가했다고 한다. 또한 불안감, 가슴 두근거림, 더위를 못 참는 증상이 있으며, 생리 주기가 불규칙해졌다고 호소한다. 신체 검사에서 혈압 130/85 mmHg, 맥박 105회/분, 호흡수 18회/분, 체온 37.1°C였으며, 눈이 약간 돌출되어 있고, 손가락 미세 진전이 관찰되었다. 갑상선이 전반적으로 커져 있었으나 결절은 만져지지 않았다. 이 환자의 다뇨 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: Na 138 mEq/L, K 4.0 mEq/L, Cl 102 mEq/L, 혈당 110 mg/dL, BUN, 12 mg/dL, Cr 0.7 mg/dL, 혈청 삼투압 290 mOsm/kg, TSH 0.01 mIU/L (정상: 0.4-4.0 mIU/L), 유리 T4 2.8 ng/dL (정상: 0.8-1.8 ng/dL), 유리 T3 6.2 pg/mL (정상: 2.3-4.2 pg/mL)\n소변 검사: 비중 1.010, 삼투압 280 mOsm/kg, 당(-), 단백(-)\n갑상선 초음파: 갑상선 미만성 종대, 갑상선 혈류 증가",
+  "options": { 
+    "A": "중추성 요붕증", 
+    "B": "신성 요붕증", 
+    "C": "항이뇨 호르몬 분비 이상 증후군", 
+    "D": "갑상선 기능 항진증", 
+    "E": "당뇨병성 신증" 
+  },
+  "answer": "D",
+  "explanation": "이 환자는 다뇨, 다음 외에도 체중 감소, 식욕 증가, 불안감, 가슴 두근거림, 더위를 못 참는 증상, 생리 불규칙 등 갑상선 기능 항진증의 전형적인 증상을 보이고 있다. 신체 검사에서 빈맥(105회/분), 안구돌출, 손가락 미세 진전, 갑상선 종대가 관찰되며, 검사 결과 TSH 억제(0.01 mIU/L)와 유리 T4(2.8 ng/dL) 및 T3(6.2 pg/mL)의 상승이 확인되어 갑상선 기능 항진증으로 진단할 수 있다. 갑상선 기능 항진증에서 다뇨는 갑상선 호르몬의 대사 촉진 작용으로 인한 구갈 및 다음과 함께, 신장에서의 수분 재흡수 감소로 발생한다. 소변 검사에서 삼투압이 280 mOsm/kg로, 요붕증(소변 삼투압 <200 mOsm/kg)보다는 높아 요붕증의 가능성은 낮다. 혈청 나트륨과 삼투압이 정상 범위이며, 소변이 과도하게 희석되지 않은 점도 요붕증과 맞지 않는다. 중추성 요붕증은 ADH 분비 감소로 인한 소변 농축 장애가 특징이며, 신성 요붕증은 신장에서 ADH에 대한 반응성 감소로 인한 것이다. 항이뇨 호르몬 분비 이상 증후군은 ADH가 과다 분비되어 저나트륨혈증을 유발하나, 이 환자는 나트륨 수치가 정상이다. 당뇨병성 신증은 만성 당뇨병으로 인한 신장 손상이 특징이나, 이 환자는 당뇨병의 증거가 없다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hyperthyroidism can cause polyuria and polydipsia through several mechanisms, including increased metabolic rate leading to increased thirst, direct effects on renal blood flow and glomerular filtration rate, and alterations in ADH regulation. Clinical features include weight loss despite increased appetite, heat intolerance, palpitations, anxiety, tremor, and in Graves' disease, ophthalmopathy. Laboratory findings show suppressed TSH and elevated free T4 and/or T3 levels. Treatment of the underlying thyroid disorder typically resolves the polyuria.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "다뇨증",
+  "purpose": "다뇨증을 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 방법을 선택할 수 있다.",
+  "question": "45세 남성이 반복적인 다뇨와 측복통을 주소로 내원하였다. 환자는 10년간 5회의 신결석 병력이 있으며, 최근 2개월간 하루 소변량이 3리터 이상으로 증가했다고 한다. 우측 옆구리 통증이 간헐적으로 발생하고, 때때로 혈뇨가 있다고 호소한다. 가족력상 부친과 형이 신결석으로 치료받은 적이 있다. 신체 검사에서 혈압 125/80 mmHg, 맥박 72회/분, 호흡수 16회/분, 체온 36.7°C였으며, 우측 척추각 압통이 경미하게 있었다. 일상적 식이 패턴은 육류와 유제품 섭취가 많고 수분 섭취는 적은 편이라고 한다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "혈액 검사: Na 140 mEq/L, K 4.0 mEq/L, Cl 105 mEq/L, 혈당 95 mg/dL, BUN 18 mg/dL, Cr 1.1 mg/dL, Ca 10.2 mg/dL (정상: 8.5-10.5 mg/dL), P 3.0 mg/dL, 요산 7.5 mg/dL (정상: 3.5-7.2 mg/dL)\n소변 검사: 비중 1.025, pH 5.5, 적혈구 5-10/HPF, 백혈구 0-1/HPF, 결정체(++)\n24시간 소변 검사: 부피 3.2 L, Ca 350 mg/일 (정상: <250 mg/일), 옥살산 45 mg/일 (정상: <40 mg/일), 요산 750 mg/일 (정상: <800 mg/일), 시트르산 320 mg/일 (정상: >320 mg/일)\n복부 CT: 우측 신장에 7mm 크기의 결석이 요관-신배 이행부에 위치, 이전 결석으로 인한 신실질 석회화 흔적",
+  "options": { 
+    "A": "체외충격파 쇄석술(ESWL)만 시행", 
+    "B": "수분 섭취 증가, 저염 식이, 티아지드계 이뇨제 투여", 
+    "C": "알로푸리놀 투여 및 저퓨린 식이", 
+    "D": "혈중 칼슘 수치 조절을 위한 부갑상선 절제술", 
+    "E": "경피적 신결석 제거술 및 요관 스텐트 삽입" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 반복적인 신결석과 다뇨가 있으며, 24시간 소변 검사에서 고칼슘뇨(350 mg/일)와 경미한 고옥살산뇨(45 mg/일)가 확인된다. 혈중 칼슘은 정상 범위(10.2 mg/dL)로, 이는 특발성 고칼슘뇨증에 합당한 소견이다. 특발성 고칼슘뇨증은 가족력이 있는 경우가 많고, 반복적인 신결석의 주요 원인 중 하나이다. 적절한 치료는 수분 섭취를 증가시켜 소변을 희석하고(하루 2.5-3리터), 저염 식이로 소변 칼슘 배설을 감소시키며, 티아지드계 이뇨제(예: 하이드로클로로티아지드)를 투여하여 소변 칼슘 배설을 감소시키는 것이다. 이러한 방법은 신결석 재발을 예방하는 데 효과적이다. 체외충격파 쇄석술(ESWL)은 현재 결석 치료에 도움이 될 수 있으나, 재발 방지를 위한 근본적인 치료는 아니다. 알로푸리놀과 저퓨린 식이는 요산 결석이나 고요산혈증이 있는 경우에 적합하나, 이 환자는 칼슘 결석이 주요 문제이다. 부갑상선 절제술은 원발성 부갑상선기능항진증으로 인한 고칼슘혈증이 있는 경우에 고려하나, 이 환자는 혈중 칼슘이 정상이다. 경피적 신결석 제거술은 큰 결석(일반적으로 >2cm)이나 복잡한 결석에 적합하나, 7mm 크기의 요관-신배 이행부 결석은 대개 보존적 치료나 ESWL로 관리할 수 있다.",
+  "source": "urology_Adams_textbook_data.txt: Management of hypercalciuria includes both dietary and pharmacological approaches. Increased fluid intake to achieve urine output of 2-2.5 L/day is essential to dilute calcium concentration. Dietary sodium restriction to <2300 mg/day significantly reduces urinary calcium excretion, as sodium and calcium reabsorption in the proximal tubule are linked. Thiazide diuretics (e.g., hydrochlorothiazide 25-50 mg/day) are the pharmacological cornerstone of hypercalciuria management, decreasing urinary calcium excretion by enhancing calcium reabsorption in the distal tubule. This approach reduces stone recurrence by 50-75% in patients with hypercalciuria and recurrent calcium stones.",
+  "category": "Urology"
 }
-
-
