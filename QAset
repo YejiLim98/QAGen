@@ -291,5 +291,110 @@
     "content": "For patients with typical symptoms of gastroesophageal reflux disease (GERD) such as heartburn and regurgitation, an initial trial of empiric therapy with a proton pump inhibitor (PPI) is appropriate and cost-effective. A positive response to PPI therapy confirms the diagnosis of GERD in patients with typical symptoms. Upper gastrointestinal endoscopy is recommended for patients with alarm symptoms (dysphagia, odynophagia, weight loss, gastrointestinal bleeding), those with symptoms that persist despite appropriate therapy, and those at risk for Barrett's esophagus (e.g., chronic GERD symptoms, age >50 years, male sex, white race, central obesity). Ambulatory esophageal pH monitoring is the gold standard for documenting abnormal esophageal acid exposure and establishing a relationship between acid reflux and symptoms, but it is generally reserved for patients with refractory symptoms, atypical presentations, or before consideration of anti-reflux surgery."
   },
   "category": "Gastroenterology"
+}, 
+{
+  "question_id": 16,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "65세 여성이 1시간 전부터 지속되는 가슴 중앙의 쥐어짜는 듯한 통증을 주소로 응급실에 내원하였다. 통증은 왼쪽 팔과 턱으로 방사되며 식은땀과 구역감이 동반된다. 환자는 제2형 당뇨병과 고지혈증으로 치료 중이다. 활력징후는 혈압 150/90 mmHg, 맥박 105회/분, 호흡수 20회/분, 산소포화도 94%이다. 신체 검진에서 특이소견은 없으며, 폐음은 정상이고 심잡음은 들리지 않는다. 다음 중 이 환자의 가장 가능성 높은 진단과 초기 치료는?",
+  "exam": "심전도: II, III, aVF 유도에 ST 분절 상승이 관찰됨. 혈액 검사: 트로포닌 I 0.5 ng/mL(정상 <0.03 ng/mL).",
+  "options": {
+    "A": "안정형 협심증 – 질산염(니트로글리세린) 설하 투여",
+    "B": "하벽 심근경색 – 아스피린, 클로피도그렐, 헤파린 투여 및 관상동맥 조영술",
+    "C": "폐색전증 – 항응고 치료와 혈전용해 요법",
+    "D": "심낭염 – 비스테로이드성 항염증제 투여",
+    "E": "대동맥 박리 – 베타차단제와 혈관확장제 정맥 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 하벽 심근경색(acute inferior myocardial infarction)의 전형적인 임상상을 보입니다. 급성 심근경색의 특징적인 증상은 20-30분 이상 지속되는 쥐어짜는 듯한, 누르는 듯한 흉통으로, 종종 왼쪽 팔, 목, 턱으로 방사되며 식은땀, 구역, 호흡곤란, 불안감 등이 동반될 수 있습니다. 이 환자는 당뇨병과 고지혈증의 위험 인자를 가지고 있으며, 심전도에서 II, III, aVF 유도에 ST 분절 상승이 관찰되는데, 이는 하벽 심근경색을 시사합니다. 또한 심근 손상의 생화학적 표지자인 트로포닌 I가 상승되어 있습니다. ST 분절 상승 심근경색(STEMI)의 초기 치료는 항혈소판 요법(아스피린, P2Y12 억제제), 항응고 요법(헤파린) 및 재관류 치료(일차적 경피적 관상동맥 중재술 또는 혈전용해 요법)를 포함합니다. 안정형 협심증은 전형적으로 운동이나 정서적 스트레스에 의해 유발되고 휴식이나 니트로글리세린 투여로 완화되는 예측 가능한 흉통 양상을 보이며, ST 분절 상승이나 심근 효소 상승은 동반되지 않습니다. 폐색전증의 주요 증상은 갑작스러운 호흡곤란과 흉통으로, 심전도에서는 동빈맥, 우심실 긴장 소견(SIQIIITIII 패턴), T파 역전 등이 관찰될 수 있으나 ST 분절 상승이 국소적으로 나타나는 경우는 드뭅니다. 심낭염은 흉골 뒤쪽이나 좌측 전흉부 통증으로, 앉거나 몸을 앞으로 구부릴 때 완화되고 누워있거나 심호흡 시 악화되는 특징이 있으며, 심전도에서는 광범위한 ST 분절 상승과 PR 분절 하강이 관찰됩니다. 대동맥 박리는 날카롭고 찢어지는 듯한 흉통이 특징적이며, 종종 등으로 방사되고 양쪽 팔의 혈압 차이, 새로운 대동맥 판막 역류, 신경학적 증상 등이 동반될 수 있으나, 이 환자의 임상 양상과는 일치하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Acute STEMI is characterized by persistent ST-segment elevation on the ECG and release of biomarkers of myocardial necrosis, most notably troponin. The location of the ST-segment elevation indicates the region of infarction, with inferior MI typically showing elevation in leads II, III, and aVF. Initial management includes immediate administration of antiplatelet therapy (aspirin 162-325 mg and a P2Y12 inhibitor such as clopidogrel, prasugrel, or ticagrelor), anticoagulation (unfractionated heparin, enoxaparin, or bivalirudin), and consideration of reperfusion therapy. Primary percutaneous coronary intervention (PCI) is the preferred reperfusion strategy when it can be performed in a timely manner (within 90 minutes of first medical contact) by an experienced team."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 17,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "28세 여성이 3일 전부터 지속되는 날카로운 좌측 흉통을 주소로 내원하였다. 통증은 심호흡이나 기침 시 악화되며, 앞으로 몸을 구부릴 때 완화된다고 한다. 환자는 최근 상기도 감염 증상이 있었으며, 오한과 미열이 있었다. 신체 검진에서 활력징후는 혈압 110/70 mmHg, 맥박 100회/분, 호흡수 18회/분, 체온 37.5°C이다. 청진에서 좌측 흉부에 마찰음이 들린다. 다음 중 이 환자의 진단에 가장 도움이 되는 검사는?",
+  "exam": "",
+  "options": {
+    "A": "흉부 X-선",
+    "B": "심전도",
+    "C": "심장 효소(트로포닌) 검사",
+    "D": "D-다이머 검사",
+    "E": "흉부 초음파"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 바이러스성 흉막염(viral pleurisy)의 전형적인 임상상을 보이고 있습니다. 흉막염은 흉막의 염증으로 인해 발생하며, 특징적인 증상으로는 갑작스러운 날카로운 일측성 흉통으로, 심호흡, 기침, 재채기, 웃음 등의 흉벽 움직임에 의해 악화되고, 앉거나 몸을 앞으로 구부릴 때 완화되는 특징이 있습니다. 신체 검진에서는 흉막 마찰음(pleural friction rub)이 들릴 수 있으며, 이는 염증된 흉막 표면이 서로 마찰하면서 발생하는 소리입니다. 이 환자의 경우 최근 상기도 감염 증상과 미열이 동반되었고, 심호흡 시 악화되는 일측성 흉통, 흉부 마찰음 등이 관찰되어 흉막염을 강력히 시사합니다. 흉막염의 진단에 가장 도움이 되는 검사는 심전도입니다. 심전도는 흉막염과 심낭염을 감별하는 데 중요한 역할을 합니다. 흉막염 자체는 심전도에 특이적인 변화를 일으키지 않지만, 유사한 증상을 보일 수 있는 심낭염의 경우 전형적으로 광범위한 ST 분절 상승과 PR 분절 하강이 관찰됩니다. 따라서 심전도 검사를 통해 심낭염을 배제하고 흉막염을 진단하는 데 도움을 얻을 수 있습니다. 흉부 X-선은 흉막염의 기저 원인(예: 폐렴, 종양, 결핵)을 평가하는 데 도움이 될 수 있지만, 단순 바이러스성 흉막염에서는 정상으로 나타날 수 있습니다. 심장 효소 검사는 급성 관상동맥 증후군이 의심될 때 유용하지만, 이 환자의 임상상은 심근경색보다는 흉막염에 합당합니다. D-다이머 검사는 폐색전증의 배제에 유용하나, 이 환자의 증상은 폐색전증보다 흉막염에 더 부합합니다. 흉부 초음파는 흉수의 존재와 양을 평가하는 데 유용하나, 초기 단순 흉막염의 진단에는 필수적이지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Pleurisy, or pleuritic pain, is characterized by sharp, localized chest pain that worsens with inspiration, coughing, or sneezing and is often relieved by sitting up and leaning forward. It is caused by inflammation of the parietal pleura, which is innervated by somatic nerves. A pleural friction rub may be heard on auscultation, representing the sound produced by the rubbing together of inflamed pleural surfaces. The most common causes include viral respiratory infections, pneumonia, pulmonary embolism, autoimmune disorders (e.g., lupus), and malignancy. The diagnostic approach to pleurisy includes chest radiography to identify underlying lung disease, and electrocardiography to exclude pericarditis, which can present with similar symptoms but typically shows diffuse ST segment elevation and PR segment depression on ECG. In cases of significant pleural effusion, thoracentesis may be performed for diagnostic purposes."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 18,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "22세 남성이 갑작스럽게 발생한 심한 좌측 흉통과 호흡곤란을 주소로 응급실에 내원하였다. 환자는 키가 195cm의 마른 체형이며, 과거력상 특이사항은 없다. 통증은 갑자기 시작되었고 날카롭게 찌르는 듯하다고 한다. 신체 검진에서 활력징후는 혈압 125/80 mmHg, 맥박 110회/분, 호흡수 26회/분, 산소포화도 92%(실내 공기)이다. 호흡음은 좌측에서 감소되어 있으며, 타진 시 과공명(hyperresonance)이 관찰된다. 다음 중 이 환자에게 가장 적절한 초기 응급 처치는?",
+  "exam": "흉부 X-선: 좌측 폐의 허탈과 종격동 우측 변위가 관찰된다.",
+  "options": {
+    "A": "기관 삽관 및 기계 환기",
+    "B": "바늘 흉강천자 후 흉관 삽입",
+    "C": "산소 공급 및 진통제 투여",
+    "D": "니트로글리세린과 모르핀 정맥 투여",
+    "E": "혈전용해제 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 자발성 기흉(spontaneous pneumothorax)의 전형적인 임상상을 보입니다. 자발성 기흉은 외상 없이 발생하는 기흉으로, 일차성(특발성)과 이차성(기저 폐질환에 의한)으로 구분됩니다. 일차성 자발성 기흉은 주로 젊은 남성, 특히 키가 크고 마른 체형의 사람에게서 많이 발생합니다. 전형적인 증상은 갑작스럽게 발생하는 일측성 흉통과 호흡곤란이며, 신체 검진에서 환측의 호흡음 감소, 타진 시 과공명, 흉부 X-선에서 폐 허탈과 종격동 변위가 관찰됩니다. 이 환자의 경우 젊은 남성으로 키가 크고 마른 체형이며, 갑작스러운 흉통과 호흡곤란, 좌측 호흡음 감소와 과공명, X-선에서 좌측 폐 허탈과 종격동 우측 변위가 확인되어 긴장성 기흉(tension pneumothorax)을 포함한 자발성 기흉으로 진단할 수 있습니다. 긴장성 기흉은 막힘 판막 메커니즘으로 인해 흡기 시에만 공기가 흉강 내로 들어가고 호기 시에는 빠져나가지 못하여 흉강 내 압력이 지속적으로 상승하는 응급 상황입니다. 이로 인해 심장과 대혈관이 압박되어 심혈관계 붕괴와 사망에 이를 수 있습니다. 기흉의 크기, 긴장성 여부, 환자의 임상 상태에 따라 치료 방침이 결정됩니다. 소형 기흉(폐 끝에서 흉벽까지 거리가 2cm 미만)은 보존적 치료(산소 투여, 관찰)만으로도 충분할 수 있으나, 대형 기흉이나 긴장성 기흉, 심한 증상을 보이는 경우에는 흉강 감압이 필요합니다. 이 환자의 경우 흉부 X-선에서 좌측 폐 허탈과 종격동 변위가 관찰되는 대형 기흉이며, 호흡곤란과 빈맥, 저산소혈증이 동반되어 즉각적인 흉강 감압이 필요합니다. 초기에는 제2 늑간 쇄골중앙선에서 바늘 흉강천자로 응급 감압을 시행하고, 이후 흉관을 삽입하여 폐의 재팽창을 유도해야 합니다. 기관 삽관 및 기계 환기는 자발적 환기가 불가능한 심한 호흡부전 환자에게 시행하며, 기흉 자체의 치료법은 아닙니다. 또한 양압 환기는 기흉을 악화시킬 수 있습니다. 산소 공급 및 진통제 투여는 소형 기흉 환자에게 적용될 수 있는 보존적 치료지만, 이 환자와 같은 대형 기흉에는 불충분합니다. 니트로글리세린과 모르핀 정맥 투여는 급성 관상동맥 증후군 치료에 사용되며, 기흉 치료와는 관련이 없습니다. 혈전용해제 투여는 급성 심근경색이나 폐색전증 치료에 사용되며, 기흉 환자에게는 적절하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Spontaneous pneumothorax occurs without trauma or obvious cause and is divided into primary (no underlying lung disease) and secondary (occurring in the setting of underlying lung disease). Primary spontaneous pneumothorax typically occurs in tall, thin young men, with smoking being a significant risk factor. Clinical manifestations include sudden onset of chest pain and dyspnea. Physical examination reveals decreased breath sounds and hyperresonance to percussion on the affected side. Chest radiography confirms the diagnosis, showing air in the pleural space with separation of the visceral pleura from the chest wall. Management depends on the size of the pneumothorax and the patient's symptoms. Small, asymptomatic pneumothoraces may be managed with observation and supplemental oxygen, which increases the rate of pleural air absorption. Large pneumothoraces, symptomatic patients, and cases of tension pneumothorax require immediate decompression. Tension pneumothorax, characterized by mediastinal shift away from the affected side and hemodynamic compromise, requires emergency needle decompression followed by chest tube placement."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 19,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "35세 여성이 2일 전부터 시작된 흉골 주변 통증과 불쾌감을 주소로 내원하였다. 통증은 움직임이나 심호흡 시 악화되며, 앞으로 몸을 기울일 때 약간 완화된다고 한다. 환자는 최근 상기도 감염 증상이 있었으며, 일주일 전 고강도 운동을 시작했다. 신체 검진에서 활력징후는 정상이며, 흉골과 늑연골 접합부에 압통이 있다. 심음과 폐음은 정상이다. 심전도와 흉부 X-선 검사도 정상이다. 다음 중 이 환자에게 가장 적절한 치료는?",
+  "exam": "",
+  "options": {
+    "A": "니트로글리세린 설하 투여",
+    "B": "항생제 정맥 투여",
+    "C": "비스테로이드성 항염증제 경구 투여와 휴식",
+    "D": "관상동맥 중재술",
+    "E": "흉관 삽입"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 늑연골염(costochondritis) 또는 흉벽 증후군(chest wall syndrome)의 임상상을 보입니다. 늑연골염은 늑연골(갈비뼈와 흉골을 연결하는 연골) 부위의 염증으로, 특징적인 증상은 흉골 주변 또는 늑연골 접합부의 국소적인 통증과 압통입니다. 통증은 움직임, 기침, 심호흡 등으로 악화되고 앞으로 몸을 기울이거나 쉴 때 완화되는 경향이 있습니다. 이 환자의 경우 최근 고강도 운동 시작과 상기도 감염이 유발 요인으로 작용했을 가능성이 있습니다. 늑연골염의 진단은 주로 임상적으로 이루어지며, 특징적인 압통 부위와 다른 심각한 원인(예: 급성 관상동맥 증후군, 폐색전증, 대동맥 박리, 폐렴 등)을 배제함으로써 확진됩니다. 이 환자의 경우 심전도와 흉부 X-선이 정상이며, 활력징후도 정상으로 심각한 원인의 가능성은 낮습니다. 늑연골염의 치료는 비스테로이드성 항염증제(NSAIDs) 경구 투여와 휴식이 기본입니다. NSAIDs는 염증을 줄이고 통증을 완화시킵니다. 또한 유발 요인을 피하고, 국소 열 요법이나 냉 요법을 적용할 수 있습니다. 심한 경우 국소 코르티코스테로이드와 리도카인 주사를 고려할 수 있으나, 대부분의 경우 보존적 치료만으로 수일에서 수주 내에 호전됩니다. 니트로글리세린은 관상동맥 확장을 통해 심근 산소 공급을 증가시켜 협심증 완화에 사용되는 약물로, 이 환자의 흉벽 통증에는 효과가 없습니다. 항생제 정맥 투여는 세균성 감염(예: 폐렴, 농흉 등)이 의심될 때 사용되나, 이 환자의 임상상은 감염성 원인보다 늑연골염에 더 부합합니다. 관상동맥 중재술은 관상동맥 질환의 치료에 사용되는 시술로, 이 환자의 임상상과 정상 심전도 결과는 관상동맥 질환을 시사하지 않습니다. 흉관 삽입은 기흉, 혈흉, 농흉 등의 치료에 사용되는 시술로, 이 환자의 정상 흉부 X-선 결과와 임상상은 이러한 질환을 시사하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Costochondritis, also known as chest wall syndrome or musculoskeletal chest pain, is characterized by localized pain and tenderness in the costochondral or costosternal junctions, without swelling or erythema. It is a common cause of chest pain in primary care settings, particularly in young adults. The pain is typically sharp, localized to the anterior chest wall, and exacerbated by movement, deep breathing, coughing, or sneezing. It may be precipitated by physical activity, upper respiratory infections, or minor trauma. The diagnosis is primarily clinical, based on the presence of localized chest wall tenderness and the exclusion of other serious causes of chest pain. Diagnostic tests such as electrocardiography, chest radiography, and cardiac biomarkers are often normal. Treatment consists of reassurance, rest, local heat or cold application, and nonsteroidal anti-inflammatory drugs (NSAIDs). In severe or persistent cases, local infiltration with corticosteroids and anesthetics may be considered. The prognosis is generally favorable, with most cases resolving within days to weeks with conservative management."
+  },
+  "category": "Musculoskeletal (e.g., costochondritis)"
+}, 
+{
+  "question_id": 20,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "38세 여성이 3개월 동안 반복되는 가슴 중앙의 통증을 주소로 내원하였다. 통증은 주로 스트레스를 받을 때 발생하고 5-10분 정도 지속된 후 저절로 사라진다고 한다. 환자는 통증 발작 중 심장이 빨리 뛰고 숨이 막히는 느낌, 어지러움, 발한 등이 동반된다고 호소한다. 과거력상 특이사항은 없으며, 최근 직장에서 스트레스가 많아졌다고 한다. 신체 검진에서 활력징후는 정상이며 흉부 압통이 관찰된다. 심음과 폐음은 정상이다. 다음 중 이 환자에게 시행해야 할 가장 적절한 다음 단계 검사는?",
+  "exam": "기본 심전도와 흉부 X-선, 일반 혈액 검사와 심장 효소 검사는 모두 정상이었다.",
+  "options": {
+    "A": "관상동맥 CT 혈관조영술",
+    "B": "24시간 홀터 모니터링",
+    "C": "상부위장관 내시경",
+    "D": "운동부하 심전도 검사",
+    "E": "불안증 평가를 위한 정신과적 평가"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 공황 발작(panic attack)을 동반한 불안 장애(anxiety disorder)의 전형적인 임상상을 보입니다. 공황 발작은 갑작스러운 극심한 불안감과 함께 심계항진, 발한, 떨림, 호흡 곤란감, 질식감, 흉통, 어지러움, 비현실감, 죽음에 대한 공포 등의 신체 증상이 동반되는 상태입니다. 이 환자의 경우 스트레스와 연관되어 발생하는 일시적인 흉통, 심계항진, 호흡 곤란감, 어지러움, 발한 등의 증상이 있고, 최근 직장 스트레스가 증가했다는 점이 불안 장애를 시사합니다. 또한 증상이 5-10분 정도 지속된 후 저절로 사라지는 양상도 공황 발작의 특징입니다. 중요한 점은 이 환자의 기본 검사(심전도, 흉부 X-선, 혈액 검사, 심장 효소 검사)가 모두 정상이라는 것입니다. 이는 심장, 폐, 그리고 다른 주요 기관 질환의 가능성이 낮다는 것을 시사합니다. 신체적 원인이 배제된 후에는 불안 장애와 같은 정신과적 원인을 고려하는 것이 적절합니다. 관상동맥 CT 혈관조영술은 관상동맥 질환의 평가에 유용하나, 이 환자의 임상상(젊은 연령, 스트레스와 연관된 일시적 증상, 정상 신체 검진과 기본 검사)은 관상동맥 질환보다 불안 장애에 더 부합합니다. 24시간 홀터 모니터링은 부정맥의 평가에 유용하지만, 이 환자의 심계항진은 불안 발작의 일부로 생각되며, 심음이 정상이고 기본 심전도도 정상이라는 점에서 일차적인 심장 문제의 가능성은 낮습니다. 상부위장관 내시경은 소화기 원인의 흉통 평가에 유용하나, 이 환자의 증상은 식사나 체위와 관련 없이 주로 스트레스와 연관되어 있어 소화기 원인의 가능성이 낮습니다. 운동부하 심전도 검사는 운동 유발성 허혈성 심장 질환의 평가에 유용하지만, 이 환자의 증상은 운동보다는 스트레스와 연관되어 있고 기본 심전도가 정상입니다. 따라서 기본적인 신체적 원인을 배제한 후, 다음 단계로는 불안증 평가를 위한 정신과적 평가가 가장 적절합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Anxiety disorders often present with somatic symptoms, including chest pain, palpitations, dyspnea, dizziness, and paresthesias, which can mimic cardiac, pulmonary, or neurological diseases. While it is important to rule out organic causes of these symptoms with appropriate diagnostic testing, once medical conditions have been excluded, a psychiatric evaluation is warranted. Panic disorder is characterized by recurrent, unexpected panic attacks, which are defined as discrete periods of intense fear or discomfort that develop abruptly and typically peak within 10 minutes. During these attacks, patients experience symptoms such as palpitations, sweating, trembling, shortness of breath, feelings of choking, chest pain, nausea, dizziness, derealization, fear of losing control, and fear of dying. The diagnosis of anxiety disorders is primarily clinical, based on history, physical examination, and, when appropriate, targeted laboratory tests to rule out medical mimics. Standardized rating scales, such as the Hamilton Anxiety Rating Scale or the Beck Anxiety Inventory, can be helpful in quantifying symptom severity and monitoring treatment response."
+  },
+  "category": "Psychiatry"
 }
 
