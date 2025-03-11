@@ -396,5 +396,152 @@
     "content": "Anxiety disorders often present with somatic symptoms, including chest pain, palpitations, dyspnea, dizziness, and paresthesias, which can mimic cardiac, pulmonary, or neurological diseases. While it is important to rule out organic causes of these symptoms with appropriate diagnostic testing, once medical conditions have been excluded, a psychiatric evaluation is warranted. Panic disorder is characterized by recurrent, unexpected panic attacks, which are defined as discrete periods of intense fear or discomfort that develop abruptly and typically peak within 10 minutes. During these attacks, patients experience symptoms such as palpitations, sweating, trembling, shortness of breath, feelings of choking, chest pain, nausea, dizziness, derealization, fear of losing control, and fear of dying. The diagnosis of anxiety disorders is primarily clinical, based on history, physical examination, and, when appropriate, targeted laboratory tests to rule out medical mimics. Standardized rating scales, such as the Hamilton Anxiety Rating Scale or the Beck Anxiety Inventory, can be helpful in quantifying symptom severity and monitoring treatment response."
   },
   "category": "Psychiatry"
+}, 
+{
+  "question_id": 21,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "45세 여성이 머리가 아프고 어지럽다는 주소로 응급실에 내원하였다. 환자는 이틀 전 넘어져서 머리를 부딪혔다고 하며, 병력 청취 시 질문에 짧게 대답하고 눈맞춤을 피하는 모습이 관찰된다. 환자의 남편이 계속 옆에서 대화에 끼어들며 환자가 말하기 전에 답변하려 한다. 신체 진찰에서 두피에 2cm 크기의 혈종과 함께 이마와 양쪽 팔에 서로 다른 치유 단계의 타박상이 관찰된다. 또한 왼쪽 팔목에는 손가락 모양의 멍이 관찰된다. 이 환자에서 가정폭력을 평가하기 위한 다음 단계로 가장 적절한 것은?",
+  "exam": "두부 CT: 경막하 출혈이나 두개골 골절 소견은 없었다.",
+  "options": {
+    "A": "환자와 남편에게 함께 가정폭력 선별 설문지를 작성하도록 한다.",
+    "B": "남편을 자리에서 물러나게 한 후 환자와 단독으로 면담한다.",
+    "C": "환자에게 바로 가정폭력 피해 사실을 확인하고 경찰에 신고한다.",
+    "D": "부부 갈등 해결을 위한 상담 서비스를 즉시 연계한다.",
+    "E": "환자의 상처만 치료하고 다음 방문 시 가정폭력에 대해 평가한다."
+  },
+  "answer": "B",
+  "explanation": "이 환자는 다양한 가정폭력 의심 징후를 보이고 있습니다. 서로 다른 치유 단계의 타박상, 손가락 모양의 멍, 눈맞춤 회피와 같은 행동 양상, 그리고 남편이 환자의 대화를 통제하려는 모습은 학대가 의심되는 상황입니다. 가정폭력이 의심되는 경우, 가장 중요한 첫 단계는 피해자와 가해 의심자를 분리하여 안전한 환경에서 단독 면담을 진행하는 것입니다. 이를 통해 피해자가 두려움 없이 자신의 상황을 설명할 수 있습니다. 환자와 남편에게 함께 설문지를 작성하게 하는 것(A)은 가해자가 있는 상황에서 정확한 정보를 얻기 어렵고 환자가 더 위험한 상황에 처할 수 있습니다. 확인되지 않은 상태에서 바로 경찰에 신고하는 것(C)은 아직 정확한 사실 확인이 이루어지지 않았으므로 적절하지 않습니다. 부부 갈등 해결을 위한 상담(D)은 가정폭력이 확인된 상황에서는 오히려 위험할 수 있으며, 피해자의 안전이 우선시되어야 합니다. 상처만 치료하고 다음에 평가하는 것(E)은 현재 환자가 위험한 상황에 있을 수 있으므로 즉각적인 개입이 필요한 상황에서 적절하지 않습니다.",
+  "source": {
+    "file_name": "World Health Organization Clinical Handbook for Health Care Providers",
+    "content": "When you suspect intimate partner violence, try to find a way to see the woman on her own. Do not raise the topic in front of her partner, family member or friend. Find a private, quiet place to talk, where you cannot be overheard. This may be difficult in some settings, but try to be creative. For example, you might suggest a trip to the toilet (a place where other family members would not follow), or you might ask the partner or friend to leave the room."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 22,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "7세 남아가 어머니와 함께 응급실에 내원하였다. 어머니는 아이가 침대에서 떨어져 복통을 호소한다고 설명한다. 병력 청취 시, 사고 발생 시점과 상황에 대한 설명이 일관되지 않으며, 이전에도 반복적인 외상으로 내원한 기록이 확인된다. 신체 진찰에서 복부에 다양한 크기와 색상의 타박상이 관찰되며, 오른쪽 상복부에 압통이 있다. 환아는 질문에 소극적으로 대답하며 어머니의 눈치를 자주 살핀다. 이 환아에서 복부 외상의 평가와 아동학대 의심에 대한 조사를 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액검사에서 헤모글로빈 11.2 g/dL, 백혈구 12,000/mm³, 아밀라아제 85 U/L, AST 45 U/L, ALT 50 U/L이다.",
+  "options": {
+    "A": "단순 복부 X-선 검사",
+    "B": "복부 초음파 검사",
+    "C": "복부 CT 검사",
+    "D": "복부 MRI 검사",
+    "E": "ERCP(내시경적 역행성 담췌관 조영술)"
+  },
+  "answer": "C",
+  "explanation": "이 환아는 아동학대가 강하게 의심되는 상황입니다. 병력과 설명이 일치하지 않고, 다양한 단계의 타박상, 반복적인 외상 이력, 그리고 경계하는 행동 등 학대의 여러 위험신호가 관찰됩니다. 복부 둔상은 아동학대에서 흔하게 발생하며, 간, 비장, 췌장, 장간막 손상 등 심각한 내부 손상을 일으킬 수 있습니다. 복부 CT 검사는 복부 둔상에서 내부 장기 손상을 평가하는 가장 민감하고 특이적인 검사로, 간이나 비장의 열상, 장 천공, 췌장 손상, 후복막 출혈 등을 확인할 수 있으며, 이전 손상의 흔적도 발견할 수 있습니다. 단순 복부 X-선(A)은 장 천공이나 이물질을 확인할 수 있으나 실질 장기 손상 평가에는 제한적입니다. 복부 초음파(B)는 초기 선별 검사로 유용할 수 있으나, 복강 내 손상의 범위와 특성을 정확히 평가하는 데 제한이 있으며 검사자 의존적입니다. 복부 MRI(D)는 방사선 노출이 없는 장점이 있으나, 급성 외상에서는 시간이 오래 걸리고 진정이 필요할 수 있어 일차 검사로 적합하지 않습니다. ERCP(E)는 췌담도계 질환 진단 및 치료를 위한 침습적 시술로, 급성 외상 평가에 일반적으로 사용되지 않습니다.",
+  "source": {
+    "file_name": "American College of Radiology Appropriateness Criteria",
+    "content": "In children with suspected non-accidental trauma (child abuse) and abdominal injury, contrast-enhanced CT of the abdomen and pelvis is usually appropriate and is the preferred initial imaging study. CT can detect solid organ injuries, bowel or mesenteric injuries, and subtle findings that may indicate previous trauma. CT is particularly useful in cases where the history provided is inconsistent with the clinical presentation or when there are multiple injuries in different stages of healing."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 23,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 필요한 가정 내외의 자원 활용방법과 법적, 윤리적 대응방법을 선택할 수 있다.",
+  "question": "35세 여성이 3세 여아를 동반하여 상담을 요청했다. 여성은 8년간의 결혼 생활 동안 남편으로부터 지속적인 신체적, 정서적 폭력을 당해왔으며, 최근에는 폭력이 더 심해져 자녀 앞에서도 폭행이 일어난다고 한다. 어제 남편이 술에 취해 칼로 위협하며 '모두 죽여버리겠다'고 말한 후 여성은 자녀를 데리고 집을 나왔다. 상담 중 여성은 경제적으로 남편에게 의존하고 있어 별거나 이혼을 고려하기 어렵다고 말한다. 신체 진찰에서 팔과 등에 다수의 타박상이 관찰되며, 정서적으로 불안하고 두려운 상태다. 이 환자에게 필요한 법적, 사회적 대응으로 가장 적절한 것은?",
+  "exam": "심리평가에서 외상후 스트레스 장애(PTSD) 증상이 확인되었으며, 자녀에 대한 아동발달 평가에서도 정서적 불안정성이 관찰된다.",
+  "options": {
+    "A": "가정폭력 사실을 문서화하고, 배우자와의 관계 회복을 위한 부부상담을 연계한다.",
+    "B": "피해 사실을 기록하고, 경제적 자립을 위한 취업 교육만 연계한다.",
+    "C": "가정폭력 사실을 신고하고, 긴급 임시보호시설 입소 및 법적 보호명령 신청을 안내한다.",
+    "D": "가정 문제는 사적인 영역이므로 환자가 스스로 결정할 때까지 기다린다.",
+    "E": "우선 부부간의 대화로 문제를 해결하도록 조언하고, 재방문 시 상황을 재평가한다."
+  },
+  "answer": "C",
+  "explanation": "이 사례는 심각한 가정폭력 상황으로, 피해자와 자녀가 생명의 위협을 느껴 집을 나온 위급한 상황입니다. 칼로 위협하는 행동은 살인 위험을 높이는 주요 위험 요인으로, 피해자와 자녀의 안전이 최우선적으로 고려되어야 합니다. 이런 상황에서는 가정폭력 사실을 기록하고 경찰에 신고하며, 피해자와 자녀를 위한 안전한 환경 확보가 필수적입니다. 따라서 긴급 임시보호시설 입소 안내와 함께 가정폭력 피해자 보호명령(접근금지, 퇴거명령 등) 신청을 지원하는 것이 적절합니다. 또한 의료적 치료, 심리적 지원, 법률 상담, 경제적 지원 등의 통합적 서비스 연계가 필요합니다. 부부상담(A)은 가정폭력 상황에서 권장되지 않으며, 오히려 피해자를 더 위험한 상황에 노출시킬 수 있습니다. 경제적 자립을 위한 교육만 연계(B)하는 것은 현재의 위급한 안전 문제를 해결하지 못합니다. 가정 문제를 사적 영역으로 간주하고 기다리는 것(D)과 부부간 대화로 해결하도록 조언하는 것(E)은 생명 위협이 있는 상황에서 의료인의 적절한 개입 의무를 다하지 않는 것이며, 피해자와 자녀의 안전을 보장하지 못합니다.",
+  "source": {
+    "file_name": "World Health Organization Guidelines for Responding to Intimate Partner Violence",
+    "content": "When there are concerns about immediate safety, health care providers should: 1) Assess immediate safety risks and develop a safety plan; 2) Inform about and facilitate access to crisis services such as emergency shelter, safe house or refuge; 3) Assist with reporting to police if the woman wishes; 4) Document the violence in detail, including the relationship to the perpetrator, nature of incidents, and impact on health; 5) Inform about legal rights and local support resources. In cases where there are threats to kill or use of weapons, these should be considered high-risk situations requiring immediate intervention and safety planning."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 24,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 필요한 가정 내외의 자원 활용방법과 법적, 윤리적 대응방법을 선택할 수 있다.",
+  "question": "75세 여성이 요양보호사에 의해 병원에 내원하였다. 환자는 알츠하이머 치매로 진단받았으며, 6개월 전부터 아들과 며느리가 돌보고 있다. 요양보호사는 최근 3주간 방문 시 환자가 점점 더 쇠약해지고, 체중이 감소했으며, 기저귀가 자주 교체되지 않은 상태였다고 보고한다. 신체 진찰에서 환자는 탈수 상태였으며, 둔부와 천골 부위에 2단계 욕창이 관찰되었다. 영양실조 소견과 함께 몸에서 소변 냄새가 났다. 아들은 병원에 동행하지 않았으며, 전화 통화에서 '바빠서 돌볼 시간이 없었다'고 말했다. 환자는 의사소통이 제한적이지만, 며느리가 자신을 욕하고 음식을 주지 않는다는 말을 반복한다. 이 사례에서 의사의 적절한 대응으로 가장 적절한 것은?",
+  "exam": "혈액검사에서 헤모글로빈 10.5 g/dL, 알부민 2.8 g/dL, BUN 35 mg/dL, 크레아티닌 1.3 mg/dL이다.",
+  "options": {
+    "A": "가족에게 연락하여 더 나은 돌봄을 제공하도록 교육하고 퇴원 계획을 세운다.",
+    "B": "노인복지법에 따라 노인학대 의심 사례로 신고하고, 사회복지사에게 의뢰한다.",
+    "C": "환자의 치매로 인한 발언은 신뢰할 수 없으므로, 의학적 치료만 제공한다.",
+    "D": "아들과 며느리에게 직접 학대 여부를 확인하고 자백을 유도한다.",
+    "E": "환자의 상태가 호전된 후 가족 상담을 통해 상황을 개선하도록 한다."
+  },
+  "answer": "B",
+  "explanation": "이 사례는 노인학대, 특히 방임(neglect)이 강하게 의심되는 상황입니다. 환자는 탈수, 영양실조, 욕창, 부적절한 위생 관리 등 방임의 명확한 징후를 보이고 있습니다. 노인복지법(제39조의6)에 따르면 의료인은 직무상 노인학대를 알게 된 경우 즉시 신고할 의무가 있습니다. 따라서 이 사례는 노인보호전문기관이나 수사기관에 신고해야 하며, 환자의 즉각적인 보호와 지원을 위해 사회복지사에게 의뢰하는 것이 적절합니다. 또한 환자의 탈수, 욕창, 영양실조에 대한 의학적 치료도 함께 제공해야 합니다. 가족에게 연락하여 더 나은 돌봄을 교육하는 것(A)은 현재 학대가 의심되는 상황에서 환자를 같은 환경에 다시 노출시키는 것으로, 환자의 안전을 보장할 수 없습니다. 환자의 발언을 무시하고 의학적 치료만 제공하는 것(C)은 학대 의심 상황에서 신고 의무를 다하지 않는 것이며, 치매 환자도 학대에 대한 보고를 할 수 있음을 간과한 것입니다. 가족에게 직접 학대 여부를 확인하고 자백을 유도하는 것(D)은 의료인의 역할을 벗어나며, 가족의 방어적 반응을 초래할 수 있습니다. 상태 호전 후 가족 상담을 통한 개선(E)은 현재의 학대 의심 상황에 대한 즉각적인 개입이 이루어지지 않아 적절하지 않습니다.",
+  "source": {
+    "file_name": "노인복지법",
+    "content": "제39조의6(노인학대 신고의무와 절차) ① 누구든지 노인학대를 알게 된 때에는 노인보호전문기관 또는 수사기관에 신고할 수 있다. ② 다음 각 호의 어느 하나에 해당하는 사람은 그 직무상 노인학대를 알게 된 때에는 즉시 노인보호전문기관 또는 수사기관에 신고하여야 한다. 5. 「의료법」 제3조제1항의 의료기관에서 의료업을 행하는 의료인 및 의료기관의 장"
+  },
+  "category": "Geriatric Medicine"
+}, 
+{
+  "question_id": 25,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "6개월 된 여아가 갑작스러운 의식 저하와 구토를 주소로 응급실에 내원하였다. 환아의 아버지는 아이가 오늘 오후에 평소와 같이 잘 놀다가 갑자기 구토를 하고 의식이 저하되었다고 설명한다. 병력 청취에서 아버지는 최근 육아 스트레스가 심했으며, 아이가 울음을 그치지 않아 어려움이 있었다고 한다. 신체 진찰에서 환아는 기면 상태이며, 앞숫구멍(anterior fontanelle)이 팽창되어 있다. 동공은 양측 4mm로 동일하나 반응이 감소되어 있고, 신경학적 검사에서 비정상적인 눈 움직임과 경미한 사지 강직이 관찰된다. 피부에는 특별한 외상의 흔적은 없다. 아동학대를 의심할 수 있는 가장 특징적인 진찰 소견은?",
+  "exam": "안저 검사에서 양측 망막에 다발성 망막출혈이 관찰된다.",
+  "options": {
+    "A": "두개골 골절",
+    "B": "양측 망막출혈",
+    "C": "경추 손상",
+    "D": "늑골 골절",
+    "E": "사지의 다발성 골절"
+  },
+  "answer": "B",
+  "explanation": "Shaken Baby Syndrome 또는 학대성 두부 외상(Abusive Head Trauma)은 영아를 심하게 흔들었을 때 발생하는 심각한 뇌 손상을 특징으로 하는 학대의 한 형태입니다. 영아의 머리가 상대적으로 크고 목 근육이 약하며, 뇌가 두개골 내에서 움직임이 자유롭기 때문에 심한 흔들림에 취약합니다. 복학쿠증후군의 가장 특징적인 소견은 양측성 망막출혈(retinal hemorrhages)입니다. 망막출혈은 복학쿠증후군 환자의 약 80-90%에서 관찰되며, 특히 광범위하고 다발성, 다층성 망막출혈은 매우 특이적인 소견입니다. 이러한 망막출혈은 우연한 외상이나 다른 질환으로는 잘 설명되지 않습니다. 두개골 골절(A)은 복학쿠증후군에서 관찰될 수 있지만, 단순 흔들림보다는 단단한 물체에 머리를 부딪혔을 때 발생하며, 필수적인 소견은 아닙니다. 경추 손상(C)은 드물게 발생할 수 있으나 특징적인 소견은 아닙니다. 늑골 골절(D)이나 사지의 다발성 골절(E)은 영아 학대의 다른 형태에서 관찰될 수 있으나, 순수한 복학쿠증후군의 특징적 소견은 아닙니다. 복학쿠증후군의 세 가지 주요 임상적 소견은 1) 경막하 혈종, 2) 광범위한 망막출혈, 3) 뇌 손상(뇌부종, 저산소성 손상 등)으로, 이 중 망막출혈이 가장 특이적인 소견입니다.",
+  "source": {
+    "file_name": "American Academy of Pediatrics: Abusive Head Trauma in Infants and Children",
+    "content": "The classic triad of findings in shaken baby syndrome/abusive head trauma consists of subdural hematoma, retinal hemorrhages, and encephalopathy. Of these, retinal hemorrhages are particularly characteristic, occurring in approximately 85% of cases. Extensive, multilayered retinal hemorrhages extending to the periphery of the retina are highly specific for abusive head trauma and are rarely seen in other conditions or accidental trauma. The pattern of injury reflects the mechanism: acceleration-deceleration forces with rotational components lead to shearing injuries within the brain and retina. While the absence of retinal hemorrhages does not rule out abuse, their presence, especially when extensive, should prompt a thorough evaluation for abusive head trauma."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 26,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "14세 여자 청소년이 성폭력 피해를 주장하며 해바라기센터에 내원하였다. 피해 상황은 2일 전 의붓아버지에 의한 성폭행으로, 환자는 샤워를 하지 않은 상태라고 한다. 환자는 불안해 보이며 떨고 있고, 신체 진찰에서 외음부에 경미한 발적과 회음부 주변 타박상이 관찰된다. 다음 중 이 환자에게 시행해야 할 가장 적절한 법의학적 증거 수집 과정은?",
+  "exam": "활력징후는 안정적이며, 정신상태 평가에서 급성 스트레스 반응 소견을 보인다.",
+  "options": {
+    "A": "성폭력 증거 수집 키트를 이용한 증거 수집, 성병 검사, 응급 피임약 제공",
+    "B": "환자의 동의 없이 즉시 경찰에 신고한 후 증거 수집 시작",
+    "C": "환자의 불안 완화를 위해 진정제 투여 후 신체 검사 및 증거 수집 시행",
+    "D": "피해 진술이 명확하지 않으므로 정신과적 평가만 시행",
+    "E": "생식기 세척을 통한 세포학적 검사만 시행"
+  },
+  "answer": "A",
+  "explanation": "성폭력 피해자의 법의학적 증거 수집은 피해 후 72시간 이내에 이루어지는 것이 중요하며, 이 환자는 피해 후 2일이 경과하여 72시간 이내에 해당합니다. 적절한 증거 수집 과정에는 성폭력 증거 수집 키트(성폭력 키트)를 사용한 체계적인 증거 수집이 포함됩니다. 이 과정에는 환자의 옷, 생식기 및 항문 주위의 이물질, 체액(정액, 타액 등) 검체 채취, DNA 분석을 위한 면봉 검체, 음모 채취 등이 포함됩니다. 또한 성매개 감염병(클라미디아, 임질, 매독, HIV 등) 검사와 임신 가능성이 있는 경우 응급 피임약 제공이 필요합니다. 해바라기센터에서는 이러한 의학적 증거 수집과 함께 심리적 지원, 법률 상담, 수사 지원 등 통합적인 서비스를 제공합니다. 환자의 동의 없이 경찰에 신고하는 것(B)은 성폭력 피해자 지원의 원칙인 '생존자 중심 접근법'에 위배됩니다(단, 의무신고 대상인 경우는 예외). 환자의 불안 완화를 위한 진정제 투여(C)는 환자의 의식 상태를 변화시켜 정확한 피해 진술과 동의 능력에 영향을 줄 수 있으므로 권장되지 않습니다. 피해 진술이 불명확하다고 정신과적 평가만 시행하는 것(D)은 신체적 증거 수집의 기회를 놓치게 됩니다. 생식기 세척을 통한 세포학적 검사만 시행하는 것(E)은 다른 중요한 증거(예: 옷, 몸의 다른 부위의 체액 등)를 놓칠 수 있으며, 세척 과정에서 오히려 증거가 소실될 수 있습니다.",
+  "source": {
+    "file_name": "보건복지부/여성가족부: 성폭력 피해자 통합지원 센터(해바라기센터) 운영지침",
+    "content": "성폭력 피해자 증거 수집은 72시간 이내에 이루어져야 최적의 결과를 얻을 수 있다. 증거 수집 과정은 표준화된 성폭력 증거 수집 키트를 사용하여 체계적으로 진행되며, 피해자의 동의하에 옷, 생식기와 항문 주변의 이물질, 체액 검체, DNA 분석을 위한 면봉 검체 등을 수집한다. 동시에 성매개 감염병 검사 및 예방적 항생제 투여, 임신 예방을 위한 응급 피임약 제공, 심리적 지원이 필요하다. 해바라기센터는 피해자 중심의 원칙에 따라 의료, 상담, 수사, 법률 지원을 원스톱으로 제공하며, 피해자의 자기결정권을 존중한다."
+  },
+  "category": "Forensic Medicine"
+}, 
+{
+  "question_id": 27,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "18세 여성이 성폭력 피해 후 72시간이 지나 해바라기센터에 내원하였다. 환자는 5일 전 직장 상사로부터 강제로 성관계를 당했으며, 그 후 하복부 통증과 질 출혈이 있다고 한다. 환자는 최근 성관계 경험이 없었다고 하며, 평소 생리 주기는 규칙적이라고 한다. 환자는 피해 직후 샤워를 여러 번 했다고 한다. 다음 중 이 환자에게 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "신체 진찰에서 외음부에 경미한 발적과 찰과상이 관찰되며, 자궁경부 운동 시 통증이 있다.",
+  "options": {
+    "A": "SANE(성폭력 전담 간호사)에 의한 성폭력 증거 수집 키트 사용 검사",
+    "B": "혈청 HCG 검사, 소변 임신 검사 및 성매개 감염병 선별 검사",
+    "C": "외상 여부 확인을 위한 골반 MRI",
+    "D": "자궁내막 생검을 통한 DNA 검사",
+    "E": "심리적 외상 평가를 위한 정신과 검사만 시행"
+  },
+  "answer": "B",
+  "explanation": "성폭력 피해자에 대한 증거 수집은 일반적으로 피해 후 72시간 이내에 가장 효과적이며, 해바라기센터에서는 이 기간 내에 성폭력 증거 수집 키트를 사용한 법의학적 증거 수집을 우선 시행합니다. 그러나 이 환자는 피해 후 5일(120시간)이 경과하였고, 여러 차례 샤워를 했기 때문에 법의학적 증거 수집의 효용성이 크게 감소합니다. 이런 경우, 우선적으로 성폭력으로 인한 잠재적 건강 문제(임신, 성매개 감염병)에 대한 검사와 치료에 초점을 맞추어야 합니다. 혈청 HCG 검사와 소변 임신 검사를 통해 임신 여부를 확인하고, 성매개 감염병(클라미디아, 임질, 트리코모나스, 매독, HIV, B형 간염 등) 선별 검사를 시행해야 합니다. 성매개 감염병 검사는 기저 감염 여부를 확인하기 위해 초기에 시행하고, 잠복기를 고려하여 추적 검사도 계획해야 합니다. 성폭력 전담 간호사에 의한 증거 수집(A)은 72시간이 지났고 여러 차례 샤워를 한 상황에서 증거 수집의 효과가 제한적입니다. 골반 MRI(C)는 일반적인 성폭력 피해자 평가에서 일상적으로 시행하지 않으며, 특정 심각한 손상이 의심될 때만 고려합니다. 자궁내막 생검(D)은 침습적 절차로, 성폭력 피해자 평가에서 표준 절차가 아닙니다. 정신과 검사만 시행하는 것(E)은 신체적 건강 문제를 간과할 수 있어 적절하지 않습니다.",
+  "source": {
+    "file_name": "대한산부인과학회/대한법의학회: 성폭력 피해자 진료 지침",
+    "content": "성폭력 피해 후 72시간이 경과한 경우, DNA 등 법의학적 증거 수집의 효과가 감소하므로 피해자의 건강과 안전에 초점을 맞추어야 한다. 이러한 경우 우선적으로 시행해야 할 검사는 (1) 임신 검사: 혈청 HCG 또는 소변 임신 검사, (2) 성매개 감염병 검사: 클라미디아, 임질, 트리코모나스, 매독, HIV, B형 간염 등의 선별 검사이다. 성매개 감염병 검사는 기저 감염 여부를 확인하기 위해 초기에 시행하고, 잠복기를 고려하여 추적 검사를 계획해야 한다. 또한 피해자의 심리적 지원과 법률적 지원도 함께 제공해야 한다."
+  },
+  "category": "Obstetrics and Gynecology"
 }
 
