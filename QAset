@@ -1,1 +1,295 @@
+{
+  "question_id": 1,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "62세 남자 환자가 3개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특별한 피부 발진은 없으나 밤에 특히 가려움이 심해져 수면에 방해를 받는다고 호소한다. 최근 6개월 동안 체중이 5kg 감소했으며 쉽게 피로해진다고 한다. 과거력상 고혈압으로 약물 복용 중이며, 1년 전부터 혈당이 약간 높아 식이조절 중이다. 신체검진에서 피부는 건조하고 긁힌 자국이 등과 사지에 관찰되며, 우상복부에 압통 없이 촉진되는 간비대(2cm)가 있다. 이 환자의 가려움증 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액검사: WBC 5,500/μL, Hb 11.2g/dL, Platelet 240,000/μL, AST 85U/L, ALT 92U/L, ALP 420U/L, γ-GT 380U/L, 총 빌리루빈 2.8mg/dL, 직접 빌리루빈 1.9mg/dL, BUN 18mg/dL, Cr 0.9mg/dL, Na 138mEq/L, K 4.1mEq/L, 공복혈당 130mg/dL",
+  "options": {
+    "A": "당뇨병",
+    "B": "약물 부작용",
+    "C": "원발성 담즙성 담관염",
+    "D": "만성 신부전",
+    "E": "건조피부증(노인성 소양증)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전신 가려움증, 체중 감소, 피로감을 호소하며 검사실 소견에서 담즙정체성 간기능 이상(AST, ALT의 경도 상승과 ALP, γ-GT의 현저한 상승, 빌리루빈 상승)이 관찰됩니다. 이러한 소견은 원발성 담즙성 담관염(Primary Biliary Cholangitis, 과거 Primary Biliary Cirrhosis)을 강하게 시사합니다. 원발성 담즙성 담관염은 자가면역성 간질환으로, 주로 중년 여성에게 흔하지만 남성에서도 발생할 수 있습니다. 초기에는 무증상이거나 전신 가려움증만 있을 수 있으며, 진행하면서 피로감, 체중 감소, 황달 등이 나타납니다. 특히 담즙산의 축적으로 인한 가려움증은 밤에 악화되는 특징이 있습니다. 진단을 확정하기 위해서는 항미토콘드리아 항체(AMA) 검사와 필요시 간 조직검사가 필요합니다. 당뇨병(A)은 가려움증의 원인이 될 수 있지만, 이 환자의 혈당 수치(130mg/dL)는 경도 상승에 불과하여 심한 가려움증을 설명하기 어렵습니다. 약물 부작용(B)은 항고혈압제 등이 원인일 수 있으나, 간기능 이상을 동반한 전신 가려움증은 설명하기 어렵습니다. 만성 신부전(D)은 요독증으로 인한 가려움증을 유발할 수 있으나, 환자의 신기능 검사(BUN, Cr)는 정상입니다. 건조피부증(E)은 노인에서 흔한 가려움증의 원인이지만, 이 환자의 간기능 이상과 전신 증상(체중 감소, 피로감)을 설명할 수 없습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Primary biliary cholangitis (PBC) is a chronic cholestatic liver disease characterized by immune-mediated destruction of small intrahepatic bile ducts. The disease predominantly affects middle-aged women. Many patients are asymptomatic at diagnosis, but some present with fatigue and pruritus. Physical examination may reveal hepatomegaly and occasionally splenomegaly. Laboratory abnormalities include elevations in serum alkaline phosphatase, γ-glutamyl transpeptidase, and IgM. Serum bilirubin is usually normal at diagnosis but rises as the disease progresses. The hallmark serologic finding is the presence of antimitochondrial antibodies (AMA), which are found in over 90% of patients."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 2,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 3주 전부터 시작된 전신 가려움증으로 내원하였다. 환자는 특히 저녁과 밤에 가려움이 심해진다고 호소하며, 최근 정형외과에서 고관절 통증으로 진통소염제를 복용 중이다. 신체 검진에서 눈과 피부의 황달이 관찰되며, 복부 진찰에서 우상복부에 경도의 압통이 있다. 이 환자에게 시행할 가장 적절한 다음 검사는?",
+  "exam": "혈액검사: AST 120 U/L, ALT 135 U/L, ALP 180 U/L, 총 빌리루빈 4.5 mg/dL, 직접 빌리루빈 3.2 mg/dL",
+  "options": {
+    "A": "항핵항체(ANA) 검사",
+    "B": "복부 초음파 검사",
+    "C": "경피적 간 조직검사",
+    "D": "약물 유발성 간 손상 가능성에 대한 약물력 재평가",
+    "E": "내시경적 역행성 담췌관조영술(ERCP)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 최근 3주 전부터 시작된 전신 가려움증과 황달을 보이고 있으며, 간기능 검사에서 담즙 정체성 간기능 이상(AST, ALT, ALP, 빌리루빈 상승)이 관찰됩니다. 중요한 점은 환자가 최근에 정형외과에서 고관절 통증으로 진통소염제를 복용하고 있다는 것입니다. 비스테로이드성 소염진통제(NSAIDs)는 약물 유발성 간 손상(Drug-Induced Liver Injury, DILI)의 흔한 원인 중 하나이며, 담즙 정체성 또는 혼합형 간 손상을 일으킬 수 있습니다. 따라서 이 환자에서 가장 먼저 시행해야 할 검사는 약물 유발성 간 손상 가능성에 대한 약물력 재평가입니다. 약물 복용과 증상 발현의 시간적 연관성, 약물 중단 후 증상 호전 여부 등을 평가해야 합니다. 항핵항체(ANA) 검사(A)는 자가면역성 간염 등을 평가하는 데 유용하지만, 약물력과 증상 발현의 시간적 연관성을 고려할 때 우선순위가 낮습니다. 복부 초음파 검사(B)는 담도 폐쇄, 간내 병변 등을 평가하는 데 유용하지만, 약물 유발성 간 손상의 가능성이 높은 상황에서는 약물력 재평가 후에 고려해야 합니다. 경피적 간 조직검사(C)는 간질환의 원인 진단에 도움이 되지만, 침습적 검사이므로 비침습적 평가와 약물 중단 후 경과 관찰을 먼저 시행해야 합니다. 내시경적 역행성 담췌관조영술(ERCP)(E)은 담도 폐쇄의 치료에 유용하지만, 이 환자에서는 담도 폐쇄의 증거가 없고 약물 유발성 간 손상의 가능성이 높으므로 적절하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Drug-induced liver injury (DILI) remains the leading cause of acute liver failure and a common cause of discontinuation of drugs in development. Diagnosis requires a high index of suspicion and thorough understanding of clinical presentation, risk factors, and natural history of known hepatotoxins. A temporal association between drug exposure and onset of liver disease is the most important initial clue to the diagnosis of DILI. Assessment of causality should include detailed history taking, including prescription drugs, over-the-counter medications, herbal products, and nutritional supplements, as well as consideration of other causes of liver disease. Improvement upon drug discontinuation (dechallenge) strengthens the diagnosis."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 3,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "72세 남자 환자가 2개월 전부터 시작된 전신 가려움증과 피부 발진을 주소로 내원하였다. 환자는 손등과 전완부의 가려움증이 특히 심하며, 밤에 악화되어 수면장애가 있다고 한다. 과거력상 고혈압, 당뇨병, 고지혈증으로 약물 복용 중이다. 신체 검진에서 손등, 전완부, 복부, 다리에 다수의 홍반성 구진과 판, 일부는 미란과 각질을 동반하고 있다. 몸통에는 다수의 원형 또는 타원형의 홍반성 인설성 판이 관찰된다. 이 환자에게서 가장 가능성이 높은 진단은?",
+  "exam": "일반혈액검사: WBC 7,800/μL (호산구 15%), Hb 13.5g/dL, Platelet 230,000/μL, 혈액화학검사: BUN 22mg/dL, Cr 1.1mg/dL, AST 35U/L, ALT 42U/L, 총 IgE 950 IU/mL (정상: <100 IU/mL), 피부생검: 표피의 해면화, 상부 진피의 혈관 주위 림프구 침윤, 다수의 호산구 침윤",
+  "options": {
+    "A": "약물 발진",
+    "B": "만성 단순 태선",
+    "C": "접촉성 피부염",
+    "D": "노인성 건조피부증",
+    "E": "수포성 유천포창"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 단순 태선(lichen simplex chronicus)에 합당한 임상양상을 보입니다. 만성 단순 태선은 만성적인 긁기나 문지르기로 인해 피부가 두꺼워지고 태선화되는 상태로, 주로 손등, 전완부, 목, 항문 주위 등에 발생합니다. 환자는 2개월 전부터 시작된 가려움증과 피부 발진이 있으며, 특히 밤에 악화되어 수면장애가 있다고 호소합니다. 신체 검진에서 홍반성 구진과 판, 미란, 각질이 관찰되며, 피부생검에서는 표피의 해면화, 상부 진피의 혈관 주위 림프구 침윤, 호산구 침윤이 관찰됩니다. 또한 전체 백혈구 중 호산구 비율이 증가(15%)되어 있고, 총 IgE가 상승되어 있어 알레르기성 질환의 가능성을 시사합니다. 이러한 소견들은 만성 단순 태선의 소견과 일치합니다. 만성 단순 태선은 주로 심리적 스트레스, 피부 건조, 아토피 피부염 등의 기저 질환과 관련이 있으며, 소양증-긁기-소양증의 악순환으로 인해 만성화됩니다. 치료는 국소 스테로이드, 보습제, 항히스타민제 등을 사용하고, 기저 질환이 있는 경우 이를 치료하는 것이 중요합니다. 약물 발진(A)은 약물 복용력과 관련이 있으나, 이 환자의 경우 만성적인 경과와 특징적인 피부 병변이 약물 발진보다는 만성 단순 태선에 더 합당합니다. 접촉성 피부염(C)은 특정 알레르겐에 노출된 부위에 국한된 피부염을 유발하며, 이 환자의 경우 전신적인 분포를 보이므로 합당하지 않습니다. 노인성 건조피부증(D)은 노인에서 흔한 가려움증의 원인이지만, 이 환자의 특징적인 피부 병변과 검사 소견을 설명할 수 없습니다. 수포성 유천포창(E)은 주로 노인에서 발생하는 자가면역성 수포성 질환으로, 긴장성 수포가 특징적이나 이 환자의 임상양상과 일치하지 않습니다.",
+  "source": {
+    "file_name": "Fitzpatrick's Dermatology in General Medicine, 9th edition",
+    "content": "Lichen simplex chronicus (LSC), also known as neurodermatitis, is a localized skin condition characterized by chronic itching and scratching leading to lichenification. LSC is not a primary skin disease but rather a result of repetitive trauma to the skin due to scratching. The condition can be initiated by a small insect bite, skin trauma, or dermatitis. Patients often report intense pruritus, particularly at night, leading to sleep disturbance. Physical examination reveals well-demarcated, lichenified plaques with excoriations and scaling. Common sites include the nape of the neck, wrists, lower legs, ankles, and anogenital region. Histopathology shows epidermal hyperplasia, compact hyperkeratosis, and variable inflammatory infiltrate in the upper dermis with occasional eosinophils. Treatment includes high-potency topical corticosteroids, antihistamines, and addressing underlying conditions or triggers."
+  },
+  "category": "Dermatology"
+}, 
+{
+  "question_id": 4,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "38세 여성이 2주 전부터 시작된 전신 가려움증과 피부 발진을 주소로 내원하였다. 환자는 발진이 처음에는 복부에 시작하여 점차 전신으로 퍼졌으며, 소양감이 심해 수면에 방해를 받는다고 한다. 또한, 환자는 최근 3주 전 임신 진단을 받았다. 신체 검진에서 복부, 등, 사지에 다수의 홍반성 구진과 소수의 수포가 관찰되며, 배꼽 주위와 사지 신전부에 병변이 더 많이 분포해 있다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: WBC 6,500/μL, Hb 13.2g/dL, Platelet 210,000/μL, Total bilirubin 0.8mg/dL, AST 32U/L, ALT 28U/L, ALP 105U/L, 혈청 담즙산 18μmol/L (정상: <10μmol/L), 피부생검: 표피 내 소수의 호산구, 진피 부종 및 혈관 주위 림프구와 호산구 침윤",
+  "options": {
+    "A": "국소 칼시뉴린 억제제 도포",
+    "B": "경구 항히스타민제와 중등도 강도의 국소 스테로이드 도포",
+    "C": "경구 프레드니솔론 투여",
+    "D": "우르소데옥시콜산(ursodeoxycholic acid) 경구 투여",
+    "E": "광선요법(UVB)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 임신성 담즙정체(Intrahepatic Cholestasis of Pregnancy, ICP)와 연관된 가려움증 및 피부 발진을 보이고 있습니다. 임신성 담즙정체는 주로 임신 2-3분기에 발생하는 간질환으로, 전신 가려움증이 주요 증상이며 황달이 동반될 수 있습니다. 이 환자는 임신 초기(3주 전 임신 진단)에 전신 가려움증이 발생했으며, 검사상 혈청 담즙산이 상승(18μmol/L)되어 있어 임신성 담즙정체를 강하게 시사합니다. 임신성 담즙정체의 치료는 우르소데옥시콜산(ursodeoxycholic acid, UDCA) 경구 투여가 가장 효과적입니다. UDCA는 담즙산의 담도 배설을 촉진하고 간세포 보호 효과가 있어 가려움증을 완화하고 혈청 담즙산 수치를 낮추며, 태아 예후를 개선합니다. 따라서 이 환자에게 가장 적절한 치료는 우르소데옥시콜산 경구 투여입니다. 국소 칼시뉴린 억제제(A)는 아토피 피부염 등의 치료에 사용되나, 임신성 담즙정체에는 효과가 제한적입니다. 경구 항히스타민제와 국소 스테로이드(B)는 가려움증을 일시적으로 완화할 수 있으나, 임신성 담즙정체의 근본적인 병태생리를 해결하지 못합니다. 경구 프레드니솔론(C)은 임신성 담즙정체의 표준 치료가 아니며, 임신 중 장기간 사용 시 부작용 위험이 있습니다. 광선요법(E)은 일부 피부질환의 가려움증에 효과가 있을 수 있으나, 임신성 담즙정체에는 일차 치료로 권장되지 않습니다.",
+  "source": {
+    "file_name": "Williams Obstetrics, 25th edition",
+    "content": "Intrahepatic cholestasis of pregnancy (ICP) is characterized by pruritus and elevated serum bile acids, typically during the second or third trimester. The pruritus typically involves the palms and soles but can become generalized and is often worse at night. Diagnosis is based on clinical presentation and laboratory findings, particularly elevated serum bile acids (>10 μmol/L). Ursodeoxycholic acid (UDCA) is the first-line treatment for ICP, shown to reduce pruritus, improve liver biochemistries, and potentially improve fetal outcomes. UDCA promotes bile flow, protects hepatocytes from bile acid-induced injury, and has anti-inflammatory and immunomodulatory effects. The recommended dose is 10-15 mg/kg/day. In addition to UDCA, symptomatic management includes antihistamines for pruritus, though they have limited efficacy. Due to the increased risk of adverse fetal outcomes, including stillbirth, preterm delivery and meconium-stained amniotic fluid, close maternal and fetal monitoring is essential."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 5,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남자 환자가 3개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특히 밤에 가려움이 심해지며, 목욕 후에도 호전되지 않는다고 한다. 신체검진에서 피부는 전반적으로 건조하고 긁은 흔적이 관찰되나 특별한 발진은 없다. 환자는 최근 6개월 동안 4kg의 체중 감소와 식은땀, 전신 무력감이 있었다고 한다. 혈액검사에서 빈혈(Hb 10.2g/dL)과 호산구 증가(12%)가 관찰되었다. 이 환자에게 가려움증의 원인 진단을 위해 추가로 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액검사: WBC 9,200/μL (호산구 12%), Hb 10.2g/dL, MCV 88fL, Platelet 400,000/μL, ESR 45mm/hr, CRP 2.5mg/dL, BUN 15mg/dL, Cr 0.9mg/dL, AST 28U/L, ALT 32U/L, ALP 95U/L",
+  "options": {
+    "A": "흉부 및 복부 CT 검사",
+    "B": "피부 첩포 검사",
+    "C": "갑상선 기능 검사",
+    "D": "심초음파 검사",
+    "E": "위내시경 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 3개월 전부터 시작된 전신 가려움증과 함께 체중 감소, 식은땀, 전신 무력감 등의 전신 증상을 호소합니다. 또한 혈액검사에서 빈혈(Hb 10.2g/dL), 호산구 증가(12%), 적혈구 침강 속도(ESR) 증가, C-반응성 단백(CRP) 상승 등의 소견이 관찰됩니다. 이러한 임상 증상과 검사 소견은 림프종, 특히 호지킨 림프종(Hodgkin lymphoma)의 가능성을 시사합니다. 호지킨 림프종은 B증상(체중 감소, 발열, 식은땀)과 가려움증이 특징적으로 나타날 수 있으며, 진단을 위해서는 영상 검사(CT 등)를 통한 림프절 및 장기 침범 여부 평가가 필요합니다. 따라서 이 환자에게 추가로 시행해야 할 가장 적절한 검사는 흉부 및 복부 CT 검사입니다. CT 검사에서 림프절 비대나 비장 비대 등이 확인되면 조직 검사를 통해 확진할 수 있습니다. 피부 첩포 검사(B)는 접촉성 피부염의 원인 알레르겐을 확인하는 데 유용하지만, 이 환자의 경우 특별한 피부 발진 없이 전신 가려움증만 있으므로 유용성이 낮습니다. 갑상선 기능 검사(C)는 갑상선 기능 항진증이나 저하증에 의한 가려움증을 평가하는 데 유용하지만, 이 환자의 전신 증상과 혈액학적 이상은 갑상선 질환보다 림프종을 더 강하게 시사합니다. 심초음파 검사(D)는 심장 질환과 관련된 가려움증 평가에 유용할 수 있으나, 이 환자의 증상과 검사 소견은 심장 질환보다 림프종을 더 시사합니다. 위내시경 검사(E)는 상부 위장관 질환 평가에 유용하지만, 이 환자의 임상 증상과 검사 소견은 상부 위장관 질환보다 림프종을 더 시사합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Pruritus is a common manifestation of Hodgkin lymphoma, occurring in approximately 30% of patients, and can precede the diagnosis by up to 5 years. Patients with Hodgkin lymphoma may present with constitutional symptoms (B symptoms) including weight loss, fever, and night sweats, along with painless lymphadenopathy. Laboratory findings often include normocytic anemia, elevated erythrocyte sedimentation rate (ESR), and occasionally eosinophilia. Initial evaluation should include a complete blood count, comprehensive metabolic panel, and imaging studies such as CT scans of the chest, abdomen, and pelvis to assess the extent of disease. Diagnosis is confirmed by excisional lymph node biopsy demonstrating Reed-Sternberg cells in an appropriate cellular background."
+  },
+  "category": "Hematology and Oncology"
+}, 
+{
+  "question_id": 6,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "68세 여성이 6주 전부터 지속된 전신 가려움증으로 내원하였다. 환자는 피부 발진 없이 가려움만 있으며, 특히 밤에 증상이 심해진다고 호소한다. 최근 3개월간 2kg의 체중 감소와 식은땀이 있었고, 간헐적인 복부 불편감도 호소한다. 신체 검진에서 피부는 건조하고 긁은 자국이 관찰되나 특별한 발진은 없으며, 복부 촉진 시 좌상복부에 압통 없는 비장 비대(2cm)가 확인된다. 이 환자의 가려움증 원인으로 가장 가능성이 높은 것은?",
+  "exam": "CBC: WBC 12,500/μL (호중구 55%, 림프구 30%, 호산구 3%, 단핵구 4%, 호염기구 8%), Hb 18.2g/dL, Hct 54%, MCV 90fL, Platelet 650,000/μL, 혈액도말검사: 적혈구 증가, 과립구 증가, 혈소판 증가, 간 기능 및 신장 기능 검사는 정상 범위",
+  "options": {
+    "A": "당뇨병",
+    "B": "만성 신부전",
+    "C": "원발성 담즙성 담관염",
+    "D": "진성 적혈구증가증",
+    "E": "약물 부작용"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 전신 가려움증과 함께 체중 감소, 식은땀, 비장 비대 등의 임상 증상을 보이고 있습니다. 혈액검사에서 적혈구(Hb 18.2g/dL, Hct 54%), 백혈구(12,500/μL), 혈소판(650,000/μL)이 모두 증가되어 있으며, 특히 호염기구 비율(8%)이 증가된 소견을 보입니다. 이러한 임상 소견과 검사 결과는 진성 적혈구증가증(Polycythemia Vera, PV)을 강하게 시사합니다. 진성 적혈구증가증은 골수증식성 종양의 일종으로, 세 가지 혈액 세포계열이 모두 증가하는 특징이 있으며, 가려움증은 흔한 증상 중 하나입니다. 특히 목욕이나 샤워 후 또는 밤에 악화되는 가려움증이 특징적이며, 이는 비만 세포에서 분비되는 히스타민과 관련이 있습니다. 비장 비대와 체중 감소, 식은땀 등의 B증상도 진성 적혈구증가증에서 나타날 수 있습니다. 확진을 위해서는 JAK2 V617F 돌연변이 검사와 골수 생검이 필요합니다. 당뇨병(A)은 가려움증의 원인이 될 수 있지만, 혈액학적 이상 소견을 설명할 수 없습니다. 만성 신부전(B)은 요독증으로 인한 가려움증을 유발할 수 있으나, 이 환자의 신장 기능은 정상이며 혈액학적 이상을 설명할 수 없습니다. 원발성 담즙성 담관염(C)은 담즙 정체로 인한 가려움증을 유발할 수 있으나, 이 환자의 간 기능은 정상이며 혈액학적 이상을 설명할 수 없습니다. 약물 부작용(E)은 가려움증의 원인이 될 수 있지만, 특정 약물 사용력 없이 혈액학적 이상이 있으므로 가능성이 낮습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Polycythemia vera (PV) is a chronic myeloproliferative neoplasm characterized by increased red cell mass, often accompanied by leukocytosis and thrombocytosis. Clinical features include pruritus (especially after warm baths), erythromelalgia, headache, dizziness, and splenomegaly. Pruritus occurs in approximately 40% of patients and can be debilitating. It is typically exacerbated by warm water (aquagenic pruritus) and is thought to be mediated by histamine release from basophils and mast cells. Laboratory findings include elevated hemoglobin (>16.5 g/dL in men, >16.0 g/dL in women), hematocrit (>49% in men, >48% in women), leukocytosis, thrombocytosis, and elevated basophil count. The JAK2 V617F mutation is present in over 95% of patients. Treatment includes phlebotomy to maintain hematocrit <45%, cytoreductive therapy, and aspirin for thromboprophylaxis."
+  },
+  "category": "Hematology and Oncology"
+}, 
+{
+  "question_id": 7,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "35세 여성이 전신에 발생한 가려운 발진으로 내원하였다. 환자는 3일 전부터 갑자기 시작된 가려움증과 함께 팽진이 전신에 나타났다고 한다. 발진은 하루에도 여러 번 나타났다 사라졌다를 반복하며, 피부를 긁으면 더 심해지는 경향이 있다고 호소한다. 과거력상 환자는 2주 전 감기로 항생제(아목시실린)를 복용했으며, 평소 꽃가루 알레르기가 있다. 신체 검진에서 전신에 다양한 크기의 홍반성 팽진이 관찰되며, 일부는 환상 형태로 나타나고 있다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: WBC 8,200/μL(호산구 6%), IgE 280 IU/mL(정상: <100 IU/mL), 간 및 신장 기능 검사는 정상 범위",
+  "options": {
+    "A": "페니실린 알레르기 피부 검사 후 탈감작 요법",
+    "B": "2세대 항히스타민제 투여와 항생제 중단",
+    "C": "경구 스테로이드와 항히스타민제 병합 투여",
+    "D": "국소 스테로이드 도포와 항히스타민제 투여",
+    "E": "항생제 유지 및 1세대 항히스타민제 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 두드러기(Acute urticaria)의 전형적인 증상을 보입니다. 갑자기 시작된 가려움증과 함께 전신에 팽진이 발생하고, 병변이 24시간 이내에 나타났다 사라지는 일시적 특성을 보이며, 피부를 긁으면 더 심해지는 특징(피부묘기증)이 있습니다. 환자는 2주 전 아목시실린을 복용했으며, 이는 급성 두드러기의 흔한 원인 중 하나입니다. 급성 두드러기의 치료는 원인 제거와 증상 조절이 기본입니다. 따라서 의심되는 원인 약물(아목시실린)을 중단하고, 증상 조절을 위해 2세대 항히스타민제를 투여하는 것이 가장 적절한 치료 계획입니다. 2세대 항히스타민제는 졸음이나 인지 기능 저하와 같은 중추신경계 부작용이 적어 1세대보다 선호됩니다. 필요시 용량을 증량하거나 다른 항히스타민제를 추가할 수 있습니다. 페니실린 알레르기 피부 검사와 탈감작 요법(A)은 페니실린 계열 항생제가 반드시 필요한 경우에 고려할 수 있으나, 현재 환자의 두드러기 조절이 우선이며 다른 항생제로 대체 가능하므로 적절하지 않습니다. 경구 스테로이드와 항히스타민제 병합 투여(C)는 항히스타민제만으로 조절되지 않는 심한 급성 두드러기에서 단기간 고려할 수 있으나, 이 환자에서는 먼저 항히스타민제와 원인 제거로 조절해 보는 것이 적절합니다. 국소 스테로이드 도포(D)는 두드러기에 효과적이지 않으며, 전신 증상에 국소 치료만으로는 충분하지 않습니다. 항생제 유지 및 1세대 항히스타민제 투여(E)는 의심되는 원인 약물을 계속 사용하는 것이므로 적절하지 않으며, 1세대 항히스타민제는 중추신경계 부작용이 더 흔해 2세대 항히스타민제가 선호됩니다.",
+  "source": {
+    "file_name": "Fitzpatrick's Dermatology in General Medicine, 9th edition",
+    "content": "Acute urticaria is defined as urticaria lasting less than 6 weeks. Common causes include medications (especially antibiotics such as penicillins), foods, infections, and insect stings. The primary treatment for acute urticaria involves identifying and removing the trigger, along with symptomatic management using antihistamines. Second-generation H1-antihistamines (e.g., cetirizine, loratadine, fexofenadine) are the first-line treatment due to their efficacy and reduced sedative effects compared to first-generation agents. If standard doses are ineffective, the dose can be increased up to four times the standard dose. For severe or refractory cases, a short course of oral corticosteroids may be considered. Topical treatments have limited efficacy due to the systemic nature of urticaria. Patients should be educated about potential triggers and advised to maintain a diary to identify possible causative factors."
+  },
+  "category": "Allergy and Immunology"
+}, 
+{
+  "question_id": 9,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "60세 남성 환자가 3개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특별한 피부 병변 없이 가려움증만 있으며, 밤에 특히 심해진다고 호소한다. 환자는 20년 전부터 고혈압으로 약물 복용 중이며, 10년 전부터 당뇨병으로 경구 혈당강하제를 복용 중이다. 혈압은 160/100mmHg로 측정되었다. 신체 검진에서 피부는 건조하고 긁은 자국이 있으나 특별한 발진은 없다. 얼굴과 다리에 부종이 경도로 관찰되며 안색이 창백하다. 이 환자에게 가려움증의 원인 진단을 위해 우선적으로 시행해야 할 검사는?",
+  "exam": "",
+  "options": {
+    "A": "혈청 IgE 및 알레르기 패널 검사",
+    "B": "갑상선 기능 검사",
+    "C": "혈액요소질소, 크레아티닌 및 사구체 여과율 검사",
+    "D": "간 기능 검사 및 혈청 빌리루빈 검사",
+    "E": "흉부 X선 및 복부 초음파 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3개월 전부터 피부 병변 없이 전신 가려움증이 있으며, 특히 밤에 심해지는 특징이 있습니다. 또한 장기간의 당뇨병과 고혈압 병력이 있고, 신체 검진에서 말초 부종과 창백한 안색이 관찰됩니다. 이러한 임상 소견은 만성 신장질환(Chronic Kidney Disease, CKD)과 관련된 요독증(uremia)으로 인한 가려움증을 강하게 시사합니다. 당뇨병과 고혈압은 만성 신장질환의 주요 위험 인자이며, 말초 부종과 창백한 안색은 만성 신장질환에서 흔히 관찰되는 소견입니다. 요독증성 가려움증은 만성 신장질환 환자의 약 40-50%에서 발생하며, 특히 밤에 악화되는 특징이 있습니다. 이러한 가려움증의 원인으로는 칼슘-인 불균형, 부갑상선 호르몬 증가, 비만 세포 증가, 히스타민 대사 이상 등이 제시되고 있습니다. 따라서 이 환자에게 우선적으로 시행해야 할 검사는 혈액요소질소(BUN), 크레아티닌 및 사구체 여과율(GFR) 검사입니다. 추가적으로 전해질, 칼슘, 인, 부갑상선 호르몬 등의 검사도 유용할 수 있습니다. 혈청 IgE 및 알레르기 패널 검사(A)는 알레르기성 질환에 의한 가려움증을 평가하는 데 유용하지만, 이 환자의 임상 소견은 알레르기성 질환보다는 만성 신장질환을 더 강하게 시사합니다. 갑상선 기능 검사(B)는 갑상선 기능 항진증 또는 저하증과 관련된 가려움증을 평가하는 데 유용하지만, 이 환자의 임상 소견은 갑상선 질환보다는 만성 신장질환을 더 강하게 시사합니다. 간 기능 검사 및 혈청 빌리루빈 검사(D)는 담즙 정체성 간질환에 의한 가려움증을 평가하는 데 유용하지만, 이 환자의 임상 소견은 간질환보다는 만성 신장질환을 더 강하게 시사합니다. 흉부 X선 및 복부 초음파 검사(E)는 악성 종양 등을 평가하는 데 유용할 수 있지만, 이 환자의 임상 소견은 만성 신장질환을 더 강하게 시사하므로 우선순위가 낮습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Uremic pruritus is a common and distressing symptom in patients with advanced chronic kidney disease (CKD), affecting approximately 40-50% of patients on dialysis. The pathogenesis is multifactorial and includes abnormalities in calcium-phosphorus metabolism, secondary hyperparathyroidism, increased mast cell release of histamine, and peripheral neuropathy. The pruritus is typically generalized without primary skin lesions, although excoriations may be present due to scratching. It is often worse at night and can significantly impair quality of life and sleep. Diagnosis is based on the presence of pruritus in a patient with CKD, typically with estimated glomerular filtration rate (eGFR) <15 mL/min/1.73m², after exclusion of other causes. Laboratory evaluation should include blood urea nitrogen (BUN), creatinine, electrolytes, calcium, phosphorus, and parathyroid hormone. Management includes optimizing dialysis, treating secondary hyperparathyroidism, and symptomatic measures such as emollients, gabapentin, phototherapy, and selective serotonin reuptake inhibitors."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 10,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "65세 남자 환자가 3개월 전부터 시작된 전신 가려움증으로 내원하였다. 환자는 특별한 피부 발진 없이 가려움증만 있으며, 주로 머리, 얼굴, 목에 심한 가려움을 호소한다. 과거력상 고혈압, 당뇨병이 있으며, 내원 1개월 전 종합검진에서 갑상선 기능 저하증으로 레보티록신 50mcg을 복용 중이다. 신체 검진에서 피부는 건조하고 꺼칠꺼칠하며, 긁은 자국이 전신에 관찰된다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: WBC 6,200/μL, Hb 13.5g/dL, Platelet 210,000/μL, AST 30U/L, ALT 28U/L, ALP 95U/L, 총 빌리루빈 0.8mg/dL, BUN 18mg/dL, Cr 0.9mg/dL, 갑상선 기능검사: TSH 12.5mIU/L(정상: 0.4-4.0mIU/L), Free T4 0.8ng/dL(정상: 0.8-1.8ng/dL)", 
+  "options": {
+    "A": "레보티록신 용량을 25mcg으로 감량",
+    "B": "레보티록신 용량을 75mcg으로 증량",
+    "C": "2세대 항히스타민제 추가",
+    "D": "국소 스테로이드 도포",
+    "E": "보습제 도포와 항히스타민제 지속"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3개월 전부터 시작된 전신 가려움증이 있으며, 특히 머리, 얼굴, 목에 심한 가려움을 호소합니다. 환자는 갑상선 기능 저하증으로 레보티록신 50mcg을 복용 중이나, 최근 갑상선 기능 검사에서 TSH가 상승(12.5mIU/L)되어 있고 Free T4는 정상 하한치(0.8ng/dL)로 측정되었습니다. 이는 현재 레보티록신 용량으로 갑상선 기능 저하증이 충분히 조절되지 않고 있음을 시사합니다. 갑상선 기능 저하증은 전신 가려움증의 원인이 될 수 있으며, 특히 피부 건조와 관련된 가려움증이 흔합니다. 갑상선 기능 저하증에 의한 가려움증의 치료는 원인 질환의 적절한 조절, 즉 갑상선 호르몬 보충이 중요합니다. 따라서 이 환자에게 가장 적절한 치료 계획은 레보티록신 용량을 75mcg으로 증량하는 것입니다. 일반적으로 레보티록신 용량은 TSH와 임상 증상을 고려하여 4-6주마다 25-50mcg씩 조정하며, 목표는 TSH를 정상 범위로 유지하는 것입니다. 레보티록신 용량을 25mcg으로 감량(A)하는 것은 이미 불충분한 갑상선 호르몬 보충을 더욱 감소시켜 갑상선 기능 저하증과 관련된 증상, 특히 가려움증을 악화시킬 수 있으므로 적절하지 않습니다. 2세대 항히스타민제 추가(C)는 가려움증의 증상 완화에 도움이 될 수 있으나, 원인 질환인 갑상선 기능 저하증이 적절히 조절되지 않는 한 근본적인 해결책이 되지 못합니다. 국소 스테로이드 도포(D)는 염증성 피부질환에 효과적이나, 이 환자의 경우 특별한 피부 발진이 없는 전신 가려움증이므로 적절하지 않습니다. 보습제 도포와 항히스타민제 지속(E)은 피부 건조로 인한 가려움증을 일시적으로 완화할 수 있으나, 원인 질환인 갑상선 기능 저하증이 적절히 조절되지 않는 한 근본적인 해결책이 되지 못합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th edition",
+    "content": "Hypothyroidism can cause a variety of cutaneous manifestations, including dry, rough, and cold skin, decreased sweating, and generalized pruritus. The skin changes are due to decreased cutaneous blood flow, decreased sebum production, and accumulation of mucopolysaccharides in the dermis. Pruritus in hypothyroidism is typically more pronounced on the scalp, face, and extremities. Management primarily involves thyroid hormone replacement therapy with levothyroxine. The initial dose is typically 25-50 μg daily, with gradual increases every 4-6 weeks based on TSH levels. The target is to achieve a normal TSH level, which usually requires doses of 75-150 μg daily in adults. Skin manifestations, including pruritus, typically improve with adequate hormone replacement. Symptomatic measures such as moisturizers and antihistamines may provide temporary relief but are not substitutes for proper thyroid hormone replacement."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 11,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "55세 남성이 30분 전부터 시작된 가슴 중앙의 압박감을 주소로 응급실에 내원하였다. 환자는 당뇨병과 고혈압으로 치료 중이며, 10갑년의 흡연력이 있다. 통증은 안정 시에도 지속되며 왼쪽 어깨와 턱으로 방사된다고 한다. 신체 검진에서 활력징후는 혈압 160/95 mmHg, 맥박 92회/분, 호흡수 22회/분, 체온 36.7°C이다. 심음은 규칙적이고 심잡음은 청진되지 않는다. 다음 중 이 환자의 가슴통증을 감별하기 위한 병력청취 시 가장 중요한 질문은?",
+  "exam": "",
+  "options": {
+    "A": "가족 중 심장질환의 병력이 있는가?",
+    "B": "통증이 식사와 관련이 있는가?",
+    "C": "통증이 자세 변화에 따라 악화되는가?",
+    "D": "이전에도 유사한 통증을 경험한 적이 있는가?",
+    "E": "최근 상기도 감염 증상이 있었는가?"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 급성 관상동맥 증후군(급성 심근경색 또는 불안정형 협심증)이 의심되는 전형적인 증상과 위험 인자를 가지고 있습니다. 중년 남성, 당뇨병, 고혈압, 흡연력 등의 심혈관 위험 인자가 있으며, 가슴 중앙의 압박감이 안정 시에도 지속되고 왼쪽 어깨와 턱으로 방사되는 양상은 전형적인 협심증 또는 심근경색의 특징입니다. 이러한 환자에서 과거에 유사한 통증을 경험했는지 질문하는 것이 중요합니다. 이전에 유사한 증상이 있었다면 만성 안정형 협심증의 악화나 이전 심장 사건의 재발을 시사할 수 있고, 처음 경험하는 증상이라면 새로운 급성 관상동맥 질환의 가능성이 높습니다. 또한 이전 증상의 빈도, 강도, 지속 시간, 유발 요인, 완화 요인 등을 파악하여 현재 증상의 중증도와 비교할 수 있습니다. 가족력은 위험 평가에 도움이 될 수 있지만 현 시점에서의 진단과 중증도 평가에는 덜 중요합니다. 식사와의 관련성은 위식도 역류질환과 같은 소화기 원인을 감별하는 데 유용하지만, 이 환자의 증상은 전형적인 심장성 흉통입니다. 자세 변화에 따른 통증 변화는 근골격계 또는 심낭염의 특징으로, 이 환자의 주요 감별진단이 아닙니다. 최근 상기도 감염은 심근염이나 심낭염과 관련될 수 있지만, 이 환자의 임상상은 급성 관상동맥 증후군에 더 부합합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "The history is critical in determining the cause of chest pain and assessing its severity. Features that suggest myocardial ischemia include a history of similar symptoms, especially if previously documented as ischemia, deep, visceral quality (pressure-like), radiation to the arm or jaw, and association with exertion, especially if relieved by rest. Features that make myocardial ischemia less likely include pleuritic, positional, or reproducible chest pain, brief episodes lasting seconds, and pain that is localized with a fingertip. For patients with known coronary artery disease, it is important to determine if the current symptoms represent an exacerbation of previously stable symptoms (stable angina) or new or accelerating symptoms (unstable angina)."
+  },
+  "category": "Cardiology"
+},
+{
+  "question_id": 12,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "62세 남성이 3시간 전부터 시작된 심한 가슴통증을 호소하며 응급실에 내원하였다. 통증은 가슴 앞쪽 전체에 걸쳐 찌르는 듯하며, 깊게 숨을 들이쉴 때 악화된다고 한다. 환자는 최근 2주간 지속된 감기 증상이 있었고, 오한과 미열이 동반되었다. 신체 검진에서 활력징후는 혈압 125/80 mmHg, 맥박 105회/분, 호흡수 24회/분, 체온 37.8°C이다. 심음 청진 시 흉골 좌측 하부에서 마찰음(friction rub)이 들린다. 다음 중 이 환자에서 가장 적절한 진단적 검사와 예상되는 결과는?",
+  "exam": "심전도: 광범위한 ST분절 상승이 관찰됨, 흉부 X-선: 정상, 혈액 검사: 백혈구 12,500/μL, CRP 4.2 mg/dL, 트로포닌 I 0.04 ng/mL(정상 <0.03 ng/mL)",
+  "options": {
+    "A": "관상동맥 조영술 - 좌전하행지 근위부 폐색",
+    "B": "CT 폐혈관조영술 - 양측 주폐동맥의 혈전",
+    "C": "심초음파 - 전벽 국소벽 운동장애와 좌심실 구혈률 감소",
+    "D": "심초음파 - 심낭 삼출액과 심낭 염증 소견",
+    "E": "흉부 CT - 대동맥 내막 파열과 벽내 혈종"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 급성 심낭염(acute pericarditis)에 합당한 임상상을 보입니다. 심낭염의 전형적인 특징으로는 흉골 뒤쪽 또는 전흉부 통증으로 앉거나 몸을 앞으로 기울일 때 완화되고, 누워있거나 깊은 호흡, 기침, 삼킴 시 악화되는 흉통이 있습니다. 또한 선행하는 바이러스 감염(이 환자의 '감기 증상'), 발열, 그리고 특징적인 심낭 마찰음이 있습니다. 심전도에서 보이는 광범위한 ST분절 상승(보통 PR 분절 하강을 동반)은 심낭염의 전형적인 소견입니다. 심근경색과 달리, 심낭염의 ST분절 상승은 국소적이기보다 광범위하게 나타납니다. 약간 상승된 트로포닌 수치는 심근염의 동반 가능성을 시사할 수 있습니다(심근심낭염). 이러한 환자에서 가장 적절한 추가 검사는 심초음파로, 이를 통해 심낭 삼출액의 존재와 정도를 평가하고 심낭 압전(tamponade)의 혈역학적 증거를 확인할 수 있습니다. 심낭염 환자의 심초음파에서는 심낭 삼출액, 두꺼워진 심낭, 심낭 내 섬유소 침착 등의 소견이 관찰될 수 있습니다. 관상동맥 조영술은 급성 관상동맥 증후군 의심 시 시행하며, 이 환자의 임상상과 검사 결과는 심낭염에 더 부합합니다. CT 폐혈관조영술은 폐색전증 의심 시 시행하는 검사입니다. 국소벽 운동장애와 좌심실 구혈률 감소는 심근경색의 심초음파 소견입니다. 흉부 CT에서 대동맥 내막 파열과 벽내 혈종은 급성 대동맥 증후군의 소견입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Acute pericarditis is characterized by chest pain that is typically pleuritic and positional (improved by sitting up and leaning forward), often with a recent history of an upper respiratory tract infection. A pericardial friction rub is characteristic but may be absent. The ECG typically shows diffuse ST segment elevation with PR segment depression. Echocardiography is useful to detect the presence and extent of pericardial effusion, the thickness of the pericardium, and the presence of tamponade physiology. Patients with suspected acute pericarditis should have an echocardiogram to evaluate for the presence of pericardial effusion and to exclude regional wall motion abnormalities suggestive of myocardial infarction. Pericardial fluid, if present, is characterized as a relatively echo-free space between the visceral and parietal pericardium and is most easily detected when the patient is examined in the left lateral decubitus position."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 13,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게 원인질환과 합병증에 대한 응급조치 및 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 남성이 갑작스럽게 발생한 날카로운 가슴통증을 주소로 응급실에 내원하였다. 통증은 등 쪽으로 방사되며, 숨을 쉴 때 악화된다고 한다. 환자는 고혈압이 있고 혈압약을 복용 중이며, 흡연력은 없다. 내원 당시 혈압은 180/110 mmHg, 맥박 110회/분, 호흡수 24회/분이다. 신체 검진에서 양쪽 팔의 혈압 차이가 25 mmHg로 측정되었고, 왼쪽 다리의 맥박이 약해져 있다. 다음 중 이 환자에게 가장 적절한 초기 응급 조치는?",
+  "exam": "흉부 X-선: 종격동 확장, 심전도: 정상, 조영증강 흉부 CT: 상행 대동맥부터 하행 대동맥까지 내막 파열과 false lumen이 확인됨.",
+  "options": {
+    "A": "심장 카테터 삽입술과 관상동맥 스텐트 삽입",
+    "B": "베타차단제 정맥 투여",
+    "C": "혈전용해제 투여 후 항응고 치료",
+    "D": "대동맥 내 풍선 펌프 삽입",
+    "E": "심낭천자술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 대동맥 박리(acute aortic dissection)의 전형적인 임상 양상을 보입니다. 갑작스럽게 발생한 찢어지는 듯한 가슴통증이 등으로 방사되는 양상, 고혈압의 병력, 양쪽 팔의 혈압 차이, 좌측 다리 맥박 약화 등의 소견은 대동맥 박리를 강하게 시사합니다. 흉부 CT 결과에서 확인된 내막 파열과 가양강(false lumen)은 대동맥 박리의 확진 소견입니다. 급성 대동맥 박리 환자의 초기 치료 목표는 혈압과 심박수를 낮추어 대동맥 벽의 전단력(shear stress)을 감소시키는 것입니다. 이를 위해 베타차단제를 정맥 투여하여 심박수를 분당 60-80회로 조절하고, 이후 혈압을 100-120 mmHg의 목표치로 낮추기 위해 혈관확장제(예: 니트로프루시드)를 추가할 수 있습니다. 베타차단제가 우선적으로 투여되어야 하는 이유는 혈관확장제만 사용할 경우 반사성 빈맥이 발생할 수 있어 대동맥 벽에 대한 스트레스를 오히려 증가시킬 수 있기 때문입니다. 심장 카테터 삽입술과 관상동맥 스텐트 삽입은 급성 관상동맥 증후군 치료에 사용되는 방법으로, 대동맥 박리 환자에게는 적절하지 않습니다. 혈전용해제는 대동맥 박리 환자에게 금기입니다. 출혈 위험을 증가시켜 박리를 악화시키고 파열 위험을 높일 수 있습니다. 대동맥 내 풍선 펌프는 대동맥 박리가 있는 환자에게 금기이며, 박리를 악화시키거나 가양강으로 풍선이 삽입될 위험이 있습니다. 심낭천자술은 심낭 압전이 의심될 때 시행하는 시술로, 이 환자의 상황과는 관련이 없습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "In patients with suspected or confirmed aortic dissection, immediate control of blood pressure and heart rate is essential to limit propagation of the dissection. The goal is to reduce the force of left ventricular ejection (dP/dt), which is determined by both blood pressure and heart rate. The initial drug of choice is an intravenous beta blocker (e.g., metoprolol, esmolol, or labetalol, which also has alpha-blocking properties) to reduce heart rate to approximately 60 beats per minute. If systolic blood pressure remains >120 mmHg after adequate beta blockade, a vasodilator such as intravenous nitroprusside should be added. Vasodilators should never be used without prior beta blockade because they can increase the force of left ventricular ejection by causing reflex tachycardia, potentially worsening the dissection."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 14,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 중증도를 알아낼 수 있다.",
+  "question": "32세 여성이 2일 전부터 시작된 가슴 통증과 호흡곤란을 주소로 응급실에 내원하였다. 증상은 점차 악화되었으며 최근 장거리 비행기 여행을 다녀왔다고 한다. 환자는 경구 피임약을 복용 중이며 다른 기저질환은 없다. 신체 검진에서 활력징후는 혈압 115/75 mmHg, 맥박 110회/분, 호흡수 26회/분, 체온 37.2°C, 산소포화도 92%(실내 공기)이다. 오른쪽 하지에 경미한 부종과 압통이 관찰된다. 다음 중 이 환자의 임상 소견과 가장 부합하는 질환은?",
+  "exam": "심전도: 동빈맥과 S1Q3T3 패턴이 관찰된다. 흉부 X-선: 정상. D-dimer: 2.5 μg/mL(정상 <0.5 μg/mL).",
+  "options": {
+    "A": "급성 심근경색증",
+    "B": "폐색전증",
+    "C": "기흉",
+    "D": "급성 심낭염",
+    "E": "바이러스성 폐렴"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 폐색전증(pulmonary embolism)의 전형적인 임상상을 보입니다. 폐색전증의 주요 위험 인자로는 최근의 장거리 여행(특히 비행기), 경구 피임약 복용, 임신, 악성 종양, 수술 후 상태, 장기간의 부동 상태 등이 있습니다. 이 환자는 장거리 비행기 여행과 경구 피임약 복용이라는 두 가지 위험 인자를 가지고 있습니다. 임상 증상으로는 갑작스러운 호흡곤란, 가슴통증(특히 흡기 시 악화), 빈맥, 저산소혈증이 있으며, 하지 심부정맥혈전증(DVT)의 증상인 하지 부종과 압통이 동반될 수 있습니다. 이 환자의 심전도에서 관찰되는 SIQIIITIII 패턴(I 유도에서 S파, III 유도에서 Q파와 T파 역전)은 폐색전증에서 볼 수 있는 전형적인 소견이지만, 특이도는 낮습니다. D-다이머 상승은 혈전 형성과 분해가 증가된 상태를 나타내며, 폐색전증의 선별 검사로 사용됩니다. 급성 심근경색증 환자는 일반적으로 압박감, 쥐어짜는 듯한 통증을 호소하며, 나이가 젊고 위험 인자가 적은 이 환자에서는 가능성이 낮습니다. 또한 심전도에서 국소적인 ST 분절 변화나 T파 역전이 보이지 않습니다. 기흉은 갑작스러운 호흡곤란과 가슴통증을 일으킬 수 있지만, 일반적으로 흉부 X-선에서 확인되며 하지 부종이나 D-다이머 상승과는 관련이 없습니다. 급성 심낭염은 전형적으로 앉아있거나 몸을 앞으로 기울일 때 완화되는 가슴통증을 특징으로 하며, 심전도에서 광범위한 ST 분절 상승이 나타납니다. 바이러스성 폐렴은 일반적으로 발열, 기침, 가래 등의 호흡기 증상이 선행되며, 이 환자의 위험 인자와 임상상은 폐색전증에 더 부합합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "The clinical presentation of pulmonary embolism can vary widely, but dyspnea, pleuritic chest pain, and tachycardia are common findings. Risk factors include recent immobilization or surgery, malignancy, pregnancy, oral contraceptive use, and hereditary thrombophilia. The most common source of pulmonary emboli is deep vein thrombosis (DVT) in the lower extremities. The electrocardiogram may show sinus tachycardia, right axis deviation, right bundle branch block, or the classic S1Q3T3 pattern (prominent S wave in lead I, Q wave in lead III, and inverted T wave in lead III), but these findings are neither sensitive nor specific. D-dimer levels are often elevated in patients with pulmonary embolism, but a normal D-dimer level in a patient with low clinical probability can help exclude the diagnosis. Definitive diagnosis requires imaging studies such as CT pulmonary angiography or ventilation-perfusion scanning."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 15,
+  "chief_complaint": "가슴통증/가슴불쾌감",
+  "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "50세 남성이 식사 후 발생하는 가슴 쓰림과 신물이 올라오는 증상을 주소로 내원하였다. 증상은 6개월 전부터 시작되었으며, 최근 2주간 누운 자세에서 악화되고 간헐적으로 가슴 통증이 동반된다고 한다. 환자는 10년 전부터 고혈압으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 신체 검진에서 특이 소견은 없었다. 다음 중 이 환자에게 가장 적절한 초기 접근은?",
+  "exam": "",
+  "options": {
+    "A": "24시간 식도 pH 모니터링",
+    "B": "심전도와 심장 효소 검사",
+    "C": "상부위장관 내시경 검사",
+    "D": "양성자펌프억제제(PPI) 경험적 치료",
+    "E": "운동부하 심전도 검사"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 위식도역류질환(GERD)을 시사하는 전형적인 증상인 가슴 쓰림(heartburn)과 산역류(acid regurgitation)를 호소하고 있습니다. 증상이 식사 후 발생하고 누운 자세에서 악화되는 양상도 GERD에 합당합니다. 전형적인 GERD 증상을 가진 환자에서 가장 적절한 초기 접근법은 양성자펌프억제제(PPI) 경험적 치료입니다. 이는 비용 효율적이며, 진단과 치료를 동시에 제공합니다. 전형적인 GERD 증상을 보이는 환자가 PPI 치료에 반응하면, 추가적인 검사 없이 GERD로 진단할 수 있습니다. 일반적으로 4-8주간의 PPI 치료가 권장되며, 증상이 호전되면 유지 요법을 고려합니다. 상부위장관 내시경 검사는 경고 증상(삼킴 곤란, 삼킴 통증, 체중 감소, 위장관 출혈)이 있거나, 적절한 치료에도 불구하고 증상이 지속되는 환자, 또는 바렛식도의 위험이 있는 환자(만성 GERD 증상, 50세 이상, 남성, 백인, 중심성 비만)에게 권장됩니다. 이 환자는 50세 이상이고 만성 증상이 있어 바렛식도의 위험 요소가 있지만, 초기 접근으로는 경험적 PPI 치료가 더 적절합니다. 24시간 식도 pH 모니터링은 비전형적인 증상을 가진 환자나 표준 치료에 반응하지 않는 환자, 항역류 수술 전 평가 등에서 2차적으로 시행하는 검사입니다. 심전도와 심장 효소 검사는 급성 관상동맥 증후군이 의심될 때 시행하는 검사로, 이 환자의 증상은 전형적인 GERD 증상이며 6개월간 지속되어 왔습니다. 운동부하 심전도 검사는 안정형 협심증이 의심될 때 시행하는 검사로, 이 환자의 증상 양상(식사 후 발생, 누운 자세에서 악화)은 협심증보다 GERD에 더 부합합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "For patients with typical symptoms of gastroesophageal reflux disease (GERD) such as heartburn and regurgitation, an initial trial of empiric therapy with a proton pump inhibitor (PPI) is appropriate and cost-effective. A positive response to PPI therapy confirms the diagnosis of GERD in patients with typical symptoms. Upper gastrointestinal endoscopy is recommended for patients with alarm symptoms (dysphagia, odynophagia, weight loss, gastrointestinal bleeding), those with symptoms that persist despite appropriate therapy, and those at risk for Barrett's esophagus (e.g., chronic GERD symptoms, age >50 years, male sex, white race, central obesity). Ambulatory esophageal pH monitoring is the gold standard for documenting abnormal esophageal acid exposure and establishing a relationship between acid reflux and symptoms, but it is generally reserved for patients with refractory symptoms, atypical presentations, or before consideration of anti-reflux surgery."
+  },
+  "category": "Gastroenterology"
+}
 
