@@ -109,5 +109,64 @@ Each MCQ must be categorized into **exactly one** of the following specialties:
 ## **Output Requirements**
 - Generate **exactly 5** MCQs
 
-Emergency Medicine
-Urology
+
+-------------------------------------------------------------------------------
+### Additional Prompts, if necessary 
+
+1. 질병의 경우의 수가 적은 경우 (https://mcc.ca/objectives/medical-expert/)
+# Try to address a variety of conditions. This time, consider the following conditions that can cause pruritis. 
+<Skin lesions>
+Primary skin disease
+Blisters (e.g., dermatitis herpetiformis)
+Rash (e.g., psoriasis, lichen planus)
+Parasitosis (e.g., scabies, pediculosis)
+Allergy (e.g., eczema, allergic dermatitis, urticaria)
+Arthropod bites
+Factitious dermatitis
+<Non skin lesions>
+Dry skin
+Drugs/Foods
+Obstructive biliary disease
+Uremia/kidney injury
+Haematological
+Polycythemia vera/Microcytic anemia
+Leukemia
+Lymphoma
+Carcinoma/Carcinoid syndrome
+Endocrine (diabetes, thyroid disease)
+Psychiatric/Emotional disorders
+
+2. 문제가 논란의 소지가 있는 경우
+"The question seems to be controversial. Please revise it to make the answer more clear and definite."
+
+3. GPT에서 검토하기 
+**Evaluate the medical accuracy of the following question:** *(User will provide the question).*  
+- Use **only** the sources available in the project file to determine whether the question is medically correct.  
+- Provide a clear explanation for your assessment.  
+- Cite the exact sources and the file name from which the explanation is derived.  
+- Format your response as follows:  
+
+#### **Response Format:**  
+```  
+{
+  "Changes that could be made": "{Specify any necessary modifications to improve accuracy or clarity. If no changes are needed, state 'No changes necessary.'}",
+
+  "Explanation for your change suggestions": "{Provide a clear and concise explanation of why the change is needed or why the question is already accurate.}",
+
+  "Sources": [
+    {
+      "File name": "{Specify the file name}",
+      "Text": "{Quote the exact relevant text from the source.}"
+    },
+    {
+      "File name": "{Specify the file name}",
+      "Text": "{Quote the exact relevant text from the source.}"
+    },
+    {
+      "File name": "{Specify the file name}",
+      "Text": "{Quote the exact relevant text from the source.}"
+    }
+    // Include all relevant sources related to the question, even if there is only one.
+  ]
+}
+```  
