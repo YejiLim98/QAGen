@@ -114,27 +114,8 @@ Each MCQ must be categorized into **exactly one** of the following specialties:
 ### Additional Prompts, if necessary 
 
 1. 질병의 경우의 수가 적은 경우 (https://mcc.ca/objectives/medical-expert/)
-# Try to address a variety of conditions. This time, consider the following conditions that can cause pruritis. 
-<Skin lesions>
-Primary skin disease
-Blisters (e.g., dermatitis herpetiformis)
-Rash (e.g., psoriasis, lichen planus)
-Parasitosis (e.g., scabies, pediculosis)
-Allergy (e.g., eczema, allergic dermatitis, urticaria)
-Arthropod bites
-Factitious dermatitis
-<Non skin lesions>
-Dry skin
-Drugs/Foods
-Obstructive biliary disease
-Uremia/kidney injury
-Haematological
-Polycythemia vera/Microcytic anemia
-Leukemia
-Lymphoma
-Carcinoma/Carcinoid syndrome
-Endocrine (diabetes, thyroid disease)
-Psychiatric/Emotional disorders
+# Create more questions.
+# Try to address a variety of conditions. This time, consider the following conditions that can cause _____. 
 
 2. 문제가 논란의 소지가 있는 경우
 "The question seems to be controversial. Please revise it to make the answer more clear and definite."
@@ -170,3 +151,5 @@ Psychiatric/Emotional disorders
   ]
 }
 ```  
+4. 문제번호 설정하기 
+# Start from question_id ###
