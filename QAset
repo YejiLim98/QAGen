@@ -768,18 +768,56 @@
     "E": "혈소판 기능 검사(PFA-100)"
   },
   "answer": "B",
-  "explanation": "이 환자는 어린 시절부터 비출혈, 쉽게 멍이 드는 증상, 시술 후 과도한 출혈과 같은 출혈 경향이 있으며, 가족력(어머니와 여동생)이 있고, 심한 기침 후 객혈이 발생했습니다. 검사실 소견에서 혈소판 수는 정상이나 aPTT가 경미하게 연장되어 있고, 혼합 검사에서 교정되는 양상을 보입니다. 이러한 임상 양상은 폰빌레브란트병(von Willebrand disease, vWD)을 강하게 시사합니다.
-
-폰빌레브란트병은 von Willebrand 인자(vWF)의 양적 또는 질적 결함으로 인한 가장 흔한 유전성 출혈 질환으로, 상염색체 우성 또는 열성으로 유전됩니다. vWF는 혈관 손상 시 혈소판의 혈관 내피하 조직 부착을 매개하고, 혈액응고인자 VIII의 운반체 역할을 합니다. 따라서 vWF 결함은 일차 지혈(혈소판 기능)과 이차 지혈(응고 인자) 모두에 영향을 미칠 수 있습니다.
-
-폰빌레브란트병의 주요 임상 증상은 점막 출혈(비출혈, 잇몸 출혈, 월경과다), 쉽게 멍이 드는 것, 수술이나 외상 후 과도한 출혈 등이며, 가족력이 있는 경우가 많습니다. 심한 기침이나 구토와 같은 물리적 외력으로 인한 점막 손상으로 객혈이나 위장관 출혈이 발생할 수 있습니다.
-
-진단을 위해서는 von Willebrand 인자 검사가 필수적인데, 이는 vWF 항원(vWF:Ag), vWF 활성도(vWF:RCo), 그리고 vWF 다량체(multimer) 분석을 포함합니다. 또한 혈액응고인자 VIII 활성도 검사도 중요합니다. 
-
-항핵항체(ANA) 검사는 전신성 루푸스 홍반증과 같은 자가면역 질환의 진단에 유용하지만, 이 환자의 임상상은 자가면역 질환보다는 유전성 출혈 질환에 합당합니다. 기관지 내시경 검사는 객혈의 원인이 불명확하거나 기관지 내 병변이 의심될 때 유용하지만, 이 환자는 유전성 출혈 질환의 증거가 뚜렷합니다. 혈액응고인자 VIII 억제인자 검사는 후천성 혈우병 A가 의심될 때 필요하나, 이 환자는 어린 시절부터의 출혈 경향과 가족력이 있어 선천성 질환이 더 의심됩니다. 혈소판 기능 검사(PFA-100)는 혈소판 기능 이상을 선별하는 데 유용하며 폰빌레브란트병에서 이상을 보일 수 있으나, 특이도가 낮아 확진을 위해서는 좀 더 직접적인 vWF 검사가 필요합니다.",
+  "explanation": "이 환자는 어린 시절부터 비출혈, 쉽게 멍이 드는 증상, 시술 후 과도한 출혈과 같은 출혈 경향이 있으며, 가족력(어머니와 여동생)이 있고, 심한 기침 후 객혈이 발생했습니다. 검사실 소견에서 혈소판 수는 정상이나 aPTT가 경미하게 연장되어 있고, 혼합 검사에서 교정되는 양상을 보입니다. 이러한 임상 양상은 폰빌레브란트병(von Willebrand disease, vWD)을 강하게 시사합니다. 폰빌레브란트병은 von Willebrand 인자(vWF)의 양적 또는 질적 결함으로 인한 가장 흔한 유전성 출혈 질환으로, 상염색체 우성 또는 열성으로 유전됩니다. vWF는 혈관 손상 시 혈소판의 혈관 내피하 조직 부착을 매개하고, 혈액응고인자 VIII의 운반체 역할을 합니다. 따라서 vWF 결함은 일차 지혈(혈소판 기능)과 이차 지혈(응고 인자) 모두에 영향을 미칠 수 있습니다. 폰빌레브란트병의 주요 임상 증상은 점막 출혈(비출혈, 잇몸 출혈, 월경과다), 쉽게 멍이 드는 것, 수술이나 외상 후 과도한 출혈 등이며, 가족력이 있는 경우가 많습니다. 심한 기침이나 구토와 같은 물리적 외력으로 인한 점막 손상으로 객혈이나 위장관 출혈이 발생할 수 있습니다. 진단을 위해서는 von Willebrand 인자 검사가 필수적인데, 이는 vWF 항원(vWF:Ag), vWF 활성도(vWF:RCo), 그리고 vWF 다량체(multimer) 분석을 포함합니다. 또한 혈액응고인자 VIII 활성도 검사도 중요합니다. 항핵항체(ANA) 검사는 전신성 루푸스 홍반증과 같은 자가면역 질환의 진단에 유용하지만, 이 환자의 임상상은 자가면역 질환보다는 유전성 출혈 질환에 합당합니다. 기관지 내시경 검사는 객혈의 원인이 불명확하거나 기관지 내 병변이 의심될 때 유용하지만, 이 환자는 유전성 출혈 질환의 증거가 뚜렷합니다. 혈액응고인자 VIII 억제인자 검사는 후천성 혈우병 A가 의심될 때 필요하나, 이 환자는 어린 시절부터의 출혈 경향과 가족력이 있어 선천성 질환이 더 의심됩니다. 혈소판 기능 검사(PFA-100)는 혈소판 기능 이상을 선별하는 데 유용하며 폰빌레브란트병에서 이상을 보일 수 있으나, 특이도가 낮아 확진을 위해서는 좀 더 직접적인 vWF 검사가 필요합니다.",
   "source": {
     "file_name": "Blood Journal",
     "content": "von Willebrand disease (vWD) is the most common inherited bleeding disorder, affecting up to 1% of the general population. It results from quantitative or qualitative defects in von Willebrand factor (vWF), a multimeric glycoprotein essential for platelet adhesion to subendothelial collagen at sites of vascular injury and for carrying factor VIII in plasma. Clinical manifestations typically include mucocutaneous bleeding such as epistaxis, easy bruising, gingival bleeding, menorrhagia, and excessive bleeding after surgery or trauma. Hemoptysis can occur, particularly after episodes of vigorous coughing that cause mucosal injury. Laboratory evaluation should include vWF antigen (vWF:Ag), vWF activity (vWF:RCo), factor VIII activity, and vWF multimer analysis. The disease is classified into three main types: Type 1 (partial quantitative deficiency), Type 2 (qualitative defects with various subtypes), and Type 3 (virtually complete deficiency). Treatment options include desmopressin (DDAVP), which stimulates the release of endogenous vWF in Type 1 and some Type 2 variants, and vWF-containing factor VIII concentrates for more severe cases or when DDAVP is ineffective."
   },
   "category": "Hematology and Oncology"
-}
+},
+{
+  "question_id": 39,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "34세 남성이 1개월 전부터 간헐적인 객혈과 점차 심해지는 호흡곤란을 주소로 내원하였다. 환자는 5년 전부터 알레르기성 비염이 있었으며, 3년 전 기관지 천식으로 진단받고 간헐적으로 흡입기를 사용해왔다. 최근 2주간 38℃의 발열이 지속되었고, 체중이 5kg 감소하였다. 신체 검진에서 활력징후는 혈압 110/70 mmHg, 맥박 92회/분, 호흡수 22회/분이었으며, 양측 폐야에서 수포음과 천명음이 청진되었다. ",
+  "exam": "혈액 검사: 백혈구 12,500/μL(호산구 30%), 헤모글로빈 13.2 g/dL, 혈소판 290,000/μL, ESR 68 mm/hr, CRP 4.5 mg/dL. 흉부 X선: 양측 폐야에 미만성 침윤 및 결절성 병변. 흉부 CT: 양측 폐의 여러 부위에 다발성 결절 및 반점상 경화(patchy consolidation), 일부 공동화(cavitation) 소견. 혈청 검사: PR3-ANCA 음성, MPO-ANCA 음성, IgE 850 IU/mL(정상 <100). 소변 검사: 정상. 기관지 내시경 및 경기관지 폐생검: 기관지 점막의 염증 소견과 폐조직에서 호산구 침윤, 괴사성 육아종성 혈관염",
+  "options": {
+    "A": "알레르기성 기관지폐 아스페르길루스증(Allergic bronchopulmonary aspergillosis)",
+    "B": "과호산구증후군(Hypereosinophilic syndrome)",
+    "C": "호산구성 육아종증 다발혈관염(Eosinophilic granulomatosis with polyangiitis)",
+    "D": "폐포출혈을 동반한 전신성 홍반성 루푸스(SLE with pulmonary hemorrhage)",
+    "E": "급성 호산구성 폐렴(Acute eosinophilic pneumonia)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 기관지 천식의 병력이 있으며, 최근 발열, 체중 감소, 객혈, 호흡곤란 등의 전신 증상이 발생했습니다. 혈액 검사에서 호산구 증가증(호산구 30%)과 염증 지표(ESR, CRP)의 상승이 관찰되었고, 폐 조직 검사에서 호산구 침윤과 괴사성 육아종성 혈관염이 확인되었습니다. 이러한 임상상은 호산구성 육아종증 다발혈관염(EGPA, 이전 명칭: 처그-스트라우스 증후군)에 합당합니다. 호산구성 육아종증 다발혈관염은 소혈관을 침범하는 전신성 혈관염으로, 천식, 호산구 증가증, 폐 침범(폐 침윤, 결절, 공동화), 부비동 이상, 단일 또는 다발 신경병증, 심장 침범 등의 특징을 보입니다. EGPA는 전형적으로 3단계로 진행합니다: 1) 알레르기 단계(천식, 알레르기성 비염), 2) 말초혈액 및 조직의 호산구 증가증, 3) 혈관염 단계(객혈, 신경병증, 피부 발진, 심장 침범 등). 객혈은 EGPA 환자의 약 10-30%에서 발생하며, 폐출혈, 폐경색, 또는 폐 실질 침범으로 인해 나타날 수 있습니다. EGPA의 진단은 천식, 호산구 증가증, 혈관염의 임상 증거, 그리고 조직학적으로 호산구 침윤과 혈관염 확인을 통해 이루어집니다. ANCA는 30-40%의 환자에서만 양성이므로(주로 MPO-ANCA), 음성이라도 진단을 배제할 수 없습니다. 알레르기성 기관지폐 아스페르길루스증(ABPA)은 아스페르길루스에 대한 과민반응으로, 천식, 호산구 증가증, 폐 침윤이 특징이지만, 혈관염이나 전신 증상은 일반적으로 동반되지 않습니다. 과호산구증후군은 지속적이고 현저한 호산구 증가증(>1,500/μL)과 여러 장기의 호산구 침윤이 특징이지만, 혈관염은 보이지 않습니다. 폐포출혈을 동반한 전신성 홍반성 루푸스는 ANA, 항-dsDNA 항체 양성과 신장 침범이 흔하지만, 이 환자에서는 이러한 소견이 없습니다. 급성 호산구성 폐렴은 급성 발병(1-5일)의 발열, 호흡곤란, 폐 침윤과 BAL에서 호산구 증가를 특징으로 하나, 천식 병력이나 혈관염의 증거가 없습니다.",
+  "source": {
+    "file_name": "The New England Journal of Medicine",
+    "content": "Eosinophilic granulomatosis with polyangiitis (EGPA), formerly known as Churg-Strauss syndrome, is a rare systemic vasculitis characterized by asthma, peripheral and tissue eosinophilia, and small-vessel vasculitis. The disease typically progresses through three phases: the prodromal phase (asthma, allergic rhinitis), the eosinophilic phase (peripheral eosinophilia, eosinophilic infiltration of organs), and the vasculitic phase (systemic vasculitis affecting multiple organs). Pulmonary manifestations include transient pulmonary infiltrates, nodules that may cavitate, and alveolar hemorrhage in some cases. Hemoptysis occurs in approximately 10-30% of patients and may result from alveolar hemorrhage, pulmonary infarction, or endobronchial disease. Histopathological findings include eosinophilic infiltration, extravascular granulomas, and necrotizing vasculitis. While ANCA (particularly MPO-ANCA) is positive in 30-40% of patients, its absence does not exclude the diagnosis. Treatment consists of corticosteroids for mild disease and cyclophosphamide or rituximab in addition to corticosteroids for severe or organ-threatening disease. Mepolizumab, an anti-IL-5 monoclonal antibody, has been approved for EGPA and can reduce the frequency of relapses and allow for reduction in corticosteroid doses."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 40,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "65세 남성이 2개월 전부터 시작된 간헐적인 객혈을 주소로 내원하였다. 환자는 40갑년의 흡연력이 있으며, 1년 전부터 기침과 약간의 체중 감소(3kg)가 있었다. 최근 객담량이 증가하였고, 간헐적으로 혈흔이 있는 객담을 호소하였다. 내원 당시 활력징후는 정상이었으며, 신체 검진에서 특이 소견은 관찰되지 않았다. 이 환자에게 다음 진단 검사 중 가장 우선적으로 시행해야 할 것은?",
+  "exam": " 혈액 검사: 백혈구 8,500/μL, 헤모글로빈 13.5 g/dL, 혈소판 265,000/μL, ESR 35 mm/hr, CRP 0.4 mg/dL(정상 <0.5 mg/dL). 흉부 X선: 우상엽에 경계가 불분명한 1.5cm 크기의 결절성 병변. 심전도: 정상 동리듬. 폐기능 검사: FEV1 75%, FVC 82%, FEV1/FVC 0.72",
+  "options": {
+    "A": "객담 세포진 검사",
+    "B": "흉부 CT 검사",
+    "C": "기관지 내시경 검사",
+    "D": "폐관류 스캔",
+    "E": "항핵항체(ANA) 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 장기간의 흡연력(40갑년)을 가진 65세 남성으로, 2개월간의 간헐적인 객혈, 기침, 체중 감소와 같은 증상이 있으며, 흉부 X선에서 우상엽에 경계가 불분명한 결절성 병변이 관찰되었습니다. 이러한 임상 양상은 폐암을 강하게 시사합니다. 객혈은 폐암의 흔한 증상 중 하나로, 특히 중심성 종양에서 더 흔하게 나타납니다. 장기간의 흡연은 폐암의 가장 중요한 위험 인자이며, 기침, 체중 감소, 객혈은 폐암의 주요 증상입니다. 흉부 X선에서 발견된 결절성 병변은 폐암의 가능성을 더욱 높입니다. 이러한 상황에서 가장 우선적으로 시행해야 할 검사는 흉부 CT 검사입니다. 흉부 CT는 흉부 X선보다 더 높은 해상도로 폐 병변을 평가할 수 있어, 결절의 정확한 위치, 크기, 특성(경계, 밀도, 내부 구조), 주변 구조물과의 관계, 림프절 비대 여부 등을 자세히 확인할 수 있습니다. 이는 폐암의 진단, 병기 결정, 치료 계획 수립에 필수적입니다. 또한 CT는 폐암 외 다른 원인(기관지확장증, 결핵, 진균 감염 등)을 감별하는 데도 도움이 됩니다. 객담 세포진 검사는 중심성 폐암의 진단에 도움이 될 수 있으나, 민감도가 낮고(30-70%) 특히 말초성 병변에서는 더욱 낮아집니다. 따라서 CT와 같은 영상 검사 후 시행하는 것이 적절합니다. 기관지 내시경 검사는 중심성 병변이 의심되거나, CT에서 확인된 병변의 조직 검사가 필요할 때 유용하지만, 초기 평가에서는 CT를 먼저 시행하는 것이 일반적입니다. 폐관류 스캔은 주로 폐색전증 진단에 사용되며, 이 환자의 임상 양상은 폐색전증보다는 폐암에 더 합당합니다. 항핵항체(ANA) 검사는 자가면역 질환의 선별 검사로, 이 환자의 증상과 임상 소견을 설명하기에는 적절하지 않습니다.",
+  "source": {
+    "file_name": "American College of Chest Physicians Evidence-Based Clinical Practice Guidelines",
+    "content": "For patients with a radiographic abnormality suspicious for lung cancer, chest CT should be performed before other diagnostic procedures. Chest CT provides detailed information about the size, location, and characteristics of pulmonary nodules or masses, helps in assessing mediastinal lymph node involvement, and may identify additional lesions not visible on chest radiographs. For patients with suspected lung cancer based on clinical and radiographic findings, the evaluation typically follows a stepwise approach: 1) chest CT with IV contrast to further characterize the lesion and assess mediastinal lymph nodes and distant disease; 2) functional imaging (e.g., PET-CT) for suspected malignant lesions; and 3) tissue sampling guided by the most accessible site of suspected disease. While sputum cytology is non-invasive and may occasionally establish a diagnosis in central lesions, its sensitivity is limited (30-70%), and negative results do not exclude malignancy. Bronchoscopy is most useful for centrally located lesions or after CT has identified a specific target for biopsy. The diagnostic approach should be individualized based on the patient's clinical presentation, comorbidities, and the radiographic characteristics of the lesion."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+
+
+
+
