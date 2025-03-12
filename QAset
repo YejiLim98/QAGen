@@ -1026,7 +1026,118 @@
     "content": "The mainstay of therapy for IgA nephropathy with proteinuria ≥0.5-1g/day is renin-angiotensin system blockade with either angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin II receptor blockers (ARBs). These agents have been shown to reduce proteinuria and slow the progression of kidney disease in IgA nephropathy. Target blood pressure should be <130/80 mmHg. Optimal supportive care also includes dietary sodium restriction, smoking cessation, weight optimization, and cholesterol control. The role of immunosuppressive therapy remains controversial. Systemic corticosteroids may be beneficial in patients with persistent proteinuria >1g/day despite optimal supportive care and preserved kidney function (eGFR >50ml/min/1.73m²). However, the STOP-IgAN trial showed limited additional benefit of immunosuppression over optimal supportive care alone, and the TESTING study raised concerns about the risk of serious adverse events with high-dose steroids. Combined immunosuppressive therapy with cyclophosphamide and corticosteroids may be considered in patients with rapidly progressive crescentic IgA nephropathy. Mycophenolate mofetil has shown inconsistent results in IgA nephropathy and is not recommended as first-line therapy. Omega-3 fatty acids (fish oil) were previously suggested based on small studies, but larger randomized controlled trials have not shown significant benefit, and they are no longer routinely recommended."
   },
   "category": "Nephrology"
+}, 
+{
+  "question_id": 51,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압을 갖고 있는 사람에게 건강 상태와 동반질환의 유무에 따라 비약물요법과 함께 적합한 항고혈압약제를 선택할 수 있다.",
+  "question": "45세 여성이 3개월 전부터 지속된 혈압 상승으로 내원하였다. 외래에서 측정한 혈압은 154/98 mmHg였다. 환자는 5년 전 제왕절개로 출산하였으며, 당시 임신성 고혈압 진단을 받았으나 출산 후 정상화되었다. 최근 직장 스트레스로 체중이 6kg 증가하였고, 운동은 거의 하지 않는다고 한다. 환자는 현재 8주 째 기침이 지속되고 있으며, 알레르기성 비염으로 간헐적으로 항히스타민제를 복용 중이다. 신체 검사에서 체질량지수는 26.3 kg/m², 심장 및 폐 청진에서 특이 소견은 없었다. 이 환자에게 가장 적절한 초기 항고혈압제는?",
+  "exam": "혈액 검사: 공복혈당 102 mg/dL, 총 콜레스테롤 210 mg/dL, LDL 콜레스테롤 132 mg/dL, HDL 콜레스테롤 52 mg/dL, 중성지방 130 mg/dL, 크레아티닌 0.8 mg/dL, 칼륨 4.2 mEq/L, 소변 단백/크레아티닌 비율 0.15 mg/mg. 심전도: 정상 동율동이었고, 흉부 X선 검사: 특이 소견은 없었다.",
+  "options": {
+    "A": "안지오텐신 전환효소 억제제(ACEI)",
+    "B": "안지오텐신 II 수용체 차단제(ARB)",
+    "C": "칼슘 통로 차단제(CCB)",
+    "D": "베타 차단제",
+    "E": "이뇨제(티아지드계)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 1단계 고혈압(혈압 140-159/90-99 mmHg)으로, 약물치료가 필요한 상태입니다. 고혈압 치료제 선택 시 환자의 연령, 인종, 동반질환, 약물 부작용 등을 고려해야 합니다. 이 환자는 8주간 지속된 기침을 호소하고 있으며, 이는 안지오텐신 전환효소 억제제(ACEI)의 주요 부작용인 마른기침과 혼동될 수 있고, ACEI 사용 시 기침이 더 악화될 수 있습니다. ACEI에 의한 기침은 약 5-35%의 환자에서 발생하며, 일반적으로 약물 중단 후 1-2주 내에 호전됩니다. 또한 환자는 임신성 고혈압 과거력이 있어 향후 심혈관질환 위험이 증가할 수 있습니다. 따라서 이 환자에게는 칼슘 통로 차단제(CCB)가 가장 적절한 초기 약물입니다. CCB는 말초혈관 저항을 감소시켜 혈압을 낮추며, 특히 여성과 비만 환자에서 효과적입니다. 또한 대사적으로 중립적이어서 당뇨병이나 이상지질혈증 위험이 없고, 기침 부작용도 없습니다. 안지오텐신 II 수용체 차단제(ARB)는 ACEI와 달리 기침 부작용은 적지만, 임신 계획이 있는 가임기 여성에서는 주의가 필요합니다. 베타 차단제는 초기 치료로는 권장되지 않으며, 관상동맥질환이나 심부전이 동반된 경우에 사용됩니다. 티아지드계 이뇨제도 좋은 선택지가 될 수 있으나, 이 환자의 기침 증상과 잠재적 대사 부작용을 고려할 때 CCB가 더 적합합니다.",
+  "source": {
+    "file_name": "2018 ESC/ESH Guidelines for the management of arterial hypertension",
+    "content": "The main contraindications to the use of ACE inhibitors are pregnancy, a history of angioedema, hyperkalaemia (potassium >5.5 mmol/L), and bilateral renal artery stenosis. The most common side effect of ACE inhibitors is cough, which can occur in 5–35% of patients. Calcium channel blockers (CCBs) are among the most widely used antihypertensive drugs. They reduce peripheral resistance and are metabolically neutral, thus being particularly suitable for patients with metabolic disorders, such as diabetes and dyslipidemia. CCBs effectively lower BP, have a low incidence of side effects, and are especially effective in patients with increased arterial stiffness, isolated systolic hypertension, and pregnancy."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 52,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압으로 인한 응급치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "62세 남성이 2시간 전부터 시작된 심한 두통, 구토, 시야 흐림을 주소로 응급실에 내원하였다. 환자는 10년 전 고혈압을 진단받았으나 약물 복용을 중단한 상태였다. 내원 시 혈압은 220/130 mmHg, 맥박 96회/분, 호흡수 22회/분이었다. 의식은 명료하였으나 간헐적인 지남력 장애를 보였다. 신경학적 검사에서 양측 유두부종과 함께 우측 상지의 경미한 위약감이 관찰되었다. 심전도에서 좌심실 비대 소견이 보였다. 응급 뇌 CT 검사에서 뇌내 출혈은 없었으나, 후두엽 주변으로 저음영이 관찰되었다. 이 환자의 가장 적절한 초기 처치는?",
+  "exam": "혈액 검사: BUN 28 mg/dL, 크레아티닌 1.4 mg/dL, 소변 검사에서 단백뇨 2+, 적혈구 5-10/HPF. 흉부 X선 검사: 심비대 소견. 뇌 MRI 확산강조영상(DWI): 후두엽과 두정엽에 다발성 고신호 병변.",
+  "options": {
+    "A": "정맥 내 니트로프루시드 투여",
+    "B": "경구 니페디핀 캡슐 투여",
+    "C": "정맥 내 라베탈롤 투여",
+    "D": "정맥 내 푸로세미드 투여",
+    "E": "혈압을 급격히 떨어뜨리지 않고 관찰"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 고혈압성 응급증(hypertensive emergency)에 해당합니다. 고혈압성 응급증은 표적 장기 손상을 동반한 급격한 혈압 상승으로 정의되며, 이 환자의 경우 두통, 시야 장애, 의식 변화, 편측 위약감, 유두부종과 함께 뇌 영상에서 후뇌증(posterior reversible encephalopathy syndrome, PRES)이 의심되는 소견이 있어 고혈압성 뇌병증으로 진단할 수 있습니다. 고혈압성 응급증에서는 즉각적인 혈압 조절이 필요하며, 일반적으로 첫 1시간 내에 평균 동맥압을 20-25% 정도 감소시키는 것을 목표로 합니다. 라베탈롤은 알파 및 베타 차단 효과를 모두 가진 약물로, 뇌혈류를 유지하면서 혈압을 안전하게 감소시키므로 고혈압성 뇌병증에 적합합니다. 정맥 내 라베탈롤은 작용 시간이 빠르고 용량 조절이 용이하며, 특히 뇌혈관 자동조절(cerebral autoregulation)이 손상된 상태에서도 상대적으로 안전하게 사용할 수 있습니다. 니트로프루시드는 강력하고 빠른 혈관확장제로 효과적이나, 뇌내압 상승 위험과 시안화물 중독 가능성이 있어 신중히 사용해야 합니다. 경구 니페디핀 캡슐은 혈압 강하 속도를 예측하기 어렵고 급격한 혈압 감소로 뇌혈류가 감소할 위험이 있어 고혈압 응급증에서는 금기입니다. 푸로세미드는 이뇨제로 고혈압 응급증의 일차 치료제로 적합하지 않습니다. 고혈압 응급증에서는 혈압을 조절하지 않고 관찰하는 것은 표적 장기 손상이 진행될 위험이 있어 적절하지 않습니다.",
+  "source": {
+    "file_name": "European Heart Journal, 2018 ESC/ESH Guidelines for the management of arterial hypertension",
+    "content": "In hypertensive emergencies, characterized by severe hypertension with acute HMOD, BP should be reduced immediately in a controlled manner to avoid or limit further organ damage. Initial therapy with intravenous antihypertensive drugs under close monitoring in an intensive care setting is recommended. Labetalol, which blocks both alpha and beta-receptors, is preferred for hypertensive emergencies in the setting of pregnancy or hypertensive encephalopathy. It leads to a more predictable fall in BP than other parenteral agents and does not appear to increase intracranial pressure. The goal of treatment should be a reduction of the MAP by 20-25% within the first hour and then a gradual reduction over the next 24-48 hours. Aggressive precipitous drops in blood pressure greater than 25% should be avoided as this may precipitate cerebral, renal, or coronary ischemia."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 53,
+  "chief_complaint": "고혈압",
+  "purpose": "이차고혈압을 갖고 있는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "32세 여성이 3개월 전부터 시작된 간헐적 두통, 심계항진, 발한으로 내원하였다. 환자는 6개월 전 건강검진에서 고혈압을 처음 발견하였으며, 현재 암로디핀 5mg을 복용 중이나 혈압 조절이 잘 되지 않는다고 한다. 증상은 갑자기 발생하여 30분에서 1시간 정도 지속되다가 저절로 호전되며, 특히 운동이나 스트레스 후에 악화된다고 한다. 내원 당시 혈압은 165/100 mmHg, 맥박 95회/분이었다. 신체 검진에서 경도의 발한과 손떨림이 관찰되었고, 복부에서 잡음은 들리지 않았다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "24시간 소변 검사에서 메타네프린 950 μg/24hr(정상: <400 μg/24hr), 노르메타네프린 1200 μg/24hr(정상: <900 μg/24hr). 혈장 노르에피네프린 1250 pg/mL(정상: 70-750 pg/mL), 에피네프린 180 pg/mL(정상: <70 pg/mL). 혈액 검사에서 나트륨 142 mEq/L, 칼륨 3.7 mEq/L, 혈당 126 mg/dL. 복부 CT 검사: 우측 부신에 3.5cm 크기의 종괴가 발견됨. ",
+  "options": {
+    "A": "수술 전 알파 차단제 투여 후 부신절제술",
+    "B": "베타 차단제 단독 투여 후 부신절제술",
+    "C": "부신절제술 없이 알파 및 베타 차단제 병합 요법",
+    "D": "부신절제술 없이 칼슘 통로 차단제 증량",
+    "E": "방사선 동위원소 치료"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 임상 양상(발작적인 두통, 심계항진, 발한), 영상 검사(부신 종괴), 생화학적 검사(카테콜아민 및 대사산물 상승)를 종합할 때 갈색세포종(pheochromocytoma)으로 진단할 수 있습니다. 갈색세포종은 카테콜아민을 분비하는 크롬친화성 세포에서 발생하는 종양으로, 이차성 고혈압의 중요한 원인 중 하나입니다. 갈색세포종의 표준 치료는 수술적 제거(부신절제술)입니다. 그러나 수술 전 적절한 약물 치료를 통한 혈압 조절과 혈관 내 용적 확보가 매우 중요합니다. 수술 중 종양 조작으로 인한 급격한 카테콜아민 분비로 고혈압 위기, 부정맥, 심근 손상 등이 발생할 수 있기 때문입니다. 수술 전 처치의 첫 단계는 알파 차단제(phenoxybenzamine, doxazosin 등) 투여입니다. 알파 차단은 카테콜아민에 의한 혈관 수축을 차단하여 혈압을 안정화시키고, 혈관 내 용적을 확보하는 데 도움이 됩니다. 일반적으로 수술 7-14일 전부터 시작하여 점진적으로 용량을 증가시킵니다. 베타 차단제는 알파 차단이 충분히 이루어진 후에만 시작해야 하며, 단독 사용 시 알파 자극에 의한 혈관 수축이 더 악화될 수 있어 위험합니다. 알파 및 베타 차단제 병합 요법이나 칼슘 통로 차단제만으로는 근본적인 치료가 되지 않으며, 장기간 약물 치료보다는 수술적 제거가 권장됩니다. 갈색세포종은 방사선 치료에 반응하지 않으므로 방사선 동위원소 치료는 적절하지 않습니다. 단, 악성 갈색세포종의 경우 131I-MIBG 치료가 고려될 수 있습니다.",
+  "source": {
+    "file_name": "Williams Textbook of Endocrinology",
+    "content": "Preoperative medical management is crucial to minimize perioperative cardiovascular complications. The mainstay of preoperative management is alpha-adrenergic blockade, which should be initiated 7-14 days before surgery. Phenoxybenzamine, a nonselective, noncompetitive, long-acting alpha-blocker, is commonly used. Selective alpha-1 blockers (e.g., doxazosin, prazosin) are alternatives. Beta-blockers should never be initiated before alpha-blockade is established because unopposed alpha-adrenergic receptor stimulation can lead to hypertensive crisis. After adequate alpha-blockade, beta-blockers may be added to control tachycardia or arrhythmias. Surgical resection is the definitive treatment for pheochromocytoma. Laparoscopic adrenalectomy is the preferred surgical approach for most pheochromocytomas."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 54,
+  "chief_complaint": "고혈압",
+  "purpose": "이차고혈압을 갖고 있는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "48세 여성이 지난 6개월 동안 점점 심해지는 고혈압과 저칼륨혈증으로 내원하였다. 환자는 3년 전 고혈압을 진단받고 암로디핀 10mg, 라미프릴 10mg, 히드로클로로티아지드 25mg을 복용 중이지만 혈압이 지속적으로 150/95 mmHg 이상 유지되고 있다. 환자는 가끔 근육 약화와 경련을 느낀다고 호소한다. 약물 순응도는 양호하며, 최근 체중이 3kg 증가했다고 한다. 신체 검진에서 혈압 162/98 mmHg, 맥박 78회/분, 체질량지수 27.5 kg/m²였으며 얼굴이 약간 둥근 편이었다. 복부, 흉부, 심장 검사에서 특이소견은 없었다. 이 환자의 진단 및 치료에 가장 적절한 다음 단계는?",
+  "exam": "혈액 검사: 나트륨 143 mEq/L, 칼륨 3.1 mEq/L, 염화물 104 mEq/L, 중탄산염 30 mEq/L, 공복혈당 112 mg/dL, BUN 15 mg/dL, 크레아티닌 0.9 mg/dL. 24시간 소변 검사: 칼륨 배설량이 증가됨. 혈장 알도스테론/레닌 활성도 비: 35(정상 <20). 생리식염수 부하 검사 후에도 알도스테론이 억제되지 않았음.",
+  "options": {
+    "A": "스피로놀락톤 추가 후 추적 관찰",
+    "B": "부신 CT 검사 후 편측성이 확인되면 부신절제술",
+    "C": "메티라폰 투여 후 추적 관찰",
+    "D": "도파민 작용제(브로모크립틴) 투여",
+    "E": "페녹시벤자민 투여 후 부신절제술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 치료 저항성 고혈압(3가지 이상의 약제에도 조절되지 않는), 저칼륨혈증, 대사성 알칼리증(중탄산염 상승), 높은 알도스테론/레닌 비율, 생리식염수 부하 검사에서 알도스테론 억제 실패 등의 소견을 보이고 있어 원발성 알도스테론증(primary aldosteronism)을 강하게 시사합니다. 원발성 알도스테론증은 부신에서 자율적인 알도스테론 과잉 생산으로 인해 발생하며, 치료 저항성 고혈압의 중요한 원인 중 하나입니다. 주요 원인으로는 알도스테론 분비 선종(Aldosterone-producing adenoma, APA)과 양측성 부신 과형성(Bilateral adrenal hyperplasia, BAH)이 있습니다. 원발성 알도스테론증이 생화학적으로 확인된 후에는 알도스테론 과잉 생산의 원인이 편측성인지(선종), 양측성인지(과형성) 확인하기 위한 검사가 필요합니다. 부신 CT는 부신 종양을 확인하는 일차적인 영상 검사입니다. 만약 CT에서 명확한 편측성 병변(일반적으로 1cm 이상)이 확인되고, 환자가 40세 미만이면 직접 수술적 치료를 고려할 수 있습니다. 그러나 많은 경우, 특히 40세 이상이거나 CT 결과가 모호한 경우에는 부신정맥 샘플링(Adrenal vein sampling, AVS)을 통해 편측성 여부를 확인합니다. 편측성 알도스테론 분비 선종으로 확인된 경우, 복강경 부신절제술이 근치적 치료법이며, 70-90%의 환자에서 고혈압이 호전되거나 완치될 수 있습니다. 반면, 양측성 부신 과형성으로 진단된 경우에는 미네랄코르티코이드 수용체 길항제(스피로놀락톤, 에플레레논)를 이용한 약물 치료가 표준 치료입니다. 따라서 이 환자에게는 부신 CT 검사를 시행하고, 편측성이 확인되면 부신절제술을 시행하는 것이 가장 적절합니다. 스피로놀락톤 추가는 원발성 알도스테론증의 약물 치료로 적절하지만, 편측성 질환의 경우 수술적 치료가 더 효과적이므로 이는 진단적 평가 이후의 단계입니다. 메티라폰은 쿠싱 증후군 치료에 사용되며, 브로모크립틴은 고프로락틴혈증 치료에 사용됩니다. 페녹시벤자민은 갈색세포종 수술 전 처치에 사용되는 약물로, 이 환자의 임상 양상과 맞지 않습니다.",
+  "source": {
+    "file_name": "Journal of Clinical Endocrinology & Metabolism",
+    "content": "The diagnostic approach to primary aldosteronism involves a three-step process: case detection, case confirmation, and subtype classification. For patients with confirmed primary aldosteronism, adrenal CT is recommended as the initial study and should be performed with thin cuts (2.5-3 mm) to detect small adrenal nodules. However, CT alone cannot reliably distinguish between aldosterone-producing adenomas and bilateral hyperplasia in many cases. Adrenal vein sampling (AVS) is the gold standard test to differentiate unilateral from bilateral disease. For patients with unilateral aldosterone-producing adenomas, laparoscopic adrenalectomy is recommended, which results in normalization of hypokalemia in virtually all patients and significant improvement or cure of hypertension in 30-60% of patients. Medical treatment with mineralocorticoid receptor antagonists (spironolactone or eplerenone) is recommended for patients with bilateral adrenal hyperplasia."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 55,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압을 갖고 있는 사람에게 건강 상태와 동반질환의 유무에 따라 비약물요법과 함께 적합한 항고혈압약제를 선택할 수 있다.",
+  "question": "67세 남성이 3년 전 진단받은 고혈압으로 내원하였다. 환자는 암로디핀 5mg을 복용 중이나 최근 측정한 혈압이 145/90 mmHg로 목표 혈압에 도달하지 못하고 있다. 환자는 2년 전 심근경색으로 관상동맥 스텐트 삽입술을 받았으며, 현재 아스피린과 아토르바스타틴을 복용 중이다. 6개월 전 시행한, 심초음파에서 좌심실 박출률 38%로 감소되어 있었다. 환자는 간헐적인 발목 부종을 호소하며, 약간의 호흡곤란이 있으나 기좌호흡은 없다고 한다. 신체 검진에서 혈압 148/88 mmHg, 맥박 78회/분, 체중 82kg, 키 175cm였다. 경정맥 확장은 없었으며, 폐 청진에서 양쪽 폐저에서 미세한 수포음이 들렸다. 심장 청진에서 S3 갤럽이 들렸으며, 양쪽 발목에 경미한 함요 부종이 있었다. 이 환자에게 가장 적절한 추가 약물 요법은?",
+  "exam": "혈액 검사: BUN 28 mg/dL, 크레아티닌 1.2 mg/dL(eGFR 60 mL/min/1.73m²), 나트륨 138 mEq/L, 칼륨 4.3 mEq/L, 혈당 110 mg/dL. NT-proBNP는 550 pg/mL(정상 <125 pg/mL). 심전도: 좌심실 비대 소견과 Q파가 II, III, aVF 유도에서 관찰됨. 흉부 X선 검사: 경미한 심비대가 있었으나 폐울혈 소견은 뚜렷하지 않았음.",
+  "options": {
+    "A": "안지오텐신 전환효소 억제제(ACEI)",
+    "B": "베타 차단제",
+    "C": "알파 차단제",
+    "D": "칼슘 통로 차단제 증량",
+    "E": "티아지드계 이뇨제"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 고혈압, 관상동맥질환(심근경색 과거력), 좌심실 수축기능 저하(좌심실 박출률 38%), 경미한 심부전 증상(발목 부종, 호흡곤란, S3 갤럽)을 가지고 있는 복합 심혈관질환자입니다. 현재 암로디핀 단독 요법으로 목표 혈압에 도달하지 못하고 있어 추가 약물이 필요합니다. 고혈압과 심부전이 동반된 경우, 레닌-안지오텐신-알도스테론 시스템(RAAS) 억제제인 안지오텐신 전환효소 억제제(ACEI) 또는 안지오텐신 수용체 차단제(ARB)가 일차 선택약입니다. 특히 ACEI는 고혈압, 관상동맥질환, 심부전이 동반된 환자에서 다음과 같은 이점이 있습니다: 1) 혈압 강하 효과, 2) 좌심실 재형성 억제, 3) 심혈관 사건 및 사망률 감소, 4) 심부전 증상 개선 및 입원율 감소. 여러 대규모 임상 연구들(SOLVD, SAVE, TRACE 등)에서 좌심실 기능 저하가 있는 환자에서 ACEI 사용 시 생존율 향상이 증명되었습니다. 베타 차단제도 심부전 환자에게 유익하나, 좌심실 기능 저하가 있는 환자에서는 혈역학적으로 안정된 상태에서 신중히 시작해야 하며, ACEI 투여 후 추가하는 것이 일반적입니다. 알파 차단제는 심부전 환자에서 체액 저류를 악화시킬 수 있어 일차 약제로 권장되지 않습니다. 칼슘 통로 차단제 중 디하이드로피리딘계(암로디핀 등)는 심부전 환자에서 대체로 안전하나, 비디하이드로피리딘계(베라파밀, 딜티아젬)는 수축기 심부전에서 금기입니다. 증량보다는 작용기전이 다른 약물 추가가 더 효과적입니다. 티아지드계 이뇨제는 경증 심부전에서 효과적일 수 있으나, 중등도 이상의 심부전에서는 루프 이뇨제가 더 효과적이며, 이 환자의 경우 RAAS 억제제가 우선적으로 필요합니다.",
+  "source": {
+    "file_name": "2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure",
+    "content": "ACE inhibitors have been shown to reduce morbidity and mortality in patients with HFrEF. Treatment with an ACE inhibitor should be initiated at low doses, followed by gradual dose increases if lower doses have been well tolerated. The use of ACE inhibitors is beneficial for patients with prior or current symptoms of HFrEF to reduce morbidity and mortality. ACE inhibitors should also be prescribed to asymptomatic patients with reduced LVEF to prevent HF, HF hospitalization, and death. In patients with chronic HFrEF who are intolerant to ACE inhibitors due to cough or angioedema, ARBs are recommended to reduce morbidity and mortality. The addition of a beta-blocker is recommended for all patients with HFrEF, unless contraindicated, to reduce morbidity and mortality. Beta-blockers are initiated at low doses and gradually uptitrated to target doses or maximally tolerated doses."
+  },
+  "category": "Cardiology"
 }
+
+
+
+
+
+
 
 
 
