@@ -1131,7 +1131,29 @@
     "content": "ACE inhibitors have been shown to reduce morbidity and mortality in patients with HFrEF. Treatment with an ACE inhibitor should be initiated at low doses, followed by gradual dose increases if lower doses have been well tolerated. The use of ACE inhibitors is beneficial for patients with prior or current symptoms of HFrEF to reduce morbidity and mortality. ACE inhibitors should also be prescribed to asymptomatic patients with reduced LVEF to prevent HF, HF hospitalization, and death. In patients with chronic HFrEF who are intolerant to ACE inhibitors due to cough or angioedema, ARBs are recommended to reduce morbidity and mortality. The addition of a beta-blocker is recommended for all patients with HFrEF, unless contraindicated, to reduce morbidity and mortality. Beta-blockers are initiated at low doses and gradually uptitrated to target doses or maximally tolerated doses."
   },
   "category": "Cardiology"
+}, 
+{
+  "question_id": 56,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압을 갖고 있는 사람에게서 심한 정도, 표적 장기 손상, 다른 심혈관질환 위험인자, 원인질환 등을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "24세 여성이 2주 전부터 시작된 두통과 어지러움으로 내원하였다. 환자는 평소 건강했으며, 특별한 과거력이나 가족력은 없었다. 신체 검진에서 혈압은 상지에서 170/110 mmHg, 하지에서 100/70 mmHg로 측정되었다. 상지 맥박은 88회/분이었고, 하지 맥박은 약하게 촉지되었다. 심장 청진에서 흉골 좌연과 등쪽에서 수축기 잡음이 들렸고, 복부에서 잡음이 청진되었다. 대퇴부, an popliteal, posterior tibial, dorsalis pedis 동맥의 맥박이 약했다. 이 환자의 고혈압 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: BUN 18 mg/dL, 크레아티닌 0.9 mg/dL, 나트륨 140 mEq/L, 칼륨 4.0 mEq/L였다. 심전도: 좌심실 비대 소견이 관찰되었다. 흉부 X선 검사: 심비대와 함께 특징적인 '3' 또는 'E' 모양의 대동맥 윤곽이 보였다. 경흉부 심초음파 검사: 좌심실 비대와 수축기능 정상 소견이 관찰되었으며, 하행 흉부 대동맥의 좁아진 부위가 의심되었다.",
+  "options": {
+    "A": "대동맥 축착증",
+    "B": "신동맥 협착증",
+    "C": "페오크로모사이토마",
+    "D": "원발성 알도스테론증",
+    "E": "신장 실질 질환"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 대동맥 축착증(coarctation of the aorta)의 전형적인 임상 양상을 보이고 있습니다. 대동맥 축착증은 대개 하행 흉부 대동맥의 협착으로, 선천성 심장 질환 중 하나입니다. 특징적인 소견으로는 1) 상하지 혈압 차이(상지 고혈압, 하지 저혈압), 2) 상하지 맥박 차이(상지 정상, 하지 약함 또는 지연), 3) 특징적인 흉부 X선 소견('3' 또는 'E' 모양의 대동맥 윤곽, 늑골 절흔), 4) 협착 부위와 측부 순환에 의한 수축기 잡음 등이 있습니다. 젊은 환자에서 발견된 고혈압, 특히 상하지 혈압 차이가 있는 경우 대동맥 축착증을 의심해야 합니다. 진단은 심초음파, CT 혈관조영술, MR 혈관조영술 등으로 확인할 수 있으며, 치료는 풍선 혈관성형술, 스텐트 삽입술, 또는 수술적 교정이 필요합니다. 치료하지 않을 경우 심부전, 대동맥류, 대동맥 파열, 감염성 심내막염, 뇌내 출혈 등의 합병증이 발생할 수 있으며, 평균 생존 연령은 약 35세입니다. 신동맥 협착증은 복부 잡음과 함께 신기능 저하, 저칼륨혈증 등이 나타날 수 있으나, 상하지 혈압 차이는 일반적이지 않습니다. 페오크로모사이토마는 발작적인 고혈압, 두통, 발한, 심계항진 등이 특징이나, 상하지 혈압 차이는 없습니다. 원발성 알도스테론증은 저칼륨혈증과 대사성 알칼리증을 동반한 고혈압이 특징이나, 상하지 혈압 차이는 없습니다. 신장 실질 질환은 단백뇨, 혈뇨, 신기능 저하 등이 동반될 수 있으나, 상하지 혈압 차이는 일반적이지 않습니다.",
+  "source": {
+    "file_name": "Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine",
+    "content": "Coarctation of the aorta should be suspected in any young patient with hypertension. The classic finding is a difference in blood pressure between the upper and lower extremities, with higher pressures in the arms than in the legs. A systolic pressure gradient of more than 20 mmHg is considered significant. Physical examination may reveal diminished or delayed femoral pulses compared with the brachial pulse ('radio-femoral delay'). A systolic murmur may be heard over the left sternal border and in the back, particularly over the coarctation site. Chest radiography may show a '3' sign or an 'E' sign of the aortic contour, and rib notching due to collateral circulation through the intercostal arteries. Echocardiography can visualize the site of coarctation and assess the pressure gradient across it. CT or MR angiography provides excellent anatomic definition of the coarctation and associated abnormalities. Treatment options include balloon angioplasty with or without stenting and surgical repair."
+  },
+  "category": "Cardiology"
 }
+
 
 
 
