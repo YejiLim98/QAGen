@@ -463,27 +463,6 @@
 {
   "question_id": 24,
   "chief_complaint": "가정폭력/학대",
-  "purpose": "가정폭력/학대가 의심되는 피해자에게 필요한 가정 내외의 자원 활용방법과 법적, 윤리적 대응방법을 선택할 수 있다.",
-  "question": "75세 여성이 요양보호사에 의해 병원에 내원하였다. 환자는 알츠하이머 치매로 진단받았으며, 6개월 전부터 아들과 며느리가 돌보고 있다. 요양보호사는 최근 3주간 방문 시 환자가 점점 더 쇠약해지고, 체중이 감소했으며, 기저귀가 자주 교체되지 않은 상태였다고 보고한다. 신체 진찰에서 환자는 탈수 상태였으며, 둔부와 천골 부위에 2단계 욕창이 관찰되었다. 영양실조 소견과 함께 몸에서 소변 냄새가 났다. 아들은 병원에 동행하지 않았으며, 전화 통화에서 '바빠서 돌볼 시간이 없었다'고 말했다. 환자는 의사소통이 제한적이지만, 며느리가 자신을 욕하고 음식을 주지 않는다는 말을 반복한다. 이 사례에서 의사의 적절한 대응으로 가장 적절한 것은?",
-  "exam": "혈액검사에서 헤모글로빈 10.5 g/dL, 알부민 2.8 g/dL, BUN 35 mg/dL, 크레아티닌 1.3 mg/dL이다.",
-  "options": {
-    "A": "가족에게 연락하여 더 나은 돌봄을 제공하도록 교육하고 퇴원 계획을 세운다.",
-    "B": "노인복지법에 따라 노인학대 의심 사례로 신고하고, 사회복지사에게 의뢰한다.",
-    "C": "환자의 치매로 인한 발언은 신뢰할 수 없으므로, 의학적 치료만 제공한다.",
-    "D": "아들과 며느리에게 직접 학대 여부를 확인하고 자백을 유도한다.",
-    "E": "환자의 상태가 호전된 후 가족 상담을 통해 상황을 개선하도록 한다."
-  },
-  "answer": "B",
-  "explanation": "이 사례는 노인학대, 특히 방임(neglect)이 강하게 의심되는 상황입니다. 환자는 탈수, 영양실조, 욕창, 부적절한 위생 관리 등 방임의 명확한 징후를 보이고 있습니다. 노인복지법(제39조의6)에 따르면 의료인은 직무상 노인학대를 알게 된 경우 즉시 신고할 의무가 있습니다. 따라서 이 사례는 노인보호전문기관이나 수사기관에 신고해야 하며, 환자의 즉각적인 보호와 지원을 위해 사회복지사에게 의뢰하는 것이 적절합니다. 또한 환자의 탈수, 욕창, 영양실조에 대한 의학적 치료도 함께 제공해야 합니다. 가족에게 연락하여 더 나은 돌봄을 교육하는 것(A)은 현재 학대가 의심되는 상황에서 환자를 같은 환경에 다시 노출시키는 것으로, 환자의 안전을 보장할 수 없습니다. 환자의 발언을 무시하고 의학적 치료만 제공하는 것(C)은 학대 의심 상황에서 신고 의무를 다하지 않는 것이며, 치매 환자도 학대에 대한 보고를 할 수 있음을 간과한 것입니다. 가족에게 직접 학대 여부를 확인하고 자백을 유도하는 것(D)은 의료인의 역할을 벗어나며, 가족의 방어적 반응을 초래할 수 있습니다. 상태 호전 후 가족 상담을 통한 개선(E)은 현재의 학대 의심 상황에 대한 즉각적인 개입이 이루어지지 않아 적절하지 않습니다.",
-  "source": {
-    "file_name": "노인복지법",
-    "content": "제39조의6(노인학대 신고의무와 절차) ① 누구든지 노인학대를 알게 된 때에는 노인보호전문기관 또는 수사기관에 신고할 수 있다. ② 다음 각 호의 어느 하나에 해당하는 사람은 그 직무상 노인학대를 알게 된 때에는 즉시 노인보호전문기관 또는 수사기관에 신고하여야 한다. 5. 「의료법」 제3조제1항의 의료기관에서 의료업을 행하는 의료인 및 의료기관의 장"
-  },
-  "category": "Geriatric Medicine"
-}, 
-{
-  "question_id": 25,
-  "chief_complaint": "가정폭력/학대",
   "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
   "question": "6개월 된 여아가 갑작스러운 의식 저하와 구토를 주소로 응급실에 내원하였다. 환아의 아버지는 아이가 오늘 오후에 평소와 같이 잘 놀다가 갑자기 구토를 하고 의식이 저하되었다고 설명한다. 병력 청취에서 아버지는 최근 육아 스트레스가 심했으며, 아이가 울음을 그치지 않아 어려움이 있었다고 한다. 신체 진찰에서 환아는 기면 상태이며, 앞숫구멍(anterior fontanelle)이 팽창되어 있다. 동공은 양측 4mm로 동일하나 반응이 감소되어 있고, 신경학적 검사에서 비정상적인 눈 움직임과 경미한 사지 강직이 관찰된다. 피부에는 특별한 외상의 흔적은 없다. 아동학대를 의심할 수 있는 가장 특징적인 진찰 소견은?",
   "exam": "안저 검사에서 양측 망막에 다발성 망막출혈이 관찰된다.",
@@ -503,7 +482,7 @@
   "category": "Pediatrics"
 }, 
 {
-  "question_id": 26,
+  "question_id": 25,
   "chief_complaint": "가정폭력/학대",
   "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
   "question": "14세 여자 청소년이 성폭력 피해를 주장하며 해바라기센터에 내원하였다. 피해 상황은 2일 전 의붓아버지에 의한 성폭행으로, 환자는 샤워를 하지 않은 상태라고 한다. 환자는 불안해 보이며 떨고 있고, 신체 진찰에서 외음부에 경미한 발적과 회음부 주변 타박상이 관찰된다. 다음 중 이 환자에게 시행해야 할 가장 적절한 법의학적 증거 수집 과정은?",
@@ -524,24 +503,283 @@
   "category": "Forensic Medicine"
 }, 
 {
-  "question_id": 27,
+  "question_id": 26,
   "chief_complaint": "가정폭력/학대",
   "purpose": "가정폭력/학대가 의심되는 피해자에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
-  "question": "18세 여성이 성폭력 피해 후 72시간이 지나 해바라기센터에 내원하였다. 환자는 5일 전 직장 상사로부터 강제로 성관계를 당했으며, 그 후 하복부 통증과 질 출혈이 있다고 한다. 환자는 최근 성관계 경험이 없었다고 하며, 평소 생리 주기는 규칙적이라고 한다. 환자는 피해 직후 샤워를 여러 번 했다고 한다. 다음 중 이 환자에게 가장 우선적으로 시행해야 할 검사는?",
-  "exam": "신체 진찰에서 외음부에 경미한 발적과 찰과상이 관찰되며, 자궁경부 운동 시 통증이 있다.",
+  "question": "11세 여아가 수학여행 중 복통을 호소하여 학교 교사가 응급실로 데려왔다. 환아는 검진 중 의료진에게 의붓아버지가 지난 1년간 성적으로 만졌다고 말했다. 적절한 증거 수집과 평가를 위해 시행한 신체 검사와 면담 과정에서 의붓아버지가 어제 저녁 성기를 삽입하려 했으나 성공하지 못했다고 진술했다. 또한 환아는 집에서 종종 굶기고, 밤새 현관에 세워두는 등의 신체적 학대와 방임도 있었다고 말했다. 다음 중 이 환아에게 시행해야 할 가장 적절한 추가 검사는?",
+  "exam": "생식기 검사에서 음순에 약간의 발적이 관찰되며, 처녀막 손상은 명확하지 않다. 신체 검사에서 등과 팔에 다양한 치유 단계의 멍이 관찰되며, 환아의 BMI는 14로 저체중이다.",
   "options": {
-    "A": "SANE(성폭력 전담 간호사)에 의한 성폭력 증거 수집 키트 사용 검사",
-    "B": "혈청 HCG 검사, 소변 임신 검사 및 성매개 감염병 선별 검사",
-    "C": "외상 여부 확인을 위한 골반 MRI",
-    "D": "자궁내막 생검을 통한 DNA 검사",
-    "E": "심리적 외상 평가를 위한 정신과 검사만 시행"
+    "A": "혈청 HCG 검사와 성매개 감염병 선별 검사",
+    "B": "전신 골격 설문(skeletal survey)와 복부 초음파 검사",
+    "C": "심리 평가만 시행",
+    "D": "소변 독성학 검사",
+    "E": "뇌 MRI와 척추 MRI 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환아는 성학대, 신체적 학대, 방임의 복합적인 학대 형태가 의심되는 상황입니다. 어제 저녁 성기 삽입 시도가 있었다는 구체적인 진술과 함께 생식기 검사에서 음순의 발적이 관찰되므로, 성학대에 대한 철저한 평가가 필요합니다. 성학대가 의심되는 아동에게 필수적인 검사는 혈청 HCG 검사(임신 여부 확인)와 성매개 감염병 선별 검사(클라미디아, 임질, 트리코모나스, 매독, HIV 등)입니다. 특히 성기 접촉이 있었다는 구체적 진술이 있는 경우, 이러한 검사는 더욱 중요합니다. 성매개 감염병의 존재는 성학대의 추가적인 증거가 될 수 있으며, 필요한 치료를 제공하기 위해서도 중요합니다. 전신 골격 설문과 복부 초음파 검사(B)는 신체적 학대 평가에 유용할 수 있으나, 11세 아동에서는 골격 설문의 유용성이 상대적으로 낮습니다(일반적으로 2세 미만 아동에서 더 권장됨). 심리 평가만 시행하는 것(C)은 신체적, 성적 학대의 의학적 증거를 수집하는 데 부족합니다. 소변 독성학 검사(D)는 약물에 의한 학대가 의심되는 상황에서 필요하나, 이 사례에서는 그런 정보가 없습니다. 뇌 MRI와 척추 MRI 검사(E)는 신경학적 증상이나 두부/척추 외상이 의심되는 경우에 필요하나, 이 사례에서는 관련 증상이 언급되지 않았습니다.",
+  "source": {
+    "file_name": "American Academy of Pediatrics: Clinical Report on the Evaluation of Sexual Abuse in Children",
+    "content": "성학대가 의심되거나 확인된 아동에게는 다음과 같은 검사가 권장된다: 1) 생식기 검사를 포함한 철저한 신체 검사, 2) 성매개 감염병 선별 검사(클라미디아, 임질, 트리코모나스, 매독, HIV 등), 3) 사춘기 여아의 경우 임신 검사(혈청 HCG 또는 소변 임신 검사), 4) 필요에 따라 법의학적 증거 수집. 성매개 감염병의 존재는 성학대의 추가적인 증거가 될 수 있으며, 특히 수직 감염이나 주산기 감염으로 설명되지 않는 경우 더욱 그렇다. 성학대 외에 신체적 학대나 방임의 징후가 있는 경우, 추가적인 검사(영양 상태 평가, 정서적/발달적 평가 등)가 필요할 수 있다."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 27,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "15개월 된 남아가 후두부 타박상을 주소로 응급실에 내원하였다. 보호자는 아이가 침대에서 떨어졌다고 설명한다. 환아는 1개월 전에도 유사한 낙상으로 인한 두부 외상으로 내원한 기록이 있다. 신체 진찰에서 후두부에 4cm 크기의 혈종과 함께 귀 뒤쪽과 목에 손가락 모양의 멍이 관찰된다. 두부 CT에서 좌측 두정부에 급성 경막하 혈종이 확인되었다. 다음 중 이 환아의 상황에서 아동학대를 의심할 수 있는 가장 의미 있는 소견은?",
+  "exam": "전신 골격 설문(skeletal survey)에서 다양한 치유 단계의 늑골 골절과 우측 상완골 간부의 나선형 골절이 발견되었다.",
+  "options": {
+    "A": "반복적인 유사한 손상 병력",
+    "B": "침대에서의 낙상 설명",
+    "C": "경막하 혈종의 위치가 후두부 타박상과 일치하지 않음",
+    "D": "목의 손가락 모양 멍",
+    "E": "다양한 치유 단계의 늑골 골절과 나선형 상완골 골절"
+  },
+  "answer": "E",
+  "explanation": "이 환아는 신체적 학대가 강하게 의심되는 여러 징후를 보이고 있습니다. 그 중 다양한 치유 단계의 늑골 골절과 나선형 상완골 골절은 아동학대의 가장 특이적인 소견입니다. 다양한 치유 단계의 골절은 반복적인 외상을 시사하며, 특히 늑골 골절은 영유아에서 우연한 외상으로는 드물게 발생합니다. 늑골 골절은 흔히 아이를 강하게 쥐어짜거나 흔들 때 발생합니다. 나선형 상완골 골절은 팔을 비틀 때 발생하는 특징적인 골절로, 15개월 아동의 발달 단계에서 설명된 낙상으로 발생하기는 어렵습니다. 이러한 골격 손상의 조합은 학대를 강하게 시사합니다. 반복적인 유사한 손상 병력(A)은 학대를 의심할 수 있는 소견이지만, 우연한 사고가 반복될 가능성도 완전히 배제할 수는 없습니다. 침대에서의 낙상 설명(B)은 아동학대를 은폐하기 위해 흔히 사용되는 설명이기는 하나, 그 자체로는 학대를 확정할 수 있는 소견은 아닙니다. 경막하 혈종의 위치와 타박상 불일치(C)는 중요한 소견이지만, 낙상 후 다양한 패턴의 뇌 손상이 가능합니다. 목의 손가락 모양 멍(D)도 학대를 시사하는 중요한 소견이지만, 드물게 다른 원인으로도 발생할 수 있습니다. 반면, 다양한 치유 단계의 늑골 골절과 나선형 상완골 골절(E)은 특히 이 연령에서 우연한 외상으로 설명하기 매우 어려운 특이적인 학대 소견입니다.",
+  "source": {
+    "file_name": "Child Abuse & Neglect: Diagnostic Imaging in Child Abuse",
+    "content": "특정 골절 패턴은 아동학대를 강하게 시사한다. 다양한 치유 단계의 골절은 반복적인 외상을 의미하며, 특히 늑골 골절은 2세 미만 영유아에서 우연한 외상으로는 매우 드물게 발생한다. 늑골 골절은 흔히 아이를 강하게 쥐어짜거나 흔들 때, 또는 직접적인 흉부 타격에 의해 발생한다. 나선형 상완골 골절은 비틀림 힘에 의해 발생하며, 특히 걷지 못하는 영아에서는 학대를 강하게 시사한다. 이러한 골격 손상이 있을 경우, 특히 다른 학대 의심 소견(설명과 일치하지 않는 두부 외상, 반복적인 유사 손상, 지연된 의료적 도움 요청 등)과 함께 있다면 아동학대에 대한 철저한 평가가 필요하다."
+  },
+  "category": "Pediatrics"
+},
+{
+ "question_id": 28,
+ "chief_complaint": "가정폭력/학대",
+ "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+ "question": "83세 남성이 요양보호사에 의해 병원에 내원하였다. 환자는 알츠하이머 치매와 고혈압으로 투약 중이며, 52세 아들과 함께 거주한다. 요양보호사는 최근 3주간 방문 시마다 환자가 깨끗하지 않은 옷을 입고 있었으며, 집안이 불결하고, 약물이 그대로 남아있는 것을 발견했다고 한다. 환자는 최근 6kg의 체중 감소가 있었으며, 냉장고에는 유통기한이 지난 음식만 있었다고 한다. 요양보호사가 아들에게 연락했을 때, 아들은 바빠서 돌볼 시간이 없다고 했다. 요양보호사는 아들이 거의 집에 오지 않으며, 환자는 대부분의 시간을 혼자 보낸다고 보고한다. 다음 중 이 환자에서 가장 의심해야 할 학대 유형은?",
+ "exam": "신체 검사에서 BMI 17.2, 탈수 소견이 관찰되며, 둔부에 2단계 욕창이 있다. 혈압 170/95 mmHg, 공복 혈당 36 mg/dL로 저혈당 상태이다. MMSE 15점으로 중등도 인지장애 소견을 보인다.",
+ "options": {
+   "A": "신체적 학대(Physical abuse)",
+   "B": "정서적 학대(Emotional abuse)",
+   "C": "성적 학대(Sexual abuse)",
+   "D": "경제적 학대(Financial abuse)",
+   "E": "방임(Neglect)"
+ },
+ "answer": "E",
+ "explanation": "이 환자의 사례는 방임(Neglect)을 가장 강하게 시사합니다. 방임은 노인에게 필요한 기본적인 돌봄, 의료, 영양, 위생 등을 제공하지 않는 행위로, 의도적일 수도 있고 비의도적일 수도 있습니다. 이 사례에서 방임을 의심할 수 있는 징후는 다음과 같습니다: 1) 개인 위생 관리 소홀(깨끗하지 않은 옷, 불결한 환경), 2) 약물 관리 부재(투약되지 않은 약물), 3) 영양 부족(체중 감소, 유통기한 지난 음식, 저혈당), 4) 의학적 관리 소홀(조절되지 않는 고혈압, 욕창), 5) 사회적 고립(혼자 보내는 시간이 많음). 환자는 중등도 인지장애로 인해 스스로 자신을 돌볼 능력이 제한되어 있으며, 이런 상황에서 주 돌봄 제공자인 아들이 적절한 돌봄을 제공하지 않는 것은 명백한 방임입니다. 특히 욕창, 영양실조, 탈수, 저혈당 등은 생명을 위협할 수 있는 심각한 방임의 결과입니다. 신체적 학대(A)는 신체에 폭력을 가하는 행위로, 이 사례에서는 그러한 증거가 제시되지 않았습니다. 정서적 학대(B)는 언어적 폭력, 위협, 모욕 등을 포함하나, 현재 사례에서는 그러한 정보가 없습니다. 성적 학대(C)를 시사하는 징후는 전혀 언급되지 않았습니다. 경제적 학대(D)는 노인의 재산이나 자금을 부적절하게 사용하는 것을 의미하나, 이 사례에서는 그러한 정보가 제시되지 않았습니다.",
+ "source": {
+   "file_name": "National Center on Elder Abuse: Types of Elder Abuse",
+   "content": "방임은 노인에게 필요한 기본적인 돌봄, 의료, 영양, 위생 등을 제공하지 않는 행위로, 돌봄 제공자의 의무 불이행을 의미한다. 방임의 주요 징후로는 불충분한 영양 상태(체중 감소, 탈수), 불량한 개인 위생, 부적절한 의복, 욕창, 조절되지 않는 만성 질환, 약물 복용 불이행, 불안전한 생활 환경, 의료적 도움 요청 지연 등이 있다. 인지장애가 있는 노인은 스스로 필요한 돌봄을 요청하기 어려울 수 있어 방임에 특히 취약하다. 방임은 의도적(돌봄 제공자가 의도적으로 돌봄을 제공하지 않음)이거나 비의도적(돌봄 제공자의 능력, 정보, 자원 부족으로 인함)일 수 있으며, 두 경우 모두 노인의 건강과 안전에 심각한 위험을 초래할 수 있다."
+ },
+ "category": "Geriatric Medicine"
+}, 
+{
+  "question_id": 29,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게서 병력청취와 신체진찰을 통하여 학대 유형과 범위를 확인하고 평가할 수 있다.",
+  "question": "32세 여성이 '넘어져서 생긴' 안면 타박상을 주소로 응급실에 내원하였다. 환자는 배우자와 함께 왔으며, 배우자가 대화에 자주 끼어들어 환자 대신 질문에 답하려 한다. 병력 청취 시 환자는 눈맞춤을 피하고 작은 목소리로 이야기하며, 배우자의 눈치를 자주 살핀다. 의무기록을 확인한 결과, 환자는 지난 6개월간 다양한 이유로 3회 응급실을 방문했으며, 그 중 2회는 타박상과 관련된 것이었다. 또한 환자는 현재 임신 12주차이다. 다음 중 이 환자가 치명적인 가정폭력의 위험에 처해 있음을 시사하는 가장 중요한 위험 인자는?",
+  "exam": "신체 진찰에서 오른쪽 눈 주위와 뺨에 새로운 타박상이 있고, 목에 이전의 멍으로 보이는 흔적이 관찰된다. 환자의 팔에도 다양한 치유 단계의 타박상이 있다.",
+  "options": {
+    "A": "임신 중 발생한 폭력",
+    "B": "목 조르기(strangulation) 흔적",
+    "C": "반복적인 응급실 방문",
+    "D": "배우자의 통제적 행동",
+    "E": "눈맞춤 회피와 작은 목소리"
   },
   "answer": "B",
-  "explanation": "성폭력 피해자에 대한 증거 수집은 일반적으로 피해 후 72시간 이내에 가장 효과적이며, 해바라기센터에서는 이 기간 내에 성폭력 증거 수집 키트를 사용한 법의학적 증거 수집을 우선 시행합니다. 그러나 이 환자는 피해 후 5일(120시간)이 경과하였고, 여러 차례 샤워를 했기 때문에 법의학적 증거 수집의 효용성이 크게 감소합니다. 이런 경우, 우선적으로 성폭력으로 인한 잠재적 건강 문제(임신, 성매개 감염병)에 대한 검사와 치료에 초점을 맞추어야 합니다. 혈청 HCG 검사와 소변 임신 검사를 통해 임신 여부를 확인하고, 성매개 감염병(클라미디아, 임질, 트리코모나스, 매독, HIV, B형 간염 등) 선별 검사를 시행해야 합니다. 성매개 감염병 검사는 기저 감염 여부를 확인하기 위해 초기에 시행하고, 잠복기를 고려하여 추적 검사도 계획해야 합니다. 성폭력 전담 간호사에 의한 증거 수집(A)은 72시간이 지났고 여러 차례 샤워를 한 상황에서 증거 수집의 효과가 제한적입니다. 골반 MRI(C)는 일반적인 성폭력 피해자 평가에서 일상적으로 시행하지 않으며, 특정 심각한 손상이 의심될 때만 고려합니다. 자궁내막 생검(D)은 침습적 절차로, 성폭력 피해자 평가에서 표준 절차가 아닙니다. 정신과 검사만 시행하는 것(E)은 신체적 건강 문제를 간과할 수 있어 적절하지 않습니다.",
+  "explanation": "이 환자는 가정폭력의 여러 위험 신호를 보이고 있으며, 그 중에서도 목 조르기(strangulation) 흔적은 치명적인 가정폭력의 가장 강력한 예측 인자입니다. 연구에 따르면 이전에 목 조르기를 경험한 가정폭력 피해자는 그렇지 않은 피해자에 비해 살해될 위험이 7-10배 더 높습니다. 목 조르기는 가해자가 피해자에 대한 극단적인 통제와 생명의 위협을 가하는 행위로, 살인으로 이어질 수 있는 심각한 폭력의 에스컬레이션을 나타냅니다. 목 조르기는 즉각적인 사망뿐만 아니라 지연된 합병증(뇌손상, 혈전, 경동맥 손상, 후기 뇌졸중 등)을 초래할 수 있으므로 매우 위험합니다. 임신 중 발생한 폭력(A)도 중요한 위험 인자이며, 태아와 임산부 모두에게 위험을 초래할 수 있습니다. 임신 중 폭력은 종종 복부를 겨냥하며, 유산, 조산, 태아 손상 등의 결과를 가져올 수 있습니다. 반복적인 응급실 방문(C)은 지속적인 학대의 징후이지만, 그 자체로 치명적 위험의 가장 강력한 예측 인자는 아닙니다. 배우자의 통제적 행동(D)은 학대적 관계의 특징이지만, 목 조르기만큼 직접적인 치명적 위험을 예측하지는 않습니다. 눈맞춤 회피와 작은 목소리(E)는 피해자의 두려움과 위축을 나타내는 행동 징후이지만, 치명적 위험의 구체적 예측 인자는 아닙니다.",
   "source": {
-    "file_name": "대한산부인과학회/대한법의학회: 성폭력 피해자 진료 지침",
-    "content": "성폭력 피해 후 72시간이 경과한 경우, DNA 등 법의학적 증거 수집의 효과가 감소하므로 피해자의 건강과 안전에 초점을 맞추어야 한다. 이러한 경우 우선적으로 시행해야 할 검사는 (1) 임신 검사: 혈청 HCG 또는 소변 임신 검사, (2) 성매개 감염병 검사: 클라미디아, 임질, 트리코모나스, 매독, HIV, B형 간염 등의 선별 검사이다. 성매개 감염병 검사는 기저 감염 여부를 확인하기 위해 초기에 시행하고, 잠복기를 고려하여 추적 검사를 계획해야 한다. 또한 피해자의 심리적 지원과 법률적 지원도 함께 제공해야 한다."
+    "file_name": "Journal of Emergency Medicine: Non-Fatal Strangulation in Intimate Partner Violence",
+    "content": "비치명적 목 조르기(non-fatal strangulation)는 친밀한 파트너에 의한 살인의 가장 강력한 위험 인자 중 하나이다. 연구에 따르면, 이전에 목 조르기를 경험한 가정폭력 피해자는 그렇지 않은 피해자에 비해 파트너에 의해 살해될 위험이 7-10배 더 높다. 목 조르기는 가해자가 피해자의 생명을 통제할 수 있다는 것을 보여주는 극단적인 형태의 권력과 통제의 표현이다. 목 조르기는 상대적으로 짧은 시간(4-5분) 내에 사망을 초래할 수 있으며, 외부에 가시적인 부상이 없더라도 심각한 내부 손상을 일으킬 수 있다. 따라서 응급실 의료진은 목 조르기 병력이나 징후가 있는 가정폭력 피해자에 대해 높은 경계심을 가지고, 즉각적인 안전 계획 수립과 적절한 의학적 평가를 시행해야 한다."
   },
-  "category": "Obstetrics and Gynecology"
-}
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 30,
+  "chief_complaint": "가정폭력/학대",
+  "purpose": "가정폭력/학대가 의심되는 피해자에게 적합한 치료 계획을 세울 수 있다.",
+  "question": "24세 여성이 얼굴 부상을 주소로 응급실에 내원하였다. 환자는 남자친구와 말다툼 중 주먹으로 맞았다고 했다. 환자는 2년간 교제 중이며, 이번이 첫 신체적 폭력이라고 한다. 그러나 남자친구가 자주 질투하고, 환자의 휴대폰을 확인하며, 친구들과의 만남을 제한한다고 한다. 환자는 이번 일에 남자친구가 매우 미안해하며 다시는 이런 일이 없을 것이라 약속했다고 말한다. 환자는 관계를 지속하고 싶어하며, 법적 조치는 원하지 않는다고 명확히 밝혔다. 현재 환자는 남자친구와 함께 살고 있으며, 주변에 도움을 청할 가족이나 친구가 많지 않다고 한다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "신체 검사에서 왼쪽 볼에 타박상과 경미한 열상이 관찰되며, 심리 평가에서 경도-중등도 우울 및 불안 증상이 확인되었다.",
+  "options": {
+    "A": "얼굴 열상 치료만 제공하고, 환자의 의사를 존중하여 추가 개입은 하지 않는다.",
+    "B": "환자에게 즉시 관계를 종료하라고 강력히 권고한다.",
+    "C": "환자의 선택을 존중하면서도, 안전 계획 수립, 가정폭력 교육, 자원 정보 제공 및 추적 관찰을 계획한다.",
+    "D": "환자와 남자친구 모두에게 관계 상담을 권장한다.",
+    "E": "환자의 동의 없이 경찰에 신고한다."
+  },
+  "answer": "C",
+  "explanation": "이 환자는 신체적 폭력(얼굴 구타)과 함께 강제적 통제 행동(휴대폰 확인, 사회적 접촉 제한, 질투)을 경험하고 있어 가정폭력의 명확한 징후를 보입니다. 이런 상황에서 가장 적절한 접근법은 환자의 자율성과 선택을 존중하면서도, 필요한 정보와 지원을 제공하는 것입니다. 환자 중심의 접근으로는 다음이 포함되어야 합니다: 1) 공감적 지지와 비판단적 태도 유지, 2) 가정폭력의 특성과 악화 패턴에 대한 교육, 3) 개인화된 안전 계획 수립(긴급 연락처, 필수 물품 준비, 안전한 대피 장소 등), 4) 지역 가정폭력 지원 서비스에 대한 정보 제공, 5) 상담 및 정신건강 자원 연계, 6) 정기적인 추적 관찰 계획. 이는 환자가 현재 관계를 지속하기로 선택했더라도, 폭력이 재발하거나 악화될 경우 도움을 구할 수 있는 자원과 전략을 갖추도록 합니다. 얼굴 열상 치료만 제공하는 것(A)은 기본적인 의학적 의무는 다하지만, 가정폭력의 순환적 특성과 악화 위험을 고려하지 않은 접근법입니다. 환자에게 즉시 관계를 종료하라고 강력히 권고하는 것(B)은 환자의 자율성을 존중하지 않으며, 때로는 준비 없이 관계를 떠나는 것이 더 위험할 수 있습니다. 관계 상담 권장(D)은 가정폭력 상황에서는 권장되지 않습니다. 폭력과 통제가 있는 관계에서 상담은 평등한 의사소통이 불가능하며, 오히려 피해자를 더 위험한 상황에 노출시킬 수 있습니다. 환자의 동의 없이 경찰에 신고하는 것(E)은 환자의 자율성과 비밀 유지 원칙을 위반하며, 환자의 신뢰를 손상시켜 향후 도움 요청을 방해할 수 있습니다(단, 생명을 위협하는 급박한 위험이 있는 경우는 예외).",
+  "source": {
+    "file_name": "World Health Organization: Health Care for Women Subjected to Intimate Partner Violence",
+    "content": "가정폭력 피해자 치료에서 가장 중요한 원칙은 환자 중심 접근법이다. 이는 환자의 자율성과 결정권을 존중하되, 필요한 정보와 지원을 제공하여 안전한 결정을 내릴 수 있도록 돕는 것이다. 현장 연구에 따르면, 피해자에게 관계를 종료하라고 지시하는 것은 효과적이지 않을 뿐만 아니라, 때로는 위험을 증가시킬 수 있다. 대신, 의료인은 공감적 지지를 제공하고, 가정폭력의 특성과 악화 패턴에 대해 교육하며, 개인화된 안전 계획을 수립하고, 활용 가능한 자원에 대한 정보를 제공해야 한다. 가정폭력 상황에서 부부 상담이나 가족 중재는 권장되지 않으며, 오히려 피해자를 더 큰 위험에 노출시킬 수 있다. 비밀 유지는 신뢰 관계 구축에 필수적이나, 생명을 위협하는 급박한 위험이 있는 경우 예외가 적용될 수 있다."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 31,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 병력청취, 신체진찰, 검사소견을 종합하여 원인질환을 감별할 수 있다.",
+  "question": "67세 남성이 2일 전부터 발생한 객혈을 주소로 내원하였다. 환자는 30갑년의 흡연력이 있으며, 3개월 전부터 기침, 체중 감소, 그리고 점차 심해지는 호흡곤란을 호소하였다. 신체 검진상 우측 상부 흉곽에서 타진 시 탁음과 호흡음 감소가 관찰되었다. 이 환자의 객혈 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: 백혈구 12,000/μL, 헤모글로빈 11.5 g/dL, 혈소판 450,000/μL. 흉부 X선 검사: 우상엽에 5cm 크기의 종괴 음영과 함께 흉막 삼출액이 관찰됨. 객담 세포진 검사: 악성 세포가 발견됨. 흉부 CT: 우상엽에 불규칙한 경계를 가진 5.5cm 크기의 종괴가 보이며, 종격동 림프절 비대와 우측 흉막 삼출액이 관찰됨. 종괴는 기관지 내강으로 침범하는 소견.",
+  "options": {
+    "A": "폐결핵",
+    "B": "기관지확장증",
+    "C": "폐암",
+    "D": "폐색전증",
+    "E": "세기관지염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 장기간의 흡연력, 3개월 동안 지속된 기침, 체중 감소, 호흡곤란과 같은 증상을 보이며, 영상 검사에서 우상엽에 불규칙한 경계를 가진 종괴와 종격동 림프절 비대, 흉막 삼출액이 관찰되었습니다. 또한 객담 세포진 검사에서 악성 세포가 발견되었습니다. 이러한 임상 양상과 검사 결과는 폐암을 강하게 시사합니다. 특히 종괴가 기관지 내강으로 침범하는 소견은 기관지 내 혈관 침범으로 인한 객혈의 원인이 됩니다. 폐암에서의 객혈은 종양이 기관지 점막을 침범하거나 혈관을 침식하여 발생할 수 있으며, 특히 중심부 종양에서 더 흔하게 관찰됩니다. 폐결핵도 객혈의 중요한 원인이지만, 이 환자의 경우 폐결핵보다는 폐암을 더 강하게 시사하는 소견들(종괴의 크기와 특성, 악성 세포의 발견, 림프절 비대, 흉막 삼출액)이 있습니다. 기관지확장증은 만성적인 객혈의 원인이 될 수 있으나, CT에서 특징적인 기관지 확장 소견이 언급되지 않았고, 종괴가 관찰되었습니다. 폐색전증은 일반적으로 객혈보다는 호흡곤란, 흉통, 빈맥 등의 증상이 주로 나타나며, 영상 소견이 일치하지 않습니다. 세기관지염은 주로 소량의 객담과 호흡곤란을 유발하지만, 이 환자의 임상 양상과 맞지 않습니다.",
+  "source": {
+    "file_name": "Murray and Nadel's Textbook of Respiratory Medicine",
+    "content": "Hemoptysis is common in patients with lung cancer, particularly in those with central tumors. It results from tumor invasion of bronchial blood vessels and ranges from blood-streaked sputum to massive hemorrhage. The presence of hemoptysis in a patient with risk factors for lung cancer, such as age >50 years and smoking history >30 pack-years, should prompt immediate investigation with chest imaging and bronchoscopy."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 32,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 3일 전부터 시작된 소량의 객혈을 주소로 내원하였다. 환자는 2주 전 감기 증상 이후 기침이 지속되었으며, 최근 38.5°C의 발열과 오한이 동반되었다. 과거력상 특이사항은 없으며, 흡연력도 없다. 신체 검진에서 우측 하부 폐야에서 수포음이 청진되었다. 이 환자에게 객혈의 원인 진단을 위해 시행해야 할 가장 적절한 다음 검사는?",
+  "exam": "흉부 X선 검사: 우하엽에 국소적인 경화 소견. 일반 혈액 검사: 백혈구 14,000/μL, CRP 8.5 mg/dL, 헤모글로빈 13.2 g/dL, 혈소판 320,000/μL, PT 12.1초(정상 11.0-13.5초), aPTT 32초(정상 28-38초). 혈액 생화학 검사: AST 28 U/L(정상 10-40 U/L), ALT 32 U/L(정상 10-40 U/L), BUN 14 mg/dL(정상 8-20 mg/dL), Cr 0.8 mg/dL(정상 0.6-1.2 mg/dL), Na 138 mEq/L(정상 135-145 mEq/L), K 4.1 mEq/L(정상 3.5-5.0 mEq/L), Cl 103 mEq/L(정상 98-108 mEq/L)",
+  "options": {
+    "A": "기관지 내시경 검사",
+    "B": "흉부 CT 검사",
+    "C": "객담 그람 염색 및 배양 검사",
+    "D": "D-dimer 검사",
+    "E": "폐기능 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 최근 감기 증상 이후 지속된 기침과 함께 발열, 오한이 동반되었고, 신체 검진에서 우측 하부 폐야의 수포음, 혈액 검사에서 백혈구 증가와 CRP 상승, 흉부 X선에서 우하엽의 경화 소견을 보이고 있습니다. 이러한 임상 양상은 지역사회획득폐렴을 강하게 시사합니다. 폐렴은 객혈의 흔한 원인 중 하나이며, 특히 세균성 폐렴(예: 폐렴구균, 헤모필루스 인플루엔자, 마이코플라스마 등)에서 객혈이 동반될 수 있습니다. 이러한 상황에서 객담 그람 염색 및 배양 검사는 원인 병원체를 확인하고 적절한 항생제 치료를 선택하는 데 중요한 정보를 제공합니다. 기관지 내시경 검사는 객혈의 원인이 불명확하거나, 종양이 의심되거나, 대량 객혈의 경우 시행할 수 있으나, 이 환자는 폐렴의 임상 양상이 명확하므로 일차적으로 필요하지 않습니다. 흉부 CT 검사는 단순 X선에서 확인되지 않는 병변이나 기관지확장증, 종양 등을 확인하는 데 유용하지만, 명확한 폐렴의 증거가 있는 이 환자에게는 일차적으로 필요하지 않습니다. D-dimer 검사는 폐색전증이 의심될 때 유용하나, 이 환자의 임상 양상은 폐색전증보다는 폐렴에 합당합니다. 폐기능 검사는 만성 폐질환의 평가에 중요하지만, 급성 감염성 질환의 진단에는 도움이 되지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "In patients with hemoptysis and clinical features suggestive of pneumonia (fever, productive cough, focal chest signs, leukocytosis), sputum Gram stain and culture are essential for identifying the causative organism and guiding antibiotic therapy. Community-acquired pneumonia is a common cause of hemoptysis, particularly pneumococcal pneumonia, which can present with rust-colored sputum. Other bacterial pathogens that commonly cause hemoptysis include Haemophilus influenzae, Klebsiella pneumoniae, and Staphylococcus aureus."
+  },
+  "category": "Infectious Diseases"
+},
+{
+  "question_id": 33,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "32세 여성이 반복적인 객혈을 주소로 내원하였다. 환자는 5년 전부터 간헐적으로 소량의 객혈이 있었으며, 최근 3개월 동안 빈도가 증가하였다. 과거력상 15세 때 홍역을 앓았고, 가족력상 특이사항은 없다. 신체 검진에서 우측 중부 및 하부 폐야에서 수포음이 청진되었다.",
+  "exam": "혈액 검사: 백혈구 7,200/μL(정상 4,000-10,000/μL), 혈색소 13.5 g/dL(정상 12.0-16.0 g/dL), 혈소판 280,000/μL(정상 150,000-450,000/μL), ESR 15 mm/hr(정상 0-20 mm/hr), CRP 0.8 mg/dL(정상 <1.0 mg/dL), PT 12.3초(정상 11.0-13.5초), aPTT 30초(정상 28-38초), AST 22 U/L(정상 10-40 U/L), ALT 24 U/L(정상 10-40 U/L), BUN 12 mg/dL(정상 8-20 mg/dL), Cr 0.7 mg/dL(정상 0.6-1.2 mg/dL)\n\n. 흉부 X선 검사: 우중엽과 우하엽에 선상 및 결절성 음영이 관찰됨. 흉부 CT: 우중엽과 우하엽에 다수의 낭성 병변과 함께 기관지 확장 소견이 관찰되었으며, 일부 기관지 내에 점액 충만 소견. 객담 미생물 검사: 녹농균(Pseudomonas aeruginosa)이 배양됨.",
+  "options": {
+    "A": "경구 시프로플록사신 투여 및 기관지 확장제 흡입",
+    "B": "항결핵제 복합 요법",
+    "C": "기관지동맥 색전술",
+    "D": "수술적 절제(우중엽 및 우하엽 절제술)",
+    "E": "전신 스테로이드 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 반복적인 객혈과 함께 흉부 CT에서 우중엽과 우하엽에 다수의 낭성 병변 및 기관지 확장 소견을 보이고, 객담 배양에서 녹농균이 검출되었습니다. 이러한 임상 양상은 기관지확장증(bronchiectasis)에 합당합니다. 기관지확장증은 기관지벽의 비가역적인 확장과 파괴로 특징지어지는 만성 호흡기 질환으로, 감염(홍역, 결핵, 반복적인 폐렴 등), 선천성 질환(낭포성 섬유증, 원발성 섬모 이상증 등), 또는 면역 결핍 등 다양한 원인에 의해 발생할 수 있습니다. 이 환자의 경우 홍역의 과거력이 원인이 되었을 가능성이 있습니다. 기관지확장증에서 객혈은 확장된 기관지 내 비정상적인 혈관 형성과 만성 염증으로 인해 발생할 수 있습니다. 기관지확장증 환자에서 급성 악화 시 적절한 항생제 치료는 증상 완화와 질환 진행 억제에 중요합니다. 특히 녹농균 감염이 확인된 경우, 퀴놀론계 항생제(시프로플록사신)는 효과적인 선택입니다. 또한 기관지 확장제는 기도 폐색을 완화하고 점액 제거를 촉진하는 데 도움이 됩니다. 항결핵제는 결핵이 원인인 경우에 적용되지만, 이 환자에서는 결핵의 증거가 없습니다. 기관지동맥 색전술은 대량 객혈이나 보존적 치료에 반응하지 않는 중증 객혈에서 고려할 수 있습니다. 수술적 절제는 국소적인 병변이나 보존적 치료에 반응하지 않는 심한 증상, 반복적인 대량 객혈, 또는 악성 질환이 의심될 때 고려됩니다. 전신 스테로이드는 특정 면역 관련 기관지확장증이나 알레르기성 기관지폐 아스페르길루스증과 같은 질환에서 유용할 수 있으나, 이 환자의 경우에는 적절하지 않습니다.",
+  "source": {
+    "file_name": "European Respiratory Society Guidelines for Bronchiectasis",
+    "content": "Management of bronchiectasis includes antibiotic therapy targeted at colonizing pathogens, airway clearance techniques, and bronchodilators. For Pseudomonas aeruginosa infections, which are associated with more severe disease and worse outcomes, fluoroquinolones (e.g., ciprofloxacin) are recommended as first-line oral therapy. Long-term macrolide therapy may be considered in patients with frequent exacerbations. Bronchodilators and mucoactive agents can improve symptoms and quality of life by enhancing mucus clearance. Surgical intervention is reserved for localized disease with persistent symptoms despite optimal medical management, or for recurrent severe hemoptysis not controlled by bronchial artery embolization."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 34,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "58세 남성이 갑작스럽게 종이컵 한 컵 분량의 피를 토했다며 응급실에 내원하였다. 환자는 20년 전 폐결핵을 앓은 병력이 있으며, 1년 전부터 간헐적인 소량의 객혈이 있었다. 내원 시 활력징후는 혈압 100/60 mmHg, 맥박 118회/분, 호흡수 26회/분, 산소포화도 92%(실내 공기)였다. 신체 검진에서 왼쪽 상부 폐야에서 수포음이 청진되었다. 이 환자의 응급 처치로 가장 적절한 것은?",
+  "exam": "흉부 X선 검사: 좌상엽에 공동성 병변과 주변부 섬유화 소견이 보였다. 혈액 검사: 헤모글로빈 11.8 g/dL, 백혈구 9,800/μL, 혈소판 280,000/μL, PT/aPTT 12.1/30",
+  "options": {
+    "A": "즉시 기관 삽관 및 기계환기 적용",
+    "B": "응급 좌상엽 절제술",
+    "C": "측와위로 체위 변경, 산소 공급, 정맥로 확보 및 기관지 내시경 준비",
+    "D": "항결핵제 투여",
+    "E": "전신 스테로이드 정맥 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 폐결핵의 과거력이 있고, 흉부 X선에서 좌상엽에 공동성 병변과 섬유화 소견을 보이는 환자로, 결핵 후 기관지확장증이나 잔류 공동에 의한 객혈이 의심됩니다. 대량 객혈(massive hemoptysis)은 일반적으로 24시간 내에 100-600mL 이상의 출혈로 정의되며, 생명을 위협할 수 있는 응급 상황입니다. 이런 상황에서 초기 관리의 주요 목표는 기도 확보, 적절한 산소화 유지, 출혈 부위 국소화, 그리고 순환 안정화입니다. 측와위(lateral decubitus position)에서 출혈 측이 아래로 향하게 하는 것은 건강한 폐의 오염을 방지하고 환기-관류 불균형을 최소화하는 데 도움이 됩니다. 산소 공급은 저산소증을 교정하고, 정맥로 확보는 필요시 수액이나 혈액 제제를 투여하기 위해 필요합니다. 기관지 내시경은 출혈 부위를 정확히 확인하고, 필요시 국소 지혈 조치(에피네프린 주입, 전기 소작, 레이저 치료, 풍선 압박 등)를 시행할 수 있어 대량 객혈의 초기 관리에 중요합니다. 즉시 기관 삽관은 심한 호흡 부전이 있거나, 의식 저하가 있는 경우, 또는 지혈이 어려운 대량 객혈에서 고려할 수 있으나, 모든 대량 객혈 환자에게 즉각적으로 필요한 것은 아닙니다. 응급 수술은 보존적 치료와 중재적 시술(기관지 내시경, 기관지동맥 색전술)로 조절되지 않는 경우에 고려됩니다. 항결핵제는 활동성 결핵이 객혈의 원인일 때 필요하지만, 이 환자는 20년 전 결핵 병력이 있고 현재 활동성 결핵의 증거는 보이지 않습니다. 전신 스테로이드는 특정 염증성 폐질환에서 유용할 수 있으나, 대량 객혈의 급성기 관리에는 일반적으로 사용되지 않습니다.",
+  "source": {
+    "file_name": "American Journal of Respiratory and Critical Care Medicine",
+    "content": "Initial management of massive hemoptysis should focus on airway protection, lateralization of the patient with the bleeding lung in the dependent position to prevent aspiration into the non-bleeding lung, oxygen supplementation, and establishment of intravenous access. Bronchoscopy plays a crucial role in localizing the bleeding site and implementing temporary hemostatic measures such as cold saline lavage, epinephrine instillation, or balloon tamponade. Rigid bronchoscopy may be preferred in cases of massive bleeding due to its superior airway control and suctioning capabilities. Bronchial artery embolization is the procedure of choice for controlling bleeding, with success rates of 85-95%. Surgical resection is considered when bleeding cannot be controlled by less invasive methods or for specific conditions like aspergilloma."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id":35,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "36세 여성이 1주일 전부터 시작된 객혈을 주소로 내원하였다. 환자는 2개월 전부터 발열, 관절통, 체중 감소가 있었으며, 최근 코피가 자주 나고 소변량이 감소했다고 호소하였다. 신체 검진에서 양측 다리에 자반이 관찰되었고, 양측 폐야에서 미세 수포음이 청진되었다. 이 환자에게 진단적 가치가 가장 높은 검사는?",
+  "exam": "흉부 X선: 양측 폐야에 미만성 폐포성 침윤이 관찰됨. 혈액 검사: 백혈구 9,200/μL, 헤모글로빈 9.8 g/dL, 혈소판 112,000/μL, BUN 42 mg/dL, Cr 2.3 mg/dL. 소변 검사: 적혈구 다수/HPF, 단백 3+. ESR: 78 mm/hr, CRP 6.8 mg/dL",
+  "options": {
+    "A": "항핵항체(ANA) 검사",
+    "B": "혈청 항호중구세포질항체(ANCA) 검사",
+    "C": "혈액 배양 검사",
+    "D": "기관지 내시경 검사",
+    "E": "흉부 CT 혈관조영술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 객혈, 발열, 관절통, 체중 감소와 같은 전신 증상과 함께 자반, 신기능 저하(BUN, Cr 상승), 혈뇨와 단백뇨가 동반된 소견을 보이고 있습니다. 또한 흉부 X선에서 양측 폐야의 미만성 침윤이 관찰되며, 염증 지표(ESR, CRP)가 상승되어 있습니다. 이러한 임상 양상은 전신성 혈관염, 특히 ANCA 연관 혈관염(ANCA-associated vasculitis)인 미세다혈관염(microscopic polyangiitis, MPA) 또는 육아종증을 동반한 다발혈관염(granulomatosis with polyangiitis, GPA, 이전 명칭: 베게너 육아종증)을 강하게 시사합니다. ANCA 연관 혈관염은 소혈관을 침범하는 자가면역 질환으로, 상기도, 폐, 신장 등 다양한 장기를 침범할 수 있습니다. 객혈은 폐포모세혈관염(pulmonary capillaritis)이나 폐출혈의 결과로 발생할 수 있으며, 신장 침범은 급속 진행성 사구체신염(rapidly progressive glomerulonephritis)의 형태로 나타납니다. 혈청 ANCA 검사는 이러한 혈관염의 진단에 중요한 역할을 합니다. GPA는 주로 c-ANCA(항-PR3), MPA는 주로 p-ANCA(항-MPO)와 연관됩니다. 확진을 위해서는 침범된 장기의 조직 생검(신장, 폐, 상기도 등)이 필요하지만, ANCA 검사는 비침습적이면서도 진단적 가치가 높은 검사입니다. 항핵항체(ANA) 검사는 전신성 루푸스 홍반증(SLE)과 같은 결체조직 질환의 진단에 유용하지만, 이 환자의 임상 양상은 ANCA 연관 혈관염에 더 합당합니다. 혈액 배양 검사는 감염성 심내막염이나 패혈증이 의심될 때 유용하나, 이 환자의 전신 혈관염 양상을 설명하기에는 부족합니다. 기관지 내시경 검사는 객혈의 원인과 부위를 확인하는 데 도움이 될 수 있으나, 이 환자처럼 전신 질환이 의심되는 경우에는 혈청학적 검사가 우선입니다. 흉부 CT 혈관조영술은 폐색전증이나 폐동정맥 기형의 진단에 유용하지만, 이 환자의 임상 양상은 혈관염에 더 합당합니다.",
+  "source": {
+    "file_name": "The New England Journal of Medicine",
+    "content": "ANCA-associated vasculitides are a group of systemic autoimmune diseases characterized by inflammation and necrosis of small to medium-sized blood vessels. The major clinicopathological variants include granulomatosis with polyangiitis (GPA, formerly Wegener's granulomatosis), microscopic polyangiitis (MPA), and eosinophilic granulomatosis with polyangiitis (EGPA, formerly Churg-Strauss syndrome). Clinical manifestations vary but often include constitutional symptoms (fever, weight loss, fatigue), upper and lower respiratory tract involvement, glomerulonephritis, and cutaneous vasculitis. Pulmonary involvement can present as alveolar hemorrhage, manifesting clinically as hemoptysis and radiographically as diffuse alveolar infiltrates. Testing for ANCA is a cornerstone in diagnosis, with c-ANCA (anti-PR3) predominantly associated with GPA and p-ANCA (anti-MPO) with MPA. While tissue biopsy remains the gold standard for diagnosis, ANCA testing has high sensitivity and specificity, particularly in active, generalized disease."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 36,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 2일 전부터 시작된 소량의 객혈과 호흡곤란을 주소로 내원하였다. 환자는 5년 전 승모판 협착증으로 진단받았으나 추적 관찰을 중단한 상태였다. 최근 임신 8주로 확인되었으며, 1주일 전부터 심해진 운동시 호흡곤란이 있었다. 신체 검진에서 호흡수 24회/분, 심박수 98회/분이었고, 심첨부에서 이완기 저음의 증가된 심잡음과 개방음(opening snap)이 청진되었다. 폐 청진에서 양측 하부에 수포음이 들렸다. 심전도에서 좌심방 비대 소견이 관찰되었다. 이 환자의 객혈 원인과 적합한 치료 계획은?",
+  "exam": "경흉부 심초음파: 승모판 면적 1.1cm² (정상 4-6cm²), 평균 승모판 압력차 12mmHg, 좌심방 확장(직경 48mm), 경도의 폐동맥 고혈압(수축기 폐동맥압 45mmHg). 흉부 X선: 좌심방 확장, 폐정맥 울혈, 케를리 B선(Kerley B lines)",
+  "options": {
+    "A": "임신 유지, 이뇨제와 베타차단제 투여, 안정 가료",
+    "B": "임신 유지, 항생제 투여, 거품형성 억제제 사용",
+    "C": "임신 종결 권고, 경피적 승모판 성형술 시행",
+    "D": "임신 종결 권고, 승모판 치환술 시행",
+    "E": "임신 유지, 항응고제 투여, 철분제 보충"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 중등도-중증의 승모판 협착증(승모판 면적 1.1cm²)을 가진 임신 초기 여성으로, 좌심방 확장, 폐정맥 울혈, 폐동맥 고혈압의 증거가 있으며, 객혈과 호흡곤란을 호소하고 있습니다. 이는 승모판 협착증으로 인한 폐울혈과 폐정맥 고혈압에 의한 객혈(폐정맥 고혈압성 객혈)을 시사합니다. 승모판 협착증에서 임신은 심장에 대한 혈역학적 부담을 증가시켜 증상을 악화시킬 수 있습니다. 임신 중 혈액량 증가, 심박출량 증가, 심박수 증가는 승모판을 통한 압력차를 증가시키고, 좌심방압과 폐정맥압 상승으로 이어져 폐울혈과 폐부종을 유발할 수 있습니다. 중등도-중증의 승모판 협착증(판막 면적 <1.5cm²)을 가진 여성이 증상(NYHA 기능 분류 II-IV)을 보이는 경우, 임신 전 또는 임신 중 경피적 승모판 성형술(percutaneous mitral valvuloplasty)이 권장됩니다. 이 시술은 풍선 카테터를 사용하여 협착된 승모판을 확장시키는 비교적 안전한 시술로, 수술적 치환보다 임신 중 태아와 산모에게 위험이 적습니다. 이 환자의 경우, 임신 초기에 중증의 판막 질환으로 인한 증상(객혈, 호흡곤란)과 합병증(폐동맥 고혈압)이 발생했으므로, 임신 지속 시 산모와 태아 모두에게 심각한 위험이 예상됩니다. 따라서 임신 종결을 권고하고 경피적 승모판 성형술을 시행하는 것이 적절합니다. 시술 후 증상이 호전되고 혈역학적으로 안정되면, 추후 임신을 계획할 수 있습니다. 이뇨제와 베타차단제는 증상 완화에 도움이 될 수 있으나, 이 환자처럼 중증 판막 질환에서는 근본적인 해결책이 되지 못합니다. 항생제와 거품형성 억제제는 감염성 원인의 객혈이나 폐부종에 사용될 수 있으나, 이 환자의 상태에는 적절하지 않습니다. 승모판 치환술은 경피적 성형술이 적합하지 않거나 실패한 경우에 고려되는 보다 침습적인 방법입니다. 항응고제는 심방세동이나 혈전이 동반된 경우에 필요하지만, 이 환자에서는 언급되지 않았습니다.",
+  "source": {
+    "file_name": "European Society of Cardiology Guidelines for the Management of Valvular Heart Disease",
+    "content": "In pregnant women with moderate to severe mitral stenosis (valve area <1.5cm²) who are symptomatic (NYHA functional class II-IV) or have pulmonary artery pressure >50 mmHg despite optimal medical therapy, percutaneous mitral commissurotomy (PMC) should be considered, preferably after 20 weeks of gestation. PMC is recommended in symptomatic patients with significant mitral stenosis who are not at high risk for procedural complications. In patients with severe mitral stenosis planning pregnancy, if they are symptomatic or if pulmonary systolic pressure is >50 mmHg, intervention (usually PMC) should be performed before pregnancy. Termination of pregnancy should be discussed in severe mitral stenosis with NYHA class III/IV symptoms and/or estimated systolic pulmonary artery pressure >50 mmHg despite medical therapy, where PMC is not feasible or has failed. Hemoptysis in mitral stenosis is usually due to pulmonary venous hypertension leading to rupture of bronchial venous anastomoses or alveolar capillaries, and can be a sign of decompensation requiring urgent intervention."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 37,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게 응급처치가 필요한 경우 적합한 치료 계획을 수립할 수 있다.",
+  "question": "62세 남성이 갑작스러운 다량의 피를 토했다며 응급실에 내원하였다. 환자는 20년 전 폐결핵을 앓은 병력이 있으며, 10년 전부터 만성 기침과 간헐적인 소량의 객혈이 있었다. 내원 시 활력징후는 혈압 90/60 mmHg, 맥박 120회/분, 호흡수 30회/분, 산소포화도 88%(실내 공기)였다. 환자는 창백하고 불안해 보였으며, 청진 시 좌상엽에서 수포음이 들렸다. 이 환자의 즉각적인 응급 처치로 가장 적절한 것은?",
+  "exam": " 혈액 검사: 헤모글로빈 9.5 g/dL, 백혈구 11,200/μL, 혈소판 240,000/μL, PT 12.8초(정상 11.0-13.5초), aPTT 34초(정상 28-38초). 흉부 X선: 좌상엽에 공동성 병변과 주변부 섬유화 소견, 활동성 폐결핵의 증거는 없음. 흉부 CT: 좌상엽에 5cm 크기의 공동성 병변 내부에 연부조직 음영이 보이며, 좌상엽 기관지와 연결되어 있음. 주변에 기관지확장증 소견이 관찰됨",
+  "options": {
+    "A": "강력한 기침 유도 및 체위 배액",
+    "B": "기관 삽관, 이중관 기관지 튜브(double-lumen endotracheal tube) 삽입, 기계환기 적용",
+    "C": "정맥 항생제 투여 및 거품형성 억제제 사용",
+    "D": "즉각적인 수술적 치료(좌상엽 절제술)",
+    "E": "기관지동맥 색전술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 폐결핵의 과거력과 만성 기침, 간헐적 객혈의 병력이 있으며, 영상 검사에서 좌상엽에 공동성 병변과 기관지확장증 소견이 관찰됩니다. 이는 결핵 후 기관지확장증과 함께 아스페르길로마(aspergilloma)의 가능성을 시사합니다. 아스페르길로마는 기존의 폐 공동 내에 아스페르길루스 균이 집락을 형성하는 질환으로, 결핵 후 공동이 주요 선행 요인입니다. CT에서 공동 내 연부조직 음영(진균구)이 관찰되는 것도 이를 지지합니다.환자는 500mL 이상의 대량 객혈(massive hemoptysis)로 인한 혈역학적 불안정(저혈압, 빈맥)과 호흡 부전(빈호흡, 저산소증)을 보이고 있어 즉각적인 기도 확보와 출혈 조절이 필요합니다. 이러한 대량 객혈의 응급 상황에서는 기관 삽관과 이중관 기관지 튜브(double-lumen endotracheal tube) 삽입이 가장 적절한 초기 조치입니다. 이중관 튜브는 건강한 폐를 보호하면서 출혈 측 폐를 격리할 수 있어, 건강한 폐로의 혈액 흡인을 방지하고 적절한 산소화를 유지하는 데 도움이 됩니다. 기침 유도와 체위 배액은 소량의 객혈이나 객담 배출에는 도움이 될 수 있으나, 대량 객혈에서는 오히려 출혈을 악화시키고 건강한 폐로의 흡인 위험을 증가시킬 수 있어 금기입니다. 정맥 항생제와 거품형성 억제제는 보조적인 치료로 사용될 수 있으나, 이 환자와 같은 대량 객혈의 응급 상황에서는 일차적인 처치가 아닙니다. 수술적 치료(폐엽 절제술)는 아스페르길로마나 기관지확장증으로 인한 반복적인 대량 객혈에서 고려될 수 있으나, 급성기에는 환자 상태가 불안정하여 수술 위험이 증가하므로 일차적으로는 적합하지 않습니다. 기관지동맥 색전술은 대량 객혈의 치료에 효과적인 중재적 시술이지만, 이 환자의 경우처럼 기도 확보와 호흡 부전에 대한 조치가 먼저 필요한 상황에서는 초기 응급 처치로 적합하지 않습니다. 환자가 안정된 후 시행을 고려할 수 있습니다.",
+  "source": {
+    "file_name": "Critical Care Medicine",
+    "content": "The immediate management of massive hemoptysis (>200-500 mL/24 hours) should prioritize airway protection, oxygenation, and hemodynamic stabilization. Endotracheal intubation with a double-lumen tube is often necessary to isolate and protect the non-bleeding lung, prevent asphyxiation, and facilitate bronchoscopy. The bleeding side should be positioned dependent to prevent blood spillage into the non-bleeding lung. Blood transfusion, correction of coagulopathies, and fluid resuscitation are essential for hemodynamic stabilization. Once the patient is stabilized, bronchial artery embolization is the preferred intervention for controlling the bleeding, with success rates of 80-90%. Surgical resection may be considered in cases of recurrent massive hemoptysis, localized disease (such as aspergilloma), or when embolization fails. Aspergilloma, a fungal ball formed by Aspergillus species colonizing a pre-existing pulmonary cavity (often post-tuberculosis), is a common cause of massive hemoptysis due to erosion of bronchial arteries by the fungal ball, and typically appears as a mobile intracavitary mass with an air crescent on imaging."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 38,
+  "chief_complaint": "객혈",
+  "purpose": "객혈이 있는 사람에게서 진단에 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "24세 여성이 3일 전부터 시작된 소량의 객혈을 주소로 내원하였다. 환자는 태어날 때부터 반복적인 비출혈과 잦은 멍이 들었으며, 과거 치과 시술 후 과도한 출혈로 수혈을 받은 적이 있다고 한다. 가족력상 어머니와 여동생도 비슷한 출혈 경향이 있다. 내원 2주 전 독감 유사 증상 이후 심한 기침이 지속되었다. 신체 검진에서 활력징후는 정상이었으며, 양팔과 다리에 다수의 멍이 관찰되었다.이 환자의 객혈 원인 진단을 위해 시행해야 할 가장 적절한 다음 검사는?",
+  "exam": " 혈액 검사: 백혈구 7,500/μL, 헤모글로빈 11.8 g/dL, 혈소판 240,000/μL, PT 12.5초(정상 11.0-13.5초), aPTT 40초(정상 28-38초). 흉부 X선 및 흉부 CT: 기관지벽 비후 외 특이 소견 없음. 혼합 검사(mixing test): aPTT 연장 교정됨",
+  "options": {
+    "A": "항핵항체(ANA) 검사",
+    "B": "von Willebrand 인자 검사(항원, 활성도, 다량체 분석)",
+    "C": "기관지 내시경 검사",
+    "D": "혈액응고인자 VIII 억제인자 검사",
+    "E": "혈소판 기능 검사(PFA-100)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 어린 시절부터 비출혈, 쉽게 멍이 드는 증상, 시술 후 과도한 출혈과 같은 출혈 경향이 있으며, 가족력(어머니와 여동생)이 있고, 심한 기침 후 객혈이 발생했습니다. 검사실 소견에서 혈소판 수는 정상이나 aPTT가 경미하게 연장되어 있고, 혼합 검사에서 교정되는 양상을 보입니다. 이러한 임상 양상은 폰빌레브란트병(von Willebrand disease, vWD)을 강하게 시사합니다.
 
+폰빌레브란트병은 von Willebrand 인자(vWF)의 양적 또는 질적 결함으로 인한 가장 흔한 유전성 출혈 질환으로, 상염색체 우성 또는 열성으로 유전됩니다. vWF는 혈관 손상 시 혈소판의 혈관 내피하 조직 부착을 매개하고, 혈액응고인자 VIII의 운반체 역할을 합니다. 따라서 vWF 결함은 일차 지혈(혈소판 기능)과 이차 지혈(응고 인자) 모두에 영향을 미칠 수 있습니다.
+
+폰빌레브란트병의 주요 임상 증상은 점막 출혈(비출혈, 잇몸 출혈, 월경과다), 쉽게 멍이 드는 것, 수술이나 외상 후 과도한 출혈 등이며, 가족력이 있는 경우가 많습니다. 심한 기침이나 구토와 같은 물리적 외력으로 인한 점막 손상으로 객혈이나 위장관 출혈이 발생할 수 있습니다.
+
+진단을 위해서는 von Willebrand 인자 검사가 필수적인데, 이는 vWF 항원(vWF:Ag), vWF 활성도(vWF:RCo), 그리고 vWF 다량체(multimer) 분석을 포함합니다. 또한 혈액응고인자 VIII 활성도 검사도 중요합니다. 
+
+항핵항체(ANA) 검사는 전신성 루푸스 홍반증과 같은 자가면역 질환의 진단에 유용하지만, 이 환자의 임상상은 자가면역 질환보다는 유전성 출혈 질환에 합당합니다. 기관지 내시경 검사는 객혈의 원인이 불명확하거나 기관지 내 병변이 의심될 때 유용하지만, 이 환자는 유전성 출혈 질환의 증거가 뚜렷합니다. 혈액응고인자 VIII 억제인자 검사는 후천성 혈우병 A가 의심될 때 필요하나, 이 환자는 어린 시절부터의 출혈 경향과 가족력이 있어 선천성 질환이 더 의심됩니다. 혈소판 기능 검사(PFA-100)는 혈소판 기능 이상을 선별하는 데 유용하며 폰빌레브란트병에서 이상을 보일 수 있으나, 특이도가 낮아 확진을 위해서는 좀 더 직접적인 vWF 검사가 필요합니다.",
+  "source": {
+    "file_name": "Blood Journal",
+    "content": "von Willebrand disease (vWD) is the most common inherited bleeding disorder, affecting up to 1% of the general population. It results from quantitative or qualitative defects in von Willebrand factor (vWF), a multimeric glycoprotein essential for platelet adhesion to subendothelial collagen at sites of vascular injury and for carrying factor VIII in plasma. Clinical manifestations typically include mucocutaneous bleeding such as epistaxis, easy bruising, gingival bleeding, menorrhagia, and excessive bleeding after surgery or trauma. Hemoptysis can occur, particularly after episodes of vigorous coughing that cause mucosal injury. Laboratory evaluation should include vWF antigen (vWF:Ag), vWF activity (vWF:RCo), factor VIII activity, and vWF multimer analysis. The disease is classified into three main types: Type 1 (partial quantitative deficiency), Type 2 (qualitative defects with various subtypes), and Type 3 (virtually complete deficiency). Treatment options include desmopressin (DDAVP), which stimulates the release of endogenous vWF in Type 1 and some Type 2 variants, and vWF-containing factor VIII concentrates for more severe cases or when DDAVP is ineffective."
+  },
+  "category": "Hematology and Oncology"
+}
