@@ -485,5 +485,166 @@
     - 방사선 치료 단독 및 완화적 치료는 제한적인 경우에 고려된다.",
     "source": "Korean J Gastroenterol 2022; 80(3):156",
     "category": "Gastroenterology"
+  },
+  {
+    "question_id": 1,
+    "question": "45세 여성이 유방 종괴를 주소로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "유방초음파: 좌측 유방 2.5cm 종괴. 조직검사: 침윤성 유관암, ER(+), PR(+), HER2(-), Ki-67 12%. 액와 림프절 전이 없음.",
+    "options": {
+      "A": "유방보존술 후 방사선 치료",
+      "B": "전절제술",
+      "C": "항암화학요법 후 수술",
+      "D": "항암화학요법 단독",
+      "E": "표적 치료 단독"
+    },
+    "answer": "A",
+    "explanation": "림프절 전이가 없는 2cm 이상 5cm 미만의 호르몬 수용체 양성 유방암에서는 유방보존술 후 방사선 치료가 표준 치료이다&#8203;:contentReference[oaicite:0]{index=0}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 2,
+    "question": "50세 여성이 건강검진에서 갑상선 결절이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "경부 초음파: 우측 갑상선 1.5cm 결절, 미세 석회화 동반. 세침흡인검사(FNA): Bethesda VI, 유두상 갑상선암. 경부 CT: 림프절 전이 없음.",
+    "options": {
+      "A": "갑상선 전절제술",
+      "B": "반절제술",
+      "C": "방사선 치료",
+      "D": "항암화학요법",
+      "E": "추적 관찰"
+    },
+    "answer": "B",
+    "explanation": "1~2cm 크기의 유두상 갑상선암에서 림프절 전이가 없는 경우 반절제술이 권장된다. 전절제술은 4cm 이상이거나 다발성 병변이 있을 경우 고려된다&#8203;:contentReference[oaicite:1]{index=1}.",
+    "source": "thyroid.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 3,
+    "question": "60세 남성이 건강검진 중 부신 종괴가 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "복부 CT: 우측 부신 5cm 종괴. 혈액검사: 코르티솔 과다 분비, 혈압 상승. 24시간 소변 검사: 코르티솔 증가.",
+    "options": {
+      "A": "부신 절제술",
+      "B": "방사선 치료",
+      "C": "항암화학요법",
+      "D": "보존적 치료",
+      "E": "호르몬 억제 치료"
+    },
+    "answer": "A",
+    "explanation": "4cm 이상의 부신 종괴에서 코르티솔 과다 분비가 확인된 경우 부신 절제술이 권장된다&#8203;:contentReference[oaicite:2]{index=2}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 4,
+    "question": "55세 남성이 건강검진 중 원발성 부갑상선 기능 항진증이 진단되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "혈액검사: 혈중 칼슘 11.5 mg/dL(↑), PTH 120 pg/mL(↑), 신기능 정상. 경부 초음파: 우측 하부 부갑상선 1.8cm 종괴.",
+    "options": {
+      "A": "추적 관찰",
+      "B": "부갑상선 절제술",
+      "C": "칼슘 조절 약물 치료",
+      "D": "방사선 치료",
+      "E": "항암화학요법"
+    },
+    "answer": "B",
+    "explanation": "무증상 원발성 부갑상선 기능 항진증에서 혈중 칼슘이 11mg/dL 이상이면 부갑상선 절제술이 권장된다&#8203;:contentReference[oaicite:3]{index=3}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 5,
+    "question": "65세 여성이 최근 유방 종괴를 발견하여 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "유방초음파: 좌측 유방 3.5cm 종괴. 조직검사: 삼중음성 유방암(TNBC). PET-CT: 원격 전이 없음.",
+    "options": {
+      "A": "유방보존술",
+      "B": "전절제술 후 항암화학요법",
+      "C": "항암화학요법 후 수술",
+      "D": "호르몬 치료 단독",
+      "E": "표적 치료 단독"
+    },
+    "answer": "C",
+    "explanation": "삼중음성 유방암(TNBC)에서는 항암화학요법을 우선 시행한 후 수술을 고려하는 것이 표준 치료이다&#8203;:contentReference[oaicite:4]{index=4}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 6,
+    "question": "52세 여성이 건강검진에서 유방 종괴가 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "유방초음파: 우측 유방 3cm 종괴. 조직검사: 침윤성 유관암, ER(-), PR(-), HER2(3+), Ki-67 30%. PET-CT: 액와 림프절 전이 2개.",
+    "options": {
+      "A": "유방보존술 후 방사선 치료",
+      "B": "전절제술 후 항암화학요법",
+      "C": "항HER2 표적치료 후 수술",
+      "D": "수술 전 항암화학요법 후 방사선 치료",
+      "E": "항호르몬 치료 단독"
+    },
+    "answer": "C",
+    "explanation": "HER2 양성 유방암에서는 수술 전에 항HER2 표적치료(trastuzumab ± pertuzumab)와 항암화학요법을 시행한 후 절제 여부를 결정하는 것이 표준 치료이다&#8203;:contentReference[oaicite:0]{index=0}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 7,
+    "question": "47세 여성이 갑상선 결절로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "경부 초음파: 좌측 갑상선 2.5cm 경계 불명확한 결절. FNA: Bethesda V, 의심성 여포암. 혈액검사: TSH 정상.",
+    "options": {
+      "A": "갑상선 반절제술",
+      "B": "갑상선 전절제술",
+      "C": "RAI 치료 후 추적 관찰",
+      "D": "항암화학요법",
+      "E": "정기적 초음파 추적 관찰"
+    },
+    "answer": "B",
+    "explanation": "Bethesda V의 여포암 의심 결절이 2cm 이상일 경우 갑상선 전절제술이 권장된다. 이후 병리 결과에 따라 방사성 요오드 치료(RAI)가 고려될 수 있다&#8203;:contentReference[oaicite:1]{index=1}.",
+    "source": "thyroid.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 8,
+    "question": "60세 여성이 최근 유방 종괴를 발견하여 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "유방초음파: 좌측 유방 2cm 종괴. 조직검사: 침윤성 유관암, ER(+), PR(+), HER2(-), Ki-67 35%. 유전자 검사: Oncotype DX score 32.",
+    "options": {
+      "A": "항호르몬 치료 단독",
+      "B": "항암화학요법 후 항호르몬 치료",
+      "C": "수술 후 방사선 치료 단독",
+      "D": "항HER2 표적치료 추가",
+      "E": "전절제술 후 관찰"
+    },
+    "answer": "B",
+    "explanation": "Oncotype DX 점수가 26 이상일 경우 항암화학요법이 권장된다. 이후 항호르몬 치료를 병행하는 것이 표준 치료이다&#8203;:contentReference[oaicite:2]{index=2}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 9,
+    "question": "58세 남성이 건강검진에서 부신 종양이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "복부 CT: 좌측 부신 6cm 종괴. 24시간 소변 검사: 메타네프린 증가. 혈압 160/100mmHg.",
+    "options": {
+      "A": "부신 절제술",
+      "B": "항암화학요법",
+      "C": "방사선 치료",
+      "D": "정기적 영상 추적 관찰",
+      "E": "고주파 열치료(RFA)"
+    },
+    "answer": "A",
+    "explanation": "크기가 4cm 이상이고 호르몬 과분비가 있는 부신 종양(갈색세포종)은 부신 절제술이 표준 치료이다&#8203;:contentReference[oaicite:3]{index=3}.",
+    "source": "breast.pdf",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 10,
+    "question": "64세 남성이 건강검진에서 갑상선 종양이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "경부 초음파: 우측 갑상선 3.8cm 저에코 결절. 조직검사: 갑상선 수질암(MTC), RET 유전자 돌연변이(+). CT: 경부 림프절 전이(+), 원격 전이 없음.",
+    "options": {
+      "A": "갑상선 전절제술 및 경부 림프절 절제술",
+      "B": "RAI 치료 후 수술",
+      "C": "항암화학요법 단독",
+      "D": "표적치료 단독",
+      "E": "정기적 영상 추적 관찰"
+    },
+    "answer": "A",
+    "explanation": "갑상선 수질암(MTC)은 방사성 요오드(RAI) 치료에 반응하지 않으며, 수술적 절제가 표준 치료이다. RET 돌연변이가 있는 경우 표적치료가 재발 시 고려될 수 있다&#8203;:contentReference[oaicite:4]{index=4}.",
+    "source": "thyroid.pdf",
+    "category": "Hematology and Oncology"
   }
 ]
+
