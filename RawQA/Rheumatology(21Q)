@@ -1,8 +1,8 @@
 {
   "question_id": 1,
-  "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
+  "chief complaint": "관절통/관절부기",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
-  "question": "32세 여성이 3개월 전부터 지속된 손가락 관절통과 아침 강직을 주소로 내원하였다. 최근 손가락 관절이 붓고 열감을 동반하며, 햇빛 노출 후 얼굴에 나비 모양 발진이 발생했다고 한다. 이 환자의 가장 적절한 초기 치료는?",
+  "question": "32세 여성이 3개월 전부터 지속된 손가락 관절통과 오전에 심한 관절 강직을 주소로 내원하였다. 최근 손가락 관절이 붓고 열감을 동반하며, 햇빛 노출 후 얼굴에 나비 모양 발진이 발생했다고 한다. 이 환자의 가장 적절한 초기 치료는?",
   "exam": {"WBC: 3,000/μL, Hb: 10.2 g/dL, PLT: 110,000/μL, Cr: 0.8 mg/dL,BUN: 14 mg/dL, ANA: 1:320 (positive), Anti-dsDNA: positive, C3: 55 mg/dL, C4: 10 mg/dL, Urinalysis: Proteinuria (2+), microscopic hematuria"
   },
   "options": {
@@ -19,7 +19,7 @@
 }
 {
   "question_id": 2,
-  "chief complaint": "관절통/관절부기(joint pain/joint swelling)",
+  "chief complaint": "관절통/관절부기",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "45세 여성이 6개월 전부터 아침에 심해지는 손가락 관절통을 주소로 내원하였다. 최근 손가락의 중수지관절과와 근위지관절의 종창이 심해졌으며, 피로감과 미열을 호소하고 있다. 이 환자의 가장 적절한 치료 전략은?",
   "exam": {"WBC: 8,500/μL, Hb: 11.5 g/dL, PLT: 380,000/μL, ESR: 60 mm/hr, CRP: 8.2 mg/dL, RF: 120 IU/mL, Anti-CCP: 210 U/mL, X-ray: 손가락 MCP, PIP 관절의 골미란 및 관절강 협소"
@@ -55,14 +55,14 @@
   "category": "Rheumatology"
 }
 {
-  "question_id": 5,
+  "question_id": 4,
   "chief complaint": "혈뇨",
   "purpose": "혈뇨가 있는 사람에게서 원인질환을 알아낼 수 있다.",
   "question": "65세 남성이 2주 전부터 시작된 붉은 소변과 피로감을 주소로 내원하였다. 최근 상기도 감염 증상이 있었으며, 체중 감소를 동반하였다. 신체검사상 혈압은 150/95 mmHg이며, 하지에 미세한 자반이 관찰되었다. 이 환자의 가장 적절한 초기 치료는?",
   "exam": "요검사: RBC > 50/HPF, protein 2+, WBC 5-10/HPF; Serum Cr: 2.8 mg/dL; BUN: 34 mg/dL; C3: 120 mg/dL (정상 90-180 mg/dL); C4: 30 mg/dL (정상 10-40 mg/dL); ANCA: 양성 (P-ANCA); Chest X-ray: 다발성 폐 침윤 소견",
   "options": {
     "A": "고용량 스테로이드 단독 치료",
-    "B": "플라스마 페레시스와 면역억제제 병합 치료",
+    "B": "혈장교환술 및 면역억제제 치료",
     "C": "NSAIDs와 대증 치료",
     "D": "항생제 치료 후 경과 관찰",
     "E": "항응고제 사용"
@@ -73,7 +73,7 @@
   "category": "Rheumatology"
 }
 {
-  "question_id": 6,
+  "question_id": 5,
   "chief complaint": "관절통/관절부기",
   "purpose": "관절통/관절부기가 있는 사람에게서 원인질환을 감별할 수 있다.",
   "question": "52세 여성이 1년 전부터 손가락 관절통과 함께 피부가 두꺼워지는 느낌이 있어 내원하였다. 최근 손가락이 차가운 환경에서 창백해지고 청색증을 보인 후 붉게 변하는 증상이 반복되었으며, 삼킴 곤란도 동반되고 있다. 신체검진에서 손가락 피부가 단단해지고, 미세혈관 확장증이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
