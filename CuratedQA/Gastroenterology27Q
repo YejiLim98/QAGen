@@ -165,35 +165,35 @@
     "question_id": 10,
     "chief complaint": "만성복통/소화불량/속쓰림",
     "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
-    "question": "50세 남성이 1년 전부터 식사 후 상복부 불편감과 조기 포만감을 호소하고 있다. 환자는 가끔 트림과 함께 더부룩함을 느끼며, 특정 음식을 섭취한 후 증상이 악화된다고 한다. 체중 변화는 없으며, 속쓰림과 연관된 증상은 없었다. 이 환자의 가장 적절한 초기 치료는 무엇인가?",
+    "question": "50세 남성이 1년 전부터 식사 후 배가 더부룩하고 쉽게 배가 불러오는 느낌이 든다고 내원하였다. 음식을 먹은 뒤 속이 답답한 느낌이 들며, 가끔 트림이 자주 나고 특정 음식을 먹으면 증상이 심해지는 것 같다고 한다. 체중 변화는 없고, 속쓰림이나 신물이 올라오는 증상은 없다. 위내시경 검사에서는 별다른 이상이 없었으며, 헬리코박터 파일로리 검사는 음성이었다. 이 환자의 가장 적절한 초기 치료는 무엇인가?",
     "exam": "위내시경: 특이 소견 없음; 헬리코박터 검사: 음성; 신체검사: 정상 범위; 혈액검사: WBC 6,800/uL, Hb 14.0 g/dL, Platelet 250,000/uL, AST 22 U/L, ALT 19 U/L, ALP 75 U/L; 혈압: 120/80 mmHg; 맥박: 76회/분",
     "options": {
-      "A": "Prokinetic agent 투여",
+      "A": "위장운동 촉진제 투여",
       "B": "PPI 단독 치료",
       "C": "H. pylori 제균 치료",
       "D": "대장내시경 검사 추가 시행",
       "E": "식이 요법 조정 및 심리 상담"
     },
     "answer": "A",
-    "explanation": "기질적 원인이 없는 기능성 소화불량(Functional Dyspepsia)에서는 증상에 따라 Prokinetic agent (위장운동 촉진제) 사용이 초기 치료로 권장된다. 환자는 위 배출 지연과 관련된 조기 포만감을 호소하며, 위내시경에서 기질적 이상이 없고, H. pylori 검사도 음성이므로 위장운동 촉진제 사용이 적절하다.",
-    "source": "소화기_전공의진료지침.pdf p.88: \"기능성 소화불량에서는 위배출 지연이 원인일 가능성이 있어, Prokinetic agent가 1차 치료로 권장된다.\"",
+    "explanation": "위내시경에서 기질적 질환이 없고 헬리코박터 검사도 음성이며, 조기 포만감과 더부룩함을 호소하는 경우 기능성 소화불량(Functional Dyspepsia)이 의심된다. 증상이 위 배출 지연과 관련될 가능성이 높아 위장운동 촉진제(Prokinetic agent)를 사용하는 것이 적절하다.",
+    "source": "소화기_전공의진료지침.pdf p.88: \"기능성 소화불량에서는 위배출 지연이 원인일 가능성이 있어, 위장운동 촉진제가 1차 치료로 권장된다.\"",
     "category": "Gastroenterology"
   },
   {
     "question_id": 11,
-    "chief complaint": "토혈",
+    "chief complaint": "토혈 (hematemesis)",
     "purpose": "토혈을 보이는 사람에게서 원인을 감별하고 적절한 치료를 할 수 있다.",
-    "question": "60세 남성이 갑작스럽게 다량의 피를 토하고, 현기증을 호소하며 내원하였다. 10년 전 B형 간염으로 진단받았으며, 최근 몇 달간 복수 증가와 간성뇌증 증상이 간헐적으로 있었다. 음주는 하지 않으며, 혈압이 85/50 mmHg, 맥박이 115회/분으로 측정되었다. 신체검사에서 공막 황달이 확인되었고, 복부 촉진 시 복수가 증가한 소견이 있었다. 이 환자의 초기 치료로 가장 적절한 것은?",
-    "exam": "내시경: LA Grade B 식도정맥류, red wale mark; 혈액검사: Hb 7.5 g/dL, Platelet 70,000/uL, INR 1.6, BUN 32 mg/dL, Cr 1.1 mg/dL, AST 88 U/L, ALT 43 U/L, ALP 120 U/L, Total bilirubin 4.2 mg/dL; 체온: 38.0℃; 복부 초음파: 간경화 소견, 비장 비대, 문맥압 항진 소견; EKG: 정상 동성 리듬",
+    "question": "60세 남성이 갑자기 피를 토한 뒤 어지러움을 느껴 응급실로 왔다. 예전부터 배가 자주 부었고, 최근 몇 달 동안 몸이 더 무거워지고 배가 단단해지는 느낌이 들었다고 한다. 평소 기억이 깜빡거리고, 가족들이 멍하게 앉아있는 일이 많다고 걱정한 적이 있었다. 병원에 도착했을 때 얼굴이 창백했고, 혈압은 85/50 mmHg, 맥박은 115회/분이었다. 이 환자의 초기 치료로 가장 적절한 것은?",
+    "exam": "내시경: 식도 정맥이 확장되어 있으며, 피가 나고 있음 (red wale mark); 혈액검사: Hb 7.5 g/dL, Platelet 70,000/uL, INR 1.6, BUN 32 mg/dL, Cr 1.1 mg/dL, AST 88 U/L, ALT 43 U/L, ALP 120 U/L, Total bilirubin 4.2 mg/dL; 체온: 38.0℃; 복부 초음파: 간이 거칠게 변형된 소견, 비장이 커져 있음, 혈류가 원활하지 않음; EKG: 정상 동성 리듬",
     "options": {
-      "A": "즉각적인 내시경적 밴딩 치료 및 혈관수축제 투여",
-      "B": "수액과 혈액제제 투여 후 상태 평가",
-      "C": "정맥용 PPI 투여 및 금식 유지",
-      "D": "수술적 치료를 위한 외과 협진",
-      "E": "항생제 투여 후 내시경적 치료 고려"
+      "A": "즉각적인 내시경적 밴딩 치료 및 혈관을 수축시키는 약물 투여",
+      "B": "수액과 혈액을 보충한 뒤 상태를 지켜본다",
+      "C": "위산을 줄이는 약물(PPI) 정맥 투여 및 금식 유지",
+      "D": "수술을 위한 외과 협진",
+      "E": "항생제를 투여한 뒤 내시경적 치료 고려"
     },
     "answer": "A",
-    "explanation": "이 환자는 B형 간염으로 인한 간경변증을 앓고 있으며, 식도정맥류 출혈이 확인되었다. 저혈압과 빈맥이 동반되어 있어 응급 치료가 필요하며, 즉각적인 내시경적 밴딩 치료(Endoscopic variceal ligation, EVL) 및 혈관수축제(terlipressin 또는 octreotide) 투여가 초기 치료로 권장된다.",
+    "explanation": "이 환자는 간 질환을 가지고 있으며, 식도 혈관이 터져 출혈이 발생한 상태이다. 혈압이 낮고 맥박이 빠른 것은 쇼크가 올 수 있다는 신호이므로, 즉각적인 내시경적 밴딩 치료(Endoscopic variceal ligation, EVL)와 혈관 수축제(terlipressin 또는 octreotide) 투여가 필요하다.",
     "source": "대한간학회_2019 대한간학회 간경변증 진료 가이드라인.pdf p.24: \"Vasopressin, terlipressin, somatostatin, octreotide와 같은 혈관수축제는 문맥압을 감소시킴으로써 급성 정맥류 출혈 환자에서 지혈 효과를 나타낸다.\"",
     "category": "Gastroenterology"
   },
@@ -201,8 +201,8 @@
     "question_id": 12,
     "chief complaint": "피로",
     "purpose": "피로를 호소하는 사람에게서 원인을 알아낼 수 있다.",
-    "question": "58세 남성이 간경변증 병력과 함께 혼란, 기분 변화 및 어지러움을 호소하며 내원하였다. 혈액검사에서 혈청 암모니아 수치가 150 µg/dL (정상 15-45 µg/dL)로 상승하였고, EEG에서 비정상 소견이 확인되었다. 이 환자에 대한 간성뇌증 초기 치료로 가장 적절한 것은 무엇인가?",
-    "exam": "혈액검사: 암모니아 150 µg/dL; EEG: 비정상 소견; 체온: 37.0℃; 혈압: 110/70 mmHg; 맥박: 85회/분",
+    "question": "58세 남성이 몇 주 전부터 기운이 없고 멍한 느낌이 들었다고 내원했다. 최근 집중력이 떨어지고 대화 도중 단어를 잘 떠올리지 못하는 일이 많아졌다. 가족들은 환자가 예전보다 쉽게 짜증을 내고, 평소보다 행동이 둔해진 것 같다고 했다. 평소 술을 자주 마셨으며, 수년 전부터 배가 붓는 증상으로 치료받은 적이 있다. 내원 당시 간단한 계산을 하지 못했고, 정신 상태가 약간 흐려진 모습이었다.",
+    "exam": "혈액검사: 암모니아 150 µg/dL; Na+ 134 mEq/L, K+ 3.8 mEq/L; BUN 18 mg/dL, Cr 0.9 mg/dL; ALT 42 IU/L, AST 76 IU/L, ALP 95 IU/L, Total bilirubin 3.0 mg/dL, Albumin 2.8 g/dL, INR 1.4; EEG: 비정상적인 서파 증가 소견; 신경학적 검사: 의식 혼탁, 손떨림 관찰됨; 혈압: 110/70 mmHg; 맥박: 85회/분",
     "options": {
       "A": "Lactulose 투여",
       "B": "Rifaximin 단독 투여",
@@ -211,16 +211,16 @@
       "E": "고단백 식이 및 전해질 교정"
     },
     "answer": "A",
-    "explanation": "간성뇌증의 초기 치료로 lactulose 투여가 표준 치료로 권장된다.",
-    "source": "대한간학회_2019 대한간학회 간경변증 진료 가이드라인 정맥류 간성뇌증 및 관련 합병증.pdf p.66: \"간성뇌증 환자의 급성기 치료로 lactulose나 lactitol 등 비흡수성 이당류를 사용한다. 경구 투여가 어렵거나 West-Haven criteria 3단계 이상의 심한 간성뇌증에서는 lactulose 관장을 시행한다.\"&#8203;:contentReference[oaicite:1]{index=1}",
+    "explanation": "이 환자는 정신 상태 변화와 신경학적 이상(손떨림)이 있으며, 혈중 암모니아 수치가 상승했다. 이는 특정 대사 이상으로 인해 발생하는 의식 장애 가능성을 시사한다. 초기 치료로는 암모니아를 감소시키기 위한 lactulose가 권장된다.",
+    "source": "대한간학회_2019 대한간학회 간경변증 진료 가이드라인.pdf p.66: \"간성뇌증 환자의 급성기 치료로 lactulose나 lactitol 등 비흡수성 이당류를 사용한다. 경구 투여가 어렵거나 West-Haven criteria 3단계 이상의 심한 간성뇌증에서는 lactulose 관장을 시행한다.\"",
     "category": "Gastroenterology"
   },
   {
     "question_id": 13,
-    "chief complaint": "33. 복부팽만/복수 (abdominal distension/ascites)",
+    "chief complaint": "복부팽만/복수",
     "purpose": "복부팽만/복수를 갖고 있는 사람에게서 병력, 신체진찰 및 검사를 통해 원인을 파악할 수 있다.",
-    "question": "60세 남성이 간경변증 병력과 함께 점차 증가하는 복부 팽만을 호소한다. 혈액검사에서 알부민 2.5 g/dL, AST 100 IU/L, ALT 80 IU/L가 측정되었고, ascites 천자 검사에서 SAAG 1.4 g/dL와 총 단백질 2.0 g/dL가 나타났다. 이 환자의 복수의 원인은 무엇인가?",
-    "exam": "혈액검사: 알부민 2.5 g/dL, AST 100 IU/L, ALT 80 IU/L; ascites 분석: SAAG 1.4 g/dL, 총 단백질 2.0 g/dL; 신체: 복부 팽만, fluid wave 양성; EKG: 정상",
+    "question": "60세 남성이 몇 달 전부터 배가 점점 불러오는 느낌이 들었다고 내원했다. 처음에는 단순한 체중 증가라고 생각했지만, 배가 점점 단단해지고 눕기가 불편해졌다. 한 달 전부터는 신발이 꽉 끼고 다리가 붓는 느낌도 들었다. 속이 더부룩하고 식사량이 줄었으며, 눕거나 숨을 크게 쉴 때 불편함이 있었다. 과거 병력으로 수년 전부터 병원에서 간이 좋지 않다는 이야기를 들은 적이 있다고 한다.",
+    "exam": "혈액검사: 알부민 2.5 g/dL, AST 100 IU/L, ALT 80 IU/L, 총 빌리루빈 2.8 mg/dL, INR 1.3; BUN 22 mg/dL, Cr 1.1 mg/dL; Na+ 132 mEq/L, K+ 3.9 mEq/L; 복부 초음파: 간 표면이 거칠고 크기가 작아진 소견, 복강 내 다량의 저에코성 액체 확인됨; ascites 분석: SAAG 1.4 g/dL, 총 단백질 2.0 g/dL; 신체: 복부 팽만, fluid wave 양성, 하지 부종",
     "options": {
       "A": "심부전에 의한 복수",
       "B": "간경변증에 의한 복수",
@@ -229,16 +229,16 @@
       "E": "신부전"
     },
     "answer": "B",
-    "explanation": "SAAG 1.4 g/dL와 저총 단백질은 문맥압 상승에 의한 간경변증 관련 복수를 시사한다.",
-    "source": "소화기_전공의진료지침.pdf p.15: \"SAAG (serum ascite albumin gradient)는 복수의 감별진단에 유용(표 1). SAAG>1.1 g/dL (문맥고혈압과 관련된 질환).\"&#8203;:contentReference[oaicite:0]{index=0}",
+    "explanation": "복강 내 액체가 증가하면서 복부 팽만이 심해졌고, 하지 부종과 함께 진행적인 증상을 보였다. 혈액 검사에서 저알부민혈증이 있으며, ascites 검사에서 SAAG>1.1 g/dL이므로 문맥압 상승과 관련된 복수로 판단할 수 있다. 이와 같은 소견은 간의 만성적인 문제로 인해 발생하는 복수 가능성이 높다.",
+    "source": "소화기_전공의진료지침.pdf p.15: \"SAAG (serum ascite albumin gradient)는 복수의 감별진단에 유용(표 1). SAAG>1.1 g/dL (문맥고혈압과 관련된 질환).\"",
     "category": "Gastroenterology"
   },
   {
     "question_id": 14,
-    "chief complaint": "10. 급성복통 (acute abdominal pain)",
+    "chief complaint": "급성 복통",
     "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아낼 수 있다.",
-    "question": "60세 여성이 우상복부에 지속적인 통증과 발열, 오한을 호소하며 내원하였다. 신체검사에서 우상복부 압통과 Murphy's sign이 양성으로 나타났으며, 혈액검사에서는 백혈구 수 16,000/mm³, CRP 35 mg/L, ALT 60 IU/L, AST 55 IU/L, ALP 180 IU/L가 측정되었다. 복부 초음파 검사에서 담낭 벽 두꺼워짐과 담석이 확인되었다. 이 환자의 복통의 원인은 무엇인가?",
-    "exam": "혈액검사: 백혈구 16,000/mm³, CRP 35 mg/L, ALT 60 IU/L, AST 55 IU/L, ALP 180 IU/L; 초음파: 담낭 벽 두꺼워짐, 담석 확인; 신체: 우상복부 압통, 양성 Murphy's sign; 체온: 38.5℃; EKG: 정상",
+    "question": "60세 여성이 하루 전부터 시작된 심한 배 통증으로 병원에 왔다. 처음에는 가볍게 불편한 정도였지만, 시간이 지나면서 통증이 심해졌고, 움직이거나 숨을 깊이 들이마시면 더 아파졌다고 한다. 열이 나고 몸이 으슬으슬 떨렸으며, 메스꺼움도 느껴진다고 했다. 병원에서 배를 눌러 보았을 때, 오른쪽 윗배를 누르면 심한 통증을 보였고, 숨을 깊이 들이마시려다 멈추었다. 이 환자의 복통 원인으로 가장 가능성이 높은 것은 무엇인가?",
+    "exam": "혈액검사: 백혈구 16,000/mm³, CRP 35 mg/L, ALT 60 IU/L, AST 55 IU/L, ALP 180 IU/L; 복부 초음파: 담낭 벽이 두꺼워져 있으며, 내부에 결석이 관찰됨; 신체검사: 우상복부 압통, Murphy’s sign 양성; 체온: 38.5℃; 혈압: 125/80 mmHg; 맥박: 90회/분; EKG: 정상 동성 리듬",
     "options": {
       "A": "급성 충수염",
       "B": "급성 담낭염",
@@ -247,33 +247,15 @@
       "E": "대장 폐쇄"
     },
     "answer": "B",
-    "explanation": "우상복부 압통, Murphy's sign, 담낭 초음파 소견 및 염증 지표 상승은 급성 담낭염을 시사한다.",
-    "source": "소화기_전공의진료지침.pdf p.141: \"Murphy's sign: 우상복부 촉진 시 deep inspiration이나 기침에 의해 통증이 증가되고 inspiratory arrest가 유발.\"&#8203;:contentReference[oaicite:1]{index=1}",
+    "explanation": "환자는 열이 나고, 오른쪽 윗배를 눌렀을 때 심한 통증을 느끼며, 숨을 깊이 들이마실 때 아파서 멈추는 Murphy’s sign이 양성이다. 또한 초음파에서 담낭 벽이 두꺼워져 있고, 내부에 결석이 확인되었다. 이와 같은 소견은 급성 담낭염을 강하게 시사한다.",
+    "source": "소화기_전공의진료지침.pdf p.141: \"Murphy's sign: 우상복부 촉진 시 deep inspiration이나 기침에 의해 통증이 증가되고 inspiratory arrest가 유발된다.\"",
     "category": "Gastroenterology"
   },
   {
     "question_id": 15,
-    "chief complaint": "2. 가슴통증/가슴불쾌감 (chest pain/chest discomfort/tightness)",
-    "purpose": "가슴통증/가슴불쾌감이 있는 사람에게서 원인질환과 중증도를 알아낼 수 있다.",
-    "question": "45세 여성이 6개월간 식후 가슴 작열감과 불쾌감을 호소하며 내원하였다. 위내시경 검사에서 미란성 식도염이 관찰되었고, 24시간 산도 측정 검사에서 정상보다 긴 시간 동안 식도 내 pH가 4 미만으로 유지되었다. 이 환자의 진단은 무엇인가?",
-    "exam": "위내시경: 미란성 식도염; 24시간 산도 검사: 식도 내 pH 4 미만 유지 시간 증가; EKG: 정상 동성 리듬",
-    "options": {
-      "A": "LA Grade A 미란성 식도염",
-      "B": "LA Grade B 미란성 식도염",
-      "C": "NERD",
-      "D": "Erosive esophagitis",
-      "E": "바렛 식도"
-    },
-    "answer": "A",
-    "explanation": "24시간 산도 검사에서 산 노출 시간이 증가하고, 내시경에서 미란성 식도염 소견이 확인되었으며, 병변의 크기가 LA Grade A 기준에 부합한다.",
-    "source": "jnm-27-4-453.pdf p.457: \"GERD is a condition in which gastric contents reflux into the esophagus or oral cavity, causing troublesome symptoms or complications. The Los Angeles (LA) classification is used to assess the severity of erosive esophagitis in endoscopic findings.\"&#8203;:contentReference[oaicite:0]{index=0}",
-    "category": "Gastroenterology"
-  },
-  {
-    "question_id": 16,
-    "chief complaint": "30. 변비 (constipation)",
+    "chief complaint": "변비",
     "purpose": "변비를 호소하는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
-    "question": "35세 여성이 6개월간 주 2회 이하의 배변과 매우 단단한 변, 그리고 배변 시 과도한 힘을 필요로 하는 증상을 호소한다. 대장 이동 시간 검사는 96시간으로 측정되었고, 디지털 직장검진에서 항문 근육 긴장이 증가된 것으로 확인되었다. 이 환자의 변비는 무엇으로 진단되는가?",
+    "question": "35세 여성이 6개월간 주 2회 이하의 배변과 매우 단단한 변, 그리고 배변 시 과도한 힘을 필요로 하는 증상을 호소한다. 대장 이동 시간 검사는 96시간으로 측정되었고, 직장수지검사에서 항문 근육 긴장이 증가된 것으로 확인되었다. 이 환자의 변비는 무엇으로 진단되는가?",
     "exam": "배변 빈도: 주 2회 이하; 대장 이동 시간: 96시간; 디지털 직장검진: 항문 근육 긴장 증가; 체온: 36.7℃; 혈압: 118/78 mmHg; EKG: 정상",
     "options": {
       "A": "기능성 변비",
@@ -288,29 +270,29 @@
     "category": "Gastroenterology"
   },
   {
-    "question_id": 17,
-    "chief complaint": "98. 감염병 유행과 관리 (outbreak management)",
+    "question_id": 16,
+    "chief complaint": "감염병 유행과 관리",
     "purpose": "감염병 유행을 정의하고, 유행 발생을 조기에 발견할 수 있다.",
-    "question": "50세 남성이 만성 B형간염 치료 중이었으나, 최근 ALT 200 IU/L, AST 180 IU/L, HBV DNA 1.2×10^7 IU/mL가 재측정되었고, 내성 관련 검사에서 resistance-associated substitutions (RAS)이 확인되었다. 이 경우, 다음 중 최적의 치료 변경은 무엇인가?",
-    "exam": "혈액검사: ALT 200 IU/L, AST 180 IU/L; HBV DNA: 1.2×10^7 IU/mL; RAS: 양성; 체온: 36.8℃; EKG: 정상",
+    "question": "50세 남성이 만성 B형간염으로 엔테카비르를 복용 중이었으나, 최근 치료 반응이 좋지 않아 재평가를 시행하였다. 이 환자의 최적의 치료 변경은 무엇인가?",
+    "exam": "혈액검사: ALT 200 IU/L, AST 180 IU/L; HBV DNA: 1.2×10^7 IU/mL; 내성 관련 변이: 양성; 체온: 36.8℃; EKG: 정상",
     "options": {
       "A": "현재 항바이러스제 유지",
-      "B": "엔테카비르로 전환",
+      "B": "엔테카비르 지속 복용",
       "C": "테노포비르 알라페나마이드로 전환",
       "D": "라미부딘 추가",
       "E": "간이식 평가"
     },
     "answer": "C",
-    "explanation": "항바이러스제 내성 시에는 테노포비르 알라페나마이드로 전환하는 것이 효과적인 치료 옵션이다.",
-    "source": "대한간학회_2022년 만성 B형간염 진료 가이드라인_내지(온라인수정).pdf p.67: \"만성 B형간염 치료 중 내성이 발생한 경우, 테노포비르 알라페나마이드(TAF) 또는 엔테카비르(ETV)로의 전환이 권장된다.\"&#8203;:contentReference[oaicite:1]{index=1}",
+    "explanation": "이 환자는 엔테카비르 치료 중 내성 관련 변이가 확인되었으며, HBV DNA가 높은 수치로 재검출되었다. 따라서 테노포비르 알라페나마이드(TAF)로 변경하는 것이 적절한 치료 전략이다. TAF는 엔테카비르 내성 변이를 가진 환자에서도 효과적으로 HBV 억제 효과를 보이며, 기존 치료보다 내성 발생률이 낮아 선호되는 치료 옵션이다.",
+    "source": "대한간학회_2022년 만성 B형간염 진료 가이드라인_내지(온라인수정).pdf p.67: \"만성 B형간염 치료 중 내성이 발생한 경우, 테노포비르 알라페나미드(TAF) 또는 엔테카비르(ETV)로의 전환이 권장된다.\"",
     "category": "Gastroenterology"
   },
   {
-    "question_id": 18,
+    "question_id": 17,
     "chief complaint": "황달",
     "purpose": "황달이 있는 사람에게서 황달의 원인을 감별하고, 적절한 치료 계획을 세울 수 있다.",
-    "question": "42세 여성이 피로, 우상복부 불편감, 경미한 황달을 호소하며 내원하였다. 혈액검사에서 ALT 300 IU/L, AST 350 IU/L, IgG 2800 mg/dL, ANA 1:640, anti-SLA 양성이 확인되었고, 간 조직검사에서 포털 부위의 염증 및 interface hepatitis 소견이 나타났다. 자가면역 간염으로 진단된 이 환자의 1차 치료로 가장 적절한 것은 무엇인가?",
-    "exam": "혈액검사: ALT 300 IU/L, AST 350 IU/L, IgG 2800 mg/dL, ANA 1:640, anti-SLA 양성; 간 조직검사: interface hepatitis; EKG: 미상",
+    "question": "42세 여성이 최근 몇 달 동안 지속적인 피로감과 우상복부 불편감을 느껴 병원에 왔다. 환자는 최근 체중이 감소했으며, 피부와 눈이 약간 노랗게 변하는 것을 가족이 먼저 알아차렸다고 한다. 환자는 특별한 약물 복용력이나 알코올 섭취력이 없으며, 이전까지 간질환을 진단받은 적이 없었다. 이 환자의 1차 치료로 가장 적절한 것은 무엇인가?",
+    "exam": "혈액검사: ALT 300 IU/L, AST 350 IU/L, IgG 2800 mg/dL, ANA 1:640, anti-SLA 양성; 간 조직검사: 포털 부위 염증 및 interface hepatitis 소견; 체온: 37.0℃; 혈압: 120/75 mmHg; 맥박: 76회/분; EKG: 정상 동성 리듬",
     "options": {
       "A": "Ursodeoxycholic acid",
       "B": "Azathioprine 단독 치료",
@@ -319,25 +301,25 @@
       "E": "간이식 즉시 고려"
     },
     "answer": "C",
-    "explanation": "자가면역 간염의 1차 치료는 glucocorticoid 단독 치료 또는 azathioprine과의 병용 치료가 권장된다.",
-    "source": "대한간학회_2022년 자가면역간염 진료가이드라인_내지-8차-PDF version 수정.pdf p.43: \"First-line treatment for AIH consists of glucocorticoid monotherapy or combination therapy with azathioprine.\"&#8203;:contentReference[oaicite:0]{index=0}",
+    "explanation": "이 환자는 IgG 상승, ANA 및 anti-SLA 양성, 간 조직검사에서 interface hepatitis가 확인되었으며, 이는 자가면역 간염(AIH)의 전형적인 소견이다. AIH의 1차 치료는 glucocorticoid 단독 요법 또는 azathioprine과의 병용 요법이 권장된다. Ursodeoxycholic acid는 원발성 담즙성 담관염(PBC)에 사용되며, AIH의 1차 치료제로 권장되지 않는다.",
+    "source": "대한간학회_2022년 자가면역간염 진료가이드라인.pdf p.43: \"First-line treatment for AIH consists of glucocorticoid monotherapy or combination therapy with azathioprine.\"",
     "category": "Gastroenterology"
   },
   {
-    "question_id": 19,
+    "question_id": 18,
     "chief complaint": "건강과 건강결정인자",
     "purpose": "건강, 삶의 질, 질병을 정의하고 개념을 설명할 수 있다.",
-    "question": "48세 여성이 만성 C형간염 진단 후, 유전자형 1b, ALT 90 IU/L, AST 80 IU/L, HCV RNA 2.0×10^6 IU/mL가 측정되었으며, 간경변증은 없는 상태이다. 이 환자에게 권장되는 치료 옵션은 무엇인가?",
-    "exam": "혈액검사: ALT 90 IU/L, AST 80 IU/L; HCV RNA: 2.0×10^6 IU/mL; 체온: 36.9℃; EKG: 정상 동성 리듬",
+    "question": "48세 여성이 만성 C형간염으로 진단받고 치료 계획을 논의하기 위해 병원에 방문하였다. 환자는 간 기능과 관련된 증상을 특별히 느끼지 못하지만, 최근 검진에서 간염 수치가 상승한 것을 확인하였다. 환자는 과거 C형간염 치료를 받은 적이 없으며, 별다른 동반 질환도 없다. 이 환자에게 권장되는 치료 옵션은 무엇인가?",
+    "exam": "혈액검사: ALT 90 IU/L, AST 80 IU/L; HCV RNA: 2.0×10^6 IU/mL; 유전자형: 1b; 간경변증 없음; 체온: 36.9℃; 혈압: 118/76 mmHg; 맥박: 74회/분; EKG: 정상 동성 리듬",
     "options": {
       "A": "인터페론 기반 치료",
-      "B": "소포브루비르/레디파스비르 복합 요법",
-      "C": "소포브루비르 단독 요법",
+      "B": "소포스부비르/레디파스비르 복합 요법",
+      "C": "소포스부비르 단독 요법",
       "D": "간이식 대기",
       "E": "관찰 및 모니터링"
     },
     "answer": "B",
-    "explanation": "유전자형 1b 및 비간경변 상태에서는 소포브루비르/레디파스비르 복합 요법이 권장된다.",
+    "explanation": "유전자형 1b 및 비간경변 상태의 만성 C형간염 환자에서는 직접작용항바이러스제(DAA) 치료가 표준으로 권장된다. 소포스부비르/레디파스비르 복합 요법은 간경변이 없는 유전자형 1b 환자에게 가장 권장되는 치료법이다. 인터페론 기반 치료는 부작용이 많아 현재는 거의 사용되지 않으며, 단독 요법도 권장되지 않는다.",
     "source": "2017 대한간학회 C형간염 진료 가이드라인 만성 C형간염의 치료.pdf p.28",
     "category": "Gastroenterology"
   },
