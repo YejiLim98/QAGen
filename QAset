@@ -4434,6 +4434,406 @@
 },
 
 {
+  "question_id": 10,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "48세 여성이 5일 전부터 시작된 두근거림, 불안감, 불면을 주소로 내원하였다. 환자는 심장이 빠르게 뛰는 느낌이 하루 종일 지속되며, 가슴이 조이는 듯한 불편감과 숨이 가빠지는 느낌이 동반된다고 한다. 평소 잠을 잘 자는 편이었으나 최근 잠들기 어렵고 자주 깬다고 한다. 일주일 전 지역 의원에서 감기 증상으로 처방받은 약을 복용 중이며, 평소 알레르기 비염으로 OTC 약물을 간헐적으로 복용한다고 한다. 과거력상 경도의 고혈압과 불안장애로 치료 중이다. 신체 검사에서 혈압 135/85 mmHg, 맥박 110회/분(규칙적), 호흡수 20회/분, 체온 36.8°C였으며, 심음 청진 시 규칙적인 빈맥 외 특이 소견은 없었다. 피부는 따뜻하고 약간 습하였다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: 전해질, 갑상선 기능 검사, CBC 모두 정상 범위\n심전도: 동성 빈맥, 심박수 112회/분, QTc 460ms\n현재 복용 중인 약물: 슈도에페드린 함유 감기약(5일간), 디펜히드라민 함유 알레르기 약(간헐적), 로라제팜 0.5mg 취침 전, 암로디핀 5mg",
+  "options": { 
+    "A": "슈도에페드린, 디펜히드라민 중단 및 증상 관찰", 
+    "B": "프로프라놀롤 20mg 하루 2회 처방", 
+    "C": "항불안제(알프라졸람) 증량", 
+    "D": "추가 갑상선 기능 검사 실시", 
+    "E": "부정맥 전문의 의뢰 및 전기생리학적 검사" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 최근 슈도에페드린과 디펜히드라민을 복용한 후 두근거림, 불안, 불면 등의 증상이 발생했다. 슈도에페드린은 교감신경 자극제로 알파 및 베타 아드레날린 수용체에 작용하여 빈맥, 혈압 상승, 불안, 불면 등을 유발할 수 있다. 디펜히드라민은 항히스타민제로 항콜린성 작용으로 인해 빈맥을 유발할 수 있다. 두 약물의 병용은 이러한 부작용을 악화시킬 수 있다. 환자는 기존에 불안장애가 있어 약물 부작용에 더 취약할 수 있다. 가장 적절한 치료 계획은 원인 약물(슈도에페드린, 디펜히드라민)을 중단하고 증상이 호전되는지 관찰하는 것이다. 대부분의 경우 약물 중단 후 수일 내에 증상이 호전된다. 프로프라놀롤과 같은 베타차단제는 약물 유발성 두근거림을 완화시킬 수 있으나, 원인 약물을 중단하지 않고 증상만 치료하는 것은 적절하지 않다. 항불안제 증량은 불안 증상을 완화시킬 수 있으나, 약물 유발성 심계항진의 근본 원인을 해결하지 못한다. 또한, 벤조디아제핀의 증량은 의존성 위험을 증가시킬 수 있다. 갑상선 기능 검사는 이미 정상으로 확인되었으며, 최근 약물 복용과 증상 발생의 시간적 연관성을 고려할 때 갑상선 질환보다는 약물 부작용의 가능성이 높다. 동성 빈맥 외에 다른 부정맥 증거가 없고, 증상이 최근 약물 복용과 연관되어 있으므로 부정맥 전문의 의뢰나 침습적인 전기생리학적 검사는 현 시점에서 필요하지 않다.",
+  "source": "Pharmacology_Katzung_textbook_data.txt: Sympathomimetic agents like pseudoephedrine can cause significant cardiovascular adverse effects including palpitations, tachycardia, and elevated blood pressure. These effects are mediated through both direct stimulation of β1-adrenergic receptors in the heart and indirect release of norepinephrine from sympathetic nerve terminals. First-generation antihistamines such as diphenhydramine possess significant anticholinergic properties that can lead to tachycardia through vagal inhibition. The combination of sympathomimetic decongestants and anticholinergic antihistamines may have synergistic effects on heart rate. Management of drug-induced palpitations primarily involves discontinuation of the offending agent(s), with complete resolution typically occurring within days. Patients with underlying anxiety disorders may be particularly sensitive to the sympathomimetic effects of these medications and experience heightened awareness of normal or slightly increased heart rates.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 기록한 심전도를 판독할 수 있다.",
+  "question": "58세 남성이 갑작스러운 심계항진과 어지러움을 주소로 응급실에 내원하였다. 환자는 30분 전부터 빠른 심장 박동과 함께 가슴 답답함, 식은땀, 호흡곤란을 느꼈다고 한다. 과거력상 5년 전 전벽 심근경색으로 경피적 관상동맥 중재술을 받았으며, 좌심실 구혈률은 35%였다. 신체 검사에서 혈압 85/50 mmHg, 맥박 180회/분(규칙적), 호흡수 24회/분, 체온 36.7°C였다. 의식은 명료하나 창백하고 차가운 사지를 보였으며, 경정맥 확장이 관찰되었다. 심음 청진 시 S3 갤럽음이 들렸다. 응급실에서 촬영한 심전도를 보았을 때, 가장 적절한 판독은?",
+  "exam": "혈액 검사: K 3.9 mEq/L, Mg 1.8 mg/dL, 트로포닌 T 0.02 ng/mL\n심전도: 규칙적인 넓은 QRS 복합체 빈맥(QRS 간격 160ms), 심박수 180회/분, AV 해리 소견, 좌축 편위, V1에서 우각차단 형태의 QRS 모양\n흉부 X-선: 심비대, 울혈 소견\n이전 심초음파(3개월 전): 좌심실 구혈률 30%, 전벽 및 심첨부 무운동, 중등도 승모판 역류",
+  "options": { 
+    "A": "다형성 심실빈맥", 
+    "B": "단형성 심실빈맥", 
+    "C": "심실상성 빈맥과 수반된 변형 전도", 
+    "D": "심방조동과 2:1 전도", 
+    "E": "전도 이상을 동반한 동성 빈맥" 
+  },
+  "answer": "B",
+  "explanation": "이 환자의 심전도는 규칙적인 넓은 QRS 복합체 빈맥(QRS 간격 160ms), 심박수 180회/분, AV 해리 소견을 보이며, 이는 단형성 심실빈맥에 합당하다. 단형성 심실빈맥은 모든 QRS 복합체가 동일한 형태를 보이는 심실 기원의 빈맥으로, 심박수는 보통 분당 100-250회이다. 심실빈맥의 진단 기준으로는 넓은 QRS 복합체(>120ms), AV 해리, 캡처 박동, 융합 박동 등이 있다. 이 환자는 과거 전벽 심근경색과 저하된 좌심실 기능(구혈률 30%)을 가지고 있어 심실빈맥의 고위험군에 해당한다. 심근경색 후 발생한 반흔 조직은 심실빈맥의 주요 기질로 작용한다. 환자는 저혈압, 호흡곤란, 차가운 사지 등 혈역학적 불안정 소견을 보여 응급 치료가 필요하다. 다형성 심실빈맥은 QRS 복합체의 형태가 지속적으로 변화하는 특징이 있으나, 이 환자는 일정한 형태의 QRS를 보인다. 심실상성 빈맥과 변형 전도는 보통 기존 각차단이나 변이 전도로 인해 넓은 QRS를 보이나, AV 해리 소견은 심실빈맥을 강력히 시사한다. 심방조동은 보통 2:1 전도 시 심실 박동수가 150회/분 정도이며, 특징적인 톱니모양의 기저선(F파)이 없다. 전도 이상을 동반한 동성 빈맥은 심박수가 보통 150회/분 미만이며, P파가 QRS 앞에 관찰된다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Monomorphic ventricular tachycardia (VT) is characterized by a regular, wide QRS complex (usually >140 ms) tachycardia with a consistent QRS morphology. Diagnostic features include AV dissociation, fusion beats, and capture beats. The most common cause is structural heart disease, particularly prior myocardial infarction with scar formation. VT originating from the left ventricle typically presents with a right bundle branch block pattern in V1, while right ventricular VT shows a left bundle branch block pattern. Hemodynamic compromise (hypotension, heart failure, myocardial ischemia) during VT requires immediate electrical cardioversion. The presence of VT in a patient with reduced left ventricular function (EF <35%) is an indication for ICD placement for secondary prevention of sudden cardiac death.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 12,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "16세 여학생이 체육시간 중 갑작스러운 두근거림과 의식 소실로 응급실에 내원하였다. 환자는 비슷한 삽화가 과거에도 2회 있었으며, 모두 격렬한 운동이나 감정적 스트레스 상황에서 발생했다고 한다. 의식 소실 직전에 심한 두근거림을 느꼈다고 하며, 발작이나 대소변 실금은 없었다. 가족력상 환자의 어머니가 30대에 원인 불명의 실신으로 사망했다고 한다. 신체 검사에서 혈압 110/70 mmHg, 맥박 65회/분(규칙적), 호흡수 16회/분, 체온 36.5°C였으며, 청진 소견상 특이 사항은 없었다. 입원 중 모니터링 중 몇 차례의 다형성 심실빈맥이 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 전해질(Na 140 mEq/L, K 4.3 mEq/L, Ca 9.5 mg/dL, Mg 2.1 mg/dL), 갑상선 기능 검사, 혈당 모두 정상 범위\n심전도: 교정 QT 간격 520ms(정상: <440ms), T파 교대현상 관찰\n심초음파: 정상 심장 구조 및 기능(좌심실 구혈률 65%), 판막 이상 없음\n뇌 MRI 및 뇌파 검사: 정상\n운동부하 검사: 심박수 증가와 함께 QT 간격 지속적 연장 및 다형성 심실빈맥 발생",
+  "options": { 
+    "A": "긴 QT 증후군", 
+    "B": "브루가다 증후군", 
+    "C": "부정맥성 우심실 심근병증", 
+    "D": "허혈성 심장 질환", 
+    "E": "간질 발작" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 16세 여학생으로 운동이나 감정적 스트레스 상황에서 발생한 실신 병력이 있으며, 심전도에서 QT 간격 연장(520ms)과 T파 교대현상이 관찰되고, 모니터링 중 다형성 심실빈맥이 확인되었다. 또한 가족력상 어머니의 젊은 나이 원인 불명 돌연사가 있어 선천성 긴 QT 증후군(LQTS)으로 진단할 수 있다. 긴 QT 증후군은 심실 재분극 지연으로 인해 QT 간격이 연장되는 유전성 질환으로, 심실빈맥(특히 torsades de pointes)이나 심실세동을 유발하여 실신이나 돌연사를 초래할 수 있다. 유형에 따라 다르지만, 운동(특히 수영), 감정적 스트레스, 큰 소리(기상 알람 등)가 유발 요인이 될 수 있다. 젊은 나이의 원인 불명 실신, 특히 운동이나 감정적 스트레스와 연관된 경우 항상 LQTS를 의심해야 한다. 브루가다 증후군은 우각차단 양상과 우측 흉부 유도(V1-V3)에서 ST 분절 상승이 특징이나, 이 환자의 심전도에서 그러한 소견은 없다. 부정맥성 우심실 심근병증은 우심실 확장과 기능 이상, T파 역전, 입실론파 등의 특징이 있으나, 심초음파에서 정상 소견을 보인다. 허혈성 심장 질환은 16세 여학생에서 매우 드물며, 심전도나 심초음파에서 허혈 소견이 없다. 간질 발작은 보통 발작 중 의식 소실과 함께 강직-간대 운동이 동반되고 뇌파 이상이 있으나, 이 환자는 두근거림 이후 실신이 발생했으며 뇌파 검사가 정상이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Congenital long QT syndrome (LQTS) is characterized by prolongation of the QT interval (QTc >460 ms in females, >440 ms in males) and T-wave abnormalities on ECG, predisposing to torsades de pointes and ventricular fibrillation. Clinical manifestations include syncope, seizures, and sudden cardiac death, often triggered by physical exertion, emotional stress, or auditory stimuli, depending on the genetic subtype. LQTS type 1 (KCNQ1 mutations) is typically triggered by exercise, especially swimming; LQTS type 2 (KCNH2 mutations) by emotional stress or auditory stimuli; and LQTS type 3 (SCN5A mutations) by rest or sleep. Diagnostic features include QT prolongation, T-wave alternans, notched T waves, and a family history of unexplained syncope or sudden death at a young age. Beta-blockers are first-line therapy, with consideration of ICD implantation in high-risk patients.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 13,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 여성이 1일 전부터 시작된 두근거림, 전신 쇠약감, 손발 저림을 주소로 응급실에 내원하였다. 환자는 평소 만성 변비로 일주일에 2-3회 완하제를 복용해왔으며, 최근 다이어트를 위해 이뇨제를 자가 복용하기 시작했다고 한다. 과거력상 고혈압으로 치료 중이며, 가족력상 특이 사항은 없다. 신체 검사에서 혈압 130/85 mmHg, 맥박 98회/분(불규칙), 호흡수 18회/분, 체온 36.6°C였다. 심음 청진 시 불규칙한 심장 박동이 확인되었으며, 근력 검사에서 모든 사지의 경미한 근력 저하(4/5)가 관찰되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: Na 138 mEq/L, K 2.6 mEq/L, Cl 98 mEq/L, HCO3 32 mEq/L, 혈당 95 mg/dL, BUN 18 mg/dL, Cr 1.0 mg/dL, Mg 1.6 mg/dL (정상: 1.8-2.4 mg/dL), Ca 9.0 mg/dL\n심전도: 조기심실수축 다발, U파 발생, ST 분절 하강, QT 간격 연장(QTc 510ms)\n흉부 X-선: 정상",
+  "options": { 
+    "A": "경구 칼륨 및 마그네슘 보충, 약물 중단(완하제, 이뇨제)", 
+    "B": "디곡신 투여 및 심박수 조절", 
+    "C": "프로파페논 투여 및 부정맥 관리", 
+    "D": "아미오다론 정맥 투여", 
+    "E": "즉시 전기적 심장율동전환" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 두근거림, 전신 쇠약감, 손발 저림이 있으며, 검사 결과 심한 저칼륨혈증(K 2.6 mEq/L)과 저마그네슘혈증(Mg 1.6 mg/dL), 대사성 알칼리증(HCO3 32 mEq/L)이 확인되었다. 심전도에서는 저칼륨혈증의 특징적인 소견인 U파, ST 분절 하강, QT 간격 연장, 조기심실수축이 관찰된다. 환자는 만성적으로 완하제를 사용했고 최근 이뇨제를 자가 복용했는데, 이 두 약물은 모두 칼륨 및 마그네슘 소실을 유발할 수 있다. 저칼륨혈증은 심장 세포의 탈분극 및 재분극 과정에 영향을 미쳐 다양한 부정맥(특히 심실성 부정맥)을 유발할 수 있다. 가장 적절한 치료는 경구 칼륨 및 마그네슘 보충과 함께 원인 약물(완하제, 이뇨제)을 중단하는 것이다. 칼륨 보충은 일반적으로 경구로 시행하며, 심한 증상(심각한 부정맥, 마비 등)이나 매우 낮은 칼륨 수치(<2.5 mEq/L)에서는 정맥 보충을 고려할 수 있다. 마그네슘 결핍이 동반된 경우 마그네슘을 먼저 교정해야 칼륨 보충이 효과적이다. 디곡신은 저칼륨혈증에서 독성이 증가하므로 금기이다. 프로파페논이나 아미오다론과 같은 항부정맥제는 저칼륨혈증을 교정하지 않고 부정맥만 치료하려는 접근으로, 부정맥의 근본 원인을 해결하지 못한다. 전기적 심장율동전환은 혈역학적으로 불안정한 빈맥에서 필요하나, 이 환자는 혈역학적으로 안정적이며 불규칙한 심장 박동은 조기심실수축으로 인한 것으로 보인다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hypokalemia-induced arrhythmias represent a major clinical concern, as potassium plays a critical role in maintaining myocardial cell electrical stability. ECG manifestations of hypokalemia include ST-segment depression, T-wave flattening, prominent U waves, QT interval prolongation, and increased amplitude of P waves. Severe hypokalemia (<2.7 mEq/L) can precipitate premature atrial and ventricular contractions, ventricular tachyarrhythmias, and conduction abnormalities. Management principles include: 1) Correction of underlying causes (discontinuation of offending medications such as diuretics or laxatives); 2) Oral potassium supplementation (typically KCl 40-80 mEq/day for mild-moderate deficiency) with higher doses for severe deficiency; 3) Correction of coexisting magnesium deficiency, which is essential for potassium repletion; and 4) Serial monitoring of serum electrolytes until normalized.",
+  "category": "Cardiology"
+},
+
+
+{
+  "question_id": 14,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "25세 여성이 6개월 전부터 간헐적으로 발생하는 두근거림을 주소로 내원하였다. 환자는 갑자기 "퍼덕"하는 느낌이 들다가 사라지며, 이러한 증상은 특히 앉았다가 갑자기 일어설 때 심해진다고 한다. 가끔 가슴 통증과 어지러움이 동반되지만 의식 소실은 없었다고 한다. 과거력 및 가족력상 특이 사항은 없으며, 약물 복용력도 없다. 신체 검사에서 혈압 115/70 mmHg, 맥박 72회/분(규칙적), 호흡수 16회/분, 체온 36.5°C였다. 심음 청진 시 수축기 중간 클릭음 이후 수축기 후반 심잡음(2/6)이 청진되었으며, 이 심잡음은 스쿼트 자세에서 감소하고 기립 자세에서 증가하였다. 이 환자에서 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 전해질, CBC, 갑상선 기능 검사 모두 정상 범위\n흉부 X-선: 정상\n기본 심전도: 정상 동리듬, 심박수 70회/분, 이분지 T파",
+  "options": { 
+    "A": "경흉부 심초음파", 
+    "B": "24시간 홀터 모니터링", 
+    "C": "운동부하 심전도 검사", 
+    "D": "관상동맥 조영술", 
+    "E": "심장 자기공명영상(MRI)" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 젊은 여성으로 간헐적인 두근거림과 동반된 가슴 통증, 어지러움을 호소하며, 신체 검사에서 수축기 중간 클릭음 이후 수축기 후반 심잡음이 청진되고, 이 심잡음이 체위에 따라 변화하는 특징을 보인다. 이러한 소견은 승모판 탈출증(Mitral valve prolapse, MVP)에 합당하다. 승모판 탈출증은 승모판 소엽이 수축기 동안 좌심방으로 비정상적으로 돌출되는 상태로, 여성에서 더 흔하고 젊은 성인에서 주로 발견된다. 가장 적절한 다음 검사는 경흉부 심초음파로, 이를 통해 승모판의 해부학적 이상(판막 소엽의 과도한 움직임, 비후, 승모판륜 확장 등)을 직접 확인하고, 승모판 역류의 정도와 다른 판막 이상 여부를 평가할 수 있다. 심초음파는 MVP의 확진에 필수적인 검사이다. 24시간 홀터 모니터링은 지속적인 심전도 기록을 통해 부정맥을 검출하는 데 유용하나, MVP의 진단에는 제한적이다. 증상이 부정맥과 연관된 것으로 의심되거나 심초음파에서 MVP가 확인된 후 부정맥 평가가 필요할 때 고려할 수 있다. 운동부하 심전도 검사는 관상동맥 질환의 평가에 유용하나, 젊은 여성에서 관상동맥 질환의 가능성이 낮고, MVP의 진단에는 도움이 되지 않는다. 관상동맥 조영술은 관상동맥 질환의 확진에 사용되나, 이 환자의 나이와 증상은 관상동맥 질환보다 MVP에 더 합당하다. 심장 MRI는 심실 기능, 판막 및 선천성 이상의 추가 평가에 유용하나, MVP의 초기 진단에는 심초음파가 더 접근성이 높고 비용 효율적이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Mitral valve prolapse (MVP) is characterized by the displacement of an abnormally thickened mitral valve leaflet into the left atrium during systole. Diagnosis is established by echocardiography, with typical findings including >2 mm atrial displacement of mitral leaflets during systole, leaflet thickening, redundancy, annular dilation, and chordal elongation. The classic auscultatory finding is a mid-to-late systolic click, often followed by a late systolic murmur. Auscultatory findings vary with changes in LV volume - standing decreases LV volume and increases prolapse, accentuating the click-murmur complex, while squatting increases LV volume, decreasing prolapse and diminishing the murmur. Clinical manifestations range from asymptomatic to palpitations, chest pain, dyspnea, and fatigue. Complications include mitral regurgitation, arrhythmias, and rarely, endocarditis or cerebral embolic events. Transthoracic echocardiography remains the gold standard for diagnosis.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 15,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "42세 남성이 6개월 전부터 간헐적으로 발생하는 심한 두근거림, 두통, 발한을 주소로 내원하였다. 환자는 증상이 갑자기 시작되어 30분에서 1시간 정도 지속되다가 자연적으로 호전된다고 한다. 특히 운동이나 특정 자세 변화와 무관하게 증상이 발생하며, 구역, 창백함, 불안감이 동반된다고 한다. 증상 발생 시 혈압이 매우 상승한다고 한다. 과거력상 고혈압으로 약물 치료 중이나 조절이 잘 되지 않아 여러 약제를 시도했다고 한다. 가족력상 아버지가 갑상선 종양으로 수술한 병력이 있다. 신체 검사에서 혈압 170/100 mmHg, 맥박 95회/분(규칙적), 호흡수 18회/분, 체온 36.7°C였다. 복부 청진 시 좌측 상복부에서 경미한 잡음이 청진되었다. 이 환자의 두근거림의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: 전해질, 갑상선 기능 검사 정상 범위, 혈당 130 mg/dL(공복), 칼슘 9.5 mg/dL\n심전도: 동성 빈맥, 좌심실 비대 소견\n24시간 소변 검사: 메타네프린 950 μg/24hr (정상: <400 μg/24hr), 노르메타네프린 1,800 μg/24hr (정상: <900 μg/24hr)\n복부 CT: 좌측 부신에 4.5cm 크기의 불균질한 조영증강을 보이는 종괴, 좌측 신장 상극 부위 압박 소견",
+  "options": { 
+    "A": "갈색세포종", 
+    "B": "불안장애", 
+    "C": "본태성 고혈압", 
+    "D": "부신피질선종", 
+    "E": "갑상선 중독증" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 간헐적인 심한 두근거림, 두통, 발한의 전형적인 삼징후를 보이며, 이와 함께 고혈압이 있고 증상이 발작적으로 나타난다. 검사 결과 24시간 소변에서 메타네프린과 노르메타네프린이 상승되어 있고, 복부 CT에서 좌측 부신에 종괴가 발견되어 갈색세포종으로 진단할 수 있다. 갈색세포종은 크롬친화세포에서 기원하는 종양으로, 카테콜아민(에피네프린, 노르에피네프린)을 과다 분비하여 발작적 또는 지속적인 고혈압, 두근거림, 두통, 발한 등의 증상을 유발한다. 발작은 운동, 복부 압박, 특정 음식(치즈, 와인), 스트레스 등에 의해 유발될 수 있으나, 자발적으로 발생하기도 한다. 갈색세포종은 드문 질환이지만, 조절되지 않는 고혈압, 발작적 증상, 부신 종괴가 있는 환자에서 반드시 의심해야 한다. 또한 환자의 아버지가 갑상선 종양 병력이 있어 다발성 내분비 종양 증후군(MEN)의 가능성도 고려해야 한다. 불안장애에서도 두근거림, 발한, 불안 등이 나타날 수 있으나, 소변 메타네프린 상승이나 부신 종괴가 설명되지 않는다. 본태성 고혈압은 가장 흔한 고혈압의 원인이나, 발작적 증상이나 카테콜아민 상승을 설명하지 못한다. 부신피질선종은 코르티솔이나 알도스테론을 과다 분비할 수 있으나, 카테콜아민 분비나 발작적 증상과는 연관이 없다. 갑상선 중독증은 지속적인 두근거림, 발한, 체중 감소, 열불내성 등을 유발하나, 발작적 증상 패턴과 갑상선 기능 검사 정상, 부신 종괴 소견과 맞지 않는다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pheochromocytoma is a catecholamine-producing tumor arising from chromaffin cells of the adrenal medulla (80-85%) or extra-adrenal paraganglia (15-20%). The classic triad of symptoms includes episodic headache, sweating, and tachycardia, often accompanied by palpitations, anxiety, and pallor. Hypertension may be sustained or paroxysmal, with paroxysms lasting from minutes to hours. Attacks may be precipitated by physical activity, abdominal pressure, emotional stress, or certain foods and medications, but often occur spontaneously. Diagnosis is established by demonstrating elevated levels of metanephrines in 24-hour urine collections or plasma, with values typically exceeding twice the upper limit of normal. Abdominal CT or MRI typically shows a heterogeneously enhancing adrenal mass. Approximately 25-30% of cases are associated with hereditary syndromes such as MEN2, von Hippel-Lindau disease, neurofibromatosis type 1, or mutations in succinate dehydrogenase subunits.",
+  "category": "Endocrinology"
+},
+
+{
+  "question_id": 16,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "67세 남성이 3일 전부터 악화된 두근거림, 호흡곤란, 다리 부종을 주소로 응급실에 내원하였다. 환자는 8년 전 심근경색으로 진단받았으며, 5년 전부터 심부전으로 약물 치료 중이다. 최근까지 안정적이었으나, 3일 전부터 갑자기 심장이 불규칙하게 뛰는 느낌이 들었고, 계단을 오를 때나 평지를 걸을 때도 숨이 차고, 양측 다리가 붓기 시작했다고 한다. 신체 검사에서 혈압 130/85 mmHg, 맥박 120회/분(불규칙), 호흡수 24회/분, 체온 36.8°C였다. 경정맥 확장, 양측 폐 기저부의 수포음, 하지의 함요 부종이 관찰되었다. 심전도에서 불규칙한 맥박과 함께 P파가 없고 기저선에 불규칙한 진동이 관찰되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: Na 138 mEq/L, K 4.5 mEq/L, BUN 35 mg/dL, Cr 1.4 mg/dL, NT-proBNP 3,500 pg/mL (정상: <300 pg/mL), 트로포닌 I 0.06 ng/mL (정상: <0.04 ng/mL)\n흉부 X-선: 심비대, 폐울혈, 소량의 양측 흉수\n심전도: 심방세동, 심박수 115-130회/분, 간헐적 심실조기수축\n심초음파: 좌심실 구혈률 30%, 전반적인 운동저하, 좌심방 확장(직경 50mm), 경도-중등도의 승모판 역류, 중등도의 삼첨판 역류",
+  "options": { 
+    "A": "즉시 전기적 심장율동전환 및 항응고 치료", 
+    "B": "정맥 이뇨제, 심박수 조절(베타차단제), 항응고 치료", 
+    "C": "아미오다론 투여 및 CRT-D (심장재동기화 치료 제세동기) 삽입", 
+    "D": "프로카인아마이드 투여 및 혈역학적 모니터링", 
+    "E": "심박동기 삽입 및 방실결절 절제술" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 심방세동과 함께 심부전의 급성 악화(비대상성 심부전) 소견을 보인다. 심부전 증상(호흡곤란, 하지 부종)과 징후(경정맥 확장, 폐 수포음), 검사 결과(NT-proBNP 상승, 흉부 X-선에서 울혈 소견)가 있으며, 이러한 악화는 심방세동의 발생과 시간적으로 연관되어 있다. 심방세동은 심부전의 흔한 합병증이자 악화 요인으로, 빠른 심박수로 인한 심부전 악화를 방지하기 위해 적절한 심박수 조절이 중요하다. 가장 적절한 치료는 정맥 이뇨제를 통한 울혈 관리, 베타차단제를 이용한 심박수 조절, 그리고 뇌졸중 예방을 위한 항응고 치료이다. 이 환자는 혈역학적으로 안정적이고(혈압 130/85 mmHg) 심방세동의 정확한 시작 시점이 불명확하므로, 즉시 율동 전환보다는 심박수 조절 전략이 더 적절하다. 또한 항응고 치료가 충분히 이루어지지 않은 상태에서의 율동 전환은 혈전색전증의 위험이 있다. 아미오다론은 심부전 환자에서 사용 가능한 항부정맥제이나, 초기 치료로는 심박수 조절이 더 중요하다. CRT-D는 심부전과 심실내 전도 지연이 있는 특정 환자군에서 고려되나, 급성기 치료 계획으로는 적절하지 않다. 프로카인아마이드는 심방세동의 화학적 율동 전환에 사용될 수 있으나, 심부전 환자에서는 음성 수축촉진 효과로 인해 주의가 필요하다. 심박동기 삽입 및 방실결절 절제술은 다른 치료에 반응하지 않는 심방세동 환자에서 고려될 수 있으나, 초기 치료로는 너무 침습적이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Atrial fibrillation (AF) and heart failure (HF) frequently coexist, with each condition predisposing to and exacerbating the other. When AF develops in a patient with HF, the loss of atrial contraction and rapid ventricular rates can precipitate acute decompensation. Management of AF in HF patients requires a multifaceted approach. For patients with decompensated HF and rapid ventricular response, initial management includes rate control with beta-blockers (preferred) or non-dihydropyridine calcium channel blockers, along with diuretics to manage congestion. Beta-blockers should be initiated at low doses and titrated cautiously. Digoxin may be added for additional rate control, especially if beta-blockers are contraindicated or poorly tolerated. Anticoagulation is essential for stroke prevention, with direct oral anticoagulants preferred over warfarin unless there are specific contraindications. Rhythm control strategies (electrical or pharmacological cardioversion) may be considered once the patient is stabilized, especially if AF is thought to be the primary driver of HF decompensation.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 17,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 빈도와 동반증상에 따라 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "23세 남성이 운동 중 발생하는 두근거림과 실신을 주소로 내원하였다. 환자는 고등학교 때부터 격렬한 운동 중 가슴 두근거림, 호흡곤란, 어지러움을 느꼈으나 대수롭지 않게 여겼다고 한다. 2주 전 축구 경기 중 갑자기 의식을 잃었다가 10초 정도 후 자연 회복되었다고 한다. 가족력상 환자의 큰아버지가 40대에 원인 불명의 급사로 사망했다고 한다. 신체 검사에서 혈압 120/70 mmHg, 맥박 65회/분(규칙적), 호흡수 16회/분, 체온 36.5°C였다. 심음 청진 시 흉골 좌측 가장자리에서 2/6의 수축기 심잡음이 청진되었으며, 이 심잡음은 발살바 조작 시 증가하였다. 이 환자의 평가를 위해 가장 유용한 검사는?",
+  "exam": "혈액 검사: 전해질, CK-MB, 트로포닌 I 모두 정상 범위\n심전도: 좌심실 비대, 흉부 유도 V3-V6에서 큰 Q파, V1-V3에서 T파 역전\n흉부 X-선: 경미한 심비대",
+  "options": { 
+    "A": "경흉부 심초음파", 
+    "B": "심장 조영증강 CT", 
+    "C": "24시간 홀터 모니터링", 
+    "D": "관상동맥 조영술", 
+    "E": "운동부하 핵의학 스캔" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 젊은 남성으로 운동 중 두근거림, 호흡곤란, 실신이 있으며, 가족력상 원인 불명의 급사가 있고, 신체 검사에서 발살바 조작 시 증가하는 수축기 심잡음이 관찰된다. 심전도에서는 좌심실 비대, 큰 Q파, T파 역전 소견이 있다. 이러한 임상 양상은 비후성 심근병증(Hypertrophic cardiomyopathy, HCM)을 강력히 시사한다. 비후성 심근병증은 심근 비대, 특히 심실중격 비대를 특징으로 하는 유전성 질환으로, 젊은 운동선수의 급사 원인 중 가장 흔하다. 발살바 조작 시 증가하는 수축기 심잡음은 좌심실 유출로 폐쇄를 시사한다. 가장 유용한 검사는 경흉부 심초음파로, 이를 통해 심실중격 비대(≥15mm), 좌심실 유출로 폐쇄, 승모판 전방 운동(SAM) 등 비후성 심근병증의 특징적인 소견을 확인할 수 있다. 또한 심초음파는 비침습적이며 비용 효율적인 검사로, 다른 구조적 심장 질환도 배제할 수 있다. 심장 조영증강 CT는 관상동맥 평가에 유용하나, 심근 비대나 좌심실 유출로 폐쇄의 평가에는 심초음파가 더 적합하다. 24시간 홀터 모니터링은 부정맥 평가에 유용하며, 추후 위험도 평가와 치료 계획 수립에 도움이 될 수 있으나, 초기 진단에는 심초음파가 더 중요하다. 관상동맥 조영술은 관상동맥 질환의 평가에 유용하나, 젊은 환자에서 임상 양상이 비후성 심근병증에 더 합당하다. 운동부하 핵의학 스캔은 관상동맥 질환의 평가에 사용되나, 이 환자의 진단에는 덜 유용하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hypertrophic cardiomyopathy (HCM) is characterized by unexplained left ventricular hypertrophy (wall thickness ≥15 mm) in the absence of loading conditions sufficient to explain the degree of hypertrophy. Echocardiography remains the cornerstone of diagnosis, demonstrating asymmetric septal hypertrophy, systolic anterior motion (SAM) of the mitral valve, and dynamic left ventricular outflow tract (LVOT) obstruction. Typical clinical manifestations include exertional dyspnea, palpitations, presyncope/syncope, and chest pain. Physical examination may reveal a harsh systolic murmur at the left sternal border that increases with Valsalva maneuver and decreases with squatting. ECG findings include left ventricular hypertrophy, widespread Q waves, and repolarization abnormalities. HCM is the most common cause of sudden cardiac death in young athletes. Risk factors for sudden death include family history of sudden death, unexplained syncope, multiple/prolonged nonsustained ventricular tachycardia, massive LV hypertrophy (≥30 mm), and hypotensive response to exercise.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 18,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 남성이 새벽에 갑자기 시작된 두근거림, 어지러움, 흉부 불편감을 주소로 응급실에 내원하였다. 환자는 전날 저녁 회식에서 소주 2병을 마셨으며, 이후 새벽 3시경 가슴이 빠르게 뛰는 느낌으로 잠에서 깼다고 한다. 과거에도 과도한 음주 후 비슷한 증상이 2-3회 있었으나 저절로 호전되어 병원을 찾지 않았다고 한다. 과거력상 고혈압으로 약물 치료 중이며, 3년 전 건강검진에서 지방간을 진단받았다. 신체 검사에서 혈압 125/75 mmHg, 맥박 140회/분(규칙적), 호흡수 20회/분, 체온 36.7°C였다. 심음 청진 시 규칙적인 빈맥 외에 이상 소견은 없었으며, 간은 우측 늑골 하방 2cm 촉지되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사: 알코올 0.12%, Na 136 mEq/L, K 3.9 mEq/L, Mg 1.7 mg/dL (정상: 1.8-2.4 mg/dL), 혈당 80 mg/dL, AST 65 U/L (정상: <40 U/L), ALT 50 U/L (정상: <40 U/L), GGT 95 U/L (정상: <50 U/L)\n심전도: 심방세동, 심박수 140회/분\n흉부 X-선: 정상",
+  "options": { 
+    "A": "즉시 전기적 심장율동전환", 
+    "B": "마그네슘 보충, 수액 공급, 베타차단제 투여", 
+    "C": "항부정맥제(플레카이니드) 투여", 
+    "D": "디곡신 및 와파린 투여", 
+    "E": "체외 심박조율기(external pacemaker) 거치" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 과도한 음주 후 발생한 심방세동으로, 이는 '홀리데이 하트 증후군'(holiday heart syndrome)의 전형적인 양상이다. 홀리데이 하트 증후군은 기저 심장 질환이 없는 사람에서 급성 알코올 섭취 후 발생하는 부정맥(주로 심방세동)을 말하며, 대개 일과성으로 24-48시간 내에 자연적으로 정상 동리듬으로 회복된다. 알코올은 직접적인 심근 독성 효과, 교감신경계 활성화, 전해질 불균형(특히 마그네슘 결핍) 등의 기전으로 부정맥을 유발할 수 있다. 혈액 검사에서 저마그네슘혈증(Mg 1.7 mg/dL)이 확인되었고, 간 효소 상승과 함께 알코올 사용 장애를 시사하는 소견이 있다. 가장 적절한 치료는 마그네슘 보충, 수액 공급을 통한 탈수 교정, 그리고 심박수 조절을 위한 베타차단제 투여이다. 대부분의 환자는 이러한 보존적 치료만으로도 24-48시간 내에 정상 동리듬으로 회복된다. 환자는 혈역학적으로 안정적이며(혈압 125/75 mmHg), 증상 발생이 12시간 미만이므로 즉시 전기적 심장율동전환은 필요하지 않다. 플레카이니드는 구조적 심장 질환이 없는 환자에서 사용할 수 있으나, 이 환자는 알코올성 간 손상이 의심되어 약물 대사에 영향을 줄 수 있으므로 주의가 필요하다. 디곡신은 심부전 환자의 심방세동에서 사용될 수 있으나, 급성기 심박수 조절에는 베타차단제나 칼슘통로차단제가 더 효과적이다. 와파린은 심방세동이 48시간 이상 지속되는 경우 고려될 수 있으나, 이 환자는 아직 발생 초기이다. 체외 심박조율기는 서맥성 부정맥에서 사용되나, 이 환자는 빈맥성 부정맥이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Holiday heart syndrome refers to the occurrence of cardiac arrhythmias, most commonly atrial fibrillation, following heavy alcohol consumption in individuals without structural heart disease. The arrhythmia typically occurs within 24 hours of heavy drinking and usually converts spontaneously to sinus rhythm within 24-48 hours. Alcohol can induce arrhythmias through several mechanisms: direct myocardial toxicity, autonomic nervous system modulation, electrolyte disturbances (particularly hypomagnesemia and hypokalemia), and increased catecholamine release. Management includes: 1) Correction of electrolyte abnormalities, particularly magnesium and potassium; 2) Adequate hydration; 3) Rate control with beta-blockers or calcium channel blockers if hemodynamically stable; 4) Observation for spontaneous conversion, which occurs in most cases; and 5) Counseling regarding alcohol abstinence to prevent recurrence. Electrical cardioversion is reserved for hemodynamically unstable patients or those with persistent symptoms despite rate control.",
+  "category": "Cardiology"
+},
+
+{
+  "question_id": 19,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "22세 여성이 3일 전부터 시작된 두근거림, 불안감, 불면을 주소로 내원하였다. 환자는 대학교 기말고사 기간으로 공부를 위해 3일 동안 하루에 에너지 드링크 4-5캔과 커피 3-4잔을 마셨다고 한다. 가슴이 빠르게 뛰고 손이 떨리며, 밤에 잠을 거의 못 자고 초조하고 불안한 기분이 든다고 한다. 과거력상 특이 사항은 없으며, 현재 복용 중인 약물도 없다. 신체 검사에서 혈압 145/90 mmHg, 맥박 105회/분(규칙적), 호흡수 18회/분, 체온 36.6°C였다. 미세한 손떨림이 관찰되었으며, 심음 청진 시 규칙적인 빈맥 외에 특이 소견은 없었다. 이 환자의 두근거림의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: 전해질, 갑상선 기능 검사, CBC 모두 정상 범위\n심전도: 동성 빈맥, 심박수 104회/분\n소변 검사: 정상",
+  "options": { 
+    "A": "카페인 과다 섭취", 
+    "B": "갑상선 기능 항진증", 
+    "C": "공황장애", 
+    "D": "발작성 심실상성 빈맥", 
+    "E": "약물 남용(암페타민)" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 3일간 과도한 카페인 섭취(에너지 드링크 4-5캔, 커피 3-4잔)와 함께 두근거림, 불안, 불면, 손떨림 등의 증상이 나타났다. 신체 검사에서 경미한 혈압 상승, 빈맥, 손떨림이 관찰되었으며, 기본 검사에서 다른 기질적 원인은 발견되지 않았다. 이러한 임상 양상은 카페인 과다 섭취로 인한 증상에 합당하다. 카페인은 중추신경계 자극제로, 과다 섭취 시 두근거림, 빈맥, 혈압 상승, 불안, 불면, 진전, 초조함 등의 증상을 유발할 수 있다. 에너지 드링크는 고농도의 카페인뿐 아니라 타우린, 과라나 등 다른 자극 성분도 포함하여 이러한 효과를 증폭시킬 수 있다. 갑상선 기능 항진증도 유사한 증상을 유발할 수 있으나, 갑상선 기능 검사가 정상이고 증상의 시작이 카페인 과다 섭취와 시간적으로 연관되어 있다. 공황장애는 갑작스러운 강렬한 불안 발작과 함께 신체 증상이 동반되나, 이 환자는 지속적인 증상을 보이며 증상의 시작이 카페인 섭취와 명확히 연관되어 있다. 발작성 심실상성 빈맥은 갑자기 시작되고 종료되는 빠른 심장 박동이 특징이나, 이 환자는 심전도에서 동성 빈맥만 관찰되었다. 약물 남용(암페타민)도 유사한 증상을 유발할 수 있으나, 환자는 약물 사용을 부인하며 소변 검사에서도 이상이 없다.",
+  "source": "First_Aid_Step2_textbook_data.txt: Caffeine intoxication can produce significant physiological and psychological symptoms when consumed in excessive amounts, typically exceeding 250-300 mg in caffeine-naive individuals (equivalent to approximately 2-3 cups of coffee). Clinical manifestations include tachycardia, palpitations, hypertension, tremor, insomnia, nervousness, anxiety, agitation, gastrointestinal disturbances, and diuresis. Energy drinks often contain high doses of caffeine (80-300 mg per serving) along with other stimulants like taurine, guarana, and ginseng, which can potentiate caffeine's effects. Diagnosis is primarily clinical, based on history of excessive caffeine consumption and characteristic symptoms. Treatment involves caffeine cessation, which typically results in symptom resolution within 24-48 hours, though withdrawal symptoms (headache, fatigue, difficulty concentrating) may occur. Severe cases may require symptomatic management with benzodiazepines for anxiety or beta-blockers for significant tachycardia.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 20,
+  "chief complaint": "두근거림",
+  "purpose": "두근거림을 호소하는 사람에게서 원인을 감별할 수 있다.",
+  "question": "48세 여성이 갑작스러운 두근거림, 호흡곤란, 흉통을 주소로 응급실에 내원하였다. 환자는 3시간 전 갑자기 시작된 심한 두근거림과 함께 숨이 차고 우측 가슴이 찌르는 듯한 통증이 발생했다고 한다. 2주 전 좌측 하지 심부정맥혈전증으로 진단받았으나 개인 사정으로 항응고제를 복용하지 않았다고 한다. 과거력상 3년 전 유방암으로 수술 및 항암치료를 받았으며, 경구피임약을 복용 중이다. 신체 검사에서 혈압 100/65 mmHg, 맥박 120회/분(규칙적), 호흡수 28회/분, 체온 37.0°C, 산소포화도 92%(실내공기)였다. 심음 청진 시 빈맥 외에 특이 소견은 없었으나, 우측 폐 기저부의 호흡음이 감소되어 있었다. 좌측 하지에 경미한 부종이 관찰되었다. 이 환자의 두근거림의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: WBC 11,500/μL, Hb 13.5 g/dL, 혈소판 230,000/μL, D-dimer 2,500 ng/mL (정상: <500 ng/mL), 트로포닌 I 0.08 ng/mL (정상: <0.04 ng/mL), BNP 320 pg/mL (정상: <100 pg/mL)\n심전도: 동성 빈맥, 심박수 118회/분, 불완전 우각차단, V1-V3에서 T파 역전\n흉부 X-선: 우측 횡격막 거상, 우측 늑막삼각 무딤\n동맥혈 가스 검사: pH 7.47, PaO2 68 mmHg, PaCO2 32 mmHg(실내공기)\n하지 도플러 초음파: 좌측 대퇴 심부정맥 내 혈전",
+  "options": { 
+    "A": "급성 심근경색", 
+    "B": "폐색전증", 
+    "C": "기흉", 
+    "D": "급성 심낭염", 
+    "E": "불안장애" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 갑작스러운 두근거림, 호흡곤란, 흉통이 있으며, 최근 심부정맥혈전증 병력과 항응고제 복용하지 않은 점, 그리고 유방암 과거력과 경구피임약 복용으로 인한 과응고 상태 위험인자가 있다. 검사 결과 빈맥, 빈호흡, 저산소혈증, D-dimer 상승, 심전도에서 불완전 우각차단 및 V1-V3 T파 역전, 동맥혈 가스 검사에서 호흡성 알칼리증 소견을 보인다. 이러한 임상 양상 및 검사 결과는 폐색전증에 합당하다. 폐색전증은 주로 심부정맥혈전증에서 기원한 혈전이 폐동맥을 막아 발생하며, 갑작스러운 호흡곤란, 흉통, 빈맥이 특징적이다. 두근거림은 폐색전증의 흔한 증상으로, 저산소혈증과 폐혈관 저항 증가로 인한 심박출량 감소를 보상하기 위한 교감신경계 활성화로 발생한다. Wells 점수나 Geneva 점수와 같은 임상 예측 도구는 폐색전증의 가능성을 평가하는 데 도움이 되며, 이 환자는 높은 위험군에 해당한다. 급성 심근경색도 흉통과 빈맥을 유발할 수 있으나, 심전도에서 ST 분절 변화가 없고 임상 양상이 폐색전증에 더 합당하다. 기흉은 갑작스러운 흉통과 호흡곤란을 유발할 수 있으나, 흉부 X-선에서 공기음영이 관찰되지 않았다. 급성 심낭염은 흉통과 심전도 변화를 유발할 수 있으나, 대개 광범위한 ST 분절 상승이 특징이며, 이 환자의 임상 양상과 맞지 않는다. 불안장애는 두근거림을 유발할 수 있으나, 객관적인 검사 결과 이상(저산소혈증, D-dimer 상승 등)과 위험인자를 고려할 때 기질적 원인인 폐색전증이 더 가능성이 높다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Pulmonary embolism (PE) should be considered in any patient with unexplained dyspnea, tachypnea, or chest pain, especially in those with risk factors for venous thromboembolism. Tachycardia is present in >40% of patients with PE and represents a compensatory mechanism for reduced cardiac output due to increased pulmonary vascular resistance and right ventricular strain. ECG findings may include sinus tachycardia, right bundle branch block, right axis deviation, and T-wave inversions in leads V1-V4 (reflecting right ventricular strain), though these changes are neither sensitive nor specific. Arterial blood gas typically shows hypoxemia, hypocapnia, and respiratory alkalosis. The combination of clinical presentation, elevated D-dimer (>500 ng/mL), and imaging findings establishes the diagnosis. Major risk factors include recent surgery, malignancy, prolonged immobilization, pregnancy or postpartum state, estrogen therapy, and known thrombophilia. Treatment involves anticoagulation, with thrombolytic therapy reserved for hemodynamically unstable patients.",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+
+{
+  "question_id": 1,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "25세 여성이 갑자기 발생한 가려운 피부 발진을 주소로 내원하였다. 환자는 2시간 전 해산물이 포함된 식사를 한 후 전신에 가려움증과 함께 경계가 명확한 융기된 발진이 나타났다고 한다. 발진은 크기와 모양이 다양하며 바늘로 긁으면 발적이 확산되는 양상을 보였다. 물집이나 인설은 없었으며, 발진은 30분에서 1시간 정도 지속된 후 다른 부위로 이동하는 경향을 보였다. 환자는 과거 새우 알레르기가 있다고 하였으며, 최근 복용한 약물은 없다. 신체 검사에서 혈압 125/75 mmHg, 맥박 88회/분, 호흡수 18회/분, 체온 36.6°C였으며, 전신에 다양한 크기의 팽진(wheal)과 발적(flare)이 관찰되었으나 점막 침범은 없었다. 이 환자에서 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 9,500/μL (호산구 6%), Hb 13.5 g/dL, 혈소판 250,000/μL\n일반화학검사: AST 22 U/L, ALT 25 U/L, BUN 15 mg/dL, Cr 0.8 mg/dL\n소변 검사: 정상",
+  "options": { 
+    "A": "피부단자검사", 
+    "B": "C1 에스테라아제 억제인자 활성도", 
+    "C": "혈청 한랭글로불린", 
+    "D": "항핵항체 검사", 
+    "E": "피부 생검" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 해산물 섭취 후 급격히 발생한 두드러기 증상을 보이며, 과거 새우 알레르기가 있는 것으로 보아 IgE 매개 알레르기 반응일 가능성이 높다. 전형적인 두드러기의 특징인 팽진과 발적, 가려움증, 피부 병변의 일시적 특성(24시간 이내 소실)을 보이고 있다. 피부단자검사(skin prick test)는 IgE 매개 알레르기 반응을 확인하는 데 가장 적합한 검사로, 환자 피부에 의심되는 알레르겐을 소량 노출시켜 즉시형 과민반응을 평가한다. 특히 음식물 알레르기가 의심될 때 원인 식품을 확인하는 데 유용하다. C1 에스테라아제 억제인자 활성도 검사는 유전성 혈관부종이나 후천성 C1 억제인자 결핍을 진단하는 데 사용되나, 이 환자는 전형적인 IgE 매개 두드러기 증상을 보이며 혈관부종 증상이 없다. 혈청 한랭글로불린 검사는 한랭 두드러기나 한랭글로불린혈증을 진단하는 데 유용하나, 이 환자는 해산물 노출과 연관된 특이 반응을 보인다. 항핵항체 검사는 자가면역 질환과 연관된 두드러기를 평가할 때 도움이 될 수 있으나, 급성 발병과 특정 음식물 섭취와의 명확한 연관성을 고려할 때 우선순위가 낮다. 피부 생검은 두드러기 진단에 일반적으로 필요하지 않으며, 두드러기의 병리학적 소견은 비특이적이다. 또한 급성 두드러기보다 만성 두드러기나 혈관염이 의심될 때 고려된다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Skin testing can help identify specific triggers in some urticaria subtypes. Skin prick tests (SPTs) are most useful in IgE-mediated urticaria and can detect sensitization to foods, medications, latex, insect venoms, and environmental allergens. SPTs involve introducing small amounts of allergens into the epidermis, with results visible within 15-20 minutes. A positive reaction (wheal and flare) indicates the presence of allergen-specific IgE antibodies bound to cutaneous mast cells. In patients with suspected food-triggered urticaria, SPTs offer a rapid, sensitive method for identifying culprit allergens, particularly in cases with a clear temporal relationship between food ingestion and symptom onset. False-negative results may occur in patients taking antihistamines, so these medications should be discontinued 3-7 days before testing.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 2,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 응급 치료가 필요한 경우 적절한 치료 방법을 선택할 수 있다.",
+  "question": "22세 남성이 갑자기 발생한 얼굴과 목의 붓기, 복통을 주소로 응급실에 내원하였다. 환자는 4시간 전부터 시작된 입술과 눈 주위의 붓기가 점차 심해지며 최근 1시간 동안에는 목과 혀가 부어 호흡이 불편해졌다고 한다. 동시에 심한 복통과 구토가 있었다. 환자는 과거에도 3회 정도 유사한 증상이 있었으며, 특별한 유발 요인 없이 2-3일 후 저절로 호전되었다고 한다. 가족력상 아버지도 비슷한 증상으로 응급실을 방문한 적이 있다고 한다. 신체 검사에서 혈압 110/70 mmHg, 맥박 95회/분, 호흡수 22회/분, 산소포화도 94%였다. 얼굴, 특히 입술과 눈꺼풀에 비압통성 부종이 관찰되었고, 목과 혀에도 부종이 있었다. 피부발진은 없었으며, 청진상 천명음이나 수포음은 들리지 않았다. 복부 진찰에서 전반적인 압통이 있었다. 이 환자에게 가장 적절한 응급 치료는?",
+  "exam": "혈액 검사: WBC 12,000/μL, Hb 14.5 g/dL, 혈소판 280,000/μL\n보체 검사: C4 5 mg/dL (정상: 15-45 mg/dL), C1 억제인자 활성도 30% (정상: 70-130%)\nC1q 정상",
+  "options": { 
+    "A": "에피네프린 0.3mg 근육주사", 
+    "B": "C1 억제인자 농축물 정맥주사", 
+    "C": "항히스타민제와 스테로이드 정맥주사", 
+    "D": "신선동결혈장 투여", 
+    "E": "기관 삽관 및 기계환기" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 반복적인 혈관부종, 복통의 병력과 가족력, 그리고 낮은 C4 수치 및 C1 억제인자 활성도 감소 소견을 통해 유전성 혈관부종(Hereditary Angioedema, HAE)으로 진단할 수 있다. 유전성 혈관부종은 C1 억제인자의 결핍 또는 기능이상으로 인한 브라디키닌 매개 혈관부종으로, 피부와 점막의 혈관부종, 위장관 증상(복통, 구토), 기도 부종을 특징으로 한다. 급성 발작 시 가장 적절한 치료는 C1 억제인자 농축물을 정맥주사하는 것이다. 이는 부족한 C1 억제인자를 직접 보충하여 보체와 접촉 경로의 과도한 활성화를 억제하고 브라디키닌 생성을 감소시킨다. 에피네프린, 항히스타민제, 스테로이드는 IgE 매개 알레르기 반응(두드러기, 아나필락시스)에 효과적이나, 브라디키닌 매개 유전성 혈관부종에는 일반적으로 효과가 없다. 신선동결혈장은 C1 억제인자를 포함하고 있어 응급 상황에서 C1 억제인자 농축물이 없을 때 대안으로 사용될 수 있으나, 동시에 HAE 발작을 악화시킬 수 있는 기질과 보체 요소도 포함하고 있어 첫 번째 선택약은 아니다. 기관 삽관 및 기계환기는 심각한 기도 부종으로 호흡 곤란이 매우 심한 경우 필요할 수 있으나, 유전성 혈관부종의 일차 치료가 아니며 가능하면 C1 억제인자 농축물로 먼저 치료해야 한다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Hereditary angioedema (HAE) acute attacks require prompt treatment, especially for laryngeal edema which can be life-threatening. First-line therapy for acute HAE attacks is C1 inhibitor concentrate (pdC1INH), which directly replaces the deficient protein. It is administered intravenously at 20 units/kg and typically produces improvement within 30-60 minutes. Alternative treatments include: icatibant (a bradykinin B2 receptor antagonist, 30mg subcutaneously) and ecallantide (a kallikrein inhibitor, 30mg subcutaneously). These agents specifically target the bradykinin pathway, which distinguishes HAE management from histamine-mediated angioedema treatments. Importantly, traditional treatments for allergic angioedema (antihistamines, corticosteroids, epinephrine) are ineffective in HAE. Fresh frozen plasma can be used when first-line therapies are unavailable, though it theoretically could exacerbate symptoms by providing additional substrate for the contact system.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 3,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+  "question": "35세 여성이 6주간 지속된 가려운 피부 발진을 주소로 내원하였다. 환자는 전신에 붉고 융기된 병변이 거의 매일 나타나며, 개별 병변은 약 1-2시간 지속 후 사라지지만 다른 부위에 새로운 병변이 계속 발생한다고 한다. 가려움증이 심하여 일상생활과 수면에 지장이 있다고 호소한다. 식품, 약물, 물리적 자극과의 명확한 연관성은 찾을 수 없었다. 환자는 최근 1개월 동안 레보세티리진 10mg을 복용하고 있으나 증상 조절이 잘 되지 않는다고 한다. 과거력상 갑상선기능저하증으로 레보티록신을 복용 중이다. 신체 검사에서 혈압 120/75 mmHg, 맥박 76회/분, 호흡수 16회/분, 체온 36.5°C였으며, 몸통과 사지에 다양한 크기의 팽진과 발적이 관찰되었다. 피부단자검사와 식이제한에도 유발 알레르겐을 찾지 못했다. 이 환자의 치료로 가장 적절한 것은?",
+  "exam": "혈액 검사: WBC 7,500/μL (호산구 3%), Hb 13.0 g/dL, 혈소판 230,000/μL\n갑상선 기능 검사: TSH 2.5 μIU/mL, Free T4 1.2 ng/dL\n자가항체 검사: 항갑상선과산화효소항체 양성, 항갑상선글로불린항체 양성\n혈청 총 IgE 85 IU/mL (정상: <100 IU/mL)\n피부단자검사: 음성",
+  "options": { 
+    "A": "고용량 2세대 항히스타민제", 
+    "B": "오말리주맙 피하주사", 
+    "C": "시클로스포린 경구투여", 
+    "D": "단기간 고용량 프레드니솔론", 
+    "E": "항류코트리엔 제제" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 6주 이상 지속된 두드러기 증상을 보이며, 매일 반복적으로 발생하고 개별 병변은 24시간 이내에 소실되는 만성 자발성 두드러기(Chronic Spontaneous Urticaria, CSU)로 진단할 수 있다. 특별한 유발 요인이 확인되지 않았으며, 갑상선 자가항체 양성 소견은 자가면역 기전의 가능성을 시사한다. 현재 표준 용량의 2세대 항히스타민제(레보세티리진 10mg)에 불충분한 반응을 보이고 있다. 만성 자발성 두드러기의 단계적 치료 지침에 따르면, 표준 용량 2세대 항히스타민제에 반응이 불충분한 경우 다음 단계로 용량을 4배까지 증량하여 사용할 수 있다. 이는 부작용 위험을 최소화하면서 효과를 극대화하는 전략으로 권고된다. 오말리주맙(항IgE 단클론항체)은 고용량 항히스타민제에도 반응이 없는 중증 만성 자발성 두드러기에서 3차 치료로 고려된다. 시클로스포린은 오말리주맙 치료에도 반응이 없는 경우 4차 치료로 고려될 수 있으나, 신독성, 고혈압 등의 부작용이 있어 주의가 필요하다. 전신 스테로이드는 급성 악화 시 단기간(1주 이내) 사용할 수 있으나, 장기 사용은 심각한 부작용 위험이 있어 만성 관리에는 권장되지 않는다. 항류코트리엔 제제는 일부 환자에서 항히스타민제와 병용 시 효과를 보일 수 있으나, 항히스타민제 용량 증량보다 우선시되지는 않는다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Treatment of chronic spontaneous urticaria (CSU) follows a stepwise approach, as outlined in international guidelines. Step 1 is standard-dose second-generation H1-antihistamines (sgAHs), which are preferred over first-generation antihistamines due to their better safety profile and lack of anticholinergic effects. If symptoms persist after 2-4 weeks, step 2 involves increasing the dose up to fourfold the standard dose. High-dose sgAHs have shown significantly better efficacy than standard doses in controlling symptoms, with minimal additional side effects. For patients with inadequate response to high-dose antihistamines after 2-4 weeks, step 3 is add-on omalizumab (anti-IgE), which has demonstrated remarkable efficacy in refractory CSU. Step 4 options include cyclosporine, though this carries increased risk of adverse effects including nephrotoxicity and hypertension. Systemic corticosteroids should be limited to short courses (≤10 days) for acute exacerbations due to their significant side effect profile with long-term use.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 4,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "18세 남성이 운동 후 반복적으로 발생하는 가려운, 작은 발진을 주소로 내원하였다. 환자는 격렬한 운동을 하거나 더운 샤워를 할 때, 또는 스트레스를 받을 때 전신이 따뜻해지면서 작은 물집 같은 발진이 나타난다고 한다. 이러한 발진은 특히 몸통과 목에 집중되며, 병변은 직경 1-3mm 크기의 작은 팽진으로, 주변에 발적을 동반한다. 증상은 보통 30분에서 1시간 정도 지속 후 자연 소실된다고 한다. 환자는 이런 증상이 약 6개월 전부터 시작되었으며, 최근 더 자주 발생한다고 호소한다. 특정 음식이나 약물과의 연관성은 없다. 신체 검사에서 혈압 120/70 mmHg, 맥박 72회/분, 호흡수 16회/분, 체온 36.6°C였으며, 내원 당시에는 피부 병변이 관찰되지 않았다. 이 환자의 상태를 확인하기 위한 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 6,800/μL (호산구 2%), Hb 14.5 g/dL, 혈소판 250,000/μL\n일반화학검사: 정상 범위\n혈청 총 IgE 75 IU/mL (정상: <100 IU/mL)",
+  "options": { 
+    "A": "피부단자검사", 
+    "B": "메타콜린 기관지 유발 검사", 
+    "C": "운동 유발 검사", 
+    "D": "한랭 유발 검사", 
+    "E": "압력 유발 검사" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 운동, 더운 샤워, 스트레스 등으로 체온이 상승할 때 발생하는 작은 크기(1-3mm)의 팽진과 가려움증을 호소하고 있으며, 증상이 30분-1시간 정도 지속 후 자연 소실되는 양상을 보인다. 이러한 임상 양상은 콜린성 두드러기(Cholinergic Urticaria)에 합당하다. 콜린성 두드러기는 체온 상승에 의해 유발되는 물리적 두드러기의 한 형태로, 운동, 열, 감정적 스트레스, 뜨거운 음식 등에 의해 발생할 수 있다. 특징적으로 작은 크기의 팽진이 주로 몸통과 목에 발생하며, 심한 가려움을 동반한다. 가장, 적절한 검사는 운동 유발 검사로, 환자가 실제로 운동을 하도록 하여 증상을 유발시켜 진단하는 방법이다. 이를 통해 콜린성 두드러기의 특징적인 작은 팽진 반응을 확인할 수 있다. 피부단자검사는 IgE 매개 알레르기 반응을 확인하는 데 유용하나, 이 환자의 증상은 특정 알레르겐보다는 체온 상승과 연관되어 있다. 메타콜린 기관지 유발 검사는 기관지 과민성과 천식을 평가하는 검사로, 두드러기 진단에는 적합하지 않다. 한랭 유발 검사는 한랭 두드러기를 진단하는 데 사용되며, 얼음 조각을 피부에 대고 두드러기 반응을 확인한다. 압력 유발 검사는 지연성 압력 두드러기를 진단하는 데 사용되나, 이 환자의 증상은 압력보다는 체온 상승과 연관되어 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Cholinergic urticaria is characterized by the appearance of small (1-3 mm) punctate wheals surrounded by erythema. It is triggered by elevation of core body temperature leading to sweating, whether passive (hot bath, fever) or active (exercise, emotional stress). Patients typically report intense pruritus, sometimes with tingling or burning, followed by the eruption of numerous tiny wheals primarily on the trunk and neck. Diagnosis is primarily clinical but can be confirmed with provocative testing. Exercise challenge testing is the most specific diagnostic approach, where patients exercise until sweating occurs (typically 15-30 minutes of moderate activity) and are observed for the development of the characteristic small wheals. Less specific alternatives include immersion in a hot bath (40-45°C) or use of methacholine intradermal injection, which can provoke similar lesions through direct cholinergic stimulation. Management focuses on avoiding triggers and using prophylactic antihistamines.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 5,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 응급 치료가 필요한 경우 적절한 치료 방법을 선택할 수 있다.",
+  "question": "68세 남성이 갑작스럽게 발생한 입술과 혀의 부종을 주소로 응급실에 내원하였다. 환자는 3시간 전부터 입술이 붓기 시작했으며, 점차 혀와 목구멍까지 부었다고 한다. 피부 발진은 없었으며, 숨쉬기가 다소 불편하다고 호소한다. 환자는 5년간 고혈압으로 치료 중이며, 3일 전부터 기존에 복용하던 암로디핀에 추가하여 새로운 혈압약(에날라프릴)을 처방받아 복용 중이다. 과거 알레르기 병력은 없다. 신체 검사에서 혈압 150/90 mmHg, 맥박 90회/분, 호흡수 24회/분, 산소포화도 94%였다. 입술과 혀에 현저한 부종이 관찰되었고, 목소리가 약간 변했으나 천명음은 들리지 않았다. 피부에 두드러기나 다른 발진은 관찰되지 않았다. 이 환자에게 가장 적절한 응급 치료는?",
+  "exam": "혈액 검사: WBC 8,500/μL, Hb 14.0 g/dL, 혈소판 220,000/μL\n일반화학검사: 정상 범위",
+  "options": { 
+    "A": "에피네프린 0.3mg 근육주사, 항히스타민제, 스테로이드 정맥주사", 
+    "B": "에날라프릴 즉시 중단, 기도 확보, 항히스타민제, 스테로이드 정맥주사", 
+    "C": "C1 억제인자 농축물 정맥주사", 
+    "D": "이카티반트 피하주사", 
+    "E": "에날라프릴 중단, 안지오텐신 수용체 차단제로 즉시 대체" 
+  },
+  "answer": "B",
+  "explanation": "이 환자는 ACE 억제제(에날라프릴) 복용 후 발생한 혈관부종으로 진단할 수 있다. ACE 억제제 유발 혈관부종은 브라디키닌 매개 혈관부종의 한 형태로, ACE 억제제가 브라디키닌의 분해를 억제하여 브라디키닌 축적을 초래하기 때문에 발생한다. 전형적으로 얼굴, 입술, 혀, 인두, 후두 등 두경부에 혈관부종이 발생하며, 두드러기는 동반되지 않는다. 가장 적절한 응급 치료는 원인 약물인 에날라프릴을 즉시 중단하고, 기도 확보를 우선적으로 고려하는 것이다. 기도 폐쇄 위험이 있는 경우 기관 삽관이나 윤상갑상막 절개술을 준비해야 한다. 추가적으로 항히스타민제와 스테로이드를 투여할 수 있는데, 비록 브라디키닌 매개 혈관부종에는 효과가 제한적이지만 다른 알레르기 기전의 가능성도 있기에 주위에 사용할 수 있다. 에피네프린은 아나필락시스나 IgE 매개 알레르기 반응에 효과적이나, ACE 억제제 유발 혈관부종에는 효과가 제한적이다. C1 억제인자 농축물은 유전성 혈관부종 치료에 사용되나, ACE 억제제 유발 혈관부종에는 일반적으로 권장되지 않는다. 이카티반트(브라디키닌 B2 수용체 길항제)는 ACE 억제제 유발 혈관부종에 효과적일 수 있으나, 아직 이 적응증에 공식적으로 승인되지 않았다. 에날라프릴을 안지오텐신 수용체 차단제로 즉시 대체하는 것은 권장되지 않는데, ACE 억제제로 혈관부종이 발생한 환자의 약 10%에서 안지오텐신 수용체 차단제로도 혈관부종이 발생할 수 있기 때문이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Angiotensin-converting enzyme (ACE) inhibitor-induced angioedema represents a potentially life-threatening adverse reaction occurring in approximately 0.1-0.7% of patients taking these medications. The mechanism involves inhibition of bradykinin degradation, leading to its accumulation and consequent vasodilation and increased vascular permeability. Management of acute ACE inhibitor-induced angioedema focuses on immediate discontinuation of the offending drug and airway assessment. Patients with progressive upper airway edema require close monitoring for potential airway compromise, with preparation for endotracheal intubation or cricothyroidotomy if necessary. Standard treatments for histamine-mediated angioedema (antihistamines, corticosteroids, epinephrine) have limited efficacy but are often administered due to diagnostic uncertainty or inability to rule out allergic components. Bradykinin-targeted therapies (icatibant, C1-INH concentrate) have shown promise in case reports and small trials but are not FDA-approved for this indication. Following resolution, ACE inhibitors should be permanently avoided. Angiotensin receptor blockers (ARBs) can cause similar reactions in about 10% of patients with ACE inhibitor-induced angioedema, so caution is warranted when considering them as alternatives.",
+  "category": "Emergency Medicine"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적합한 교육을 할 수 있다.",
+  "question": "22세 여성이 차가운 날씨에 노출되거나 찬 물에 접촉할 때마다 발생하는 피부 발진과 가려움증을 주소로 내원하였다. 환자는 겨울철에 외출하면 노출된 피부 부위가 가렵고 붉게 부어오르며, 차가운 물로 세수를 하거나 수영장에 들어갔을 때도 유사한 증상이 발생했다고 한다. 증상은 노출 부위에 국한되어 발생하고, 온도가 올라가면 대개 30분 이내에 사라진다고 한다. 과거력상 특이 사항은 없으며, 현재 복용 중인 약물도 없다. 신체 검사에서 혈압 110/70 mmHg, 맥박 72회/분, 호흡수 16회/분, 체온 36.5°C였으며, 현재 피부 병변은 관찰되지 않았다. 한랭 유발 검사에서 얼음을 3분간 전완부에 접촉시킨 후 팽진과 발적이 관찰되었다. 이 환자에게 제공해야 할 가장 적절한 교육은?",
+  "exam": "혈액 검사: WBC 6,500/μL, Hb 13.0 g/dL, 혈소판 240,000/μL\n한랭글로불린: 음성\n혈청 총 IgE 50 IU/mL\n혈액 응고 검사: 정상 범위",
+  "options": { 
+    "A": "항히스타민제를 추운 환경에 노출되기 30분 전에 복용하도록 교육", 
+    "B": "면역요법을 통해 차가운 온도에 대한 내성을 키우도록 안내", 
+    "C": "차가운 음료와 음식 섭취를 제한하고 스테로이드 크림을 바르도록 권장", 
+    "D": "야외 활동 시 항상 에피네프린 자가주사기를 휴대하도록 교육", 
+    "E": "따뜻한 기후로의 이주가 유일한 해결책임을 설명" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 한랭 노출 후 발생하는 피부 발진, 한랭 유발 검사 양성 소견을 보이는 한랭 두드러기(Cold Urticaria)로 진단할 수 있다. 한랭 두드러기는 차가운 환경, 물체, 음식, 음료 등에 의해 유발되는 물리적 두드러기의 한 형태로, 한랭 노출 부위에 팽진과 발적이 나타나며, 광범위한 노출 시 전신 증상이나 아나필락시스까지 발생할 수 있다. 가장 적절한 교육은 항히스타민제를 추운 환경에 노출되기 30분 전에 복용하도록 하는 것이다. 2세대 항히스타민제는 한랭 두드러기의 증상 예방에 효과적이며, 예방적 복용이 노출 후 복용보다 더 효과적이다. 또한 환자에게 차가운 환경을 피하고, 수영 등 광범위한 한랭 노출 시 주의하도록 교육하는 것이 중요하다. 면역요법(탈감작)은 한랭 두드러기의 표준 치료가 아니며, 일부 사례에서 시도되었으나 효과가 제한적이고 잠재적 위험이 있다. 차가운 음료와 음식 섭취 제한은 구강과 인두에 국한된 증상이 있는 경우 도움이 될 수 있으나, 모든 환자에게 필요한 것은 아니다. 스테로이드 크림은 한랭 두드러기 치료에 효과적이지 않다. 에피네프린 자가주사기는 심각한 전신 반응이나 아나필락시스 병력이 있는 환자에게 권장될 수 있으나, 모든 한랭 두드러기 환자에게 필수적이지는 않다. 따뜻한 기후로의 이주가 증상을 줄일 수 있으나, 이는 현실적으로 실행하기 어려운 방법이며, 약물 치료와 적절한 예방 조치로 대부분의 환자가 증상을 관리할 수 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Cold urticaria management involves both preventive strategies and pharmacologic interventions. Patient education is essential and should include advice to avoid precipitating factors, particularly sudden cold exposure and aquatic activities, which can trigger potentially dangerous systemic reactions. Premedication with antihistamines 30-60 minutes before anticipated cold exposure is recommended as first-line prophylaxis. Second-generation H1-antihistamines (cetirizine, loratadine, fexofenadine) are preferred due to their favorable safety profile and once-daily dosing, with doses potentially increased up to fourfold for refractory cases. For patients with severe or inadequate response to antihistamines, adding leukotriene receptor antagonists (montelukast) may provide additional benefit. Patients with history of systemic reactions or anaphylaxis should be prescribed epinephrine autoinjectors and educated on their use. Physical desensitization through gradual, controlled cold exposure has shown variable results and carries risk of triggering systemic reactions, so it should be performed only under medical supervision if attempted.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 7,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "45세 여성이 3일 전부터 발생한 전신의 가려운 발진을 주소로 내원하였다. 환자는 10일 전부터 세균성 부비동염으로 진단받고 아목시실린-클라불란산을 복용하였고, 3일 전부터 융기되고 가려운 발진이 몸통에서 시작하여 사지로 퍼졌다고 한다. 개별 발진은 크기와 모양이 다양하며, 24시간 이내에 없어지고 다른 부위에 새로 생긴다고 한다. 환자는 과거에도 항생제 복용 후 비슷한 발진이 있었던 것 같다고 기억하나 정확한 약물명은 모른다고 한다. 신체 검사에서 혈압 120/75 mmHg, 맥박 80회/분, 호흡수 18회/분, 체온 36.8°C였다. 전신에 다양한 크기의 홍반성 팽진이 관찰되었으며, 안면 부종이나 점막 침범은 없었다. 약물 중단 후 증상이 호전되기 시작했다. 향후 이 환자의 약물 알레르기를 정확히 평가하기 위한 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 9,000/μL (호산구 7%), Hb 13.2 g/dL, 혈소판 260,000/μL\n간 기능 검사: AST 25 U/L, ALT 28 U/L\n신장 기능 검사: BUN 15 mg/dL, Cr 0.8 mg/dL",
+  "options": { 
+    "A": "약물 유발 검사", 
+    "B": "패치 테스트", 
+    "C": "피부단자검사와 피내검사", 
+    "D": "혈청 특이 IgE 검사", 
+    "E": "림프구 형질전환 검사" 
+  },
+  "answer": "C",
+  "explanation": "이 환자는 아목시실린-클라불란산 복용 후 발생한 전형적인 약물 유발성 두드러기를 보이고 있다. 페니실린계 항생제는 IgE 매개 알레르기 반응을 일으키는 가장 흔한 약물 중 하나이다. 환자는 과거에도 항생제 복용 후 유사한 반응이 있었다고 하여, 교차 반응 가능성도 고려해야 한다. 약물 알레르기의 정확한 평가를 위해 가장 적절한 검사는 피부단자검사와 피내검사이다. 이는 IgE 매개 과민반응을 평가하는 데 가장 민감하고 특이적인 방법으로, 페니실린 대사산물에 대한 표준화된 검사가 가능하다. 음성 예측도가 높아, 음성 결과는 IgE 매개 알레르기 반응의 가능성이 낮음을 시사한다. 약물 유발 검사는 의심되는 약물을 직접 투여하여 반응을 확인하는 방법으로, 심각한 반응의 위험이 있어 음성 피부 검사 후에만 고려해야 한다. 패치 테스트는 주로 지연형 과민반응(Type IV)을 평가하는 데 유용하며, 접촉성 피부염이나 약물 유발성 발진(고정 약진, DRESS 증후군 등)에 사용된다. 이 환자의 두드러기는 즉시형 과민반응(Type I)에 가까워 패치 테스트는 적합하지 않다. 혈청 특이 IgE 검사는 일부 약물(페니실린 등)에 대해 가능하나, 피부 검사보다 민감도가 낮다. 림프구 형질전환 검사는 약물에 대한 T 세포 반응을 평가하는 검사로, 주로 지연형 과민반응을 평가하는 데 사용되며, 아직 표준화되지 않았다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: For suspected IgE-mediated drug allergies, especially to beta-lactam antibiotics, skin testing (skin prick followed by intradermal testing) remains the gold standard diagnostic approach. Penicillin skin testing has been standardized and validated using both major (penicilloyl-polylysine) and minor determinants, with a negative predictive value exceeding 95%. This allows confident identification of patients who can safely receive beta-lactams despite a history of reaction. Skin testing should be performed 4-6 weeks after the reaction to avoid false negatives during the refractory period. For non-beta-lactam antibiotics, skin testing protocols exist but are less standardized. Drug provocation testing (direct administration of the suspected drug) is the definitive method for confirming or excluding drug hypersensitivity but carries risks of severe reactions and should generally be performed only after negative skin tests. Patch testing evaluates delayed hypersensitivity reactions and is not useful for IgE-mediated urticaria. In vitro tests such as specific IgE assays have lower sensitivity than skin testing but may be helpful when skin testing is unavailable or contraindicated.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 8,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "38세 여성이 1년간 지속된 만성 두드러기로 내원하였다. 환자는 거의 매일 전신에 가려운 융기된 발진이 발생하며, 개별 병변은 24시간 이내에 사라지지만 새로운 병변이 계속 나타난다고 한다. 항히스타민제를 복용해도 증상이 충분히 조절되지 않는다고 호소한다. 환자는 최근 피로감과 체중 증가가 있었으며, 손과 발이 차갑고 건조한 피부, 추위에 대한 민감도 증가를 호소한다. 식이, 약물, 물리적 자극과의 연관성은 분명하지 않다. 과거력 및 가족력상 특이 사항은 없다. 신체 검사에서 혈압 110/70 mmHg, 맥박 65회/분, 호흡수 16회/분, 체온 36.3°C였으며, 전신에 다양한 크기의 팽진과 발적이 관찰되었다. 갑상선이 약간 커져 있었고, 피부는 건조하고 창백했다. 이 환자에서 고려해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 7,000/μL, Hb 12.5 g/dL, 혈소판 230,000/μL\n일반화학검사: 정상 범위\n혈청 총 IgE 90 IU/mL (정상: <100 IU/mL)",
+  "options": { 
+    "A": "갑상선 기능 검사와 자가항체 검사", 
+    "B": "항핵항체와 보체 검사", 
+    "C": "피부 생검", 
+    "D": "식품 알레르기 패널 검사", 
+    "E": "혈청 트립타제 검사" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 1년 이상 지속된 만성 두드러기와 함께 갑상선기능저하증을 시사하는 증상(피로감, 체중 증가, 추위에 대한 민감도 증가, 건조한 피부)을 보이고 있다. 또한 신체 검사에서 갑상선 비대가 관찰되었다. 만성 자발성 두드러기는 갑상선 질환을 포함한 자가면역 질환과 연관성이 있으며, 특히 자가면역성 갑상선염(하시모토 갑상선염)과의 연관성이 잘 알려져 있다. 따라서 이 환자에게는 갑상선 기능 검사(TSH, Free T4)와 함께 갑상선 자가항체 검사(항갑상선과산화효소항체, 항갑상선글로불린항체)가 가장 적절하다. 자가면역성 갑상선염이 확인되면 갑상선 기능을 교정하는 것이 두드러기 증상 개선에도 도움이 될 수 있다. 또한 만성 두드러기 환자의 일부에서는 IgG 자가항체가 비만세포 표면의 IgE 수용체나 IgE에 결합하여 두드러기를 유발하는 것으로 알려져 있어, 자가면역 기전 평가를 위한 자가혈청 피부반응 검사도 고려할 수 있다. 항핵항체와 보체 검사는 루푸스나 혈청병 등 다른 자가면역 질환 평가에 유용하나, 이 환자의 증상은 갑상선 질환에 더 부합한다. 피부 생검은 만성 두드러기 진단에 일반적으로 필요하지 않으며, 두드러기 모양 병변(urticarial vasculitis) 등이 의심될 때 고려된다. 식품 알레르기 패널 검사는 음식 유발 급성 두드러기에서 고려될 수 있으나, 1년 이상 지속된 만성 두드러기에서는 식품 알레르기가 원인인 경우가 드물다. 혈청 트립타제 검사는 비만세포 활성화나 비만세포증(mastocytosis)을 평가하는 데 유용하나, 이 환자의 임상 양상은 갑상선 질환과의 연관성이 더 높다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Approximately 30-40% of patients with chronic spontaneous urticaria (CSU) have an autoimmune etiology. Two major autoimmune mechanisms have been identified: (1) IgG autoantibodies against the high-affinity IgE receptor (FcεRI) or against IgE itself, which can activate mast cells and basophils; and (2) association with other autoimmune diseases, particularly autoimmune thyroid disease. Patients with CSU should be evaluated for thyroid dysfunction and autoimmunity, especially when clinical features suggest hypothyroidism or hyperthyroidism. The prevalence of thyroid autoantibodies in CSU patients ranges from 10-30%, significantly higher than in the general population. Thyroid function tests (TSH, free T4) and thyroid autoantibodies (anti-thyroid peroxidase, anti-thyroglobulin) should be measured in patients with persistent CSU, particularly those with symptoms or signs of thyroid disease. Correction of thyroid dysfunction can lead to improvement or resolution of urticaria in some patients. The autologous serum skin test (ASST), which involves intradermal injection of the patient's own serum, can identify autoimmune urticaria, with a positive reaction suggesting the presence of circulating histamine-releasing factors, including autoantibodies.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 9,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적합한 교육을 할 수 있다.",
+  "question": "18세 여성이 반복적인 복통과 손, 발의 부종으로 내원하였다. 환자는 어린 시절부터 약 1-2개월에 한 번씩 갑작스러운 손과 발의 부종이 발생하며, 종종 심한 복통과 구토를 동반한다고 한다. 증상은 수 일간 지속 후 저절로 호전된다. 두드러기는 동반되지 않는다고 한다. 가족력상 어머니와 외할머니도 유사한 증상이 있었다고 한다. 최근 검사에서 C4 감소와 C1 억제인자 기능 저하가 확인되어 유전성 혈관부종으로 진단받았다. 신체 검사에서 혈압 115/70 mmHg, 맥박 72회/분, 호흡수 16회/분, 체온 36.6°C였으며, 현재 활동성 부종은 관찰되지 않았다. 이 환자에게 제공해야 할 가장 적절한 교육은?",
+  "exam": "혈액 검사: WBC 6,800/μL, Hb 13.5 g/dL, 혈소판 240,000/μL\n보체 검사: C4 5 mg/dL (정상: 15-45 mg/dL), C1 억제인자 활성도 35% (정상: 70-130%)\nC1q 정상\n유전자 검사: SERPING1 유전자 돌연변이 확인됨",
+  "options": { 
+    "A": "ACE 억제제와 에스트로겐 제제 사용을 피하고, 응급 약물을 항상 소지하도록 교육", 
+    "B": "알레르기 유발 식품을 피하고 항히스타민제를 매일 복용하도록 권장", 
+    "C": "스트레스 관리와 함께 항불안제 정기적 복용을 권장", 
+    "D": "면역억제제의 중요성과 부작용에 대해 설명", 
+    "E": "완치를 위한 골수이식 치료의 필요성 교육" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 반복적인 혈관부종과 복통, C4 감소, C1 억제인자 기능 저하, 유전자 검사에서 SERPING1 돌연변이 확인 등 전형적인 유전성 혈관부종(HAE) 소견을 보인다. 유전성 혈관부종은 C1 억제인자의 결핍 또는 기능이상으로 인해 발생하는 브라디키닌 매개 혈관부종으로, 가족력이 있는 경우가 많다. 가장 적절한 교육은 ACE 억제제와 에스트로겐 제제 사용을 피하고, 응급 약물을 항상 소지하도록 하는 것이다. ACE 억제제는 브라디키닌 분해를 억제하여 HAE 발작을 유발하거나 악화시킬 수 있고, 에스트로겐은 발작 빈도를 증가시킬 수 있다. 또한 환자는 C1 억제인자 농축물이나 이카티반트(브라디키닌 수용체 길항제) 같은 응급 약물을 항상 가지고 다니고, 기도 부종과 같은 응급 상황에서의 대처법을 알고 있어야 한다. 수술, 치과 시술 등 외상 전 예방적 약물 사용의 중요성도 교육해야 한다. 알레르기 유발 식품 회피와 항히스타민제 복용은 알레르기성(IgE 매개) 혈관부종에 적합한 교육이나, HAE는 브라디키닌 매개 질환으로 항히스타민제가 효과적이지 않다. 스트레스가 HAE 발작을 유발할 수 있지만, 항불안제의 정기적 복용이 표준 치료는 아니다. 면역억제제는 HAE 치료에 일반적으로 사용되지 않으며, 골수이식은 HAE 치료법이 아니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Patient education is a cornerstone of hereditary angioedema (HAE) management. Patients should be informed about triggers to avoid, including: 1) Mechanical trauma, particularly dental and surgical procedures, which require prophylactic treatment; 2) ACE inhibitors, which inhibit bradykinin degradation and can precipitate or worsen attacks; 3) Estrogen-containing medications (oral contraceptives, hormone replacement therapy), which can increase attack frequency. Patients should be advised to carry appropriate medication for on-demand treatment and wear medical identification jewelry. Family members should be screened given the autosomal dominant inheritance pattern. Genetic counseling should be offered, explaining the 50% risk of transmission to offspring. HAE differs fundamentally from histamine-mediated angioedema, so patients should understand that antihistamines, epinephrine, and corticosteroids are ineffective for their condition. Long-term prophylaxis options, including C1 inhibitor concentrates, lanadelumab (kallikrein inhibitor), or attenuated androgens, should be discussed with patients experiencing frequent or severe attacks.",
+  "category": "Allergy and Immunology"
+},
+
+{
+  "question_id": 10,
+  "chief complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 응급 치료가 필요한 경우 적절한 치료 방법을 선택할 수 있다.",
+  "question": "25세 남성이 식당에서 식사 후 15분 만에 갑작스러운 전신 두드러기, 입술 부종, 호흡곤란을 주소로 응급실에 내원하였다. 환자는 땅콩이 들어간 디저트를 먹은 후 가려움증과 함께 전신에 발진이 빠르게 퍼졌고, 이후 입술과 혀가 붓고 목이 조이는 느낌이 들었다고 한다. 과거력상 땅콩 알레르기가 있어 평소 땅콩을 피해왔으나, 오늘 먹은 디저트에는 땅콩이 들어있는지 몰랐다고 한다. 신체 검사에서 혈압 85/50 mmHg, 맥박 120회/분, 호흡수 28회/분, 산소포화도 91%, 체온 36.8°C였다. 전신에 홍반성 팽진이 관찰되었고, 입술과 혀에 현저한 부종이 있었으며, 청진상 천명음이 들렸다. 이 환자에게 가장 먼저 시행해야 할 치료는?",
+  "exam": "혈액 검사: 채취 중\n동맥혈 가스 분석: pH 7.36, PaO2 78 mmHg, PaCO2 32 mmHg",
+  "options": { 
+    "A": "에피네프린 0.3mg 근육주사", 
+    "B": "항히스타민제와 스테로이드 정맥주사", 
+    "C": "속효성 베타-2 작용제 흡입", 
+    "D": "산소 공급과 수액 정주", 
+    "E": "기관 삽관" 
+  },
+  "answer": "A",
+  "explanation": "이 환자는 알레르겐(땅콩) 노출 후 급속히 진행된 전신 두드러기, 혈관부종, 호흡곤란, 저혈압 등의 증상을 보이는 전형적인 아나필락시스 상태이다. 아나필락시스는 생명을 위협하는 전신적 과민반응으로, 피부(두드러기, 혈관부종), 호흡기(천명음, 호흡곤란), 심혈관계(저혈압, 빈맥), 소화기계 증상이 급속히 나타난다. 가장 먼저 시행해야 할 치료는 에피네프린 0.3mg(1:1,000 용액 0.3mL)을 대퇴부 전외측에 근육주사하는 것이다. 에피네프린은 아나필락시스의 일차 치료제로, 알파-1 효과(혈관수축, 저혈압 교정), 베타-1 효과(심근 수축력 및 심박수 증가), 베타-2 효과(기관지 확장, 비만세포 매개물질 분비 억제)를 통해 아나필락시스의 여러 증상을 빠르게 개선시킨다. 항히스타민제와 스테로이드 정맥주사는 아나필락시스의 보조 치료로 유용하나, 일차 치료는 아니며 에피네프린을 대체할 수 없다. 항히스타민제는 주로 두드러기와 가려움증을 완화시키고, 스테로이드는 지연성 반응을 예방하는 데 도움이 된다. 속효성 베타-2 작용제 흡입은 기관지 확장 효과가 있어 천명음이 있는 환자에게 도움이 될 수 있으나, 에피네프린 투여 후 보조 치료로 고려된다. 산소 공급과 수액 정주는 아나필락시스 치료의 중요한 부분이지만, 에피네프린 투여 후 시행된다. 기관 삽관은 심각한 상기도 폐쇄나 호흡부전이 있는 경우 필요할 수 있으나, 일차 치료로는 에피네프린 투여 후 반응을 평가한 뒤 고려해야 한다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: Epinephrine is the first-line treatment for anaphylaxis and should be administered as soon as the diagnosis is suspected, without waiting for complete clinical criteria to be fulfilled. The recommended dose is 0.3 mg (0.3 mL of a 1:1,000 solution) for adults or 0.15 mg for children, administered intramuscularly into the anterolateral thigh for optimal absorption. Intramuscular injection is preferred over subcutaneous administration due to more rapid and reliable absorption. Epinephrine's beneficial effects include alpha-1 adrenergic vasoconstriction (reversing hypotension and reducing angioedema), beta-1 adrenergic chronotropic and inotropic cardiac stimulation, and beta-2 adrenergic bronchodilation and inhibition of mediator release from mast cells and basophils. Patients with severe reactions or incomplete response may require multiple doses. Antihistamines and corticosteroids are considered second-line agents that may help relieve urticaria and prevent biphasic reactions, respectively, but they do not replace epinephrine as the primary treatment for anaphylaxis. Delayed administration of epinephrine has been associated with increased mortality and morbidity in anaphylaxis cases.",
+  "category": "Emergency Medicine"
+},
+
+{
   "question_id": 1,
   "chief complaint": "허리통증",
   "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
@@ -5181,4 +5581,4 @@
   "explanation": "이 환자는 30세 여성으로 항생제 복용 후 황달이 발생한 사례입니다. 검사 결과에서 간접 빌리루빈의 상승(총 빌리루빈 - 직접 빌리루빈), 상대적으로 경미한 간효소 상승, 헤모글로빈 감소, 망상적혈구 증가, 직접 Coombs 검사 양성, 혈액 도말에서 구상적혈구 관찰 등 용혈성 빈혈의 특징적인 소견을 보입니다. 이러한 임상상은 약물 유발성 용혈성 빈혈, 특히 면역 매개성 용혈성 빈혈에 합당합니다. 약물 유발성 용혈성 빈혈은 크게 두 가지 기전으로 발생합니다: 1) 약물-항체 복합체 형성(면역 복합체 기전)이나 약물 유도 자가항체 형성(약물 유도 자가면역) 등의 면역학적 기전과 2) 직접적인 세포 독성이나 산화 스트레스 유발 등의 비면역학적 기전. 이 환자의 경우 직접 Coombs 검사 양성은 적혈구 표면에 항체가 부착되어 있음을 의미하며, 이는 면역 매개성 용혈을 시사합니다. Amoxicillin-clavulanate는 면역 매개성 용혈성 빈혈을 유발할 수 있는 약물 중 하나입니다. 약물 유발성 간손상은 주로 간효소의 현저한 상승과 직접 빌리루빈의 상승을 특징으로 합니다. 바이러스성 간염 역시 간효소의 현저한 상승을 보입니다. 윌슨병은 ceruloplasmin 감소, 24시간 소변 구리 증가 등의 특징적인 소견을 보입니다. 길버트 증후군은 간접 빌리루빈의 경미한 상승만 있고 용혈의 증거는 없습니다.",
   "source": "InternalMed_Harrison_textbook_data.txt - Drug-induced immune hemolytic anemia (DIIHA) is a rare but potentially serious complication of drug therapy. It can be caused by drug-induced antibodies reacting with red blood cells by various mechanisms: (1) drug-dependent antibodies (e.g., the drug binds to the RBC membrane, and antibody binds to the drug, forming an immune complex); (2) drug-independent antibodies (true autoantibodies induced by drugs); and (3) immune complex mechanism (drug-antibody complexes deposit nonspecifically on RBC membranes). Common drugs implicated in DIIHA include penicillins, cephalosporins, nonsteroidal anti-inflammatory drugs, quinine, and sulfonamides. Clinical manifestations include the sudden onset of anemia, jaundice, and occasionally hemoglobinuria. Laboratory findings include decreased hemoglobin, increased reticulocytes, elevated indirect bilirubin, positive direct Coombs (antiglobulin) test, and spherocytes on peripheral blood smear. Treatment involves immediate discontinuation of the offending drug, supportive care, and, in severe cases, corticosteroids or intravenous immunoglobulin. Most patients recover fully within several weeks after drug discontinuation.",
   "category": "Hematology and Oncology"
-}
+},
