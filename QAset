@@ -1215,7 +1215,29 @@
     "content": "Continuous positive airway pressure (CPAP) is the first-line therapy for patients with moderate-to-severe obstructive sleep apnea (OSA). CPAP functions as a pneumatic splint to maintain upper airway patency during sleep by delivering a column of air under positive pressure through a mask interface. The positive pressure prevents the collapse of the upper airway that occurs in OSA during sleep. Several randomized trials and meta-analyses have shown that CPAP therapy in patients with OSA and hypertension results in modest but significant reductions in both systolic and diastolic blood pressure, with mean decreases of 2-10 mmHg. The blood pressure-lowering effect is more pronounced in patients with resistant hypertension and those with more severe OSA. The effect is also dose-dependent, with greater adherence to CPAP therapy resulting in larger reductions in blood pressure. Other treatments for OSA include weight loss, oral appliances, and various surgical procedures, but CPAP remains the most effective and well-studied intervention, particularly for patients with moderate-to-severe disease."
   },
   "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 60,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압으로 인한 응급치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "78세 여성이 급성 흉통과 호흡곤란으로 응급실에 내원하였다. 환자는 30년 전부터 고혈압을 앓고 있으며, 3년 전 심근경색 후 관상동맥 스텐트 삽입술을 받은 과거력이 있다. 환자는 약물은 처방대로 잘 복용하고 있다고 한다. 내원 당시 환자는 극심한 흉통을 호소하였으며, 등 쪽으로 방사되는 통증이 있다고 하였다. 혈압은 우측 팔에서 210/110 mmHg, 좌측 팔에서 160/90 mmHg로 측정되었고, 맥박 110회/분, 호흡수 24회/분, 산소포화도 94%(실내 공기)였다. 신체 검진에서 경동맥, 쇄골하동맥, 대퇴동맥에서 잡음이 들렸으며, 상지와 하지의 맥압 차이가 있었다. 심장 청진에서 이완기 잡음이 들렸다. 이 환자에게 가장 적절한 응급 영상 검사와 치료는?",
+  "exam": "심전도: 동성 빈맥, 좌심실 비대 소견이 있었으나 급성 허혈 변화는 없었음. 흉부 X선 검사: 종격동 확장이 의심됨. 혈액 검사: 혈색소 12.8 g/dL, 백혈구 11,200/μL, 트로포닌 I 0.05 ng/mL(정상 <0.04 ng/mL), D-dimer 650 ng/mL(정상 <500 ng/mL).",
+  "options": {
+    "A": "흉부 CT 혈관조영술 후 정맥 내 니트로프루시드 투여",
+    "B": "경흉부 심초음파 후 정맥 내 니트로글리세린 투여",
+    "C": "관상동맥 조영술 후 경구 메토프롤롤 투여",
+    "D": "흉부 CT 혈관조영술 후 정맥 내 에스몰롤과 니트로프루시드 투여",
+    "E": "폐 환기-관류 스캔 후 헤파린 투여"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 급성 대동맥 박리(acute aortic dissection)가 강하게 의심되는 환자입니다. 대동맥 박리를 시사하는 소견으로는 1) 급성 발병한 심한 흉통으로 등으로 방사되는 특징, 2) 상지 간 혈압 차이(>20 mmHg), 3) 맥압 차이, 4) 혈관 잡음, 5) 이완기 심잡음(대동맥 판막 역류 시), 6) 종격동 확장 등이 있습니다. 이 환자는 고령, 장기간의 고혈압 병력, 동맥경화증(관상동맥질환 과거력) 등 대동맥 박리의 위험 인자도 가지고 있습니다. 급성 대동맥 박리가 의심될 때 가장 적절한 응급 영상 검사는 흉부 CT 혈관조영술(CT angiography)입니다. CT 혈관조영술은 높은 민감도(95-98%)와 특이도(94-100%)로 대동맥 박리를 진단할 수 있으며, 박리의 범위, 가강(false lumen)과 진강(true lumen)의 상태, 주요 분지 혈관 침범 여부 등을 평가할 수 있습니다. 급성 대동맥 박리의 초기 치료는 혈압과 심박수를 조절하여 대동맥 벽에 가해지는 전단력(shear force)을 감소시키는 것입니다. 치료 목표는 수축기 혈압 100-120 mmHg, 심박수 60-80회/분입니다. 베타 차단제(에스몰롤)는 심박수와 심근 수축력을 감소시켜 dp/dt(혈압 변화율)를 낮추는 데 효과적이며, 대동맥 박리 환자의 일차 치료제입니다. 니트로프루시드는 강력한 혈관확장제로 빠른 혈압 조절에 효과적이나, 반사성 빈맥을 유발할 수 있어 단독 사용보다는 베타 차단제와 함께 사용하는 것이 좋습니다. 따라서 에스몰롤과 니트로프루시드의 병합 요법이 급성 대동맥 박리 환자의 초기 치료로 가장 적절합니다. 니트로글리세린은 관상동맥 확장 효과가 있어 급성 관상동맥 증후군에 유용하나, 대동맥 박리에서는 주로 베타 차단제와 니트로프루시드가 선호됩니다. 관상동맥 조영술은 대동맥 박리 진단에 적합하지 않으며, 오히려 대동맥 박리가 있는 환자에서 위험할 수 있습니다. 경구 약물은 작용 시작이 느려 급성 대동맥 박리와 같은 응급 상황에서는 부적합합니다. 폐 환기-관류 스캔과 헤파린은 폐색전증 의심 시 고려할 수 있으나, 이 환자의 임상 양상은 대동맥 박리에 더 부합합니다. 또한 대동맥 박리가 의심되는 상황에서 항응고제는 출혈 위험을 증가시켜 금기입니다.",
+  "source": {
+    "file_name": "2014 ESC Guidelines on the diagnosis and treatment of aortic diseases",
+    "content": "In suspected aortic dissection, the initial diagnostic test of choice is computed tomographic angiography (CTA) due to its high sensitivity (95-98%) and specificity (94-100%). The primary goals of medical therapy in acute aortic dissection are to control pain and to reduce systolic blood pressure and heart rate in order to decrease aortic wall stress (dP/dt). The target systolic blood pressure should be between 100 and 120 mmHg, and heart rate should be reduced to 60-80 beats per minute. This is best achieved with intravenous beta-blockers (e.g., esmolol, propranolol, metoprolol, or labetalol) as first-line agents due to their ability to reduce heart rate, blood pressure, and myocardial contractility. If additional antihypertensive medication is needed after adequate beta-blockade, vasodilators such as sodium nitroprusside can be added. However, vasodilators should never be used alone, as they can increase aortic wall stress by increasing heart rate and contractility through reflex sympathetic activation."
+  },
+  "category": "Emergency Medicine"
 }
+
 
 
 
