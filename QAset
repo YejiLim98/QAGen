@@ -1441,13 +1441,145 @@
     "E": "목말뼈 처리 및 대퇴골두 제거술"
   },
   "answer": "D",
-  "explanation": "이 환자는 82세 고령의 여성으로 대퇴골 전자간 골절(AO/OTA 31-A2, 불안정성 골절)이 확인되었습니다. 환자는 여러 동반 질환(고혈압, 당뇨병, 만성 신부전, 골다공증)이 있으나, 골절 전까지는 독립적인 일상생활이 가능했던 활동적인 노인입니다. 이러한 환자에게 가장 적합한 치료는 골수강내 금속정 고정술입니다. 대퇴골 전자간 골절의 치료 목표는 조기 보행과 일상생활로의 복귀를 가능하게 하는 것입니다. 골수강내 금속정은 생역학적으로 우수한 안정성을 제공하여 조기 체중부하가 가능하며, 수술 시간이 짧고 출혈이 적어 고령 환자에게 유리합니다. 특히 내측 피질골 분쇄가 있는 불안정성 골절(AO/OTA 31-A2)에서는 금속판보다 골수강내 금속정이 더 우수한 결과를 보입니다. 또한 골수강내 금속정은 지렛대 팔(lever arm)이 짧아 임플란트에 가해지는 부하가 적고, 골절 부위의 압박력을 유지하여 골유합을 촉진합니다. 보존적 치료(견인 및 침상 안정)는 장기간 침상 안정으로 인한 합병증(폐렴, 욕창, 심부정맥혈전증, 근위축 등) 위험이 높고, 골유합 지연 및 부정유합 가능성이 높아 수술이 불가능한 극히 제한적인 경우에만 고려합니다. 고관절 전치환술은 주로 대퇴 경부 골절이나 심한 골관절염, 대퇴골두 무혈성 괴사 등에 적용되며, 전자간 골절에서는 일반적으로 권장되지 않습니다. 금속판 및 나사못 고정술(역동적 고관절 나사)은 안정성 전자간 골절에서는 효과적일 수 있으나, 내측 피질골 분쇄가 있는 불안정성 골절에서는 고정 실패 위험이 높습니다. 목말뼈 처리 및 대퇴골두 제거술(Girdlestone 수술)은 실패한 고관절 전치환술이나 심한 감염 등의 극히 제한적인 상황에서만 고려되는 구제술로, 일차적 치료로는 적절하지 않습니다.",
+  "explanation": "이 환자는 82세 고령의 여성으로 대퇴골 전자간 골절(불안정성 골절)이 확인되었습니다. 환자는 여러 동반 질환(고혈압, 당뇨병, 만성 신부전, 골다공증)이 있으나, 골절 전까지는 독립적인 일상생활이 가능했던 활동적인 노인입니다. 이러한 환자에게 가장 적합한 치료는 골수강내 금속정 고정술입니다. 대퇴골 전자간 골절의 치료 목표는 조기 보행과 일상생활로의 복귀를 가능하게 하는 것입니다. 골수강내 금속정은 생역학적으로 우수한 안정성을 제공하여 조기 체중부하가 가능하며, 수술 시간이 짧고 출혈이 적어 고령 환자에게 유리합니다. 특히 내측 피질골 분쇄가 있는 불안정성 골절(AO/OTA 31-A2)에서는 금속판보다 골수강내 금속정이 더 우수한 결과를 보입니다. 또한 골수강내 금속정은 지렛대 팔(lever arm)이 짧아 임플란트에 가해지는 부하가 적고, 골절 부위의 압박력을 유지하여 골유합을 촉진합니다. 보존적 치료(견인 및 침상 안정)는 장기간 침상 안정으로 인한 합병증(폐렴, 욕창, 심부정맥혈전증, 근위축 등) 위험이 높고, 골유합 지연 및 부정유합 가능성이 높아 수술이 불가능한 극히 제한적인 경우에만 고려합니다. 고관절 전치환술은 주로 대퇴 경부 골절이나 심한 골관절염, 대퇴골두 무혈성 괴사 등에 적용되며, 전자간 골절에서는 일반적으로 권장되지 않습니다. 금속판 및 나사못 고정술(역동적 고관절 나사)은 안정성 전자간 골절에서는 효과적일 수 있으나, 내측 피질골 분쇄가 있는 불안정성 골절에서는 고정 실패 위험이 높습니다. 목말뼈 처리 및 대퇴골두 제거술(Girdlestone 수술)은 실패한 고관절 전치환술이나 심한 감염 등의 극히 제한적인 상황에서만 고려되는 구제술로, 일차적 치료로는 적절하지 않습니다.",
   "source": {
     "file_name": "Journal of the American Academy of Orthopaedic Surgeons - Intertrochanteric Hip Fractures",
     "content": "Intramedullary nailing has become the preferred treatment for unstable intertrochanteric fractures (AO/OTA 31-A2 and A3), particularly those with posteromedial comminution or reverse obliquity patterns. Biomechanical studies demonstrate that intramedullary devices provide superior stability for unstable fracture patterns compared to sliding hip screws, with reduced moment arm and improved load sharing properties. Clinical studies consistently show lower rates of fixation failure, malunion, and reoperation with intramedullary nails in unstable fracture patterns. Additional advantages include shorter operative time, reduced blood loss, and the potential for earlier weight-bearing. These factors are particularly important in elderly patients with comorbidities who benefit from early mobilization to prevent complications of prolonged recumbency. While sliding hip screws remain a viable option for stable fracture patterns (31-A1), the growing body of evidence supports the superiority of intramedullary fixation for unstable patterns, especially in osteoporotic bone. Arthroplasty is rarely indicated as primary treatment for intertrochanteric fractures, being reserved primarily for salvage of failed fixation or in select cases of severe osteoarthritis with concurrent hip fracture."
   },
   "category": "Orthopedic Surgery"
 }, 
+{
+  "question_id": 71,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 원인을 감별해낼 수 있다.",
+  "question": "68세 남성이 1주일 전부터 갑자기 시작된 오른쪽 무릎의 심한 통증과 부종을 주소로 내원하였다. 환자는 기상 후 30분 정도의 조조강직을 호소하며, 통증으로 인해 걷기가 힘들다고 한다. 과거력상 고혈압과 고요산혈증이 있으며, 최근 이뇨제 용량을 증가시켰다고 한다. 신체검진에서 오른쪽 무릎의 현저한 발적, 열감, 부종이 관찰되며 관절 운동 시 심한 통증을 호소한다. 체온은 37.8°C이다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 10,500/mm³, ESR 45mm/hr, CRP 4.2mg/dL, 요산 8.5mg/dL. 관절액 검사: 백혈구 수 35,000/mm³(다형핵백혈구 90%), 관절액 점도 감소. 편광현미경검사: 바늘 모양의 음성 이중굴절 결정이 관찰됨. ",
+  "options": {
+    "A": "류마티스 관절염",
+    "B": "감염성 관절염",
+    "C": "통풍성 관절염",
+    "D": "가성통풍",
+    "E": "골관절염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 발병한 단관절염(모노관절염)의 양상을 보이며, 고요산혈증의 병력과 최근 이뇨제 용량 증가라는 악화 요인이 있습니다. 관절액 검사에서 백혈구 수가 증가되어 있고(>2,000/mm³), 특히 편광현미경 검사에서 바늘 모양의 음성 이중굴절 결정(needle-shaped negatively birefringent crystals)이 관찰된 것은 통풍성 관절염의 특징적 소견입니다. 통풍은 요산 대사 이상으로 인해 관절 내에 요산 결정이 침착되어 발생하는 염증성 관절염입니다. 통풍의 위험 인자로는 고요산혈증, 남성, 고령, 이뇨제 사용, 알코올 섭취, 육류 섭취 등이 있습니다. 혈청 요산 수치가 8.5mg/dL로 상승되어 있는 점도 진단을 뒷받침합니다. 통풍은 주로 제1중족지관절(엄지발가락)에 흔히 발생하지만, 무릎, 발목, 손목 등 다른 관절에도 발생할 수 있습니다. 류마티스 관절염은 주로 대칭적인 다발성 관절염으로 나타나고, 감염성 관절염은 더 심한 전신 증상과 관절액 배양 양성 소견을 보입니다. 가성통풍은 칼슘피로인산결정으로 인한 관절염으로, 편광현미경에서 양성 이중굴절 결정이 관찰됩니다. 골관절염은 서서히 진행하는 만성 관절 질환으로 급성 염증 소견이 덜 두드러집니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Gout is characterized by sudden onset of excruciating joint pain, which reaches maximal intensity within hours, and resolves spontaneously within several days to 2 weeks. The first episode of gouty arthritis is usually monoarticular and often involves the first metatarsophalangeal joint (podagra). Gouty arthritis is typically accompanied by severe local inflammation, with warmth, redness, swelling, and tenderness. Microscopic evaluation of synovial fluid during an acute attack reveals neutrophilic leukocytosis and intracellular and extracellular needle-shaped, negatively birefringent urate crystals. Risk factors include hyperuricemia, male sex, postmenopausal state in women, older age, hypertension, use of diuretics, alcohol consumption, and purine-rich diet."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 72,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 3개월 전부터 시작된 양손 관절의 통증과 부종을 주소로 내원하였다. 증상은 아침에 더 심하고 1시간 이상 지속되는 조조강직이 있다고 한다. 특히 중수지관절과 근위지관절에 통증과 부종이 있으며, 최근에는 양쪽 손목과 발목에도 비슷한 증상이 나타났다고 한다. 환자는 최근 피로감이 심해지고 가끔 미열이 있다고 호소한다. 신체 검진에서 양손의 중수지관절과 근위지관절에 압통과 부종이 대칭적으로 관찰되고, 양쪽 손목에도 압통이 있다. 이 환자의 진단을 위해 시행할 검사로 가장 적절한 것은?",
+  "exam": "",
+  "options": {
+    "A": "혈청 요산 검사와 관절액 편광현미경 검사",
+    "B": "류마티스 인자, 항CCP항체 검사 및 적혈구 침강속도",
+    "C": "HLA-B27 항원 검사와 골반 X선 검사",
+    "D": "항핵항체(ANA)와 항dsDNA항체 검사",
+    "E": "C3, C4 보체 수치와 크리오글로불린 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3개월 이상 지속된 대칭적인 다발성 관절염의 임상상을 보이며, 특히 중수지관절(MCP)과 근위지관절(PIP)을 침범하는 양상과 1시간 이상 지속되는 조조강직은 류마티스 관절염(Rheumatoid Arthritis, RA)을 강하게 시사합니다. 류마티스 관절염의 진단을 위해서는 류마티스 인자(Rheumatoid Factor, RF), 항CCP항체(Anti-Cyclic Citrullinated Peptide antibody)와 같은 혈청학적 검사와 적혈구 침강속도(ESR), C-반응성 단백(CRP)과 같은 염증 지표의 평가가 중요합니다. 특히 항CCP항체는 류마티스 관절염에 대한 특이도가 높으며(95-98%), 조기 진단과 예후 예측에 유용합니다. 또한 적혈구 침강속도는 질환의 활성도를 평가하는 데 도움이 됩니다. 혈청 요산 검사와 관절액 편광현미경 검사는 통풍이나 가성통풍과 같은 결정성 관절병증의 진단에 유용합니다. HLA-B27 항원 검사와 골반 X선 검사는 강직성 척추염과 같은 척추관절염의 진단에 도움이 됩니다. 항핵항체와 항dsDNA항체 검사는 전신성 루푸스 홍반증(SLE)의 진단에 중요하며, C3, C4 보체 수치와 크리오글로불린 검사는 감소된 보체 수치를 보이는 자가면역 질환이나 혼합형 한랭글로불린혈증의 평가에 유용합니다.",
+  "source": {
+    "file_name": "KELLEY & FIRESTEIN'S TEXTBOOK OF RHEUMATOLOGY",
+    "content": "The laboratory evaluation of a patient with suspected RA should include tests both to establish the diagnosis and to serve as a baseline for monitoring the safety and efficacy of therapy. Serologic markers, including RF and anti-CCP antibodies, are important tools in diagnosing RA. RF is an antibody directed against the Fc portion of IgG and is found in 70% to 80% of patients with RA. Anti-CCP antibodies are present in 60% to 70% of patients with RA and have a specificity of 95% to 98%. Acute phase reactants, such as ESR and CRP, reflect the inflammatory activity of RA and are elevated in about 70% of patients with active disease. These markers are also useful for monitoring the effectiveness of therapy."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 73,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "58세 여성이 6개월 전부터 악화된 양손 원위지관절의 통증과 변형을 주소로 내원하였다. 환자는 아침 강직이 30분 미만으로 지속되며, 일상 활동 후 통증이 심해진다고 한다. 신체 검진에서 양손 원위지관절(DIP)의 결절성 비대(Heberden's node)와 근위지관절(PIP)의 결절성 비대(Bouchard's node)가 관찰되며, 관절 운동 범위가 제한되어 있다. 이 환자의 치료로 가장 적절한 것은?",
+  "exam": "혈액 검사: ESR 22mm/hr, CRP 0.8mg/dL, RF 음성, 항CCP항체 음성. X-ray 검사: 관절간격 협착, 골극(osteophyte) 형성, 연골하 경화가 보임.",
+  "options": {
+    "A": "Methotrexate 15mg 주 1회 경구 투여",
+    "B": "Prednisolone 10mg 매일 경구 투여",
+    "C": "Colchicine 0.6mg 1일 2회 경구 투여",
+    "D": "Acetaminophen과 비스테로이드성 소염제(NSAIDs) 투여, 물리치료 및 관절 보호",
+    "E": "TNF-α 억제제(Adalimumab) 피하주사"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 임상 양상, 신체 검진 소견 및 방사선 소견이 전형적인 골관절염(Osteoarthritis, OA)에 합당합니다. 특히 원위지관절(DIP)의 Heberden's node와 근위지관절(PIP)의 Bouchard's node는 손의 골관절염에서 특징적으로 나타납니다. 병력에서 아침 강직이 30분 미만으로 짧고, 활동 후 통증이 악화되는 양상, 그리고 X-ray에서 관절간격 협착, 골극 형성, 연골하 경화 소견은 골관절염을 뒷받침합니다. 또한 혈액 검사에서 RF와 항CCP항체가 음성이고 염증 수치가 경미하게 상승된 점도 염증성 관절염보다는 골관절염을 시사합니다. 골관절염의 기본 치료는 비약물적 치료와 약물 치료의 조합으로 이루어집니다. 비약물적 치료로는 체중 감량, 관절 보호, 물리치료, 운동 등이 있으며, 약물 치료로는 acetaminophen이나 비스테로이드성 소염제(NSAIDs)가 첫 번째 선택입니다. 중증 환자에서는 관절내 스테로이드 주사, hyaluronic acid 주사, duloxetine 등이 고려될 수 있습니다. Methotrexate와 TNF-α 억제제는 류마티스 관절염과 같은 염증성 관절염에서 사용되는 약제로, 골관절염에는 효과가 없습니다. Prednisolone의 장기간 경구 투여는 골관절염에서 권장되지 않으며, colchicine은 통풍의 치료제로 골관절염에는 효과가 없습니다.",
+  "source": {
+    "file_name": "UpToDate: Treatment of hand osteoarthritis",
+    "content": "The goals of treatment for patients with hand osteoarthritis (OA) are to reduce pain, improve function, and decrease stiffness. Treatment options include nonpharmacologic interventions, medications, and, for selected patients, surgery. Education about joint protection techniques, use of assistive devices, and heat/cold therapy are important components of nonpharmacologic management. For pharmacologic therapy, acetaminophen is typically used first-line, with nonsteroidal anti-inflammatory drugs (NSAIDs) reserved for patients who do not respond adequately. Topical NSAIDs are effective for mild to moderate OA pain and have fewer systemic adverse effects than oral NSAIDs. Disease-modifying antirheumatic drugs (DMARDs) such as methotrexate and biologic agents that are used in rheumatoid arthritis are not effective in OA and should not be used."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 74,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 원인을 감별해낼 수 있다.",
+  "question": "32세 남성이 2일 전부터 시작된 오른쪽 무릎의 심한 통증, 부종, 발적을 주소로 응급실에 내원하였다. 환자는 4일 전 무릎을 찔리는 상처를 입었으며, 점차 악화되는 통증과 함께 38.7°C의 발열이 있다고 한다. 환자는 움직임 시 심한 통증을 호소하고, 신체 검진에서 오른쪽 무릎의 현저한 부종, 발적, 열감이 관찰되며 관절액 천자 시 탁한 황색의 관절액이 배출되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 15,200/mm³(호중구 85%), ESR 75mm/hr, CRP 18.5mg/dL. 관절액 검사: 백혈구 수 85,000/mm³(다형핵백혈구 92%), 그람 염색에서 그람 양성 구균. ",
+  "options": {
+    "A": "반응성 관절염",
+    "B": "세균성 관절염",
+    "C": "통풍성 관절염",
+    "D": "라임병 관절염",
+    "E": "류마티스 관절염"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 무릎 관절의 급성 단관절염 양상을 보이며, 최근의 관통상 병력, 고열, 심한 염증 소견(발적, 열감, 부종), 그리고 관절액 검사에서 현저히 증가된 백혈구 수(>50,000/mm³)와 그람 양성 구균의 관찰은 세균성(감염성) 관절염을 강하게 시사합니다. 세균성 관절염은 관절내 세균 감염으로 인해 발생하는 급성 염증성 질환으로, 외상, 수술, 관절 주사, 인접 조직의 감염 등에 의해 직접 감염되거나 혈행성으로 전파될 수 있습니다. 그람 양성 구균, 특히 황색포도상구균(Staphylococcus aureus)은 성인 세균성 관절염의 가장 흔한 원인 균주입니다. 세균성 관절염은 관절 파괴를 초래할 수 있는 응급 상황이므로, 즉각적인 관절액 배양 검사와 적절한 항생제 치료가 필요합니다. 반응성 관절염은 장내 감염이나 성병 후 1-4주 후에 발생하는 무균성 관절염으로, 주로 하지의 비대칭적 소수관절염으로 나타납니다. 통풍성 관절염은 요산 결정에 의한 관절염으로, 관절액에서 음성 이중굴절 결정이 관찰됩니다. 라임병 관절염은 Borrelia burgdorferi 감염에 의한 것으로, 진드기 물림 병력과 유주성 홍반의 과거력이 특징적입니다. 류마티스 관절염은 만성적, 대칭적 다발성 관절염으로 주로 손과 손목 관절을 침범합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Bacterial (septic) arthritis is a medical emergency that can lead to rapid joint destruction and irreversible loss of function. The most common causative organisms in adults include Staphylococcus aureus, streptococci, and gram-negative bacilli. Routes of infection include hematogenous spread, direct inoculation through trauma or medical procedures, and contiguous spread from adjacent infections. Clinical presentation typically includes acute onset of monoarticular joint pain, swelling, warmth, erythema, and restricted motion, often accompanied by fever and chills. Laboratory findings include leukocytosis, elevated ESR and CRP, and synovial fluid analysis showing turbid or purulent fluid with >50,000 WBC/mm³ (predominantly neutrophils), low glucose, and positive Gram stain or culture. Prompt diagnosis and treatment with joint drainage and appropriate antibiotics are essential to prevent joint destruction."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 75,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "25세 여성이 6개월 전부터 시작된 여러 관절의 통증과 부종을 주소로 내원하였다. 환자는 손목, 발목, 무릎의 대칭적인 관절통과 부종을 호소하며, 최근 2개월간 얼굴에 홍반성 발진이 생겼다가 사라지는 증상이 있었다고 한다. 또한 구강 내 궤양, 탈모, 광과민성, 레이노 현상을 경험했다고 한다. 신체 검진에서 양쪽 손목과 근위지관절에 압통과 부종이 관찰되고, 얼굴 양 볼에 홍반성 발진이 관찰된다. 이 환자에게서 다음 중 가장 특이적인 검사 소견은?",
+  "exam": "혈액 검사: 백혈구 3,800/mm³, 혈색소 10.2g/dL, 혈소판 115,000/mm³, ESR 62mm/hr, CRP 2.8mg/dL, 크레아티닌 1.3mg/dL, 요 검사: 단백뇨 2+, 적혈구 20-25/HPF",
+  "options": {
+    "A": "항CCP항체 양성",
+    "B": "항dsDNA항체 양성과 저보체혈증",
+    "C": "HLA-B27 양성",
+    "D": "류마티스 인자 양성",
+    "E": "항U1-RNP항체 양성"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 다발성 관절염, 얼굴의 홍반성 발진(나비 모양 홍반), 구강 궤양, 탈모, 광과민성, 레이노 현상 등의 임상 양상과 백혈구감소증, 빈혈, 혈소판감소증, 단백뇨, 혈뇨와 같은 검사 소견을 보이는데, 이는 전신성 홍반성 루푸스(Systemic Lupus Erythematosus, SLE)를 강하게 시사합니다. SLE의 진단에 있어 항dsDNA항체 양성과 저보체혈증(C3, C4 감소)은 높은 특이도를 가진 소견입니다. 항dsDNA항체는 SLE 환자의 약 70%에서 양성이며, 다른 자가면역 질환에서는 드물게 나타나므로 SLE에 비교적 특이적입니다. 또한 항dsDNA항체의 역가는 질환의 활성도, 특히 루푸스 신염과 연관이 있습니다. 저보체혈증(C3, C4 감소)도 SLE의 활성기에 흔히 관찰되며, 특히 신장 침범이 있는 환자에서 더 흔합니다. 이 환자의 단백뇨와 혈뇨는 루푸스 신염의 가능성을 시사합니다. 항CCP항체 양성은 류마티스 관절염에 특이적이며, HLA-B27 양성은 강직성 척추염을 포함한 척추관절염과 연관이 있습니다. 류마티스 인자는 여러 자가면역 질환에서 양성으로 나타날 수 있어 특이도가 낮습니다. 항U1-RNP항체는 혼합결합조직병(Mixed Connective Tissue Disease, MCTD)의 진단적 표지자이지만, SLE에서도 양성으로 나타날 수 있습니다.",
+  "source": {
+    "file_name": "KELLEY & FIRESTEIN'S TEXTBOOK OF RHEUMATOLOGY",
+    "content": "Serologic abnormalities are a hallmark of SLE. Antinuclear antibodies (ANAs) are found in virtually all patients, but are not specific for SLE. Anti-double-stranded DNA (anti-dsDNA) antibodies are highly specific for SLE, occurring in 60% to 70% of patients, and their titers often correlate with disease activity, particularly renal involvement. Anti-Smith (anti-Sm) antibodies are also highly specific for SLE but less sensitive, present in only 20% to 30% of patients. Hypocomplementemia, particularly decreased levels of C3 and C4, is common during active disease and reflects complement consumption by immune complexes. This finding is especially prevalent in patients with active nephritis. The presence of anti-dsDNA antibodies together with hypocomplementemia is highly suggestive of active SLE, particularly when renal involvement is present."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 76,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 원인을 감별해낼 수 있다.",
+  "question": "35세 남성이 3주 전부터 시작된 오른쪽 무릎과 발목의 통증 및 부종을 주소로 내원하였다. 환자는 약 1개월 전 설사와 복통이 1주일간 지속되었다가 호전되었다고 한다. 최근 배뇨 시 통증과 소량의 요도 분비물이 있었으며, 양쪽 눈의 충혈과 통증도 호소한다. 신체 검진에서 오른쪽 무릎과 발목에 부종과 압통이 관찰되고, 양안의 결막 충혈이 확인된다. 또한 음경 귀두에 표재성 궤양이 관찰되고 구강 내 통증성 궤양도 발견되었다. 이 환자에서 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 11,500/mm³, ESR 58mm/hr, CRP 3.8mg/dL, HLA-B27 양성, 요 검사: 백혈구 15-20/HPF",
+  "options": {
+    "A": "반응성 관절염",
+    "B": "건선 관절염",
+    "C": "베체트병",
+    "D": "강직성 척추염",
+    "E": "류마티스 관절염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 장내 감염(설사와 복통) 및 요로 감염(배뇨통과 요도 분비물) 후 발생한 비대칭적인 하지 관절염(무릎, 발목)과 결막염을 보이고 있으며, HLA-B27 양성으로 나타났습니다. 이러한 임상상은 반응성 관절염(Reactive Arthritis)을 가장 강하게 시사합니다. 반응성 관절염은 선행하는 장 또는 비뇨생식기 감염 후 1-4주 후에 발생하는 무균성 관절염으로, 주로 하지의 비대칭적 소수관절염, 요도염, 결막염 등의 임상양상을 보입니다. 이전에는 라이터 증후군(Reiter's syndrome)이라고도 불렸으며, '관절염, 요도염, 결막염'의 세 가지 주요 증상이 특징적입니다(모두 나타나지 않을 수도 있음). HLA-B27과 강한 연관성이 있으며, 병원체로는 Chlamydia trachomatis, Salmonella, Shigella, Yersinia, Campylobacter 등이 흔합니다. 베체트병은 재발성 구강 궤양, 생식기 궤양, 포도막염(안구 내 염증)을 특징으로 하며, 관절염은 주로 대칭적이고 비침식성입니다. 이 환자의 음경 귀두의 표재성 궤양과 구강 궤양은 베체트병을 의심할 수 있지만, 선행하는 장 및 요로 감염, HLA-B27 양성, 비대칭적 하지 관절염은 반응성 관절염에 더 부합합니다. 건선 관절염은 건선의 피부 병변과 함께 나타나는 관절염으로, 이 환자에서는 건선의 피부 소견이 언급되지 않았습니다. 강직성 척추염은 주로 축성 관절(척추, 천장관절)을 침범하는 만성 염증성 질환으로, 말초 관절염도 동반될 수 있지만 이 환자의 임상상과는 차이가 있습니다. 류마티스 관절염은 대칭적인 다발성 관절염으로 주로 손과 손목을 침범하므로, 이 환자의 비대칭적 하지 관절염 양상과 맞지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Reactive arthritis (ReA) is typically precipitated by specific infections of the gastrointestinal or genitourinary tract. The most common triggering pathogens are Chlamydia trachomatis, Salmonella, Shigella, Yersinia, and Campylobacter. The classical presentation includes the triad of arthritis, urethritis, and conjunctivitis, although not all features need to be present simultaneously. ReA predominantly affects the lower extremities in an asymmetric pattern. Extra-articular manifestations can include enthesitis, dactylitis, balanitis, oral ulcers, and keratoderma blennorrhagicum. HLA-B27 is positive in 60-80% of patients with ReA, particularly in those with more chronic or severe disease. The interval between the antecedent infection and the onset of arthritis is typically 1-4 weeks."
+  },
+  "category": "Rheumatology"
+}
+
+
+
+
+
+
 
 
 
