@@ -1573,41 +1573,301 @@
     "content": "Reactive arthritis (ReA) is typically precipitated by specific infections of the gastrointestinal or genitourinary tract. The most common triggering pathogens are Chlamydia trachomatis, Salmonella, Shigella, Yersinia, and Campylobacter. The classical presentation includes the triad of arthritis, urethritis, and conjunctivitis, although not all features need to be present simultaneously. ReA predominantly affects the lower extremities in an asymmetric pattern. Extra-articular manifestations can include enthesitis, dactylitis, balanitis, oral ulcers, and keratoderma blennorrhagicum. HLA-B27 is positive in 60-80% of patients with ReA, particularly in those with more chronic or severe disease. The interval between the antecedent infection and the onset of arthritis is typically 1-4 weeks."
   },
   "category": "Rheumatology"
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}, 
+{
+  "question_id": 77,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "52세 여성이 6개월 전부터 시작된 양손과 손목의 통증, 부종 및 조조강직을 주소로 내원하였다. 증상은 점차 심해지고 있으며, 최근에는 일상생활에 지장을 줄 정도라고 한다. 2시간 이상 지속되는 조조강직이 있고, 피로감이 심하다. 신체 검진에서 양손의 중수지관절과 근위지관절에 압통과 부종이 대칭적으로 관찰되고, 양쪽 손목에도 압통이 있다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "혈액 검사: 류마티스 인자 양성(85 IU/mL), 항CCP항체 강양성(>300 U/mL), ESR 68mm/hr, CRP 4.2mg/dL. X-ray 검사: 양손 MCP 관절에 주변 골감소증과 경미한 골미란이 관찰됨.",
+  "options": {
+    "A": "Acetaminophen과 물리치료",
+    "B": "Methotrexate와 저용량 prednisolone",
+    "C": "TNF-α 억제제(Adalimumab) 단독요법",
+    "D": "Colchicine 0.6mg 1일 2회",
+    "E": "Hydroxychloroquine 단독요법"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 6개월 이상 지속된 대칭적 다발성 관절염과 2시간 이상의 조조강직, 높은 염증수치, 류마티스 인자와 항CCP항체 강양성, X-ray에서의 골미란 소견을 보이는 전형적인 류마티스 관절염(Rheumatoid Arthritis, RA) 환자입니다. 류마티스 관절염은 조기에 적극적인 치료를 시작하는 것이 장기적인 관절 손상과 기능 장애를 예방하는 데 중요합니다. 특히 이 환자는 항CCP항체 강양성, 높은 염증수치, 이미 발생한 골미란 등 불량한 예후 인자를 가지고 있어 적극적인 치료가 필요합니다. 류마티스 관절염의 초기 치료로는 메토트렉세이트(Methotrexate)가 가장 효과적인 단일 항류마티스약제(DMARD)로 권장되며, 증상 조절을 위해 일시적으로 저용량 스테로이드(Prednisolone)를 병용하는 것이 적절합니다. Methotrexate는 보통 주 1회 7.5-25mg을 경구 또는 피하주사로 투여하며, 효과가 나타나기까지 6-12주가 걸릴 수 있으므로 그 동안 bridging therapy로 저용량 prednisolone(5-10mg/일)을 병용하여 빠른 증상 완화를 도모합니다. Acetaminophen과 물리치료는 골관절염에 적합한 치료법으로, 염증성 질환인 류마티스 관절염에는 충분한 효과가 없습니다. TNF-α 억제제(Adalimumab)와 같은 생물학적 제제는 메토트렉세이트와 같은 기존 DMARDs에 충분한 효과가 없는 경우에 고려되는 2차 약제로, 초기 치료로 단독 사용하는 것은 일반적이지 않습니다. Colchicine은 통풍과 가성통풍의 치료제로, 류마티스 관절염에는 효과가 없습니다. Hydroxychloroquine은 경증 류마티스 관절염이나 전신성 홍반성 루푸스에 사용될 수 있으나, 단독 요법으로는 이 환자와 같은 중등도 이상의 류마티스 관절염에 충분한 효과를 기대하기 어렵습니다.",
+  "source": {
+    "file_name": "European League Against Rheumatism (EULAR) recommendations",
+    "content": "According to EULAR recommendations for the management of rheumatoid arthritis, methotrexate should be part of the first treatment strategy in patients with active RA. Treatment should be initiated as soon as the diagnosis of RA is made. The recommended starting dose of methotrexate is 15 mg/week, with escalation to 25-30 mg/week within 4-8 weeks, depending on clinical response and tolerability. Low-dose glucocorticoids (≤10 mg/day prednisone equivalent) can be considered as part of the initial treatment strategy (in combination with one or more DMARDs) for up to 6 months, but should be tapered as rapidly as clinically feasible. Biological DMARDs such as TNF inhibitors should be started in combination with methotrexate in patients who have failed to achieve the treatment target with methotrexate and/or other conventional synthetic DMARDs strategies."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 78,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "64세 남성이 3일 전부터 갑자기 시작된 왼쪽 무릎의 통증과 부종을 주소로 내원하였다. 환자는 기저 당뇨병, 고혈압, 만성 신부전(CKD stage 3)으로 치료 중이며, 평소 멜로락 정(meloxicam)을 간헐적으로 복용한다고 한다. 신체 검진에서 왼쪽 무릎의 발적, 열감, 부종이 관찰되며 관절 운동 범위가 제한되어 있다. 이 환자의 진단에 가장 합당한 것은?",
+  "exam": "혈액 검사: 백혈구 9,800/mm³, ESR 45mm/hr, CRP 3.2mg/dL, 요산 5.8mg/dL, BUN 35mg/dL, Cr 1.8mg/dL, 무릎 관절액 천자: 백혈구 12,000/mm³(중성구 75%). 편광현미경 검사: 짧은 육면체 모양의 양성 이중굴절 결정. ",
+  "options": {
+    "A": "통풍성 관절염",
+    "B": "가성통풍",
+    "C": "골관절염",
+    "D": "류마티스 관절염",
+    "E": "감염성 관절염"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 단관절염의 양상을 보이며, 관절액 검사에서 짧은 육면체 모양의 양성 이중굴절 결정(rhomboid-shaped positively birefringent crystals)이 관찰되었습니다. 이는 칼슘피로인산(calcium pyrophosphate dihydrate, CPPD) 결정으로, 가성통풍(Pseudogout) 또는 칼슘피로인산 결정침착병(CPPD crystal deposition disease)의 특징적인 소견입니다. 가성통풍은 주로 고령, 만성 신부전, 당뇨병, 갑상선기능저하증 등의 대사성 질환과 연관되어 있으며, 이 환자도 당뇨병과 만성 신부전의 기저 질환이 있습니다. 가성통풍은 주로 무릎, 손목, 척추 관절 등 큰 관절을 침범하고, 급성 단관절염의 형태로 나타나는 경우가 많습니다. 통풍성 관절염은 요산 결정(urate crystals)에 의한 관절염으로, 편광현미경 검사에서 바늘 모양의 음성 이중굴절 결정(needle-shaped negatively birefringent crystals)이 관찰됩니다. 이 환자의 혈청 요산 수치는 5.8mg/dL로 정상 범위이며, 결정의 형태와 이중굴절 특성이 통풍과 다릅니다. 골관절염은 주로 만성적인 경과를 보이는 비염증성 관절 질환으로, 관절액 검사에서 결정이 관찰되지 않고 백혈구 수가 적습니다(<2,000/mm³). 류마티스 관절염은 주로 대칭적인 다발성 관절염으로 나타나며, 관절액 검사에서 특징적인 결정이 관찰되지 않습니다. 감염성 관절염은 관절액 검사에서 백혈구 수가 현저히 증가(>50,000/mm³)하고 그람 염색이나 배양 검사에서 균이 검출될 수 있으나, 이 환자의 관절액 백혈구 수(12,000/mm³)는 결정성 관절염에 더 부합하고 특징적인 CPPD 결정이 관찰되었습니다.",
+  "source": {
+    "file_name": "UpToDate: Clinical manifestations and diagnosis of calcium pyrophosphate crystal deposition disease",
+    "content": "Calcium pyrophosphate dihydrate (CPPD) crystal deposition disease, commonly known as pseudogout, is characterized by the presence of CPPD crystals in synovial fluid. Under compensated polarized light microscopy, these crystals appear as rhomboid or rectangular in shape and demonstrate weak positive birefringence (appear blue when aligned parallel to the slow axis of the red compensator). This contrasts with monosodium urate crystals of gout, which are needle-shaped and negatively birefringent. CPPD crystal deposition disease can manifest as acute arthritis (pseudogout), chronic arthropathy, or can be asymptomatic. Risk factors include advanced age, osteoarthritis, metabolic conditions (hyperparathyroidism, hemochromatosis, hypomagnesemia), and chronic kidney disease. The knee is the most commonly affected joint, followed by the wrist, shoulder, ankle, and elbow. Synovial fluid analysis typically shows mild to moderate leukocytosis (5,000-50,000 cells/mm³), predominantly neutrophils."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 79,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 원인을 감별해낼 수 있다.",
+  "question": "27세 여성이 3개월 전부터 시작된 허리 통증과 양쪽 둔부 통증을 주소로 내원하였다. 환자는 아침에 일어날 때 허리가 뻣뻣하고 통증이 심하며, 약 1시간 정도 활동하면 호전된다고 한다. 밤중에 통증으로 깨는 경우도 있으며, 최근에는 양쪽 무릎과 발뒤꿈치에도 통증이 생겼다고 한다. 과거력상 재발성 포도막염으로 안과 치료를 받은 적이 있으며, 가족력에서 아버지가 강직성 척추염으로 진단받았다고 한다. 신체 검진에서 요추부 운동 범위가 제한되어 있고, 양쪽 천장관절 압통이 있으며, Schober 검사에서 10cm 표시가 13cm로 증가하는 것을 확인하였다. 이 환자의 진단에 가장 도움이 되는 검사는?",
+  "exam": "",
+  "options": {
+    "A": "류마티스 인자와 항CCP항체",
+    "B": "HLA-B27과 천장관절 MRI",
+    "C": "혈청 요산과 관절액 편광현미경 검사",
+    "D": "항핵항체와 항dsDNA항체",
+    "E": "크레아틴 키나아제와 근전도 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3개월 이상 지속된 염증성 요통(inflammatory back pain)의 특징을 보이고 있습니다. 염증성 요통의 특징으로는 45세 이전 발병, 서서히 시작, 휴식으로 호전되지 않음, 운동으로 호전, 야간 통증, 조조강직(>30분) 등이 있으며, 이 환자는 이러한 특징들을 여러 가지 보이고 있습니다. 또한 말초 관절염(무릎), 부착부염(발뒤꿈치 통증), 포도막염의 과거력, 강직성 척추염의 가족력 등은 척추관절염(Spondyloarthritis), 특히 강직성 척추염(Ankylosing Spondylitis)을 강하게 시사합니다. 신체 검진에서 요추부 운동 제한과 천장관절 압통이 있으며, Schober 검사에서 요추부 굴곡 제한(정상: 15cm 이상으로 증가)이 관찰되었습니다. 강직성 척추염의 진단에는 HLA-B27 검사와 영상 검사가 중요합니다. HLA-B27은 강직성 척추염 환자의 90-95%에서 양성으로 나타나며, 천장관절염(Sacroiliitis)은 강직성 척추염의 핵심 소견입니다. 일반 X-ray에서 천장관절염이 확인되면 강직성 척추염으로 진단할 수 있지만, 초기에는 X-ray에서 정상으로 보일 수 있으므로 MRI가 조기 진단에 더 유용합니다. MRI는 초기 천장관절염의 골수 부종, 관절면 미란, 연골하 경화 등을 감지할 수 있습니다. 따라서 HLA-B27과 천장관절 MRI가 이 환자의 진단에 가장 도움이 되는 검사입니다. 류마티스 인자와 항CCP항체는 류마티스 관절염의 진단에 유용하지만, 이 환자의 임상상은 척추관절염에 더 부합합니다. 혈청 요산과 관절액 편광현미경 검사는 통풍이나 가성통풍과 같은 결정성 관절병증의 진단에 유용합니다. 항핵항체와 항dsDNA항체는 전신성 홍반성 루푸스의 진단에 도움이 됩니다. 크레아틴 키나아제와 근전도 검사는 근육염이나 신경근 질환의 평가에 사용됩니다.",
+  "source": {
+    "file_name": "Assessment of SpondyloArthritis International Society (ASAS) Classification Criteria",
+    "content": "According to the ASAS classification criteria for axial spondyloarthritis (SpA), patients under 45 years of age with back pain ≥3 months can be classified as having axial SpA if sacroiliitis on imaging (radiographs or MRI) plus at least one SpA feature is present, or if HLA-B27 plus at least two other SpA features are present. SpA features include inflammatory back pain, arthritis, enthesitis, uveitis, dactylitis, psoriasis, Crohn's disease or ulcerative colitis, good response to NSAIDs, family history of SpA, HLA-B27, and elevated C-reactive protein. Sacroiliitis on MRI is defined as active inflammation (bone marrow edema) highly suggestive of SpA. MRI is more sensitive than conventional radiography for detecting early sacroiliitis. HLA-B27 is present in 90-95% of patients with ankylosing spondylitis and in 60-80% of patients with other forms of SpA."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 80,
+  "chief_complaint": "관절통/관절부기",
+  "purpose": "관절통이나 관절부기가 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 원인을 감별해낼 수 있다.",
+  "question": "42세 여성이 3개월 전부터 악화된 오른쪽 손목과 손가락 관절의 통증 및 부종을 주소로 내원하였다. 환자는 오전에 30분 이상 지속되는 뻣뻣함을 느끼며, 특히 엄지손가락의 통증이 심하다고 한다. 최근 두통과 구강 건조감, 안구 건조감도 호소한다. 신체 검진에서 오른쪽 손목과 중수지관절, 근위지관절에 압통과 부종이 있으며, 특히 엄지손가락 근위부에 방추형 종창이 관찰된다. 구강과 안구의 건조 소견이 확인되며, 좌측 이하선의 경미한 종대가 있다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 4,500/mm³, 혈색소 11.8g/dL, 혈소판 258,000/mm³, ESR 48mm/hr, CRP 2.2mg/dL, RF 양성(85 IU/mL), 항CCP항체 음성, 항핵항체 양성(1:320, speckled pattern), 항-SSA/Ro항체 양성, 항-SSB/La항체 양성, Schirmer 검사: 양안 3mm/5분",
+  "options": {
+    "A": "류마티스 관절염",
+    "B": "쇼그렌 증후군",
+    "C": "전신홍반루푸스",
+    "D": "혼합결합조직병",
+    "E": "골관절염"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 관절통 및 부종, 구강 건조, 안구 건조, 이하선 종대의 임상상을 보이며, 혈액 검사에서 RF 양성, 항핵항체 양성, 항-SSA/Ro항체 양성, 항-SSB/La항체 양성, Schirmer 검사 양성(눈물 분비 감소)인 점을 종합했을 때 쇼그렌 증후군(Sjögren's syndrome)에 합당합니다. 쇼그렌 증후군은 외분비선, 특히 눈물샘과 침샘을 침범하는 자가면역 질환으로, 구강 건조증(xerostomia)과 안구 건조증(xerophthalmia)이 특징입니다. 약 50-70%의 환자에서 관절 증상이 나타나며, 주로 손목, 손가락, 무릎 등의 소관절을 침범하는 비침식성 관절염의 형태를 보입니다. 특히 이 환자에서 나타난 엄지손가락 근위부의 방추형 종창은 활막염(synovitis)과 함께 힘줄윤활막염(tenosynovitis)이 동반된 것으로, 쇼그렌 증후군에서 흔히 볼 수 있는 소견입니다. 쇼그렌 증후군은 원발성과 이차성으로 나눌 수 있으며, 다른 자가면역 질환과 동반되어 나타날 수 있습니다. 이 환자의 경우 혈액 검사에서 항-SSA/Ro항체와 항-SSB/La항체가 양성으로, 이는 쇼그렌 증후군의 특징적인 자가항체입니다. 또한 Schirmer 검사에서 눈물 분비 감소(5mm 미만)가 확인되어 안구 건조증을 객관적으로 입증하고 있습니다. 류마티스 관절염에서도 관절 증상과 RF 양성 소견이 나타날 수 있으나, 항CCP항체가 음성이고 구강 및 안구 건조 증상과 특징적인 자가항체(항-SSA/Ro, 항-SSB/La)가 양성인 점은 쇼그렌 증후군을 더 시사합니다. 전신홍반루푸스에서도 관절 증상, 구강 및 안구 건조 증상이 나타날 수 있으나, 이 환자에서는 항dsDNA항체나 저보체혈증과 같은 루푸스의 특징적 소견이 언급되지 않았습니다. 혼합결합조직병에서는 항U1-RNP항체가 특징적이나 이 환자에서는 검출되지 않았으며, 골관절염은 비염증성 관절 질환으로 이 환자의 염증성 관절 증상 및 혈액 검사 소견과 맞지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Sjögren's syndrome is a chronic autoimmune disease characterized by lymphocytic infiltration of exocrine glands, particularly the lacrimal and salivary glands, leading to dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia). Extraglandular manifestations occur in 30-40% of patients and may include arthritis, Raynaud's phenomenon, lymphadenopathy, interstitial lung disease, and renal tubular acidosis. Arthralgia or frank arthritis occurs in 50-70% of patients with Sjögren's syndrome and typically involves the small joints of the hands, wrists, and knees in a symmetric pattern similar to RA but is usually nonerosive. Tenosynovitis, particularly of the flexor tendons, can lead to a 'spindling' appearance of fingers. Serologically, anti-Ro/SSA antibodies are present in 60-70% of patients, and anti-La/SSB antibodies in 30-40%. The Schirmer test, which measures tear production by placing filter paper in the lower conjunctival fornix, is considered positive when <5 mm of wetting occurs in 5 minutes."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 81,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게서 증상의 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "32세 여성이 1주일 전부터 지속된 구역과 간헐적인 구토를 주소로 내원하였다. 환자는 최근 2주간 체중이 3kg 감소하였으며, 쉽게 피로감을 느낀다고 호소한다. 최근 식욕이 감소하였고, 복부 불편감이 있으며, 특히 아침에 증상이 심하다고 한다. 과거력에서 특이사항은 없으며, 임신 가능성도 없다고 한다. 신체 검진에서 공막 황달이 관찰되었고, 복부 촉진 시 우상복부에 경미한 압통이 있었다. 생체 징후는 정상이었다. 이 환자의 진단을 위해 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 7,800/mm³, Hb 12.8 g/dL, Plt 240,000/mm³. 혈액 화학 검사: AST 180 IU/L, ALT 210 IU/L, ALP 280 IU/L, 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 2.0 mg/dL",
+  "options": {
+    "A": "상부위장관 내시경",
+    "B": "복부 초음파",
+    "C": "복부 CT",
+    "D": "MRCP (자기공명 담췌관조영술)",
+    "E": "ERCP (내시경적 역행성 담췌관조영술)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 구역, 구토와 함께 황달, 우상복부 압통, 그리고 간기능 검사 이상 소견을 보이고 있습니다. 검사 결과에서 AST, ALT의 상승과 함께 ALP, 총 빌리루빈, 직접 빌리루빈의 상승이 관찰되는데, 이는 담도 폐쇄(biliary obstruction)를 시사합니다. 특히 ALP와 직접 빌리루빈의 상승은 담즙 정체를 나타내는 중요한 지표입니다. 환자의 나이(32세 여성)와 임상 증상을 고려할 때, 담석증, 담관 협착, 원발성 경화성 담관염(PSC) 또는 원발성 담즙성 담관염(PBC) 등을 의심할 수 있습니다. 이러한 환자에서 담도계 질환의 진단을 위해 가장 적절한 검사는 MRCP(자기공명 담췌관조영술)입니다. MRCP는 비침습적인 방법으로 담도와 췌관의 해부학적 구조를 높은 해상도로 보여주며, 담석, 담도 확장, 협착, 종양 등을 진단하는 데 매우 유용합니다. 상부위장관 내시경은 위장관 질환의 진단에 유용하지만, 담도계 질환의 직접적인 평가에는 제한이 있습니다. 복부 초음파는 담낭 결석이나 담도 확장을 보는 데 초기 검사로 유용하지만, 담관 내부의 세부적인 병변을 확인하는 데는 한계가 있습니다. 복부 CT는 간 실질, 담낭, 담도의 구조적 이상을 평가하는 데 유용하지만, 작은 담석이나 담관의 미세한 변화를 감지하는 데는 MRCP보다 덜 민감합니다. ERCP는 진단과 치료 목적으로 사용될 수 있지만, 췌장염, 출혈, 천공 등의 합병증 위험이 있어 초기 진단 검사로는 덜 선호됩니다. 따라서 이 환자에서 담도계 질환의 진단을 위한 가장 적절한 검사는 MRCP입니다.",
+  "source": {
+    "file_name": "Sleisenger and Fordtran's Gastrointestinal and Liver Disease",
+    "content": "Magnetic resonance cholangiopancreatography (MRCP) has become the preferred noninvasive imaging study for the evaluation of the biliary and pancreatic ductal systems. MRCP provides excellent anatomic detail without the risks associated with invasive procedures like ERCP. It is highly sensitive for detecting biliary obstruction, including stones, strictures, and neoplasms, and can accurately determine the level and often the cause of obstruction. MRCP is particularly useful in young patients with unexplained biliary symptoms, abnormal liver function tests suggesting cholestasis, and in those suspected of having primary sclerosing cholangitis or other biliary tract disorders."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 82,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게 중증도에 따른 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "45세 남성이 8시간 전부터 시작된 심한 구역, 구토와 복통을 주소로 응급실에 내원하였다. 환자는 구토를 10회 이상 하였으며, 처음에는 음식물이 나왔으나 점차 담즙과 소량의 혈액이 섞인 구토물이 나왔다고 한다. 복통은 명치부위에서 시작되어 우상복부로 이동하였으며, 등으로 방사되는 양상이다. 환자는 전날 저녁 기름진 음식을 많이 섭취하였고, 이후 증상이 시작되었다고 한다. 과거력에서 2년 전 담석이 발견되었으나 특별한 치료 없이 지냈다. 신체 검진에서 우상복부 압통과 반발통이 관찰되었으며, Murphy's sign 양성이었다. 활력 징후는 혈압 145/85 mmHg, 맥박 110회/분, 호흡수 20회/분, 체온 38.5°C였다. 이 환자의 초기 치료로 가장 적절한 것은?",
+  "exam": "일반 혈액 검사: WBC 15,000/mm³ (중성구 85%), Hb 14.5 g/dL, Plt 230,000/mm³. 혈액 화학 검사: Amylase 880 U/L, Lipase 1200 U/L, AST 120 IU/L, ALT 140 IU/L, ALP 180 IU/L, 총 빌리루빈 2.5 mg/dL. 복부 CT: 췌장 두부의 부종과 주변 지방 조직의 침윤, 담낭 확대 및 담낭벽 비후, 총담관 확장(12mm)과 원위부에 8mm 크기의 결석 의심 소견",
+  "options": {
+    "A": "경구 진통제와 항구토제 투여 후 퇴원",
+    "B": "정맥 수액 공급, 금식, 진통제 투여 및 입원",
+    "C": "즉각적인 담낭절제술",
+    "D": "경피적 담낭 배액술 시행",
+    "E": "응급 ERCP와 내시경적 유두 괄약근 절개술"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 급성 담석성 췌장염(acute gallstone pancreatitis)과 담관염(cholangitis)이 합병된 상태입니다. 환자는 담석의 과거력이 있고, 기름진 음식 섭취 후 발생한 우상복부 통증과 등으로 방사되는 통증, 발열, 그리고 혈액 검사에서 아밀라아제와 리파아제의 현저한 상승(정상의 3배 이상)을 보입니다. 또한 복부 CT에서 췌장 두부의 부종과 주변 지방 조직 침윤, 담낭 확대와 담낭벽 비후, 총담관 확장과 결석 의심 소견이 관찰됩니다. 특히 담관 결석에 의한 총담관 폐쇄는 담즙 정체와 세균 감염을 유발할 수 있으며, 이는 담관염과 췌장염의 원인이 됩니다. 환자는 38.5°C의 발열, 빈맥, 백혈구 증가 등 전신 염증 반응 증후군(SIRS)의 징후도 보이고 있어 중증 질환의 가능성이 높습니다. 이러한 상황에서 가장 적절한 초기 치료는 응급 ERCP와 내시경적 유두 괄약근 절개술(EST)입니다. 이 시술을 통해 담관 내 결석을 제거하고 담즙 배출을 원활하게 함으로써 담관염과 췌장염의 중증도를 감소시키고 회복을 촉진할 수 있습니다. 담석성 췌장염에서 ERCP의 시행 시기는 중요한데, 담관염이 동반된 경우나 지속적인 총담관 폐쇄가 있는 경우에는 24-48시간 내에 조기 시행이 권장됩니다. 경구 진통제와 항구토제 투여 후 퇴원은 이 환자의 중증도를 고려할 때 부적절합니다. 환자는 담관 결석에 의한 췌장염과 담관염의 증상을 보이고 있어 입원 치료가 필요합니다. 정맥 수액 공급, 금식, 진통제 투여 및 입원은 급성 췌장염의 기본적인 치료이지만, 담관 결석에 의한 담관 폐쇄와 담관염이 동반된 이 환자에게는 담관 감압을 위한 추가적인 중재가 필요합니다. 즉각적인 담낭절제술은 급성기에는 일반적으로 권장되지 않으며, 특히 췌장염이 있는 경우에는 염증이 안정된 후 시행하는 것이 안전합니다. 경피적 담낭 배액술은 주로 급성 담낭염에서 수술이 어려운 경우에 고려되며, 담관 결석에 의한 총담관 폐쇄에는 직접적인 해결책이 되지 않습니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines",
+    "content": "In patients with acute biliary pancreatitis and concomitant acute cholangitis, ERCP should be performed within 24 hours of admission. In patients with biliary pancreatitis and persistent biliary obstruction, ERCP should be performed within 24-72 hours. Early ERCP with endoscopic sphincterotomy and stone extraction can reduce the risk of biliary sepsis and decrease the severity of pancreatitis by relieving ductal obstruction and biliary hypertension. The timing of ERCP is crucial, with urgent intervention (within 24 hours) indicated for patients with cholangitis or severe pancreatitis with persistent obstruction."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 83,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게서 증상의 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "32세 여성이 1주일 전부터 지속된 구역과 간헐적인 구토를 주소로 내원하였다. 환자는 최근 2주간 체중이 3kg 감소하였으며, 쉽게 피로감을 느낀다고 호소한다. 최근 식욕이 감소하였고, 복부 불편감이 있으며, 특히 아침에 증상이 심하다고 한다. 과거력에서 특이사항은 없으며, 임신 가능성도 없다고 한다. 신체 검진에서 공막 황달이 관찰되었고, 복부 촉진 시 우상복부에 경미한 압통이 있었다. 생체 징후는 정상이었다. 이 환자의 진단을 위해 가장 적절한 검사는?",
+  "exam": "일반 혈액 검사: WBC 7,800/mm³, Hb 12.8 g/dL, Plt 240,000/mm³. 혈액 화학 검사: AST 180 IU/L, ALT 210 IU/L, ALP 280 IU/L, 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 2.0 mg/dL",
+  "options": {
+    "A": "경구 항구토제 처방 및 외래 추적 관찰",
+    "B": "정맥 수액 공급 및 전해질 교정",
+    "C": "근육 내 메토클로프라미드 주사",
+    "D": "위장관 운동 촉진제 경구 투여",
+    "E": "경구 스테로이드 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신과 관련된 심한 구역 및 구토, 즉 임신 오조증(hyperemesis gravidarum)으로 진단할 수 있습니다. 임신 오조증은 임신 초기에 발생하는 지속적이고 심한 구역과 구토로, 체중 감소, 탈수, 전해질 불균형, 케톤뇨증을 특징으로 합니다. 이 환자의 경우 탈수의 징후(구강 건조, 피부 탄력도 감소, 저혈압, 빈맥), 전해질 이상(저나트륨혈증, 저칼륨혈증), 신기능 저하(BUN과 크레아티닌 상승), 그리고 소변 검사에서 농축뇨(비중 증가)와 케톤뇨 소견을 보이고 있어 중등도 이상의 임신 오조증으로 판단됩니다. 이러한 환자에서 가장 적절한 초기 치료는 정맥 수액 공급 및 전해질 교정입니다. 심한 구토로 인한 탈수와 전해질 불균형은 태아와 산모 모두에게 위험할 수 있으므로, 신속한 수액 보충과 전해질(특히 칼륨) 교정이 필요합니다. 일반적으로 생리식염수나 링거액을 사용하여 체액량을 보충하고, 포도당과 비타민(특히 티아민과 비타민 B군)을 추가하여 영양 결핍을 방지합니다. 심한 임신 오조증의 경우 입원 치료가 필요할 수 있습니다. 경구 항구토제 처방 및 외래 추적 관찰은 경미한 임신 오조가 있는 환자에게 적합할 수 있지만, 이 환자는 심한 탈수와 전해질 불균형이 있으므로 경구 약물만으로는 충분한 치료가 될 수 없습니다. 또한 심한 구토로 인해 경구 약물의 흡수가 제한될 수 있습니다. 근육 내 메토클로프라미드 주사는 항구토 효과가 있지만, 이 환자의 주요 문제인 탈수와 전해질 불균형을 해결하지 못합니다. 또한 메토클로프라미드는 임신 중 사용에 주의가 필요하며, 일차 치료로 선택되기보다는 다른 치료에 반응하지 않는 경우에 고려됩니다. 위장관 운동 촉진제 경구 투여 역시 심한 구토가 있는 환자에서 경구 약물의 흡수가 제한될 수 있고, 주요 문제인 탈수와 전해질 불균형을 해결하지 못합니다. 경구 스테로이드 투여는 일반적인 치료에 반응하지 않는 중증 임신 오조증에서 고려될 수 있지만, 초기 치료로는 적합하지 않으며, 탈수와 전해질 불균형이 먼저 교정되어야 합니다. 또한 임신 초기의 스테로이드 사용은 태아 기형의 위험을 증가시킬 수 있어 신중한 사용이 필요합니다.",
+  "source": {
+    "file_name": "American College of Obstetricians and Gynecologists Practice Bulletin",
+    "content": "For women with hyperemesis gravidarum who are dehydrated and have electrolyte abnormalities, intravenous fluid replacement with correction of electrolyte abnormalities and supplementation with thiamine is the cornerstone of treatment. Initial fluid replacement should be with isotonic solutions such as normal saline or lactated Ringer's solution. Potassium chloride should be added as appropriate based on laboratory values. Dextrose solutions should also be administered to patients with significant ketonuria. Initial management of hyperemesis gravidarum frequently requires hospitalization to achieve fluid and electrolyte balance, control vomiting, and establish nutrition. After hydration and electrolyte replacement, appropriate antiemetic therapy may be initiated."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 84,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "59세 남성이 2개월 전부터 시작된 간헐적인 구역, 구토와 어지러움을 주소로 내원하였다. 구토는 식사와 관련 없이 발생하며, 아침에 증상이 더 심하다고 한다. 환자는 두통을 동반하며, 특히 기침이나 재채기를 할 때 두통이 악화된다고 한다. 최근 한 달 사이 체중이 5kg 감소하였고, 보행 시 불안정감을 느낀다고 호소한다. 과거력에서 20년간 1일 1갑의 흡연력이 있으며, 10년 전 폐결핵으로 치료받은 적이 있다. 신체 검진에서 유두부종이 관찰되었으며, 신경학적 검사에서 뚜렷한 국소 신경학적 결손은 없었다. 이 환자의 적절한 치료 계획으로 가장 적합한 것은?",
+  "exam": "일반 혈액 검사: WBC 7,500/mm³, Hb 13.5 g/dL, Plt 250,000/mm³. 혈액 화학 검사: 모두 정상 범위. 뇌 MRI: 제4뇌실에 접한 소뇌 정중부위에 약 3.5cm 크기의 종괴가 관찰되며, 주변 조직의 부종과 제4뇌실 압박 소견이 있음. 또한 경미한 수두증 소견이 관찰됨",
+  "options": {
+    "A": "스테로이드 투여 및 항구토제로 대증 치료",
+    "B": "뇌실 복강 션트술",
+    "C": "수술적 종양 절제술 후 방사선 치료",
+    "D": "방사선 치료만 시행",
+    "E": "항경련제 투여 및 정기적 MRI 추적 관찰"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 제4뇌실에 인접한 소뇌 종양으로 인한 증상을 보이고 있습니다. 환자는 구역, 구토, 어지러움, 두통(특히 기침이나 재채기와 같은 두개내압을 일시적으로 증가시키는 활동에 의해 악화됨), 체중 감소, 보행 불안정 등의 증상을 호소하고 있습니다. 신체 검진에서 관찰된 유두부종은 두개내압 상승의 징후입니다. 뇌 MRI에서 제4뇌실에 접한 소뇌 정중부위의 종괴가 확인되었으며, 주변 조직의 부종, 제4뇌실 압박, 그리고 경미한 수두증 소견이 관찰되었습니다. 소뇌 정중부위에 위치한 종양으로는 수모세포종(medulloblastoma), 상의세포종(ependymoma), 소뇌별아교세포종(cerebellar astrocytoma), 뇌실막하거대세포별아교세포종(subependymal giant cell astrocytoma) 등이 있습니다. 환자의 연령(59세)을 고려할 때, 전이성 종양의 가능성도 배제할 수 없습니다(특히 폐결핵 병력과 흡연력이 있는 점에서 폐암의 전이 가능성). 이러한 환자에게 가장 적합한 치료 계획은 수술적 종양 절제술 후 방사선 치료입니다. 수술적 절제는 종양의 조직학적 진단을 확인하고, 종양으로 인한 뇌실 압박과 수두증을 해소하며, 종양 부담을 감소시키는 데 중요합니다. 이후 방사선 치료는 잔존 종양 세포를 제거하고 재발을 방지하는 데 도움이 됩니다. 일부 종양 유형(예: 수모세포종)에서는 화학요법이 추가될 수 있습니다. 스테로이드 투여 및 항구토제로 대증 치료는 일시적으로 증상을 완화할 수 있지만, 종양 자체를 치료하지는 못합니다. 스테로이드는 종양 주변의 부종을 감소시켜 두개내압을 낮출 수 있지만, 장기적인 해결책이 되지 못합니다. 뇌실 복강 션트술은 수두증을 치료하는 방법이지만, 이 환자의 주요 문제인 종양을 제거하지 않으므로 근본적인 치료가 되지 않습니다. 또한 종양 절제 후에도 수두증이 지속되는 경우에 고려할 수 있는 보조적 치료입니다. 방사선 치료만 시행하는 것은 수술이 불가능한 경우나 종양이 매우 방사선 감수성이 높은 경우(예: 일부 림프종)에 고려될 수 있지만, 대부분의 소뇌 종양은 가능한 한 최대한 수술적 절제 후 보조 치료를 시행하는 것이 표준 치료입니다. 항경련제 투여 및 정기적 MRI 추적 관찰은 양성 종양이나 무증상의 작은 종양, 또는 수술이 불가능한 경우에 고려될 수 있지만, 이 환자는 이미 증상이 있고 종양 크기가 상당하며, 뇌실 압박과 수두증이 동반되어 있어 적극적인 치료가 필요합니다.",
+  "source": {
+    "file_name": "Handbook of Brain Tumor Chemotherapy, Molecular Therapeutics, and Immunotherapy",
+    "content": "For cerebellar tumors adjacent to the fourth ventricle, the standard of care is maximal safe surgical resection followed by appropriate adjuvant therapy based on the histopathological diagnosis. Surgery serves multiple purposes: establishing a histological diagnosis, relieving mass effect on the fourth ventricle, resolving hydrocephalus, and reducing tumor burden. While complete resection is the goal, it must be balanced against the risk of neurological deficits. Postoperative radiation therapy is typically recommended for high-grade tumors and certain low-grade tumors with incomplete resection. The addition of chemotherapy depends on the tumor type, grade, molecular characteristics, and patient factors such as age and performance status. In patients with hydrocephalus, resolution of CSF pathway obstruction through tumor resection is preferable to permanent CSF diversion procedures like ventriculoperitoneal shunting."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 85,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게 중증도에 따른 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "65세 남성이 3일 전부터 시작된 심한 구역, 구토, 설사를 주소로 응급실에 내원하였다. 환자는 하루 10회 이상의 수양성 설사와 5회 이상의 구토를 하였으며, 복통과 발열을 동반하고 있다. 2주 전 지역사회 폐렴으로 외래에서 levofloxacin을 처방받아 복용 중이었으며, 증상 발생 이후 약물 복용을 중단하였다. 과거력에서 고혈압과 당뇨병으로 약물 복용 중이며, 1년 전 대장 용종으로 대장내시경 폴립절제술을 시행받은 적이 있다. 신체 검진에서 하복부 전반에 걸쳐 압통이 있었으며, 장음은 항진되어 있었다. 활력 징후는 혈압 100/60 mmHg, 맥박 110회/분, 호흡수 20회/분, 체온 38.5°C였다. 이 환자의 적절한 초기 치료로 가장 적합한 것은?",
+  "exam": "일반 혈액 검사: WBC 15,000/mm³ (중성구 85%), Hb 14.0 g/dL, Plt 180,000/mm³. 혈액 화학 검사: BUN 40 mg/dL, Cr 1.8 mg/dL, Na 132 mEq/L, K 3.2 mEq/L, Cl 95 mEq/L, HCO3 20 mEq/L. 대변 검사: 백혈구 양성, Clostridium difficile toxin A/B 양성. 복부 CT: 대장벽의 비후와 주변 지방 침윤 소견",
+  "options": {
+    "A": "경구 metronidazole 투여",
+    "B": "경구 vancomycin 투여",
+    "C": "정맥 metronidazole 투여",
+    "D": "정맥 vancomycin과 경구 fidaxomicin 병합 투여",
+    "E": "정맥 수액 공급, 정맥 metronidazole, 경구 vancomycin 투여"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 Clostridium difficile 감염(CDI)으로 인한 중증 장염으로 진단됩니다. 환자는 최근 항생제(levofloxacin) 사용 병력, 심한 구역, 구토, 설사, 발열, 복통 등의 전형적인 임상 증상을 보이며, 대변 Clostridium difficile toxin A/B 검사 양성으로 확진되었습니다. 또한 복부 CT에서 대장벽 비후와 주변 지방 침윤 소견이 관찰됩니다. 이 환자는 중증 CDI로 판단할 수 있는 여러 지표를 보이고 있습니다: 발열(38.5°C), 백혈구 증가(15,000/mm³), 혈압 저하, 빈맥, 신기능 저하(Cr 1.8 mg/dL), 전해질 이상(저나트륨혈증, 저칼륨혈증) 등이 있습니다. 중증 CDI의 치료는 적극적인 수액 보충과 전해질 교정, 그리고 항생제 치료가 필요합니다. 현재 가이드라인에 따르면, 중증 CDI의 일차 치료는 경구 vancomycin(125mg, 1일 4회)과 정맥 metronidazole(500mg, 1일 3회)의 병합 요법입니다. 특히 구토가 심한 경우 약물의 소장 통과가 제한될 수 있으므로, 정맥 투여가 중요합니다. 경구 metronidazole 투여는 경증-중등도의 CDI에 적합하지만, 중증 CDI에서는 치료 효과가 vancomycin보다 떨어지므로 권장되지 않습니다. 더구나 이 환자는 구토가 심하여 경구 약물의 흡수가 제한될 수 있습니다. 경구 vancomycin 투여는 중증 CDI의 치료에 효과적이지만, 이 환자는 심한 구토와 전신 상태 불량으로 경구 약물 단독 치료보다는 정맥 metronidazole과의 병합 요법이 필요합니다. 정맥 metronidazole 투여는 중증 CDI에서 중요한 치료 옵션이지만, 단독 치료보다는 경구 vancomycin과 병합하는 것이 권장됩니다. 정맥 vancomycin과 경구 fidaxomicin 병합 투여는 표준 치료가 아닙니다. 정맥 vancomycin은 대장 내강에 도달하지 않아 CDI 치료에 효과적이지 않으며, fidaxomicin은 중증 합병증이 동반된 CDI에서 일차 치료제로 권장되지 않습니다. 따라서 이 환자의 적절한 초기 치료로 가장 적합한 것은 정맥 수액 공급, 정맥 metronidazole, 경구 vancomycin 투여입니다. 이는 탈수와 전해질 이상을 교정하고, 대장 내강과 전신적으로 항생제 효과를 얻을 수 있는 가장 효과적인 치료 방법입니다.",
+  "source": {
+    "file_name": "Clinical Practice Guidelines for Clostridium difficile Infection in Adults (Infectious Diseases Society of America)",
+    "content": "For the treatment of an initial episode of severe CDI, oral vancomycin 125 mg 4 times daily for 10 days is recommended as the primary therapy. In cases with severe and/or complicated presentation, particularly with signs of shock, hypotension, ileus, or megacolon, a combined approach with oral vancomycin (125 mg 4 times daily) plus intravenous metronidazole (500 mg every 8 hours) is recommended. Adequate fluid resuscitation and correction of electrolyte abnormalities are essential components of the management of severe CDI. Severity assessment is crucial for guiding therapy, with severe disease often characterized by leukocytosis (>15,000 cells/mL), serum creatinine levels >1.5 mg/dL, hypotension, shock, sepsis, or other signs of end-organ failure. For patients with ileus who may have difficulty with oral administration, consider vancomycin delivered via nasogastric tube and/or vancomycin retention enemas."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 86,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게서 증상의 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 갑작스럽게 발생한 심한 두통, 구역, 구토를 주소로 응급실에 내원하였다. 환자는 자고 일어나면서 '평생 경험해보지 못한 최악의 두통'이 발생했다고 표현하였다. 두통은 후두부에서 시작되어 전체 두부로 퍼졌으며, 경부 강직감이 동반되었다. 내원 직후 환자는 의식이 저하되었다. 과거력에서 특이사항은 없었으며, 가족력에서 어머니가 뇌동맥류로 치료받은 적이 있다고 한다. 활력 징후는 혈압 170/100 mmHg, 맥박 65회/분, 호흡수 18회/분, 체온 36.8°C 이었다. 신체 검진에서 의식은 기면 상태(drowsy)였으며, Glasgow Coma Scale 13점(E3V4M6)이었다. 경부 강직이 관찰되었고, 양측 동공은 3mm로 대칭적이며 빛 반사는 정상이었다. 이 환자의 진단을 위해 가장 적절한 검사는?",
+"exam": "일반 혈액 검사: WBC 12,500/mm³, Hb 13.5 g/dL, Plt 250,000/mm³. 혈액 화학 검사: Na 138 mEq/L, K 3.8 mEq/L, Cl 102 mEq/L, HCO3 24 mEq/L, BUN 12 mg/dL, Cr 0.8 mg/dL, AST 28 IU/L, ALT 25 IU/L, ALP 85 IU/L, 총 빌리루빈 0.7 mg/dL",
+  "options": {
+    "A": "뇌 자기공명영상(MRI)",
+    "B": "비조영증강 뇌 컴퓨터단층촬영(CT)",
+    "C": "뇌파검사(EEG)",
+    "D": "요추 천자(lumbar puncture)",
+    "E": "뇌혈관조영술(cerebral angiography)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 지주막하 출혈(subarachnoid hemorrhage, SAH)이 강력히 의심됩니다. 환자는 '평생 경험해보지 못한 최악의 두통'을 호소하였으며, 이는 SAH의 전형적인 증상입니다('thunderclap headache'). 또한 두통과 함께 구역, 구토, 경부 강직이 동반되었고, 의식이 저하되었으며, 가족력에서 어머니의 뇌동맥류 병력이 확인되었습니다. 활력 징후에서 고혈압과 상대적 서맥(Cushing's triad의 일부)이 관찰됩니다. 이러한 임상 양상은 SAH를 매우 강하게 시사합니다. SAH의 진단을 위한 가장 초기 검사는 비조영증강 뇌 컴퓨터단층촬영(CT)입니다. 비조영증강 뇌 CT는 발병 24시간 이내에 시행할 경우 SAH의 95% 이상을 감지할 수 있으며, 신속하게 시행할 수 있고 광범위하게 이용 가능하다는 장점이 있습니다. 특히 의식 저하가 있는 환자에서는 신속한 진단과 치료 계획 수립을 위해 우선적으로 시행해야 합니다. 뇌 자기공명영상(MRI)은 SAH의 진단에 CT보다 민감도가 낮을 수 있으며, 특히 급성기에는 혈액 산물의 특성으로 인해 진단이 어려울 수 있습니다. 또한 검사 시간이 길고, 환자의 협조가 필요하며, 응급 상황에서 즉시 이용하기 어려울 수 있습니다. 의식이 저하된 환자에서는 특히 적합하지 않습니다. 뇌파검사(EEG)는 뇌전증(간질) 진단에 유용하지만, SAH의 진단에는 도움이 되지 않습니다. 요추 천자(lumbar puncture)는 CT에서 음성이지만 SAH가 의심되는 경우에 시행할 수 있는 검사입니다. 그러나 의식 저하가 있거나 뇌압 상승이 의심되는 환자에서는 뇌 탈출(brain herniation)의 위험이 있어 CT 검사 전에는 시행하지 않는 것이 원칙입니다. 뇌혈관조영술(cerebral angiography)은 뇌동맥류나 동정맥기형과 같은 SAH의 원인을 확인하기 위한 검사로, SAH가 확인된 후 원인 규명을 위해 시행합니다. 초기 진단 검사로는 적합하지 않으며, 특히 의식 저하가 있는 환자에서는 CT 확인 후 시행하는 것이 안전합니다. 따라서 이 환자에서 SAH 진단을 위한 가장 적절한 초기 검사는 비조영증강 뇌 CT입니다.",
+  "source": {
+    "file_name": "Stroke: Practical Management (4th Edition)",
+    "content": "Non-contrast CT scan remains the first-line diagnostic tool for suspected subarachnoid hemorrhage (SAH) due to its widespread availability, speed of acquisition, and high sensitivity in the acute setting. In the first 24 hours after symptom onset, CT has a sensitivity of over 95% for detecting SAH. The sensitivity decreases with time, falling to approximately 50% at one week. CT can also identify complications such as hydrocephalus, intraventricular hemorrhage, or parenchymal extension, which influence management decisions and prognosis. For patients presenting with the classic 'thunderclap headache' or altered consciousness, particularly those with a family history of aneurysms, immediate non-contrast CT is the recommended initial investigation. If CT is negative but clinical suspicion remains high, lumbar puncture should be considered to look for xanthochromia or red blood cells, but only after excluding raised intracranial pressure that would contraindicate the procedure."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 87,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게서 증상의 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "58세 남성이 2주 전부터 시작된 식후 구역과 구토를 주소로 내원하였다. 환자는 최근 3개월 동안 8kg의 체중 감소가 있었으며 간헐적인 상복부 통증을 호소한다. 환자는 30년간 하루 1갑의 흡연력이 있으며, 일주일에 소주 1병 정도의 음주력이 있다. 신체검진에서 상복부 압통이 있었고, 장음은 정상이었다. 이 환자에게 원인 감별을 위해 가장 적절한 다음 검사는?",
+  "exam": "일반혈액검사: WBC 7,800/μL, Hb 11.2 g/dL, Plt 280,000/μL. 혈액화학검사: AST 28 IU/L, ALT 32 IU/L, ALP 88 IU/L, 총 빌리루빈 0.8 mg/dL, BUN 16 mg/dL, Cr 0.9 mg/dL. 단순 복부 X-선: 특이소견 없음",
+  "options": {
+    "A": "복부 초음파 검사",
+    "B": "상부위장관 내시경 검사",
+    "C": "대장 내시경 검사",
+    "D": "복부 CT 검사",
+    "E": "소장 캡슐 내시경 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 58세 남성으로 2주 전부터 시작된 식후 구역과 구토, 체중 감소, 상복부 통증을 호소하고 있습니다. 또한 장기간의 흡연력과 음주력이 있습니다. 이러한 임상 양상은 상부위장관 질환, 특히 위암이나 소화성 궤양 등을 의심하게 합니다. 상부위장관 내시경 검사는 식도, 위, 십이지장의 점막을 직접 관찰하고 필요시 조직 검사를 시행할 수 있어 상부위장관 증상의 원인을 파악하는 데 가장 유용한 검사입니다. 특히 50세 이상, 체중 감소, 위장관 출혈, 빈혈, 삼킴 곤란, 지속적인 구토 등의 경고 증상이 있는 경우 상부위장관 내시경 검사를 우선적으로 고려해야 합니다. 복부 초음파 검사는 간, 담낭, 췌장 등의 평가에 유용하나 위장관 점막 병변을 평가하는 데 제한이 있습니다. 대장 내시경 검사는 하부위장관 평가에 유용하지만 이 환자의 증상은 상부위장관 질환을 더 강하게 시사합니다. 복부 CT 검사는 복강 내 장기와 전이성 병변을 평가하는 데 유용하지만, 초기 평가로는 상부위장관 내시경이 더 적합합니다. 소장 캡슐 내시경은 일반적인 내시경으로 접근이 어려운 소장 질환을 평가할 때 사용되며, 일차 검사로는 적합하지 않습니다.",
+  "source": {
+    "file_name": "UpToDate - Approach to the adult with nausea and vomiting",
+    "content": "Patients with warning signs such as weight loss, gastrointestinal bleeding, anemia, dysphagia, persistent vomiting, or age greater than 50 years should be evaluated with upper endoscopy. Upper endoscopy allows direct visualization of the esophageal, gastric, and duodenal mucosa and permits biopsies to be taken for histologic examination. Upper endoscopy is particularly useful for the evaluation of patients with upper gastrointestinal symptoms, especially when gastric or duodenal malignancy is suspected."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 88,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "25세 여성이 3주 전부터 시작된 아침 구역과 구토를 주소로 내원하였다. 환자는 구토가 주로 아침에 발생하며, 하루 종일 지속되는 경미한 구역이 있다고 한다. 최근 식욕이 감소하였으며, 특정 음식에 대한 혐오감이 있다고 한다. 월경력 상 마지막 월경은 8주 전이었다. 신체 검진에서 활력징후는 안정적이었고, 복부는 부드럽고 압통은 없었다. 내원 당일 시행한 소변 검사에서 임신 반응 검사가 양성으로 확인되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "일반혈액검사: WBC 8,200/μL, Hb 12.8 g/dL, Plt 250,000/μL. 혈액화학검사: Na 138 mEq/L, K 4.0 mEq/L, Cl 102 mEq/L, HCO3 24 mEq/L, BUN 10 mg/dL, Cr 0.7 mg/dL. 복부 초음파: 자궁 내 8주 크기의 단일 태아, 태아 심박동 확인됨",
+  "options": {
+    "A": "생활 습관 조절과 비타민 B6 보충, 필요시 도클리스리딘 투여",
+    "B": "정맥 수액 공급과 메토클로프라미드 정맥 투여",
+    "C": "위장관 내시경과 헬리코박터 파일로리 검사",
+    "D": "인공 임신 중절술",
+    "E": "스테로이드와 면역글로불린 정맥 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 임신 초기(8주)의 임신 오조(morning sickness)로 인한 구역과 구토 증상을 보이고 있습니다. 임신 오조는 임신 초기에 흔히 발생하며, 대개 임신 6-12주에 가장 심하고 임신 16-20주경에 호전되는 경향이 있습니다. 대부분의 경우 증상이 경미하고 일상생활에 큰 지장을 주지 않으며, 태아나 산모에게 해롭지 않습니다. 임신 오조의 초기 치료는 생활 습관 조절과 식이 조절을 포함합니다. 소량의 식사를 자주 하고, 지방이 많은 음식이나 자극적인 음식을 피하며, 수분을 충분히 섭취하는 것이 도움이 됩니다. 비타민 B6(피리독신)은 임신 오조의 일차 약물 치료로 권장되며, 50mg까지 안전하게 사용할 수 있습니다. 비타민 B6 단독으로 효과가 충분하지 않은 경우, 도클리스리딘(독실아민)과 병용할 수 있습니다. 이 환자는 심한 구토나 탈수 증상 없이 경미한 증상을 보이고 있으므로, 생활 습관 조절과 비타민 B6 보충, 필요시 도클리스리딘 투여가 가장 적합한 치료 계획입니다. 심한 임신 오조(임신 입덧)인 임신 과다 구토(hyperemesis gravidarum)의 경우에는 정맥 수액 공급과 항구토제 투여가 필요할 수 있으나, 이 환자의 경우 탈수나 전해질 이상 소견이 없으므로 정맥 수액 공급은 필요하지 않습니다. 또한 메토클로프라미드는 임신 중 사용 가능하나, 일차 치료제로 권장되지는 않습니다. 위장관 내시경과 헬리코박터 파일로리 검사는 임신 오조의 일반적인 검사가 아니며, 전형적인 임신 오조 증상을 보이는 이 환자에게는 필요하지 않습니다. 인공 임신 중절술은 임신 오조 치료로 고려되지 않으며, 임신 과다 구토의 경우에도 적절한 약물 치료와 지지 요법으로 대부분 조절 가능합니다. 스테로이드와 면역글로불린 정맥 투여는 임신 오조의 치료로 고려되지 않습니다.",
+  "source": {
+    "file_name": "ACOG Practice Bulletin: Nausea and Vomiting of Pregnancy",
+    "content": "Initial treatment of nausea and vomiting of pregnancy should include lifestyle and dietary modifications, such as eating small, frequent meals; avoiding spicy, odorous, or fatty foods; and maintaining adequate hydration. Vitamin B6 (pyridoxine) 10-25 mg orally three or four times daily is recommended as a first-line pharmacologic therapy. If vitamin B6 monotherapy does not adequately improve symptoms, doxylamine 12.5 mg can be added and taken in combination with vitamin B6. This combination is FDA-approved for the treatment of nausea and vomiting in pregnancy and has demonstrated efficacy and safety. For women with hyperemesis gravidarum (persistent vomiting, weight loss exceeding 5% of pre-pregnancy weight, and ketonuria), intravenous fluid replacement, antiemetics, and sometimes nutritional support may be necessary."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 89,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게서 증상의 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 10일 전부터 시작된 황달, 구역, 구토, 전신 무력감을 주소로 내원하였다. 환자는 한 달 전 태국 여행에서 귀국했으며, 현지에서 길거리 음식을 자주 먹었다고 한다. 음주력은 없으며, 과거력상 특이 사항은 없다. 신체 검진에서 공막과 피부의 황달이 관찰되었고, 우상복부에 경미한 압통이 있었다. 간이나 비장은 촉지되지 않았다. 이 환자에게 원인 감별을 위해 가장 적절한 검사는?",
+  "exam": "일반혈액검사: WBC 6,500/μL, Hb 14.0 g/dL, Plt 180,000/μL\n혈액화학검사: AST 1,250 IU/L, ALT 1,800 IU/L, ALP 180 IU/L, 총 빌리루빈 8.5 mg/dL, 직접 빌리루빈 6.2 mg/dL, 감마 GT 210 IU/L, 알부민 3.8 g/dL, PT INR 1.4",
+  "options": {
+    "A": "A형 간염 바이러스 항체(Anti-HAV IgM) 검사",
+    "B": "B형 간염 바이러스 표면 항원(HBsAg) 검사",
+    "C": "항미토콘드리아 항체(AMA) 검사",
+    "D": "복부 초음파와 자기공명 담췌관조영술(MRCP)",
+    "E": "간 조직 생검"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 황달, 구역, 구토, 전신 무력감을 호소하며, 혈액검사에서 현저히 상승된 간효소 수치(AST, ALT)와 함께 빌리루빈 상승, 특히 직접 빌리루빈의 우세한 상승을 보이고 있습니다. 알칼리성 포스파타제(ALP)와 감마 GT의 상승은 상대적으로 경미합니다. 이러한 소견은 급성 간염을 시사합니다. 환자는 최근 태국 여행력이 있으며, 현지에서 길거리 음식을 자주 먹었다는 역학적 정보가 있습니다. A형 간염은 분변-경구 경로로 전파되며, 개발도상국 여행 중 오염된 음식이나 물을 통해 감염될 위험이 높습니다. A형 간염의 잠복기는 15-50일로, 황달이 나타나기 전 발열, 구역, 구토, 복통 등의 전구 증상이 있을 수 있습니다. 따라서 이 환자에게는 A형 간염 바이러스 항체(Anti-HAV IgM) 검사가 가장 적절합니다. Anti-HAV IgM은 급성 A형 간염 감염을 확인하는 데 사용되며, 증상 발현 시점에 거의 모든 환자에서 양성으로 나타나고, 감염 후 약 3-6개월 동안 지속됩니다. B형 간염 바이러스 표면 항원(HBsAg) 검사는 B형 간염 감염을 확인하는 데 사용되나, B형 간염은 주로 혈액이나 체액 접촉을 통해 전파되므로 이 환자의 역학적 정보와는 덜 부합합니다. 항미토콘드리아 항체(AMA) 검사는 주로 원발성 담즙성 담관염(과거 원발성 담즙성 간경화)을 진단하는 데 사용되나, 이 질환은 주로 중년 여성에서 발생하며, 서서히 진행하는 담즙 정체성 간질환으로 이 환자의 급성 임상상과는 맞지 않습니다. 복부 초음파와 MRCP는 담도 폐쇄나 담석과 같은 기계적 황달의 원인을 평가하는 데 유용하나, 이 환자의 현저히 상승된 간효소 수치는 간세포성 황달을 시사하므로 일차 검사로는 적절하지 않습니다. 간 조직 생검은 만성 간질환이나 원인 불명의 간질환 평가에 유용하나, 급성 간염이 의심되는 경우 일반적으로 필요하지 않으며, 덜 침습적인 혈청학적 검사로 진단이 가능합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Hepatitis A is endemic throughout the world and is transmitted by the fecal-oral route. The risk of infection is directly related to socioeconomic factors and standards of hygiene. In developing countries, the prevalence of anti-HAV antibodies approaches 100% by the age of 10 years. In developed countries, improved sanitation has led to a marked decrease in the prevalence of HAV infection in children. Travel to endemic areas and ingestion of contaminated food or water are common sources of infection. The incubation period for hepatitis A ranges from 15 to 50 days, with a mean of 25 to 30 days. In most patients, aminotransferase levels are markedly elevated (>1000 IU/L) at presentation, with ALT typically higher than AST. Diagnosis of acute hepatitis A is confirmed by the detection of anti-HAV IgM in serum, which appears early in the course of infection and usually disappears within 3 to 6 months."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 90,
+  "chief_complaint": "구역/구토",
+  "purpose": "구역/구토를 갖고 있는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "63세 남성이 10시간 전부터 시작된 심한 구역, 구토, 복통을 주소로 응급실에 내원하였다. 환자는 고혈압과 당뇨병으로 약물 치료 중이며, 3개월 전 관상동맥 스텐트 삽입술을 받았다. 환자는 복통이 상복부에서 시작하여 점차 우하복부로 이동하였다고 한다. 신체 검진에서 활력징후는 혈압 130/80 mmHg, 맥박 110회/분, 호흡수 20회/분, 체온 38.2°C였다. 복부 진찰에서 우하복부에 압통과 반발통이 있었고, 장음은 감소되어 있었다. 복부 CT 검사에서 충수(appendix)의 확장과 주변 지방 침윤이 관찰되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "일반혈액검사: WBC 15,800/μL (호중구 85%), Hb 14.5 g/dL, Plt 280,000/μL. 혈액화학검사: Na 138 mEq/L, K 4.0 mEq/L, Cl 102 mEq/L, HCO3 24 mEq/L, BUN 18 mg/dL, Cr 1.0 mg/dL, 혈당 160 mg/dL. C-반응성 단백(CRP): 12.5 mg/dL",
+  "options": {
+    "A": "금식, 경구 항생제 투여, 외래 추적 관찰",
+    "B": "금식, 정맥 항생제 투여, 정맥 수액 공급, 복강경 충수 절제술",
+    "C": "금식, 정맥 항생제 투여, 경피적 배액술",
+    "D": "금식, 정맥 항생제 투여, 정맥 수액 공급, 보존적 치료",
+    "E": "금식, 메토클로프라미드 투여, 위장관 내시경 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 충수염(acute appendicitis)의 전형적인 임상상을 보이고 있습니다. 상복부에서 시작하여 우하복부로 이동하는 복통, 구역, 구토, 발열, 우하복부 압통과 반발통, 백혈구 증가증, 그리고 영상 검사에서 충수의 확장과 주변 지방 침윤 소견 등은 급성 충수염을 강하게 시사합니다. 급성 충수염의 표준 치료는 수술적 치료인 충수 절제술입니다. 특히 합병증이 없는 급성 충수염의 경우, 복강경 충수 절제술이 개복 충수 절제술보다 빠른 회복과 적은 상처 감염률을 보여 선호됩니다. 수술 전 준비로는 금식, 정맥 수액 공급, 정맥 항생제 투여(그람 음성균과 혐기성균을 포함하는 광범위 항생제)가 필요합니다. 따라서 이 환자에게 가장 적합한 치료 계획은 금식, 정맥 항생제 투여, 정맥 수액 공급, 복강경 충수 절제술입니다. 경구 항생제 투여와 외래 추적 관찰은 급성 충수염의 적절한 치료가 아니며, 특히 이 환자처럼 명확한 급성 충수염의 증상과 징후가 있는 경우에는 즉각적인 수술적 치료가 필요합니다. 경피적 배액술은 주로 충수 농양이 형성된 경우나 수술이 어려운 상황에서 고려될 수 있으나, 이 환자의 경우 단순 급성 충수염으로 판단되므로 일차 치료로는 적합하지 않습니다. 비수술적 치료(항생제 치료만)는 일부 비복잡성 급성 충수염에서 고려될 수 있으나, 이 환자는 심한 증상과 징후를 보이고 있어 수술적 치료가 더 적합합니다. 또한 환자는 고령이며 당뇨병과 심혈관 질환이 있어 합병증 발생 위험이 높으므로, 적극적인 치료가 필요합니다. 메토클로프라미드 투여와 위장관 내시경 검사는 급성 충수염의 치료로 적절하지 않으며, 상부 위장관 질환이 의심될 때 고려되는 검사입니다.",
+  "source": {
+    "file_name": "Sabiston Textbook of Surgery",
+    "content": "The standard treatment for uncomplicated acute appendicitis is appendectomy. Laparoscopic appendectomy has largely supplanted open appendectomy because of its advantages, including decreased postoperative pain, shorter hospital stay, quicker return to normal activities, and lower wound infection rates. Preoperative preparation includes nil per os (NPO) status, intravenous fluid resuscitation, and intravenous antibiotics with gram-negative and anaerobic coverage. Antibiotics should be administered preoperatively to all patients with suspected appendicitis. For patients with uncomplicated appendicitis, a single dose of antibiotics is sufficient; however, for those with complicated appendicitis (gangrenous or perforated), a longer course of antibiotics is required. Nonoperative management with antibiotics alone has been studied in select patients with uncomplicated appendicitis, but surgery remains the standard of care, especially for patients with clear symptoms and signs of appendicitis, older patients, and those with comorbidities who are at higher risk for complications."
+  },
+  "category": "General Surgery"
+}, 
 
 
 
