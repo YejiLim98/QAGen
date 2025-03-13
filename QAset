@@ -4833,6 +4833,280 @@
   "category": "Emergency Medicine"
 },
 
+[
+  {
+    "question_id": 1,
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "35세 여성이 반복되는 두통으로 내원하였다. 환자는 5년 전부터 한 달에 3-4회 정도 두통을 경험하고 있으며, 두통 발생 20분 전에 반짝이는 지그재그 모양의 시각 현상을 경험한다고 한다. 두통은 주로 왼쪽 측두부에 박동성으로 나타나며 4-6시간 지속된다. 두통이 있을 때 빛과 소리에 민감해지고 오심이 동반되며, 조용한 방에서 누워있으면 증상이 완화된다. 가족력상 환자의 어머니와 언니도 비슷한 증상이 있다고 한다. 신체 검사에서 특이 소견은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "신경학적 검사: 정상\n두부 CT: 정상\n일반 혈액 검사: 정상 범위",
+    "options": {
+      "A": "긴장성 두통",
+      "B": "편두통",
+      "C": "군발두통",
+      "D": "약물과용두통",
+      "E": "측두동맥염"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 전형적인 편두통(migraine with aura)의 증상을 보이고 있다. 편두통의 특징적인 임상양상으로는 1) 전조증상(aura)으로 시각적 증상(반짝이는 지그재그 모양)이 선행, 2) 박동성 두통이 주로 한쪽(일측성)에 발생, 3) 빛과 소리에 대한 과민성(광공포증, 음공포증), 4) 오심이나 구토 동반, 5) 가족력이 있는 경우가 많음. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 전조증상이 없다. 군발두통은 매우 심한 일측성 두통으로 주로 안구 주변이나 측두부에 발생하며, 동측의 눈물, 코막힘, 결막충혈 등 자율신경계 증상이 동반되고 주로 남성에게 많이 발생한다. 약물과용두통은 진통제나 triptan 등의 약물을 장기간 과용할 때 발생하는 만성 두통이다. 측두동맥염은 주로 50세 이상의 고령에서 발생하며, 두피 압통, 저작시 통증, 시력 저하, 발열, ESR/CRP 상승 등이 특징이다. 환자의 연령, 전조 증상, 두통의 특성, 동반 증상 및 가족력 등을 고려할 때 편두통이 가장 가능성이 높다.",
+    "source": "InternalMed_Harrison_textbook_data.txt, 'Migraine is characterized by recurrent episodes of headache that are typically throbbing, unilateral, and aggravated by routine physical activity. The headache typically lasts 4–72 h and is accompanied by nausea, vomiting, or sensitivity to light, sound, or movement. Patients may experience a premonitory phase occurring hours to days before headache onset, consisting of altered mood, behavior, or cognition. About 25% of patients with migraine experience aura: a reversible focal neurologic symptom that usually precedes the headache but may occur during the headache phase. The most common aura symptom is visual, often a scintillating scotoma (i.e., an expanding visual disruption with a scintillating border), or other visual disturbances (e.g., zigzag lines). Risk factors for migraine include female sex (3:1 female-to-male ratio), family history of migraine (risk increases by 1.5–4.0 times), and low socioeconomic status.'",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+    "question": "45세 남성이 갑작스러운 극심한 두통으로 응급실에 내원하였다. 환자는 15분 전 아령 운동 중에 '평생 경험한 적 없는 최악의 두통'이 갑자기 시작되었다고 한다. 두통은 후두부에서 시작하여 전체 두부로 퍼졌으며, 동시에 오심과 구토가 있었다. 환자는 고혈압으로 약물 복용 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 혈압 170/95 mmHg, 맥박 95회/분, 체온 37.2°C였다. 의식은 명료하나 경부 경직이 관찰되었고, 광공포증을 호소하였다. 이 환자에게 가장 적절한 다음 검사는?",
+    "exam": "혈액 검사: WBC 12,000/μL, 그 외 정상 범위\n단순 두부 촬영: 정상",
+    "options": {
+      "A": "뇌파검사(EEG)",
+      "B": "뇌 MRI",
+      "C": "비조영증강 뇌 CT",
+      "D": "요추천자",
+      "E": "측두동맥 조직검사"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 지주막하 출혈(subarachnoid hemorrhage, SAH)이 강력히 의심되는 임상양상을 보이고 있다. SAH의 특징적인 증상은 '벼락두통'(thunderclap headache)으로 묘사되는 갑작스럽고 극심한 두통으로, 환자들은 종종 '평생 경험한 적 없는 최악의 두통'이라고 표현한다. 이 환자의 경우 두통이 운동 중에 갑자기 발생했고, 경부 경직(meningismus)과 광공포증 같은 수막 자극 징후가 있으며, SAH의 위험인자인 고혈압과 흡연력도 가지고 있다. SAH가 의심될 경우 가장 먼저 시행해야 할 검사는 비조영증강 뇌 CT이다. 뇌 CT는 발병 24시간 이내에 시행할 경우 SAH의 진단 민감도가 약 95%로 높다. 뇌 MRI도 SAH 진단에 사용될 수 있으나, 급성기에는 CT에 비해 시간이 더 소요되고 급성 출혈의 발견에 있어 특별한 이점이 없다. 만약 임상적으로 SAH가 강하게 의심되나 뇌 CT에서 음성 결과가 나온다면, 다음 단계로 요추천자를 시행하여 뇌척수액 검사를 통해 진단할 수 있다. 뇌파검사는 SAH의 진단에 도움이 되지 않으며, 측두동맥 조직검사는 측두동맥염이 의심될 때 시행하는 검사이다.",
+    "source": "InternalMed_Harrison_textbook_data.txt, 'Subarachnoid hemorrhage (SAH) is a neurologic emergency characterized by the extravasation of blood into the space between the arachnoid and pia mater. The classic clinical presentation is the sudden onset of a severe headache (a thunderclap headache), often described as the \"worst headache of my life.\" The most common cause of spontaneous SAH is rupture of an intracranial aneurysm. Risk factors include hypertension, smoking, alcohol use, and family history. Initial diagnostic test of choice for suspected SAH is a noncontrast head CT scan, which has high sensitivity within 24 hours of onset. If CT is negative but clinical suspicion remains high, a lumbar puncture should be performed to look for evidence of blood in the cerebrospinal fluid.'",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "28세 남성이 극심한 우측 안구 주변 통증으로 내원하였다. 환자는 2주 전부터 매일 밤 같은 시간에 약 45분간 지속되는 심한 두통이 발생한다고 한다. 두통은 항상 우측 안구 주변에 국한되어 있으며, 환자는 통증이 '뜨거운 쇠막대가 눈을 찌르는 것 같다'고 표현했다. 두통 발작 중에는 가만히 있지 못하고 방 안을 걸어다니거나 머리를 흔드는 등 안절부절 못하는 모습을 보인다. 또한 두통 시 우측 눈물과 코막힘, 결막 충혈이 동반된다고 한다. 과거력상 비슷한 증상이 1년 전에도 약 3주간 있었으며, 그 후 완전히 사라졌다가 최근 다시 발생했다고 한다. 신체 검사에서 우측 결막 충혈과 동공 크기 감소(축동)가 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "뇌 MRI: 정상\n일반 혈액 검사: 정상 범위",
+    "options": {
+      "A": "긴장성 두통",
+      "B": "편두통",
+      "C": "군발두통",
+      "D": "삼차신경통",
+      "E": "측두동맥염"
+    },
+    "answer": "C",
+    "explanation": "이 환자의 임상 양상은 전형적인 군발두통(cluster headache)에 합당하다. 군발두통의 주요 특징으로는 1) 극심한 단측성 안구 주변 통증, 2) 발작 기간이 짧고(15-180분) 주로 밤에 발생, 3) 동측의 자율신경계 증상(눈물, 코막힘, 결막 충혈, 축동, 안검 하수 등), 4) 안절부절 못하는 행동(pacing, rocking), 5) 발작이 수주에서 수개월간 군집(cluster)을 이루어 발생하고 이후 완전한 관해기를 보임. 남성에서 더 흔하게 발생하는 것도 특징적이다. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 자율신경계 증상이 동반되지 않는다. 편두통은 박동성 두통으로 수 시간에서 수일간 지속되며, 빛과 소리에 대한 과민성, 오심, 구토가 동반될 수 있으나 이 환자와 같은 뚜렷한 자율신경계 증상과 주기적 패턴은 보이지 않는다. 삼차신경통은 삼차신경 분포 영역(주로 2, 3분지)에 짧은 전기 충격과 같은 통증이 특징이며, 특정 유발 부위를 자극할 때 발생한다. 측두동맥염은 주로 50세 이상의 노인에서 발생하며, 측두부 압통, 턱 파행(jaw claudication), ESR 상승 등이 특징이다.",
+    "source": "InternalMed_Harrison_textbook_data.txt, 'Cluster headache is characterized by attacks of severe, strictly unilateral pain, which is orbital, supraorbital, temporal, or in any combination of these sites, lasting 15–180 min and occurring from once every other day to eight times a day. The attacks are associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhea, facial sweating, miosis, ptosis, and/or eyelid edema, and/or with restlessness or agitation. They occur in series lasting for weeks or months (so-called cluster periods or bouts) separated by remission periods usually lasting months or years. Cluster headache has a distinctive circadian pattern, with attacks often occurring at night and waking the patient from sleep. During a series, attacks can be provoked by alcohol, histamine, or nitroglycerin. Men are affected more commonly than women, with a male-to-female ratio of 2.5:1.'",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
+    "question": "42세 여성이 3개월 이상 지속된 만성 두통으로 내원하였다. 환자는 10년 전부터 월 1-2회 편두통이 있었으나, 최근 6개월 전부터 두통 빈도가 증가하여 거의 매일 두통을 경험한다고 한다. 두통은 양측성이며 압박감이 있고, 경도에서 중등도의 강도로 하루 종일 지속된다. 환자는 두통 조절을 위해 처방받은 수마트립탄을 초기에는 월 2-3회 사용했으나, 최근에는 주 3-4회 사용하고 있으며, 추가로 이부프로펜을 거의 매일 복용하고 있다고 한다. 신체 검사와 신경학적 검사에서 특이 소견은 관찰되지 않았다. 이 환자에게 가장 적절한 치료 방침은?",
+    "exam": "뇌 MRI: 정상\n혈액 검사: 정상 범위",
+    "options": {
+      "A": "수마트립탄의 용량 증가",
+      "B": "이부프로펜을 아세트아미노펜으로 교체",
+      "C": "예방적 항우울제(amitriptyline) 추가",
+      "D": "급성기 약물 중단과 예방 치료 시작",
+      "E": "경구 스테로이드 단기 투여"
+    },
+    "answer": "D",
+    "explanation": "이 환자는 약물과용두통(medication-overuse headache, MOH)의 전형적인 임상양상을 보이고 있다. MOH는 3개월 이상, 월 15일 이상 만성적으로 두통이 있는 환자에서 진통제나 트립탄 계열 약물을 과다 사용(트립탄의 경우 월 10일 이상, 단순 진통제의 경우 월 15일 이상)할 때 발생한다. 환자의 경우 원래 간헐적인 편두통이 있었으나, 최근 수마트립탄과 이부프로펜의 빈번한 사용으로 인해 거의 매일 두통이 발생하는 만성 양상으로 변화했다. MOH의 치료에서 가장 중요한 첫 단계는 과용하고 있는 급성기 약물을 중단하는 것이다. 동시에 예방 치료를 시작하여 기저 두통(이 환자의 경우 편두통)을 관리하는 것이 필요하다. 급성기 약물 중단 후 일시적으로 반동 두통(rebound headache)이 악화될 수 있으나, 대부분 1-2주 내에 호전된다. 수마트립탄의 용량 증가나 이부프로펜을 아세트아미노펜으로 교체하는 것은 약물 과용 상태를 지속시키므로 도움이 되지 않는다. 예방적 항우울제 추가는 근본적인 약물 과용 문제를 해결하지 않고는 효과가 제한적이다. 경구 스테로이드는 군발두통의 단기 조절이나 상황에 따라 약물 중단 시 반동 두통의 완화를 위해 고려할 수 있으나, MOH의 일차 치료 전략은 아니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt, 'Medication-overuse headache (MOH) is a complex disorder characterized by chronic headache (≥15 days/month) that develops or worsens during overuse of acute medications. Medication overuse is defined as regular use of drugs for >3 months, with frequency depending on the medication class: ≥10 days/month for triptans, ergots, opioids, or combination analgesics; or ≥15 days/month for simple analgesics or NSAIDs. MOH commonly starts with episodic migraine or tension-type headache that transforms into a daily or near-daily headache pattern. The first and most crucial step in treatment is discontinuation of the overused medication(s). This withdrawal is followed initially by worsening of headache, nausea, and sleep disturbances, but most patients improve within 2 weeks. Simultaneously, preventive treatment should be initiated to address the underlying primary headache disorder.'",
+    "category": "Neurology / Neurosurgery"
+  },
+ {
+  "question_id": 5,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "53세 여성이 6주 전부터 시작된 두통으로 내원하였다. 두통은 주로 아침에 심하고 기침이나 몸을 구부릴 때 악화되며, 최근에는 강도가 점차 증가하고 있다고 한다. 환자는 또한 최근 2주간 간헐적인 오른쪽 손의 저림과 약한 보행 장애를 경험했다고 한다. 환자는 평소 건강했으며 특별한 과거력은 없다. 신체 검사에서 오른팔의 경미한 근력 저하(MRC grade IV+/V)와 깊은 건반사 항진이 관찰되었다. 안저 검사에서 양측 유두부종(papilledema)이 확인되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: WBC 7,500/μL, Hb 13.2 g/dL, 전해질 정상 범위\n흉부 X-선: 정상",
+  "options": {
+    "A": "뇌파검사(EEG)",
+    "B": "조영증강 뇌 MRI",
+    "C": "척수 MRI",
+    "D": "뇌혈관조영술",
+    "E": "요추천자"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 두개내 종양(intracranial tumor)이 강력히 의심되는 임상양상을 보이고 있다. 환자의 임상적 특징으로 1) 아침에 악화되고 기침이나 자세 변화시 심해지는 두통(두개내압 상승의 특징), 2) 최근 발생한 국소 신경학적 증상(오른손 저림, 보행 장애, 오른팔 근력 저하), 3) 양측 유두부종(두개내압 상승의 객관적 징후)이 있다. 이러한 소견들은 공간 점유 병변(space-occupying lesion)에 의한 두개내압 상승과 국소 뇌 조직 압박을 시사한다. 두개내 종양이 의심될 경우 조영증강 뇌 MRI가 가장 적절한 진단 검사이다. MRI는 조직 대조도가 높아 뇌실질 내 병변을 자세히 확인할 수 있으며, 조영제 사용 시 종양의 혈관성, 혈액뇌장벽 파괴 여부 등에 대한 추가 정보를 제공한다. 또한 종양의 정확한 위치, 크기, 주변 조직과의 관계를 평가하여 수술 계획에도 도움이 된다. 뇌파검사는 뇌의 전기적 활동을 기록하는 검사로, 간질 진단에 유용하나 공간 점유 병변의 진단에는 제한적이다. 척수 MRI는 척수 병변 평가에 유용하나 이 환자의 증상은 두개내 병변을 시사한다. 뇌혈관조영술은 뇌혈관 질환(동맥류, 동정맥기형 등)의 평가에 유용하지만, 일차적 평가 도구로는 적합하지 않다. 요추천자는 두개내압 상승이 의심되는 환자에서 두개내 종양이 배제되기 전에는 뇌탈출(brain herniation)의 위험이 있어 금기이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Brain tumors present with progressive neurologic deficits and are often associated with headache and seizures. The classic headache associated with a brain tumor is most severe when the patient awakens in the morning and improves after arising, but this pattern is actually seen in a minority of patients. Headaches from brain tumors worsen with exertion or changes in position. Focal or generalized seizures and progressive focal neurologic deficits can indicate the presence of an underlying brain tumor. Most patients with brain tumors will have papilledema, focal neurologic deficits, or both. A contrast-enhanced MRI is the best diagnostic test because it can delineate the anatomy of the tumor, identify any surrounding edema, and help determine the nature of the lesion.'",
+  "category": "Neurology / Neurosurgery"
+},
+
+{
+  "question_id": 6,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
+  "question": "38세 여성이 6개월 이상 지속된 두통으로 내원하였다. 환자는 거의 매일 양측 전두부와 후두부에 조이는 듯한 두통을 경험하며, 통증 강도는 중등도로 일상생활에 지장을 주지만 완전히 제한하지는 않는다고 한다. 두통은 스트레스를 받거나 장시간 컴퓨터 작업 후 더 심해지는 경향이 있으며, 오심, 구토, 광과민성은 없다. 환자는 주 3회 정도 아세트아미노펜을 복용하고 있으나 효과가 제한적이라고 한다. 과거력상 특이사항은 없으며, 최근 직장에서 업무량이 증가하고 수면의 질이 저하되었다고 한다. 신체 검사와 신경학적 검사에서 특이 소견은 관찰되지 않았다. 이 환자에게 가장 적절한 치료 방법은?",
+  "exam": "뇌 MRI: 정상\n혈액 검사: 정상 범위",
+  "options": {
+    "A": "트립탄(sumatriptan) 처방",
+    "B": "비스테로이드성 항염증제(NSAIDs)와 근육이완제",
+    "C": "암트립틸린(amitriptyline)과 비약물적 치료",
+    "D": "코르티코스테로이드 단기 투여",
+    "E": "프로프라놀롤(propranolol) 예방 요법"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 만성 긴장성 두통(chronic tension-type headache)의 전형적인 임상양상을 보이고 있다. 만성 긴장성 두통의 특징으로는 1) 양측성의 조이거나 압박하는 듯한 통증, 2) 경도에서 중등도의 통증 강도, 3) 일상 신체활동에 의한 악화가 없음, 4) 오심/구토, 광과민성/음과민성이 동반되지 않거나 경미함, 5) 3개월 이상, 월 15일 이상 발생. 만성 긴장성 두통의 치료에는 약물치료와 비약물적 치료를 병행하는 것이 효과적이다. 삼환계 항우울제인 암트립틸린은 만성 긴장성 두통의 예방 치료에 일차 선택약으로, 진통 효과와 더불어 수면의 질을 개선하고 스트레스에 대한 내성을 높이는 효과가 있다. 비약물적 치료로는 인지행동치료, 스트레스 관리, 이완 요법, 물리치료, 운동 등이 포함되며, 특히 스트레스가 유발 요인인 환자에게 중요하다. 트립탄은 편두통의 급성기 치료제로, 긴장성 두통에는 효과가 없다. NSAIDs와 근육이완제는 급성 발작의 완화에 도움이 될 수 있으나, 단독으로는 만성 긴장성 두통의 장기 관리에 충분하지 않다. 코르티코스테로이드는 군발두통이나 삼차신경통과 같은 특정 두통에서 단기간 사용될 수 있으나, 긴장성 두통에는 일반적으로 권장되지 않는다. 프로프라놀롤은 편두통의 예방 치료에 효과적이나, 긴장성 두통에서의 효과는 입증되지 않았다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Tension-type headache (TTH) is characterized by bilateral, pressing or tightening pain of mild to moderate intensity, not aggravated by routine physical activity. It may be associated with either photophobia or phonophobia, but not both, and there is no nausea or vomiting. TTH is classified as episodic if it occurs on <15 days/month and chronic if it occurs on ≥15 days/month. Treatment of chronic TTH consists of nonpharmacologic and pharmacologic approaches. First-line preventive medications include tricyclic antidepressants, particularly amitriptyline, which has proven efficacy. Nonpharmacologic treatments such as cognitive-behavioral therapy, relaxation training, physical therapy, and stress management may be particularly helpful in patients whose headaches are exacerbated by stress. Combined psychoactive medication and nonpharmacologic treatments are reported to be more successful than either intervention alone.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 7,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "75세 여성이 2주 전부터 시작된 지속적인 좌측 측두부 두통으로 내원하였다. 환자는 두통과 함께 턱을 움직일 때 통증이 심해지고, 좌측 두피 압통, 전신 피로감, 식욕 저하 및 체중 감소를 호소한다. 또한 최근 시력이 흐려지는 증상도 있다고 한다. 신체 검사에서 좌측 측두 동맥이 울퉁불퉁하고 압통이 있으며, 시력 검사에서 좌안 시력 저하가 확인되었다. 환자의 체온은 37.8°C로 경미한 발열이 있었다.",
+  "exam": "혈액 검사: WBC 11,200/μL, Hb 10.5 g/dL, ESR 95 mm/h, CRP 12 mg/dL\n측두동맥 초음파: 좌측 측두동맥 벽 비후 및 저에코 halo sign 관찰",
+  "options": {
+    "A": "즉시 고용량 스테로이드 치료 시작",
+    "B": "측두동맥 조직검사 후 치료 결정",
+    "C": "뇌 MRI 시행 후 치료 결정",
+    "D": "뇌혈관조영술 시행",
+    "E": "항생제 치료 시작"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 측두동맥염(temporal arteritis) 또는 거대세포동맥염(giant cell arteritis, GCA)이 강력히 의심되는 임상양상을 보이고 있다. 측두동맥염의 전형적인 특징으로는 1) 50세 이상의 고령, 2) 새롭게 발생한 국소적 두통, 3) 측두동맥의 압통 또는 맥박 감소, 4) 적혈구 침강속도(ESR) 및 C-반응단백(CRP)의 상승, 5) 턱 파행(jaw claudication), 6) 시각 증상(시력 저하, 일시적 시력 상실, 복시). 추가로 체중 감소, 피로감, 발열과 같은 전신 증상이 동반될 수 있다. 이 환자의 경우 임상 소견(국소적 두통, 측두동맥 압통, 턱 파행, 시력 저하)과 검사 소견(ESR 상승, CRP 상승, 초음파의 halo sign)이 측두동맥염에 매우 합당하다. 측두동맥염이 강력히 의심될 경우, 즉시 고용량 스테로이드(프레드니솔론 40-60 mg/day)로 치료를 시작해야 한다. 이는 특히 시력 소실과 같은 허혈성 합병증을 예방하기 위해 중요하다. 측두동맥 조직검사는 진단을 확정하기 위한 금표준(gold standard)이지만, 치료 시작을 지연시켜서는 안 된다. 스테로이드 투여를 시작한 후에도 1-2주 내에 조직검사를 시행하면 진단적 가치가 유지된다. 뇌 MRI나 뇌혈관조영술은 측두동맥염의 일차 진단에 필수적이지 않으며, 다른 원인을 배제하기 위해 고려될 수 있다. 항생제 치료는 감염성 원인이 의심되지 않는 한 적응증이 되지 않는다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Giant cell arteritis (GCA), also called temporal arteritis, is a systemic vasculitis affecting large and medium-sized vessels, most commonly the extracranial branches of the carotid artery. It typically occurs in patients over 50 years of age. The most common symptoms are headache, scalp tenderness, jaw claudication, and visual disturbances. Systemic symptoms such as fever, weight loss, and fatigue are common. Laboratory findings include elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP). Temporal artery ultrasonography may show a periluminal dark halo (edema of the vessel wall). The diagnosis is confirmed by temporal artery biopsy, but treatment should not be delayed pending biopsy results if clinical suspicion is high. High-dose glucocorticoids (prednisone 40-60 mg daily) should be initiated immediately to prevent irreversible ischemic complications, particularly vision loss.'",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 8,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "32세 여성이 4일 전부터 시작된 심한 두통으로 응급실에 내원하였다. 환자는 두통이 점진적으로 시작되어 점점 악화되었으며, 진통제에 반응이 없다고 한다. 두통은 전체 두부에 걸쳐 있으며 앉거나 서있을 때 더 심해진다고 한다. 환자는 또한 구토, 복시, 경미한 의식 혼돈을 호소한다. 병력 청취상 환자는 3주 전 제왕절개로 출산했으며, 현재 경구 피임약을 복용 중이다. 신체 검사에서 체온 37.3°C, 혈압 135/85 mmHg, 맥박 88회/분, 파유두부종(papilledema)이 관찰되었고, 양측 외전신경(6번 뇌신경) 마비가 확인되었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: WBC 10,500/μL, D-dimer 750 ng/mL (정상: <500 ng/mL)\n뇌 CT: 양측 측뇌실(lateral ventricle) 압박 소견, 우측 횡정맥동(transverse sinus) 부위 고음영",
+  "options": {
+    "A": "자간전증(Preeclampsia)",
+    "B": "뇌정맥동혈전증(Cerebral venous sinus thrombosis)",
+    "C": "산후 뇌하수체 괴사(Postpartum pituitary necrosis)",
+    "D": "양성두개내압상승(Idiopathic intracranial hypertension)",
+    "E": "지주막하 출혈(Subarachnoid hemorrhage)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 뇌정맥동혈전증(cerebral venous sinus thrombosis, CVST)의 전형적인 임상양상을 보이고 있다. CVST의 주요 특징으로는 1) 점진적으로 발생하고 악화되는 두통, 2) 두개내압 상승 징후(파유두부종, 6번 뇌신경 마비), 3) 국소 신경학적 결손, 4) 발작이나 의식 장애 등이 있다. 이 환자의 경우 위험 요소로 산후기(postpartum period)와 경구 피임약 사용이 있으며, 이는 과응고 상태(hypercoagulable state)와 관련이 있다. 또한 D-dimer 상승과 CT에서 우측 횡정맥동 부위의 고음영은 정맥동 혈전증을 시사한다. 자간전증(preeclampsia)은 임신 20주 이후 또는 산후에 발생하는 고혈압과 단백뇨를 특징으로 하며, 심한 경우 두통, 시각 장애, 발작(자간증, eclampsia)이 발생할 수 있으나, 이 환자의 혈압은 정상이고 산후 3주가 지났으므로 가능성이 낮다. 산후 뇌하수체 괴사(Sheehan's syndrome)는 심한, 출산 중 대량 출혈로 인한 뇌하수체 허혈로 발생하며, 주로 수유 실패, 무월경, 갑상선기능저하증 등의 호르몬 결핍 증상으로 나타난다. 양성두개내압상승(IIH)은 비만 여성에서 흔하며 뇌척수액 검사에서 개방압 상승과 정상 뇌척수액 성분이 특징이나, 이 환자의 CT 소견(측뇌실 압박, 정맥동 고음영)은 이차적 원인을 시사한다. 지주막하 출혈은 갑작스러운 심한 두통('벼락두통')이 특징이며, 경부 강직, 의식 저하 등이 동반될 수 있으나, 이 환자의 두통은 점진적으로 발생했고 CT에서 지주막하 출혈 소견이 없다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Cerebral venous sinus thrombosis (CVST) is an uncommon but serious cerebrovascular disorder that primarily affects young individuals. Risk factors include prothrombotic conditions, pregnancy and puerperium, oral contraceptive use, malignancy, infection, and trauma. The clinical presentation is highly variable, but headache is the most common initial symptom, present in >90% of cases. The headache in CVST is typically described as diffuse, progressive, and severe. Other manifestations include seizures, focal neurologic deficits, altered consciousness, and signs of increased intracranial pressure such as papilledema and sixth nerve palsy. Diagnosis is based on neuroimaging, with CT venography or MR venography being the modalities of choice. Non-contrast CT may show hyperdensity in the thrombosed sinus. D-dimer levels are often elevated and can be used as a screening tool, though normal levels do not rule out CVST.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 9,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "40세 남성이 2일 전부터 시작된 심한 두통으로 내원하였다. 환자는 1주일 전 요추 추간판 탈출증으로 경막외 스테로이드 주사(epidural steroid injection)를 받았다. 두통은 기립 시 수 분 내에 심해지고 누우면 30분 이내에 완화되는 양상이다. 환자는 두통과 함께 경미한 오심, 현기증, 이명을 호소한다. 신체 검사에서 활력징후는 정상이며, 뇌막자극징후는 음성이었다. 신경학적 검사에서도 특이 소견은 관찰되지 않았다. 이 환자의 진단에 가장 도움이 될 검사는?",
+  "exam": "혈액 검사: 정상 범위\n두부 CT: 정상",
+  "options": {
+    "A": "조영증강 뇌 MRI",
+    "B": "뇌파검사(EEG)",
+    "C": "뇌혈관조영술",
+    "D": "요추천자 및 개방압 측정",
+    "E": "방사성동위원소 뇌수조조영술(Radionuclide cisternography)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 자발성 두개내저압(spontaneous intracranial hypotension) 또는 저뇌척수액압 두통(low CSF pressure headache)이 강력히 의심되는 임상양상을 보이고 있다. 이 상태의 가장 특징적인 증상은 체위성 두통(positional headache)으로, 기립 시 심해지고 누우면 완화되는 양상을 보인다. 환자의 경우 요추 시술(경막외 주사) 후 발생했으므로 의인성(iatrogenic) 경막 천자에 의한 뇌척수액 누출을 강력히 의심할 수 있다. 저뇌척수액압 두통의 진단에 가장 유용한 검사는 조영증강 뇌 MRI이다. MRI에서 관찰될 수 있는 특징적인 소견으로는 1) 경막의 미만성 조영증강(diffuse pachymeningeal enhancement), 2) 뇌하수체 비대(pituitary hyperemia), 3) 경막하 체액 저류(subdural fluid collections), 4) 뇌의 하방 전위(downward displacement of the brain)가 있다. 또한 MR 척수조영술(MR myelography)을 통해 뇌척수액 누출 부위를 확인할 수도 있다. 뇌파검사는 간질 진단에 유용하나 저뇌척수액압 상태의 진단에는 도움이 되지 않는다. 뇌혈관조영술은 뇌혈관 질환의 평가에 유용하지만, 이 환자의 증상과는 관련이 적다. 요추천자 및 개방압 측정은 저뇌척수액압을 확인하는 데 도움이 될 수 있으나, 뇌척수액 누출이 있는 경우 요추천자가 추가적인 누출을 초래할 위험이 있고, 개방압이 정상일 수도 있어 진단적 가치가 제한적이다. 방사성동위원소 뇌수조조영술은 뇌척수액 누출을 감지하는 데 사용될 수 있지만, 민감도가 낮고 누출 부위의 정확한 해부학적 위치를 제공하지 못하는 제한점이 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Spontaneous intracranial hypotension (SIH) is caused by spontaneous spinal CSF leaks and is characterized by orthostatic headaches that occur or worsen within minutes of assuming an upright position and are relieved by lying down. Associated symptoms may include nausea, vomiting, neck stiffness, tinnitus, hypacusis, photophobia, and diplopia. SIH can also occur following lumbar puncture or other procedures involving the dura mater. Brain MRI with gadolinium is the study of choice and may show diffuse pachymeningeal enhancement, subdural fluid collections, engorgement of venous structures, pituitary hyperemia, and sagging of the brain. Spinal imaging studies are frequently needed to detect the site of the leak, with CT myelography and MR myelography being the most sensitive techniques.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 10,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "25세 남성이 12시간 전부터 시작된 심한 두통, 고열, 오심, 구토로 응급실에 내원하였다. 환자는 두통이 갑자기 시작되었고 전체 두부에 걸쳐 있으며, 목을 움직이면 더 심해진다고 한다. 병력 청취상 환자는 3일 전부터 상기도 감염 증상이 있었으며, 최근 여행력이나 특별한 약물 복용력은 없다. 신체 검사에서 체온 39.2°C, 혈압 135/85 mmHg, 맥박 110회/분, 호흡수 22회/분이었다. 의식은 다소 혼미하였고, 경부 강직(nuchal rigidity)과 양성 Kernig's sign, Brudzinski's sign이 관찰되었다. 피부에 발진은 관찰되지 않았다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: WBC 18,500/μL (호중구 85%), CRP 15 mg/dL\n뇌 CT: 정상\n요추천자: 개방압 280 mmH2O, WBC 1,200/mm³ (호중구 90%), 단백 150 mg/dL, 포도당 35 mg/dL (혈청 포도당 110 mg/dL)",
+  "options": {
+    "A": "바이러스성 뇌수막염",
+    "B": "세균성 뇌수막염",
+    "C": "지주막하 출혈",
+    "D": "뇌염",
+    "E": "무균성 뇌수막염"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 세균성 뇌수막염(bacterial meningitis)의 전형적인 임상양상을 보이고 있다. 세균성 뇌수막염의 특징적인 임상 소견으로는 1) 발열, 심한 두통, 수막자극징후(경부 강직, Kernig's sign, Brudzinski's sign)의 전형적인 3징후, 2) 오심, 구토, 의식 변화 등이 있다. 이 환자의 뇌척수액(CSF) 검사 결과는 세균성 뇌수막염에 매우 합당하다: 백혈구 증가(>1,000/mm³)와 호중구 우세(>80%), 단백 상승(>100 mg/dL), 포도당 감소(CSF/혈청 포도당 비율 <0.4). 또한 전신 염증 지표(혈액 WBC, CRP)의 현저한 상승도 세균성 원인을 지지한다. 바이러스성 뇌수막염은 일반적으로 더 가벼운 경과를 보이며, CSF 소견은 림프구 우세의 경미한 백혈구 증가, 정상 또는 약간 상승된 단백, 정상 포도당 수치를 특징으로 한다. 지주막하 출혈은 갑작스러운 심한 두통('벼락두통')과 경부 강직을 특징으로 하나, 발열은 일반적이지 않으며 CSF에서는 적혈구 증가와 황색변색(xanthochromia)이 관찰된다. 뇌염(encephalitis)은 뇌실질의 염증으로, 수막자극징후보다는 의식 변화, 성격 변화, 발작, 국소 신경학적 결손이 더 두드러진다. 무균성 뇌수막염(aseptic meningitis)은 CSF 배양에서 일반적인 세균이 검출되지 않는 뇌수막염을 지칭하며, 대부분 바이러스 감염이나 일부 약물, 자가면역질환에 의해 발생할 수 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Bacterial meningitis is characterized by the classic triad of fever, headache, and neck stiffness, along with photophobia, nausea, vomiting, and altered mental status. Signs of meningeal irritation include nuchal rigidity (resistance to passive neck flexion), Kernig's sign (resistance to passive extension of the knee with the hip flexed), and Brudzinski's sign (involuntary flexion of the knees and hips when the neck is flexed). Cerebrospinal fluid (CSF) analysis in bacterial meningitis typically shows pleocytosis (1,000-10,000 white blood cells/μL) with neutrophil predominance (>80%), elevated protein (100-500 mg/dL), and decreased glucose (<40 mg/dL or CSF:serum glucose ratio <0.4). In contrast, viral meningitis generally shows a lymphocytic pleocytosis, normal or mildly elevated protein, and normal glucose. Empiric antimicrobial therapy should be initiated promptly in all patients in whom bacterial meningitis is suspected, after obtaining blood cultures but before the lumbar puncture, if it will be delayed.'",
+  "category": "Infectious Diseases"
+},
+
+{
+  "question_id": 1,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "45세 남성이 6개월 이상 지속된 식후 상복부 통증, 팽만감, 조기 포만감으로 내원하였다. 환자는 하루 1갑의 흡연력이 있으며, 지난 3개월간 체중이 5kg 감소했다고 한다. 통증은 공복 시 심해지며 식사 후 일시적으로 완화되는 양상이다. 가족력상 부친이 60세에 위암으로 사망했다. 알코올은 주 3회, 회당 소주 1병 정도 마신다고 한다. 매운 음식과 자극적인 식이를 좋아한다. 신체 검사에서 상복부 압통이 있었으며, 만져지는 종괴는 없었다. 이 환자에게서 가장 우려되는 질환은?",
+  "exam": "혈액 검사: Hb 10.2 g/dL, MCV 75 fL, 페리틴 12 ng/mL, 혈청 H. pylori IgG 항체 양성\n상부위장관내시경: 전정부에 2.5cm 크기의 궤양성 병변이 관찰되며, 병변 가장자리는 불규칙하고 약간 융기되어 있음\n조직검사: 저분화 선암종(poorly differentiated adenocarcinoma)",
+  "options": {
+    "A": "위선암(gastric adenocarcinoma)",
+    "B": "소화성 궤양(peptic ulcer disease)",
+    "C": "위 점막하 종양(gastric submucosal tumor)",
+    "D": "기능성 소화불량(functional dyspepsia)",
+    "E": "만성 위염(chronic gastritis)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 위선암에 합당한 임상 소견과 내시경 결과를 보여주고 있다. 위암을 의심할 수 있는 임상적 특징으로는 1) 지속적인 상복부 통증, 2) 설명되지 않는 체중 감소, 3) 조기 포만감, 4) 빈혈(Hb 10.2 g/dL, MCV 75 fL - 철결핍성 빈혈 양상), 5) 위암의 가족력(일급 친족), 6) 위험 요인(H. pylori 감염, 흡연, 음주, 자극적 식이)이 있다. 내시경 소견에서 전정부의 불규칙한 가장자리를 가진 궤양성 병변이 관찰되며, 조직검사에서 저분화 선암종이 확인되어 위선암으로 진단된다. 소화성 궤양은 양성 궤양으로, 내시경에서 경계가 명확한 원형 또는 타원형 궤양이 특징이며, 조직검사에서 악성 소견은 보이지 않는다. 위 점막하 종양은 정상 점막으로 덮인 융기된 병변으로 나타나며, 내시경에서 궤양보다는 점막하 종괴로 관찰된다. 기능성 소화불량은 내시경에서 구조적 이상이 없으며, 체중 감소나 빈혈과 같은 경고 증상이 동반되지 않는다. 만성 위염은 H. pylori 감염과 관련이 있으나, 이 환자의 경우 내시경 소견과 조직검사 결과가 단순 위염이 아닌 위선암을 가리키고 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Gastric cancer often presents with vague and nonspecific symptoms such as dyspepsia, weight loss, anorexia, and abdominal pain. Alarm features that warrant prompt endoscopy include age >55 years with new-onset dyspepsia, family history of gastric cancer, unintended weight loss, GI bleeding, iron deficiency anemia, progressive dysphagia, odynophagia, persistent vomiting, palpable mass, or lymphadenopathy. Risk factors for gastric cancer include Helicobacter pylori infection, advanced age, male gender, smoking, high salt intake, low fruit and vegetable consumption, and family history. Endoscopically, early gastric cancers may appear as slight elevations or depressions in the mucosal surface, whereas advanced lesions may present as ulcerated, fungating, infiltrating, or polypoid masses. The definitive diagnosis requires histologic confirmation through endoscopic biopsy.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 2,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "52세 여성이 3개월 동안 지속된 가슴쓰림, 신물이 올라오는 증상, 식후 복부 팽만감으로 내원하였다. 증상은 주로 식후 및 누웠을 때 심해지며, 자기 전 간식 섭취와 커피 음용 후 악화된다고 한다. 환자는 최근 가슴 뒤쪽의 타는 듯한 통증이 있을 때 쓴 물이 입으로 올라온다고 호소한다. 또한 목이 쉬고 만성적인 기침이 있으며, 가끔 음식물이 목에 걸리는 느낌이 있다고 한다. 평소 NSAID를 복용하는 관절염이 있고, BMI는 28kg/m²이다. 신체 검사에서 상복부 압통 외 특이 소견은 없었다. 상부위장관내시경 검사 결과 식도 하부에 미란성 변화와 발적이 관찰되었고, 24시간 식도 산도 검사에서 비정상적인 산 노출이 확인되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: 정상 범위\n상부위장관내시경: 식도 하부에 미란성 식도염(Los Angeles 분류 Grade B), 하부식도괄약근 압력 감소\n24시간 식도 pH 모니터링: 산 노출 시간(acid exposure time) 8.5%, DeMeester 점수 29.4(정상 <14.7)",
+  "options": {
+    "A": "제산제(antacid) 복용과 생활습관 교정",
+    "B": "H2 수용체 길항제(ranitidine) 8주 투여",
+    "C": "고용량 양성자펌프억제제(PPI) 8주 투여 후 유지 요법",
+    "D": "메토클로프라미드(metoclopramide)와 저용량 PPI 병용 투여",
+    "E": "내시경적 항역류 시술(endoscopic anti-reflux procedure)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전형적인 위식도역류질환(GERD)의 증상과 함께 내시경에서 LA 분류 Grade B의 미란성 식도염, 24시간 pH 모니터링에서 비정상적 산 노출이 확인된 중등도 이상의 GERD 환자이다. 또한 비전형적 증상(만성 기침, 목소리 변화)과 일부 경고 증상(연하곤란)도 동반되어 있다. GERD의 일차 치료는 생활습관 개선(체중 감량, 취침 전 음식 섭취 제한, 머리를 높인 자세로 수면)과 약물 치료이다. 이 환자의 경우 내시경에서 확인된 미란성 식도염과 비정상적 산 노출로 인해 제산제나 H2 수용체 길항제보다는 더 강력한 산 억제 효과를 가진 양성자펌프억제제(PPI)가 일차 선택약이다. 특히 미란성 식도염 Grade B는 중등도에 해당하므로 고용량 PPI를 8주간 투여하여 식도 점막의 치유를 유도한 후, 증상이 조절되면 최소 유효 용량으로 유지 요법을 지속하는 것이 권장된다. 제산제는 경증의 간헐적 증상에는 효과적일 수 있으나, 이 환자처럼 중등도 이상의 GERD에는 충분한 치료 효과를 기대하기 어렵다. H2 수용체 길항제는 PPI보다 산 분비 억제 효과가 낮으므로 미란성 식도염의 일차 치료로는 적합하지 않다. 메토클로프라미드는 위장관 운동 촉진제로, GERD 환자 중 위배출 지연이 있는 일부에서 부가적으로 사용될 수 있으나, 장기 사용 시 추체외로 부작용의 위험이 있어 일차 치료로는 권장되지 않는다. 내시경적 항역류 시술이나 수술적 치료는 적절한 약물 치료에도 불구하고 증상이 지속되거나, 장기간의 약물 치료를 피하고자 하는 환자에게 고려될 수 있다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Gastroesophageal reflux disease (GERD) is characterized by symptoms or complications resulting from the reflux of gastric contents into the esophagus or beyond. Treatment of GERD involves a stepwise approach. The first step is lifestyle modifications (weight loss if overweight, elevation of the head of the bed, and avoidance of meals 2-3 h before retiring). Patients with erosive esophagitis (Los Angeles Grades B, C, or D) should receive an 8-week course of once-daily PPI (proton pump inhibitor) therapy. For LA Grade B or C esophagitis, an initial 8-week course of twice-daily PPI therapy may be prescribed. Most patients with erosive esophagitis require long-term PPI therapy to maintain healing and control symptoms. If PPI therapy is withdrawn, more than 80% of patients with erosive esophagitis relapse within 6 months. Endoscopic anti-reflux procedures or surgical fundoplication may be options for patients who are unwilling to take long-term medication or who continue to have breakthrough symptoms despite optimal PPI therapy.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 3,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "56세 남성이 3개월간 지속된 명치 부위 통증과 식후 복부 팽만감으로 내원하였다. 환자는 20년 전 소화성 궤양을 진단받은 적이 있으며, 최근 3개월간 상복부 불편감이 악화되어 하루 2-3회 제산제를 복용 중이다. 통증은 주로 식사 1-2시간 후 발생하고 공복 시에도 간헐적으로 있으며, 밤에 깨는 경우도 있다고 한다. 1개월 전 지역 의원에서 H. pylori 호기 검사를 시행하여 양성으로 나왔고 제균 치료를 받았으나 증상의 호전은 없었다. 최근 2개월간 5kg의 체중 감소가 있었으며, 간헐적인 흑색변이 있었다고 한다. 가족력상 특이 사항은 없으며, 30갑년의 흡연력과 주 3회 소주 1병의 음주력이 있다. 신체 검사에서 상복부 압통이 있었으며, 직장 수지 검사에서 혈변이 확인되었다.",
+  "exam": "혈액 검사: Hb 9.8 g/dL, MCV 78 fL, 혈청 가스트린 350 pg/mL (정상: <100 pg/mL)\n상부위장관내시경: 위체부와 십이지장에 다발성 궤양 소견, 십이지장 구부에 2cm 크기의 깊은 궤양\n복부 CT: 췌장 두부에 2.5cm 크기의 종괴 소견\n혈청 H. pylori IgG 항체: 양성",
+  "options": {
+    "A": "H. pylori 제균 치료 실패로 인한 난치성 소화성 궤양",
+    "B": "NSAID 연관 소화성 궤양",
+    "C": "위선암(gastric adenocarcinoma)",
+    "D": "졸링거-엘리슨 증후군(Zollinger-Ellison syndrome)",
+    "E": "위유문부 폐쇄(gastric outlet obstruction)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 졸링거-엘리슨 증후군(Zollinger-Ellison syndrome, ZES)에 합당한 임상양상을 보이고 있다. ZES는 가스트린을 분비하는 종양(가스트린종, gastrinoma)에 의해 발생하는 질환으로, 주로 췌장이나 십이지장에서 발생한다. 이 환자에서 ZES를 시사하는 소견으로는 1) 다발성 소화성 궤양(특히 위체부와 십이지장에 여러 개의 궤양), 2) 일반적인 치료에 반응하지 않는 난치성 궤양, 3) 혈청 가스트린 수치의 현저한 상승(350 pg/mL), 4) 췌장 두부의 종괴, 5) 체중 감소와, 6) 출혈(흑색변, 철결핍성 빈혈)이 있다. H. pylori 제균 치료 실패로 인한 난치성 소화성 궤양은 가능성이 있으나, 다발성 궤양과 매우 높은 가스트린 수치, 췌장 종괴를 설명하지 못한다. NSAID 연관 소화성 궤양은 병력에서 NSAID 복용이 언급되지 않았으며, 마찬가지로 매우 높은 가스트린 수치와 췌장 종괴를 설명할 수 없다. 위선암은 상부위장관내시경에서 궤양성 병변이 아닌 다발성 궤양이 관찰되고, 주로 십이지장보다는 위에서 발생하므로 이 환자의 임상양상과 맞지 않는다. 위유문부 폐쇄는 구토, 조기 포만감, 상복부 팽만 등이 주요 증상이나, 이 환자의 내시경 소견이나 CT 소견에서 유문부 폐쇄를 시사하는 소견은 없다. 따라서 이 환자의 임상 소견, 내시경 소견, 혈액 검사 및 영상 소견을 종합할 때, 췌장의 가스트린종에 의한 ZES가 가장 가능성이 높은 진단이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Zollinger-Ellison syndrome (ZES) is characterized by peptic ulcer disease (PUD) resulting from gastric acid hypersecretion due to a gastrin-producing tumor (gastrinoma). The gastrinoma is usually located in the duodenum (60-80%) or pancreas (10-40%). The clinical manifestations include abdominal pain (75-98%), diarrhea (30-73%), heartburn (44-56%), weight loss (17-53%), and gastrointestinal bleeding (44-75%). The diagnosis is established by demonstrating inappropriate hypergastrinemia (fasting serum gastrin levels >1000 pg/mL strongly suggest ZES) in the presence of acid hypersecretion. Upper endoscopy typically reveals multiple peptic ulcers in unusual locations such as the distal duodenum or jejunum, or ulcers that are refractory to standard therapy. Imaging studies, such as CT, MRI, or endoscopic ultrasound, may identify the primary tumor and assess for metastatic disease. About 20-25% of gastrinomas are associated with multiple endocrine neoplasia type 1 (MEN1).'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 4,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "42세 여성이 6개월 이상 지속된 상복부 통증, 소화불량, 식후 더부룩함으로 내원하였다. 통증은 명확한 패턴 없이 발생하며, 식사와의 관련성도 일정하지 않다고 한다. 환자는 배가 부르면 속이 더 불편하고, 스트레스를 받을 때 증상이 악화된다고 호소한다. 식욕은 정상이며, 체중 감소나 야간 통증은 없다. 과거력상 특이 사항은 없으며, 일상적으로 복용하는 약물도 없다. 환자는 평소 예민한 성격이며, 직장에서 스트레스를 많이 받는다고 한다. 2개월 전 다른 병원에서 상부위장관내시경을 시행했으나 특이 소견은 없었다고 한다. 신체 검사에서 상복부에 경미한 압통이 있었으나, 반발통이나 종괴는 촉지되지 않았다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 일반 혈액 검사, 간기능 검사, 혈청 아밀라아제, 리파아제 모두 정상 범위\n복부 초음파: 정상\n상부위장관내시경(재검): 경미한 위염 외 특이 소견 없음\nH. pylori 호기 검사: 음성",
+  "options": {
+    "A": "위식도역류질환(GERD)",
+    "B": "소화성 궤양(peptic ulcer disease)",
+    "C": "기능성 소화불량(functional dyspepsia)",
+    "D": "과민성 장증후군(irritable bowel syndrome)",
+    "E": "만성 담낭염(chronic cholecystitis)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 기능성 소화불량(functional dyspepsia)의 전형적인 임상양상을 보이고 있다. 기능성 소화불량은 로마 기준 IV(Rome IV criteria)에 따르면, 적어도 3개월 이상 지속되는 식후 포만감, 조기 포만감, 상복부 통증이나 상복부 화끈거림과 같은 소화불량 증상이 있으면서, 상부위장관내시경을 포함한 통상적인 검사에서 증상을 설명할 수 있는 구조적 이상이나 전신 질환이 없는 경우를 말한다. 이 환자는 6개월 이상 지속된 상복부 통증, 소화불량, 식후 더부룩함을 호소하며, 내시경 및 여러 검사에서 특이 소견이 발견되지 않았다. 또한 스트레스와 증상의 관련성이 있고, 체중 감소나 야간 통증과 같은 경고 증상이 없으며, 식욕도 유지되고 있다. 위식도역류질환(GERD)은 주로 가슴쓰림(heartburn)과 산역류(acid regurgitation)가 특징적이나, 이 환자는 이러한 증상을 호소하지 않는다. 소화성 궤양은 내시경에서 위나 십이지장에 궤양이 관찰되어야 하나, 이 환자의 내시경에서는 특이 소견이 없었다. 과민성 장증후군은 복통과 배변 습관의 변화(설사, 변비, 또는 둘 다)가 동반되는 기능성 장질환으로, 이 환자의 주 증상은 상복부 불편감이며 배변 습관 변화에 대한 언급이 없어 합당하지 않다. 만성 담낭염은 주로 식후, 특히 지방 함량이 높은 음식 섭취 후 우상복부 통증이 특징적이며, 초음파에서 담낭 벽 비후나 담석이 발견될 수 있으나, 이 환자의 초음파는 정상이었다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Functional dyspepsia (FD) is defined as the presence of one or more of the following symptoms: postprandial fullness, early satiation, epigastric pain, or epigastric burning that is unexplained after a routine clinical evaluation, including upper endoscopy. According to the Rome IV criteria, these symptoms must be chronic, occurring at least 3 days per week for at least 3 months, with an onset at least 6 months before diagnosis. FD is subcategorized into postprandial distress syndrome (PDS), characterized by meal-induced dyspeptic symptoms, and epigastric pain syndrome (EPS), characterized by epigastric pain or burning that is not exclusively postprandial. Factors that may exacerbate symptoms include stress, anxiety, depression, certain foods, and medications. Diagnostic evaluation for dyspepsia should exclude organic causes such as peptic ulcer disease, gastroesophageal reflux disease, gastric malignancy, biliary disease, and medication-related dyspepsia.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 5,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "58세 남성이 3개월 이상 지속된 상복부 통증과 소화불량으로 내원하였다. 환자는 관절염으로 6개월 전부터 디클로페낙을 하루 100mg씩 복용 중이며, 최근에는 아스피린 100mg을 고지혈증으로 인해 복용하기 시작했다. 통증은 공복 시 심해지며, 식사 후 일시적으로 완화되는 양상이다. 1주일 전부터 흑색변이 있었다고 한다. 환자는 5년 전 H. pylori 감염으로 제균 치료를 받은 적이 있으며, 2-3년 전부터 가슴 쓰림으로 제산제를 간헐적으로 복용해 왔다. 신체 검사에서 상복부 압통이 있었고, 직장 수지 검사에서 흑색변이 확인되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: Hb 10.5 g/dL, MCV 80 fL, BUN 25 mg/dL, Creatinine 1.0 mg/dL\n상부위장관내시경: 십이지장 구부에 1.5cm 크기의 궤양, 활동성 출혈 없음\n조직검사: 만성 활동성 염증, 악성 소견 없음\n신속 요소분해효소 검사(CLO test): 음성",
+  "options": {
+    "A": "양성자펌프억제제(PPI) 4주 투여와 디클로페낙 유지",
+    "B": "PPI 투여와 디클로페낙을 COX-2 선택적 억제제로 교체",
+    "C": "PPI 투여, NSAID 중단, 철분제 보충",
+    "D": "PPI 투여, NSAID 중단, H. pylori 재치료",
+    "E": "PPI 투여, 항혈소판제와 NSAID 모두 유지"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 NSAID(디클로페낙, 아스피린) 사용과 관련된 소화성 궤양과 그로 인한 상부위장관 출혈(흑색변과 빈혈)이 있는 상태이다. NSAID 관련 소화성 궤양의 치료 원칙은 1) 원인 약물 중단, 2) 산 억제 치료(주로 PPI), 3) 출혈에 의한 빈혈이 있는 경우 철분 보충이다. 이 환자의 경우 H. pylori 신속 요소분해효소 검사가 음성으로, 현재 H. pylori 감염은 없는 상태이다. 따라서 가장 적합한 치료는 PPI 투여와 함께 NSAID(디클로페낙, 아스피린)를 중단하고, 출혈로 인한 빈혈(Hb 10.5 g/dL)을 교정하기 위해 철분제를 보충하는 것이다. 양성자펌프억제제(PPI)는 소화성 궤양 치료의 근간으로, 산 분비를 억제하여 궤양 치유를 촉진하고 출혈 위험을 감소시킨다. PPI 4주 투여와 디클로페낙 유지(A)는 지속적인 NSAID 사용으로 궤양 치유가 지연되고 출혈이 지속될 수 있어 적절하지 않다. PPI 투여와 디클로페낙을 COX-2 선택적 억제제로 교체(B)하는 방법도 소화성 궤양과 출혈이 이미 발생한 상태에서는 적절하지 않다. COX-2 선택적 억제제는 일반 NSAID보다 소화성 궤양 위험이 낮으나, 이미 발생한 궤양 환자에서는 모든 NSAID를 중단하는 것이 원칙이다. 또한 이 환자는 아스피린도 복용 중이므로, 아스피린에 의한 출혈 위험도 고려해야 한다. H. pylori 검사가 음성이므로 H. pylori 재치료(D)는 필요하지 않다. PPI 투여하면서 항혈소판제와 NSAID 모두 유지(E)하는 것은 이미 소화성 궤양과 출혈이 있는 상태에서 위험을 증가시키므로 적절하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'NSAID-induced ulcers and their complications are managed by discontinuing the offending agent, initiating acid-suppressive therapy (typically with a proton pump inhibitor), and treating H. pylori infection if present. For patients with NSAID-associated bleeding ulcers, NSAIDs should be discontinued if possible. If NSAIDs must be continued due to severe arthritis or vascular disease, a PPI should be co-prescribed indefinitely. For high-risk patients who require continued NSAID therapy (those with a history of ulcer complications or multiple risk factors), strategies to reduce the risk of recurrent ulcer include switching to a COX-2 selective inhibitor, adding a PPI to the NSAID regimen, or adding misoprostol to the NSAID regimen. However, if an ulcer is already present and actively bleeding, all NSAIDs should ideally be discontinued until complete healing has occurred. Iron supplementation should be considered for patients with iron deficiency anemia due to chronic blood loss from NSAID-induced ulcers.'",
+  "category": "Gastroenterology"
+},
+
 {
   "question_id": 1,
   "chief complaint": "허리통증",
