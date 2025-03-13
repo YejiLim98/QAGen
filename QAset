@@ -1236,7 +1236,232 @@
     "content": "In suspected aortic dissection, the initial diagnostic test of choice is computed tomographic angiography (CTA) due to its high sensitivity (95-98%) and specificity (94-100%). The primary goals of medical therapy in acute aortic dissection are to control pain and to reduce systolic blood pressure and heart rate in order to decrease aortic wall stress (dP/dt). The target systolic blood pressure should be between 100 and 120 mmHg, and heart rate should be reduced to 60-80 beats per minute. This is best achieved with intravenous beta-blockers (e.g., esmolol, propranolol, metoprolol, or labetalol) as first-line agents due to their ability to reduce heart rate, blood pressure, and myocardial contractility. If additional antihypertensive medication is needed after adequate beta-blockade, vasodilators such as sodium nitroprusside can be added. However, vasodilators should never be used alone, as they can increase aortic wall stress by increasing heart rate and contractility through reflex sympathetic activation."
   },
   "category": "Emergency Medicine"
-}
+}, 
+{
+  "question_id": 61,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 필요한 영상의학 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "58세 남성이 사다리에서 약 3m 높이에서 떨어진 후 발생한 허리 통증 및 보행 장애를 주소로 응급실에 내원하였다. 환자는 떨어진 직후 요추부 통증이 있었으며, 점차 악화되어 현재는 기립 및 보행이 어렵다고 한다. 신경학적 검사에서 양측 하지 근력은 정상이나, 제4요추 피부분절 이하로 감각 저하가 있고, 항문 주위 감각도 저하되어 있다. 응급실에서 시행한 요추 단순 X-선 검사에서 제3요추 압박 골절이 의심되어 추가 검사가 필요한 상황이다. 이 환자의 진단을 위해 가장 적절한 추가 영상 검사와 그 이유는?",
+  "exam": "요추 단순 X-선 검사: 제3요추체의 높이가 약 40% 감소된 상태로, 후방 피질골은 유지되어 있다.",
+  "options": {
+    "A": "요추 CT - 골절의 정확한 형태와 척추관 침범 여부를 평가하기 위해",
+    "B": "요추 MRI - 척수 신경과 인대 손상, 척추관내 혈종 여부를 평가하기 위해",
+    "C": "골스캔 - 다발성 척추 골절 여부를 평가하기 위해",
+    "D": "척수조영술 - 척수강내 압박 정도를 평가하기 위해",
+    "E": "요추 동맥조영술 - 척추동맥 손상 여부를 평가하기 위해"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 고에너지 낙상 후 요추 압박 골절이 발생하였으며, 신경학적 검사에서 제4요추 피부분절 이하의 감각 저하와 항문 주위 감각 저하 소견이 있어 신경학적 손상을 동반한 척추 손상이 의심됩니다. 이러한 경우, 요추 MRI가 가장 적절한 추가 영상 검사입니다. MRI는 연부조직, 특히 척수, 신경근, 인대, 추간판 등의 평가에 가장 우수한 영상 기법입니다. 신경학적 증상이 있는 척추 외상 환자에서 MRI는 척수 압박, 척수 손상, 경막외 혈종, 후방 인대 복합체 손상 등을 직접적으로 평가할 수 있어 필수적입니다. 특히 이 환자의 경우 감각 저하와 항문 주위 감각 저하가 있어 마미증후군(cauda equina syndrome)의 가능성을 배제할 수 없으므로, 척수 원추와 마미의 상태를 평가할 수 있는 MRI가 반드시 필요합니다. 요추 CT는 골절의 세부적인 형태와 척추관 침범 여부를 평가하는 데 유용하지만, 연부조직 손상이나 척수 손상을 직접적으로 평가하기 어렵습니다. 골스캔은 다발성 골절이나 잠재적 골절을 평가하는 데 유용하지만, 급성기에 신경학적 증상이 있는 환자에서는 우선적인 검사가 아닙니다. 척수조영술은 과거에 척수 압박을 평가하는 데 사용되었으나, 현재는 MRI가 이를 대체하였습니다. 요추 동맥조영술은 척추 외상 평가에 일반적으로 사용되지 않으며, 척추동맥은 경추부에 위치하므로 요추부 손상 평가에 적절하지 않습니다.",
+  "source": {
+    "file_name": "Spine Trauma: Surgical Techniques",
+    "content": "In patients with spinal trauma who present with neurological deficits, MRI is the imaging modality of choice to evaluate the neural elements, ligamentous structures, and presence of spinal cord compression or injury. MRI can directly visualize the spinal cord, nerve roots, intervertebral discs, and paraspinal soft tissues, providing crucial information about neural compression, epidural hematoma, disc herniation, and ligamentous injury that may not be apparent on CT or plain radiographs. In cases where cauda equina syndrome is suspected (indicated by saddle anesthesia, bladder/bowel dysfunction, or progressive neurological deficits), emergent MRI is mandatory to guide appropriate surgical intervention. While CT provides excellent detail of bony architecture, it is less sensitive for detecting soft tissue and neural injuries that commonly accompany vertebral fractures with neurological deficits."
+  },
+  "category": "Orthopedic Surgery"
+}, 
+{
+  "question_id": 62,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게 기본적인 응급처치를 할 수 있다.",
+  "question": "15세 남학생이 축구 경기 중 넘어지면서 좌측 손목을 과신전한 후 발생한 통증과 변형을 주소로 응급실에 내원하였다. 환자는 손목이 "포크처럼 변형되었다"고 표현하였다. 신체 검진에서 좌측 원위 요골 부위의 배측 각형성 변형과 심한 압통이 관찰되며, 손목 움직임에 제한이 있으나 수지 운동 및 감각은 정상이다. 단순 X-선 검사에서 원위 요골 골절이 확인되었다. 이 환자에게 응급실에서 시행해야 할 가장 적절한 초기 처치는?",
+  "exam": "좌측 손목 X-선 검사에서 원위 요골의 20도 배측 각형성과 5mm의 단축이 관찰되는 완전 골절이 확인되었다. 신경혈관학적 검사 결과: 요골동맥 맥박 2+/4+, 척골동맥 맥박 2+/4+, 모세혈관 재충전 시간 2초, 손가락 전체의 감각 점수 2점/2점(정상), 수지 굴곡 및 신전 근력 5/5, Two-point discrimination 검사 5mm, Allen 검사 음성이다.",
+  "options": {
+    "A": "즉시 수술적 정복 및 내고정술을 시행한다.",
+    "B": "석고고정 없이 팔걸이만 착용하고 3일 후 재평가한다.",
+    "C": "진통제 투여 후 도수 정복을 시행하고 장상지 석고고정을 적용한다.",
+    "D": "부목고정 없이 냉찜질과 압박드레싱만 적용한다.",
+    "E": "관혈적 정복 없이 경피적 핀고정술을 즉시 시행한다."
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전형적인 원위 요골 골절(Colles' 골절)의 증상 및 방사선학적 소견을 보이고 있습니다. 원위 요골 골절은 손목이 과신전된 상태에서 낙상하여 손바닥으로 지면을 짚을 때 흔히 발생하며, 특징적인 'dinner fork' 변형(배측 각형성)이 나타납니다. X-선 검사에서 20도의 배측 각형성과 5mm의 단축이 있는 완전 골절로, 변형이 심하여 정복이 필요한 상태입니다. 이러한 변위된 원위 요골 골절의 초기 응급 처치는 적절한 진통 및 진정제 투여 후 도수 정복을 시행하고, 장상지 석고고정(long arm cast)을 적용하는 것입니다. 도수 정복은 종축 견인 및 굴곡력을 가하여 변형된 골절편을 해부학적 위치로 복원하는 과정입니다. 정복 후에는 재변위 방지를 위해 장상지 석고고정을 적용하며, 이후 정기적인 X-선 추적검사를 통해 정복 상태를 확인해야 합니다. 즉각적인 수술적 처치(내고정술)는 일반적으로 응급 상황이 아니며, 도수 정복이 실패하거나 불안정한 골절, 관절내 골절, 개방성 골절 등의 특정 적응증이 있을 때 고려합니다. 석고고정 없이 팔걸이만 착용하는 것은 변위가 없는 안정적인 골절에서 고려할 수 있으나, 이 환자와 같이 변위가 있는 경우에는 부적절합니다. 부목고정 없이 냉찜질과 압박드레싱만 적용하는 것은 골절이 아닌 단순 염좌나 타박상에 적합한 처치입니다. 경피적 핀고정술은 도수 정복 후 불안정성이 있는 경우에 고려할 수 있는 수술적 방법이지만, 초기 응급 처치로는 적절하지 않습니다.",
+  "source": {
+    "file_name": "Emergency Orthopaedics: The Extremities",
+    "content": "The initial emergency management of a displaced distal radius fracture involves analgesia, closed reduction, and immobilization. Procedural sedation or a hematoma block may be used for pain control during reduction. The reduction maneuver typically involves longitudinal traction combined with flexion and ulnar deviation to restore alignment. After reduction, a long arm cast or sugar-tong splint should be applied with the wrist in slight flexion and ulnar deviation to prevent re-displacement. Post-reduction radiographs should be obtained to confirm adequate reduction. Acceptable reduction parameters include radial inclination >15 degrees, radial height >5 mm, and volar tilt of 0-10 degrees (neutral to slight volar angulation). Operative management is generally not emergent and can be scheduled on an elective basis if closed reduction fails to achieve or maintain acceptable alignment."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 63,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게 손상 부위에 대한 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "45세 남성이 교통사고 후 우측 대퇴부 통증, 변형 및 개방성 상처를 주소로 응급실에 내원하였다. 환자는 승용차 운전 중 정면 충돌 사고를 당했으며, 우측 대퇴부가 대시보드에 부딪혔다고 한다. 신체 검진에서 우측 대퇴부 중간 부위에 약 5cm 길이의 개방성 상처가 있으며, 상처를 통해 골편이 관찰된다. 대퇴부는 심하게 부어 있고 변형되어 있으며, 원위부의 맥박은 촉지되나 약하다. 활력 징후는 혈압 100/60 mmHg, 맥박 110회/분, 호흡수 22회/분, 체온 36.5℃이다. 이 환자의 치료 계획으로 가장 적절한 것은?",
+  "exam": " 혈액 검사: 혈색소 11.2 g/dL, 백혈구 14,000/μL. 우측 대퇴골 방사선 검사: 대퇴골 간부 중간 1/3 지점의 분쇄 골절과 약 3cm의 골 결손이 관찰된다.",
+  "options": {
+    "A": "상처 봉합 후 석고 고정 및 항생제 투여",
+    "B": "단순 변연절제술 후 외고정장치 적용 및 항생제 투여",
+    "C": "긴급 철저한 변연절제술, 세척, 개방성 골절 분류에 따른 항생제 투여 및 내고정술 또는 외고정술",
+    "D": "긴급 대퇴골 골수강내 못고정술 및 경구 항생제 투여",
+    "E": "골 이식술 및 내고정술을 위한 예정 수술 계획 수립 및 관찰"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 교통사고 후 발생한 개방성 대퇴골 간부 분쇄 골절로, 개방성 골절의 초기 치료 원칙에 따라 관리해야 합니다. 개방성 골절의 기본 치료 원칙은 철저한 변연절제술과 세척, 적절한 항생제 투여, 그리고 안정적인 고정입니다. 개방성 골절은 외부 환경에 노출되어 감염 위험이 높으므로, 응급 수술을 통한 철저한 변연절제술과 세척이 필수적입니다. 이는 괴사 조직, 이물질, 오염된 조직을 제거하고 감염 위험을 최소화하기 위한 것입니다. 항생제는 개방성 골절 분류(Gustilo-Anderson 분류)에 따라 적절하게 선택해야 합니다. 일반적으로 1세대 세팔로스포린이 기본이며, 오염이 심한 경우 그람 음성균과 혐기성균을 추가로 커버하는 항생제를 고려합니다. 골절 고정 방법은 골절의 유형, 오염 정도, al 수상 부위에 따라 내고정 또는 외고정을 선택할 수 있습니다. 심한 오염이나 연부조직 손상이 있는 경우 일차적으로 외고정을 시행하고, 이후 연부조직 상태가 개선되면 내고정으로 전환할 수 있습니다. 본 환자의 경우 개방성 대퇴골 분쇄 골절로 골 결손이 있어, 철저한 변연절제술과 세척 후 상황에 따라 내고정 또는 외고정을 결정해야 합니다. 상처 봉합 후 석고 고정은 개방성 골절에 적합하지 않으며, 감염 위험을 증가시킬 수 있습니다. 단순 변연절제술은 충분하지 않을 수 있으며, 철저한 세척과 변연절제가 필요합니다. 긴급 골수강내 못고정술은 철저한 변연절제술과 세척 없이 시행할 경우 감염 위험을 높일 수 있습니다. 예정 수술을 위한 관찰은 개방성 골절의 응급 처치 원칙에 부합하지 않으며, 감염 위험을 증가시킬 수 있습니다.",
+  "source": {
+    "file_name": "Campbell's Operative Orthopaedics",
+    "content": "The management of open fractures follows several key principles: urgent surgical debridement and irrigation, appropriate antibiotic therapy, fracture stabilization, and soft tissue coverage. Surgical debridement should be thorough, removing all devitalized tissue, foreign material, and contamination to reduce infection risk. Antibiotics should be administered as soon as possible, with regimens based on the Gustilo-Anderson classification: type I and II typically receive cefazolin, while type III may require additional coverage for gram-negative and anaerobic organisms. Fracture stabilization can be achieved through external fixation or internal fixation, depending on the degree of contamination, soft tissue injury, and fracture pattern. Severely contaminated wounds or those with significant soft tissue damage may benefit from initial external fixation, with possible conversion to internal fixation once soft tissue concerns have resolved. Delayed primary closure or soft tissue reconstruction may be necessary depending on the wound status."
+  },
+  "category": "Orthopedic Surgery"
+}, 
+{
+  "question_id": 64,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 병력청취와 신체진찰로 손상 부위 및 중증도를 평가할 수 있다.",
+  "question": "75세 여성이 집에서 화장실로 가던 중 넘어져 발생한 우측 고관절 통증을 주소로 응급실에 내원하였다. 환자는 최근 3개월간 3번의 낙상 경험이 있으며, 2년 전 시행한 골밀도 검사에서 T-score -2.8이었으나 약물치료는 받지 않았다고 한다. 신체 검진에서 환자는 우측 하지를 외회전시킨 채 움직이지 못하고, 우측 서혜부에 압통이 있으며, 수동적 움직임에도 심한 통증을 호소한다. 활력 징후는 혈압 130/85 mmHg, 맥박 92회/분, 호흡수 18회/분, 체온 36.6℃이다. 환자는 저체중(BMI 18.5 kg/m²)이며, 하지의 신경혈관학적 검사는 정상이다. 기립 시 균형 검사에서 경미한 불안정성이 관찰된다. 이 환자의 낙상 위험 요인 및 병리적 골절 가능성 평가를 위해 가장 적절한 추가 병력 청취 항목은?",
+  "exam": " ",
+  "options": {	
+    "A": "가족 내 골다공증 병력 및 현재 복용 중인 약물(특히 스테로이드, 항경련제)",
+    "B": "이전 교통사고 병력 및 허리 통증 유무",
+    "C": "알코올 섭취량 및 흡연 여부",
+    "D": "일상생활 수행능력 및 운동 습관",
+    "E": "이전 골절 병력 및 골다공증 치료 여부"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 75세 여성으로 경미한 낙상 후 고관절 골절이 의심되는 상황이며, 최근 반복적인 낙상 병력과 골다공증 소견(T-score -2.8)이 있어 병리적 골절의 가능성이 높습니다. 골다공증성 골절의 위험 인자를 평가하기 위해서는 가족 내 골다공증 병력과 현재 복용 중인 약물을 확인하는 것이 중요합니다. 특히 장기간의 스테로이드 사용은 골밀도를 감소시키는 주요 원인이며, 항경련제(예: 페니토인, 카바마제핀), 프로톤펌프억제제, 아로마타제 억제제, 갑상선 호르몬 과다 등도 골다공증의 위험을 증가시킵니다. 가족력은 골다공증의 유전적 소인을 평가하는 데 중요합니다. 또한 약물에 의한 낙상 위험 증가(예: 진정제, 항정신병제, 항우울제 등)도 함께 평가해야 합니다. 이전 교통사고 병력 및 허리 통증 유무는 외상성 골절이나 척추 압박 골절을 평가하는 데 도움이 될 수 있으나, 현재 상황에서는 골다공증과 관련된 위험 인자 평가가 더 중요합니다. 알코올 섭취량 및 흡연 여부는 골다공증의 위험 인자이지만, 약물력과 가족력보다는 우선순위가 낮습니다. 일상생활 수행능력 및 운동 습관은 낙상 위험 및 치료 계획 수립에 중요하지만, 병리적 골절 위험 평가에는 상대적으로 덜 중요합니다. 이전 골절 병력 및 골다공증 치료 여부는 중요한 정보이지만, 문제에서 이미 골밀도 검사 결과와 치료 여부에 대한 정보가 제공되었습니다.",
+  "source": {
+    "file_name": "American Association of Clinical Endocrinologists/American College of Endocrinology Clinical Practice Guidelines for the Diagnosis and Treatment of Postmenopausal Osteoporosis",
+    "content": "When evaluating a patient with suspected osteoporosis, a thorough history and physical examination should be performed, with particular attention to risk factors for low bone mass, fractures, and falls. A detailed medication history is essential, as many commonly prescribed medications can adversely affect bone metabolism. Glucocorticoids are a leading cause of secondary osteoporosis, with as little as 2.5 mg of prednisone daily for 3 months increasing fracture risk. Other medications associated with bone loss include anticonvulsants (phenytoin, phenobarbital, carbamazepine), proton pump inhibitors, selective serotonin reuptake inhibitors, thiazolidinediones, aromatase inhibitors, androgen deprivation therapy, heparin, and excessive thyroid hormone. Family history of osteoporosis or fragility fractures, particularly in first-degree relatives, significantly increases one's risk of developing osteoporosis and should be specifically inquired about during the initial assessment."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 65,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 동반된 신경 및 혈관 손상 등을 파악할 수 있다.",
+  "question": "22세 남성이 오토바이 사고 후 우측 하지 통증과 변형을 주소로 응급실에 내원하였다. 환자는 약 80km/h 속도로 주행 중 트럭과 충돌했다고 한다. 신체 검진에서 우측 대퇴부와 하퇴부에 다발성 열상과 심한 부종이 관찰되며, 우측 하퇴부는 전체적으로 긴장되어 있고 단단하게 만져진다. 우측 발의 족배 동맥 맥박은 촉지되지 않으며, 발가락 움직임 시 심한 통증을 호소한다. 방사선 검사에서 우측 경골 및 비골의 분쇄 골절이 확인되었다. 이 환자에게 가장 의심해야 할 합병증과 즉각적인 처치는?",
+  "exam": "우측 발의 모세혈관 재충전 시간은 4초 이상 지연되어 있고, 발가락의 감각은 저하되어 있다. 족배 동맥과 후경골 동맥의 맥박은 도플러를 이용해도 감지되지 않는다.",
+  "options": {
+    "A": "동맥 손상 - 즉각적인 혈관 조영술 및 혈관 재건술",
+    "B": "구획 증후군 - 응급 근막 절개술",
+    "C": "신경 손상 - 근전도 검사 및 신경 탐색술",
+    "D": "심부정맥 혈전증 - 항응고제 투여 및 하지 거상",
+    "E": "지방 색전증 - 산소 공급 및 수액 요법"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 고에너지 외상(오토바이 사고)으로 인한 경골 및 비골의 분쇄 골절이 있으며, 하퇴부 구획 증후군의 전형적인 임상 소견을 보이고 있습니다. 하퇴부 구획 증후군은 근막으로 둘러싸인 폐쇄된 공간 내 압력이 상승하여 혈액 순환이 저하되고 신경 및 근육 손상이 발생하는 응급 상황입니다. 이 환자의 경우 하퇴부가 전체적으로 긴장되고 단단하게 만져지며, 수동적 발가락 신전 시 심한 통증(passive stretch pain)이 유발되는 특징적인 소견을 보입니다. 또한 원위부 맥박 소실, 모세혈관 재충전 시간 지연, 감각 저하 등의 허혈성 변화가 동반되어 있습니다. 구획 증후군은 가장 초기에 나타나는 증상이 passive stretch pain(수동적 신전 통증)이며, 이후 감각 저하, 마비, 맥박 소실 순으로 진행합니다. 맥박 소실은 후기 소견으로, 이 시점에서는 이미 상당한 조직 손상이 진행된 상태입니다. 구획 증후군이 의심되는 경우 확진을 위해 구획압 측정을 할 수 있으나, 임상적으로 명확한 경우 지체 없이 응급 근막 절개술을 시행해야 합니다. 근막 절개술은
+구획 내 압력을 감소시켜 혈류를 회복시키고 추가적인 조직 괴사를 방지하는 유일한 치료법입니다. 치료가 지연될 경우 비가역적인 신경 및 근육 손상, 허혈성 구축, 심지어 절단이 필요할 수 있습니다. 동맥 손상은 맥박 소실과 모세혈관 재충전 시간 지연을 설명할 수 있으나, 사지가 단단하고 긴장된 상태와 passive stretch pain은 설명하지 못합니다. 신경 손상도 감각 저하를 설명할 수 있으나, 하퇴부 전체가 단단하고 긴장된 상태는 설명하지 못합니다. 심부정맥 혈전증은 일반적으로 외상 후 수일 내에 발생하며, 이 환자와 같은 급성기 증상을 설명하지 못합니다. 지방 색전증은 주로 장골 골절 후 발생하는 전신적 합병증으로, 국소적인 하퇴부 증상을 설명하지 못합니다.",
+  "source": {
+    "file_name": "Rockwood and Green's Fractures in Adults",
+    "content": "Compartment syndrome is a surgical emergency characterized by increased pressure within a closed fascial space, leading to compromised circulation and tissue ischemia. The classic signs of compartment syndrome include pain out of proportion to the injury, pain on passive stretch of muscles within the affected compartment, paresthesia, pallor, and pulselessness. However, it's critical to note that pulselessness is a late finding, and waiting for this sign may result in irreversible tissue damage. The most sensitive early clinical finding is pain on passive stretching of muscles within the affected compartment. In the lower leg, this is assessed by passively dorsiflexing or plantarflexing the patient's toes and ankle. Definitive diagnosis is made by measuring compartment pressures, with absolute pressures >30 mmHg or pressures within 30 mmHg of diastolic blood pressure indicating the need for fasciotomy. However, in cases with clear clinical signs, treatment should not be delayed for pressure measurements. Emergency fasciotomy is the only effective treatment, involving the release of all compartments through appropriate surgical incisions. Delay in diagnosis and treatment can lead to irreversible muscle and nerve damage, ischemic contractures, and potentially limb amputation."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 66,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 병력청취와 신체진찰로 손상 부위 및 중증도를 평가할 수 있다.",
+  "question": "28세 남성이 오토바이 사고 후 우측 골반 및 고관절 통증을 주소로 응급실에 내원하였다. 환자는 약 90km/h 속도로 주행 중 자동차와 충돌했으며, 현장에서 의식은 있었으나 심한 통증을 호소했다고 한다. 환자는 현재 혈압 95/60mmHg, 맥박 120회/분, 호흡수 24회/분, 의식은 명료하나 창백하고 다량의 발한이 관찰된다. 신체 검진에서 우측 하지는 단축되고 외회전된 상태이며, 골반 압박 시 불안정성과 심한 통증이 유발된다. 복부 진찰에서 하복부 압통이 있으며, 직장 검진에서 전립선 위치는 정상이고 혈액은 관찰되지 않는다. 흉부 및 척추 검진에서 뚜렷한 이상 소견은 없다. 이 환자의 일차 평가에서 가장 우선시해야 할 항목은?",
+  "exam": "FAST(Focused Assessment with Sonography for Trauma): 골반강 내 체액 저류가 확인됨.",
+  "options": {
+    "A": "골반부 컴퓨터단층촬영(CT)을 통한 골절 및 출혈 부위 확인",
+    "B": "Kocher-Langenbeck 접근법을 통한 관혈적 정복 및 내고정술",
+    "C": "혈역학적 불안정성 교정을 위한 수액 소생술 및 골반 안정화 처치",
+    "D": "관절경을 이용한 고관절 손상 평가",
+    "E": "대퇴 견인을 통한 고관절 정복 시도"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 고에너지 외상(오토바이 사고)으로 인한 골반 및 고관절 손상이 의심되며, 저혈압, 빈맥, 창백함, 발한 등 출혈성 쇼크의 징후를 보이고 있습니다. 또한 골반 불안정성이 확인되고 FAST에서 골반강 내 체액 저류가 관찰되어, 골반 골절과 연관된 주요 혈관 손상 및 출혈이 동반된 것으로 판단됩니다. 불안정성 골반 골절은 생명을 위협하는 심각한 손상으로, 골반 내 주요 혈관(내장골동맥 분지, 정맥총) 손상으로 인해 대량 출혈이 발생할 수 있습니다. 따라서 이러한 환자에서 가장 우선시해야 할 것은 혈역학적 안정화와 골반 안정화입니다. 구체적으로는 수액 소생술(정질액, 교질액), 필요시 수혈, 그리고 골반 안정화 처치(골반 바인더, 외고정장치, C-clamp 등)가 포함됩니다. 골반 안정화는 골절편을 정렬하여 출혈 부위를 압박하고, 골반 용적을 감소시켜 지혈 효과를 높이는 목적이 있습니다. 이러한 초기 소생술과 안정화 처치는 환자의 생존율을 높이는 핵심적인 요소입니다. 골반부 CT는 정확한 골절 양상과 출혈 부위를 평가하는 데 중요하지만, 혈역학적으로 불안정한 환자에서는 우선적으로 혈역학적 안정화가 이루어진 후에 시행해야 합니다. Kocher-Langenbeck 접근법을 통한 관혈적 정복 및 내고정술은 주로 후방 골반환 또는 비구 골절에 대한 치료법으로, 급성기 소생 단계에서 시행하는 것은 적절하지 않습니다. 관절경을 이용한 고관절 손상 평가는 급성 외상 상황, 특히 불안정한 환자에서는 우선순위가 낮습니다. 대퇴 견인을 통한 고관절 정복 시도는 고관절 탈구가 명확히 확인된 경우에 고려할 수 있으나, 현재 환자의 주요 문제는 골반 불안정성과 연관된 출혈성 쇼크로 판단되므로 혈역학적 안정화가 우선입니다.",
+  "source": {
+    "file_name": "Advanced Trauma Life Support (ATLS) Student Course Manual",
+    "content": "Pelvic fractures associated with hemodynamic instability represent life-threatening injuries requiring immediate recognition and intervention. In the primary survey of a trauma patient with suspected pelvic trauma, the priority is to identify and manage potentially lethal hemorrhage. Signs of hemodynamic instability (hypotension, tachycardia, pallor, diaphoresis) in conjunction with physical examination findings of pelvic instability and positive FAST examination indicating fluid in the pelvis necessitate immediate action. The initial management should focus on hemorrhage control through fluid resuscitation (crystalloids, blood products as indicated) and mechanical stabilization of the pelvis. Application of a pelvic binder, sheet, or external fixator reduces pelvic volume, approximates fracture surfaces, and provides tamponade of venous bleeding. This should be performed before moving the patient for imaging studies. Definitive imaging with CT scan and angiography, while valuable for comprehensive assessment, should be deferred until the patient is hemodynamically stabilized. Early mechanical stabilization of unstable pelvic fractures is a critical intervention that can significantly reduce mortality in these challenging injuries."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 67,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 필요한 영상의학 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "78세 남성이 기침 후 갑자기 발생한 요추부 통증을 주소로 응급실에 내원하였다. 환자는 2년 전 전립선암을 진단받고 호르몬 치료를 받고 있으며, 6개월 전부터 간헐적인 요통이 있었으나 별다른 치료 없이 지내왔다고 한다. 내원 당일 심한 기침 후 갑작스러운 요추부 통증이 발생하여 거동이 어려워졌다고 한다. 활력 징후는 안정적이다. 신체 검진에서 제12흉추-제2요추 부위에 압통이 있으나, 하지 근력 및 감각은 정상이다. 이 환자의 병리적 골절 가능성을 평가하기 위해 가장 적절한 추가 검사는?",
+  "exam": " 단순 X-선 검사: 제1요추 추체 높이가 약 40% 감소된 압박 골절 소견과 추체 후방 피질골의 불규칙한 음영이 관찰된다. 혈액 검사: 알칼리 인산분해효소 250 U/L(정상 40-130), PSA 15 ng/mL(정상 <4).",
+  "options": {
+    "A": "척추 CT 검사",
+    "B": "척추 MRI 검사",
+    "C": "골밀도 검사(DEXA)",
+    "D": "골스캔",
+    "E": "PET-CT 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 전립선암 병력이 있고 경미한 외상(기침) 후 발생한 척추 압박 골절로, 병리적 골절(전이성 골절)의 가능성이 높은 상황입니다. 다음과 같은 소견들이 병리적 골절을 강하게 시사합니다: 1) 전립선암 병력(척추는 전립선암의 흔한 전이 부위), 2) 6개월 전부터의 간헐적 요통(잠재적 전이 병변의 존재), 3) 경미한 외상 후 발생한 골절, 4) X-선 검사에서 추체 후방 피질골의 불규칙한 음영, 5) 알칼리 인산분해효소와 PSA의 상승(활동성 전립선암 및 골 전이 가능성). 이러한 환자에서 병리적 골절을 평가하기 위한 가장 적절한 영상 검사는 척추 MRI입니다. MRI는 골수 침범 정도, 종양의 척추관 침범 여부, 척수 압박 유무, 주변 연부조직 침범 등을 평가하는 데 가장 우수한 검사법입니다. 특히 T1 강조영상에서 골수의 신호 변화와 조영증강 패턴은 양성과 악성 골절을 감별하는 데 중요한 정보를 제공합니다. 또한 MRI는 다발성 전이 병변의 존재 여부도 평가할 수 있어, 치료 계획 수립에 필수적입니다. 척추 CT는 골절의 형태와 불안정성을 평가하는 데 유용하지만, 종양의 골수 침범 정도나 척수 압박을 평가하는 데는 MRI보다 제한적입니다. 골밀도 검사는 골다공증의 진단 및 정도 평가에 유용하지만, 이 환자와 같이 병리적 골절이 의심되는 경우에는 우선적인 검사가 아닙니다. 골스캔은 전신 골격계의 전이 여부를 선별하는 데 유용하지만, 특정 척추 병변의 상세한 평가에는 제한적입니다. PET-CT는 전신의 종양 평가에 유용하나, 급성 골절에서는 위양성 가능성이 있어 해석에 주의가 필요하며, 척추의 국소 병변 평가에는 MRI가 더 적합합니다.",
+  "source": {
+    "file_name": "European Spine Journal: Management of Metastatic Spinal Lesions",
+    "content": "In patients with a history of cancer who present with vertebral fractures, particularly after minimal trauma, pathological fractures due to metastatic disease should be strongly suspected. MRI is the imaging modality of choice for evaluating suspected pathological vertebral fractures, offering superior soft tissue contrast that allows assessment of bone marrow involvement, epidural extension, spinal cord compression, and paraspinal soft tissue invasion. On T1-weighted images, metastatic lesions typically appear hypointense relative to normal bone marrow, while T2-weighted and STIR sequences show hyperintense signal. Contrast enhancement patterns and diffusion restriction can further aid in differentiating between benign compression fractures (such as those due to osteoporosis) and malignant infiltration. MRI is also valuable for detecting additional occult lesions that may not be apparent on conventional radiographs. In patients with prostate cancer specifically, MRI findings suggestive of metastatic involvement include posterior cortical bulging, pathological enhancement patterns, and presence of a soft tissue mass. These imaging characteristics, combined with elevated PSA and alkaline phosphatase levels, substantially increase the likelihood of spinal metastases rather than benign osteoporotic fractures."
+  },
+  "category": "Radiology"
+}, 
+{
+  "question_id": 68,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 병력청취와 신체진찰로 손상 부위 및 중증도를 평가할 수 있다.",
+  "question": "43세 남성이 작업장에서 무거운 기계 아래에 우측 발이 깔린 후 발생한 통증과 부종을 주소로 응급실에 내원하였다. 환자는 약 100kg 무게의 기계가 1m 높이에서 발등 위로 떨어졌다고 한다. 신체 검진에서 우측 발등의 심한 부종, 압통, 반상출혈이 관찰되며, 발가락 움직임 시 심한 통증을 호소한다. 이 환자의 손상 기전과 임상 양상을 고려할 때 가장 의심해야 할 손상은?",
+  "exam": "우측 발 X-선 검사: 제2, 3, 4번 중족골의 분쇄 골절이 확인되었으며, 원위 골편의 족저 변위가 관찰된다. 발등의 피부는 온전하나 심한 부종과 긴장감이 있으며, 모세혈관 재충전 시간은 정상이다.",
+  "options": {
+    "A": "Lisfranc 인대 손상",
+    "B": "거골하 관절 탈구",
+    "C": "종골 골절",
+    "D": "족부 구획 증후군",
+    "E": "족저근막 파열"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 고에너지 압박 손상으로 인한 중족골 분쇄 골절이 확인되었으며, 족부 구획 증후군(compartment syndrome)의 발생 위험이 매우 높은 상황입니다. 족부는 9개의 구획으로 나뉘어 있으며, 고에너지 압박 손상 후 연부조직 손상과 출혈로 인해 구획 내 압력이 상승하면 구획 증후군이 발생할 수 있습니다. 이 환자의 경우 심한 부종, 발등의 긴장감(tension), 그리고 발가락 움직임 시 심한 통증(passive stretch pain)이 있어 구획 증후군을 강하게 시사합니다. 특히 압박 손상과 분쇄 골절은 구획 증후군의 주요 위험 요인입니다. 족부 구획 증후군은 종종 간과되기 쉬우나, 조기 진단과 치료(근막 절개술)가 이루어지지 않으면 영구적인 근육 및 신경 손상, 변형, 기능 장애를 초래할 수 있습니다. Lisfranc 인대 손상은 중족-족근 관절의 불안정성을 특징으로 하며, 주로 발의 비틀림 손상에 의해 발생합니다. 거골하 관절 탈구는 주로 높은 곳에서의 낙상이나 교통사고와 같은 고에너지 외상에 의해 발생하며, 후족부의 현저한 변형이 동반됩니다. 종골 골절은 주로 높은 곳에서의 수직 낙하 시 발뒤꿈치로 착지할 때 발생하며, 후족부 통증과 변형이 특징입니다. 족저근막 파열은 주로 과사용이나 갑작스러운 부하에 의해 발생하며, 족저부 통증과 압통이 특징적입니다.",
+  "source": {
+    "file_name": "Campbell's Operative Orthopaedics",
+    "content": "Foot compartment syndrome is a serious condition that can occur following high-energy crush injuries, fractures (particularly comminuted metatarsal fractures), and severe soft tissue injuries. The foot contains nine compartments, all of which are susceptible to elevated pressures following trauma. Clinical signs suggestive of foot compartment syndrome include severe pain disproportionate to the injury, pain with passive stretching of the toes, tense swelling of the foot, and hypoesthesia in the web spaces between toes. Unlike compartment syndrome in other locations, pulses and capillary refill may remain normal in foot compartment syndrome due to the rich collateral circulation. Diagnosis can be confirmed with compartment pressure measurements, with pressures >30 mmHg or within 30 mmHg of diastolic pressure indicating the need for fasciotomy. Early recognition and prompt surgical decompression through appropriate fasciotomy incisions are essential to prevent irreversible muscle necrosis, nerve damage, contractures, and severe functional impairment. A high index of suspicion must be maintained in crush injuries, as foot compartment syndrome is often underdiagnosed."
+  },
+  "category": "Orthopedic Surgery"
+}, 
+{
+  "question_id": 69,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게서 병력청취와 신체진찰로 손상 부위 및 중증도를 평가할 수 있다.",
+  "question": "35세 남성이 스키를 타다가 넘어진 후 발생한 우측 무릎 통증을 주소로 스키 리조트 의무실에 내원하였다. 환자는 가파른 슬로프에서 고속으로 주행하던 중 갑자기 방향을 바꾸려다 넘어졌으며, 무릎이 비틀리는 느낌과 함께 '뚝'하는 소리를 들었다고 한다. 넘어진 후 즉시 심한 통증과 부종이 발생했으며, 체중 부하가 어렵다고 호소한다. 신체 검진에서 우측 무릎의 전반적인 부종과 압통이 있으며, 특히 무릎 내측에서 더 두드러진다. 이 환자의 병력과 임상 소견을 고려할 때, 가장 의심해야 할 손상은?",
+  "exam": "우측 무릎 신체 검진에서 전방 및 내측 관절선을 따라 압통이 있으며, 관절 내 삼출액이 확인된다. Lachman 검사에서 중등도의 양성 소견을 보이며, 내측 부하 검사에서도 양성 소견을 보인다. McMurray 검사에서는 내측 회전 시 통증이 악화된다.",
+  "options": {
+    "A": "슬개골 탈구",
+    "B": "내측 반월상 연골 파열",
+    "C": "전방십자인대 파열 및 내측측부인대 손상(O'Donoghue's triad)",
+    "D": "후방십자인대 파열",
+    "E": "대퇴골 과상부 골절"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 스키 손상으로 인한 전방십자인대(ACL) 파열과 내측측부인대(MCL) 손상이 의심되는 소견을 보이고 있습니다. 이러한 복합 손상은 종종 O'Donoghue's triad(불행한 삼주징)으로 알려져 있으며, ACL 파열, MCL 손상, 내측 반월상 연골 손상을 포함합니다. 스키 부상에서 이러한 손상은 흔히 회전력과 내반력(valgus force)의 복합적인 작용으로 발생합니다. 환자가 고속으로 방향 전환을 시도하다가 넘어지면서 무릎이 비틀리는 느낌과 함께 '뚝'하는 소리를 들었다는 병력은 ACL 파열의 전형적인 기전과 일치합니다. 신체 검진에서 Lachman 검사 양성은 ACL 손상을 강하게 시사하며, 내측 부하 검사 양성은 MCL 손상을 시사합니다. 또한 McMurray 검사에서 내측 회전 시 통증 악화는 내측 반월상 연골 손상 가능성을 시사합니다. 이러한 복합 무릎 인대 손상은 스키 부상에서 흔히 발생하며, 특히 고속에서의 회전 손상 시 더 빈번합니다. 슬개골 탈구는 일반적으로 직접적인 충격이나 강한 대퇴사두근 수축으로 발생하며, 눈에 띄는 변형과 슬개골의 외측 변위가 특징적입니다. 단독 내측 반월상 연골 파열은 가능하지만, 이 환자의 검사 소견은 더 복합적인 손상을 시사합니다. 후방십자인대 파열은 주로 무릎이 굴곡된 상태에서 경골 근위부에 가해지는 후방 직접 충격에 의해 발생하며, 후방 전위 검사 양성이 특징적입니다. 대퇴골 과상부 골절은 고에너지 외상에서 더 흔하며, 이 환자의 손상 기전과는 잘 부합하지 않습니다.",
+  "source": {
+    "file_name": "DeLee & Drez's Orthopaedic Sports Medicine",
+    "content": "Skiing injuries to the knee commonly involve the anterior cruciate ligament (ACL), often in combination with the medial collateral ligament (MCL) and medial meniscus - a pattern historically known as O'Donoghue's triad. The typical mechanism involves a valgus force combined with external rotation of the tibia or internal rotation of the femur, often occurring during attempted direction changes at high speed. The 'plant and twist' motion places significant stress on the ACL, which can be exacerbated by modern ski equipment that efficiently transfers forces to the knee while the boot and binding maintain the ankle in a relatively fixed position. Clinical examination revealing a positive Lachman test (indicating ACL insufficiency), medial joint line tenderness, pain with valgus stress (indicating MCL injury), and pain with McMurray testing (suggesting meniscal involvement) strongly points toward this combined injury pattern. Early recognition of this injury complex is crucial for proper management, as combined ligamentous injuries typically require surgical intervention and prolonged rehabilitation to restore knee stability and function."
+  },
+  "category": "Orthopedic Surgery"
+}, 
+{
+  "question_id": 70,
+  "chief_complaint": "골절/탈구",
+  "purpose": "골절/탈구를 갖고 있는 사람에게 손상 부위에 대한 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "82세 여성이 길을 걷다가 넘어진 후 발생한 우측 대퇴 근위부 통증으로 응급실에 내원하였다. 환자는 넘어지면서 우측 고관절에 직접적인 충격을 받았으며, 이후 보행이 불가능하다고 한다. 과거력상 고혈압, 당뇨병, 만성 신부전, 골다공증으로 치료 중이다. 신체 검진에서 우측 하지는 단축되고 외회전된 상태이며, 고관절 움직임에 심한 통증을 호소한다. 환자는 가족과 함께 살고 있으며, 고관절 통증 발생 전까지는 독립적으로 일상생활이 가능했다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: 헤모글로빈 10.5g/dL, 크레아티닌 1.5mg/dL, 알부민 3.2g/dL이며, eGFR 45mL/min/1.73m². 심전도 및 흉부 X-선: 정상. 우측 고관절 X-선 검사; 대퇴골 전자간 골절과 내측 피질골의 분쇄가 확인됨.",
+  "options": {
+    "A": "보존적 치료: 견인 및 침상 안정",
+    "B": "고관절 전치환술",
+    "C": "금속판 및 나사못 고정술",
+    "D": "골수강내 금속정 고정술",
+    "E": "목말뼈 처리 및 대퇴골두 제거술"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 82세 고령의 여성으로 대퇴골 전자간 골절(AO/OTA 31-A2, 불안정성 골절)이 확인되었습니다. 환자는 여러 동반 질환(고혈압, 당뇨병, 만성 신부전, 골다공증)이 있으나, 골절 전까지는 독립적인 일상생활이 가능했던 활동적인 노인입니다. 이러한 환자에게 가장 적합한 치료는 골수강내 금속정 고정술입니다. 대퇴골 전자간 골절의 치료 목표는 조기 보행과 일상생활로의 복귀를 가능하게 하는 것입니다. 골수강내 금속정은 생역학적으로 우수한 안정성을 제공하여 조기 체중부하가 가능하며, 수술 시간이 짧고 출혈이 적어 고령 환자에게 유리합니다. 특히 내측 피질골 분쇄가 있는 불안정성 골절(AO/OTA 31-A2)에서는 금속판보다 골수강내 금속정이 더 우수한 결과를 보입니다. 또한 골수강내 금속정은 지렛대 팔(lever arm)이 짧아 임플란트에 가해지는 부하가 적고, 골절 부위의 압박력을 유지하여 골유합을 촉진합니다. 보존적 치료(견인 및 침상 안정)는 장기간 침상 안정으로 인한 합병증(폐렴, 욕창, 심부정맥혈전증, 근위축 등) 위험이 높고, 골유합 지연 및 부정유합 가능성이 높아 수술이 불가능한 극히 제한적인 경우에만 고려합니다. 고관절 전치환술은 주로 대퇴 경부 골절이나 심한 골관절염, 대퇴골두 무혈성 괴사 등에 적용되며, 전자간 골절에서는 일반적으로 권장되지 않습니다. 금속판 및 나사못 고정술(역동적 고관절 나사)은 안정성 전자간 골절에서는 효과적일 수 있으나, 내측 피질골 분쇄가 있는 불안정성 골절에서는 고정 실패 위험이 높습니다. 목말뼈 처리 및 대퇴골두 제거술(Girdlestone 수술)은 실패한 고관절 전치환술이나 심한 감염 등의 극히 제한적인 상황에서만 고려되는 구제술로, 일차적 치료로는 적절하지 않습니다.",
+  "source": {
+    "file_name": "Journal of the American Academy of Orthopaedic Surgeons - Intertrochanteric Hip Fractures",
+    "content": "Intramedullary nailing has become the preferred treatment for unstable intertrochanteric fractures (AO/OTA 31-A2 and A3), particularly those with posteromedial comminution or reverse obliquity patterns. Biomechanical studies demonstrate that intramedullary devices provide superior stability for unstable fracture patterns compared to sliding hip screws, with reduced moment arm and improved load sharing properties. Clinical studies consistently show lower rates of fixation failure, malunion, and reoperation with intramedullary nails in unstable fracture patterns. Additional advantages include shorter operative time, reduced blood loss, and the potential for earlier weight-bearing. These factors are particularly important in elderly patients with comorbidities who benefit from early mobilization to prevent complications of prolonged recumbency. While sliding hip screws remain a viable option for stable fracture patterns (31-A1), the growing body of evidence supports the superiority of intramedullary fixation for unstable patterns, especially in osteoporotic bone. Arthroplasty is rarely indicated as primary treatment for intertrochanteric fractures, being reserved primarily for salvage of failed fixation or in select cases of severe osteoarthritis with concurrent hip fracture."
+  },
+  "category": "Orthopedic Surgery"
+}, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
