@@ -487,8 +487,8 @@
     "category": "Gastroenterology"
   },
   {
-    "question_id": 1,
-    "question": "45세 여성이 유방 종괴를 주소로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "question_id": 25,
+    "question": "45세 여성이 좌측 유방에서 종괴를 발견하고 내원하였다. 최근 들어 생리 주기와 무관하게 종괴 크기가 증가하고 있으며, 유방통은 없다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
     "exam": "유방초음파: 좌측 유방 2.5cm 종괴. 조직검사: 침윤성 유관암, ER(+), PR(+), HER2(-), Ki-67 12%. 액와 림프절 전이 없음.",
     "options": {
       "A": "유방보존술 후 방사선 치료",
@@ -503,8 +503,8 @@
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 2,
-    "question": "50세 여성이 건강검진에서 갑상선 결절이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "question_id": 26,
+    "question": "50세 여성이 3개월 전부터 지속된 목의 불편감과 연하곤란을 호소하여 내원하였다. 체중 변화는 없으며, 가족 중에 갑상선암 병력은 없다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
     "exam": "경부 초음파: 우측 갑상선 1.5cm 결절, 미세 석회화 동반. 세침흡인검사(FNA): Bethesda VI, 유두상 갑상선암. 경부 CT: 림프절 전이 없음.",
     "options": {
       "A": "갑상선 전절제술",
@@ -519,9 +519,9 @@
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 3,
-    "question": "60세 남성이 건강검진 중 부신 종괴가 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "복부 CT: 우측 부신 5cm 종괴. 혈액검사: 코르티솔 과다 분비, 혈압 상승. 24시간 소변 검사: 코르티솔 증가.",
+    "question_id": 27,
+    "question": "60세 남성이 만성 피로와 복부 비만을 주소로 내원하였다. 혈압이 최근 6개월 동안 조절되지 않았으며, 얼굴이 둥글어지는 느낌을 받았다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "복부 CT: 우측 부신 5cm 종괴. 혈액검사: 혈중 코르티솔 24 µg/dL(↑), ACTH 4 pg/mL(↓), 알도스테론 8 ng/dL(정상), 카테콜아민 정상 범위. 24시간 소변 검사: 자유 코르티솔 180 µg/24h(↑).",
     "options": {
       "A": "부신 절제술",
       "B": "방사선 치료",
@@ -530,14 +530,15 @@
       "E": "호르몬 억제 치료"
     },
     "answer": "A",
-    "explanation": "4cm 이상의 부신 종괴에서 코르티솔 과다 분비가 확인된 경우 부신 절제술이 권장된다&#8203;:contentReference[oaicite:2]{index=2}.",
+    "explanation": "4cm 이상의 부신 종괴에서 혈중 코르티솔이 증가하고 ACTH가 억제된 경우 부신 피질 종양(코르티솔 과다 분비)이 의심되며, 부신 절제술이 표준 치료이다.  
+    - 알도스테론과 카테콜아민이 정상 범위인 점을 고려할 때, 원발성 알도스테론증이나 갈색세포종보다는 코르티솔 과다 분비 질환 가능성이 높다&#8203;:contentReference[oaicite:0]{index=0}.",
     "source": "breast.pdf",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 4,
-    "question": "55세 남성이 건강검진 중 원발성 부갑상선 기능 항진증이 진단되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "혈액검사: 혈중 칼슘 11.5 mg/dL(↑), PTH 120 pg/mL(↑), 신기능 정상. 경부 초음파: 우측 하부 부갑상선 1.8cm 종괴.",
+    "question_id": 28,
+    "question": "55세 남성이 만성적인 피로와 근육 약화를 주소로 내원하였다. 최근 들어 쉽게 피로를 느끼고 근력 저하를 경험하며, 경미한 우울감을 호소하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "혈액검사: 혈중 칼슘 11.5 mg/dL, PTH 120 pg/mL, 크레아티닌 0.9 mg/dL, BUN 14 mg/dL. 경부 초음파: 우측 하부 부갑상선 1.8cm 종괴.",
     "options": {
       "A": "추적 관찰",
       "B": "부갑상선 절제술",
@@ -546,14 +547,18 @@
       "E": "항암화학요법"
     },
     "answer": "B",
-    "explanation": "무증상 원발성 부갑상선 기능 항진증에서 혈중 칼슘이 11mg/dL 이상이면 부갑상선 절제술이 권장된다&#8203;:contentReference[oaicite:3]{index=3}.",
-    "source": "breast.pdf",
+    "explanation": "무증상 원발성 부갑상선 기능 항진증에서 혈중 칼슘이 11mg/dL 이상이면 부갑상선 절제술이 권장된다.  
+    - 만성 피로, 근력 저하, 우울감은 고칼슘혈증의 전형적인 증상이다.  
+    - 신장 기능이 정상(크레아티닌 0.9 mg/dL, BUN 14 mg/dL)이므로 이차성 부갑상선 기능 항진증 가능성은 낮다&#8203;:contentReference[oaicite:0]{index=0}.",
+    "source": "내분비-대사.pdf&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 5,
-    "question": "65세 여성이 최근 유방 종괴를 발견하여 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "유방초음파: 좌측 유방 3.5cm 종괴. 조직검사: 삼중음성 유방암(TNBC). PET-CT: 원격 전이 없음.",
+    "question_id": 29,
+    "chief complaint": "유방덩이/통증",
+    "purpose": "유방덩이/통증을 호소하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+    "question": "65세 여성이 좌측 유방 종괴와 최근 몇 달간 지속된 피부 함몰을 주소로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "유방초음파: 좌측 유방 3.5cm 종괴. 조직검사: 침윤성 유관암, ER(-), PR(-), HER2(-), Ki-67 45%. PET-CT: 원격 전이 없음.",
     "options": {
       "A": "유방보존술",
       "B": "전절제술 후 항암화학요법",
@@ -562,30 +567,37 @@
       "E": "표적 치료 단독"
     },
     "answer": "C",
-    "explanation": "삼중음성 유방암(TNBC)에서는 항암화학요법을 우선 시행한 후 수술을 고려하는 것이 표준 치료이다&#8203;:contentReference[oaicite:4]{index=4}.",
-    "source": "breast.pdf",
+    "explanation": "ER, PR 음성이며 HER2도 음성인 경우 삼중음성 유방암(triple-negative breast cancer, TNBC)으로 분류되며,  
+    - 이 경우 항암화학요법을 우선 시행한 후 수술을 고려하는 것이 표준 치료이다.  
+    - 피부 함몰은 침윤성 유방암의 전형적인 임상 징후 중 하나이다&#8203;:contentReference[oaicite:2]{index=2}.",
+    "source": "breast.pdf&#8203;:contentReference[oaicite:3]{index=3}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 6,
-    "question": "52세 여성이 건강검진에서 유방 종괴가 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "question_id": 30,
+    "chief complaint": "유방덩이/통증",
+    "purpose": "유방덩이/통증을 호소하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+    "question": "52세 여성이 우측 유방의 혈성 분비물과 종괴를 주소로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
     "exam": "유방초음파: 우측 유방 3cm 종괴. 조직검사: 침윤성 유관암, ER(-), PR(-), HER2(3+), Ki-67 30%. PET-CT: 액와 림프절 전이 2개.",
     "options": {
       "A": "유방보존술 후 방사선 치료",
       "B": "전절제술 후 항암화학요법",
-      "C": "항HER2 표적치료 후 수술",
+      "C": "Pertuzumab 치료 후 수술",
       "D": "수술 전 항암화학요법 후 방사선 치료",
       "E": "항호르몬 치료 단독"
     },
     "answer": "C",
-    "explanation": "HER2 양성 유방암에서는 수술 전에 항HER2 표적치료(trastuzumab ± pertuzumab)와 항암화학요법을 시행한 후 절제 여부를 결정하는 것이 표준 치료이다&#8203;:contentReference[oaicite:0]{index=0}.",
-    "source": "breast.pdf",
+    "explanation": "HER2 양성 유방암에서는 수술 전에 항HER2 표적치료(trastuzumab ± pertuzumab)와 항암화학요법을 시행한 후 절제 여부를 결정하는 것이 표준 치료이다.  
+    - 자발적인 혈성 분비물은 침윤성 유관암에서 흔한 임상 징후이다&#8203;:contentReference[oaicite:4]{index=4}.",
+    "source": "breast.pdf&#8203;:contentReference[oaicite:5]{index=5}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 7,
-    "question": "47세 여성이 갑상선 결절로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "경부 초음파: 좌측 갑상선 2.5cm 경계 불명확한 결절. FNA: Bethesda V, 의심성 여포암. 혈액검사: TSH 정상.",
+    "question_id": 31,
+    "chief complaint": "목덩이",
+    "purpose": "목덩이가 있는 사람에게 원인에 따른 치료 계획을 수립할 수 있다",
+    "question": "47세 여성이 수개월 전부터 경미한 연하곤란과 목의 이물감을 호소하여 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "경부 초음파: 좌측 갑상선 2.5cm 경계 불명확한 결절. FNA: Bethesda V, 의심성 여포암. 혈액검사: TSH 1.8 µIU/mL, fT4 정상.",
     "options": {
       "A": "갑상선 반절제술",
       "B": "갑상선 전절제술",
@@ -594,13 +606,15 @@
       "E": "정기적 초음파 추적 관찰"
     },
     "answer": "B",
-    "explanation": "Bethesda V의 여포암 의심 결절이 2cm 이상일 경우 갑상선 전절제술이 권장된다. 이후 병리 결과에 따라 방사성 요오드 치료(RAI)가 고려될 수 있다&#8203;:contentReference[oaicite:1]{index=1}.",
-    "source": "thyroid.pdf",
+    "explanation": "Bethesda V의 여포암 의심 결절이 2cm 이상일 경우 갑상선 전절제술이 권장된다. 이후 병리 결과에 따라 방사성 요오드 치료(RAI)가 고려될 수 있다&#8203;:contentReference[oaicite:0]{index=0}.",
+    "source": "thyroid.pdf&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 8,
-    "question": "60세 여성이 최근 유방 종괴를 발견하여 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "question_id": 32,
+    "chief complaint": "유방덩이/통증",
+    "purpose": "유방덩이/통증을 호소하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+    "question": "60세 여성이 최근 몇 달간 진행하는 유방 종괴와 함께 조기 포만감을 느껴 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
     "exam": "유방초음파: 좌측 유방 2cm 종괴. 조직검사: 침윤성 유관암, ER(+), PR(+), HER2(-), Ki-67 35%. 유전자 검사: Oncotype DX score 32.",
     "options": {
       "A": "항호르몬 치료 단독",
@@ -611,13 +625,15 @@
     },
     "answer": "B",
     "explanation": "Oncotype DX 점수가 26 이상일 경우 항암화학요법이 권장된다. 이후 항호르몬 치료를 병행하는 것이 표준 치료이다&#8203;:contentReference[oaicite:2]{index=2}.",
-    "source": "breast.pdf",
+    "source": "breast.pdf&#8203;:contentReference[oaicite:3]{index=3}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 9,
-    "question": "58세 남성이 건강검진에서 부신 종양이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "복부 CT: 좌측 부신 6cm 종괴. 24시간 소변 검사: 메타네프린 증가. 혈압 160/100mmHg.",
+    "question_id": 33,
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게 원인과 중증도에 따라 적합한 조치를 취할 수 있다.",
+    "question": "58세 남성이 최근 두통과 발한이 심해지고, 가끔 어지러움을 느껴 내원하였다. 혈압이 조절되지 않고, 가족력이 없다고 한다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "복부 CT: 좌측 부신 6cm 종괴. 24시간 소변 검사: 메타네프린 720 µg/day (정상 상한 350 µg/day). 혈압: 160/100 mmHg. 혈액검사: 크레아티닌 0.9 mg/dL, BUN 15 mg/dL, 혈당 정상.",
     "options": {
       "A": "부신 절제술",
       "B": "항암화학요법",
@@ -626,14 +642,18 @@
       "E": "고주파 열치료(RFA)"
     },
     "answer": "A",
-    "explanation": "크기가 4cm 이상이고 호르몬 과분비가 있는 부신 종양(갈색세포종)은 부신 절제술이 표준 치료이다&#8203;:contentReference[oaicite:3]{index=3}.",
-    "source": "breast.pdf",
+    "explanation": "크기가 4cm 이상이고 호르몬 과분비가 있는 부신 종양(갈색세포종)은 부신 절제술이 표준 치료이다.  
+    - 발한, 두통, 혈압 상승은 갈색세포종의 전형적인 증상이다.  
+    - 메타네프린 수치가 정상 상한을 초과하므로 부신에서 카테콜아민 과분비 가능성이 높다&#8203;:contentReference[oaicite:4]{index=4}.",
+    "source": "내분비-대사.pdf&#8203;:contentReference[oaicite:5]{index=5}",
     "category": "Hematology and Oncology"
   },
   {
-    "question_id": 10,
-    "question": "64세 남성이 건강검진에서 갑상선 종양이 발견되었다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
-    "exam": "경부 초음파: 우측 갑상선 3.8cm 저에코 결절. 조직검사: 갑상선 수질암(MTC), RET 유전자 돌연변이(+). CT: 경부 림프절 전이(+), 원격 전이 없음.",
+    "question_id": 34,
+    "chief complaint": "목덩이",
+    "purpose": "목덩이가 있는 사람에게 원인에 따른 치료 계획을 수립할 수 있다.",
+    "question": "64세 남성이 최근 수개월간 지속된 목의 압박감과 간헐적인 설사를 주소로 내원하였다. 시행한 검사 결과는 다음과 같다. 적절한 치료는?",
+    "exam": "경부 초음파: 우측 갑상선 3.8cm 저에코 결절. 조직검사: 아밀로이드 침착을 동반한 신경내분비 양상 세포 관찰됨. 혈액검사: 칼시토닌 580 pg/mL, CEA 120 ng/mL. CT: 경부 림프절 전이(+), 원격 전이 없음. 유전자 검사: RET 유전자 돌연변이(+).",
     "options": {
       "A": "갑상선 전절제술 및 경부 림프절 절제술",
       "B": "RAI 치료 후 수술",
@@ -642,8 +662,10 @@
       "E": "정기적 영상 추적 관찰"
     },
     "answer": "A",
-    "explanation": "갑상선 수질암(MTC)은 방사성 요오드(RAI) 치료에 반응하지 않으며, 수술적 절제가 표준 치료이다. RET 돌연변이가 있는 경우 표적치료가 재발 시 고려될 수 있다&#8203;:contentReference[oaicite:4]{index=4}.",
-    "source": "thyroid.pdf",
+    "explanation": "갑상선 수질암(MTC)은 방사성 요오드(RAI) 치료에 반응하지 않으며, 수술적 절제가 표준 치료이다.  
+    - 조직검사에서 **아밀로이드 침착**이 관찰되며, 칼시토닌과 CEA 상승이 동반될 경우 MTC를 강력히 시사한다.  
+    - RET 유전자 돌연변이가 확인된 경우, 재발 시 표적치료가 고려될 수 있다&#8203;:contentReference[oaicite:0]{index=0}.",
+    "source": "thyroid.pdf&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Hematology and Oncology"
   }
 ]
