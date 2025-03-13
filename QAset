@@ -1,4 +1,4 @@
-{
+ {
   "question_id": 1,
   "chief_complaint": "가려움증",
   "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
@@ -1152,7 +1152,73 @@
     "content": "Coarctation of the aorta should be suspected in any young patient with hypertension. The classic finding is a difference in blood pressure between the upper and lower extremities, with higher pressures in the arms than in the legs. A systolic pressure gradient of more than 20 mmHg is considered significant. Physical examination may reveal diminished or delayed femoral pulses compared with the brachial pulse ('radio-femoral delay'). A systolic murmur may be heard over the left sternal border and in the back, particularly over the coarctation site. Chest radiography may show a '3' sign or an 'E' sign of the aortic contour, and rib notching due to collateral circulation through the intercostal arteries. Echocardiography can visualize the site of coarctation and assess the pressure gradient across it. CT or MR angiography provides excellent anatomic definition of the coarctation and associated abnormalities. Treatment options include balloon angioplasty with or without stenting and surgical repair."
   },
   "category": "Cardiology"
+}, 
+{
+  "question_id": 57,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압을 갖고 있는 사람에게서 심한 정도, 표적 장기 손상, 다른 심혈관질환 위험인자, 원인질환 등을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "63세 남성이 건강검진에서 우연히 발견된 고혈압으로 내원하였다. 환자는 특별한 증상은 없으나 가끔 아침에 두통이 있다고 한다. 과거력상 10년 전부터 고지혈증으로 아토르바스타틴 10mg을 복용 중이며, 30갑년의 흡연력이 있다. 가족력상 부친과 형이 고혈압으로 약물 복용 중이다. 신체 검진에서 혈압은 오른팔에서 146/92 mmHg, 왼팔에서 142/90 mmHg로 측정되었고, 맥박 76회/분, 체질량지수 26.2 kg/m²였다. 심장 및 폐 청진에서 특이소견은 없었으며, 경동맥 잡음도 들리지 않았다. 복부 검진에서 좌측 상복부에서 수축기 잡음(bruit)이, 우측 신장 부위에서 확장기 잡음이 들렸다. 이 환자에서 다음 중 가장 적절한 검사는?",
+  "exam": "혈액 검사: BUN 22 mg/dL, 크레아티닌 1.2 mg/dL, 나트륨 140 mEq/L, 칼륨 4.2 mEq/L, 공복혈당 102 mg/dL, 총 콜레스테롤 180 mg/dL, LDL 콜레스테롤 110 mg/dL, HDL 콜레스테롤 45 mg/dL, 중성지방 150 mg/dL. 소변 검사: 단백뇨 1+, 미세혈뇨가 관찰됨.",
+  "options": {
+    "A": "복부 초음파 검사",
+    "B": "신장 도플러 초음파 검사",
+    "C": "복부 컴퓨터단층촬영(CT) 혈관조영술",
+    "D": "신장 정맥 레닌 측정",
+    "E": "24시간 소변 메타네프린 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 신체 검진에서 복부 잡음(bruit)이 들리며, 경미한 신기능 저하와 단백뇨, 미세혈뇨가 있어 신혈관성 고혈압(renovascular hypertension)을 의심할 수 있습니다. 신혈관성 고혈압은 신동맥 협착으로 인한 이차성 고혈압으로, 주요 원인으로는 죽상동맥경화증(노인에서 흔함)과 섬유근육이형성증(젊은 여성에서 흔함)이 있습니다. 신혈관성 고혈압이 의심되는 경우, 영상학적 검사를 통해 신동맥 협착을 확인해야 합니다. 복부 CT 혈관조영술(CT angiography)은 높은 민감도와 특이도로 신동맥 협착을 진단할 수 있는 비침습적인 검사로, 신동맥의 해부학적 구조와 협착 정도를 자세히 평가할 수 있습니다. 또한 복부 대동맥이나 다른 복부 혈관의 이상도 함께 평가할 수 있어, 이 환자와 같이 복부 잡음이 여러 부위에서 들리는 경우 유용합니다. 특히 좌측 상복부의 수축기 잡음은 복강동맥이나 상장간막동맥 협착을, 우측 신장 부위의 확장기 잡음은 우측 신동맥 협착을 시사할 수 있습니다. 복부 초음파 검사는 신장 크기, 구조, 종괴 등을 평가할 수 있으나, 신동맥 협착 진단에는 민감도가 낮습니다. 신장 도플러 초음파 검사는 신동맥 협착 선별에 유용하나, 검사자 의존도가 높고 비만 환자나 장내 가스가 많은 경우 제한이 있습니다. 또한 이 환자의 경우 여러 부위에서 복부 잡음이 들려 광범위한 혈관 평가가 필요하므로, CT 혈관조영술이 더 적합합니다. 신장 정맥 레닌 측정은 편측성 신동맥 협착이 의심될 때 해당 신장의 레닌 분비 증가를 확인하는 침습적 검사로, 영상 검사에서 신동맥 협착이 확인된 후 시행됩니다. 24시간 소변 메타네프린 검사는 갈색세포종 진단을 위한 검사로, 이 환자의 임상 소견에는 해당하지 않습니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Computed tomographic angiography (CTA) is now commonly used to diagnose renal-artery stenosis. CTA provides excellent spatial resolution and can detect accessory renal arteries and accurately identify the location and degree of vascular stenosis. The sensitivity and specificity of CTA for detecting renal-artery stenosis are approximately 94% and 93%, respectively. CT angiography allows for visualization of not only the renal arteries but also the abdominal aorta and its other branches, which can be particularly useful in patients with multiple vascular bruits suggesting diffuse atherosclerotic disease. The main limitations of CTA include radiation exposure and the risk of contrast-induced nephropathy, especially in patients with preexisting renal insufficiency. Doppler ultrasonography is a noninvasive screening test that can provide information about renal size and structure as well as blood flow in the renal arteries. However, it is highly operator-dependent, and technical limitations (e.g., obesity, bowel gas, and movement artifacts) can interfere with the ability to obtain accurate measurements."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 58,
+  "chief_complaint": "고혈압",
+  "purpose": "고혈압으로 인한 응급치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "55세 남성이 왼쪽 팔다리 위약감과, 구음장애로 응급실에 내원하였다. 증상은 2시간 전에 갑자기 발생했다고 한다. 환자는 10년 전부터 고혈압을 진단받았으나 약물은 불규칙하게 복용했다고 한다. 내원 당시 혈압 224/128 mmHg, 맥박 88회/분, 호흡수 18회/분, 체온 36.8°C였다. 의식은 명료하였으나, 신경학적 검사에서 좌측 상하지 근력 3/5, 좌측 안면 마비, 구음장애가 관찰되었다. 이 환자에게 가장 적절한 초기 혈압 조절 목표와 약물은?",
+  "exam": "혈액 검사: 혈색소 14.5 g/dL, 백혈구 9,800/μL, 혈소판 230,000/μL, INR 1.0, aPTT 32초, 혈당 118 mg/dL, BUN 18 mg/dL, 크레아티닌 1.1 mg/dL. 심전도: 좌심실 비대 소견이 관찰됨. 뇌 CT: 우측 기저핵에 급성 뇌출혈 소견이 보였으며, 크기는 약 3×2.5cm, 뇌실 내 출혈이나 정중선 편위는 없었음. ",
+  "options": {
+    "A": "수축기 혈압 140-160 mmHg, 정맥 내 니카르디핀",
+    "B": "수축기 혈압 120-140 mmHg, 경구 암로디핀",
+    "C": "평균 동맥압 30% 이상 감소, 정맥 내 니트로프루시드",
+    "D": "평균 동맥압 20-25% 감소, 정맥 내 라베탈롤",
+    "E": "수축기 혈압 180 mmHg 이하, 경구 클로니딘"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 고혈압성 뇌출혈(hypertensive intracerebral hemorrhage)로 진단된 고혈압 응급증 환자입니다. 고혈압은 뇌출혈의 가장 중요한 위험 인자이며, 뇌출혈 발생 후 지속적인 고혈압은 혈종 확장과 신경학적 악화의 위험을 증가시킵니다. 그러나 과도한 혈압 감소는 뇌관류 저하로 인한 이차적 허혈성 손상을 초래할 수 있어 신중한 혈압 조절이 필요합니다. 2015년 미국심장협회/미국뇌졸중협회(AHA/ASA) 지침에 따르면, 급성 뇌출혈 환자에서 수축기 혈압이 220 mmHg를 초과하는 경우, 집중 모니터링과 함께 정맥 내 지속 주입하는 항고혈압제를 사용하여 수축기 혈압을 140-160 mmHg로 낮추는 것이 권장됩니다. 특히 이 환자의 경우 뇌실 내 출혈이나 정중선 편위 같은 중증 소견은 없으나, 뇌출혈 진단 후 최대한 빨리 혈압을 조절하는 것이 중요합니다. 니카르디핀은 디하이드로피리딘계 칼슘 통로 차단제로, 신속한 작용 시작과 약물 배출, 용량 조절의 용이성, 과도한 혈압 변동 위험이 적다는 장점이 있어 뇌출혈 환자의 혈압 조절에 적합합니다. 또한 뇌혈관 확장 효과로 뇌혈류를 유지하면서 혈압을 낮출 수 있습니다. 경구 약물(암로디핀, 클로니딘)은 작용 시간이 느리고 혈압 변동성이 클 수 있어 급성기 조절에는 적합하지 않습니다. 평균 동맥압을 30% 이상 급격히 감소시키는 것은 뇌관류 저하로 인한 이차 손상 위험이 있어 권장되지 않습니다. 니트로프루시드는 뇌내압 상승 위험과 혈압 변동성이 커서 뇌출혈 환자에서는 일차 선택약으로 권장되지 않습니다. 라베탈롤도 좋은 선택지가 될 수 있으나, 최근 연구에서는 니카르디핀이 더 효과적이고 안정적인 혈압 조절을 제공한다는 보고가 있습니다.",
+  "source": {
+    "file_name": "Guidelines for the Management of Spontaneous Intracerebral Hemorrhage, American Heart Association/American Stroke Association",
+    "content": "For patients with intracerebral hemorrhage (ICH) presenting with systolic blood pressure (SBP) >220 mmHg, it is reasonable to consider aggressive blood pressure reduction with a continuous intravenous infusion and frequent blood pressure monitoring. In patients with SBP >180 mmHg and without contraindication to acute BP treatment, acute lowering of SBP to 140-160 mmHg is safe and can be effective for improving functional outcome. Rapid blood pressure lowering using intravenous nicardipine, clevidipine, or labetalol is preferred over nitroprusside due to the potential complications of the latter, including increased intracranial pressure, toxicity with prolonged infusion, and more rapid and less predictable changes in blood pressure. Nicardipine may provide more stable blood pressure control than labetalol, with less need for dose adjustments and fewer blood pressure measurements outside the target range. Oral antihypertensive agents are not recommended in the hyperacute phase due to their slower onset of action and less predictable effects."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 59,
+  "chief_complaint": "고혈압",
+  "purpose": "이차고혈압을 갖고 있는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "48세 남성이 6개월 전부터 시작된 두통, 코피, 발한 증가로 내원하였다. 환자는 2년 전 고혈압을 진단받고 암로디핀 10mg과 라미프릴 10mg을 복용 중이지만 혈압 조절이 잘 되지 않는다고 한다. 환자는 심한 코골이가 있으며, 주간 졸림증이 심하다고 한다. 내원 당시 혈압 162/100 mmHg, 맥박 82회/분, 호흡수 18회/분, 체질량지수 32.5 kg/m²였다. 이 환자의 고혈압에 대한 가장 적절한 치료 방법은?",
+  "exam": "혈액 검사: 공복혈당 110 mg/dL, 총 콜레스테롤 210 mg/dL, LDL 콜레스테롤 140 mg/dL, HDL 콜레스테롤 38 mg/dL, 중성지방 180 mg/dL, 크레아티닌 1.0 mg/dL. 수면다원검사: 무호흡-저호흡 지수(AHI)가 35회/시간.",
+  "options": {
+    "A": "지속적 양압호흡기(CPAP) 치료",
+    "B": "이뇨제 추가",
+    "C": "베타 차단제 추가",
+    "D": "구개인두성형술(uvulopalatopharyngoplasty)",
+    "E": "체중감량만으로 경과 관찰"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 비만, 두꺼운 목둘레, 좁은 상기도, 코골이, 주간 졸림증 등 폐쇄성 수면무호흡증(Obstructive Sleep Apnea, OSA)의 전형적인 위험 인자와 증상을 가지고 있으며, 수면다원검사에서 무호흡-저호흡 지수(AHI) 35회/시간으로 중증 OSA로 진단되었습니다. OSA는 치료 저항성 고혈압의 중요한 원인 중 하나로, 고혈압 환자의 약 30-50%에서 동반됩니다. OSA는 수면 중 상기도 폐쇄로 인한 저산소증, 이산화탄소 축적, 수면 분절, 교감신경계 과활성화, 레닌-안지오텐신-알도스테론 체계 활성화, 산화 스트레스 증가 등 다양한 기전을 통해 고혈압을 유발하거나 악화시킵니다. 중증 OSA 환자에서 지속적 양압호흡기(Continuous Positive Airway Pressure, CPAP) 치료는 가장 효과적인 일차 치료법입니다. CPAP은 수면 중 기도 폐쇄를 방지하여 무호흡과 저호흡을 감소시키고, 산소포화도를 정상화시킵니다. 또한 CPAP 치료는 고혈압 환자에서 혈압을 낮추는 효과가 있으며, 특히 치료 저항성 고혈압 환자에서 더 큰 효과를 보입니다. 여러 연구에서 CPAP 치료는 수축기 및 이완기 혈압을 평균 2-10 mmHg 감소시키는 것으로 나타났습니다. 이뇨제 추가는 고혈압 치료에 도움이 될 수 있으나, 근본적인 OSA를 치료하지 않으면 고혈압이 지속될 가능성이 높습니다. 베타 차단제는 OSA 환자에서 혈압 조절에 효과적일 수 있으나, 수면 무호흡 자체를 개선시키지는 않으며, 일부 환자에서는 체중 증가, 피로감 증가 등의 부작용이 있을 수 있습니다. 구개인두성형술은 OSA의 수술적 치료 중 하나로, 선택된 환자에서 효과적일 수 있으나, 첫 번째 치료로는 권장되지 않으며, CPAP 치료가 실패하거나 수용하지 못하는 환자에서 고려됩니다. 체중감량은 장기적으로 중요하지만, 중증 OSA 환자에서 단독 치료로는 충분하지 않으며, CPAP 치료와 병행해야 합니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Continuous positive airway pressure (CPAP) is the first-line therapy for patients with moderate-to-severe obstructive sleep apnea (OSA). CPAP functions as a pneumatic splint to maintain upper airway patency during sleep by delivering a column of air under positive pressure through a mask interface. The positive pressure prevents the collapse of the upper airway that occurs in OSA during sleep. Several randomized trials and meta-analyses have shown that CPAP therapy in patients with OSA and hypertension results in modest but significant reductions in both systolic and diastolic blood pressure, with mean decreases of 2-10 mmHg. The blood pressure-lowering effect is more pronounced in patients with resistant hypertension and those with more severe OSA. The effect is also dose-dependent, with greater adherence to CPAP therapy resulting in larger reductions in blood pressure. Other treatments for OSA include weight loss, oral appliances, and various surgical procedures, but CPAP remains the most effective and well-studied intervention, particularly for patients with moderate-to-severe disease."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
 }
+
+
+
 
 
 
