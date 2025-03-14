@@ -2078,20 +2078,216 @@
   },
   "category": "Pediatrics"
 }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+  "question_id": 101,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 병력청취와 신체진찰을 통해 기분장애를 진단할 수 있다.",
+  "question": "32세 여성이 2개월 전부터 지속된 우울감과 의욕저하를 주소로 정신건강의학과 외래를 방문하였다. 환자는 최근 이혼 후 혼자 살고 있으며, 매일 아침 일어나기 힘들고 집중력이 떨어져 업무 수행이 어렵다고 호소한다. 식욕이 감소하여 2개월간 5kg의 체중 감소가 있었고, 불면을 호소하며, 자신이 무가치하다고 느낀다고 한다. 과거력상 6년 전에도 비슷한 증상으로 3개월간 치료받은 적이 있으며, 당시 항우울제 복용 후 증상이 호전되었다. 환자의 어머니도 우울증으로 치료받은 가족력이 있다. 신체 검진과 일반 혈액검사, 갑상선 기능검사는 정상이었다. 이 환자에 대한 가장 적절한 진단은?",
+  "exam": "",
+  "options": {
+    "A": "적응장애(Adjustment disorder)",
+    "B": "주요우울장애(Major depressive disorder)",
+    "C": "지속성 우울장애(Persistent depressive disorder, 기분저하증)",
+    "D": "양극성 장애 II형(Bipolar II disorder)",
+    "E": "정상 슬픔 반응(Normal grief)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 2개월 이상 지속된 우울한 기분과 함께 의욕저하, 집중력 저하, 식욕 감소와 체중 감소, 불면, 무가치감 등의 증상을 보이고 있습니다. 이는 주요우울장애(Major depressive disorder)의 진단기준에 부합합니다. DSM-5에 따르면, 주요우울장애는 2주 이상 지속되는 우울한 기분이나 흥미나 즐거움의 상실이 있으면서, 체중 변화, 수면 장애, 정신운동 초조나 지체, 피로감, 무가치감이나 죄책감, 집중력 저하, 반복적인 자살 사고 등의 증상 중 총 5개 이상이 있어야 합니다. 본 환자의 경우 우울한 기분, 의욕저하, 집중력 저하, 식욕 및 체중 감소, 불면, 무가치감 등 6개의 증상이 있어 주요우울장애의 진단기준을 충족합니다. 또한 과거에 유사한 삽화가 있었고 항우울제에 반응했던 병력과 가족력도 이 진단을 뒷받침합니다. 적응장애는 스트레스 인자(이혼)에 대한 반응일 수 있으나, 증상의 심각도와 지속기간을 고려할 때 주요우울장애에 더 부합합니다. 지속성 우울장애는 2년 이상 지속되는 만성적 우울 증상을 특징으로 하는데, 이 환자는 2개월 전부터 증상이 시작되었습니다. 양극성 장애 II형을 고려할 수 있으나, 경조증 삽화의 병력이 없어 이 진단은 적절하지 않습니다. 정상 슬픔 반응은 일반적으로 상실 후 발생하지만, 증상의 심각도와 기능 장애의 정도를 고려할 때 병적인 우울 상태로 보는 것이 타당합니다.",
+  "source": {
+    "file_name": "Kaplan & Sadock's Synopsis of Psychiatry",
+    "content": "Major depressive disorder is characterized by one or more major depressive episodes (i.e., at least 2 weeks of depressed mood or loss of interest or pleasure in nearly all activities, accompanied by at least four additional symptoms of depression). These symptoms include changes in appetite or weight, sleep, and psychomotor activity; decreased energy; feelings of worthlessness or guilt; difficulty thinking, concentrating, or making decisions; or recurrent thoughts of death or suicidal ideation, plans, or attempts. The episode must be accompanied by clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 102,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 3주 전부터 시작된 과도한 에너지, 수면 감소, 과대사고를 주소로 가족과 함께 응급실에 내원하였다. 환자는 평소와 달리 말이 빨라지고 끊임없이 말하며, 위험한 투자에 큰돈을 쓰려 했다고 한다. 하루 3시간 이하로 자면서도 피곤하지 않다고 하며, 자신이 특별한 능력을 가지고 있다고 주장한다. 과거력상 25세와 35세에 심한 우울증으로 입원 치료한 적이 있고, 당시 자살을 시도한 병력도 있다. 최근 1개월 전 개인 사정으로 복용하던 약물을 중단하였다. 이 환자의 현재 상태를 평가하기 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "뇌 자기공명영상(Brain MRI)",
+    "B": "뇌파검사(Electroencephalography, EEG)",
+    "C": "혈중 리튬 농도 측정(Serum lithium level)",
+    "D": "소변 약물 선별검사(Urine drug screening)",
+    "E": "갑상선 기능검사(Thyroid function test)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 과도한 에너지, 수면 욕구 감소, 과대사고, 언어압박(말이 빨라지고 끊임없이 말함), 판단력 저하(위험한 투자) 등 전형적인 조증 삽화의 증상을 보이고 있습니다. 또한 과거 우울증으로 입원 치료한 병력이 있어 양극성 장애를 강하게 시사합니다. 그러나 환자가 1개월 전 약물을 중단했다는 점과 3주 전부터 갑자기 조증 증상이 발생했다는 점을 고려할 때, 약물 남용이나 물질 사용에 의한 조증 상태(substance-induced mood disorder)의 가능성을 배제해야 합니다. 소변 약물 선별검사는 암페타민, 코카인, 마리화나 등 조증 유사 증상을 유발할 수 있는 물질의 사용 여부를 확인하는 데 도움이 됩니다. 뇌 자기공명영상(MRI)은 뇌종양이나 뇌혈관 질환과 같은 구조적 병변에 의한 이차성 조증을 배제하기 위해 시행될 수 있으나, 이 환자의 경우 양극성 장애의 병력이 있고 약물 중단 후 발생한 삽화이므로 우선순위가 낮습니다. 뇌파검사(EEG)는 뇌전증에 의한 조증 유사 증상을 감별하는 데 도움이 될 수 있으나, 이 환자의 임상 양상은 전형적인 조증 증상을 보이므로 첫 번째 선택 검사로는 적절하지 않습니다. 혈중 리튬 농도 측정은 리튬을 복용 중인 환자에서 치료 농도 유지 여부나 독성 여부를 평가하는 데 유용하지만, 이 환자는 약물을 중단한 상태이므로 의미가 없습니다. 갑상선 기능검사는 갑상선 기능항진증에 의한 조증 유사 증상을 감별하는 데 중요하지만, 환자의 병력과 임상 양상을 고려할 때 약물 사용에 의한 조증 상태의 가능성이 더 높으므로 소변 약물 선별검사가 우선적으로 시행되어야 합니다.",
+  "source": {
+    "file_name": "American Psychiatric Association Practice Guidelines for the Treatment of Patients with Bipolar Disorder",
+    "content": "In the emergency evaluation of patients presenting with mania, hypomania, or mixed states, substance use should be ruled out, as substance intoxication or withdrawal may mimic or exacerbate these states. A urine toxicology screen should be obtained when appropriate. Medical conditions that may present with manic symptoms include hyperthyroidism, cerebrovascular accidents, brain tumors, infection, and head trauma, and these should be ruled out with appropriate history, physical examination, and laboratory tests, including thyroid function tests, when indicated."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 103,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 6개월 전부터 시작된 기분 변동을 주소로 정신건강의학과를 방문하였다. 환자는 2-3일간 기분이 고양되고 평소보다 활동적이며 말이 많아지는 시기가 있다가, 이후 약 1주일간 기분이 가라앉고 의욕이 저하되는 상태가 반복된다고 한다. 고양된 기분일 때는 평소보다 자신감이 넘치고 사교적이 되며, 평소보다 돈을 많이 쓰는 경향이 있으나 심각한 재정적 문제를 일으킬 정도는 아니라고 한다. 우울한 기분일 때는 일상생활은 유지하지만 사회적 활동을 줄이고 집에 머무는 시간이 많아진다고 한다. 과거 입원 치료나 자살 시도 병력은 없으며, 정신과적 약물 복용 경험도 없다. 이 환자에 대한 가장 적절한 초기 약물 치료는?",
+  "exam": "",
+  "options": {
+    "A": "리튬(Lithium)",
+    "B": "라모트리진(Lamotrigine)",
+    "C": "벤라팍신(Venlafaxine)",
+    "D": "올란자핀(Olanzapine)",
+    "E": "발프로산(Valproic acid)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 경도의 기분 고양(말이 많아짐, 활동성 증가, 과도한 소비 경향)과 경도의 우울 증상(의욕 저하, 사회적 위축)이 번갈아 나타나는 양상을 보이고 있습니다. 증상의 강도가 심하지 않고(정신병적 증상이나 심각한 기능 장애가 없음), 삽화 지속 기간이 짧으며(각각 수일에서 1주일), 6개월 이상 지속되고 있어 순환성 장애(Cyclothymic disorder)의 진단기준에 부합합니다. 또는 경미한 양극성 Ⅱ형 장애로도 볼 수 있습니다. 이러한 경우, 라모트리진(Lamotrigine)은 기분 안정화 효과가 있으면서 특히 우울 증상의 예방에 효과적인 약물로, 경조증 증상이 심하지 않고 우울 삽화가 주요 문제인 양극성 장애 환자에게 적합한 선택입니다. 또한 라모트리진은 부작용 측면에서도 체중 증가나 인지 기능 저하와 같은 부작용이 상대적으로 적어 젊은 환자에게 선호되는 약물입니다. 리튬(Lithium)은 양극성 장애의 조증과 우울 삽화 모두에 효과적인 기분안정제이지만, 주로 전형적인 양극성 Ⅰ형 장애에서 급성 조증의 치료와 유지치료에 사용됩니다. 이 환자의 경우 심각한 조증 삽화가 없고 증상이 경미하므로 첫 번째 선택약물로는 적절하지 않을 수 있습니다. 벤라팍신(Venlafaxine)은 세로토닌-노르에피네프린 재흡수 억제제(SNRI)로 주요우울장애 치료에 사용되지만, 양극성 장애 환자에서는 조증 전환의 위험이 있어 단독 사용은 권장되지 않습니다. 올란자핀(Olanzapine)은 비정형 항정신병약물로 급성 조증의 치료에 효과적이지만, 이 환자처럼 경미한 증상을 보이는 경우 부작용(체중 증가, 대사 장애 등)을 고려할 때 첫 번째 선택약물로는 적절하지 않습니다. 발프로산(Valproic acid)은 급성 조증의 치료와 재발 방지에 효과적인 기분안정제이지만, 가임기 여성에서는 기형 발생 위험과 다낭성 난소 증후군의 위험 증가로 인해 가능한 피하는 것이 좋습니다. 이 환자는 28세 여성으로 가임기에 해당하므로 발프로산보다는 라모트리진이 더 적절한 선택입니다.",
+  "source": {
+    "file_name": "The International Society for Bipolar Disorders (ISBD) Task Force Report on Antidepressant Use in Bipolar Disorders",
+    "content": "For bipolar II disorder or cyclothymic disorder with predominant depressive symptoms, lamotrigine has demonstrated efficacy for the prevention of depressive episodes without significantly increasing the risk of hypomanic switch. It has a favorable side effect profile with minimal weight gain and cognitive effects, making it a preferred option for younger patients and those concerned about these adverse effects. In women of childbearing potential, valproate should be avoided when possible due to its association with teratogenicity and polycystic ovary syndrome."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 104,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 자해/타해 및 자살의 위험도를 평가하여 적절하게 대처할 수 있다.",
+  "question": "58세 남성이 2개월 전부터 심해진 우울감, 불면, 불안을 주소로 가족과 함께 정신건강의학과 외래를 방문하였다. 환자는 최근 퇴직 후 무기력감을 느끼며, 아침에 기분이 더 저하되고, 5kg의 체중 감소가 있었다. 내원 당일 아침에는 '더 이상 살 이유가 없다'는 말을 하여 가족이 걱정하고 있다. 과거력상 10년 전 주요우울장애로 6개월간 치료받은 적이 있으며, 당시 항우울제 복용 후 증상이 호전되었다. 최근 2주간 불면이 심해져 일차 의료기관에서 처방받은 수면제를 복용 중이다. 신체 검진에서 특이 소견은 없었다. 이 환자의 자살 위험도 평가에서 가장 중요하게 고려해야 할 위험 요인은?",
+  "exam": "",
+  "options": {
+    "A": "남성",
+    "B": "퇴직 상태",
+    "C": "아침에 기분이 더 저하되는 일중 변동",
+    "D": "수면제 보유",
+    "E": "과거 우울증 치료력"
+  },
+  "answer": "A",
+  "explanation": "자살 위험도 평가에서 가장 중요한 위험 요인들 중 하나는 성별입니다. 남성은 여성보다 자살 시도는 적지만 완결된 자살(completed suicide)의 비율이 3-4배 높은 것으로 알려져 있습니다. 이는 남성이 치명적인 자살 방법(예: 총기, 목맴)을 선택하는 경향이 더 높기 때문입니다. 특히 이 환자는 58세 남성으로, 중년 이상 남성은 자살의 고위험군에 속합니다. 또한 환자는 최근 '더 이상 살 이유가 없다'는 자살 사고를 표현했고, 우울 증상, 불면, 체중 감소 등 주요우울장애의 증상을 보이고 있어 자살 위험이 증가된 상태입니다. 퇴직 상태는 자살의 위험 요인이 될 수 있으나, 남성이라는 인구학적 특성보다는 상대적으로 위험도가 낮습니다. 아침에 기분이 더 저하되는 일중 변동은 멜랑콜리아형 우울증의 특징으로 심각한 우울증을 시사할 수 있지만, 그 자체로 자살 위험의 가장 중요한 요인은 아닙니다. 수면제 보유는 자살 수단에 대한 접근성 측면에서 위험 요인이 될 수 있으나, 다른 치명적인 방법에 비해 상대적으로 위험도가 낮습니다. 과거 우울증 치료력은 자살 위험을 증가시킬 수 있는 요인이지만, 성별(남성)보다는 상대적으로 위험도가 낮습니다. 따라서 이 환자의 자살 위험도 평가에서 가장 중요하게 고려해야 할 위험 요인은 '남성'입니다.",
+  "source": {
+    "file_name": "American Psychiatric Association Practice Guidelines for the Assessment and Treatment of Patients with Suicidal Behaviors",
+    "content": "Demographic factors that are associated with increased risk for suicide include male gender, particularly elderly men. Men die by suicide at rates that are three to five times higher than those for women, and the gender disparity in suicide rates increases after age 65. Although women make more suicide attempts than men, men tend to use more lethal methods, leading to a higher rate of completed suicide. Other demographic factors associated with increased suicide risk include older age, unmarried status (particularly widowed), Caucasian or Native American ethnicity, and high levels of occupational stress or unemployment."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 105,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "62세 남성이 3개월 전부터 시작된 우울감, 집중력 저하, 기억력 감퇴를 주소로 내원하였다. 환자는 이전에 정신과적 문제로 치료받은 적이 없으며, 최근 배우자의 사망 이후 증상이 시작되었다고 한다. 내원 시 환자는 느린 말투와 정신운동 지체를 보이며, 질문에 대답하는 데 시간이 걸린다. 이 환자의 증상과 가장 관련 있는 진단은?",
+  "exam": "혈액검사:TSH 8.5 mIU/L(정상범위: 0.4-4.0 mIU/L), Free T4 0.8 ng/dL(정상범위: 0.9-1.7 ng/dL)로 확인됨. ",
+  "options": {
+    "A": "주요우울장애(Major depressive disorder)",
+    "B": "적응장애(Adjustment disorder with depressed mood)",
+    "C": "갑상선기능저하증에 의한 기분장애(Mood disorder due to hypothyroidism)",
+    "D": "정상 슬픔 반응(Normal grief)",
+    "E": "치매(Dementia)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 우울감, 집중력 저하, 기억력 감퇴와 같은 정신과적 증상과 함께 느린 말투와 정신운동 지체와 같은 임상 양상을 보이고 있습니다. 혈액검사에서 TSH 상승(8.5 mIU/L)과 Free T4 감소(0.8 ng/dL)가 확인되어 갑상선기능저하증(hypothyroidism)이 진단됩니다. 갑상선기능저하증은 우울, 인지 기능 저하, 피로, 정신운동 지체, 집중력 저하 등의 증상을 유발할 수 있으며, 이러한 증상들은 주요우울장애나 치매와 유사하게 나타날 수 있습니다. DSM-5에 따르면, 일반적 의학적 상태(갑상선기능저하증)로 인한 기분장애는 뚜렷한 지속적 기분 변화가 있고, 해당 의학적 상태가 병태생리학적 기전을 통해 기분 장애를 유발한다는 증거가 있을 때 진단할 수 있습니다. 이 환자의 경우, 갑상선기능저하증이 확인되었고 이는 기분 장애 증상을 유발할 수 있는 의학적 상태이므로, '갑상선기능저하증에 의한 기분장애(Mood disorder due to hypothyroidism)'가 가장 적절한 진단입니다. 주요우울장애는 일반적 의학적 상태의 직접적인 생리적 효과로 인한 것이 아닌 경우에 진단하므로, 이 환자에게는 적절하지 않습니다. 적응장애는 스트레스 요인(배우자 사망)에 대한 반응으로 발생할 수 있으나, 갑상선기능저하증이라는 의학적 원인이 확인된 상황에서는 이차적 원인에 의한 기분장애로 진단하는 것이 더 적절합니다. 정상 슬픔 반응은 배우자 사망과 관련될 수 있으나, 갑상선기능저하증의 결과가 있고 정신운동 지체와 같은 증상이 동반된 점을 고려할 때 이차적 원인에 의한 기분장애로 보는 것이 타당합니다. 치매는 인지 기능의 전반적 저하를 특징으로 하지만, 이 환자의 경우 갑상선기능저하증으로 인한 가역적 인지 기능 저하일 가능성이 높으므로 현 시점에서 치매 진단은 적절하지 않습니다.",
+  "source": {
+    "file_name": "Kaplan & Sadock's Synopsis of Psychiatry",
+    "content": "Hypothyroidism can present with significant psychiatric symptoms, including depressed mood, cognitive impairment, psychomotor retardation, and fatigue. These symptoms can mimic primary psychiatric disorders such as major depressive disorder or even dementia, particularly in elderly patients. According to DSM-5 criteria, when a mood disturbance is judged to be the direct physiological consequence of a specific medical condition (such as hypothyroidism), the appropriate diagnosis is mood disorder due to another medical condition. Laboratory findings consistent with hypothyroidism include elevated TSH and decreased free T4 levels. Treatment with thyroid hormone replacement often results in resolution or significant improvement of the psychiatric symptoms."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 106,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "42세 여성이 4개월 전부터 시작된 우울감과 기분 변동을 주소로 정신건강의학과를 방문하였다. 환자는 주 5일 근무하는 직장인으로, 주중에는 우울감과 의욕저하로 업무 수행에 어려움을 겪고 주말에는 기분이 좋아지는 패턴이 반복된다고 한다. 또한 계절에 따라 증상의 심각도가 달라지는데, 특히 가을과 겨울에 증상이 악화되고 봄과 여름에는 다소 호전된다고 보고한다. 과거력상 25세와 35세에 주요우울장애로 진단받고 항우울제 치료를 받은 적이 있으며, 당시 약물 복용 후 증상이 호전되었다. 현재 경미한 수면 장애와 집중력 저하가 있으나 자살 사고나 정신병적 증상은 없다. 이 환자에게 가장 적합한 치료 접근법은?",
+  "exam": "",
+  "options": {
+    "A": "인지행동치료(Cognitive Behavioral Therapy, CBT) 단독 치료",
+    "B": "선택적 세로토닌 재흡수 억제제(SSRI)와 광치료(Light therapy) 병행",
+    "C": "기분안정제(Mood stabilizer) 단독 치료",
+    "D": "항정신병약물(Antipsychotic) 저용량 처방",
+    "E": "전기경련치료(Electroconvulsive Therapy, ECT)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 주요우울장애의 특별한 아형인 계절성 정서장애(Seasonal Affective Disorder, SAD)의 특징을 보이고 있습니다. 환자는 가을과 겨울에 증상이 악화되고 봄과 여름에는 호전되는 계절적 패턴을 보이며, 주중에 증상이 악화되고 주말에 호전되는 양상도 있습니다. 이는 광노출(light exposure)의 감소와 관련이 있을 수 있습니다. 계절성 정서장애의 표준 치료는 항우울제(특히 SSRI)와 광치료(Light therapy)의 병행입니다. 광치료는 특히 일광 노출이 감소하는 가을과 겨울철에 효과적이며, 아침 시간에 10,000 룩스의 광원을 이용한 치료를 20-30분간 시행하는 것이 일반적입니다. 환자가 과거 항우울제 치료에 긍정적인 반응을 보였고 현재 우울 증상이 있으므로, SSRI 치료도 적절합니다. 인지행동치료(CBT)는 우울장애 치료에 효과적인 심리치료이지만, 계절성 정서장애의 특성을 고려할 때 광치료와 항우울제 병행이 더 효과적인 접근법입니다. 기분안정제는 양극성 장애나 순환성 장애와 같은 기분 변동이 심한 질환에서 주로 사용되는데, 이 환자의 경우 명확한 경조증이나 조증 삽화의 병력이 없어 일차 치료로는 적절하지 않습니다. 항정신병약물은 주요우울장애에서 보조 치료로 사용될 수 있으나, 이 환자는 정신병적 증상이 없고 계절성 패턴을 보이므로 일차 치료로는 적합하지 않습니다. 전기경련치료는 중증 우울증, 치료 저항성 우울증, 또는 급속한 증상 완화가 필요한 경우에 고려되는데, 이 환자의 증상 심각도와 과거 약물 치료에 대한 긍정적 반응을 고려할 때 일차 치료로는 과도한 접근법입니다.",
+  "source": {
+    "file_name": "American Psychiatric Association Practice Guidelines for the Treatment of Patients with Major Depressive Disorder",
+    "content": "For patients with seasonal affective disorder (SAD), a combination of antidepressant medication (particularly SSRIs) and light therapy is recommended as first-line treatment. Light therapy typically involves exposure to bright artificial light (10,000 lux) for 20-30 minutes each morning during the fall and winter months. This approach addresses both the serotonergic dysfunction and the circadian rhythm disruption that are thought to underlie SAD. Studies have shown that this combination is more effective than either treatment alone in managing the symptoms of SAD and preventing relapse. For individuals with a clear seasonal pattern to their depressive episodes, prophylactic treatment beginning before the onset of the fall/winter season should be considered."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 107,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 자해/타해 및 자살의 위험도를 평가하여 적절하게 대처할 수 있다.",
+  "question": "25세 여성이 1주일 전 자살 시도 후 응급실을 통해 정신과 병동에 입원하였다. 환자는 3년 전 양극성 장애 I형으로 진단받았으며, 최근 2개월간 심한 우울감, 무가치감, 불면, 식욕 저하, 자살 사고를 경험했다고 한다. 과거력상 총 3회의 조증 삽화와 4회의 주요 우울 삽화가 있었으며, 이전에도 2회의 자살 시도 병력이 있다. 현재 리튬과 항우울제를 복용 중이나 약물 순응도가 좋지 않았다고 한다. 입원 5일째, 환자는 기분이 크게 호전되었다고 보고하며 퇴원을 강력히 요청하고 있다. 이 환자의 현재 자살 위험도 평가에서 가장 우려되는 요인은?",
+  "exam": "",
+  "options": {
+    "A": "약물 순응도 문제",
+    "B": "급격한 기분 호전",
+    "C": "과거 자살 시도 병력",
+    "D": "양극성 장애 진단",
+    "E": "최근의 스트레스 사건"
+  },
+  "answer": "B",
+  "explanation": "이 환자의 현재 상황에서 가장 우려되는 자살 위험 요인은 입원 5일째 나타난 급격한 기분 호전입니다. 중증 우울증 환자가 갑자기 기분이 좋아지고 평온해 보이는 것은 역설적으로 자살 위험의 증가를 시사할 수 있습니다. 이는 환자가 자살을 결심함으로써 내적 갈등이 해소되고 결정에 대한 안도감을 느끼기 때문일 수 있습니다. 특히 입원 기간이 짧고 충분한 치료가 이루어지지 않은 상태에서의 급격한 기분 호전은 실제 증상의 호전보다는 자살 계획에 대한 확신에서 비롯된 표면적 안정일 가능성이 높습니다. 따라서 이런 상황에서 조기 퇴원은 매우 위험할 수 있습니다. 약물 순응도 문제는 장기적인 자살 위험 요인이지만, 현재 입원 상태에서는 약물 투여가 관리되고 있으므로 당장의 급성 위험 요인으로는 덜 중요합니다. 과거 자살 시도 병력은 중요한 위험 요인이지만, 이는 기존에 알려진 정보로 현재의 급격한 상태 변화보다는 배경 위험 요인으로 봐야 합니다. 양극성 장애 진단 역시 자살 위험을 증가시키는 요인이지만, 이 또한 기존에 알려진 정보입니다. 문제에서 최근의 구체적인 스트레스 사건에 대한 정보는 제공되지 않았으므로, 이를 주요 위험 요인으로 평가하기는 어렵습니다. 따라서 현재 상황에서 급격한 기분 호전이 가장 우려되는 자살 위험 요인입니다.",
+  "source": {
+    "file_name": "American Psychiatric Association Practice Guidelines for the Assessment and Treatment of Patients with Suicidal Behaviors",
+    "content": "Clinicians should be alert to rapid, dramatic changes in mood as potential markers for increased suicide risk. In particular, sudden improvement in mood and seeming calmness after a period of severe depression may indicate that the patient has made a decision to die by suicide. This phenomenon, sometimes referred to as 'terminal tranquility,' has been observed when a patient resolves the internal conflict through the decision to end their life, producing a sense of relief. The greatest period of risk may be when a severely depressed patient suddenly seems to have an increase in energy and motivation, as this may represent the point at which the patient has the energy to act on suicidal thoughts. Such dramatic mood changes warrant heightened clinical vigilance, particularly when observed in high-risk patients with recent suicidal ideation or attempts."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 108,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "30세 여성이 5주 전 출산 후 2주부터 시작된 심한 우울감, 불안, 불면을 주소로 정신건강의학과를 방문하였다. 환자는 하루 종일 울음을 그치지 못하며, 아이를 제대로 돌볼 수 없다는 자책감에 시달리고 있다. 또한 '아이에게 해를 끼칠 것 같은' 침습적 사고가 반복되어 극심한 불안을 느낀다고 한다. 식욕이 없어 체중이 감소했으며, 하루 2-3시간 이상 수면을 취하지 못한다. 과거력상 정신과적 질환은 없었으나, 가족력상 어머니가 산후우울증을 경험했다고 한다. 현재 모유 수유 중이다. 이 환자에게 가장 적합한 약물 치료는?",
+  "exam": "",
+  "options": {
+    "A": "에스시탈로프람(Escitalopram)",
+    "B": "리튬(Lithium)",
+    "C": "발프로산(Valproic acid)",
+    "D": "벤조디아제핀(Benzodiazepine) 단독 치료",
+    "E": "올란자핀(Olanzapine)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 출산 후 2주부터 시작된 우울감, 불안, 자책감, 수면 장애, 식욕 저하 등의 증상을 보이고 있어 산후우울증(postpartum depression)으로 진단할 수 있습니다. 산후우울증은 출산 후 4주 이내에 발생하는 주요우울장애로, 치료하지 않으면 산모와 영아 모두에게 심각한 영향을 미칠 수 있습니다. 모유 수유 중인 산후우울증 환자의 약물 치료에서는 항우울제의 모유 이행성과 안전성을 고려해야 합니다. 선택적 세로토닌 재흡수 억제제(SSRI) 계열인 에스시탈로프람(Escitalopram)은 산후우울증 치료에 효과적이며, 상대적으로 모유 이행률이 낮고 모유 수유 중인 영아에게 미치는 부정적 영향이 적은 것으로 알려져 있어 이 환자에게 가장 적합한 약물입니다. 리튬(Lithium)은 양극성 장애의 치료에 효과적인 기분안정제이지만, 모유로 상당량 이행되어 영아에게 갑상선 기능저하, 심장 부정맥 등의 부작용을 일으킬 수 있어 모유 수유 중인 환자에게는 권장되지 않습니다. 발프로산(Valproic acid)은 양극성 장애 치료에 사용되는 기분안정제이지만, 모유 수유 중인 영아에게 간독성과 혈액학적 이상을 일으킬 위험이 있고, 가임기 여성에서는 기형 발생 위험이 높아 산후 여성에게 적합하지 않습니다. 벤조디아제핀(Benzodiazepine)은 불안과 불면 증상에 단기적 완화를 제공할 수 있지만, 우울 증상 자체를 치료하지는 못하며, 장기 사용 시 의존성 위험이 있고 모유를 통해 영아에게 진정, 수유 곤란 등의 부작용을 일으킬 수 있어 단독 치료로는 적절하지 않습니다. 올란자핀(Olanzapine)은 비정형 항정신병약물로 정신병적 우울증이나 양극성 장애의 보조 치료제로 사용될 수 있으나, 이 환자는 정신병적 증상(환각, 망상)이 없는 산후우울증이므로 일차 치료제로는 적합하지 않습니다. 또한 올란자핀은 체중 증가, 대사 증후군 등의 부작용 위험이 있습니다.",
+  "source": {
+    "file_name": "American Psychiatric Association Practice Guidelines for the Treatment of Patients with Major Depressive Disorder",
+    "content": "For women with postpartum depression who are breastfeeding, selective serotonin reuptake inhibitors (SSRIs) are generally considered first-line pharmacotherapy due to their efficacy and relatively favorable safety profile. Among SSRIs, sertraline, paroxetine, and escitalopram have relatively lower rates of passage into breast milk and minimal reported adverse effects in breastfed infants. In contrast, lithium has substantial passage into breast milk and potential for infant toxicity, making it less suitable for breastfeeding women. Valproate is also problematic due to potential hepatotoxicity in infants and teratogenic concerns if subsequent pregnancy occurs. While benzodiazepines may provide short-term relief of anxiety and insomnia symptoms, they are not effective for treating the core depressive symptoms and may cause sedation in breastfed infants. Antipsychotics such as olanzapine should be reserved for women with psychotic features or as adjunctive therapy when first-line treatments are ineffective."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 109,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 병력청취와 신체진찰을 통해 기분장애를 진단할 수 있다.",
+  "question": "45세 남성이 2개월 전부터 시작된 기분변동과 충동조절 문제로 배우자와 함께 정신건강의학과를 방문하였다. 환자는 평소 안정적인 성격이었으나, 최근 갑자기 화를 잘 내고 충동적인 행동을 보이며, 기분이 급격하게 오르내린다고 한다. 낮에는 의욕이 넘치고 과도하게 활동적이다가 저녁에는 갑자기 우울해지는 패턴이 반복된다. 수면은 5-6시간으로 감소했으나 피로감은 없다고 한다. 최근 갑작스럽게 주식 투자를 시작하여 큰 손실을 보았으며, 평소와 달리 성적 욕구가 증가하여 가정불화가 생겼다고 한다. 과거력상 40세경 6개월간 지속된 심한 우울증으로 정신과 치료를 받은 적이 있으며, 당시 자살 시도 병력도 있다. 최근 특별한 스트레스 사건은 없었으며, 약물 사용력도 없다고 한다. 내원 당시 환자는 다소 과장된 말투와 행동을 보였으나, 지남력은 정상이었고 환각이나 망상은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "",
+  "options": {
+    "A": "양극성 I형 장애, 현재 조증 삽화(Bipolar I disorder, current episode manic)",
+    "B": "양극성 II형 장애, 현재 경조증 삽화(Bipolar II disorder, current episode hypomanic)",
+    "C": "순환성 장애(Cyclothymic disorder)",
+    "D": "경계성 인격장애(Borderline personality disorder)",
+    "E": "주의력결핍 과잉행동장애(Attention deficit hyperactivity disorder)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 기분 고양, 활동 증가, 수면 감소, 충동성 증가(주식 투자), 성적 욕구 증가 등 경조증(hypomania)의 특징적인 증상을 보이고 있습니다. 또한 과거에 6개월간 지속된 심한 우울증과 자살 시도력이 있습니다. 이러한 임상 양상은 양극성 II형 장애의 진단기준에 부합합니다. 양극성 II형 장애는 하나 이상의 주요 우울 삽화와 하나 이상의 경조증 삽화가 있었던 경우에 진단됩니다. 경조증은 조증보다 증상의 심각도가 낮고, 사회적·직업적 기능의 현저한 장애나 정신병적 증상을 동반하지 않으며, 입원이 필요하지 않는 상태입니다. 이 환자의 경우 기분 고양과 활동 증가가 있지만 환각이나 망상과 같은 정신병적 증상은 없으며, 직업적 기능에 심각한 장애를 초래할 정도는 아니어서 경조증에 해당합니다. 양극성 I형 장애는 조증 삽화가 적어도 한 번 이상 있었던 경우에 진단되는데, 조증은 경조증보다 증상이 더 심각하고, 사회적·직업적 기능의 현저한 장애를 초래하거나 정신병적 증상을 동반하거나 입원이 필요한 상태입니다. 이 환자는 정신병적 증상이 없고 기능 장애의 정도가 심각하지 않아 조증보다는 경조증에 더 부합합니다. 순환성 장애는 2년 이상 지속되는 수많은 경조증 증상과 우울 증상의 기간이 특징이며, 증상이 없는 기간이 연속 2개월을 초과하지 않습니다. 이 환자는 증상의 발생이 2개월 전부터로 비교적 최근이며, 과거 우울증 삽화는 6개월로 상당히 길었던 점을 고려할 때 순환성 장애보다는 양극성 II형 장애에 더 부합합니다. 경계성 인격장애는 정서적 불안정성, 충동성, 대인관계 불안정성, 정체성 혼란, 자해 행동 등을 특징으로 하는 인격장애입니다. 이 환자의 경우 최근에 갑자기 시작된 기분변동과 충동성이며, 과거에는 안정적인 성격이었다는 점에서 경계성 인격장애보다는 양극성 장애에 더 부합합니다. 주의력결핍 과잉행동장애는 소아기부터 시작되는 주의력 결핍, 과잉행동, 충동성을 특징으로 하는 신경발달장애입니다. 이 환자는 최근에 갑자기 시작된 증상이며 기분변동이 뚜렷하다는 점에서 ADHD보다는 양극성 장애에 더 부합합니다.",
+  "source": {
+    "file_name": "Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
+    "content": "Bipolar II disorder is characterized by a clinical course of recurring mood episodes consisting of one or more major depressive episodes and at least one hypomanic episode. A hypomanic episode is defined as a distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least 4 consecutive days and present most of the day, nearly every day. During this period, three (or more) of the following symptoms have persisted: inflated self-esteem or grandiosity, decreased need for sleep, more talkative than usual or pressure to keep talking, flight of ideas or racing thoughts, distractibility, increase in goal-directed activity or psychomotor agitation, and excessive involvement in activities with a high potential for painful consequences (e.g., unrestrained buying sprees, sexual indiscretions, or foolish business investments). The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic, but the disturbance is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization, and there are no psychotic features."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 110,
+  "chief_complaint": "기분장애",
+  "purpose": "기분장애를 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "52세 남성이 2주 전부터 갑자기 시작된 기분 고양, 과다 활동, 수면 감소를 주소로 가족과 함께 응급실에 내원하였다. 환자는 평소와 달리 말이 빨라지고 사고가 비약적이며, 자신이 특별한 능력을 가지고 있다고 믿고 있다. 24시간 내내 활동하며 거의 잠을 자지 않았고, 과도한 돈 씀씀이로 가족의 재정에 피해를 주고 있다고 한다. 과거력상 고혈압과 당뇨병으로 치료 중이며, 3개월 전 뇌졸중으로 입원 치료받은 이력이 있다. 가족력상 정신과적 질환은 없다고 한다. 이 환자의 현재 상태 평가를 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "소변 약물 선별검사(Urine drug screening)",
+    "B": "뇌 자기공명영상(Brain MRI)",
+    "C": "갑상선 기능검사(Thyroid function test)",
+    "D": "뇌척수액 검사(Cerebrospinal fluid analysis)",
+    "E": "혈중 약물 농도 측정(Serum medication level)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 갑작스럽게 발생한 조증 증상(기분 고양, 과다 활동, 수면 감소, 언어압박, 과대망상, 판단력 저하)을 보이고 있습니다. 그러나 과거에 정신과적 병력이 없고, 최근 3개월 전에 뇌졸중으로 입원 치료를 받았다는 점이 중요합니다. 조증 증상이 뇌졸중 이후에 발생했다는 것은 이차성 조증(secondary mania)의 가능성을 강하게 시사합니다. 뇌졸중, 특히 우측 대뇌반구의 병변은 이차성 조증을 유발할 수 있는 것으로 알려져 있습니다. 따라서 뇌 자기공명영상(Brain MRI)은 뇌졸중 후 발생한 뇌 병변과 현재의 조증 증상 사이의 관련성을 평가하는 데 가장 적절한 검사입니다. 또한 MRI는 새로운 뇌 병변이 발생했는지 평가하는 데도 도움이 됩니다. 소변 약물 선별검사는 약물 남용이나 물질 사용에 의한 조증 상태를 배제하기 위해 시행될 수 있으나, 이 환자의 경우 뇌졸중 후 발생한 이차성 조증의 가능성이 더 높으므로 뇌 영상 검사가 우선되어야 합니다. 갑상선 기능검사는 갑상선 기능항진증에 의한 조증 유사 증상을 감별하는 데 중요하지만, 뇌졸중 후 발생한 증상이라는 임상적 맥락을 고려할 때 뇌 영상 검사가 더 우선적으로 필요합니다. 뇌척수액 검사는 중추신경계 감염이나 염증성 질환을 의심할 때 유용하지만, 이 환자의 임상 양상은 뇌졸중 후 이차성 조증에 더 부합하므로 일차적으로 필요한 검사는 아닙니다. 혈중 약물 농도 측정은 환자가 복용 중인 약물의 농도가 치료 범위에 있는지 확인하거나 독성 여부를 평가하는 데 유용하지만, 이 환자의 경우 약물에 의한 조증보다는 뇌 병변에 의한 이차성 조증의 가능성이 더 높으므로 뇌 영상 검사가 우선되어야 합니다.",
+  "source": {
+    "file_name": "Journal of Neuropsychiatry and Clinical Neurosciences",
+    "content": "Secondary mania refers to manic symptoms that are due to a medical condition, substance use, or medication, rather than primary bipolar disorder. Neurological causes of secondary mania include stroke (particularly right hemispheric lesions), traumatic brain injury, brain tumors, multiple sclerosis, and neurodegenerative diseases. When evaluating patients with new-onset manic symptoms, especially in the context of recent neurological events such as stroke, neuroimaging studies such as MRI are essential to identify potential structural causes. The management of secondary mania focuses on treating the underlying neurological condition while also managing the acute manic symptoms, typically with mood stabilizers and/or antipsychotics."
+  },
+  "category": "Psychiatry"
+}, 
 
 
 
