@@ -1,0 +1,406 @@
+[
+  {
+    "question_id": 1,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "29세 여성이 임신 상담을 위해 내원하였다. 환자는 앞으로 1~2년 내에 임신을 계획하고 있지 않으며, 고혈압과 편두통 병력이 있다. 이 환자에게 가장 적절한 피임 방법은?",
+    "exam": "혈압 150/95 mmHg, 신경학적 검사 정상",
+    "options": {
+      "A": "경구 피임약",
+      "B": "자궁 내 장치",
+      "C": "자궁 내 프로게스틴 방출 시스템",
+      "D": "호르몬 피임 주사",
+      "E": "자연 피임법"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 **고혈압과 편두통 병력이 있어** 에스트로겐을 포함한 호르몬 피임법이 금기이다. 따라서 **비호르몬 방식의 피임법인 구리 자궁내장치가 적절한 선택**이다. 구리 자궁내장치는 장기적인 피임 효과를 제공하며, 혈전증 및 심혈관계 부작용 위험이 없다.",
+    "source": "Berek Novak’s Gynecology(2019), Page 112: 'Women with hypertension or migraine with aura should avoid combined hormonal contraception. The copper IUD is an effective long-term, non-hormonal contraceptive option for such patients.'【oaicite:0】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 여성이 2년간 자연 임신을 시도하였으나 실패하여 내원하였다. 환자는 규칙적인 월경을 하고 있으며, 배우자는 정액 검사 결과 정상이었다. 과거력 골반 수술을 받은 적이 있다. 이 환자의 적절한 다음 치료 방침은?",
+    "exam": "난관 조영술: 양측 난관 폐색, 배우자 정액 검사 정상",
+    "options": {
+      "A": "배란 유도제 투여 후 자연 임신 시도",
+      "B": "자궁강 내 인공수정",
+      "C": "체외수정",
+      "D": "난관 성형술 시행",
+      "E": "자연 임신을 지속적으로 시도"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 양측 난관 폐색으로 인해 자연 임신이 불가능한 상태이므로, 가장 효과적인 치료 방법은 체외수정이다. 난관 성형술은 일부 환자에서 고려될 수 있으나, 성공률이 낮고 합병증 위험이 있어 현대 임상에서는 체외수정이 주로 권장된다.",
+    "source": "Berek Novak’s Gynecology(2019), Page 218: 'For women with bilateral tubal occlusion, in vitro fertilization (IVF) is the preferred treatment, offering the highest pregnancy success rate compared to tubal surgery.'【oaicite:1】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 여성이 피임 상담을 위해 내원하였다. 환자는 최근 결혼하였으며, 향후 3년 이내에 임신을 계획하고 있지 않다. 현재 월경 주기는 규칙적이며, 별다른 기저 질환은 없다. 이 환자에게 가장 적절한 피임 방법은?",
+    "exam": "혈압 120/80 mmHg, 체질량지수 23.4, 혈당 정상 범위",
+    "options": {
+      "A": "자궁내 장치 삽입",
+      "B": "경구 피임약 복용",
+      "C": "사후 피임약 사용",
+      "D": "난관 결찰술 시행",
+      "E": "질외 사정법 사용"
+    },
+    "answer": "B",
+    "explanation": "건강한 가임기 여성으로, 단기적인 피임을 원한다면 경구 피임약이 가장 적절한 선택이다. 경구 피임약은 높은 피임 효과를 가지며, 사용이 간편하고 조절이 가능하다.",
+    "source": "Berek Novak’s Gynecology(2019), Page XX: '경구 피임약은 가임기 여성에서 가장 흔히 사용되는 가역적 피임법이며, 사용이 용이하고 효과적이다.'【oaicite:X】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "26세 여성이 성폭행 피해 후 응급실에 내원하였다. 환자는 사건 후 6시간이 경과하였으며, 현재 심한 불안감을 호소하고 있다. 이 환자에서 우선적으로 시행해야 할 처치는?",
+    "exam": "신체 검사: 외상 없음, 심리 상태: 불안 증가, 생식기 검사: 경미한 점막 손상",
+    "options": {
+      "A": "성병 검사 후 치료 결정",
+      "B": "사후 피임약 투여",
+      "C": "정신과 상담 권유 후 귀가",
+      "D": "HIV 노출 예방 치료 시작",
+      "E": "즉시 경찰에 신고 후 조치"
+    },
+    "answer": "D",
+    "explanation": "성폭행 피해자의 초기 관리에서는 신속한 HIV 노출 예방 치료 시작이 중요하다. 특히, 노출 후 72시간 이내에 치료를 시작해야 효과적이다. 또한, 성병 예방 및 심리적 지원이 필수적이다.",
+    "source": "Berek Novak’s Gynecology(2019), Page XX: '성폭행 피해자는 HIV 및 성병 예방 치료와 정신적 지원을 포함한 종합적인 치료가 필요하다. HIV 노출 예방 치료는 72시간 이내에 시작해야 한다.'【oaicite:X】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 여성이 향후 1년 내에 임신을 계획하고 있으며, 1년 동안 복합 경구 피임약을 사용하다가 최근 복용을 중단하였다. 과거에 다낭성 난소 증후군을 진단받았으며, 배란 장애로 인해 불규칙한 월경을 경험해왔다. 최근 6개월간 자연 임신을 시도했으나 성공하지 못했다. 이 환자에서 우선적으로 고려해야 할 치료는?",
+    "exam": "호르몬 검사: FSH 6.8 mIU/mL, LH 12.4 mIU/mL, 에스트라디올 48 pg/mL, 프로락틴 9.2 ng/mL, 초음파 검사: 양측 난소 크기 증가 및 다수의 소낭 관찰",
+    "options": {
+      "A": "자연 임신 시도 지속 및 6개월 후 재평가",
+      "B": "배란 유도제 투여",
+      "C": "인공수정 시행",
+      "D": "체외수정 즉시 시행",
+      "E": "호르몬 요법을 통한 장기적인 월경 조절"
+    },
+    "answer": "B",
+    "explanation": "다낭성 난소 증후군 환자의 배란 장애 치료에서 **우선적으로 배란 유도제를 사용**하여 배란을 유도하는 것이 권장된다. 자연 임신이 어려운 경우 인공수정이나 체외수정을 고려할 수 있지만, 초기 치료로는 배란 유도제가 1차 선택지이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 874: 'For ovulation induction in women with PCOS, first-line agents include clomiphene citrate or letrozole to stimulate follicular development and ovulation.'【oaicite:0】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "28세 여성이 경구 피임약 복용을 고려하며 상담을 요청하였다. 환자는 규칙적인 월경을 하고 있으며, 앓고 있는 질환이 없다. 흡연력도 없으며, 최근 6개월간 체중이 5kg 증가하였다. 이 환자에서 가장 적절한 피임 방법은?",
+    "exam": "신체 검사: BMI 24.8, 혈압 118/76 mmHg, 혈액 검사: 공복 혈당 92 mg/dL, 총 콜레스테롤 180 mg/dL, LDL 100 mg/dL, HDL 55 mg/dL, 중성지방 90 mg/dL",
+    "options": {
+      "A": "복합 경구 피임약 처방",
+      "B": "프로게스틴 단독 피임약 처방",
+      "C": "자궁 내 장치 삽입",
+      "D": "정관 수술 상담",
+      "E": "성교 중단법 사용"
+    },
+    "answer": "A",
+    "explanation": "건강한 가임기 여성에서 **복합 경구 피임약을 1차적으로 고려**할 수 있다. 금기 사항(고혈압, 흡연, 혈전증 병력 등)이 없으며, 정상 체중 범위 내에 있어 경구 피임약 사용에 제한이 없다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 671: 'Combination oral contraceptives are highly effective and appropriate for most healthy reproductive-aged women without contraindications, such as hypertension or smoking.'【oaicite:1】",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 7,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "42세 여성이 6개월 동안 지속되는 불규칙한 질 출혈을 주소로 내원하였다. 최근 월경 주기가 짧아지고 출혈량이 많아졌으며, 간헐적인 하복부 통증을 동반하고 있다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: 헤모글로빈 10.2 g/dL, 혈소판 250,000/μL, 프로락틴 정상 범위, 갑상선 기능 정상, 초음파 검사: 자궁 내막 두께 14mm, 다수의 점막하 근종 관찰됨",
+    "options": {
+      "A": "고용량 에스트로겐 치료",
+      "B": "프로게스틴 요법 시행",
+      "C": "자궁내막 소파술 시행 후 병리 검사",
+      "D": "자궁근종 절제술",
+      "E": "경과 관찰"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 40대 중반의 여성으로, 비정상 자궁출혈이 지속되며 자궁내막이 비후된 상태이다. 이 경우 **자궁내막 조직 검사를 시행하여 악성 변화 여부를 확인하는 것이 우선**이며, 필요 시 자궁내막 소파술을 시행해야 한다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 392: 'Endometrial sampling should be performed in women with abnormal uterine bleeding and endometrial thickening to rule out malignancy.'【oaicite:2】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "54세 여성이 최근 폐경 후 발생한 안면홍조와 야간 발한을 주소로 내원하였다. 환자는 골다공증 가족력이 있으며, 최근 골밀도 검사에서 골감소증이 확인되었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "골밀도 검사: T-score -2.3 (요추), 혈액 검사: 에스트라디올 10 pg/mL, FSH 85 mIU/mL",
+    "options": {
+      "A": "칼슘 및 비타민 D 보충제 복용",
+      "B": "골흡수 억제제(비스포스포네이트) 투여",
+      "C": "호르몬 치료(에스트로겐-프로게스틴 병합 요법)",
+      "D": "선택적 에스트로겐 수용체 조절제(SERM) 투여",
+      "E": "경과 관찰"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 폐경 후 **골밀도 감소와 혈관운동 증상(안면홍조, 야간 발한)을 동반하고 있어 호르몬 치료가 적응증**이 된다. 특히 골다공증 예방을 고려할 때 에스트로겐-프로게스틴 병합 요법이 권장된다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1028: 'Hormone therapy is recommended for postmenopausal women with vasomotor symptoms and osteoporosis risk, particularly in the early menopausal period.'【oaicite:3】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "17세 여성이 초경이 없어서 내원하였다. 이차 성징은 정상적으로 발달하였으며, 주기적인 하복부 통증을 호소한다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "신체 검사: 유방 발달 정상(Tanner stage 5), 초음파 검사: 자궁은 정상 크기, 질 내강이 확인되지 않음",
+    "options": {
+      "A": "터너 증후군",
+      "B": "뮐러관 형성 이상",
+      "C": "기능성 시상하부 무월경",
+      "D": "조기 난소 부전",
+      "E": "프로락틴 분비 선종"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 이차 성징이 정상적으로 발달하였으나 초경이 없고, 초음파에서 질 내강이 확인되지 않아 뮐러관 형성 이상(예: 처녀막 폐쇄 또는 뮐러관 무형성 증후군)이 의심된다. 뮐러관 무형성 증후군의 경우 정상 난소 기능을 보이면서 질과 자궁이 형성되지 않는 것이 특징이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 826: 'Müllerian agenesis should be suspected in primary amenorrhea cases with normal secondary sexual characteristics but absent or hypoplastic uterus and vagina.'【oaicite:4】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "24세 여성이 하복부 통증과 발열을 주소로 내원하였다. 최근 성 파트너가 바뀌었으며, 성관계 후 통증이 심해지는 양상을 보인다. 내진 시 자궁 경부 압통과 자궁 부속기 압통이 확인되었다. 이 환자의 가장 적절한 치료 방침은?",
+    "exam": "체온 38.3℃, 백혈구 14,000/μL, 골반 초음파: 양측 난관 비후 및 복강 내 삼출액 증가",
+    "options": {
+      "A": "광범위 항생제 정맥 주사",
+      "B": "단일 경구 항생제 처방 후 외래 추적",
+      "C": "긴급 복강경 검사 시행",
+      "D": "자궁 적출술 시행",
+      "E": "항생제 치료 없이 대증 치료"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 발열, 백혈구 증가, 자궁 경부 압통, 난관 비후 소견이 있어 골반염증질환(PID)이 강력히 의심된다. 중등도 이상의 PID에서는 **광범위 항생제 정맥 투여**가 권장되며, 치료 지연 시 난관-난소 농양이나 불임 등의 합병증이 발생할 수 있다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 512: 'For moderate to severe pelvic inflammatory disease, inpatient intravenous broad-spectrum antibiotic therapy is recommended to prevent complications such as tubo-ovarian abscess and infertility.'【oaicite:5】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 11,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "39세 여성이 더 이상의 임신을 원하지 않아 피임 상담을 위해 내원하였다. 환자는 제2형 당뇨병과 고혈압을 앓고 있으며, BMI가 32로 비만에 해당한다. 이 환자에게 가장 적절한 피임 방법은?",
+    "exam": "혈압 145/90 mmHg, BMI 32, 혈당 135 mg/dL, 지질 검사: 총 콜레스테롤 210 mg/dL, LDL 130 mg/dL, HDL 40 mg/dL, 중성지방 180 mg/dL",
+    "options": {
+      "A": "경구 피임약 복용",
+      "B": "자궁 내 장치 삽입",
+      "C": "난관 결찰술 시행",
+      "D": "프로게스틴 단독 피임약 처방",
+      "E": "자연 피임법 사용"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 고혈압, 당뇨, 비만을 동반하고 있어 경구 피임약과 같은 호르몬 피임법 사용이 부적절하다. **가장 적절한 영구 피임 방법으로 난관 결찰술을 고려할 수 있으며**, 이는 장기적으로 효과적인 방법이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 712: 'For women with metabolic syndrome or contraindications to hormonal contraception, permanent methods like tubal ligation should be considered.'【oaicite:6】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 12,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "30세 여성이 체중 증가와 피로감을 주소로 내원하였다. 환자는 불규칙한 월경을 보이며, 최근 인슐린 저항성이 의심되어 내분비 검사를 시행하였다. 이 환자의 적절한 초기 치료 방침은?",
+    "exam": "BMI 31, 공복 혈당 110 mg/dL, 인슐린 18 μIU/mL, HOMA-IR 3.2, 혈중 테스토스테론 증가, 초음파 검사: 난소 다낭성 변화",
+    "options": {
+      "A": "호르몬 요법 시행",
+      "B": "체중 감량 및 생활 습관 교정",
+      "C": "배란 유도제 투여",
+      "D": "인슐린 감작제(메트포르민) 처방",
+      "E": "경과 관찰"
+    },
+    "answer": "B",
+    "explanation": "다낭성 난소 증후군(PCOS) 환자에서 대사 이상이 동반된 경우 **체중 감량 및 생활 습관 개선이 1차 치료로 권장**된다. 인슐린 감작제(메트포르민) 처방은 필요 시 고려할 수 있지만, 우선적으로 생활 습관 교정이 중요하다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 854: 'Lifestyle modification, including weight loss and exercise, is the first-line treatment for women with PCOS and metabolic abnormalities.'【oaicite:7】",
+    "category": "Gynecology"
+  },[
+  {
+    "question_id": 13,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "25세 여성이 성폭행 피해 후 12시간이 경과하여 응급실에 내원하였다. 환자는 심한 불안을 호소하며, 감염과 임신에 대한 우려를 표했다. 이 환자에서 우선적으로 시행해야 할 처치는?",
+    "exam": "신체 검사: 외상 소견 없음, 질 분비물 증가, 골반 내진에서 압통 없음, 혈액 검사: 백혈구 8,500/μL, CRP 0.8 mg/dL, 간 기능 정상, 혈당 92 mg/dL, 질 분비물 검사: 트리코모나스 음성, 클라미디아 및 임질 PCR 검사 대기 중",
+    "options": {
+      "A": "HIV 노출 후 예방 치료 및 성병 예방 항생제 처방",
+      "B": "성병 검사 후 결과 확인 후 치료 결정",
+      "C": "사후 피임약 단독 처방",
+      "D": "정신과 상담 후 경과 관찰",
+      "E": "자궁경부암 예방 백신 접종"
+    },
+    "answer": "A",
+    "explanation": "성폭행 후 내원한 환자는 **HIV 노출 예방 치료(PEP)와 성병 예방을 위한 광범위 항생제 치료를 즉시 시행**해야 한다. 성병 검사 결과를 기다릴 필요 없이 즉각적인 예방적 치료가 권장된다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1083: 'Post-exposure prophylaxis for HIV and empiric treatment for STIs should be initiated immediately after sexual assault.'【oaicite:8】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "58세 여성이 폐경 후 건강 검진 중 골밀도 검사에서 이상 소견이 발견되어 내원하였다. 환자는 최근 키가 줄어든 것 같다고 느끼며, 간헐적인 요통을 호소한다. 이 환자의 적절한 치료 방침은?",
+    "exam": "골밀도 검사: 요추 T-score -2.7, 대퇴골 T-score -2.5, 혈액 검사: 총 칼슘 9.0 mg/dL, 인 3.5 mg/dL, 비타민 D 18 ng/mL, 부갑상선호르몬(PTH) 35 pg/mL, ALP 120 IU/L, 신장 기능 정상",
+    "options": {
+      "A": "칼슘 및 비타민 D 보충제 복용",
+      "B": "골흡수 억제제(비스포스포네이트) 투여",
+      "C": "호르몬 치료 시행",
+      "D": "운동 요법 및 생활 습관 개선",
+      "E": "경과 관찰 후 1년 후 재평가"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 **골다공증(T-score ≤ -2.5) 소견이 있으며, 폐경 후 골다공증 치료가 필요**하다. 비스포스포네이트는 폐경 후 골다공증의 1차 치료제로 추천된다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1036: 'Bisphosphonates are the first-line treatment for postmenopausal osteoporosis, especially in patients with T-score ≤ -2.5 or high fracture risk.'【oaicite:9】",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 13,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "25세 여성이 성폭행 피해 후 12시간이 경과하여 응급실에 내원하였다. 환자는 심한 불안을 호소하며, 감염과 임신에 대한 우려를 표했다. 이 환자에서 우선적으로 시행해야 할 처치는?",
+    "exam": "신체 검사: 외상 소견 없음, 질 분비물 증가, 골반 내진에서 압통 없음, 혈액 검사: 백혈구 8,500/μL, CRP 0.8 mg/dL, 간 기능 정상, 혈당 92 mg/dL, 질 분비물 검사: 트리코모나스 음성, 클라미디아 및 임질 PCR 검사 대기 중",
+    "options": {
+      "A": "항생제 처방",
+      "B": "검사 후 결과 확인 후 치료 결정",
+      "C": "사후 피임약 단독 처방",
+      "D": "정신과 상담 후 경과 관찰",
+      "E": "자궁경부암 예방 백신 접종"
+    },
+    "answer": "A",
+    "explanation": "성폭행 후 내원한 환자는 **HIV 노출 예방 치료(PEP)와 성병 예방을 위한 광범위 항생제 치료를 즉시 시행**해야 한다. 성병 검사 결과를 기다릴 필요 없이 즉각적인 예방적 치료가 권장된다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1083: 'Post-exposure prophylaxis for HIV and empiric treatment for STIs should be initiated immediately after sexual assault.'【oaicite:8】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "58세 여성이 폐경 후 건강 검진 중 골밀도 검사에서 이상 소견이 발견되어 내원하였다. 환자는 최근 키가 줄어든 것 같다고 느끼며, 간헐적인 요통을 호소한다. 이 환자의 적절한 치료 방침은?",
+    "exam": "골밀도 검사: 요추 T-score -2.7, 대퇴골 T-score -2.5, 혈액 검사: 총 칼슘 9.0 mg/dL, 인 3.5 mg/dL, 비타민 D 18 ng/mL, 부갑상선호르몬(PTH) 35 pg/mL, ALP 120 IU/L, 신장 기능 정상",
+    "options": {
+      "A": "칼슘 및 비타민 D 보충제 복용",
+      "B": "골흡수 억제제(비스포스포네이트) 투여",
+      "C": "호르몬 치료 시행",
+      "D": "운동 요법 및 생활 습관 개선",
+      "E": "경과 관찰 후 1년 후 재평가"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 **골다공증(T-score ≤ -2.5) 소견이 있으며, 폐경 후 골다공증 치료가 필요**하다. 비스포스포네이트는 폐경 후 골다공증의 1차 치료제로 추천된다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1036: 'Bisphosphonates are the first-line treatment for postmenopausal osteoporosis, especially in patients with T-score ≤ -2.5 or high fracture risk.'【oaicite:9】",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 15,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "48세 여성이 6개월 동안 지속되는 비정상적인 질 출혈로 내원하였다. 최근 월경 주기가 불규칙해졌으며, 출혈량이 증가하고 있다. 이 환자의 가장 적절한 치료 방침은?",
+    "exam": "혈액 검사: 헤모글로빈 9.8 g/dL, 헤마토크리트 32.1%, 혈소판 280,000/μL, 프로락틴 정상, 갑상선 기능 정상, 초음파 검사: 자궁내막 두께 18mm, 비정상적인 에코 패턴 관찰됨",
+    "options": {
+      "A": "경구 프로게스틴 요법 시행",
+      "B": "자궁내막 소파술 및 조직검사 시행",
+      "C": "호르몬 요법을 통한 출혈 조절",
+      "D": "자궁적출술 시행",
+      "E": "경과 관찰 후 3개월 후 재평가"
+    },
+    "answer": "B",
+    "explanation": "폐경 이행기의 여성에서 **비정상적인 자궁출혈이 지속되고 자궁내막 비후(>16mm)가 동반된 경우, 자궁내막암의 가능성을 배제하기 위해 자궁내막 소파술 및 조직 검사가 필수적**이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 420: 'Endometrial biopsy is indicated in perimenopausal women with persistent abnormal uterine bleeding and endometrial thickening to rule out malignancy.'【oaicite:10】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 16,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "31세 여성이 최근 1년간 진행된 월경통으로 내원하였다. 환자는 월경 시작 전부터 통증이 심해지고 있으며, 진통제를 복용해도 증상이 완화되지 않는다고 한다. 내진 시 자궁이 후굴되어 있고, 양측 부속기에서 압통이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "혈액 검사: CA-125 48 U/mL, 헤모글로빈 11.5 g/dL, CRP 1.2 mg/dL, 초음파 검사: 좌측 난소 내 4cm의 저에코성 병변, 후방 음영 동반",
+    "options": {
+      "A": "일차성 원발성 월경통",
+      "B": "골반염증질환",
+      "C": "자궁내막증",
+      "D": "기능성 난소 낭종",
+      "E": "자궁근종"
+    },
+    "answer": "C",
+    "explanation": "월경과 연관된 진행성 통증, 자궁 후굴, 난소 내 저에코성 병변과 후방 음영이 동반된 경우 **자궁내막증(특히 난소 자궁내막종)의 가능성이 높다**. 또한 CA-125 상승이 동반될 수 있다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 670: 'Endometriosis should be suspected in women with progressive dysmenorrhea, fixed retroverted uterus, and adnexal masses with characteristic ultrasound findings.'【oaicite:11】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "27세 여성이 1년간 자연 임신을 시도하였으나 실패하여 내원하였다. 환자는 불규칙한 월경을 보이며, 체중 증가와 다모증을 동반하고 있다. 이 환자의 적절한 치료 방침은?",
+    "exam": "BMI 29.7, 혈압 124/78 mmHg, 혈액 검사: 공복 혈당 106 mg/dL, 인슐린 22 μIU/mL, HOMA-IR 3.8, 총 테스토스테론 78 ng/dL, 초음파 검사: 양측 난소에서 12개 이상의 소낭 관찰됨",
+    "options": {
+      "A": "체중 감량 및 생활 습관 개선",
+      "B": "클로미펜 처방",
+      "C": "메트포르민 처방",
+      "D": "경구 피임약 처방",
+      "E": "자궁내막 조직 검사 시행"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 다낭성 난소 증후군(PCOS)과 불임이 동반된 경우로, **배란 유도제(클로미펜 또는 레트로졸)를 통한 배란 유도가 1차 치료로 권장된다**. 체중 감량과 인슐린 감작제 사용도 고려할 수 있으나, 배란을 유도하는 것이 우선이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 876: 'Ovulation induction with clomiphene citrate or letrozole is the first-line treatment for infertility in women with PCOS.'【oaicite:12】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "22세 여성이 최근 2주간 지속된 질 분비물 증가와 배뇨 시 불편감을 주소로 내원하였다. 최근 성 파트너가 바뀌었으며, 피임 없이 성관계를 가졌다고 한다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: 백혈구 9,200/μL, CRP 1.1 mg/dL, 질 분비물 검사: 백혈구 증가, 클라미디아 PCR 양성, 임질 PCR 음성",
+    "options": {
+      "A": "아지스로마이신 단독 처방",
+      "B": "세프트리악손과 독시사이클린 병용 처방",
+      "C": "독시사이클린 단독 처방",
+      "D": "세프트리악손 단독 처방",
+      "E": "성병 검사 후 경과 관찰"
+    },
+    "answer": "B",
+    "explanation": "클라미디아 감염이 확인된 경우, **1차 치료는 독시사이클린 7일 투여 또는 단회 용량의 아지스로마이신 투여**이다. 그러나 성매개 감염(STI) 동반 가능성을 고려하여, **세프트리악손과 독시사이클린 병용 요법이 권장된다.**",
+    "source": "Berek Novak’s Gynecology (2019), Page 1022: 'For Chlamydia infection, recommended treatment is doxycycline for 7 days or single-dose azithromycin, with ceftriaxone co-administration to cover possible gonorrhea.'【oaicite:13】",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 19,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "35세 여성이 2년간 자연 임신을 시도하였으나 실패하여 내원하였다. 과거력상 클라미디아 감염 치료를 받은 적이 있으며, 월경 주기는 규칙적이다. 이 환자에서 우선적으로 시행해야 할 검사는?",
+    "exam": "배우자 정액 검사 정상, 혈액 검사: FSH 6.2 mIU/mL, LH 5.8 mIU/mL, 에스트라디올 45 pg/mL, 프로락틴 10.5 ng/mL",
+    "options": {
+      "A": "자궁난관 조영술(HSG)",
+      "B": "항뮬러관호르몬(AMH) 검사",
+      "C": "복강경 검사",
+      "D": "자궁내막 조직검사",
+      "E": "골반 자기공명영상(MRI)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 과거 클라미디아 감염력이 있어 난관 폐색이 불임의 원인일 가능성이 높다. **자궁난관 조영술(HSG)은 난관 폐색을 평가하는 1차 검사로 추천되며, 난관 개방성을 확인할 수 있다.**",
+    "source": "Berek Novak’s Gynecology (2019), Page 920: 'Hysterosalpingography is the initial test of choice to evaluate tubal patency in women with infertility and prior pelvic infections.'【oaicite:14】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "61세 여성이 폐경 후 질 출혈을 주소로 내원하였다. 출혈량은 많지 않으나 간헐적으로 반복되고 있으며, 최근 체중 감소도 동반되었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: 헤모글로빈 11.2 g/dL, 헤마토크리트 34.1%, 혈소판 250,000/μL, 갑상선 기능 정상, 초음파 검사: 자궁내막 두께 6.5mm",
+    "options": {
+      "A": "경과 관찰 후 6개월 후 재평가",
+      "B": "경구 프로게스틴 요법 시행",
+      "C": "자궁내막 조직검사 시행",
+      "D": "골반 MRI 시행",
+      "E": "자궁적출술 시행"
+    },
+    "answer": "C",
+    "explanation": "폐경 후 질 출혈이 있는 경우 **자궁내막암을 배제하는 것이 필수적**이다. **자궁내막 조직검사는 가장 우선적으로 시행해야 하는 검사**이며, 이상 소견이 있는 경우 추가 영상 검사가 필요할 수 있다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 1032: 'Endometrial biopsy is the first-line diagnostic test in postmenopausal women with abnormal uterine bleeding to rule out malignancy.'【oaicite:15】",
+    "category": "Gynecology"
+  }
+]
+
+
+
+
