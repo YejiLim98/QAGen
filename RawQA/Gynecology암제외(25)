@@ -1,28 +1,28 @@
 [
   {
     "question_id": 1,
-    "chief complaint": "",
+    "chief complaint": "피임",
     "purpose": "",
     "question": "29세 여성이 임신 상담을 위해 내원하였다. 환자는 앞으로 1~2년 내에 임신을 계획하고 있지 않으며, 고혈압과 편두통 병력이 있다. 이 환자에게 가장 적절한 피임 방법은?",
-    "exam": "혈압 150/95 mmHg, 신경학적 검사 정상",
+    "exam": "혈압 150/95 mmHg, 심박수 78회/분, BMI 26.4, 혈액 검사: 총 콜레스테롤 220 mg/dL, LDL 140 mg/dL, HDL 50 mg/dL, 중성지방 170 mg/dL, 혈당 98 mg/dL, AST 22 IU/L, ALT 18 IU/L, ALP 72 IU/L, 총 빌리루빈 0.7 mg/dL, 혈중 크레아티닌 0.9 mg/dL, 사구체여과율(eGFR) 95 mL/min/1.73m², 신경학적 검사: 신경학적 결손 없음, 뇌 MRI: 이상 소견 없음",
     "options": {
-      "A": "경구 피임약",
-      "B": "자궁 내 장치",
+      "A": "복합 경구 피임약",
+      "B": "자궁 내 장치(구리)",
       "C": "자궁 내 프로게스틴 방출 시스템",
       "D": "호르몬 피임 주사",
-      "E": "자연 피임법"
+      "E": "피하 이식형 임플란트"
     },
     "answer": "B",
-    "explanation": "이 환자는 **고혈압과 편두통 병력이 있어** 에스트로겐을 포함한 호르몬 피임법이 금기이다. 따라서 **비호르몬 방식의 피임법인 구리 자궁내장치가 적절한 선택**이다. 구리 자궁내장치는 장기적인 피임 효과를 제공하며, 혈전증 및 심혈관계 부작용 위험이 없다.",
+    "explanation": "이 환자는 **고혈압(>140/90 mmHg)과 편두통 병력이 있어** 에스트로겐이 포함된 피임법(복합 경구 피임약, 호르몬 피임 주사, 일부 피임 패치 및 질내 고리)이 금기이다. 또한, 혈중 LDL 상승과 중성지방 증가가 확인되어 심혈관 질환 위험이 존재한다. 따라서 **비호르몬 방식의 피임법인 구리 자궁내장치가 적절한 선택**이다. 구리 자궁내장치는 장기적인 피임 효과를 제공하며, 혈전증 및 심혈관계 부작용 위험이 없다.",
     "source": "Berek Novak’s Gynecology(2019), Page 112: 'Women with hypertension or migraine with aura should avoid combined hormonal contraception. The copper IUD is an effective long-term, non-hormonal contraceptive option for such patients.'【oaicite:0】",
     "category": "Gynecology"
   },
   {
     "question_id": 2,
-    "chief complaint": "",
+    "chief complaint": "산전관리",
     "purpose": "",
-    "question": "32세 여성이 2년간 자연 임신을 시도하였으나 실패하여 내원하였다. 환자는 규칙적인 월경을 하고 있으며, 배우자는 정액 검사 결과 정상이었다. 과거력 골반 수술을 받은 적이 있다. 이 환자의 적절한 다음 치료 방침은?",
-    "exam": "난관 조영술: 양측 난관 폐색, 배우자 정액 검사 정상",
+    "question": "32세 여성이 2년간 자연 임신을 시도하였으나 실패하여 내원하였다. 환자는 규칙적인 월경을 하고 있으며, 자궁외임신으로 인해 우측 난관 절제술을 받은 적이 있다. 이 환자의 적절한 다음 치료 방침은?",
+    "exam": "난관 조영술: 좌측 난관 폐색, 배우자 정액 검사: 정자 농도 45×10⁶/mL, 운동성 55%, 정상 형태 4%, 혈액 검사: FSH 6.5 mIU/mL, LH 5.2 mIU/mL, 에스트라디올 50 pg/mL, 프로락틴 9.8 ng/mL",
     "options": {
       "A": "배란 유도제 투여 후 자연 임신 시도",
       "B": "자궁강 내 인공수정",
@@ -31,15 +31,15 @@
       "E": "자연 임신을 지속적으로 시도"
     },
     "answer": "C",
-    "explanation": "이 환자는 양측 난관 폐색으로 인해 자연 임신이 불가능한 상태이므로, 가장 효과적인 치료 방법은 체외수정이다. 난관 성형술은 일부 환자에서 고려될 수 있으나, 성공률이 낮고 합병증 위험이 있어 현대 임상에서는 체외수정이 주로 권장된다.",
+    "explanation": "이 환자는 한쪽 난관 절제술을 받은 과거력이 있으며, 반대측 난관이 폐색된 상태로, 자연 임신이 어려운 상태이다. 가장 효과적인 치료 방법은 체외수정이며, 난관 성형술은 일부 환자에서 고려될 수 있으나 성공률이 낮고 합병증 위험이 있어 현대 임상에서는 체외수정이 주로 권장된다.",
     "source": "Berek Novak’s Gynecology(2019), Page 218: 'For women with bilateral tubal occlusion, in vitro fertilization (IVF) is the preferred treatment, offering the highest pregnancy success rate compared to tubal surgery.'【oaicite:1】",
     "category": "Gynecology"
   },
   {
     "question_id": 3,
-    "chief complaint": "",
+    "chief complaint": "피임",
     "purpose": "",
-    "question": "32세 여성이 피임 상담을 위해 내원하였다. 환자는 최근 결혼하였으며, 향후 3년 이내에 임신을 계획하고 있지 않다. 현재 월경 주기는 규칙적이며, 별다른 기저 질환은 없다. 이 환자에게 가장 적절한 피임 방법은?",
+    "question": "32세 여성이 피임 상담을 위해 내원하였다. 향후 3년 이내에 임신을 계획하고 있지 않다. 현재 월경 주기는 규칙적이며, 별다른 기저 질환은 없다. 이 환자에게 가장 적절한 피임 방법은?",
     "exam": "혈압 120/80 mmHg, 체질량지수 23.4, 혈당 정상 범위",
     "options": {
       "A": "자궁내 장치 삽입",
@@ -55,7 +55,7 @@
   },
   {
     "question_id": 4,
-    "chief complaint": "",
+    "chief complaint": "성폭력",
     "purpose": "",
     "question": "26세 여성이 성폭행 피해 후 응급실에 내원하였다. 환자는 사건 후 6시간이 경과하였으며, 현재 심한 불안감을 호소하고 있다. 이 환자에서 우선적으로 시행해야 할 처치는?",
     "exam": "신체 검사: 외상 없음, 심리 상태: 불안 증가, 생식기 검사: 경미한 점막 손상",
@@ -73,7 +73,7 @@
   },
   {
     "question_id": 5,
-    "chief complaint": "",
+    "chief complaint": "산전관리",
     "purpose": "",
     "question": "32세 여성이 향후 1년 내에 임신을 계획하고 있으며, 1년 동안 복합 경구 피임약을 사용하다가 최근 복용을 중단하였다. 과거에 다낭성 난소 증후군을 진단받았으며, 배란 장애로 인해 불규칙한 월경을 경험해왔다. 최근 6개월간 자연 임신을 시도했으나 성공하지 못했다. 이 환자에서 우선적으로 고려해야 할 치료는?",
     "exam": "호르몬 검사: FSH 6.8 mIU/mL, LH 12.4 mIU/mL, 에스트라디올 48 pg/mL, 프로락틴 9.2 ng/mL, 초음파 검사: 양측 난소 크기 증가 및 다수의 소낭 관찰",
@@ -81,7 +81,7 @@
       "A": "자연 임신 시도 지속 및 6개월 후 재평가",
       "B": "배란 유도제 투여",
       "C": "인공수정 시행",
-      "D": "체외수정 즉시 시행",
+      "D": "체외수정 시행",
       "E": "호르몬 요법을 통한 장기적인 월경 조절"
     },
     "answer": "B",
@@ -91,7 +91,7 @@
   },
   {
     "question_id": 6,
-    "chief complaint": "",
+    "chief complaint": "피임",
     "purpose": "",
     "question": "28세 여성이 경구 피임약 복용을 고려하며 상담을 요청하였다. 환자는 규칙적인 월경을 하고 있으며, 앓고 있는 질환이 없다. 흡연력도 없으며, 최근 6개월간 체중이 5kg 증가하였다. 이 환자에서 가장 적절한 피임 방법은?",
     "exam": "신체 검사: BMI 24.8, 혈압 118/76 mmHg, 혈액 검사: 공복 혈당 92 mg/dL, 총 콜레스테롤 180 mg/dL, LDL 100 mg/dL, HDL 55 mg/dL, 중성지방 90 mg/dL",
@@ -110,7 +110,7 @@
 [
   {
     "question_id": 7,
-    "chief complaint": "",
+    "chief complaint": "질출혈",
     "purpose": "",
     "question": "42세 여성이 6개월 동안 지속되는 불규칙한 질 출혈을 주소로 내원하였다. 최근 월경 주기가 짧아지고 출혈량이 많아졌으며, 간헐적인 하복부 통증을 동반하고 있다. 이 환자의 적절한 치료 방침은?",
     "exam": "혈액 검사: 헤모글로빈 10.2 g/dL, 혈소판 250,000/μL, 프로락틴 정상 범위, 갑상선 기능 정상, 초음파 검사: 자궁 내막 두께 14mm, 다수의 점막하 근종 관찰됨",
@@ -398,8 +398,100 @@
     "explanation": "폐경 후 질 출혈이 있는 경우 **자궁내막암을 배제하는 것이 필수적**이다. **자궁내막 조직검사는 가장 우선적으로 시행해야 하는 검사**이며, 이상 소견이 있는 경우 추가 영상 검사가 필요할 수 있다.",
     "source": "Berek Novak’s Gynecology (2019), Page 1032: 'Endometrial biopsy is the first-line diagnostic test in postmenopausal women with abnormal uterine bleeding to rule out malignancy.'【oaicite:15】",
     "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 21,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "22세 여성이 6개월 전부터 무월경이 발생하여 내원하였다. 최근 체중이 7kg 감소하였으며, 스트레스가 많아 식사량이 줄었다. 월경 주기는 원래 규칙적이었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "BMI 17.5, 혈압 102/65 mmHg, 혈액 검사: FSH 3.5 mIU/mL, LH 2.8 mIU/mL, 에스트라디올 20 pg/mL, 프로락틴 정상 범위, 갑상선 기능 정상",
+    "options": {
+      "A": "경구 피임약 처방",
+      "B": "고용량 에스트로겐 요법",
+      "C": "체중 증가 및 생활 습관 개선",
+      "D": "뇌하수체 MRI 검사",
+      "E": "자궁경부 점액 검사"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 **기능성 시상하부 무월경으로 의심되며, 저체중 및 스트레스가 주요 원인**이다. 치료는 **체중 증가 및 생활 습관 개선이 우선적**이며, 장기적인 저에스트로겐 상태를 방지하기 위해 필요시 호르몬 요법을 고려할 수 있다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 830: 'Functional hypothalamic amenorrhea is associated with weight loss and stress. Treatment focuses on lifestyle modifications and weight restoration.'【oaicite:16】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 22,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "16세 여성이 초경이 없어서 내원하였다. 신체 검진에서 키가 또래보다 작고, 넓은 목과 방패형 가슴이 관찰되었다. 이 환자의 가장 가능성이 높은 진단은?",
+    "exam": "신체 검사: 키 142cm, 목 주름(pterygium colli), 방패형 가슴, 유방 발달 미약(Tanner stage 1), 혈액 검사: FSH 58 mIU/mL, LH 40 mIU/mL, 에스트라디올 5 pg/mL, 핵형 검사 45,X",
+    "options": {
+      "A": "터너 증후군",
+      "B": "뮐러관 형성 이상",
+      "C": "다낭성 난소 증후군",
+      "D": "기능성 시상하부 무월경",
+      "E": "고프로락틴혈증"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 **45,X 핵형을 가진 터너 증후군으로, 원발성 무월경과 단신, 특징적인 신체적 소견이 동반된다**. 치료는 **성장호르몬 요법과 이후 에스트로겐 보충 요법**이 필요하다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 840: 'Turner syndrome (45,X) presents with short stature, primary amenorrhea, and ovarian failure. Treatment includes growth hormone therapy and estrogen replacement.'【oaicite:17】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 23,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "28세 여성이 무월경과 젖흘림(유즙분비) 증상을 주소로 내원하였다. 최근 두통이 자주 발생하며, 시야가 흐려지는 증상이 동반되었다. 이 환자의 적절한 다음 검사 및 치료 방침은?",
+    "exam": "혈액 검사: 프로락틴 105 ng/mL, FSH 4.2 mIU/mL, LH 3.8 mIU/mL, 에스트라디올 30 pg/mL, 갑상선 기능 정상, 뇌하수체 MRI에서 종양(1.2cm) 관찰됨",
+    "options": {
+      "A": "고용량 에스트로겐 치료",
+      "B": "도파민 효능제(브로모크립틴 또는 카베골린) 처방",
+      "C": "경구 피임약 처방",
+      "D": "고용량 프로게스틴 요법 시행",
+      "E": "난포자극호르몬(FSH) 주사 치료"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 **고프로락틴혈증으로 인한 무월경이 의심되며, 뇌하수체 종양(프로락틴종)이 발견됨**. 치료는 **도파민 효능제(브로모크립틴 또는 카베골린) 투여**가 1차 치료이며, 증상이 심한 경우 수술을 고려할 수 있다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 860: 'Hyperprolactinemia with pituitary adenoma is treated with dopamine agonists like bromocriptine or cabergoline.'【oaicite:18】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 24,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "34세 여성이 3개월 전부터 발생한 무월경과 안면홍조를 주소로 내원하였다. 최근 피로감이 심해지고, 가족 중 어머니가 조기 폐경을 경험한 병력이 있다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: FSH 75 mIU/mL, LH 50 mIU/mL, 에스트라디올 10 pg/mL, 프로락틴 정상 범위, 갑상선 기능 정상",
+    "options": {
+      "A": "고용량 프로게스틴 요법",
+      "B": "에스트로겐-프로게스틴 병합 요법",
+      "C": "난포자극호르몬(FSH) 주사 치료",
+      "D": "자궁내막 조직검사 시행",
+      "E": "경과 관찰 후 6개월 후 재평가"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 **조기 난소 부전(POI)으로 의심되며, FSH 상승과 에스트라디올 감소가 특징**이다. 치료는 **에스트로겐-프로게스틴 병합 요법**을 통해 골다공증 및 심혈관 질환 예방이 필요하다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 910: 'Primary ovarian insufficiency (POI) requires estrogen-progestin therapy to prevent osteoporosis and cardiovascular risks.'【oaicite:19】",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 25,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "30세 여성이 출산 후 6개월이 지났으나 무월경이 지속되어 내원하였다. 제왕절개 분만 후 심한 산후 출혈로 소파술을 받은 병력이 있다. 이 환자의 적절한 진단 방법은?",
+    "exam": "혈액 검사: FSH 5.1 mIU/mL, LH 4.9 mIU/mL, 에스트라디올 35 pg/mL, 프로락틴 정상 범위, 갑상선 기능 정상, 초음파 검사: 자궁내막 얇고 위축 소견",
+    "options": {
+      "A": "자궁난관 조영술(HSG)",
+      "B": "자궁내막 조직검사",
+      "C": "자궁경 검사",
+      "D": "뇌하수체 MRI",
+      "E": "배란 유도제 처방"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 **산후 출혈 및 소파술 병력이 있으며, 자궁내막이 위축된 상태로 아셔만 증후군이 의심**된다. 진단을 위해 **자궁경 검사가 가장 정확한 방법**이다.",
+    "source": "Berek Novak’s Gynecology (2019), Page 890: 'Hysteroscopy is the gold standard for diagnosing Asherman’s syndrome in women with secondary amenorrhea and a history of uterine instrumentation.'【oaicite:20】",
+    "category": "Gynecology"
   }
 ]
+
 
 
 
