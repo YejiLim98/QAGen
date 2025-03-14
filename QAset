@@ -2456,6 +2456,49 @@
   },
   "category": "Endocrinology"
 }, 
+{
+  "question_id": 119,
+  "chief_complaint": "기억력 저하",
+  "purpose": "기억력 저하를 의심하는 사람의 가족에게 질병 경과와 발생 가능한 문제에 대해 설명하고 대처 방법을 교육할 수 있다.",
+  "question": "65세 여성이 점진적으로 진행되는 기억력 저하와 혼란을 주소로 내원하였다. 1년 전부터 반복적인 질문을 하고, 약속을 잊어버리며, 물건을 둔 장소를 기억하지 못한다고 한다. 최근에는 식사 준비와 가계 재정 관리에 어려움을 겪고 있으며, 가끔 집에서 길을 잃기도 한다. 환자는 고혈압과 당뇨병으로 치료 중이며, 3년 전 경미한 뇌졸중으로 입원한 이력이 있다. 신경학적 검사에서 좌측 바빈스키 징후 양성이 확인되었고, MMSE 점수는 20/30이었다. 환자의 딸이 어머니의 질병 경과와 관리에 대해 질문하고 있다. 이 환자의 가족에게 제공해야 할 가장 적절한 교육 내용은?",
+  "exam": "뇌 MRI에서 다발성 피질하 소혈관 경색과 백질 변화가 관찰되었다. 혈액 검사에서 HbA1c 7.8%, 총 콜레스테롤 240mg/dL, LDL 콜레스테롤 160mg/dL, 중성지방 180mg/dL로 측정되었다.",
+  "options": {
+    "A": "환자의 치매는 유전적 요인에 의한 것으로, 자녀들도 동일한 질환이 발생할 가능성이 높다.",
+    "B": "환자는 알츠하이머병으로 진단되었으며, 약물 치료로 인지 기능이 정상으로 회복될 수 있다.",
+    "C": "혈관성 치매로 진단된 환자는 혈관 위험 인자 조절이 중요하며, 인지 기능의 갑작스러운 악화가 발생할 수 있다.",
+    "D": "환자의 인지 기능 저하는 정상 노화 과정의 일부로, 특별한 치료나 관리가 필요하지 않다.",
+    "E": "환자는 레비소체 치매로 진단되었으며, 항정신병 약물은 증상 조절에 효과적이다."
+  },
+  "answer": "C",
+  "explanation": "이 환자는 고혈압, 당뇨병의 혈관 위험 요인과 뇌졸중 병력이 있으며, 신경학적 검사에서 바빈스키 징후 양성, 뇌 MRI에서 다발성 피질하 소혈관 경색과 백질 변화가 확인되어 혈관성 치매(Vascular Dementia)로 진단할 수 있습니다. 혈관성 치매 환자의 가족에게는 질병의 특성, 예후, 그리고 관리 방법에 대한 적절한 교육이 필요합니다. 혈관성 치매는 뇌졸중이나 소혈관 질환으로 인한 뇌 손상으로 발생하며, 알츠하이머병과 달리 계단식 악화 양상을 보일 수 있습니다. 즉, 새로운 뇌혈관 사건이 발생할 때마다 인지 기능이 갑작스럽게 악화될 수 있습니다. 따라서 고혈압, 당뇨병, 이상지질혈증과 같은 혈관 위험 인자를 적극적으로 조절하는 것이 질병 진행을 늦추는데 매우 중요합니다. 이 환자의 혈액 검사에서 HbA1c, 총 콜레스테롤, LDL 콜레스테롤, 중성지방이 모두 목표치보다 높게 측정되어, 혈관 위험 인자 조절이 충분히 이루어지지 않고 있음을 알 수 있습니다. 혈관성 치매는 유전적 요인보다 획득된 혈관 위험 인자에 더 영향을 받으므로, 자녀들에게 동일한 질환이 필연적으로 발생한다고 설명하는 것은 부적절합니다. 현재 사용 가능한 치매 치료제는 증상을 일시적으로 개선할 수 있으나, 인지 기능을 정상으로 회복시키지는 못합니다. 65세 환자의 MMSE 20/30점과 일상생활 기능 저하는 정상 노화가 아닌 병적 상태를 나타냅니다. 이 환자의 임상 양상은 레비소체 치매보다 혈관성 치매에 부합하며, 항정신병 약물은 레비소체 치매 환자에서 심각한 부작용을 유발할 수 있어 일반적으로 권장되지 않습니다.",
+  "source": {
+    "file_name": "The Lancet Neurology",
+    "content": "Vascular cognitive impairment and dementia (VCID) refers to cognitive decline caused by cerebrovascular disease, ranging from mild cognitive impairment to dementia. Unlike Alzheimer's disease, which typically progresses gradually, VCID often follows a stepwise deterioration pattern, with cognitive function declining after each new cerebrovascular event. Management focuses primarily on aggressive modification of vascular risk factors to prevent additional cerebrovascular damage. This includes optimal control of hypertension, diabetes, hyperlipidemia, smoking cessation, and antiplatelet therapy when indicated. Family education is a crucial component of care, emphasizing the importance of risk factor management, potential for sudden deterioration with new strokes, and the need for safety planning. Cholinesterase inhibitors and memantine may provide modest symptomatic benefits in some patients. Caregivers should be counseled about the unpredictable disease course, potential for physical disability in addition to cognitive impairment, and the need for regular medical follow-up to monitor vascular risk factors."
+  },
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 120,
+  "chief_complaint": "기억력 저하",
+  "purpose": "기억력 저하를 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 6개월 동안 진행된 기억력 저하, 성격 변화, 두통을 주소로 내원하였다. 환자의 배우자는 환자가 최근 짧은 기억을 유지하는 데 어려움을 겪고, 이전에는 없던 공격적인 행동을 보이며, 업무 수행 능력이 현저히 저하되었다고 말한다. 환자는 또한 아침에 심해지는 두통과 간헐적인 구토를 호소한다. 환자는 20년간 흡연력이 있으며, 10년 전 폐암으로 수술 받은 병력이 있다. 신경학적 검사에서 경도의 우측 상지 약화와 우측 손의 상세 운동 조절 저하가 관찰되었다. MMSE 점수는 23/30이었으며, 특히 기억력, 주의집중력, 시공간 기능에서 저하를 보였다. 이 환자에게 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "일반 혈액 검사와 혈액화학 검사는 정상 범위였다. 흉부 X-선 검사에서 특이 소견은 없었다.",
+  "options": {
+    "A": "뇌파 검사(EEG)",
+    "B": "양전자 방출 단층촬영(PET)",
+    "C": "뇌척수액 베타-아밀로이드와 타우 단백질 검사",
+    "D": "조영증강 뇌 자기공명영상(MRI)",
+    "E": "신경심리 검사"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 단기간에 진행된 기억력 저하, 성격 변화, 아침에 심해지는 두통 및 구토와 같은 두개내압 상승 징후, 그리고 신경학적 검사에서 국소적 결손(우측 상지 약화와 상세 운동 조절 저하)을 보이고 있습니다. 또한 10년 전 폐암 병력이 있어 전이성 뇌종양의 가능성이 높습니다. 이러한 임상 양상은 '빠르게 진행하는 치매'의 형태로 나타날 수 있는 뇌종양을 강하게 시사합니다. 따라서 가장 우선적으로 시행해야 할 검사는 조영증강 뇌 자기공명영상(MRI)입니다. 조영증강 MRI는 원발성 및 전이성 뇌종양의 진단에 가장 민감하고 특이적인 영상 검사로, 종양의 위치, 크기, 주변 구조물에 대한 영향, 조영증강 양상 등을 평가할 수 있습니다. 특히 조영제를 사용함으로써 혈뇌장벽이 파괴된 종양 조직을 더 명확히 확인할 수 있습니다. 뇌파 검사(EEG)는 경련성 질환이나 대사성 뇌병증 등의 평가에 유용하지만, 뇌종양의 일차 진단 도구로는 적합하지 않습니다. 양전자 방출 단층촬영(PET)은 종양의 대사 활성도를 평가하는 데 유용하나, 초기 검사로는 MRI가 더 적합합니다. 뇌척수액 베타-아밀로이드와 타우 단백질 검사는 알츠하이머병의 생체표지자로 사용되나, 이 환자의 임상 소견은 알츠하이머병보다 뇌종양에 더 부합합니다. 신경심리 검사는 인지 기능 저하의 양상을 상세히 평가하는 데 유용하지만, 이 환자에서는 먼저 구조적 병변을 배제하는 것이 우선되어야 합니다.",
+  "source": {
+    "file_name": "Journal of Neuro-Oncology",
+    "content": "Brain metastases can present with a variety of neurological symptoms including headache, focal neurological deficits, seizures, and cognitive impairment. Headaches associated with brain tumors are typically worse in the morning and may be accompanied by nausea or vomiting due to increased intracranial pressure. Cognitive changes can mimic dementia with rapid progression being a key distinguishing feature from neurodegenerative dementias. In patients with a history of cancer, particularly lung cancer, melanoma, breast cancer, renal cell carcinoma, or colorectal cancer, new-onset neurological symptoms should prompt immediate brain imaging. Contrast-enhanced MRI is the imaging modality of choice for suspected brain metastases, with a sensitivity significantly higher than CT or non-contrast MRI. It can detect lesions as small as 1-2 mm and provides detailed information about the number, size, location, and characteristics of the lesions, as well as the presence of hemorrhage, necrosis, edema, and mass effect. Early detection is crucial as prompt treatment with surgery, radiation therapy, and/or systemic therapy can significantly impact prognosis and quality of life."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+
 
 
 
