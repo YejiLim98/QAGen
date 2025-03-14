@@ -1868,6 +1868,224 @@
   },
   "category": "General Surgery"
 }, 
+{
+  "question_id": 91,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통으로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "45세 남성이 8시간 전부터 시작된 심한 상복부 통증으로 응급실에 내원하였다. 통증은 갑자기 시작되었고 등으로 방사되며, 식사와 무관하게 지속된다고 한다. 환자는 평소 음주량이 소주 1병/일로 10년 이상 지속되었으며, 과거에도 유사한 복통으로 입원한 적이 있다고 한다. 신체검사에서 상복부에 심한 압통이 있고 복부 강직(rigidity)이 관찰된다. 활력징후는 혈압 100/60 mmHg, 맥박 120회/분, 호흡수 24회/분, 체온 38.5°C이다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "말초혈액검사: 백혈구 18,000/mm³, 혈색소 14.5 g/dL, 혈소판 280,000/mm³\n혈청 생화학검사: 아밀라아제 1,500 U/L, 리파아제 3,000 U/L, AST 45 IU/L, ALT 40 IU/L, 총 빌리루빈 1.2 mg/dL, ALP 110 IU/L, 칼슘 7.8 mg/dL, BUN 40 mg/dL, 크레아티닌 1.6 mg/dL, CRP 15 mg/dL\n동맥혈 가스분석: pH 7.32, PaO2 85 mmHg, PaCO2 30 mmHg, HCO3 15 mEq/L, 염기결핍 -10 mEq/L\n복부 CT: 췌장 전체의 부종과 주변 지방 조직의 염증, 복수가 관찰되며 다량의 자유 공기(free air)가 보이지 않음",
+  "options": {
+    "A": "금식, 적극적인 수액 요법, 진통제 투여",
+    "B": "내시경적 역행성 담췌관 조영술(ERCP)과 괄약근 절개술 시행",
+    "C": "응급 개복술 시행",
+    "D": "경피적 담낭 배액술 시행",
+    "E": "항생제 투여 없이 대증적 치료만 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 만성 알코올 남용력이 있는 45세 남성으로, 급성 발병한 상복부 통증, 등으로의 방사통, 혈청 아밀라아제 및 리파아제의 현저한 상승, 그리고 영상 검사에서 췌장 부종 및 주변 염증 소견을 보이는 중증 급성 췌장염(severe acute pancreatitis)에 합당합니다. 또한 저혈압, 빈맥, 발열, 대사성 산증, 신기능 저하, 저칼슘혈증 등의 소견은 전신 염증 반응 증후군(SIRS)과 다발성 장기 부전의 초기 단계를 시사합니다. 급성 췌장염, 특히 중증 급성 췌장염의 초기 치료는 금식, 적극적인 수액 요법, 그리고 효과적인 진통제 투여가 핵심입니다. 금식은 췌장 자극을 줄이고 장관 휴식을 통해 염증 반응을 완화시키는 데 중요합니다. 적극적인 수액 요법은 혈관 내 용적 감소와 제3공간으로의 체액 이동을 교정하여 조직 관류를 유지하고 신기능 손상을 예방합니다. 특히 첫 24시간 내에 충분한 수액 공급(보통 5-10L)이 중요하며, 이는 중증 췌장염에서의 사망률 감소와 관련이 있습니다. 효과적인 진통제(보통 아편유사제)는 통증 조절과 함께 스트레스 반응을 줄이고 호흡 기능을 개선하는 데 도움이 됩니다. 내시경적 역행성 담췌관 조영술(ERCP)과 괄약근 절개술은 담석성 췌장염에서 담도 담석이나 담즙 찌꺼기가 있는 경우에 고려되지만, 이 환자는 알코올성 췌장염이 의심되고 간 효소 수치가 정상에 가까워 담석성 췌장염의 가능성이 낮습니다. 또한 ERCP 자체가 췌장염을 악화시킬 수 있습니다. 응급 개복술은 괴사성 췌장염의 감염이 확인되거나 위장관 천공과 같은 급성 복부 수술이 필요한 상황에서 고려됩니다. 그러나 이 환자의 CT에서는 자유 공기가 보이지 않아 위장관 천공의 증거가 없고, 급성 췌장염의 초기 단계에서는 수술적 중재가 오히려 예후를 악화시킬 수 있습니다. 경피적 담낭 배액술은 급성 담낭염의 치료로 적합하지만, 이 환자는 급성 췌장염의 임상상을 보입니다. 항생제는 급성 췌장염의 초기 단계에서 일상적으로 권장되지 않으며, 괴사성 췌장염이나 담도 감염이 의심될 때 고려됩니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines for Management of Acute Pancreatitis",
+    "content": "Initial management of acute pancreatitis is primarily supportive and includes fluid resuscitation, pain control, and nutritional support. Aggressive fluid resuscitation is particularly important in the first 24 hours, with the goal being to correct intravascular volume depletion and maintain tissue perfusion. Lactated Ringer's solution appears to be more beneficial than normal saline. The rate of fluid administration should be adjusted based on the patient's comorbidities, vital signs, and urine output. Pain control is usually achieved with opioid analgesics, as needed. Routine use of prophylactic antibiotics is not recommended in acute pancreatitis, including severe acute pancreatitis, unless there is evidence of infection. The patients should be maintained nil per os (NPO) until pain is controlled and there are signs of bowel function. In mild acute pancreatitis, oral feeding can be started once the patient's pain is resolving and inflammatory markers are decreasing. In severe acute pancreatitis, enteral nutrition is preferred over parenteral nutrition to maintain gut barrier function and reduce infectious complications. ERCP is indicated only in patients with acute pancreatitis due to gallstone obstruction with concurrent cholangitis or ongoing biliary obstruction. Conservative management with fluid resuscitation and pain control remains the cornerstone of therapy for the majority of patients with acute pancreatitis."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 92,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게서 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "35세 여성이 2일 전부터 시작된 우상복부 통증으로 내원하였다. 통증은 식후에 심해지고 등으로 방사되며, 오심과 구토가 동반되었다. 환자는 최근 체중 감소를 위해 저지방 고탄수화물 식이를 시작했으며, 과거 출산력은 3회이다. 신체검사에서 우상복부에 압통이 있고 머피 징후(Murphy's sign)가 양성이다. 활력징후는 혈압 130/80 mmHg, 맥박 95회/분, 호흡수 18회/분, 체온 38.3°C이다. 이 환자의 치료 계획으로 가장 적절한 것은?",
+  "exam": "말초혈액검사: 백혈구 15,000/mm³ (호중구 80%), 혈색소 13.5 g/dL, 혈소판 270,000/mm³\n혈청 생화학검사: AST 45 IU/L, ALT 50 IU/L, 총 빌리루빈 1.2 mg/dL, 직접 빌리루빈 0.3 mg/dL, ALP 130 IU/L, GGT 100 IU/L, 아밀라아제 70 U/L, 리파아제 40 U/L, CRP 8 mg/dL. 복부 초음파 검사에서 담낭벽이 두꺼워져 있고(8mm) 담낭 주위에 체액 저류가 관찰되며, 담낭 내에 여러 개의 결석이 보인다. 담관 확장은 없다.",
+  "options": {
+    "A": "즉시 내시경적 역행성 담췌관 조영술(ERCP)을 시행한다.",
+    "B": "금식, 수액 요법 및 항생제 투여 후 전신 상태가 안정되면 입원 중 복강경 담낭 절제술을 시행한다.",
+    "C": "금식, 수액 요법 및 항생제 투여 후 퇴원하여 6-8주 후 외래에서 복강경 담낭 절제술을 계획한다.",
+    "D": "경피적 담낭 배액술을 시행하고 담석 용해 치료를 시작한다.",
+    "E": "우르소데옥시콜산을 투여하여 담석의 용해를 시도한다."
+  },
+  "answer": "B",
+  "explanation": "이 환자는 35세 여성으로 전형적인 급성 담낭염(acute cholecystitis)의 임상상을 보이고 있습니다. 우상복부 통증, 오심, 구토 등의 증상과 함께 우상복부 압통, 머피 징후 양성 소견을 보이며, 발열과 백혈구 증가 소견도 관찰됩니다. 초음파 검사에서 담낭벽 비후(>3mm), 담낭 주위 체액 저류, 그리고 담낭 내 결석이 확인되어 담석성 담낭염으로 진단할 수 있습니다. 급성 담낭염의 치료는 금식, 수액 요법, 항생제 투여와 함께 담낭 절제술이 표준 치료입니다. 특히 담석에 의한 급성 담낭염의 경우, 초기 내과적 치료로 전신 상태가 안정된 후에 가능한 한 빨리(일반적으로 같은 입원 기간 내에) 담낭 절제술을 시행하는 것이 재발과 합병증 위험을 줄이는 데 도움이 됩니다. 이를 '조기 담낭 절제술(early cholecystectomy)'이라고 하며, 증상 발생 72시간 이내에 시행하는 것이 이상적입니다. 지연된 담낭 절제술(6-8주 후)은 담낭염이 심하거나 수술 위험이 높은 환자에서 고려할 수 있으나, 대기 기간 동안 담낭염 재발의 위험(약 20%)이 있습니다. 또한 급성기 이후의 담낭 절제술은 염증으로 인한 유착으로 수술이 기술적으로 더 어려울 수 있습니다. 내시경적 역행성 담췌관 조영술(ERCP)은 담관 결석이나 담도 폐쇄가 있는 경우에 적응증이 되지만, 이 환자는 간 효소 수치가 경미하게 상승해 있고 초음파에서 담관 확장이 없어 담관 결석의 가능성이 낮습니다. 경피적 담낭 배액술은 수술 위험이 높거나 수술이 지연되어야 하는 환자(예: 중증 패혈증, 임신 3기, 심한 의학적 동반질환 등)에서 대안적 치료로 고려할 수 있지만, 이 환자는 젊고 건강하여 수술의 금기사항이 없습니다. 담석 용해 치료(우르소데옥시콜산)는 효과가 제한적이고 치료 기간이 길며, 치료 중단 후 담석 재발 위험이 높아 급성 담낭염의 표준 치료로 권장되지 않습니다.",
+  "source": {
+    "file_name": "Tokyo Guidelines 2018 for the management of acute cholecystitis",
+    "content": "The Tokyo Guidelines recommend early laparoscopic cholecystectomy for patients with mild to moderate acute cholecystitis. Early laparoscopic cholecystectomy should be performed within 72 hours of symptom onset when possible. Early cholecystectomy is associated with shorter hospital stays, lower hospital costs, and lower rates of readmission for recurrent biliary events compared to delayed cholecystectomy. For patients with severe acute cholecystitis, initial management with appropriate antimicrobial therapy and general supportive care is recommended, followed by early gallbladder drainage, preferably by percutaneous transhepatic gallbladder drainage (PTGBD), if the patient has severe local inflammation and/or is in a critical condition. Antibiotics should be administered to all patients with acute cholecystitis. The recommended antibiotics include second-generation cephalosporins, or combinations of beta-lactam/beta-lactamase inhibitors for grade I (mild) and II (moderate) cholecystitis, and third-generation cephalosporins, fourth-generation cephalosporins, fluoroquinolones, or carbapenems for grade III (severe) cholecystitis, particularly when gram-negative bacteremia is suspected. The guidelines do not recommend routine use of ERCP for acute cholecystitis unless there is evidence of common bile duct stones or cholangitis. Oral dissolution therapy with ursodeoxycholic acid is not recommended as a standard treatment for acute cholecystitis due to its limited efficacy and high recurrence rate after cessation of therapy."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 93,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게서 증상의 발생 기전을 제시하고 전신질환 및 복강 외 원인을 감별할 수 있다.",
+  "question": "68세 남성이 3시간 전부터 시작된 갑작스러운 하복부 통증으로 응급실에 내원하였다. 환자는 통증이 점점 심해지고 있으며, 오심과 구토를 동반하고 있다. 과거력상 고혈압, 당뇨병, 고지혈증이 있으며 관상동맥질환으로 스텐트 삽입술을 받은 적이 있다. 신체 검진에서 복부는 전반적으로 팽만되어 있고, 장음은 감소되어 있으며, 하복부에 압통과 반발통이 있다. 활력 징후는 혈압 90/60 mmHg, 맥박 110회/분, 호흡수 24회/분, 체온 37.5°C이다. 말초 맥박은 약하게 촉지되고, 하지가 창백하고 차갑다.",
+  "exam": "혈액 검사에서 백혈구 10,500/μL, 헤모글로빈 13.5 g/dL, 혈소판 280,000/μL, BUN 30 mg/dL, 크레아티닌 1.8 mg/dL, 젖산 4.5 mmol/L이다. 복부 CT 영상에서 복부 대동맥이 정상 직경의 두 배 이상으로 확장되어 있으며, 주변에 혈종이 관찰된다.",
+  "options": {
+    "A": "좌측 요관결석에 의한 요로폐색",
+    "B": "급성 대장 허혈",
+    "C": "복부 대동맥류 파열",
+    "D": "급성 충수염",
+    "E": "급성 췌장염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 갑작스러운 하복부 통증과 함께 혈역학적 불안정성(저혈압, 빈맥)을 보이고 있으며, 복부 CT에서 확장된 복부 대동맥과 주변 혈종이 관찰됩니다. 이러한 임상 소견은 복부 대동맥류 파열을 강하게 시사합니다. 복부 대동맥류 파열은 생명을 위협하는 응급 상황으로, 즉각적인 수술적 치료가 필요합니다. 이 환자는 고혈압, 당뇨병, 고지혈증, 관상동맥질환 등 대동맥류의 위험 인자들을 가지고 있습니다. 혈역학적 불안정성, 하지의 창백함과 차가움, 약한 말초 맥박은 대동맥 파열로 인한 쇼크와 하지로의 혈류 감소를 나타냅니다. 젖산 수치 상승은 조직 관류 저하를 시사합니다. 좌측 요관결석은 측복부 통증을 유발할 수 있지만, 이 환자의 임상 양상과 CT 소견에 부합하지 않습니다. 급성 대장 허혈은 복통과 혈변을 유발할 수 있으나, 이 환자의 CT 소견과 일치하지 않습니다. 급성 충수염은 우하복부 통증을 유발하지만, 이 환자의 임상 양상과 CT 소견과는 다릅니다. 급성 췌장염은 상복부 통증을 유발하고 아밀라아제와 리파아제 상승을 동반하지만, 이 환자의 CT 소견과 일치하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "복부 대동맥류 파열은 갑작스러운 복통, 요통, 혈역학적 불안정성을 특징으로 하는 생명을 위협하는 응급 상황이다. 직경이 5.5cm 이상인 대동맥류는 파열 위험이 높으며, 파열 시 사망률은 80-90%에 이른다. 위험 인자로는 고령, 남성, 흡연, 고혈압, 동맥경화증, 가족력 등이 있다. 진단은 주로 CT 혈관조영술을 통해 이루어지며, 즉각적인 수술적 중재가 필요하다."
+  },
+  "category": "Vascular Surgery"
+}, 
+{
+  "question_id": 94,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 24시간 전부터 시작된 상복부 통증으로 응급실에 내원하였다. 통증은 갑작스럽게 시작되었고 등으로 방사되며, 음식 섭취 후 악화된다고 한다. 환자는 구토와 오심을 동반하고 있으며, 최근 음주력은 없다고 한다. 과거력상 담석증으로 진단받은 적이 있으며, 고지혈증으로 약물 치료 중이다. 신체 검진에서 우상복부에 심한 압통이 있으며, Murphy 징후 양성이다. 활력 징후는 혈압 130/80 mmHg, 맥박 95회/분, 호흡수 20회/분, 체온 38.2°C이다.",
+  "exam": "혈액 검사에서 백혈구 15,000/μL, 총 빌리루빈 3.5 mg/dL, 직접 빌리루빈 2.8 mg/dL, ALT 120 U/L, AST 100 U/L, ALP 350 U/L, GGT 280 U/L, 아밀라아제 100 U/L, 리파아제 80 U/L이다. 초음파 검사에서 담낭벽 비후(8mm), 담낭 내 다수의 담석, 담낭 주변 액체 저류가 관찰되었으며, 총담관 직경은 12mm로 확장되어 있고 내부에 8mm 크기의 고에코성 병변이 관찰되었다.",
+  "options": {
+    "A": "복부 CT 촬영 없이 즉시 응급 담낭절제술을 시행한다.",
+    "B": "자기공명담췌관조영술(MRCP)을 시행하여 담도계를 평가한다.",
+    "C": "내시경적 역행성 담췌관조영술(ERCP)과 내시경적 괄약근 절개술을 시행한다.",
+    "D": "경피적 담낭 배액술(PTGBD)을 시행한다.",
+    "E": "금식과 항생제 치료만 유지하며 경과를 관찰한다."
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 담낭염과 담관염의 임상 양상을 보이고 있습니다. 우상복부 통증, 발열, Murphy 징후 양성, 백혈구 증가, 간기능 이상 소견(ALT, AST, ALP, GGT 상승), 초음파에서 담낭벽 비후와 담석은 급성 담낭염을 시사합니다. 또한 빌리루빈 상승, 발열, 총담관 확장 및 담관 내 결석 소견은 담관염을 시사합니다. 이러한 경우, 우선적으로 담관 폐쇄를 해결하는 것이 중요합니다. 내시경적 역행성 담췌관조영술(ERCP)과 내시경적 괄약근 절개술은 담관 내 결석을 제거하고 담즙 배출을 회복시키는 가장 적절한 초기 치료 방법입니다. 담관 폐쇄가 해결된 후 담낭절제술을 계획할 수 있습니다. 복부 CT 촬영 없이 즉시 담낭절제술을 시행하는 것은 담관 내 결석에 대한 평가와 치료가 선행되지 않아 적절하지 않습니다. 자기공명담췌관조영술(MRCP)은 담도계를 비침습적으로 평가할 수 있는 검사이지만, 이 환자의 경우 담관 내 결석이 이미 확인되었고 치료적 중재가 필요하므로 진단적 목적의 MRCP는 불필요한 지연을 초래할 수 있습니다. 경피적 담낭 배액술(PTGBD)은 수술이 어려운 고위험 환자에서 급성 담낭염의 대체 치료로 고려할 수 있지만, 이 환자의 주요 문제는 담관 내 결석으로 인한 담관 폐쇄이므로 ERCP가 우선입니다. 금식과 항생제 치료만으로는 담관 내 결석으로 인한 폐쇄를 해결할 수 없어 부적절합니다.",
+  "source": {
+    "file_name": "Sleisenger and Fordtran's Gastrointestinal and Liver Disease",
+    "content": "급성 담관염 환자에서 담관 내 결석이 확인된 경우, 내시경적 역행성 담췌관조영술(ERCP)과 내시경적 괄약근 절개술을 통한 결석 제거가 표준 치료이다. 이는 담즙 배출을 회복시키고 감염을 조절하는 데 중요하다. ERCP는 진단과 치료를 동시에 할 수 있는 장점이 있으며, 성공률은 90% 이상이다. 담관 감압 후에는 항생제 치료를 유지하고, 임상적으로 안정된 후 담낭절제술을 고려해야 한다."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 95,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통으로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "32세 여성이 8시간 전부터 시작된 극심한 하복부 통증으로 응급실에 내원하였다. 환자는 구토, 오심, 설사를 동반하고 있으며, 최근 성관계가 있었다고 한다. 마지막 월경은 6주 전이었으며, 평소 월경주기는 불규칙하다고 한다. 과거력상 골반염 및 클라미디아 감염으로 치료받은 적이 있다. 신체 검진에서 하복부에 심한 압통과 반발통이 있으며, 자궁경부 움직임 시 통증이 있다. 활력 징후는 혈압 100/60 mmHg, 맥박 115회/분, 호흡수 22회/분, 체온 38.5°C이다.",
+  "exam": "혈액 검사에서 백혈구 16,500/μL, 헤모글로빈 12.0 g/dL, 혈소판 250,000/μL, hCG 1,500 mIU/mL이다. 질 분비물 검사에서 다형핵 백혈구 증가와 그람 음성 쌍구균이 관찰되었다. 골반 초음파에서 자궁외 정상 임신낭은 관찰되지 않았으나, 우측 난관이 확장되어 있고 주변에 적은 양의 복수가 관찰되었다.",
+  "options": {
+    "A": "항생제 투여 후 경과 관찰",
+    "B": "즉시 응급 개복술 시행",
+    "C": "메토트렉세이트(methotrexate) 주사",
+    "D": "복강경하 골반 내 농양 배액술",
+    "E": "자궁소파술 시행"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 임상 양상, 검사 결과, 영상 소견을 종합했을 때 난관 임신(자궁외 임신)이 가장 의심됩니다. 급성 하복부 통증, 월경 지연, 불규칙한 월경 주기, 골반염과 클라미디아 감염의 과거력(난관 임신의 위험 인자), 양성 hCG 검사, 초음파에서 확장된 난관과 복수 소견은 모두 난관 임신을 시사합니다. 혈역학적으로 안정적이고(혈압 100/60 mmHg), hCG 수치가 5,000 mIU/mL 미만이며, 초음파에서 명확한 파열 징후가 없는 난관 임신의 경우, 메토트렉세이트 단일 용량 요법이 적절한 초기 치료입니다. 메토트렉세이트는 엽산 대사를 억제하여 빠르게 분열하는 세포(영양막 세포)의 성장을 방해하여 자궁외 임신을 비수술적으로 치료합니다. 항생제 투여 후 경과 관찰은 골반 염증성 질환 치료에 적합하지만, 이 환자는 자궁외 임신이 의심되므로 부적절합니다. 즉시 응급 개복술은 혈역학적으로 불안정하거나 난관 파열이 명확한 자궁외 임신에서 고려할 수 있지만, 이 환자는 아직 상대적으로 안정적입니다. 복강경하 골반 내 농양 배액술은 골반 농양이 있는 경우에 적합하지만, 이 환자의 초음파 소견은 농양보다 자궁외 임신에 더 부합합니다. 자궁소파술은 자궁 내 임신의 중절이나 불완전 유산에서 시행하는 시술로, 자궁외 임신에서는 부적절합니다.",
+  "source": {
+    "file_name": "Williams Obstetrics",
+    "content": "난관 임신 환자의 치료는 임상 상태, hCG 수치, 초음파 소견에 따라 결정된다. 혈역학적으로 안정적이고, hCG 수치가 5,000 mIU/mL 미만이며, 난관 직경이 4cm 이하이고, 태아 심박동이 없는 경우, 메토트렉세이트 단일 용량 요법(50mg/m²)이 효과적인 비수술적 치료 옵션이다. 성공률은 약 90%이며, 추적 hCG 검사를 통해 치료 효과를 모니터링한다. 메토트렉세이트 투여 후 hCG 수치가 상승하거나, 복통이 심해지거나, 혈역학적 불안정성이 발생하면 수술적 중재가 필요할 수 있다."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 96,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통으로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "15세 남자 청소년이 36시간 전부터 시작된 우하복부 통증으로 응급실에 내원하였다. 통증은 처음에는 배꼽 주위에서 시작되었고, 오심, 구토, 식욕부진을 동반하였다. 환자는 발열이 있었으며, 어제부터 걸을 때 통증이 심해졌다고 한다. 신체 검진에서 우하복부 전체에 압통과 반발통이 있으며, 장음은 감소되어 있다. 활력 징후는 혈압 110/70 mmHg, 맥박 105회/분, 호흡수 20회/분, 체온 38.9°C이다. 환자는 누워있을 때 편안함을 느끼고, 무릎을 구부리고 있다.",
+  "exam": "혈액 검사에서 백혈구 18,000/μL(호중구 90%), 헤모글로빈 14.0 g/dL, 혈소판 260,000/μL, CRP 15 mg/dL이다. 복부 CT에서 충수는 12mm로 확장되어 있고, 벽이 비후되어 있으며, 주변에 액체 저류와 공기 방울이 관찰된다. 또한 충수 주변으로 5cm 크기의 경계가 명확한 액체 저류가 관찰된다.",
+  "options": {
+    "A": "금식, 정맥 수액, 항생제 투여 후 24시간 이내 응급 충수절제술",
+    "B": "즉시 응급 충수절제술",
+    "C": "금식, 정맥 수액, 항생제, 경피적 배액술 후 6-8주 후 계획된 충수절제술",
+    "D": "24시간 경과 관찰 후 증상이 호전되면 퇴원하고 외래에서 추적 관찰",
+    "E": "내시경적 역행성 담췌관조영술(ERCP)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 충수 주변 농양을 동반한 천공성 충수염으로 진단됩니다. 36시간 이상 지속된 우하복부 통증, 발열, 높은 백혈구 수치와 CRP, CT에서 확장된 충수(12mm), 충수 주변 액체 저류와 공기 방울, 5cm 크기의 액체 저류(농양)는 모두 천공성 충수염과 농양 형성을 시사합니다. 이러한 경우, 초기 치료는 항생제 투여와 함께 CT 유도하 경피적 배액술을 시행하는 것이 가장 적절합니다. 이것은 '간격 충수절제술(interval appendectomy)' 접근법으로, 초기에는 농양을 배액하고 항생제로 감염을 조절한 후, 염증이 가라앉은 6-8주 후에 계획된 충수절제술을 시행하는 방법입니다. 이 접근법은 급성기에 수술로 인한 합병증(출혈, 장 손상, 추가 복강 내 감염 등)의 위험을 줄이고, 염증이 가라앉은 후 기술적으로 더 안전한 수술을 가능하게 합니다. 금식, 정맥 수액, 항생제 투여 후 24시간 이내 응급 충수절제술은 단순 급성 충수염이나 초기 충수염에서는 적절할 수 있지만, 이미 농양이 형성된 경우에는 수술 중 합병증의 위험이 증가하므로 권장되지 않습니다. 금식, 정맥 수액, 항생제 투여 후 6-8주 후 계획된 충수절제술은 농양 배액 없이는 불충분한 치료입니다. 형성된 농양은 적극적인 배액이 필요합니다. 24시간 경과 관찰 후 증상이 호전되면 퇴원하는 것은 농양이 형성된 천공성 충수염에서는 부적절한 치료입니다. 내시경적 역행성 담췌관조영술(ERCP)은 담도계 질환의 진단과 치료에 사용되는 시술로, 충수염과는 관련이 없습니다.",
+  "source": {
+    "file_name": "World Journal of Emergency Surgery Guidelines for Acute Appendicitis",
+    "content": "천공성 충수염에서 충수 주변 농양이 형성된 경우, 비수술적 접근법(항생제 치료와 경피적 배액술)이 초기 치료로 권장된다. 이는 급성기 수술로 인한 합병증의 위험을 줄이고, 염증이 가라앉은 후 기술적으로 더 안전한 수술을 가능하게 한다. CT 또는 초음파 유도하 경피적 배액술은 3-5cm 이상 크기의 국소화된 액체 저류(농양)에서 성공률 90% 이상의 효과적인 치료법이다. 배액 후에는 광범위 항생제 치료를 유지하며, 임상적 호전이 있으면 6-8주 후에 계획된 충수절제술(interval appendectomy)을 시행한다. 이러한 접근법은 특히 소아와 젊은 성인에서 재발 위험을 줄이는 데 효과적이다."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 97,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 8시간 전부터 시작된 심한 우하복부 통증으로 응급실에 내원하였다. 통증은 갑자기 시작되었으며 점점 심해지고 있다고 한다. 환자는 오심과 구토를 동반하고 있으며, 지난 3일간 설사가 있었다고 한다. 마지막 월경은 2주 전이었으며, 성교통과 불규칙한 질 출혈이 있었다고 한다. 과거력상 1년 전 클라미디아 감염으로 치료받은 적이 있다. 신체 검진에서 우하복부에 심한 압통과 반발통이 있으며, 자궁경부 움직임 시 통증이 있다. 활력 징후는 혈압 110/70 mmHg, 맥박 100회/분, 호흡수 20회/분, 체온 38.3°C이다.",
+  "exam": "혈액 검사에서 백혈구 15,000/μL, 헤모글로빈 12.5 g/dL, 혈소판 250,000/μL, hCG 음성, CRP 12 mg/dL이다. 질 분비물 검사에서 다형핵 백혈구가 증가되어 있다. 복부 CT에서 충수는 정상이나, 우측 난소와 난관이 부종성으로 확장되어 있고, 주변에 소량의 복수가 관찰된다.",
+  "options": {
+    "A": "응급 충수절제술",
+    "B": "진통제 투여 후 경과 관찰",
+    "C": "광범위 항생제 투여와 입원 치료",
+    "D": "복강경하 진단적 수술과 필요시 충수절제술",
+    "E": "메토트렉세이트(methotrexate) 주사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 임상 양상, 검사 결과, 영상 소견을 종합했을 때 급성 골반 염증성 질환(PID)이 가장 의심됩니다. 하복부 통증, 성교통, 불규칙한 질 출혈, 클라미디아 감염의 과거력, 자궁경부 움직임 시 통증, 발열, 백혈구 증가, 질 분비물에서 다형핵 백혈구 증가, CT에서 난소와 난관의 부종성 변화는 모두 급성 골반 염증성 질환을 시사합니다. 급성 골반 염증성 질환은 자궁, 난관, 난소, 골반 복막의 상행성 감염으로, 주로 클라미디아 트라코마티스와 임균에 의해 발생합니다. 치료하지 않으면 난관 손상, 불임, 자궁외 임신, 만성 골반통 등의 합병증을 유발할 수 있습니다. 급성 골반 염증성 질환의 적절한 치료는 광범위 항생제 투여와 입원 치료입니다. 입원 기준으로는 임신 가능성, 골반 농양 의심, 중증 질환으로 경구 약제를 복용할 수 없는 경우, 외래 치료에 실패한 경우, 심한 통증으로 응급 수술이 필요할 수 있는 경우 등이 있습니다. 이 환자는 심한 통증, 발열, 백혈구 증가로 입원 치료가 필요합니다. 항생제는 클라미디아, 임균, 혐기성 균을 포함한 광범위 항생제(예: 세프트리악손과 독시사이클린 또는 클린다마이신)를 사용합니다. 응급 충수절제술은 CT에서 충수가 정상으로 확인되었고, 임상 양상이 골반 염증성 질환에 더 합당하므로 불필요합니다. 진통제 투여 후 경과 관찰만으로는 기저 감염을 치료할 수 없어 부적절합니다. 복강경하 진단적 수술은 항생제 치료에 반응이 없거나 진단이 불확실한 경우, 또는 골반 농양이 의심될 때 고려할 수 있지만, 초기 치료로는 항생제 요법이 우선입니다. 메토트렉세이트 주사는 자궁외 임신 치료에 사용되는 약물로, 이 환자는 hCG 음성으로 임신이 확인되지 않아 적절하지 않습니다.",
+  "source": {
+    "file_name": "Centers for Disease Control and Prevention, Sexually Transmitted Infections Treatment Guidelines",
+    "content": "급성 골반 염증성 질환의 진단은 하복부 통증, 자궁경부 움직임 시 통증, 부속기 압통의 세 가지 최소 기준 중 하나 이상과 함께 다른 원인을 배제함으로써 이루어진다. 입원 치료는 임신, 골반 농양 의심, 중증 질환으로 경구 약제를 복용할 수 없는 경우, 외래 치료에 실패한 경우, 심한 통증으로 응급 수술적 상태(예: 충수염)를 배제할 수 없는 경우 등에서 고려한다. 정맥 항생제 요법으로는 세프트리악손 250mg IM 단회 투여와 독시사이클린 100mg 경구 또는 정맥 12시간마다, 또는 클린다마이신 900mg 정맥 8시간마다와 젠타마이신 투여가 권장된다. 환자가 임상적으로 호전되면(보통 24-48시간 후) 경구 항생제로 전환하여 총 14일간 치료를 완료한다."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 98,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "5세 여아가 3일 전부터 시작된 간헐적인 복통과 구토를 주소로 응급실에 내원하였다. 환자는 통증이 심할 때 무릎을 가슴으로 당기며 움츠리는 자세를 취하고, 10-15분 정도 지속된 후 완화된다고 한다. 어제부터는 혈변이 관찰되었으며, 보호자는 '딸기잼'처럼 보인다고 표현했다. 환자는 최근 상기도 감염 증상이 있었으며, 체중은 17kg(10백분위수)이다. 신체 진찰에서 우상복부에 소시지 모양의 종괴가 만져지며 압통이 있다. 활력 징후는 체온 37.5℃, 맥박 110회/분, 호흡수 24회/분, 혈압 100/60mmHg이다.",
+  "exam": "혈액 검사에서 백혈구 12,200/μL, 혈색소 11.2g/dL, 혈소판 280,000/μL이다. 이 환자에게 가장 적절한 다음 진단적 검사는?",
+  "options": {
+    "A": "복부 전산화단층촬영(CT)",
+    "B": "복부 초음파",
+    "C": "바륨 관장 검사",
+    "D": "상부위장관 내시경",
+    "E": "메켈게실 신티그래피"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 소아 장중첩증의 전형적인 임상상을 보이고 있다. 소아 장중첩증은 주로 생후 3개월에서 3세 사이의 영유아에서 발생하나, 5세까지도 흔히 발생할 수 있다. 전형적인 증상으로는 갑작스런 간헐적 복통, 무릎을 가슴으로 당기는 자세, 복부 촉진 시 소시지 모양의 종괴, 혈변('딸기잼' 또는 '커런트젤리' 모양) 등이 있다. 장중첩증은 한 부분의 장이 인접한 원위부 장 내로 함입되는 상태로, 소아에서는 주로 회장-결장형이 흔하며, 대부분 특발성이다. 최근의 바이러스 감염(특히 아데노바이러스, 로타바이러스)이 선행 요인으로 작용할 수 있다. 장중첩증의 진단에 가장 적절한 검사는 복부 초음파이다. 초음파에서는 특징적인 '표적 징후(target sign)' 또는 '도넛 징후(doughnut sign)'가 관찰되며, 민감도와 특이도가 높다(각각 약 98%와 100%). 초음파는 방사선 노출이 없고, 비침습적이며, 소아에서 시행하기 용이하다는 장점이 있다. 복부 전산화단층촬영(CT)은 초음파로 진단이 명확하지 않은 경우 고려할 수 있으나, 방사선 노출의 위험이 있어 초음파가 우선시된다. 바륨 관장 검사는 과거에는 진단 및 치료 목적으로 사용되었으나, 현재는 초음파로 진단 후 비수술적 정복(공기 또는 수압 정복)을 시행하는 것이 표준 치료이다. 상부위장관 내시경은 장중첩증의 진단에 도움이 되지 않으며, 주로 상부위장관 질환(식도염, 위염, 소화성 궤양 등)의 진단에 사용된다. 메켈게실 신티그래피는 메켈게실 내 이소성 위점막을 탐지하는 검사로, 원인 불명의 소화관 출혈이나 메켈게실염이 의심될 때 유용하나, 장중첩증의 진단에는 적합하지 않다.",
+  "source": {
+    "file_name": "Nelson Textbook of Pediatrics",
+    "content": "Ultrasonography is the diagnostic test of choice for intussusception in children. The classic findings include the target or doughnut sign on transverse view and the pseudokidney sign on longitudinal view. Ultrasonography has high sensitivity (98%) and specificity (100%) and avoids radiation exposure. It can also identify lead points and assess for complications such as perforation or necrosis. Once diagnosed, nonoperative reduction using pneumatic or hydrostatic pressure under radiologic guidance is the recommended initial management, with surgery reserved for cases that fail nonoperative reduction or present with signs of peritonitis or perforation."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 99,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통으로 인한 응급 치료가 필요한 사람에게 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "9세 남아가 3일 전부터 시작된 상복부 통증과 구토를 주소로 응급실에 내원하였다. 환자는 식후 악화되는 화끈거리는 통증을 호소하며, 구토물에 소량의 혈액이 섞여 있었다고 한다. 환자는 최근 2주간 비스테로이드성 소염제를 복용했으며, 1년 전 유사한 증상으로 치료받은 적이 있다. 가족력상 아버지가 소화성 궤양으로 치료받았다. 신체 진찰에서 상복부 압통이 확인되었으나 반발통은 없다. 활력 징후는 체온 37.0℃, 맥박 88회/분, 호흡수 20회/분, 혈압 105/65mmHg이다.",
+  "exam": "혈액 검사에서 백혈구 8,800/μL, 혈색소 11.5g/dL, 혈소판 300,000/μL이다. 상부위장관 내시경에서 위 전정부에 0.8cm 크기의 활동성 궤양이 관찰되었으며, 조직 검사 및 신속 요소분해효소 검사(Rapid urease test)에서 헬리코박터 파일로리 감염이 확인되었다. 이 환자의 초기 치료로 가장 적절한 것은?",
+  "options": {
+    "A": "오메프라졸 단독 투여",
+    "B": "라니티딘과 제산제 병합 투여",
+    "C": "오메프라졸, 아목시실린, 클래리스로마이신, 비스무트 병합 투여",
+    "D": "오메프라졸, 아목시실린, 클래리스로마이신 병합 투여",
+    "E": "내시경적 지혈술 시행"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 상복부 통증, 혈액이 섞인 구토, 비스테로이드성 소염제 복용력, 내시경에서 확인된 위궤양과 헬리코박터 파일로리 감염 소견을 보이고 있다. 이는 헬리코박터 파일로리 연관 소화성 궤양에 합당한 소견이다. 소아 소화성 궤양의 주요 원인으로는 헬리코박터 파일로리 감염, 비스테로이드성 소염제 사용, 스트레스 등이 있으며, 이 환자는 헬리코박터 파일로리 감염과 비스테로이드성 소염제 사용이라는 두 가지 위험 인자를 모두 가지고 있다. 헬리코박터 파일로리 연관 소화성 궤양의 표준 치료는 양성자 펌프 억제제(오메프라졸)와 두 가지 항생제(아목시실린과 클래리스로마이신)를 병합하는 삼제요법이다. 아목시실린은 일반적으로 50mg/kg/일(최대 2g/일), 클래리스로마이신은 15mg/kg/일(최대 1g/일)의 용량으로 투여한다. 이러한 제균 요법은 궤양의 치유를 촉진하고 재발을 방지하는 데 효과적이다. 치료 기간은 일반적으로 7-14일이며, 제균 성공률은 약 70-90%이다. 클래리스로마이신 내성이 의심되는 경우에는 메트로니다졸로 대체할 수 있다. 오메프라졸 단독 투여는 위산 분비를 억제하여 궤양 치유를 돕지만, 헬리코박터 파일로리 감염을 제거하지 못하므로 장기적으로 재발 위험이 높다. 라니티딘(H2 수용체 길항제)과 제산제 병합 투여도 위산 분비를 억제하는 효과가 있으나, 양성자 펌프 억제제보다 효과가 제한적이며, 헬리코박터 파일로리 감염을 제거하지 못한다. 오메프라졸, 아목시실린, 클래리스로마이신, 비스무트 병합 투여(사제요법)는 삼제요법에 비해 더 복잡하고 부작용이 많을 수 있어, 일차 치료로는 일반적으로 권장되지 않는다. 사제요법은 주로 삼제요법이 실패한 경우나 항생제 내성률이 높은 지역에서 고려된다. 내시경적 지혈술은 활동성 출혈이나 출혈의 고위험 소견(노출된 혈관, 부착된 혈괴 등)이 있는 경우에 시행되나, 이 환자의 경우 경미한 출혈만 있었고 혈역학적으로 안정적이므로 약물 치료가 우선시된다.",
+  "source": {
+    "file_name": "Nelson Textbook of Pediatrics",
+    "content": "For H. pylori-associated peptic ulcer disease in children, the recommended first-line treatment is triple therapy consisting of a proton pump inhibitor plus two antibiotics (usually amoxicillin with either clarithromycin or metronidazole) for 7-14 days. This regimen achieves H. pylori eradication rates of 70-90%. Successful eradication significantly reduces ulcer recurrence rates. Acid suppression therapy alone (without antibiotics) is insufficient for H. pylori-positive ulcers, as it does not address the underlying infection. Bismuth-based quadruple therapy is typically reserved for cases where triple therapy has failed or in regions with high clarithromycin resistance. Confirmation of eradication is recommended 4-8 weeks after completion of therapy, using either the urea breath test, stool antigen test, or endoscopy with biopsy."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 100,
+  "chief_complaint": "급성복통",
+  "purpose": "급성복통이 있는 사람에게서 원인, 중증도, 응급도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "14세 여아가 2일 전부터 시작된 우측 옆구리 통증과 발열을 주소로 응급실에 내원하였다. 환자는 빈뇨, 배뇨통, 잔뇨감을 호소하며, 오한과 구토가 동반되었다. 내원 당일 아침 소변에서 혈뇨가 관찰되었다고 한다. 활력 징후는 체온 39.2℃, 맥박 110회/분, 호흡수 24회/분, 혈압 110/70mmHg이다. 신체 진찰에서 우측 늑골척추각 압통이 뚜렷하게 관찰되었으며, 하복부에 경미한 압통이 있다.",
+  "exam": "혈액 검사에서 백혈구 16,500/μL(호중구 85%), CRP 12.5mg/dL, 혈색소 13.0g/dL, 혈소판 280,000/μL, BUN 18mg/dL, Creatinine 0.9mg/dL이다. 소변 검사에서 백혈구 많음(>100/HPF), 적혈구 많음(>50/HPF), 단백 2+, 아질산염 양성, 백혈구 에스테라제 양성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "options": {
+    "A": "급성 충수염",
+    "B": "요로결석",
+    "C": "급성 신우신염",
+    "D": "난소 낭종 파열",
+    "E": "급성 췌장염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 우측 옆구리 통증, 발열, 빈뇨, 배뇨통, 잔뇨감, 혈뇨 등의 증상과 함께 신체 진찰에서 우측 늑골척추각 압통이 관찰되며, 검사실 소견에서 백혈구 증가, CRP 상승, 소변 검사에서 백혈구뇨, 혈뇨, 단백뇨, 아질산염 양성, 백혈구 에스테라제 양성 소견을 보이고 있다. 이러한 임상 양상은 급성 신우신염을 강력히 시사한다. 급성 신우신염은 신장 실질과 신우의 세균성 감염으로, 대부분 하부 요로로부터 세균이 상행성으로 전파되어 발생한다. 소아에서는 요로 기형, 방광요관역류, 기능성 변비 등이 위험 인자로 작용할 수 있다. 급성 신우신염의 흔한 증상으로는 고열, 오한, 측복통, 늑골척추각 압통, 빈뇨, 배뇨통, 혈뇨 등이 있으며, 소아에서는 비특이적인 증상(발열, 구토, 식욕부진, 복통 등)으로 나타날 수 있다. 소변 검사에서 백혈구뇨, 농뇨, 혈뇨, 단백뇨, 아질산염 양성, 백혈구 에스테라제 양성 소견을 보이며, 소변 배양 검사에서 세균이 동정된다. 혈액 검사에서는 백혈구 증가, CRP 상승, 적혈구 침강 속도 증가 등의 염증 소견을 보인다. 급성 충수염은 우하복부 통증, 구토, 발열 등의 증상을 보이나, 이 환자에서 관찰되는 요로 증상(빈뇨, 배뇨통, in 혈뇨)과 소변 검사 이상 소견을 설명하기 어렵다. 요로결석은 갑작스러운 심한 옆구리 통증('신장 산통')이 특징적이며, 통증이 파동적으로 나타나고 환자가 안절부절 못하는 양상을 보인다. 혈뇨가 동반될 수 있으나, 이 환자에서 관찰되는 고열과 뚜렷한 염증 소견을 설명하기 어렵다. 또한 14세 소아에서 요로결석은 상대적으로 드물다. 난소 낭종 파열은 갑작스러운 하복부 통증을 유발할 수 있으나, 이 환자의 옆구리 통증, 요로 증상, 소변 검사 이상 소견을 설명하기 어렵다. 급성 췌장염은 주로 상복부 통증이 특징적이며, 통증이 등으로 방사되는 경향이 있다. 혈청 아밀라아제와 리파아제 상승이 진단에 중요하나, 이 환자에서는 이러한 정보가 제공되지 않았으며, 요로 증상과 소변 검사 이상 소견을 설명하기 어렵다.",
+  "source": {
+    "file_name": "Nelson Textbook of Pediatrics",
+    "content": "Acute pyelonephritis presents with fever, chills, flank pain, costovertebral angle tenderness, dysuria, frequency, and urgency. In children, symptoms may be less specific and can include irritability, poor feeding, vomiting, and abdominal pain. Laboratory findings include pyuria (>5 WBCs/HPF), bacteriuria, hematuria, proteinuria, positive nitrite test, and positive leukocyte esterase. Urine culture is the gold standard for diagnosis, typically yielding >100,000 colony-forming units/mL of a single uropathogen. Blood tests often show leukocytosis with neutrophil predominance and elevated inflammatory markers (CRP, ESR). Renal ultrasound is recommended to evaluate for structural abnormalities, hydronephrosis, or renal abscess, particularly in children with first febrile UTI, atypical presentation, or recurrent infections."
+  },
+  "category": "Pediatrics"
+}, 
+
+
+
+
+
+
+
+
 
 
 
