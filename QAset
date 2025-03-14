@@ -2791,6 +2791,132 @@
     "content": "Sudden sensorineural hearing loss (SSNHL) is defined as a rapid-onset subjective sensation of hearing impairment in one or both ears occurring within a 72-hour period. Clinically, SSNHL is often defined as a decrease in hearing of ≥30 decibels (dB) affecting at least 3 consecutive frequencies. The initial treatment of choice for SSNHL is corticosteroids. Oral steroids (e.g., prednisolone 60 mg daily for 7-14 days with a taper) have long been the standard initial treatment. Intratympanic (IT) steroid injections may be used as initial therapy in conjunction with oral steroids, as salvage therapy after failure of oral steroids, or as primary therapy in patients who cannot tolerate oral steroids. IT steroid treatment involves the injection of steroid solution into the middle ear space, allowing diffusion into the inner ear via the round window membrane. This method achieves higher perilymph steroid concentrations with minimal systemic absorption. Treatment should be initiated as soon as possible, preferably within the first two weeks after onset, as delays in treatment are associated with poorer outcomes."
   },
   "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 145,
+  "chief_complaint": "난청",
+  "purpose": "난청을 의심하는 사람에게서 병력청취와 귀 진찰을 통해 원인을 감별할 수 있다.",
+  "question": "29세 여성이 수년간 지속된 양측성 진행성 난청을 주소로 내원하였다. 환자는 사람들이 말하는 것을 잘 알아듣지 못하며, 특히 전화 통화가 어렵다고 호소하였다. 가족력상 환자의 어머니와 형제도 비슷한 증상이 있다고 한다. 이학적 검사에서 양측 외이도와 고막은 정상이었으나, Weber 검사에서 정중앙에 편위되었고, Rinne 검사에서 양측 모두 음성이었다. 청력검사 결과 양측 귀에 전도성 난청이 확인되었으며, 고막운동성검사(Tympanometry)는 정상이었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "순음청력검사: 양측 기도 청력역치 평균 55dB, 골도 청력역치 평균 15dB로 기도-골도 차이(air-bone gap)가 40dB. 고막운동성검사: A형(정상). 측두골 CT: 족판(stapes footplate) 주변의 경화성 변화 관찰됨.",
+  "options": {
+    "A": "삼출성 중이염(Otitis media with effusion)",
+    "B": "이경화증(Otosclerosis)",
+    "C": "메니에르병(Meniere's disease)",
+    "D": "노인성 난청(Presbycusis)",
+    "E": "외상성 고막 천공(Traumatic tympanic membrane perforation)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 수년간 서서히 진행하는 양측성 전도성 난청을 보이며, 가족력이 있고, 이학적 검사에서 정상 고막 소견, Rinne 검사 음성(골도>기도), 청력검사에서 현저한 기도-골도 차이(air-bone gap), 정상 고막운동성검사, CT에서 족판 주변의 경화성 변화 등 이경화증(Otosclerosis)에 합당한 임상양상을 보입니다. 이경화증은 측두골의 내이낭 주변에서 비정상적인 골 재형성이 일어나는 질환으로, 주로 등골(stapes)의 족판을 침범하여 등골의 운동을 제한함으로써 전도성 난청을 유발합니다. 주로 20-40대 여성에서 발병하며, 약 50%에서 가족력이 있습니다. 임상적 특징으로는 서서히 진행하는 양측성(초기에는 일측성일 수 있음) 전도성 난청, 이명, 저음역에서 더 뚜렷한 청력 저하(Carhart notch), 정상 고막 소견, Rinne 검사 음성, Weber 검사에서 난청이 더 심한 쪽으로 편위 등이 있습니다. 진단은 임상양상, 청력검사(기도-골도 차이 40dB 이내), 정상 고막운동성검사를 통해 이루어지며, 고해상도 측두골 CT에서 난원창 주변의 탈광화(demineralization) 또는 경화성 변화가 관찰될 수 있습니다. 치료는 보청기 착용이나 수술적 치료(등골절제술, stapedectomy)를 고려할 수 있습니다. 삼출성 중이염은 중이강 내 삼출액이 고이는 질환으로, 고막 이경 시 황색 또는 호박색 삼출액이나 기포가 관찰되며, 고막운동성검사에서 B형 또는 C형을 보입니다. 메니에르병은 반복적인 어지럼증 발작, 변동성 감각신경성 난청, 이명, 이충만감을 특징으로 합니다. 노인성 난청은 고령에서 발생하는 양측성 감각신경성 난청으로, 주로 고주파수 영역부터 청력 저하가 시작됩니다. 외상성 고막 천공은 외상으로 인한 급성 전도성 난청으로, 이경 시 고막 천공이 관찰됩니다.",
+  "source": {
+    "file_name": "Bailey's Head and Neck Surgery - Otolaryngology",
+    "content": "Otosclerosis is a primary disease of the bony labyrinth and stapes that leads to stapes fixation and conductive hearing loss. It is characterized by abnormal bone remodeling in the otic capsule, particularly around the oval window and stapes footplate. Otosclerosis has a familial tendency, with approximately 50% of cases showing a positive family history, and is twice as common in women as in men. The typical presentation is a slowly progressive conductive hearing loss beginning in the second to fourth decades of life. Clinically, patients have normal-appearing tympanic membranes, a negative Rinne test (bone conduction better than air conduction), and audiometry showing a conductive hearing loss with an air-bone gap typically not exceeding 40 dB. Tympanometry is usually normal (type A), distinguishing otosclerosis from middle ear effusion or eustachian tube dysfunction. High-resolution CT may show demineralization or sclerotic changes around the oval window. Treatment options include hearing amplification with hearing aids or surgical correction with stapedectomy or stapedotomy, which involves removal or fenestration of the fixed stapes and replacement with a prosthesis."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 146,
+  "chief_complaint": "난청",
+  "purpose": "난청을 의심하는 사람에게서 병력청취와 귀 진찰을 통해 원인을 감별할 수 있다.",
+  "question": "4세 남아가 반복적인 중이염과 양측성 난청을 주소로 내원하였다. 어머니는 아이가 태어난 이후 잦은 중이염을 앓았으며, 언어 발달이 또래보다 느리다고 호소하였다. 가족력상 아버지도 어릴 때 비슷한 증상이 있었다고 한다. 이학적 검사에서 양측 고막은 혼탁하고 함몰되어 있으며, 청색 고막(blue drum)이 관찰되었다. 비인두 내시경 검사에서 비후된 아데노이드 조직이 이관 입구를 막고 있었다. 이 환아의 가장 가능성 높은 진단은?",
+  "exam": "순음청력검사: 양측 기도 청력역치 평균 35dB, 골도 청력역치 평균 10dB. 고막운동성검사: 양측 B형. 측두골 CT: 양측 중이강 내 연조직 음영 관찰, 유양동 함기화 저하.",
+  "options": {
+    "A": "급성 화농성 중이염",
+    "B": "만성 삼출성 중이염",
+    "C": "선천성 내이 기형",
+    "D": "소아 감각신경성 난청",
+    "E": "이소골 기형"
+  },
+  "answer": "B",
+  "explanation": "이 환아는 반복적인 중이염, 양측성 전도성 난청, 언어 발달 지연, 혼탁하고 함몰된 고막, 청색 고막, 비후된 아데노이드, 청력검사에서 전도성 난청, B형 고막운동성검사 등 만성 삼출성 중이염(Chronic otitis media with effusion)에 합당한 임상양상을 보입니다. 만성 삼출성 중이염은 중이강 내에 삼출액이 3개월 이상 지속되는 상태로, 급성 감염의 증상 없이 전도성 난청이 주된 증상입니다. 소아에서는 이관(Eustachian tube)의 기능적, 해부학적 미성숙 및 아데노이드 비대가 주요 원인이 됩니다. 특히 아데노이드 비대는 이관 입구를 물리적으로 막거나 반복적인 상기도 감염의 원천이 되어 삼출성 중이염의 발생에 기여합니다. 임상적 특징으로는 청력 저하, 언어 발달 지연, 혼탁하고 함몰된 고막, 중이강 내 삼출액에 의한 청색 고막 또는 수평 공기액체층(air-fluid level) 등이 있습니다. 진단은 이경 검사, 고막운동성검사(B형: 평평한 곡선, 낮은 순응도), 청력검사(전도성 난청)를 통해 이루어집니다. 치료는 경과 관찰, 약물 치료(항생제, 비강 스테로이드, 항히스타민제), 중이 환기관 삽입술, 아데노이드 절제술 등을 고려할 수 있습니다. 특히 청력 저하가 심하거나 언어 발달 지연이 있는 경우, 3개월 이상 지속되는 양측성 삼출성 중이염이 있는 경우에는 수술적 치료가 권장됩니다. 급성 화농성 중이염은 갑작스러운 귀 통증, 발열, 보챔 등의 급성 증상과 발적된 고막, 고막 팽창 등이 특징적입니다. 선천성 내이 기형은 주로 감각신경성 난청을 유발하며, 영상검사에서 내이 구조물의 기형이 확인됩니다. 소아 감각신경성 난청은 선천성 또는 후천성 원인에 의해 발생할 수 있으며, 이경 검사에서 고막은 정상 소견을 보입니다. 이소골 기형은 전도성 난청을 유발하지만, 중이염의 병력이 없고 고막은 정상 소견을 보이는 경우가 많습니다.",
+  "source": {
+    "file_name": "Nelson Textbook of Pediatrics",
+    "content": "Chronic otitis media with effusion is defined as the presence of fluid in the middle ear without signs or symptoms of acute ear infection for at least 3 months. It is the most common cause of hearing loss in children. Risk factors include young age (peak incidence between 2-5 years), previous history of acute otitis media, eustachian tube dysfunction, adenoid hypertrophy, and various craniofacial anomalies. On otoscopic examination, the tympanic membrane appears dull, opaque, and sometimes retracted, with decreased mobility. A bluish hue of the tympanic membrane may be observed when the middle ear is filled with serous fluid. Tympanometry typically shows a flat curve (type B), indicating decreased tympanic membrane mobility. Audiometry reveals a mild to moderate conductive hearing loss, usually between 25-40 dB. Treatment options include watchful waiting for 3 months, tympanostomy tube insertion (especially for bilateral effusion with hearing loss >40 dB, speech/language delay, or persistent effusion >3 months), and adenoidectomy (particularly when adenoid hypertrophy contributes to eustachian tube dysfunction)."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 147,
+  "chief_complaint": "난청",
+  "purpose": "난청이 있는 사람에게 원인에 따른 적합한 초기 치료 계획을 수립할 수 있다.",
+  "question": "42세 남성이 1달 전부터 시작된 좌측 귀의 난청과 이명을 주소로 내원하였다. 환자는 귀 통증은 없으나 간헐적인 현기증을 호소하였다. 이학적 검사에서 좌측 외이도에 미만성 부종과 홍반이 관찰되었고, 외이도가 좁아져 있어 고막을 완전히 관찰하기 어려웠다. 귀 진찰 시 통증을 호소하였다. 환자는 최근 수영을 다녀온 후 귀에 물이 들어갔다고 하며, 면봉으로 귀를 자주 후벼 파냈다고 한다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "이경 검사: 좌측 외이도 피부의 미만성 부종과 홍반, 삼출액이 관찰됨. 세균 배양 검사: Pseudomonas aeruginosa 양성.",
+  "options": {
+    "A": "경구 항생제와 국소 항생제-스테로이드 혼합 점이액, 귀 보호",
+    "B": "중이 환기관 삽입술",
+    "C": "고실 내 스테로이드 주입술",
+    "D": "즉각적인 고막성형술",
+    "E": "보청기 착용"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 수영 후 발생한 외이도의 부종, 홍반, 삼출액, 진찰 시 통증, 그리고 동반된 난청, 이명 등의 증상을 보이며 배양 검사에서 Pseudomonas aeruginosa가 검출되어 외이도염(Otitis externa)에 합당한 소견을 보입니다. 외이도염은 외이도 피부의 염증성 질환으로, 흔히 '수영자의 귀(swimmer's ear)'라고도 불립니다. 주요 원인으로는 습한 환경(수영 후), 외이도 피부의 미세 손상(면봉 등으로 귀 후벼파기), 귀지의 과도한 제거 등이 있습니다. 특히 Pseudomonas aeruginosa는 수영장이나 온수 욕조와 연관된 외이도염의 흔한 원인균입니다. 임상적 특징으로는 귀 통증(특히 이주 압박 시), 가려움증, 외이도 분비물, 외이도 부종으로 인한 일시적 난청, 이경 검사에서 외이도 피부의 미만성 부종과 홍반 등이 있습니다. 외이도염의 초기 치료는 국소 항생제-스테로이드 혼합 점이액이 기본이며, 귀 보호(물 들어가지 않도록 주의)와 통증 조절이 중요합니다. 사용되는 국소 약제로는 항생제(neomycin, polymyxin B, ciprofloxacin 등)와 스테로이드의 혼합 제제가 효과적입니다. 특히 외이도 부종이 심한 경우에는 외이도에 면솜이나 거즈를 삽입하여 약물 전달을 돕고 배액을 촉진할 수 있습니다(ear wick). 중등도 이상의 외이도염이나 전신 증상이 있는 경우에는 경구 항생제를 함께 사용할 수 있습니다. 외이도를 깨끗하게 유지하기 위한 세척(aural toilet)도 치료에 도움이 됩니다. 중이 환기관 삽입술은 삼출성 중이염의 치료법이며, 고실 내 스테로이드 주입술은 돌발성 난청의 치료에 사용됩니다. 고막성형술은 만성 고막 천공의 수술적 치료이며, 보청기 착용은 영구적인 난청의 재활 치료입니다. 이 환자의 경우 외이도염이 적절히 치료되면 관련 난청도 호전될 것으로 예상됩니다.",
+  "source": {
+    "file_name": "American Academy of Otolaryngology-Head and Neck Surgery Clinical Practice Guideline: Acute Otitis Externa",
+    "content": "Acute otitis externa (AOE) is a cellulitis of the ear canal skin and subdermis, with acute inflammation and variable edema. The most common pathogens in AOE are Pseudomonas aeruginosa and Staphylococcus aureus. Predisposing factors include swimming, humid environments, trauma to the ear canal (including excessive cleaning), and dermatologic conditions. The primary treatment for uncomplicated AOE is topical therapy with a combination antibiotic-steroid preparation. For mild to moderate cases, acidifying solutions or topical antibiotics alone may be sufficient. For more severe cases, a topical antibiotic combined with a steroid is recommended to address both infection and inflammation. When there is significant canal edema, an ear wick may be placed to facilitate delivery of the topical medication deeper into the canal. Systemic antibiotics are reserved for cases with extension beyond the ear canal or in immunocompromised patients. Aural toilet (cleaning of the ear canal) is an important adjunct to topical therapy. Patients should be advised to keep the ear dry during the healing process."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 148,
+  "chief_complaint": "난청",
+  "purpose": "난청이 있는 사람에게 원인에 따른 적합한 초기 치료 계획을 수립할 수 있다.",
+  "question": "55세 남성이 좌측 귀의 난청과 함께 심한 어지럼증을 주소로 응급실에 내원하였다. 환자는 3시간 전부터 갑자기 심한 회전성 어지럼증이 시작되었으며, 오심, 구토를 동반하였다고 한다. 청력 저하는 어지럼증과 함께 발생하였다. 과거력상 고혈압과 당뇨가 있으며, 흡연력은 30갑년이다. 이학적 검사에서 자발안진이 우측으로 관찰되었으며, 좌측으로 기운 자세를 보였다. 롬베르그 검사에서 좌측으로 쓰러지는 경향이 있었다. 양측 고막은 정상이었다. 청력검사 결과 좌측 귀에 중등도의 감각신경성 난청이 확인되었다. 이 환자에게 가장 적절한 응급 처치는?",
+  "exam": "신경학적 검사: 좌측 말초성 안면마비, 구음장애 없음, 사지 근력 및 감각 정상. 순음청력검사: 좌측 감각신경성 난청(전 주파수 평균 65dB). 전정기능검사: 좌측 전정기능 소실, 온도안진검사에서 좌측 반고리관 마비.",
+  "options": {
+    "A": "스테로이드 정맥 투여와 항바이러스제 투여",
+    "B": "혈전용해제 정맥 투여",
+    "C": "전정억제제 투여와 수액 공급",
+    "D": "즉각적인 수술적 감압",
+    "E": "고실 내 스테로이드 주입술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 회전성 어지럼증, 편측성 감각신경성 난청, 자발안진, 자세 불균형, 전정기능 소실과 함께 말초성 안면마비까지 동반되었으며, 고혈압, 당뇨, 흡연과 같은 혈관 질환의 위험인자를 가지고 있어 전형적인 전정와우동맥 경색(Anterior inferior cerebellar artery infarction) 또는 뇌간 경색의 임상양상을 보입니다. 전정와우동맥(Anterior inferior cerebellar artery, AICA)은 기저동맥(basilar artery)에서 분지하여 내이동맥(labyrinthine artery)을 통해 내이(달팽이관과 전정기관)에 혈액을 공급하고, 소뇌 전하부와 외측 하부 뇌간에도 혈액을 공급합니다. AICA 영역의 허혈 또는 경색은 급성 현훈, 청력 소실, 이명, 구역, 구토 등의 내이 증상과 함께 안면마비, 안면감각이상, 호너 증후군, 소뇌 실조, 외측 주시시 안진 등의 중추신경계 증상을 복합적으로 나타낼 수 있습니다. 특히 이 환자는 신경학적 검사에서 말초성 안면마비가 동반되어 있어, 단순한 말초성 전정장애보다는 AICA 경색을 강하게 시사합니다. 급성 허혈성 뇌졸중의 응급 처치로는 증상 발생 4.5시간 이내에 정맥내 혈전용해제(recombinant tissue plasminogen activator, rtPA)를 투여하는 것이 표준 치료입니다. 빠른 재관류를 통해 뇌 조직 손상을 최소화하고 신경학적 결손을 줄일 수 있습니다. 이 환자는 증상 발생 3시간 내에 내원하였으므로, 금기사항이 없다면 혈전용해제 치료의 좋은 대상이 됩니다. 전정억제제와 수액 공급은 말초성 전정신경염이나 양성 발작성 체위성 현훈과 같은 단순 현훈 환자에게 적절한 대증 치료이나, 이 환자와 같은 뇌졸중 환자에게는 충분한 치료가 되지 못합니다. 스테로이드와 항바이러스제 투여는 벨 마비(Bell's palsy)나 람세이헌트 증후군(Ramsay Hunt syndrome)과 같은 안면신경마비나 돌발성 난청의 치료에 사용됩니다. 수술적 감압은 외상성 안면신경 손상이나 측두골 골절에 의한 안면신경마비에서 고려될 수 있습니다. 고실 내 스테로이드 주입술은 돌발성 난청의 치료 방법입니다.",
+  "source": {
+    "file_name": "Stroke: Pathophysiology, Diagnosis, and Management",
+    "content": "Anterior inferior cerebellar artery (AICA) infarction can present with a combination of peripheral audiovestibular and central neurological symptoms. The AICA supplies the inner ear through the labyrinthine artery, as well as the lateral pontomedullary junction and anterolateral cerebellum. Clinical manifestations include acute vertigo, hearing loss, tinnitus, nausea, vomiting (internal auditory artery territory), along with facial palsy, facial sensory loss, Horner's syndrome, cerebellar ataxia, and lateral gaze-evoked nystagmus (brainstem and cerebellar territories). The presence of facial weakness (facial nerve involvement) or other central neurological signs in a patient with acute vertigo and hearing loss strongly suggests AICA territory infarction rather than peripheral vestibulopathy. Acute ischemic stroke treatment includes intravenous thrombolysis with recombinant tissue plasminogen activator (rtPA) within 4.5 hours of symptom onset for eligible patients, followed by antiplatelet therapy, management of risk factors, and rehabilitation. Early recognition and initiation of thrombolytic therapy are crucial for improving outcomes and reducing permanent neurological deficits."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 149,
+  "chief_complaint": "난청",
+  "purpose": "난청을 의심하는 사람에게서 병력청취와 귀 진찰을 통해 원인을 감별할 수 있다.",
+  "question": "15세 남자 청소년이 3개월 전부터 시작된 양측성 난청을 주소로 내원하였다. 환자는 주로 고음을 잘 듣지 못하고, 대화할 때 상대방의 말을 잘 알아듣지 못한다고 호소하였다. 최근 이명도 동반되었다고 한다. 환자는 지난 6개월간 평소보다 소변량이 증가하였으며, 야간 소변 횟수가 2-3회로 늘었다고 하였다. 가족력상 환자의 어머니가 30대에 신장 이식을 받은 병력이 있으며, 모계 삼촌도 신장 질환으로 투석 중이라고 한다. 이학적 검사에서 양측 고막은 정상이었다. 이 환자에게 가장 적절한 추가 검사는?",
+  "exam": "순음청력검사: 양측 감각신경성 난청(2kHz 이상 고주파수에서 40-50dB 청력 저하). 일반혈액검사: 혈색소 11.2g/dL, 혈소판 230,000/μL, 백혈구 7,500/μL. 전해질 검사: Na 140mEq/L, K 4.5mEq/L, Cl 105mEq/L, HCO3 22mEq/L.",
+  "options": {
+    "A": "측두골 전산화단층촬영",
+    "B": "자기공명영상",
+    "C": "신장 기능 검사와 소변 검사",
+    "D": "뇌파검사",
+    "E": "갑상선 기능 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 양측성 고주파수 감각신경성 난청과 함께 다뇨, 야간뇨를 호소하고, 어머니와 외삼촌의 신장 질환 가족력이 있어 알포트 증후군(Alport syndrome)을 의심할 수 있는 임상양상을 보입니다. 알포트 증후군은 제4형 콜라겐의 유전적 결함으로 인한 유전성 신장 질환으로, 진행성 신장 기능 장애, 감각신경성 난청, 안과적 이상(황반 이영양증, 수정체 이상 등)을 특징으로 합니다. 주로 X-연관성 유전으로 남자에서 더 심하게 나타나며, 상염색체 우성 또는 열성 유전 형태도 있습니다. 신장 증상은 보통 소아기에 현미경적 혈뇨로 시작하여 단백뇨가 동반되고, 청소년기나 성인기에 진행성 신부전으로 발전합니다. 청력 소실은 주로 고주파수 영역에서 시작하여 점차 진행하며, 대개 8-10세에 시작되어 성인기에 중등도 이상의 난청으로 진행합니다. 안과적 이상은 약 15-30%에서 동반됩니다. 알포트 증후군이 의심되는 환자에서 가장 중요한 초기 검사는 신장 기능 검사와 소변 검사입니다. 소변 검사에서 현미경적 혈뇨, 단백뇨가 확인될 수 있으며, 신장 기능 검사에서 혈중 요소질소(BUN), 크레아티닌 상승, 사구체 여과율(GFR) 감소 등이 관찰될 수 있습니다. 진단이 의심되면 유전자 검사, 신장 조직 검사, 면역형광 염색(제4형 콜라겐 α3, α4, α5 사슬) 등을 통해 확진할 수 있습니다. 측두골 전산화단층촬영과 자기공명영상은 내이 구조의 이상이나 전정와우신경의 병변 여부를 확인하는 데 유용하지만, 알포트 증후군의 감각신경성 난청은 조직학적 변화에 의한 것으로 영상검사에서 특이 소견을 보이지 않습니다. 뇌파검사는 청력 저하와 관련이 없으며, 갑상선 기능 검사는 갑상선 질환과 관련된 난청을 평가하는 데 사용됩니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Alport syndrome is a hereditary nephritis characterized by progressive renal failure, sensorineural hearing loss, and ocular abnormalities. It results from mutations in genes encoding type IV collagen, a major component of basement membranes, including those in the glomeruli, cochlea, and eye. About 85% of cases follow X-linked inheritance (mutations in COL4A5 gene), affecting males more severely, while the remainder follows autosomal recessive or dominant inheritance. The classic triad includes: 1) Progressive nephropathy, starting with microscopic hematuria in childhood, later developing proteinuria, and eventually progressing to end-stage renal disease in adolescence or early adulthood in males; 2) Sensorineural hearing loss, typically affecting high frequencies first, beginning in late childhood or early adolescence; and 3) Ocular abnormalities, including anterior lenticonus and retinal flecks. Initial evaluation should include urinalysis (for hematuria and proteinuria), kidney function tests (BUN, creatinine, GFR), audiometry, and ophthalmologic examination. Diagnosis can be confirmed by kidney biopsy with electron microscopy showing characteristic thickening and splitting of the glomerular basement membrane, immunostaining for type IV collagen chains, or genetic testing for mutations in COL4A3, COL4A4, or COL4A5 genes."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 150,
+  "chief_complaint": "난청",
+  "purpose": "난청이 있는 사람에게 원인에 따른 적합한 초기 치료 계획을 수립할 수 있다.",
+  "question": "2세 남아가 양측성 난청이 의심되어 내원하였다. 어머니는 아이가 이름을 불러도 반응이 없고, 말이 또래보다 늦다고 하였다. 임신 중 특이사항은 없었으나, 출생 시 체중 2.3kg의 조산아였으며, 신생아 중환자실에서 10일간 치료받은 이력이 있다. 가족력상 청력 저하나 유전 질환은 없었다. 이학적 검사에서 양측 외이도와 고막은 정상이었다. 난청 선별검사에서 양측 자동청성뇌간반응(AABR)이 통과되지 않았다. 이 환아에게 가장 적절한 초기 관리 계획은?",
+  "exam": "이학적 검사: 양측 외이도와 고막 정상, 외형적 이상 없음. 자동청성뇌간반응(AABR): 양측 모두 통과하지 못함(Refer). 이음향방사검사(OAE): 양측 모두 반응 없음.",
+  "options": {
+    "A": "항생제 경구 투여",
+    "B": "중이 환기관 삽입술",
+    "C": "진단적 청성뇌간반응검사(ABR)와 영상검사",
+    "D": "보청기 착용 후 언어 재활 치료",
+    "E": "인공와우 이식술"
+  },
+  "answer": "C",
+  "explanation": "이 환아는 언어 발달 지연, 소리에 대한 반응 저하, 자동청성뇌간반응(AABR)과 이음향방사검사(OAE)에서 양측 모두 비정상 소견을 보이는 선천성 또는 신생아기 난청이 의심되는 상황입니다. 또한 조산과 신생아 중환자실 치료력은 난청의 위험 인자로 작용할 수 있습니다. 이러한 환아에서 가장 적절한 초기 관리 계획은 진단적 청성뇌간반응검사(ABR)와 영상검사를 시행하는 것입니다. 선별검사에서 난청이 의심되는 경우, 정확한 난청의 정도와 유형을 평가하기 위해 진단적 청성뇌간반응검사(ABR)가 필요합니다. ABR은 청각 신경계의 전기적 활동을 측정하여 청력 역치를 평가하는 객관적인 검사로, 특히 유아에서 행동 청력검사가 어려울 때 유용합니다. 영상검사(측두골 전산화단층촬영, 내이 자기공명영상)는 내이 구조의 기형, 내이도 및 청신경의 이상, 중이 이상 등을 확인하는 데 도움이 됩니다. 이러한 진단적 검사를 통해 난청의 원인, 유형(전도성, 감각신경성, 혼합성), 정도를 정확히 평가한 후, 적절한 중재 방법(보청기, 인공와우, 언어 재활 등)을 결정해야 합니다. 선천성 난청의 경우 조기 진단과 중재가 언어 발달에 매우 중요하므로, 6개월 이전에 진단하고 적절한 중재를 시작하는 것이 권장됩니다. 항생제 경구 투여는 중이염과 같은 감염성 질환이 의심될 때 고려되나, 이 환아는 이경 검사에서 정상 고막 소견을 보이므로 적절하지 않습니다. 중이 환기관 삽입술은 삼출성 중이염에 의한 전도성 난청에 효과적이지만, 이 환아의 난청은 정상 고막 소견과 OAE, AABR 결과를 고려할 때 감각신경성 난청일 가능성이 높습니다. 보청기 착용과 인공와우 이식술은 모두 난청의 정도와 유형이 정확히 진단된 후에 고려되어야 하는 중재 방법입니다. 특히 인공와우 이식술은 고도 이상의 감각신경성 난청에서 보청기 효과가 제한적일 때 고려되는 치료법으로, 정확한 청력 평가와 영상검사를 통한 내이 및 청신경 상태 확인이 선행되어야 합니다.",
+  "source": {
+    "file_name": "Joint Committee on Infant Hearing Position Statement",
+    "content": "For infants who do not pass automated screening tests such as AABR or OAE, comprehensive diagnostic audiologic evaluation should be completed promptly, ideally by 3 months of age. The diagnostic evaluation should include frequency-specific auditory brainstem response (ABR) testing to estimate thresholds across the frequency range important for speech recognition. Imaging studies, including high-resolution CT of the temporal bones and/or MRI of the inner ear and internal auditory canals, are often indicated to identify structural abnormalities of the external, middle, and inner ear, and to evaluate the status of the cochlear nerve. These imaging studies help to determine the etiology of hearing loss and guide appropriate interventions. Additional diagnostic evaluations may include genetic testing, ophthalmologic examination, and other medical consultations based on the suspected etiology of hearing loss. Once the type and degree of hearing loss are confirmed, appropriate interventions should be initiated by 6 months of age. These may include hearing aids, cochlear implants for profound hearing loss, and enrollment in early intervention programs for speech and language development. Early identification and intervention for hearing loss have been shown to significantly improve speech and language outcomes in children with congenital hearing loss."
+  },
+  "category": "Otolaryngology (ENT)"
 }
 
 
