@@ -1,0 +1,492 @@
+[
+  {
+    "question_id": 1,
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "35세 여성이 지난 두 달간 불규칙한 질 출혈을 주소로 내원하였다. 환자는 간헐적인 골반 통증과 피로감을 호소하고 있다. 이 환자의 다음 치료로 가장 적절한 것은?",
+    "exam": "신체 검사: 자궁 비대 소견, 혈액 검사: β-hCG 250,000 mIU/mL, 골반 초음파: 자궁 내 이질적인 종괴(임신낭 없음), 흉부 CT: 다발성 폐 결절",
+    "options": {
+      "A": "자궁 소파술 시행",
+      "B": "단일 항암제 치료(메토트렉세이트)",
+      "C": "다중 항암 화학요법(EMA-CO 요법: 에토포사이드, 메토트렉세이트, 악티노마이신 D, 사이클로포스파마이드, 빈크리스틴)",
+      "D": "복식 전자궁적출술",
+      "E": "전뇌 방사선 치료"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 전이성(폐 침범) 임신성 영양막 질환(GTN)으로 의심되며, 이는 고위험군(GTN FIGO stage II–III, 점수 ≥7 또는 stage IV)에 해당한다. 고위험군 GTN은 EMA-CO 요법과 같은 다중 항암 화학요법이 표준 치료로 권장된다.",
+    "source": "Intl J Gynecology Obste - 2021 - Ngan - Diagnosis and management of gestational trophoblastic disease, Page 90: 'Multiple agent chemotherapy regimens are used to treat high-risk GTN. The most commonly used is EMA-CO (etoposide, methotrexate, actinomycin D, cyclophosphamide, vincristine) (Table 3), although the Cochrane Database review failed to conclude what combination was best. About 20% of patients do not attain complete response with EMA-CO therapy but most can be salvaged with further therapy; the overall survival rates for patients with high-risk GTN are now running as high as 95%.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "60세 폐경 여성 환자가 비정상적인 자궁 출혈을 주소로 내원하였다. 이 환자의 다음 치료로 가장 적절한 것은?",
+    "exam": "자궁내막 생검: 고등급 장액성 자궁내막암, MRI: 자궁근층 침범 >50%, 국소 림프혈관 공간 침윤(LVSI), 원격 전이 없음",
+    "options": {
+      "A": "복식 전자궁적출술 및 양측 난소·난관 절제술(TH/BSO) 단독",
+      "B": "TH/BSO 및 골반 림프절 절제술",
+      "C": "TH/BSO 및 골반·대동맥 주위 림프절 절제술 후 보조 항암화학요법",
+      "D": "수술 없이 1차 항암화학요법 시행",
+      "E": "골반 방사선 치료 단독"
+    },
+    "answer": "C",
+    "explanation": "고위험군 자궁내막암(고등급 장액성 암, 자궁근층 침범 >50%, 국소 LVSI)의 최적 치료는 TH/BSO 및 골반·대동맥 주위 림프절 절제술을 포함한 완전한 병기 결정 수술을 시행한 후 보조 항암화학요법을 시행하는 것이다. 이는 재발 위험을 감소시키는 데 중요하다.",
+    "source": "Intl J Gynecology Obste - 2023 - Berek - FIGO staging of endometrial cancer, Page 389: 'Stage IB tumors represent non-aggressive histological types (i.e. low-grade EECs) with invasion of 50% or more of the myometrium, and with no or focal LVSI.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "45세 여성이 질 출혈과 불편감을 주소로 내원하였다. 최근 성관계 시 통증이 발생하였으며, 몇 개월 동안 증상의 악화를 경험하고 있다. 검사 결과는 다음과 같다. 이 환자의 적절한 치료 방법은?",
+    "exam": "골반 진찰: 질 후벽 3cm 궤양성 병변, 조직검사: 편평세포암, MRI: 질 근층 침범 (골반벽/직장/방광 침범 없음)",
+    "options": {
+      "A": "질 절제술 단독",
+      "B": "자궁적출술 및 양측 난소·난관 절제술",
+      "C": "동시 화학방사선 치료 (CCRT: cisplatin 병용)",
+      "D": "단독 방사선 치료",
+      "E": "항암화학요법 단독"
+    },
+    "answer": "C",
+    "explanation": "질암(stage II)은 근층 침범이 있지만 골반벽 침범이 없는 경우로 정의된다. 표준 치료는 동시 화학방사선 치료(CCRT)이며, 일반적으로 시스플라틴(cisplatin) 기반의 병용 요법이 사용된다.",
+    "source": "NCCN Guidelines Version 5.2025, Vaginal Cancer, Page MS-10: 'For invasive stage II–IVA disease, the preferred modality for definitive management is platinum-based chemoradiation with brachytherapy. Concurrent chemotherapy has been shown in many series to improve outcomes and is often used in stage II–IV disease. Concurrent platinum-containing chemotherapy with EBRT utilizes cisplatin as a single agent (or carboplatin if cisplatin intolerant).'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "70세 여성이 외음부 소양감과 소량의 출혈을 주소로 내원하였다. 검사 결과는 다음과 같다. 다음으로 가장 적절한 치료는?",
+    "exam": "신체 검사: 외음부 우측 소음순 2.5cm 궤양성 병변, 조직검사: 침윤성 편평세포암, MRI: 국소 림프절 종대 없음, 원격 전이 없음",
+    "options": {
+      "A": "Wide local excision(광범위 국소 절제술) 단독",
+      "B": "근치적 외음부 절제술 및 감시 림프절 생검",
+      "C": "근치적 외음부 절제술 및 양측 서혜부 림프절 절제술",
+      "D": "전신 항암화학요법",
+      "E": "단독 방사선 치료"
+    },
+    "answer": "B",
+    "explanation": "침윤성 외음부암의 2cm 이상 병변에서는 근치적 외음부 절제술이 필요하며, 감시 림프절 생검을 통해 림프절 침범 여부를 평가하는 것이 중요하다. 림프절 양성 시 추가적인 치료가 필요할 수 있다.",
+    "source": "Intl J Gynecology Obste - 2018 - Rogers - Cancer of the vulva, Page 7: 'If the diameter of the lesion is 2 cm or less, and the depth of stromal invasion is less than or equal to 1 mm on the initial biopsy, it is usual to do a radical wide local excision of the lesion to assess the maximum depth of invasion. If no part of the lesion has a depth of invasion greater than 1 mm, then this excision is adequate definitive treatment.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 5,
+    "chief complaint": "복부팽만/복수",
+    "purpose": "복부팽만/복수를 갖고 있는 사람에 대한 적합한 치료 계획을 세울 수 있다.",
+    "question": "56세 여성이 복부 팽만과 체중 증가를 주소로 내원하였다. 환자는 최근 3개월간 복부 불편감을 느꼈으며, 식욕 감소와 조기 포만감을 경험하였다. 폐경 후 6년이 지났으며, 어머니가 난소암으로 사망하였다. 신체 검진에서 복부 팽만과 촉지 가능한 난소 종괴가 확인되었다. 이 환자의 적절한 치료 전략은?",
+    "exam": "신체 검사: 복부 팽만, 촉지 가능한 난소 종괴, 혈액 검사: CA-125 상승 (850 U/mL), 복부 CT: 양측 난소 종괴 (좌측 7cm, 우측 6cm), 복수 소견 동반",
+    "options": {
+      "A": "난소 절제술 및 감시 림프절 절제술",
+      "B": "신속한 항암화학요법 후 간격 감축술",
+      "C": "일차 종양 감축술 후 보조 항암화학요법",
+      "D": "호르몬 치료",
+      "E": "경과 관찰"
+    },
+    "answer": "C",
+    "explanation": "진행성 난소암(stage III-IV)의 경우, 환자가 수술적 절제가 가능할 정도로 건강하다면, 일차 종양 감축술(PDS) 후 보조 항암화학요법(일반적으로 파클리탁셀과 카보플라틴 병용)이 표준 치료로 권장된다. 간격 감축술(IDS)은 주로 종양 감축이 어려운 환자에게 선행 항암화학요법 후 고려된다.",
+    "source": "NCCN Guidelines Version 1.2025, Ovarian Cancer, Page MS-148: 'For advanced ovarian cancer, primary debulking surgery (PDS) followed by adjuvant platinum-taxane chemotherapy is the standard treatment when optimal cytoreduction is feasible. Neoadjuvant chemotherapy followed by interval debulking surgery (IDS) is an alternative option when primary cytoreduction is unlikely.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "47세 여성이 6개월 전부터 지속된 골반 통증과 비정상적인 질 출혈을 주소로 내원하였다. 환자는 최근 허리 통증이 심해졌으며, 빈혈로 인해 쉽게 피로감을 느낀다고 호소하였다. 과거력상 자궁근종이 있어 수년간 경과 관찰 중이었으며, 최근 크기가 증가한 것으로 확인되었다. 복부 및 골반 촉진에서 자궁이 비정상적으로 커져 있으며, 단단한 질감을 보였다. 이 환자의 적절한 치료 방침은?",
+    "exam": "신체 검사: 12cm 자궁, 단단한 질감, 혈액 검사: Hb 9.1 g/dL, 복부 CT: 자궁 내 종괴 (13cm), 주변 장기 침범 없음",
+    "options": {
+      "A": "호르몬 요법 단독",
+      "B": "자궁 절제술 및 병리학적 평가 후 치료 결정",
+      "C": "전신 항암화학요법 시행",
+      "D": "방사선 치료 단독",
+      "E": "보존적 치료 후 추적 관찰"
+    },
+    "answer": "B",
+    "explanation": "자궁육종(uterine sarcoma)이 의심되는 경우, 치료의 첫 단계는 근치적 자궁절제술 및 병리학적 평가를 통해 정확한 진단을 내리는 것이다. 이후 조직학적 아형 및 병기에 따라 추가적인 치료(항암화학요법 또는 방사선 치료)가 결정된다.",
+    "source": "NCCN Guidelines Version 3.2025, Uterine Neoplasms, Page MS-22: 'For suspected uterine sarcomas, total hysterectomy with surgical staging, peritoneal lavage for cytology, and maximal tumor debulking for gross disease are recommended.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 7,
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다. ",
+    "question": "48세 여성이 6개월 전부터 지속된 질 출혈과 하복부 불편감을 주소로 내원하였다. 환자는 최근 성관계 후 출혈이 심해졌으며, 체중이 5kg 감소하였다고 보고하였다. 10년 전 자궁경부 상피내종양(CIN III)으로 원추 절제술을 받은 과거력이 있으며, 최근 몇 개월 동안 야간 발한과 피로감을 자주 경험하였다. 이 환자의 적절한 치료 방침은?",
+    "exam": "신체 검사: 자궁경부 4cm 종괴, 촉진 시 출혈 동반, 질 확대경 검사: 비정형 혈관 분포, MRI: 자궁경부 근층 침윤, 골반 림프절 종대 확인, 혈액 검사: Hb 10.2",
+    "options": {
+      "A": "근치적 자궁적출술 및 골반 림프절 절제술",
+      "B": "근치적 방사선 치료 및 항암화학요법",
+      "C": "단독 방사선 치료",
+      "D": "보존적 치료 및 추적 관찰",
+      "E": "고식적 치료"
+    },
+    "answer": "B",
+    "explanation": "자궁경부암이 국소 진행성(Stage IIB 이상)으로 진단된 경우, 근치적 방사선 치료와 동시 항암화학요법(CCRT)이 표준 치료로 권장된다. 시스플라틴 기반의 동시 화학방사선 요법이 생존율 향상에 기여하는 것으로 보고되었다.",
+    "source": "Intl J Gynecology Obste - 2021 - Bhatla - Cancer of the cervix uteri, Page 111: 'Concurrent cisplatin-based chemoradiotherapy is recommended for locally advanced cervical cancer (stage IIB-IVA) as it has been shown to improve survival rates compared to radiation alone.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "만성복통/소화불량/속쓰림",
+    "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환에 따른 적합한 치료 계획을 세 울 수 있다.",
+    "question": "36세 여성이 출산 후 4개월 동안 지속적인 질 출혈과 하복부 통증을 호소하며 내원하였다. 분만은 정상 질식 분만이었으나, 출산 후 한 달 동안 다량의 출혈이 있었다. 최근 피로감과 호흡곤란이 심해졌으며, 혈압이 90/60 mmHg로 낮아지고 빈맥이 동반되었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: Hb 8.5, β-hCG 150,000 mIU/mL, 흉부 X-ray: 양측 폐 결절, 골반 초음파: 자궁 내 이질적인 종괴, MRI: 간 전이 의심",
+    "options": {
+      "A": "자궁 소파술 시행",
+      "B": "단일 항암제 치료(메토트렉세이트)",
+      "C": "다중 항암화학요법(EMA-CO 요법)",
+      "D": "방사선 치료 단독",
+      "E": "보존적 치료 및 경과 관찰"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 전이성 임신성 영양막 질환(GTN)으로 의심되며, 이는 고위험군(FIGO stage IV 또는 risk score ≥7)에 해당한다. 고위험군 GTN의 경우 EMA-CO 요법이 표준 치료로 권장되며, 간 전이와 폐 전이가 있는 경우 보다 집중적인 치료 전략이 필요할 수 있다.",
+    "source": "Intl J Gynecology Obste - 2021 - Ngan - Diagnosis and management of gestational trophoblastic disease, Page 91: 'For high-risk GTN (FIGO score ≥7, stage IV), EMA-CO is the standard first-line treatment. Patients with liver metastases or extensive disease may require alternative regimens such as EP/EMA or dose modifications.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 원인을 감별진단할 수 있다.",
+    "question": "62세 여성이 외음부 통증과 하지의 부종을 주소로 내원하였다. 환자는 최근 6개월 동안 점진적인 통증 악화를 경험하였으며, 보행 시 불편감을 호소하였다. 외음부 부위에 지속적인 가려움과 화끈거림이 있었으며, 최근 체중이 감소하였다. 신체검진에서 우측 대음순에 궤양성 병변이 확인되었고, 서혜부 림프절이 촉지되었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "신체 검사: 우측 대음순 궤양성 병변(4cm), 서혜부 림프절 종대, 혈액 검사: Hb 11.5, WBC 7.2×10^3, CRP 8.2, 영상 검사: MRI에서 서혜부 림프절 전이 의심",
+    "options": {
+      "A": "근치적 외음부 절제술 및 서혜부 림프절 절제술",
+      "B": "광범위 국소 절제술 단독",
+      "C": "항암화학요법 단독",
+      "D": "선행 항암화학요법 후 수술",
+      "E": "방사선 치료 단독"
+    },
+    "answer": "D",
+    "explanation": "국소 진행성 외음부암(stage III-IV)에서 림프절 전이가 의심되는 경우, 선행 항암화학요법(chemoradiation) 후 수술이 표준 치료로 권장된다. 연구에 따르면, 방사선 단독 치료보다 생존율이 높은 것으로 보고되었다.",
+    "source": "Intl J Gynecology Obste - 2018 - Rogers - Cancer of the vulva, Page 9: 'Chemoradiation was associated with significantly higher 5-year OS than primary RT (49.9% vs. 27.4%, P <0.001) and multivariate analysis revealed a reduced hazard of death (hazard ratio [HR], 0.76; 95% CI, 0.63–0.91; P = .003).'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "질분비물",
+    "purpose": "질분비물을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "58세 여성이 1년 전 시행한 자궁적출술 이후 반복적인 골반 통증과 질 분비물 증가를 주소로 내원하였다. 최근 3개월 동안 체중 감소와 피로감을 경험하였으며, 한 달 전부터 간헐적인 발열이 발생하였다. 자궁내막암으로 치료받았으며, 수술 후 보조 항암화학요법을 받았다. 이 환자의 적절한 치료 방침은?",
+    "exam": "혈액 검사: Hb 10.1, WBC 8.4×10^3, CRP 12.5, CA-125 220 U/mL, 영상 검사: 복부 CT에서 골반 림프절 종대",
+    "options": {
+      "A": "추적 관찰",
+      "B": "골반 방사선 치료",
+      "C": "전신 항암화학요법 시행",
+      "D": "방사선 치료 및 항암화학요법 병행",
+      "E": "광범위 골반 절제술"
+    },
+    "answer": "D",
+    "explanation": "재발성 자궁내막암의 치료에서는 방사선 치료와 항암화학요법의 병행 치료가 생존율을 높이는 것으로 보고되었다. 국소 재발이 의심될 경우, 방사선 치료와 항암화학요법을 병행하는 것이 표준 치료이다.",
+    "source": "Intl J Gynecology Obste - 2023 - Berek - FIGO staging of endometrial cancer, Page 57: 'For recurrent endometrial cancer with local relapse, concurrent chemoradiation therapy is recommended as the primary treatment to improve survival outcomes.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "50세 여성이 3개월 전부터 점진적으로 악화되는 복부 팽만과 소화불량을 주소로 내원하였다. 최근 식사량이 감소하였으며, 간헐적인 변비를 경험하였다. 신체검진에서 복부 촉진 시 경미한 압통이 있었으며, 양측 부속기 부위에 종괴가 만져졌다. 이 환자에서 가장 적절한 다음 검사는?",
+    "exam": "신체 검사: 복부 팽만, 양측 부속기 종괴 촉진, 혈액 검사: Hb 12.3, WBC 6.5×10^3, CA-125 320 U/mL, CRP 7.1, 영상 검사: 복부 초음파에서 복수 확인",
+    "options": {
+      "A": "단순 복부 X-ray",
+      "B": "골반 MRI",
+      "C": "소화기 내시경 검사",
+      "D": "PET-CT",
+      "E": "유전자 검사"
+    },
+    "answer": "B",
+    "explanation": "난소암이 의심되는 경우, 골반 MRI는 악성 가능성을 평가하고 병기 설정에 중요한 정보를 제공하는 검사이다. 복부 초음파에서 종괴가 확인된 경우, MRI를 추가적으로 시행하여 병변의 특성을 정밀하게 평가할 수 있다.",
+    "source": "NCCN Guidelines Version 1.2025, Ovarian Cancer, Page MS-10: 'The primary workup for patients with clinical signs or symptoms of ovarian cancer should include an abdominal/pelvic US and/or abdominal/pelvic CT/MRI scan. US is typically used for initial evaluation, and MRI may be useful for determining malignant potential of adnexal masses if US is not reliable or results are indeterminate.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "68세 여성이 최근 발생한 질 출혈과 배뇨 곤란을 주소로 내원하였다. 환자는 몇 개월 전부터 지속적인 질 분비물 증가를 경험하였으며, 최근에는 야간 배뇨 빈도가 증가하였다. 신체 검사에서 질 상부 후벽에 3cm 크기의 결절성 병변이 확인되었으며, 골반 진찰에서 압통이 동반되었다. 이 환자의 진단을 확정하기 위한 가장 적절한 검사는?",
+    "exam": "신체 검사: 질 상부 후벽 3cm 결절성 병변, 골반 진찰: 압통 동반, 혈액 검사: Hb 11.0, WBC 7.8×10^3, CMP 정상, 영상 검사: 골반 초음파에서 종괴 확인",
+    "options": {
+      "A": "Pap 도말 검사",
+      "B": "질 확대경 검사 및 생검",
+      "C": "MRI 촬영",
+      "D": "HPV 및 HIV 검사",
+      "E": "진단적 복강경"
+    },
+    "answer": "B",
+    "explanation": "질암이 의심되는 경우, 조직학적 확진을 위해 질 확대경 검사(colposcopy)와 생검이 필수적이다. 이는 병변의 위치를 평가하고 암종을 진단하는 데 가장 중요한 검사이다.",
+    "source": "NCCN Guidelines Version 5.2025, Vaginal Cancer, Page MS-4: 'Biopsy remains the gold standard for diagnosing vaginal cancer. This can be best accomplished by an examination under anesthesia (EUA) and should include inspection of the vaginal fornices and biopsies of the cervix.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 11,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "44세 여성이 지속적인 질 분비물과 경미한 골반 통증을 주소로 내원하였다. 최근 2개월 동안 질 부위에서 가려움증과 불편감을 호소했으며, 성교 시 통증이 심해졌다고 보고하였다. 신체 검사에서 질 상부 후벽에 2cm 크기의 단단한 종괴가 확인되었으며, 조직 검사 결과 HPV 비연관성 편평세포암으로 진단되었다. 이 환자의 가장 적절한 치료 방침은?",
+    "exam": "신체 검사: 질 상부 후벽 2cm 단단한 종괴, 혈액 검사: Hb 12.2, WBC 7.6×10^3, CMP 정상, 조직 검사: HPV 비연관성 편평세포암",
+    "options": {
+      "A": "국소 절제술 및 경과 관찰",
+      "B": "근치적 방사선 치료",
+      "C": "항암화학요법 단독",
+      "D": "방사선 치료 및 항암화학요법 병행",
+      "E": "면역항암요법 단독"
+    },
+    "answer": "D",
+    "explanation": "HPV 비연관성 편평세포암의 경우, 방사선 치료와 항암화학요법을 병행하는 것이 표준 치료로 권장된다. 이는 질암의 국소 및 원격 전이 가능성을 줄이고 생존율을 높이는 것으로 보고되었다.",
+    "source": "Intl J Gynecology Obste - 2025 - Vaginal Cancer Guidelines, Page MS-4: 'Biopsy remains the gold standard for diagnosing vaginal cancer. HPV-independent squamous cell carcinoma requires concurrent chemoradiation therapy for optimal outcomes.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 12,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "52세 여성이 6개월 전부터 지속된 피로감과 야간 발한을 주소로 내원하였다. 최근 체중이 4kg 감소하였으며, 간헐적인 복부 통증을 호소하였다. 이 환자의 가장 적절한 치료 전략은?",
+    "exam": "신체 검사: 간비대, 혈액 검사: Hb 10.5, WBC 6.9×10^3, LDH 460 U/L, 영상 검사: 간 및 폐 다발성 결절 확인",
+    "options": {
+      "A": "단일 항암화학요법(메토트렉세이트)",
+      "B": "다중 항암화학요법(EMA-CO 요법)",
+      "C": "면역요법 및 표적치료 병행",
+      "D": "경과 관찰 및 보존적 치료",
+      "E": "전뇌 방사선 치료"
+    },
+    "answer": "B",
+    "explanation": "전이성 임신성 영양막 질환(GTN)으로 간 및 폐 전이가 있는 경우, 다중 항암화학요법(EMA-CO 요법)이 표준 치료로 권장된다. 연구에 따르면, EMA-CO 치료를 받은 환자들의 생존율이 90% 이상으로 보고되었다.",
+    "source": "NCCN Guidelines Version 2.2025 - Gestational Trophoblastic Neoplasia, Page MS-18: 'For metastatic GTN (liver and lung involvement), EMA-CO remains the gold standard first-line treatment, achieving survival rates exceeding 90%.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+[
+  {
+    "question_id": 13,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "55세 여성이 최근 복부 팽만과 하복부 불편감을 주소로 내원하였다. 환자는 최근 3개월 동안 체중이 4kg 증가하였으며, 소화불량과 조기 포만감을 경험하였다. 신체 검사에서 복부 팽만이 확인되었다. 이 환자의 난소암 병기는?",
+    "exam": "신체 검사: 복부 팽만, 혈액 검사: CA-125 510 U/mL, 영상 검사: 복부 및 골반 CT에서 양측 난소 종괴(좌측 6.5cm, 우측 5.2cm), 복수 소견, 수술 소견: 대망 및 횡격막 침범",
+    "options": {
+      "A": "Stage IIA",
+      "B": "Stage IIB",
+      "C": "Stage IIIA",
+      "D": "Stage IIIB",
+      "E": "Stage IIIC"
+    },
+    "answer": "E",
+    "explanation": "난소암 FIGO 병기 기준에 따르면, 종양이 복강 내 복막 표면(대망, 횡격막 포함)에 전이된 경우 **Stage IIIC**로 분류된다. 이는 광범위한 복막 전이를 동반한 진행성 난소암을 의미하며, 종양 감축술과 항암화학요법이 필요하다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-32: 'FIGO Stage IIIC ovarian cancer is defined as tumor spread to the peritoneum beyond the pelvis and/or regional lymph node involvement.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "37세 여성이 우측 난소낭종에 대해 복강경 난소낭종 절제술을 받은 후, 병리 결과에서 경계성(borderline) 장액성 종양이 확인되었다. 환자는 향후 임신을 원하며 추가 치료 여부에 대해 상담을 원하고 있다. 이 환자의 적절한 치료 방침은?",
+    "exam": "수술 소견: 우측 난소낭종(6.2cm), 반대측 난소 정상, 복강 내 전이 없음, 병리 결과: 장액성 경계성 종양(borderline serous tumor)",
+    "options": {
+      "A": "추적 관찰",
+      "B": "추가 항암화학요법",
+      "C": "전신 방사선 치료",
+      "D": "반대측 난소 절제술",
+      "E": "고식적 수술(복강 내 림프절 절제 및 광범위 절제술)"
+    },
+    "answer": "A",
+    "explanation": "경계성 난소 종양(borderline ovarian tumor)은 침윤성이 없는 종양으로, 완전 절제가 이루어진 경우 **추가적인 치료 없이 추적 관찰이 권장**된다. 가임력 보존이 중요한 젊은 환자의 경우, 한쪽 난소 절제 후 정기적인 추적 검사가 필요하다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-41: 'For stage I borderline ovarian tumors, observation without adjuvant treatment is recommended following complete surgical resection. Fertility-sparing surgery is an option for young patients desiring future childbearing.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 15,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "42세 여성이 우측 난소낭종에 대해 복강경 난소낭종 절제술을 받았다. 수술 당시 병변이 파열되었으며, 이후 병리 결과에 대한 추가 상담을 위해 내원하였다. 이 환자의 적절한 치료 방침은?",
+    "exam": "수술 소견: 우측 난소낭종(7.4cm), 수술 중 종양 파열, 병리 결과: 점액성 경계성 종양(mucinous borderline tumor), 복막 생검: 점액성 세포 침윤",
+    "options": {
+      "A": "추적 관찰",
+      "B": "추가 항암화학요법 시행",
+      "C": "광범위 골반 방사선 치료",
+      "D": "복강 내 고온항암요법(HIPEC)",
+      "E": "반대측 난소 절제술 및 경과 관찰"
+    },
+    "answer": "B",
+    "explanation": "점액성 경계성 난소 종양이 수술 중 파열되었고, 복막 침윤이 확인된 경우, 추가적인 항암화학요법을 고려해야 한다. 이는 병변의 진행을 막고 생존율을 향상시키기 위한 치료적 접근이다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-41: 'For mucinous borderline ovarian tumors with peritoneal involvement or intraoperative rupture, adjuvant chemotherapy is recommended.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 16,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "58세 여성이 3개월 전부터 발생한 비정상적인 질 출혈로 내원하였다. 환자는 최근 피로감과 체중 감소를 경험하였으며, 주기적인 하복부 불편감을 호소하였다. 이 환자의 적절한 치료 방침은?",
+    "exam": "영상 검사: 골반 초음파에서 좌측 난소 종괴(5cm), 혈액 검사: Inhibin B 210 pg/mL, 병리 결과: 난소 성세포종(granulosa cell tumor)",
+    "options": {
+      "A": "추적 관찰",
+      "B": "보조 항암화학요법 시행",
+      "C": "방사선 치료 단독",
+      "D": "전신 면역요법 시행",
+      "E": "고식적 치료"
+    },
+    "answer": "A",
+    "explanation": "성세포종(granulosa cell tumor)은 일반적으로 저등급 종양으로, 초기 병기(stage I)에서 완전 절제된 경우 **추가적인 치료 없이 추적 관찰**이 권장된다. 혈액 내 Inhibin B 수치는 추적 검사에서 재발 여부를 감시하는데 사용될 수 있다.",
+    "source": "Intl J Gynecology Obste - 2021 - Berek - Cancer of the ovary, Page 502: 'For stage I granulosa cell tumors, complete surgical resection is sufficient, and surveillance with inhibin B monitoring is recommended.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "52세 여성이 최근 3개월 동안 지속된 복부 팽만과 체중 감소를 주소로 내원하였다. 환자는 식사량이 감소하고, 간헐적인 복통을 경험하였다. 이 환자의 적절한 치료 방침은?",
+    "exam": "신체 검사: 복부 팽만, 혈액 검사: CA-125 890 U/mL, 영상 검사: 복부 및 골반 CT에서 양측 난소 종괴(좌측 6.8cm, 우측 5.9cm), 복수, 복강경 검사: 간 표면 및 횡격막 전이 확인",
+    "options": {
+      "A": "종양 감축술 후 경과 관찰",
+      "B": "1차 항암화학요법 시행",
+      "C": "종양 감축술 후 보조 항암화학요법 시행",
+      "D": "고식적 치료",
+      "E": "면역요법 단독 시행"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 난소암 FIGO Stage IV로 간주되며, 치료의 표준은 종양 감축술(debulking surgery) 후 **보조 항암화학요법(Adjuvant Chemotherapy)** 시행이다. 연구에 따르면, 완전 절제 후 보조 화학요법이 생존율 향상에 중요한 영향을 미친다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-19: 'For patients with stage IV ovarian cancer, primary debulking surgery followed by adjuvant chemotherapy is the standard treatment approach.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "44세 여성이 건강 검진에서 우연히 발견된 난소 종괴로 내원하였다. 환자는 무증상이며, 과거 병력에서 특이사항이 없었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "영상 검사: 좌측 난소 종괴(4.5cm), 혈액 검사: CA-125 210 U/mL, 수술 소견: 종양이 난소에 국한됨, 병리 결과: 고등급 장액성 난소암",
+    "options": {
+      "A": "추적 관찰",
+      "B": "보조 항암화학요법 시행",
+      "C": "방사선 치료 단독",
+      "D": "면역요법 단독 시행",
+      "E": "전신 표적치료"
+    },
+    "answer": "B",
+    "explanation": "고등급 장액성 난소암(high-grade serous ovarian carcinoma)은 난소에 국한된 경우라도 **보조 항암화학요법(Adjuvant Chemotherapy)**이 표준 치료로 권장된다. 이는 미세 전이의 가능성을 줄이고 재발을 방지하는 역할을 한다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-25: 'For patients with stage I high-grade serous carcinoma, adjuvant chemotherapy is recommended to reduce the risk of recurrence and improve survival outcomes.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 19,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "29세 여성이 결혼을 앞두고 건강 검진 중 자궁경부암이 발견되었다. 환자는 임신을 원하며, 가능한 가임력 보존 치료를 원한다. 이 환자의 적절한 치료 방침은?",
+    "exam": "영상 검사: 자궁경부에 2.1cm 크기의 종괴 확인, 림프절 전이 없음, 병리 결과: 자궁경부 편평세포암(Stage IB1), HPV 16 양성",
+    "options": {
+      "A": "근치적 자궁적출술",
+      "B": "근치적 방사선 치료",
+      "C": "광범위 자궁경부 절제술 및 림프절 절제술",
+      "D": "항암화학요법 단독",
+      "E": "단순 자궁경부 원추 절제술"
+    },
+    "answer": "C",
+    "explanation": "초기 자궁경부암(Stage IB1) 중 종양 크기가 2cm 이하이며, 림프절 전이가 없는 경우 **광범위 자궁경부 절제술(Trachelectomy)과 림프절 절제술**이 가임력을 보존하는 치료로 권장된다. 이는 암의 완전 절제와 임신 가능성을 유지하는 균형을 고려한 치료 전략이다.",
+    "source": "Intl J Gynecology Obste - 2021 - Bhatla - Cancer of the cervix uteri, Page 43: 'Vaginal radical trachelectomy is a valuable fertility-preserving option in early-stage cervical cancer patients with tumors ≤2 cm in size and no lymph node involvement.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "33세 여성이 다낭성 난소 증후군 진단을 받고 난임 치료를 진행하던 중 난소 종괴가 발견되었다. 환자는 임신을 원하며, 가능한 가임력 보존 치료를 원한다. 이 환자의 적절한 치료 방침은?",
+    "exam": "영상 검사: 좌측 난소 종괴(6.3cm), 혈액 검사: CA-125 95 U/mL, 병리 결과: 고등급 장액성 난소암(Stage IA), 반대측 난소 정상",
+    "options": {
+      "A": "양측 난소절제술 및 자궁적출술",
+      "B": "단측 난소절제술 및 자궁 보존",
+      "C": "단순 낭종 절제술",
+      "D": "방사선 치료",
+      "E": "항암화학요법 단독 시행"
+    },
+    "answer": "B",
+    "explanation": "초기(Stage IA) 고등급 장액성 난소암의 경우, 가임력을 보존하고자 하는 환자에서 **단측 난소절제술 및 자궁 보존**이 가능하다. 이는 난소암의 치료 효과를 유지하면서 가임력을 최대한 보존할 수 있는 치료 전략이다.",
+    "source": "NCCN Guidelines Version 1.2025 - Ovarian Cancer, Page MS-20: 'Fertility preservation may be considered for Stage I epithelial ovarian cancer by performing unilateral salpingo-oophorectomy while preserving the uterus and contralateral ovary.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 21,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "34세 여성이 6개월간의 무월경 후 불규칙한 질 출혈을 주소로 내원하였다. 환자는 결혼을 앞두고 있으며, 임신을 원하고 있다. 초음파 검사에서 자궁 내 비정형적 증식이 관찰되었으며, 이후 시행한 자궁내막 조직검사에서 자궁내막암이 확인되었다. 이 환자의 적절한 치료 방침은?",
+    "exam": "영상 검사: 자궁 초음파에서 자궁 내 비정형적 증식 소견, 혈액 검사: CA-125 40 U/mL, 조직검사: 저등급 자궁내막암(stage IA, noninvasive)",
+    "options": {
+      "A": "근치적 자궁적출술 및 양측 난소·난관 절제술",
+      "B": "방사선 치료",
+      "C": "고용량 프로게스틴 요법 및 정기적인 내막 생검",
+      "D": "항암화학요법",
+      "E": "고식적 치료"
+    },
+    "answer": "C",
+    "explanation": "임신을 원하는 저등급 자궁내막암(stage IA, noninvasive) 환자에게는 **고용량 프로게스틴 요법(메게스트롤 아세테이트 또는 레보노르게스트렐 IUD)과 정기적인 내막 생검**이 권장된다. 이는 가임력을 유지하면서 질환의 진행을 막는 방법이다. 단, 치료 반응을 면밀히 관찰하고, 재발 위험이 높은 경우 최종적으로 자궁적출술을 고려해야 한다.",
+    "source": "NCCN Guidelines Version 3.2025 - Uterine Neoplasms, Page MS-13: 'Continuous progestin-based therapy may be considered for highly selected patients with grade 1, stage IA (noninvasive) disease who wish to preserve fertility.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 22,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "28세 여성이 건강검진에서 시행한 자궁경부세포진검사에서 ASC-US 소견이 확인되었다. 환자는 특별한 증상을 호소하지 않으며, HPV 검사는 시행되지 않았다. 이 환자의 적절한 다음 처치는?",
+    "exam": "자궁경부세포진검사 결과: ASC-US, HPV 검사 시행되지 않음",
+    "options": {
+      "A": "즉시 자궁경부 확대경 검사 시행",
+      "B": "6개월 후 자궁경부세포진검사 반복 시행",
+      "C": "HPV 검사 시행 후 결과에 따라 관리 결정",
+      "D": "바로 원추 절제술(conization) 시행",
+      "E": "즉시 항바이러스 치료 시작"
+    },
+    "answer": "C",
+    "explanation": "ASC-US가 확인된 경우, HPV 검사를 시행하여 관리 방향을 결정하는 것이 권장된다. HPV 검사에서 고위험군 유형이 검출되지 않으면 3년 후 검사를 반복하고, 고위험군 HPV가 검출되면 자궁경부 확대경 검사를 시행한다.",
+    "source": "2019 ASCCP Risk-Based Management Consensus Guidelines, Page 10: 'For ASC-US, HPV testing is preferred for triage. If HPV-negative, repeat testing in 3 years is recommended; if HPV-positive, colposcopy is indicated.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 23,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 여성이 정기 건강검진에서 자궁경부세포진검사에서 저등급편평상피내병변 소견이 확인되었다. 환자는 최근 3년 동안 정기적으로 검진을 받아왔으며, HPV 16/18 검사는 음성이었다. 이 환자의 적절한 다음 처치는?",
+    "exam": "자궁경부세포진검사 결과: LSIL, HPV 16/18 음성",
+    "options": {
+      "A": "즉시 원추 절제술(conization) 시행",
+      "B": "자궁경부 확대경 검사 시행",
+      "C": "1년 후 자궁경부세포진검사 반복 시행",
+      "D": "즉시 자궁경부 절제술 시행",
+      "E": "항생제 치료 시작"
+    },
+    "answer": "C",
+    "explanation": "HPV 16/18 검사가 음성인 LSIL의 경우, 1년 후 자궁경부세포진검사를 반복하는 것이 권장된다. 만약 이후 검사에서 이상 소견이 지속되거나 진행하면 추가 평가(확대경 검사 또는 생검)를 고려할 수 있다.",
+    "source": "2019 ASCCP Risk-Based Management Consensus Guidelines, Page 15: 'For LSIL with negative HPV 16/18, repeat cytology in 1 year is the preferred management approach.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 24,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "27세 여성이 건강검진에서 시행한 자궁경부세포진검사에서 저등급 편평상피내병변이 확인되었다. 환자는 이전 검진에서 정상이었으며, HPV 검사에서 고위험군 유형이 검출되지 않았다. 이 환자의 적절한 다음 처치는?",
+    "exam": "자궁경부세포진검사 결과: 저등급 편평상피내병변(LSIL), HPV 고위험군 음성",
+    "options": {
+      "A": "즉시 원추 절제술(conization) 시행",
+      "B": "자궁경부 확대경 검사 시행",
+      "C": "1년 후 자궁경부세포진검사 반복 시행",
+      "D": "즉시 자궁경부 절제술 시행",
+      "E": "항생제 치료 시작"
+    },
+    "answer": "C",
+    "explanation": "HPV 고위험군이 검출되지 않은 저등급 편평상피내병변(LSIL)의 경우, 1년 후 자궁경부세포진검사를 반복하는 것이 권장된다. 만약 이후 검사에서 이상 소견이 지속되거나 진행하면 추가 평가(확대경 검사 또는 생검)를 고려할 수 있다.",
+    "source": "2019 ASCCP Risk-Based Management Consensus Guidelines, Page 15: 'For LSIL with negative HPV 16/18, repeat cytology in 1 year is the preferred management approach.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Gynecology"
+  },
+  {
+    "question_id": 25,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "35세 여성이 정기 건강검진에서 자궁경부세포진검사에서 고등급 편평상피내병변 소견이 확인되었다. 환자는 최근 5년간 검진을 받지 않았으며, HPV 16이 양성으로 확인되었다. 이 환자의 적절한 다음 처치는?",
+    "exam": "자궁경부세포진검사 결과: 고등급 편평상피내병변(HSIL), HPV 16 양성",
+    "options": {
+      "A": "즉시 원추 절제술(conization) 시행",
+      "B": "3개월 후 자궁경부세포진검사 반복 시행",
+      "C": "자궁경부 확대경 검사 시행",
+      "D": "경과 관찰 후 6개월 뒤 재검사",
+      "E": "방사선 치료 단독 시행"
+    },
+    "answer": "A",
+    "explanation": "고등급 편평상피내병변(HSIL)이 발견되었으며, 특히 HPV 16 양성인 경우 **즉시 원추 절제술(conization)**을 시행하는 것이 권장된다. 이는 암 전단계 병변을 신속히 제거하고, 침윤성 암으로의 진행을 방지하는 치료적 접근이다.",
+    "source": "2019 ASCCP Risk-Based Management Consensus Guidelines, Page 20: 'For HSIL cytology with HPV 16 positivity, immediate excisional treatment is recommended without requiring prior colposcopic biopsy.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Gynecology"
+  }
+]
