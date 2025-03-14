@@ -108,7 +108,6 @@
     "source": "NCCN Guidelines Version 3.2025, Uterine Neoplasms, Page MS-22: 'For suspected uterine sarcomas, total hysterectomy with surgical staging, peritoneal lavage for cytology, and maximal tumor debulking for gross disease are recommended.'&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Gynecology"
   },
-[
   {
     "question_id": 7,
     "chief complaint": "질출혈",
@@ -183,8 +182,8 @@
   },
   {
     "question_id": 9,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부팽만/복수",
+    "purpose": "복부팽만/복수를 갖고 있는 사람에게서 복강내 질환 및 전신질환에 대한 감별을 할 수 있다.",
     "question": "50세 여성이 3개월 전부터 점진적으로 악화되는 복부 팽만과 소화불량을 주소로 내원하였다. 최근 식사량이 감소하였으며, 간헐적인 변비를 경험하였다. 신체검진에서 복부 촉진 시 경미한 압통이 있었으며, 양측 부속기 부위에 종괴가 만져졌다. 이 환자에서 가장 적절한 다음 검사는?",
     "exam": "신체 검사: 복부 팽만, 양측 부속기 종괴 촉진, 혈액 검사: Hb 12.3, WBC 6.5×10^3, CA-125 320 U/mL, CRP 7.1, 영상 검사: 복부 초음파에서 복수 확인",
     "options": {
@@ -201,8 +200,8 @@
   },
   {
     "question_id": 10,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "배뇨곤란/배뇨통",
+    "purpose": "배뇨곤란/배뇨통을 호소하는 사람에게서 원인을 감별진단할 수 있다.",
     "question": "68세 여성이 최근 발생한 질 출혈과 배뇨 곤란을 주소로 내원하였다. 환자는 몇 개월 전부터 지속적인 질 분비물 증가를 경험하였으며, 최근에는 야간 배뇨 빈도가 증가하였다. 신체 검사에서 질 상부 후벽에 3cm 크기의 결절성 병변이 확인되었으며, 골반 진찰에서 압통이 동반되었다. 이 환자의 진단을 확정하기 위한 가장 적절한 검사는?",
     "exam": "신체 검사: 질 상부 후벽 3cm 결절성 병변, 골반 진찰: 압통 동반, 혈액 검사: Hb 11.0, WBC 7.8×10^3, CMP 정상, 영상 검사: 골반 초음파에서 종괴 확인",
     "options": {
@@ -220,8 +219,8 @@
 [
   {
     "question_id": 11,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "질분비물",
+    "purpose": "질분비물을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
     "question": "44세 여성이 지속적인 질 분비물과 경미한 골반 통증을 주소로 내원하였다. 최근 2개월 동안 질 부위에서 가려움증과 불편감을 호소했으며, 성교 시 통증이 심해졌다고 보고하였다. 신체 검사에서 질 상부 후벽에 2cm 크기의 단단한 종괴가 확인되었으며, 조직 검사 결과 HPV 비연관성 편평세포암으로 진단되었다. 이 환자의 가장 적절한 치료 방침은?",
     "exam": "신체 검사: 질 상부 후벽 2cm 단단한 종괴, 혈액 검사: Hb 12.2, WBC 7.6×10^3, CMP 정상, 조직 검사: HPV 비연관성 편평세포암",
     "options": {
@@ -238,8 +237,8 @@
   },
   {
     "question_id": 12,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "피로",
+    "purpose": "피로를 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다",
     "question": "52세 여성이 6개월 전부터 지속된 피로감과 야간 발한을 주소로 내원하였다. 최근 체중이 4kg 감소하였으며, 간헐적인 복부 통증을 호소하였다. 이 환자의 가장 적절한 치료 전략은?",
     "exam": "신체 검사: 간비대, 혈액 검사: Hb 10.5, WBC 6.9×10^3, LDH 460 U/L, 영상 검사: 간 및 폐 다발성 결절 확인",
     "options": {
@@ -254,12 +253,11 @@
     "source": "NCCN Guidelines Version 2.2025 - Gestational Trophoblastic Neoplasia, Page MS-18: 'For metastatic GTN (liver and lung involvement), EMA-CO remains the gold standard first-line treatment, achieving survival rates exceeding 90%.'&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Gynecology"
   },
-[
   {
     "question_id": 13,
-    "chief complaint": "",
-    "purpose": "",
-    "question": "55세 여성이 최근 복부 팽만과 하복부 불편감을 주소로 내원하였다. 환자는 최근 3개월 동안 체중이 4kg 증가하였으며, 소화불량과 조기 포만감을 경험하였다. 신체 검사에서 복부 팽만이 확인되었다. 이 환자의 난소암 병기는?",
+    "chief complaint": "복부팽만/복수",
+    "purpose": "복부팽만/복수를 갖고 있는 사람에게서 복강내 질환 및 전신질환에 대한 감별을 할 수 있다",
+    "question": "55세 여성이 최근 복부 팽만과 하복부 불편감을 주소로 내원하였다. 환자는 최근 3개월 동안 체중이 4kg 증가하였으며, 소화불량과 조기 포만감을 경험하였다. 신체 검사에서 복부 팽만이 확인되었다. 이 환자의 병기는?",
     "exam": "신체 검사: 복부 팽만, 혈액 검사: CA-125 510 U/mL, 영상 검사: 복부 및 골반 CT에서 양측 난소 종괴(좌측 6.5cm, 우측 5.2cm), 복수 소견, 수술 소견: 대망 및 횡격막 침범",
     "options": {
       "A": "Stage IIA",
@@ -275,9 +273,9 @@
   },
   {
     "question_id": 14,
-    "chief complaint": "",
-    "purpose": "",
-    "question": "37세 여성이 우측 난소낭종에 대해 복강경 난소낭종 절제술을 받은 후, 병리 결과에서 경계성(borderline) 장액성 종양이 확인되었다. 환자는 향후 임신을 원하며 추가 치료 여부에 대해 상담을 원하고 있다. 이 환자의 적절한 치료 방침은?",
+    "chief complaint": "복부덩이/골반덩이",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
+    "question": "37세 여성이 우측 난소낭종에 대해 복강경 난소낭종 절제술을 받은 후, 병리 결과에서 경계성 장액성 종양이 확인되었다. 환자는 향후 임신을 원하며 추가 치료 여부에 대해 상담을 원하고 있다. 이 환자의 적절한 치료 방침은?",
     "exam": "수술 소견: 우측 난소낭종(6.2cm), 반대측 난소 정상, 복강 내 전이 없음, 병리 결과: 장액성 경계성 종양(borderline serous tumor)",
     "options": {
       "A": "추적 관찰",
@@ -293,8 +291,8 @@
   },
   {
     "question_id": 15,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부덩이/골반덩이",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
     "question": "42세 여성이 우측 난소낭종에 대해 복강경 난소낭종 절제술을 받았다. 수술 당시 병변이 파열되었으며, 이후 병리 결과에 대한 추가 상담을 위해 내원하였다. 이 환자의 적절한 치료 방침은?",
     "exam": "수술 소견: 우측 난소낭종(7.4cm), 수술 중 종양 파열, 병리 결과: 점액성 경계성 종양(mucinous borderline tumor), 복막 생검: 점액성 세포 침윤",
     "options": {
@@ -311,10 +309,10 @@
   },
   {
     "question_id": 16,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
     "question": "58세 여성이 3개월 전부터 발생한 비정상적인 질 출혈로 내원하였다. 환자는 최근 피로감과 체중 감소를 경험하였으며, 주기적인 하복부 불편감을 호소하였다. 이 환자의 적절한 치료 방침은?",
-    "exam": "영상 검사: 골반 초음파에서 좌측 난소 종괴(5cm), 혈액 검사: Inhibin B 210 pg/mL, 병리 결과: 난소 성세포종(granulosa cell tumor)",
+    "exam": "영상 검사: 골반 초음파에서 좌측 난소 종괴(5cm), 혈액 검사: Inhibin B 210 pg/mL, 병리 결과: 성삭-기질 종양",
     "options": {
       "A": "추적 관찰",
       "B": "보조 항암화학요법 시행",
@@ -323,14 +321,14 @@
       "E": "고식적 치료"
     },
     "answer": "A",
-    "explanation": "성세포종(granulosa cell tumor)은 일반적으로 저등급 종양으로, 초기 병기(stage I)에서 완전 절제된 경우 **추가적인 치료 없이 추적 관찰**이 권장된다. 혈액 내 Inhibin B 수치는 추적 검사에서 재발 여부를 감시하는데 사용될 수 있다.",
-    "source": "Intl J Gynecology Obste - 2021 - Berek - Cancer of the ovary, Page 502: 'For stage I granulosa cell tumors, complete surgical resection is sufficient, and surveillance with inhibin B monitoring is recommended.'&#8203;:contentReference[oaicite:1]{index=1}",
+    "explanation": "성삭-기질 종양(sex cord-stromal tumor)은 일반적으로 저등급 종양으로, 초기 병기(stage I)에서 완전 절제된 경우 **추가적인 치료 없이 추적 관찰**이 권장된다. 혈액 내 Inhibin B 수치는 추적 검사에서 재발 여부를 감시하는 데 사용될 수 있다.",
+    "source": "Intl J Gynecology Obste - 2021 - Berek - Cancer of the ovary, Page 502: 'For stage I granulosa cell tumors, complete surgical resection is sufficient, and surveillance with inhibin B monitoring is recommended.'&#8203;:contentReference[oaicite:0]{index=0}",
     "category": "Gynecology"
   },
   {
     "question_id": 17,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부팽만/복수",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
     "question": "52세 여성이 최근 3개월 동안 지속된 복부 팽만과 체중 감소를 주소로 내원하였다. 환자는 식사량이 감소하고, 간헐적인 복통을 경험하였다. 이 환자의 적절한 치료 방침은?",
     "exam": "신체 검사: 복부 팽만, 혈액 검사: CA-125 890 U/mL, 영상 검사: 복부 및 골반 CT에서 양측 난소 종괴(좌측 6.8cm, 우측 5.9cm), 복수, 복강경 검사: 간 표면 및 횡격막 전이 확인",
     "options": {
@@ -347,8 +345,8 @@
   },
   {
     "question_id": 18,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부덩이/골반덩이",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
     "question": "44세 여성이 건강 검진에서 우연히 발견된 난소 종괴로 내원하였다. 환자는 무증상이며, 과거 병력에서 특이사항이 없었다. 이 환자의 적절한 치료 방침은?",
     "exam": "영상 검사: 좌측 난소 종괴(4.5cm), 혈액 검사: CA-125 210 U/mL, 수술 소견: 종양이 난소에 국한됨, 병리 결과: 고등급 장액성 난소암",
     "options": {
@@ -365,8 +363,8 @@
   },
   {
     "question_id": 19,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부덩이/골반덩이",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
     "question": "29세 여성이 결혼을 앞두고 건강 검진 중 자궁경부암이 발견되었다. 환자는 임신을 원하며, 가능한 가임력 보존 치료를 원한다. 이 환자의 적절한 치료 방침은?",
     "exam": "영상 검사: 자궁경부에 2.1cm 크기의 종괴 확인, 림프절 전이 없음, 병리 결과: 자궁경부 편평세포암(Stage IB1), HPV 16 양성",
     "options": {
@@ -383,8 +381,8 @@
   },
   {
     "question_id": 20,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "복부덩이/골반덩이",
+    "purpose": "복부덩이/골반덩이가 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
     "question": "33세 여성이 다낭성 난소 증후군 진단을 받고 난임 치료를 진행하던 중 난소 종괴가 발견되었다. 환자는 임신을 원하며, 가능한 가임력 보존 치료를 원한다. 이 환자의 적절한 치료 방침은?",
     "exam": "영상 검사: 좌측 난소 종괴(6.3cm), 혈액 검사: CA-125 95 U/mL, 병리 결과: 고등급 장액성 난소암(Stage IA), 반대측 난소 정상",
     "options": {
@@ -401,8 +399,8 @@
   },
   {
     "question_id": 21,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
     "question": "34세 여성이 6개월간의 무월경 후 불규칙한 질 출혈을 주소로 내원하였다. 환자는 결혼을 앞두고 있으며, 임신을 원하고 있다. 초음파 검사에서 자궁 내 비정형적 증식이 관찰되었으며, 이후 시행한 자궁내막 조직검사에서 자궁내막암이 확인되었다. 이 환자의 적절한 치료 방침은?",
     "exam": "영상 검사: 자궁 초음파에서 자궁 내 비정형적 증식 소견, 혈액 검사: CA-125 40 U/mL, 조직검사: 저등급 자궁내막암(stage IA, noninvasive)",
     "options": {
