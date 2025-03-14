@@ -2414,6 +2414,50 @@
   },
   "category": "Neurology / Neurosurgery"
 }, 
+{
+  "question_id": 117,
+  "chief_complaint": "기억력 저하",
+  "purpose": "기억력 저하를 의심하는 사람에게 원인에 따라 적합한 치료 계획을 수립할 수 있다.",
+  "question": "69세 여성이 1년 전부터 진행된 기억력 저하와 공간 지남력 감소로 내원하였다. 환자는 최근에 한 대화를 기억하지 못하고, 자주 가던 길을 잊어버리며, 복잡한 요리를 더 이상 할 수 없게 되었다. 과거력상 고혈압과 이상지질혈증으로 약물 복용 중이며, 10년 전 갑상선기능저하증 진단 후 레보티록신을 복용 중이다. 신경학적 검사에서 기억력 저하와 시공간 능력의 저하가 관찰되었다. 간이정신상태검사(MMSE)는 22점이었다. 이 환자에게 가장 적합한 약물 치료 계획은?",
+  "exam": "CDR(Clinical Dementia Rating)은 1점(경도 치매)이었으며, GDS(Global Deterioration Scale)는 4점이었다. 아밀로이드 PET 스캔에서 뇌 피질 전반에 걸친 아밀로이드 침착이 확인됨. 뇌 MRI에서 내측두엽의 위축과 경도의 소혈관질환 소견이 관찰되었다. 혈액검사: WBC 7,500/μL, Hb 13.8g/dL, Hct 41%, MCV 98fL(80-100fL), 혈소판 120,000/μL(150,000-450,000/μL), 비타민 B1 70nmol/L(70-180nmol/L), 비타민 B12 450pg/mL(200-900pg/mL), 엽산 4.5ng/mL(>3ng/mL), TSH 2.3mIU/L(0.4-4.0mIU/L), T4 1.1ng/dL(0.8-1.8ng/dL). ",
+  "options": {
+    "A": "도네페질 5mg 하루 1회 경구 투여",
+    "B": "메만틴 10mg 하루 2회 경구 투여",
+    "C": "도네페질 5mg 하루 1회와 메만틴 10mg 하루 2회 병용 투여",
+    "D": "리바스티그민 패치 4.6mg/24시간 1일 1회 부착",
+    "E": "갈란타민 8mg 하루 2회 경구 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 CDR 1점(경도 치매), GDS 4점, MMSE 22점으로 경도-중등도의 알츠하이머병으로 진단되었습니다. 알츠하이머병의 약물 치료에는 콜린에스테라제 억제제(cholinesterase inhibitors, ChEIs)와 NMDA 수용체 길항제가 사용됩니다. 경도-중등도 알츠하이머병에서는 콜린에스테라제 억제제가 일차 선택 약물입니다. 콜린에스테라제 억제제는 아세틸콜린의 분해를 억제하여 시냅스에서의 아세틸콜린 농도를 증가시키는 약물로, 도네페질, 리바스티그민, 갈란타민이 이에 해당합니다. 이 중 도네페질은 가장 널리 사용되는 약물로, 반감기가 길어 하루 1회 투여가 가능하며, 부작용 프로필이 상대적으로 양호합니다. 도네페질은 일반적으로 5mg으로 시작하여 4-6주 후 내약성이 좋으면 10mg으로 증량합니다. 메만틴은 NMDA 수용체 길항제로, 글루타메이트에 의한 흥분독성을 감소시키는 약물입니다. 메만틴은 주로 중등도-중증 알츠하이머병에서 효과가 입증되었으며, 경도 알츠하이머병에서는 효과가 제한적입니다. 따라서 이 환자의 경우 경도-중등도 알츠하이머병으로 콜린에스테라제 억제제인 도네페질 5mg 하루 1회 투여가 가장 적합합니다. 도네페질과 메만틴의 병용 요법은 중등도-중증 알츠하이머병에서 단독 요법보다 더 효과적일 수 있으나, 경도 알츠하이머병에서는 병용 요법의 추가적인 이점이 명확하지 않습니다. 리바스티그민과 갈란타민도 콜린에스테라제 억제제로 효과가 있으나, 도네페질에 비해 복용 방법이 복잡하거나(리바스티그민 패치는 1일 1회 부착) 부작용이 더 흔할 수 있습니다(갈란타민은 하루 2회 복용).",
+  "source": {
+    "file_name": "The New England Journal of Medicine",
+    "content": "Cholinesterase inhibitors (ChEIs) are the first-line pharmacologic treatment for mild to moderate Alzheimer's disease. These medications inhibit the enzyme acetylcholinesterase, which breaks down acetylcholine in the synaptic cleft, thereby increasing the concentration of this neurotransmitter. Three ChEIs are currently approved for Alzheimer's disease: donepezil, rivastigmine, and galantamine. Donepezil is often preferred as the initial agent due to its once-daily dosing, favorable side-effect profile, and lack of titration requirement in most cases. Typically, treatment is initiated at 5 mg daily for 4-6 weeks, followed by an increase to 10 mg daily if well tolerated. Common adverse effects include nausea, vomiting, diarrhea, and sleep disturbances; these are often dose-dependent and transient. Memantine, an N-methyl-D-aspartate (NMDA) receptor antagonist, is primarily indicated for moderate to severe Alzheimer's disease, with limited evidence supporting its use in mild disease. Combination therapy with a ChEI and memantine may provide additional benefits in moderate to severe disease but has not consistently shown superiority to ChEI monotherapy in mild disease. All currently available medications for Alzheimer's disease provide symptomatic benefit by temporarily improving or stabilizing cognitive, functional, or behavioral symptoms, but they do not alter the underlying disease pathology or progression."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 118,
+  "chief_complaint": "기억력 저하",
+  "purpose": "기억력 저하를 의심하는 사람에게 원인에 따라 적합한 치료 계획을 수립할 수 있다.",
+  "question": "65세 여성이 3개월 전부터 시작된 기억력 저하와 집중력 감소를 주소로 내원하였다. 환자는 평소 건강했으나 1년 전부터 피로감, 추위를 많이 타고, 체중이 5kg 증가했다고 한다. 최근에는 사고가 느려지고, 말이 느려졌으며, 피부가 건조해지고 얼굴이 붓는 느낌이 있다고 호소하였다. 신체 검사에서 혈압 130/85 mmHg, 맥박 58회/분, 피부는 건조하고 다소 거칠었으며, 심부 건반사의 이완기가 지연되어 있었다. 인지기능 검사에서 주의집중력, 정보처리 속도, 기억력이 저하되어 있었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "일반 혈액 검사: 혈색소 11.0 g/dL, 혈청 TSH 35 μIU/mL(정상 0.4-4.0 μIU/mL), 유리 T4 0.6 ng/dL(정상 0.8-1.8 ng/dL). 총콜레스테롤 250 mg/dL, LDL 콜레스테롤 165 mg/dL. 뇌 MRI: 경미한 뇌위축과 소수의 백질 고신호 병변이 관찰되었다.",
+  "options": {
+    "A": "도네페질(Donepezil) 5 mg 1일 1회 경구 투여",
+    "B": "레보도파/카비도파(Levodopa/Carbidopa) 100/25 mg 1일 3회 경구 투여",
+    "C": "리바스티그민 패치(Rivastigmine patch) 4.6 mg/24h 1일 1회 부착",
+    "D": "레보티록신(Levothyroxine) 50 μg 1일 1회 경구 투여, 4주 후 TSH 재평가",
+    "E": "퍼펜티딘(Perphenazine) 4 mg과 아미트립틸린(Amitriptyline) 25 mg 1일 1회 경구 투여"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 갑상선 기능저하증(hypothyroidism)으로 인한 인지기능 저하를 보이고 있습니다. 갑상선 기능저하증은 기억력 저하, 인지 기능 저하, 우울증 등의 신경정신과적 증상을 유발할 수 있으며, 이를 '점액수종성 뇌병증(myxedema encephalopathy)'이라고도 합니다. 환자의 임상 증상(피로, 추위 민감성, 체중 증가, 사고 및 언어 속도 저하, 피부 건조, 안면 부종)과 검사 소견(서맥, 심부 건반사 이완기 지연, TSH 증가, 유리 T4 감소, 빈혈, 고콜레스테롤혈증)은 모두 갑상선 기능저하증에 합당합니다. 갑상선 기능저하증에 의한 인지기능 저하는 갑상선 호르몬 보충 치료로 가역적입니다. 이 환자에게 가장 적절한 치료는 레보티록신(합성 T4)을 투여하는 것입니다. 65세 이상 고령자나 심혈관 질환이 있는 환자에게는 낮은 용량(25-50 μg/일)으로 시작하여 4-6주 간격으로 TSH를 모니터링하면서 점진적으로 용량을 조절합니다. 적절한 치료로 대부분의 인지기능 장애가 개선되며, 다른 증상도 호전됩니다. 도네페질과 리바스티그민은 아세틸콜린에스테라제 억제제로, 알츠하이머병의 치료에 사용됩니다. 이 환자의 인지기능 저하는 갑상선 기능저하증이 원인이므로, 일차적으로 갑상선 호르몬 보충 치료가 필요합니다. 레보도파/카비도파는 파킨슨병 치료제로, 이 환자에게는 적응증이 아닙니다. 퍼펜티딘과 아미트립틸린 복합제는 우울증과 정신병적 증상이 동반된 경우에 사용될 수 있으나, 이 환자의 기본적인 문제가 갑상선 기능저하증이므로 일차 치료로 적절하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Hypothyroidism can cause a wide variety of neuropsychiatric manifestations, including memory impairment, cognitive dysfunction, and depression (myxedema encephalopathy). The typical clinical features of hypothyroidism include fatigue, cold intolerance, weight gain, bradycardia, dry skin, delayed relaxation phase of deep tendon reflexes, anemia, and hypercholesterolemia. Laboratory diagnosis is established by the finding of an elevated serum TSH level and a low free T4 concentration. Treatment involves thyroid hormone replacement with levothyroxine. In elderly patients or those with cardiac disease, treatment should begin with a low dose (25-50 μg/d) and be increased gradually while monitoring TSH levels every 4-6 weeks. Most of the neuropsychiatric manifestations of hypothyroidism are reversible with appropriate treatment, although the recovery may be incomplete or delayed in long-standing cases."
+  },
+  "category": "Endocrinology"
+}, 
+
+
 
 
 
