@@ -2498,6 +2498,226 @@
   },
   "category": "Neurology / Neurosurgery"
 }, 
+{
+  "question_id": 121,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 기침의 지속 기간과 임상양상을 고려하여 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 3주 동안 지속되는 마른기침을 주소로 내원하였다. 환자는 비흡연자이며 2개월 전 고혈압 진단을 받아 약물 치료를 시작했다. 기침은 주로 밤에 심해지며 천명음이나 호흡곤란은 없다. 최근 감기 증상은 없었고, 가슴쓰림이나 위산 역류 증상도 없다고 한다. 신체검진에서 특이 소견은 없었다. 활력징후는 혈압 138/88 mmHg, 맥박 76회/분, 호흡수 16회/분, 체온 36.5°C이다. 이 환자의 기침 원인으로 가장 가능성이 높은 것은?",
+  "exam": "흉부 X선 검사: 특이소견 없음. 혈액검사에서 백혈구 6,500/μL, 호산구 3%(정상 범위 0-5%). 폐기능 검사 FVC 4.8L(>80% 예측치), FEV1 3.9L(>80% 예측치), FEV1/FVC 81%(>70%).",
+  "options": {
+    "A": "기관지 천식",
+    "B": "위식도 역류질환",
+    "C": "만성 부비동염",
+    "D": "앤지오텐신전환효소 억제제 사용",
+    "E": "감염 후 기침 증후군"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 3주간 지속된 마른기침이 있으며, 최근 고혈압 약물 치료를 시작했다는 점이 중요한 단서입니다. 앤지오텐신전환효소(ACE) 억제제는 고혈압 치료에 흔히 사용되는 약물로, 사용자의 약 5-35%에서 마른기침을 유발할 수 있습니다. ACE 억제제에 의한 기침은 일반적으로 약물 시작 후 1주에서 수개월 내에 발생하며, 특히 밤에 더 심해지는 특징이 있습니다. 이 기침은 브래디키닌과 substance P의 분해 감소로 인한 것으로 생각됩니다. 기관지 천식은 변동성 있는 호흡곤란, 천명음, 기침 등의 증상이 있으나 본 환자는 천명음이나 호흡곤란이 없고 폐기능 검사도 정상입니다. 위식도 역류질환은 가슴쓰림이나 위산 역류 등의 증상이 동반되는데 환자는 이러한 증상이 없습니다. 만성 부비동염은 보통 코막힘, 후비루, 안면 압박감 등이 동반되지만 환자는 이런 증상을 호소하지 않습니다. 감염 후 기침 증후군은 상기도 감염 후 3-8주간 지속되는 기침으로, 최근 감기 증상이 없었던 이 환자에게는 해당되지 않습니다. 따라서 이 환자의 기침 원인으로 가장 가능성이 높은 것은 고혈압 치료를 위해 시작한 ACE 억제제입니다. 진단을 확인하기 위해서는 약물을 중단하고 기침의 호전 여부를 관찰하는 것이 도움이 됩니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "ACE inhibitors can cause a nonproductive cough in up to 5-35% of patients. The cough typically begins within 1 week to several months after initiating therapy and resolves within 1-4 weeks after discontinuing the medication. The mechanism appears to be related to decreased degradation of bradykinin and substance P. The cough is typically dry and often worse at night. Diagnosis is confirmed by resolution of the cough after discontinuation of the ACE inhibitor."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 122,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 임상양상과 검사결과를 종합하여 원인질환을 진단할 수 있다.",
+  "question": "67세 남성이 2개월 동안 지속되는 기침, 객담, 호흡곤란을 주소로 내원하였다. 환자는 40갑년의 흡연력이 있으며 1년 전부터 흡연량이 증가했다고 한다. 최근 3개월간 체중이 5kg 감소했으며, 간헐적인 객혈이 있었다고 한다. 신체검진에서 우상부 폐야에서 호흡음이 감소되어 있었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 CT 스캔: 우상엽에 4.5cm 크기의 불규칙한 경계를 가진 종괴가 관찰되었으며, 종격동 림프절 비대가 동반되어 있다. 혈액검사에서 백혈구 9,800/μL, 혈색소 13.2 g/dL, 혈소판 385,000/μL이었다. 폐기능 검사: FEV1/FVC 75%, FEV1 80%.",
+  "options": {
+    "A": "폐결핵",
+    "B": "지역사회획득폐렴",
+    "C": "기관지확장증",
+    "D": "폐암",
+    "E": "만성폐쇄성폐질환"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 67세 남성으로 40갑년의 장기 흡연력이 있고, 2개월간 지속되는 기침, 객담, 호흡곤란과 함께 체중 감소, 객혈 등의 증상이 있습니다. 흉부 CT에서 우상엽에 4.5cm 크기의 불규칙한 경계를 가진 종괴와 종격동 림프절 비대가 관찰되었습니다. 이러한 임상양상과 영상 소견은 폐암을 강하게 시사합니다. 폐암의 위험 인자로는 흡연이 가장 중요하며, 특히 40갑년 이상의 장기 흡연자는 고위험군입니다. 폐암의 주요 증상으로는 기침, 객혈, 호흡곤란, 체중 감소, 흉통 등이 있으며, 이 환자는 이러한 증상을 상당수 보이고 있습니다. 폐결핵은 주로 상엽의 경화, 공동형성, 결절 등의 소견을 보이나, 이 환자의 CT에서 관찰되는 종괴 양상과 림프절 비대는 결핵보다 폐암에 더 합당합니다. 지역사회획득폐렴은 일반적으로 급성 발열, 기침, 객담 등의 증상을 보이며, CT에서 폐경화, 간유리음영 등이 관찰되나 종괴 양상은 드뭅니다. 기관지확장증은 만성 기침과 화농성 객담이 특징이며, CT에서 기관지 확장과 기관지벽 비후가 관찰됩니다. 만성폐쇄성폐질환은 장기 흡연자에서 발생하는 만성 기도 폐쇄성 질환으로, 폐기능 검사에서 FEV1/FVC 감소가 특징이나 이 환자의 폐기능 검사는 정상입니다. 따라서 이 환자의 임상 양상, 흡연력, 영상 소견을 종합할 때 폐암이 가장 가능성이 높은 진단입니다. 확진을 위해서는 조직 검사가 필요합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Lung cancer should be suspected in any patient with a new or changing cough, particularly in individuals with significant smoking history. The presence of hemoptysis, weight loss, or a mass on imaging studies further increases the likelihood of malignancy. Common symptoms include cough, hemoptysis, dyspnea, chest pain, and systemic symptoms such as weight loss and fatigue. CT findings suggestive of lung cancer include a spiculated or irregular mass, nodules, mediastinal lymphadenopathy, and pleural effusion. The definitive diagnosis requires tissue confirmation through bronchoscopy, CT-guided biopsy, or surgical procedures."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 133,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 기침의 지속 기간과 임상양상을 고려하여 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 2주 동안 지속되는 마른기침을 주소로 내원하였다. 환자는 1주일 전 상기도 감염 증상이 호전되었으나 기침은 지속되었다고 한다. 기침은 주로 밤에 악화되며, 가끔 천명음을 동반한다고 한다. 과거력상 소아기에 아토피 피부염이 있었으며, 어머니가 알레르기성 비염과 천식을 앓고 있다. 신체검진에서 특이 소견은 없었으며, 흉부 X선 검사도 정상이었다. 혈압 120/70 mmHg, 맥박 72회/분, 호흡수 16회/분, 체온 36.6°C 이다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": " 혈액검사: Hb 13.8g/dL, PLT 120,000/μL, 백혈구 6,200/μL, 호산구 7%(정상 범위 0-5%).",
+  "options": {
+    "A": "흉부 고해상도 CT",
+    "B": "기관지 내시경",
+    "C": "메타콜린 기관지 유발 검사",
+    "D": "24시간 식도 pH 모니터링",
+    "E": "부비동 CT"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 상기도 감염 후 2주간 지속되는 마른기침이 있으며, 밤에 악화되고 가끔 천명음을 동반한다는 특징이 있습니다. 또한 아토피 피부염의 과거력과 천식의 가족력이 있으며, 혈액검사에서 호산구 증가 소견을 보입니다. 이러한 임상 양상은 기침형 천식(cough variant asthma)의 가능성을 시사합니다. 기침형 천식은 기침이 주 증상이며 전형적인 천식의 증상인 호흡곤란이나 천명음이 뚜렷하지 않은 천식의 한 형태입니다. 특히 상기도 감염 후 지속되는 기침, 밤이나 새벽에 악화되는 기침, 운동이나 찬 공기 노출 후 악화되는 기침, 그리고 알레르기 질환의 개인력이나 가족력이 있을 때 의심할 수 있습니다. 메타콜린 기관지 유발 검사는 기도 과민성을 평가하는 검사로, 기침형 천식의 진단에 가장 유용합니다. 이 검사에서 양성 반응(FEV1이 기저치보다 20% 이상 감소)을 보이면 기침형 천식을 진단할 수 있습니다. 흉부 고해상도 CT는 간질성 폐질환, 기관지확장증 등을 진단하는 데 유용하나 이 환자의 임상 양상은 이러한 질환보다 기침형 천식에 더 합당합니다. 기관지 내시경은 기도 내 종양, 이물질, 감염 등을 평가하는 데 유용하지만, 이 환자의 증상과 검사 결과는 이러한 병태를 시사하지 않습니다. 24시간 식도 pH 모니터링은 위식도 역류질환을 진단하는 검사로, 만성 기침의 원인 중 하나지만 이 환자의 임상 양상은 기침형 천식에 더 부합합니다. 부비동 CT는 부비동염과 관련된 후비루 증후군을 평가하는 데 유용하지만, 환자의 증상은 이보다 기침형 천식에 더 합당합니다. 따라서 이 환자에게 가장 적절한 다음 검사는 메타콜린 기관지 유발 검사입니다.",
+  "source": {
+    "file_name": "European Respiratory Journal",
+    "content": "Cough variant asthma is characterized by cough as the predominant or only symptom, with minimal or absent wheezing and dyspnea. Bronchial hyperresponsiveness is a key feature of cough variant asthma, and the methacholine bronchial provocation test is considered the most useful diagnostic test. A positive response, defined as a decrease in FEV1 of 20% or more from baseline, confirms the diagnosis. Risk factors include a history of atopy, family history of asthma, and elevated eosinophil count. The cough typically worsens at night, after exercise, or exposure to cold air. Many patients with cough variant asthma report an onset of symptoms following an upper respiratory tract infection."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 134,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "58세 남성이 6개월 이상 지속되는 만성 기침을 주소로 내원하였다. 환자는 30갑년의 흡연력이 있으며 5년 전 금연하였다. 기침은 주로 아침에 심하며 화농성 객담을 동반한다. 간헐적으로 호흡곤란이 있고, 추운 날씨나 운동 시 증상이 악화된다고 한다. 최근 2년간 연 2-3회의 급성 악화로 항생제 치료를 받은 이력이 있다. 신체검진에서 양폐의 호흡음이 감소되어 있고 산발적인 건성 수포음이 청진되었다. 이 환자에게 가장 적합한 치료는?",
+  "exam": "폐기능 검사: FEV1/FVC 62%, FEV1 55%, 기관지 확장제 흡입 후 FEV1 8% 증가. 흉부 X선: 양측 폐의 과팽창 소견이 관찰되었다. 혈액 가스 분석: pH 7.42, PaO2 68 mmHg, PaCO2 42 mmHg.",
+  "options": {
+    "A": "경구 스테로이드 2주간 투여",
+    "B": "장기 산소 요법",
+    "C": "흡입 지속성 베타2 작용제와 흡입 스테로이드 병합 치료",
+    "D": "류코트리엔 조절제 투여",
+    "E": "니코틴 대체 요법"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 6개월 이상 지속되는 만성 기침과 화농성 객담을 호소하며, 30갑년의 흡연력, 호흡곤란, 추운 날씨나 운동 시 증상 악화, 연 2-3회의 급성 악화 등의 병력이 있습니다. 폐기능 검사에서 FEV1/FVC 62%, FEV1 55% 예측치로 중등도의 기류 제한이 확인되었으며, 기관지 확장제에 대한 반응은 유의하지 않습니다. 흉부 X선에서 폐 과팽창 소견도 관찰됩니다. 이러한 임상 양상과 검사 결과는 만성폐쇄성폐질환(COPD)에 합당합니다. GOLD (Global Initiative for Chronic Obstructive Lung Disease) 기준에 따르면, 이 환자는 중등도 기류 제한(GOLD 2: FEV1 50-80% 예측치)과 증상이 있으며 급성 악화 이력이 있으므로 GOLD B 또는 D 그룹에 해당됩니다. 특히 연 2회 이상의 급성 악화 이력이 있어 GOLD D 그룹일 가능성이 높습니다. GOLD D 환자에게는 흡입 지속성 베타2 작용제(LABA)와 흡입 스테로이드(ICS)의 병합 치료가 권장됩니다. 이 치료는 증상 완화, 폐기능 개선, 급성 악화 감소에 효과적입니다. 특히 혈중 호산구 증가나 천식과의 중복 증후군(ACO: Asthma-COPD Overlap) 특성이 있는 COPD 환자에서 ICS 사용의 이점이 더 큽니다. 경구 스테로이드는 COPD의 급성 악화 시 단기간 사용될 수 있으나, 장기 사용은 부작용 위험이 높아 권장되지 않습니다. 장기 산소 요법은 중증 저산소혈증(PaO2 ≤ 55 mmHg)이 있는 환자에게 권장되나, 이 환자의 PaO2는 68 mmHg로 적응증에 해당하지 않습니다. 류코트리엔 조절제는 주로 천식 치료에 사용되며, COPD 치료에는 일반적으로 권장되지 않습니다. 니코틴 대체 요법은 금연을 위한 치료로, 이 환자는 이미 5년 전 금연하였으므로 적절하지 않습니다. 따라서 이 환자에게 가장 적합한 치료는 흡입 지속성 베타2 작용제와 흡입 스테로이드 병합 치료입니다.",
+  "source": {
+    "file_name": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
+    "content": "For patients with moderate to severe COPD (GOLD stage 2-3) with persistent symptoms and a history of exacerbations (GOLD group D), combined inhaled corticosteroids and long-acting beta2-agonists (ICS/LABA) are recommended as first-line therapy. This combination has been shown to improve lung function, reduce symptoms, and decrease the frequency of exacerbations. The benefit of ICS is greater in patients with features of asthma-COPD overlap or elevated blood eosinophil counts. Long-term monotherapy with oral corticosteroids is not recommended in COPD due to the unfavorable benefit-to-risk ratio. Long-term oxygen therapy is indicated for patients with severe resting hypoxemia (PaO2 ≤ 55 mmHg) or PaO2 between 55 and 60 mmHg with evidence of pulmonary hypertension, peripheral edema, or polycythemia."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 135,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 임상양상과 검사결과를 종합하여 원인질환을 진단할 수 있다.",
+  "question": "52세 남성이 2개월 동안 지속되는 기침과 간헐적인 가슴앓이를 주소로 내원하였다. 기침은 주로 누워있거나 식사 후에 악화되며, 산성 구토감을 자주 느낀다고 한다. 환자는 비흡연자이며, 최근 체중이 증가하여 비만이 있다. 3년 전부터 고혈압으로 약물 치료 중이다. 신체검진에서 특이 소견은 없었으며, 흉부 X선 검사도 정상이었다. 환자의 체질량지수(BMI) 32 kg/m², 혈압 135/85 mmHg, 맥박 74회/분, 호흡수 16회/분이었다. 이 환자의 기침 원인으로 가장 가능성이 높은 것은?",
+  "exam": " 24시간 식도 pH 모니터링에서 산 노출 시간(pH<4)이 전체 시간의 8%였으며, 증상 지수(SI)는 75%였다.",
+  "options": {
+    "A": "기침형 천식",
+    "B": "위식도 역류질환",
+    "C": "후비루 증후군",
+    "D": "만성 기관지염",
+    "E": "심인성 기침"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 2개월 동안 지속되는 기침과 함께 가슴앓이, 누워있거나 식사 후 악화되는 기침, 산성 구토감 등의 증상을 호소하고 있습니다. 또한 비만이 있고 24시간 식도 pH 모니터링에서 비정상적인 산 노출 시간(정상은 4.5% 미만)과 높은 증상 지수를 보이고 있습니다. 이러한 임상양상과 검사결과는 위식도 역류질환(GERD)에 의한 기침을 강하게 시사합니다. 위식도 역류질환은 만성 기침의 중요한 원인 중 하나로, 특히 전형적인 위식도 역류 증상(가슴앓이, 산 역류)이 동반되거나 누운 자세, 식사 후 기침이 악화되는 특징이 있습니다. 비만은 위식도 역류질환의 주요 위험 인자이며, 24시간 식도 pH 모니터링에서 총 산 노출 시간이 증가하고 증상 지수가 높은 것이 진단에 도움이 됩니다. 또한 폐기능 검사와 메타콜린 기관지 유발 검사가 정상인 점은 천식을 배제하는 소견입니다. 기침형 천식은 기침이 주 증상이나, 메타콜린 기관지 유발 검사에서 기도 과민성이 확인되지 않았으므로 가능성이 낮습니다. 후비루 증후군은 만성 기침의 흔한 원인이나, 이 환자는 비염, 부비동염, 인후두 증상 등의 후비루 관련 증상이 언급되지 않았습니다. 만성 기관지염은 주로 흡연자에게 발생하며, 3개월 이상, 2년 연속으로 객담을 동반한 기침이 있을 때 진단되나, 이 환자는 비흡연자이고 객담에 대한 언급이 없습니다. 심인성 기침은 다른 원인이 모두 배제되었을 때 고려되는 진단으로, 이 환자는 위식도 역류질환의 임상 양상과 객관적인 검사 결과가 있으므로 심인성 기침의 가능성은 낮습니다. 따라서 이 환자의 기침 원인으로 가장 가능성이 높은 것은 위식도 역류질환입니다. 치료로는 생활습관 개선(체중 감량, 취침 전 식사 피하기, 머리를 높이고 자기 등)과 함께 양성자 펌프 억제제(PPI)가 권장됩니다.",
+  "source": {
+    "file_name": "American College of Chest Physicians Guidelines",
+    "content": "Gastroesophageal reflux disease (GERD) is one of the three most common causes of chronic cough, along with upper airway cough syndrome and asthma. The diagnosis of GERD-related cough should be considered when cough is associated with typical GERD symptoms (heartburn, regurgitation), worsens after meals or in supine position, and is not accompanied by sputum production. Obesity is a significant risk factor for GERD. Ambulatory 24-hour esophageal pH monitoring is the gold standard for diagnosing GERD, with acid exposure time (pH < 4) greater than 4.5% of total monitoring time considered abnormal. A high symptom index (SI), which measures the correlation between reflux episodes and symptoms, supports the causal relationship between GERD and cough. The absence of airway hyperresponsiveness on methacholine challenge test helps to exclude asthma as a cause of chronic cough."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 136,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 임상양상과 검사결과를 종합하여 원인질환을 진단할 수 있다.",
+  "question": "28세 여성이 5일 전부터 시작된 발열, 기침, 인후통을 주소로 내원하였다. 환자는 3일 전부터 황색 객담이 동반되었으며, 기침이 심해져 밤에 잠을 이루기 어렵다고 한다. 최근 상기도 감염 환자와 접촉한 적이 있다고 한다. 신체검진에서 체온 38.2°C, 인두 발적, 편도 비대 및 화농성 삼출물이 관찰되었다. 경부 림프절이 경미하게 종대되어 있었다. 청진 시 심음과 호흡음은 정상이었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액검사에서 백혈구 12,500/μL (중성구 82%), CRP 3.2 mg/dL, 프로칼시토닌 0.3 ng/mL. 인두 도말 검사에서 A군 베타용혈성 연쇄구균 항원 양성.",
+  "options": {
+    "A": "인플루엔자 바이러스 감염",
+    "B": "마이코플라스마 폐렴",
+    "C": "연쇄구균성 인두편도염",
+    "D": "코로나바이러스 감염증",
+    "E": "급성 기관지염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 발열, 인후통, 기침을 호소하며 인두 발적, 편도 비대 및 화농성 삼출물, 경부 림프절 종대 등의 신체검진 소견을 보입니다. 특히 인두 도말 검사에서 A군 베타용혈성 연쇄구균 항원 양성 소견은 연쇄구균성 인두편도염을 강하게 시사합니다. A군 베타용혈성 연쇄구균(Group A Streptococcus, GAS)은 급성 인두편도염의 주요 세균성 원인으로, 주로 5-15세 소아에서 흔하지만 성인에서도 발생할 수 있습니다. 연쇄구균성 인두편도염의 전형적인 증상으로는 갑작스러운 인후통, 발열, 편도 비대 및 화농성 삼출물, 압통이 있는 전방 경부 림프절 종대, 딸기혀 등이 있습니다. 기침, 콧물, 쉰 목소리 등의 상기도 증상은 덜 흔합니다. 이 환자의 경우 기침이 있지만, 다른 임상 소견과 검사 결과를 종합할 때 연쇄구균성 인두편도염이 가장 가능성이 높습니다. 인플루엔자 바이러스 감염은 갑작스러운 발열, 근육통, 두통, 인후통, 기침 등의 증상을 특징으로 하며, 계절성을 보이는 경향이 있습니다. 이 환자의 화농성 인두편도염 소견과 A군 연쇄구균 항원 양성 결과는 인플루엔자보다 연쇄구균성 인두편도염에 더 부합합니다. 마이코플라스마 폐렴은 지속적인 마른기침, 발열, 두통 등을 특징으로 하며, 완만한 발병 경과를 보입니다. 이 환자의 급성 발병과 화농성 인두편도염 소견은 마이코플라스마 폐렴과는 거리가 있습니다. 코로나바이러스 감염증은 발열, 기침, 호흡곤란, 후각 및 미각 상실 등의 증상을 보일 수 있으나, 이 환자의 임상 양상과 A군 연쇄구균 양성 결과는 코로나바이러스 감염증보다 연쇄구균성 인두편도염에 더 합당합니다. 급성 기관지염은 대개 바이러스에 의해 발생하며, 기침이 주 증상으로 인후통이나 화농성 인두편도염 소견은 덜 흔합니다. 따라서 이 환자의 임상 양상과 검사 결과를 종합할 때 연쇄구균성 인두편도염이 가장 가능성 높은 진단입니다. 치료로는 페니실린이나 아목시실린과 같은 항생제 투여가 권장됩니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Group A streptococcal pharyngitis is characterized by sudden-onset sore throat, fever, tonsillar exudate, tender anterior cervical lymphadenopathy, and the absence of cough. However, none of these features is specific, and a diagnosis based solely on clinical grounds is often inaccurate. The diagnosis should be established by rapid antigen detection tests and/or culture of the throat. A positive test result reliably confirms the diagnosis, with a specificity of 95%. Treatment with penicillin or amoxicillin remains the standard of care, primarily to prevent acute rheumatic fever. Cephalosporins, macrolides, or clindamycin may be used in penicillin-allergic patients."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 137,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "32세 남성이 4일 전부터 시작된 발열, 오한, 기침을 주소로 내원하였다. 환자는 기침이 심해지면서 점차 녹색 객담이 증가하였고, 우측 흉부 통증이 발생했다고 한다. 신체검진에서 체온 38.9°C, 혈압 130/80 mmHg, 맥박 110회/분, 호흡수 22회/분, 산소포화도 94%였다. 청진 시 우하엽에서 거친 호흡음과 수포음이 청진되었다. 이 환자에게 가장 적합한 초기 치료는?",
+  "exam": "말초혈액검사에서 백혈구 15,700/μL (중성구 85%), 흉부 X선에서 우하엽에 폐경화 소견이 관찰되었다. 객담 그람 염색에서 그람 양성 쌍구균이 관찰되었으며, 혈중 프로칼시토닌 1.8 ng/mL로 증가되어 있었다.",
+  "options": {
+    "A": "경구 아목시실린 단독 요법",
+    "B": "경구 아지스로마이신 단독 요법",
+    "C": "정맥 세프트리악손과 경구 아지스로마이신 병합 요법",
+    "D": "경구 레보플록사신 단독 요법",
+    "E": "경구 오셀타미비르 단독 요법"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 발열, 오한, 기침, 화농성 객담, 흉통 등의 전형적인 폐렴 증상을 보이며, 신체검진에서 빈맥, 빈호흡, 우하엽의 수포음이 확인되었습니다. 흉부 X선에서 우하엽 폐경화, 백혈구 및 프로칼시토닌 증가, 객담 그람 염색에서 그람 양성 쌍구균 관찰 등의 소견은 폐렴구균에 의한 지역사회획득폐렴을 강하게 시사합니다. 지역사회획득폐렴의 중증도 평가는 CURB-65나 PSI(Pneumonia Severity Index) 점수 등을 사용하여 이루어집니다. 이 환자는 젊고 기저질환이 없어 보이지만, 빈맥, 빈호흡, 산소포화도 94%의 소견은 경증보다는 중등도 이상의 폐렴을 시사합니다. 미국감염학회/미국흉부학회(IDSA/ATS) 지침에 따르면, 입원이 필요한 중등도 이상의 지역사회획득폐렴 환자에게는 베타락탐계 항생제(예: 세프트리악손, 암피실린-설박탐 등)와 마크로라이드계 항생제(예: 아지스로마이신 등)의 병합 요법이 권장됩니다. 이는 비정형 병원체(마이코플라스마, 클라미디아, 레지오넬라 등)를 포함한 다양한 원인균을 광범위하게 치료하기 위함입니다. 경구 아목시실린 단독 요법은 경증의 지역사회획득폐렴 환자 중 비정형 병원체가 의심되지 않는 경우에 적합하나, 이 환자의 중증도를 고려할 때 충분하지 않습니다. 경구 아지스로마이신 단독 요법은 경증 폐렴에서 비정형 병원체가 의심될 때 고려할 수 있으나, 폐렴구균의 마크로라이드 내성률이 높은 지역에서는 효과가 제한적일 수 있습니다. 경구 레보플록사신 단독 요법은 경증~중등도 폐렴에서 고려할 수 있으나, 중등도 이상의 폐렴에서는 병합 요법에 비해 효과가 떨어질 수 있습니다. 경구 오셀타미비르는 인플루엔자 바이러스 감염 치료제로, 이 환자의 임상 양상 및 검사 결과는 세균성 폐렴에 합당하므로 적절하지 않습니다. 따라서 이 환자에게 가장 적합한 초기 치료는 정맥 세프트리악손과 경구 아지스로마이신 병합 요법입니다. 이후 항생제 감수성 결과와 임상 경과에 따라 항생제를 조정할 수 있습니다.",
+  "source": {
+    "file_name": "American Thoracic Society/Infectious Diseases Society of America Guidelines",
+    "content": "For hospitalized patients with community-acquired pneumonia (CAP) who do not require intensive care unit admission, the guideline recommends empiric treatment with a beta-lactam plus a macrolide or monotherapy with a respiratory fluoroquinolone. Preferred beta-lactams include ceftriaxone, ampicillin-sulbactam, or cefotaxime. The combination therapy is recommended to provide coverage for both typical bacterial pathogens, such as Streptococcus pneumoniae, and atypical pathogens, including Mycoplasma pneumoniae, Chlamydophila pneumoniae, and Legionella species. The addition of a macrolide to a beta-lactam has been associated with improved outcomes in observational studies, particularly in patients with pneumococcal bacteremia. Monotherapy with a macrolide is not recommended for patients requiring hospitalization due to increasing resistance among S. pneumoniae isolates."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 138,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 기침의 지속 기간과 임상양상을 고려하여 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "42세 여성이 3개월 동안 지속되는 기침과 목의 이물감을 주소로 내원하였다. 환자는 기침이 주로 아침에 심하고, 목 뒤로 점액이 넘어가는 느낌이 있으며, 간헐적인 코막힘과 비루가 있다고 한다. 기침은 마른기침과 약간의 점액성 객담을 번갈아 보이며, 가끔 목이 쉬기도 한다. 과거력상 알레르기 비염 진단을 받았으나 꾸준한 치료를 받지 않았다. 신체검진에서 후인두벽에 점액성 분비물이 관찰되었고, 비강 점막이 창백하고 부어 있었다. 이 환자의 기침 원인 평가를 위해 가장 적절한 다음 검사는?",
+  "exam": "흉부 X선 검사는 정상이었다. 폐기능 검사에서 FEV1/FVC 82%, FEV1 95% 예측치로 정상이었다. 메타콜린 유발 검사도 음성이었다.",
+  "options": {
+    "A": "흉부 CT",
+    "B": "기관지 내시경",
+    "C": "부비동 CT",
+    "D": "24시간 식도 pH 모니터링",
+    "E": "피부단자검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3개월 동안 지속되는 만성 기침과 함께 목 뒤로 점액이 넘어가는 느낌(후비루), 아침에 심해지는 기침, 간헐적인 코막힘과 비루, 목이 쉬는 증상 등을 호소하고 있습니다. 신체검진에서 후인두벽에 점액성 분비물과 비강 점막의 창백한 부종 소견이 관찰되었으며, 과거 알레르기 비염 진단력이 있습니다. 이러한 임상 양상은 상기도 기침 증후군(Upper Airway Cough Syndrome, UACS), 특히 알레르기 비염과 부비동염에 의한 후비루 증후군을 강하게 시사합니다. 상기도 기침 증후군은 만성 기침의 가장 흔한 원인 중 하나로, 후비루, 코막힘, 인후 청소(throat clearing) 등이 특징입니다. 알레르기 비염, 비알레르기성 비염, 급성 및 만성 부비동염, 비강 및 부비동 종양 등이 UACS를 유발할 수 있습니다. 이 환자의 알레르기 비염 병력과 신체검진 소견을 고려할 때, 만성 부비동염이 동반되어 있을 가능성이 높습니다. 부비동 CT는 부비동염의 진단에 가장 유용한 영상 검사로, 부비동 내 혼탁, 점막 비후, 공기-액체층, 골파괴 등의 소견을 평가할 수 있습니다. 흉부 CT는 폐실질 질환, 기관지확장증, 간질성 폐질환 등을 평가하는 데 유용하나, 이 환자의 임상 양상과 정상 흉부 X선 및 폐기능 검사 결과를 고려할 때 폐질환 가능성은 낮아 보입니다. 기관지 내시경은 기도 내 종양, 이물질, 기관기관지연화증, 기도 협착 등을 평가하는 데 유용하나, 이 환자의 증상과 검사 결과는 이러한 병태를 시사하지 않습니다. 24시간 식도 pH 모니터링은 위식도 역류질환을 진단하는 검사로, 만성 기침의 원인 중 하나지만 이 환자의 임상 양상은 후비루 증후군에 더 부합합니다. 또한 역류성 식도염을 시사하는 가슴앓이, 산 역류, 식후 악화 등의 증상이 없습니다. 피부단자검사는 알레르기 비염의 원인 알레르겐을 확인하는 데 유용하나, 이 환자의 만성 기침 원인이 의심되는 부비동염을 직접 평가하기에는 부족합니다. 따라서 이 환자의 기침 원인 평가를 위해 가장 적절한 다음 검사는 부비동 CT입니다. 이를 통해 부비동염의 유무, 범위, 중증도를 평가하고 적절한 치료 계획을 수립할 수 있습니다.",
+  "source": {
+    "file_name": "American College of Chest Physicians Guidelines",
+    "content": "Upper airway cough syndrome (UACS), previously referred to as postnasal drip syndrome, is one of the most common causes of chronic cough. It can result from a variety of rhinosinus conditions including allergic rhinitis, perennial nonallergic rhinitis, and chronic rhinosinusitis. Clinical features suggesting UACS include sensation of postnasal drip, throat clearing, nasal discharge, cobblestone appearance of the posterior pharyngeal mucosa, and mucoid secretions in the oropharynx. In patients with suspected chronic rhinosinusitis, sinus CT scanning is the imaging study of choice. It can demonstrate mucosal thickening, air-fluid levels, and obstruction of the osteomeatal complex. Sinus CT is more sensitive than plain radiography for the diagnosis of rhinosinusitis and can help guide treatment decisions, especially when surgical intervention is being considered."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 139,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게서 임상양상과 검사결과를 종합하여 원인질환을 진단할 수 있다.",
+  "question": "25세 여성이 2주 전부터 시작된 발열, 전신 무력감, 기침을 주소로 내원하였다. 기침은 주로 마른기침이며 밤에 더 심해진다고 한다. 환자는 최근 체중이 3kg 감소하였고, 간헐적인 식은땀이 있다고 한다. 1개월 전 결핵 환자와 밀접 접촉한 병력이 있다. 신체검진에서 체온 37.8°C, 우측 폐상부에서 호흡음이 감소되어 있었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "흉부 X선에서 우상엽에 결절성 침윤과 작은 공동이 관찰되었다. 혈액검사에서 백혈구 6,800/μL, 적혈구침강속도 45 mm/hr, C-반응단백 2.8 mg/dL. 투베르쿨린 피부반응검사(PPD)에서 경결 18mm. 객담 항산균 도말검사에서 양성 소견을 보였다.",
+  "options": {
+    "A": "지역사회획득폐렴",
+    "B": "폐결핵",
+    "C": "과민성 폐렴",
+    "D": "폐암",
+    "E": "사르코이드증"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 2주간 지속되는 발열, 전신 무력감, 기침, 체중 감소, 식은땀 등의 증상이 있으며, 결핵 환자와의 접촉력이 있습니다. 흉부 X선에서 우상엽에 결절성 침윤과 공동이 관찰되고, 투베르쿨린 피부반응검사에서 강한 양성(18mm)을 보이며, 객담 항산균 도말검사에서 양성 소견을 보였습니다. 이러한 임상 양상과 검사 결과는 폐결핵을 강하게 시사합니다. 폐결핵은 Mycobacterium tuberculosis에 의한 감염성 질환으로, 기침, 객혈, 발열, 식은땀, 체중 감소 등의 증상을 특징으로 합니다. 전통적으로 폐상엽, 특히 후분절이나 첨분절을 침범하는 경향이 있으며, 공동 형성이 특징적입니다. 결핵 환자와의 접촉력은 중요한 역학적 단서이며, PPD 검사 양성과 객담 항산균 도말 양성은 결핵 진단을 뒷받침합니다. 지역사회획득폐렴은 일반적으로 급성 발열, 기침, 객담, 호흡곤란 등의 증상을 보이며, 항생제 치료에 반응하는 경과를 보입니다. 체중 감소, 식은땀 등의 전신 증상이 뚜렷하지 않으며, 공동 형성은 드뭅니다. 또한 객담 항산균 도말 양성 소견은 일반 세균성 폐렴보다 결핵을 강하게 시사합니다. 과민성 폐렴은 원인 항원(유기 분진, 화학물질 등)에 노출된 후 발생하는 알레르기성 폐질환으로, 발열, 기침, 호흡곤란 등의 증상이 있으나 공동 형성은 드물고 항원 노출과의 시간적 연관성이 중요합니다. 폐암은 기침, 체중 감소, 객혈 등의 증상을 보일 수 있으며 영상에서 종괴나 결절로 나타날 수 있으나, 이 환자의 젊은 나이(25세), 발열, 결핵 접촉력, PPD 양성, 객담 항산균 도말 양성 등은 결핵에 더 합당합니다. 사르코이드증은 비감염성 육아종성 질환으로, 양측성 폐문 림프절 비대가 특징적이며 폐실질 침범 시에도 주로 망상결절성 양상을 보입니다. 또한 객담 항산균 도말 양성 소견은 사르코이드증과 맞지 않습니다. 따라서 이 환자의 임상 양상과 검사 결과를 종합할 때 폐결핵이 가장 가능성 높은 진단입니다. 확진을 위해서는 객담 배양검사나 핵산증폭검사(PCR) 등이 추가로 필요할 수 있으며, 치료로는 이소니아지드, 리팜핀, 에탐부톨, 피라진아미드 등의 항결핵제 병합 요법이 권장됩니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Pulmonary tuberculosis (TB) should be suspected in patients with subacute or chronic symptoms such as cough, fever, night sweats, and weight loss, especially if there is a history of TB exposure. The classic radiographic findings include upper-lobe infiltrates, often with cavitation. However, any radiographic pattern from a solitary nodule to diffuse infiltrates may be seen. A positive tuberculin skin test (TST) with an induration of ≥10 mm is suggestive of TB infection in individuals at increased risk, while ≥5 mm is considered positive in those with recent TB contacts or immunocompromised states. Acid-fast bacilli (AFB) smear microscopy is the most rapid diagnostic test available, with a sensitivity of 50-70% in culture-confirmed cases of pulmonary TB. Culture remains the gold standard for diagnosis, but nucleic acid amplification tests offer more rapid results. Treatment typically consists of a four-drug regimen including isoniazid, rifampin, ethambutol, and pyrazinamide for the initial 2 months, followed by isoniazid and rifampin for an additional 4 months in drug-susceptible cases."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 140,
+  "chief_complaint": "기침",
+  "purpose": "기침을 하는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "63세 여성이 3개월 전부터 시작된 마른기침과 호흡곤란을 주소로 내원하였다. 환자는 기침이 점차 심해지고 호흡곤란도 악화되어 일상생활에 지장이 있다고 한다. 30년간 가정부로 일했으며, 먼지가 많은 환경에서 근무했다고 한다. 신체검진에서 양측 폐 기저부에서 벨크로 수포음(velcro crackles)이 청진되었다. 청색증이나 곤봉지는 관찰되지 않았다. 다른 검사에서 교원성 질환이나 내약성 폐질환의 증거는 없었다. 이 환자에게 가장 적합한 치료는?",
+  "exam": "폐기능 검사: FVC 62% 예측치, FEV1 70% 예측치, FEV1/FVC 85%, DLCO 45% 예측치. 6분 보행검사에서 산소포화도가 안정 시 94%에서 운동 후 88%로 감소하였다. 혈액검사에서 자가항체 검사 음성, ACE 정상, 류마티스 인자 음성. 고해상도 흉부 CT에서 양측 폐 기저부와 말초부에 그물망 음영과 벌집모양 변화가 관찰되었다.",
+  "options": {
+    "A": "프레드니솔론 단독 요법",
+    "B": "피르페니돈 투여",
+    "C": "아지스로마이신 투여",
+    "D": "N-아세틸시스테인 단독 요법",
+    "E": "대증적 치료 및 경과 관찰"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3개월간 지속되는 마른기침과 점진적으로 악화되는 호흡곤란이 있으며, 신체검진에서 양측 폐 기저부의 벨크로 수포음, 폐기능 검사에서 제한성 환기장애(FEV1/FVC 증가, FVC 감소), 확산능 감소(DLCO 45%), 고해상도 흉부 CT에서 양측 폐 기저부와 말초부의 그물망 음영과 벌집모양 변화가 관찰됩니다. 또한 교원성 질환이나 약물 관련성, 기타 원인을 시사하는 증거가 없습니다. 이러한 임상 양상과 검사 결과는 특발성 폐섬유증(Idiopathic Pulmonary Fibrosis, IPF)에 합당합니다. 특발성 폐섬유증은 원인 불명의 진행성 섬유화성 간질성 폐질환으로, 주로 고령자에서 발생하며 만성 마른기침, 진행성 호흡곤란, 양측 폐 기저부의 벨크로 수포음, CT에서 통상형간질성폐렴(UIP) 양상의 변화를 특징으로 합니다. 피르페니돈은 특발성 폐섬유증 치료에 승인된 항섬유화 약물로, 질환의 진행을 늦추고 폐기능 감소를 억제하는 효과가 입증되었습니다. 여러 대규모 임상 시험에서 피르페니돈이 위약에 비해 FVC 감소율을 유의하게 줄이고, 급성 악화 위험과 사망률을 감소시키는 것으로 나타났습니다. 프레드니솔론을 포함한 코르티코스테로이드는 과거에 특발성 폐섬유증 치료에 사용되었으나, 최근 연구들에서 효과가 제한적이고 부작용 위험이 높아 현재는 단독 요법으로 권장되지 않습니다. 아지스로마이신은 일부 간질성 폐질환에서 항염증 효과가 있을 수 있으나, 특발성 폐섬유증에서의 효과는 입증되지 않았습니다. N-아세틸시스테인은 항산화 작용이 있는 약물로, 과거 일부 연구에서 IPF 환자의 폐기능 감소를 늦추는 효과가 제시되었으나, 후속 대규모 연구(PANTHER-IPF)에서 단독 요법의 효과가 입증되지 않았습니다. 대증적 치료 및 경과 관찰만으로는 진행성 질환인 IPF의 경과를 효과적으로 조절하기 어렵습니다. 따라서 이 환자에게 가장 적합한 치료는 피르페니돈 투여입니다. 피르페니돈과 함께 닌테다닙도 IPF 치료에 승인된 약물로, 두 약제 중 환자 상태와 부작용 프로필 등을 고려하여 선택할 수 있습니다. 또한 저산소혈증이 있는 경우 산소 요법, 폐재활, 예방접종 등의 지지 치료도 병행해야 합니다.",
+  "source": {
+    "file_name": "American Thoracic Society/European Respiratory Society Guidelines",
+    "content": "Idiopathic pulmonary fibrosis (IPF) is a specific form of chronic, progressive fibrosing interstitial pneumonia of unknown cause, occurring primarily in older adults and limited to the lungs. It is characterized by progressive worsening of dyspnea and lung function, with a poor prognosis. High-resolution computed tomography (HRCT) typically shows a pattern of usual interstitial pneumonia (UIP) with basal and peripheral predominant reticulation and honeycombing. For patients with IPF, both pirfenidone and nintedanib are conditionally recommended for treatment. These antifibrotic agents have been shown to slow the rate of decline in forced vital capacity (FVC) in multiple randomized controlled trials. Pirfenidone has antifibrotic, anti-inflammatory, and antioxidant effects, while nintedanib is a tyrosine kinase inhibitor that targets multiple receptors involved in fibrogenesis. The use of corticosteroids, either alone or in combination with immunosuppressants, is not recommended for the treatment of IPF based on a lack of efficacy and potential harm."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+
+
+
+
+
+
+
+
+
+
 
 
 
