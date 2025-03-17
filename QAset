@@ -5560,6 +5560,72 @@
 },
 {
   "question_id": 1,
+  "chief complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "68세 남성이 2일 전부터 시작된 소변량 감소와 전신 무력감을 주소로 응급실에 내원하였다. 환자는 1주일 전부터 시작된 설사와 구토로 인해 음식과 수분 섭취가 불량했으며, 내원 전일부터는 거의 소변을 보지 못했다고 한다. 또한 기립 시 어지러움을 호소하였다. 과거력상 10년 전 진단받은 고혈압으로 hydrochlorothiazide와 losartan을 복용 중이었으며, 평소 비스테로이드성 항염증제(ibuprofen)를 관절통으로 간헐적으로 복용해왔다. 내원 당시 혈압 90/50 mmHg, 맥박 110회/분, 체온 37.2°C, 호흡수 20회/분이었다. 신체 검사에서 피부와 구강 점막이 건조하였고, 피부 긴장도가 감소되어 있었다. 경정맥 확장은 관찰되지 않았으며, 다리 부종도 없었다. 복부 압통은 없었으나 장음이 항진되어 있었다. 이 환자의 급성 신손상 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: BUN 60 mg/dL, 크레아티닌 3.2 mg/dL, Na 128 mEq/L, K 5.3 mEq/L, Cl 96 mEq/L, HCO3 16 mEq/L\n소변 검사: 비중 1.025, 단백질 1+, RBC 0-1/HPF, WBC 0-2/HPF, 과립원주 소수 관찰\n소변 나트륨 15 mEq/L, 소변 삼투압 750 mOsm/kg, 소변 크레아티닌 80 mg/dL\n분획배설나트륨(FENa) 0.8%\n신장 초음파: 양측 신장 크기와 에코음영 정상, 수신증 없음",
+  "options": {
+    "A": "급성 세뇨관 괴사",
+    "B": "용혈성 요독 증후군",
+    "C": "급성 사구체신염",
+    "D": "혈량저하증",
+    "E": "양측성 요로 폐쇄"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 콩팥 전성(prerenal) 급성 신손상의 전형적인 임상양상을 보이고 있다. 급성 신손상의 원인은 크게 콩팥 전성, 콩팥 내성, 콩팥 후성으로 나눌 수 있다. 이 환자의 경우 1주일 간의 설사와 구토로 인한 체액 손실이 있었고, 이로 인한 탈수 소견(기립성 어지러움, 빈맥, 저혈압, 피부 및 점막 건조, 피부 긴장도 감소)이 관찰된다. 또한 thiazide 이뇨제와 NSAID 사용은 혈량저하 상태에서 신장 혈류를 더욱 감소시키는 위험 요인이다. 검사 소견에서 BUN/크레아티닌 비율이 18.8로 증가되어 있고, 소변 나트륨이 20 mEq/L 미만, 분획배설나트륨(FENa)이 1% 미만으로 콩팥 전성 원인을 시사한다. 소변 검사에서 비중이 증가되어 있고, 소변 삼투압이 혈장보다 높은 것도 콩팥 전성 원인을 지지한다. 급성 세뇨관 괴사는 콩팥 내성 급성 신손상의 대표적 원인으로, 주로 허혈이나 신독성 물질에 의해 발생한다. 이 경우 분획배설나트륨은 대개 2% 이상으로 증가하며, 소변 삼투압은 감소한다. 또한 과립원주나 세뇨관 상피세포가 많이 관찰된다. 용혈성 요독 증후군은 미세혈관병증으로 인한 급성 신손상으로, 주로 용혈성 빈혈, 혈소판 감소증, 급성 신부전의 3가지 특징적 소견이 있으나, 이 환자에서는 이러한 소견이 관찰되지 않는다. 급성 사구체신염은 면역 복합체에 의한 사구체 손상으로, 소변에서 적혈구와 적혈구 원주가 관찰되며, 단백뇨와 부종이 동반될 수 있다. 이 환자의 소변 검사에서는 적혈구가 거의 없어 사구체신염의 가능성은 낮다. 양측성 요로 폐쇄는 콩팥 후성 급성 신손상의 원인으로, 신장 초음파에서 수신증이 관찰되는 것이 특징이나, 이 환자의 초음파에서는 정상 소견을 보인다. 따라서 이 환자의 급성 신손상 원인으로 가장 가능성이 높은 것은 설사와 구토로 인한 혈량저하증이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Prerenal AKI is the most common form of AKI and results from renal hypoperfusion. Common causes include volume depletion (hemorrhage, diarrhea, vomiting), decreased effective circulating volume (heart failure, cirrhosis), and medications that decrease renal blood flow (NSAIDs, ACE inhibitors, ARBs). Clinical features of prerenal AKI include orthostatic hypotension, tachycardia, decreased skin turgor, and dry mucous membranes. Laboratory findings typically show elevated BUN/creatinine ratio (>20:1), urine sodium 500 mOsm/kg, and fractional excretion of sodium (FENa) 100/HPF (변형적혈구 70%), 적혈구 원주 다수\n소변 단백질/크레아티닌 비율 8.5 g/g\n24시간 단백뇨 9.8 g/day\n항사구체기저막항체(anti-GBM) 음성, 항중성구세포질항체(ANCA) 음성, 항핵항체(ANA) 음성, C3 80 mg/dL(정상: 90-180), C4 25 mg/dL(정상: 10-40)\n신장 초음파: 양측 신장 크기 증가, 피질 에코 증가, 수신증 없음",
+  "options": {
+    "A": "혈액량 복원을 위한 정맥 수액 투여",
+    "B": "요로 폐쇄 해결을 위한 도뇨관 삽입",
+    "C": "고용량 스테로이드와 면역억제제 치료",
+    "D": "혈장분리교환술(Plasmapheresis)",
+    "E": "응급 혈액투석"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 사구체신염의 일종인 급성 신증후군(acute nephritic syndrome)의 임상양상을 보이고 있다. 상기도 감염 후 발생한 혈뇨, 단백뇨, 부종, 고혈압, 신기능 저하는 감염 후 사구체신염(post-infectious glomerulonephritis)을 강력히 시사한다. 소변 검사에서 적혈구 원주와 변형적혈구가 관찰되는 것은 사구체 기원의 혈뇨를 의미하며, 9.8 g/day의 심한 단백뇨는 신증후군 범위의 단백뇨이다. 이러한 임상양상과 검사 소견은 급속 진행성 사구체신염(rapidly progressive glomerulonephritis, RPGN)을 포함한 중증 사구체신염의 가능성을 시사한다. 혈청 보체 C3 수치가 경미하게 감소한 것도 감염 후 사구체신염에서 흔히 관찰되는 소견이다. 이러한 환자에게 가장 적절한 치료는 고용량 스테로이드와 면역억제제 치료이다. 특히 급속 진행성 사구체신염이 의심되는 경우, 신기능의 빠른 악화를 막기 위해 즉각적인 면역억제 치료가 필요하다. 일반적으로 methylprednisolone 500-1000 mg/day를 3일간 정맥 투여한 후 경구 prednisolone으로 전환하며, cyclophosphamide나 rituximab과 같은 면역억제제를 병용한다. 혈액량 복원을 위한 정맥 수액 투여는 콩팥 전성 급성 신손상의 치료로 적절하나, 이 환자는 이미 체액 과다(부종, 고혈압) 상태이므로 오히려 해로울 수 있다. 요로 폐쇄 해결을 위한 도뇨관 삽입은 콩팥 후성 급성 신손상의 치료로 적절하나, 이 환자는 신장 초음파에서 수신증이 없어 요로 폐쇄의 증거가 없다. 혈장분리교환술은 항사구체기저막항체 질환이나 ANCA 연관 혈관염과 같은 특정 사구체신염에서 고려할 수 있으나, 이 환자는 해당 항체가 모두 음성이다. 응급 혈액투석은 생명을 위협하는 고칼륨혈증, 중증 대사성 산증, 요독 증상, 폐부종 등이 있을 때 고려하나, 이 환자는 현재 이러한 절대적 적응증이 없다. 따라서 이 환자의 급성 사구체신염에 대한 가장 적절한 초기 치료는 고용량 스테로이드와 면역억제제 치료이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Acute glomerulonephritis, particularly postinfectious glomerulonephritis, typically presents with hematuria, proteinuria, edema, hypertension, and reduced kidney function. The classic presentation follows a streptococcal throat or skin infection by 1-2 weeks. Urinalysis shows dysmorphic RBCs, RBC casts, and variable proteinuria, which may reach nephrotic range. Serum complement C3 is often reduced in the acute phase. Renal biopsy typically shows diffuse proliferative glomerulonephritis with subepithelial \"humps\" on electron microscopy. When glomerulonephritis presents with rapidly progressive renal failure (rapidly progressive glomerulonephritis, RPGN), aggressive immunosuppressive therapy should be initiated promptly to prevent irreversible kidney damage. Standard treatment includes high-dose corticosteroids (methylprednisolone pulses followed by oral prednisone) combined with cyclophosphamide or rituximab. Plasmapheresis is primarily reserved for anti-GBM disease or severe ANCA-associated vasculitis with pulmonary hemorrhage.'",
+  "category": "Nephrology"
+}
+
+{
+  "question_id": 4,
+  "chief complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "58세 여성이 3일 전부터 시작된 소변량 감소와 전신 부종으로 응급실에 내원하였다. 환자는 2주 전 요추 추간판 탈출증으로 정형외과에서 비스테로이드성 항염증제(diclofenac)를 처방받아 복용 중이었으며, 1주일 전부터는 발열과 인후통으로 일반의원에서 항생제(amoxicillin-clavulanate)를 처방받아 함께 복용했다고 한다. 3일 전부터 양측 다리와 얼굴이 붓기 시작했으며, 소변량이 감소하고 소변색이 진해졌다고 한다. 내원 당일에는 거의 소변을 보지 못했다. 과거력상 5년 전 진단받은 고혈압으로 약물 치료 중이었으며, 2년 전 2형 당뇨병을 진단받았다. 환자는 평소 혈압 조절을 위해 lisinopril을 복용 중이었다. 내원 당시 혈압 160/95 mmHg, 맥박 92회/분, 체온 37.8°C였다. 신체 검사에서 안면부종, 결막 창백, 양측 하지의 함요부종이 관찰되었으며, 양측 늑골척추각 압통이 있었다. 청진상 양측 폐하부에 악설음이 들렸다. 이 환자의 급성 신손상 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: BUN 68 mg/dL, 크레아티닌 4.8 mg/dL, Na 135 mEq/L, K 5.7 mEq/L, Cl 100 mEq/L, HCO3 16 mEq/L, Hb 9.8 g/dL, WBC 12,500/μL (호산구 8%), 혈소판 280,000/μL\n소변 검사: 비중 1.010, pH 5.5, 단백질 2+, 잠혈 2+, RBC 20-30/HPF, WBC 10-15/HPF, 백혈구 원주 소수, 호산구 양성\n소변 나트륨 45 mEq/L, 분획배설나트륨(FENa) 2.8%\n신장 초음파: 양측 신장 크기 정상, 피질 에코 증가, 피질-수질 경계 불명확, 수신증 없음",
+  "options": {
+    "A": "횡문근융해증",
+    "B": "급성 간질성 신염",
+    "C": "급성 사구체신염",
+    "D": "혈량저하증",
+    "E": "조영제 신독성"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 간질성 신염(acute interstitial nephritis, AIN)의 전형적인 임상양상을 보이고 있다. 급성 간질성 신염은 신장 간질과 세뇨관에 영향을 미치는 염증성 과정으로, 약 75%의 사례가 약물에 의해 유발된다. 이 환자는 최근 비스테로이드성 항염증제(diclofenac)와 항생제(amoxicillin-clavulanate)를 복용했는데, 이 두 가지 약물은 모두 급성 간질성 신염의 흔한 원인이다. 또한 ACE 억제제(lisinopril)도 간질성 신염을 유발할 수 있다. 임상적으로 발열, 발진, 관절통의 '고전적 3징'이 나타날 수 있으나, 모든 환자에서 관찰되는 것은 아니며, 이 환자에서는 발열만 관찰된다. 검사 소견에서 혈중 호산구 증가(8%)와 소변 내 호산구 양성 소견은 약물 유발성 간질성 신염을 강력히 시사한다. 또한 소변 검사에서 백혈구뇨, 경미한 단백뇨, 혈뇨가 관찰되며, 분획배설나트륨이 2% 이상으로 콩팥 내성 급성 신손상에 합당하다. 횡문근융해증에 의한 급성 신손상은 주로 근육 손상 후 발생하며, 혈중 크레아틴키나아제(CK)가 현저히 증가하고, 소변 검사에서 잠혈 양성이나 적혈구는 거의 없는 'tea-colored' 소변이 특징이다. 이 환자에서는 근육 손상의 병력이 없고, 소변에서 적혈구가 관찰된다. 급성 사구체신염은 사구체의 염증성 질환으로, 소변 검사에서 변형적혈구, 적혈구 원주, 상당한 단백뇨가 특징이다. 이 환자의 소변 검사는 사구체신염보다는 간질성 신염에 더 합당하다. 혈량저하증에 의한 콩팥 전성 급성 신손상은 소변 나트륨이 20 mEq/L 미만, 분획배설나트륨이 1% 미만인 것이 특징이나, 이 환자는 소변 나트륨 45 mEq/L, 분획배설나트륨 2.8%로 콩팥 내성 원인을 시사한다. 또한 부종과 폐울혈 소견은 혈량저하보다는 체액 과다 상태를 시사한다. 조영제 신독성은 요오드화 조영제 노출 후 발생하는 급성 신손상으로, 이 환자에서는 조영제 노출 병력이 없다. 따라서 이 환자의 급성 신손상 원인으로 가장 가능성이 높은 것은 약물(NSAIDs, 항생제, ACE 억제제)에 의한 급성 간질성 신염이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Acute interstitial nephritis (AIN) is characterized by inflammation and edema of the renal interstitium and tubules. Drugs are the most common cause of AIN, accounting for 75% of cases. Common culprits include antibiotics (particularly beta-lactams, sulfonamides, and quinolones), NSAIDs, proton pump inhibitors, and anticonvulsants. Clinical features may include the classic triad of fever, rash, and arthralgia, although this is present in 1%, consistent with intrinsic renal injury. Treatment involves discontinuation of the offending drug and, in severe or persistent cases, corticosteroids. The prognosis is generally good with early recognition and intervention, though some patients may develop chronic kidney disease.'",
+  "category": "Nephrology"
+}
+
+{
+  "question_id": 5,
+  "chief complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "38세 남성이 내원 2일 전 갑작스러운 좌측 옆구리 통증과 혈뇨로 응급실에 내원하였다. 환자는 심한 통증으로 인해 진통제를 투여받았으며, 통증이 호전되었으나 환자는 퇴원 후 집에서 소변량이 점점 감소하는 것을 느꼈다고 한다. 내원 당일 아침에는 소변을 전혀 보지 못했다고 호소한다. 과거력상 요로결석의 병력이 있으며, 고지방 식이를 주로 하고 운동은 거의 하지 않는 생활습관을 가지고 있다. 약물 복용력이나 다른 만성 질환은 없었다. 내원 당시 혈압 145/90 mmHg, 맥박 88회/분, 체온 37.2°C였다. 신체 검사에서 좌측 늑골척추각 압통이 있었으며, 복부 압통은 없었다. 이 환자의 무뇨증 원인을 확인하기 위한 가장 적절한 검사는?",
+  "exam": "혈액 검사: BUN 48 mg/dL, 크레아티닌 4.2 mg/dL, Na 138 mEq/L, K 5.2 mEq/L, Cl 105 mEq/L, HCO3 20 mEq/L, Ca 9.2 mg/dL, 요산 8.5 mg/dL\n소변 검사: RBC 다수/HPF, WBC 5-10/HPF, 결정체 관찰됨",
+  "options": {
+    "A": "신장 생검",
+    "B": "컴퓨터단층촬영(CT) 요로조영술",
+    "C": "역행성 요로조영술",
+    "D": "자기공명요로조영술(MR urography)",
+    "E": "도플러 신장 초음파"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 요로결석에 의한 콩팥 후성(postrenal) 급성 신손상이 의심되는 임상양상을 보이고 있다. 환자는 과거 요로결석 병력이 있고, 갑작스러운 옆구리 통증과 혈뇨는 요로결석의 전형적인 증상이다. 요로결석이 요관을 완전히 폐쇄하면 무뇨증이 발생할 수 있으며, 특히 이 환자처럼 단일 신장이나 기능하는 신장이 하나뿐인 경우(편측 요관 폐쇄가 있는 상태에서 반대측 신장이 기능하지 않는 경우) 또는 양측 요관 폐쇄가 있는 경우에 발생한다. 이러한 환자에서 가장 적절한 검사는 컴퓨터단층촬영(CT) 요로조영술이다. CT 요로조영술은 요로결석의 위치, 크기, 밀도를 정확히 확인할 수 있으며, 요로 폐쇄의 정도와 수신증 유무, 조영제 배설 패턴을 통한 신장 기능 평가도 가능하다. 또한 요로결석 외에도 요로 폐쇄를 일으킬 수 있는 다른 원인(종양, 혈전, 유두괴사 등)도 확인할 수 있다. 신장 생검은 콩팥 내성 신질환(사구체신염, 간질성 신염 등)의 진단에 유용하나, 이 환자처럼 요로결석에 의한 콩팥 후성 급성 신손상이 의심되는 경우에는 적절하지 않다. 역행성 요로조영술은 내시경적 시술을 통해 요관을 직접 관찰하고 조영제를 주입하여 요로를 평가하는 방법으로, 진단과 동시에 치료(요관 스텐트 삽입, 요로결석 제거 등)가 가능하다. 그러나 초기 진단 단계에서는 비침습적인 CT 요로조영술이 선호된다. 자기공명요로조영술(MR urography)은 방사선 노출 없이 요로를 평가할 수 있으나, 요로결석의 진단에는 CT보다 민감도가 낮고, 급성기에 접근성이 제한적이다. 도플러 신장 초음파는 신장의 혈류를 평가하는 데 유용하나, 요로결석의 정확한 위치와 특성을 확인하는 데는 제한적이다. 따라서 이 환자의 무뇨증 원인을 확인하기 위한 가장 적절한 검사는 컴퓨터단층촬영(CT) 요로조영술이다.",
+  "source": "urology_Adams_textbook_data.txt, 'Urolithiasis is a common cause of urinary tract obstruction and can lead to acute kidney injury if the obstruction is bilateral or occurs in a solitary functioning kidney. Patients typically present with acute flank pain, hematuria, and sometimes nausea and vomiting. As the obstruction progresses, oliguria or anuria may develop. Computed tomography (CT) urography is the gold standard for diagnosing urinary tract stones, with a sensitivity and specificity exceeding 95%. Non-contrast CT can identify the size, location, and density of stones, while the addition of intravenous contrast allows assessment of renal function and the degree of obstruction. CT can also identify other causes of obstruction such as tumors, blood clots, or papillary necrosis. Management includes pain control, hydration, and relief of obstruction through either ureteral stent placement or percutaneous nephrostomy if the obstruction is causing significant renal impairment. Prompt relief of obstruction is essential to prevent permanent renal damage.'",
+  "category": "Urology"
+},
+{
+  "question_id": 1,
   "chief complaint": "허리통증",
   "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
   "question": "68세 남성이 3개월 전부터 시작된 허리 통증과 양측 하지 저림을 주소로 내원하였다. 환자는 특히 서 있거나 걸을 때 증상이 악화되고, 앉거나 허리를 구부릴 때 완화된다고 한다. 최근에는 걸을 수 있는 거리가 점점 짧아지고 있다고 한다. 증상은 주로 양측 엉덩이와 허벅지 뒤쪽으로 나타나며, 종아리까지 내려가는 경우는 드물다. 신체검진에서 요추부 신전 시 통증이 악화되고, 양측 하지의 근력은 정상이다. 심부건반사는 정상이고 감각 이상도 없다. 이 환자의 가장 가능성 높은 진단은?",
