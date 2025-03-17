@@ -5108,6 +5108,457 @@
 },
 
 {
+  "question_id": 6,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "25세 남성이 3개월간 지속된 복통, 설사, 체중 감소로 내원하였다. 환자는 하루 4-6회의 수양성 설사가 있으며, 때로는 혈변이 섞여 나온다고 한다. 복통은 주로 우하복부에 국한되어 있으며 식사 후 악화되는 경향이 있다. 환자는 최근 3개월간 8kg의 체중 감소가 있었으며, 식욕 저하와 간헐적인 발열이 동반된다고 한다. 과거력상 15세 때 항문 주위 농양으로 치료받은 적이 있다. 가족력상 어머니가 궤양성 대장염을 앓고 있다. 신체 검사에서 체온 37.8°C, 우하복부 압통이 있었으며, 항문 주위에 누공이 관찰되었다. 이 환자의 진단을 위한 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: WBC 13,200/μL, Hb 10.8 g/dL, 혈소판 460,000/μL, ESR 45 mm/h, CRP 3.5 mg/dL, 알부민 3.2 g/dL\nS상결장경 검사: 직장은 정상 소견이나 원위부 결장에 불연속적인 점막 발적과 미란, 아프타성 궤양 관찰",
+  "options": {
+    "A": "대변 배양 검사",
+    "B": "복부 단순 촬영",
+    "C": "복부 및 골반 CT 검사",
+    "D": "상부위장관내시경 검사",
+    "E": "대장 내압 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 크론병(Crohn's disease)이 강력히 의심되는 임상 양상을 보이고 있다. 크론병을 시사하는 특징으로는 1) 우하복부 복통과 설사, 2) 항문 주위 농양 및 누공, 3) 체중 감소, 4) 발열과 같은 전신 증상, 5) S상결장경에서 불연속적인 병변과 아프타성 궤양, 6) 염증 표지자(ESR, CRP)의 상승이 있다. 또한 직장은 정상이나 원위부 결장에 병변이 있는 점도 크론병의 특징인 '건너뛰는 병변(skip lesion)'과 일치한다. 이 환자의 진단을 위해 가장 적절한 다음 검사는 복부 및 골반 CT 검사이다. CT는 장벽 비후, 장간막 지방 침윤, 림프절 비대, 누공, 농양 등 크론병의 장내 및 장외 합병증을 평가하는 데 매우 유용하다. 또한 말단 회장(terminal ileum)의 침범 여부를 확인할 수 있어, 대장내시경으로 접근하기 어려운 소장 병변도 발견할 수 있다. 대변 배양 검사는 감염성 설사의 원인 규명에 도움이 되나, 이 환자의 만성적인 경과와 장외 증상(누공)은 감염성 질환보다 염증성 장질환을 더 시사한다. 복부 단순 촬영은 장폐색이나 천공과 같은 급성 합병증이 의심될 때 유용하나, 진단적 가치는 제한적이다. 상부위장관내시경은 크론병이 상부위장관을 침범했을 가능성이 있으나, 일차 진단 검사로는 CT가 더 유용하다. 대장 내압 검사는 과민성 장증후군이나 변비와 같은 기능성 장질환의 평가에 사용되며, 염증성 장질환의 진단에는 적합하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Crohn's disease is characterized by transmural inflammation that can affect any part of the gastrointestinal tract, from the mouth to the anus. Common presentations include chronic diarrhea, abdominal pain, weight loss, and fever. Extraintestinal manifestations may include arthritis, uveitis, erythema nodosum, and primary sclerosing cholangitis. Perianal disease, including fissures, fistulas, and abscesses, occurs in approximately 25% of patients. CT enterography or MR enterography are the preferred imaging modalities for evaluating small bowel involvement and potential complications such as strictures, fistulas, or abscesses. These cross-sectional imaging techniques have largely replaced traditional barium studies. CT findings in Crohn's disease include bowel wall thickening, mesenteric fat stranding, lymphadenopathy, and skip lesions. MRI is particularly useful for evaluating perianal fistulas and abscesses.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 7,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "48세 여성이 3개월간 지속된 우상복부 통증으로 내원하였다. 통증은 주로 식후 30분에서 1시간 사이에 발생하며, 기름진 음식을 먹은 후 특히 심해진다고 한다. 통증은 대개 30분에서 3시간 정도 지속되다가 저절로 호전된다. 환자는 최근 구역감이 동반되고, 간혹 복통이 우견갑부로 방사되는 느낌이 있다고 한다. 과거력상 3번의 출산력이 있으며, BMI는 32 kg/m²이다. 최근 건강검진에서 고지혈증을 진단받았고, 약물 치료는 시작하지 않았다. 신체 검사에서 우상복부 압통이 있었으며, Murphy's sign은 음성이었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: AST 32 U/L, ALT 36 U/L, ALP 98 U/L, γ-GT 45 U/L, 총 빌리루빈 0.8 mg/dL, WBC 8,300/μL\n복부 초음파: 담낭 내 다수의 에코성 결석들이 관찰되며, 담낭벽 비후는 없음. 담관 확장 소견 없음",
+  "options": {
+    "A": "만성 담낭염",
+    "B": "담석성 담낭염",
+    "C": "증상이 있는 담석증",
+    "D": "급성 췌장염",
+    "E": "십이지장 궤양"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 증상이 있는 담석증(symptomatic cholelithiasis)의 전형적인 임상양상을 보이고 있다. 담석증의 특징적인 임상 소견으로는 1) 식후(특히 지방이 많은 음식 섭취 후) 발생하는 우상복부 통증(담낭성 통증, biliary colic), 2) 통증이 30분에서 수 시간 지속되다가 저절로 호전, 3) 때로는 우견갑부로 방사되는 통증, 4) 구역이 동반될 수 있음. 이 환자는 담석의 위험 요인으로 여성, 비만(BMI 32 kg/m²), 다산(3번의 출산), 고지혈증 등을 가지고 있다. 초음파 검사에서 담낭 내 결석이 확인되었고, 간기능 검사는 정상 범위이며, 백혈구 수치도 정상으로 급성 염증을 시사하는 소견은 없다. 만성 담낭염은 반복적인 담낭 염증으로 인해 담낭벽이 두꺼워지고 섬유화되는 상태로, 통증이 지속적이고 초음파에서 담낭벽 비후나 담낭 위축이 관찰된다. 담석성 담낭염은 담석에 의한 담낭관 폐쇄로 발생하는 급성 염증으로, 지속적인 우상복부 통증, 발열, 백혈구 증가, Murphy's sign 양성, 초음파에서 담낭벽 비후 등이 특징이나, 이 환자에서는 이러한 소견이 없다. 급성 췌장염은 심한 상복부 통증이 특징이며, 혈중 아밀라아제나 리파아제의 상승이 있어야 한다. 십이지장 궤양은 공복 시 통증이 심해지고 식사 후 완화되는 양상이 특징적이며, 이 환자처럼 식후에 악화되는 양상과는 다르다. 따라서 이 환자의 임상 소견, 위험 요인, 초음파 결과를 종합할 때, 증상이 있는 담석증이 가장 가능성이 높은 진단이다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'Biliary colic is the most common symptom of cholelithiasis and occurs when a gallstone temporarily obstructs the cystic duct. The pain is constant, not colicky, and is localized to the right upper quadrant or epigastrium, with radiation to the right scapular region or shoulder. The pain typically begins abruptly, plateaus over a period of 15 minutes to 1 hour, and then gradually disappears over 1 to 4 hours. Biliary colic is frequently precipitated by a fatty meal and often occurs at night, awakening patients from sleep. Nausea and vomiting are commonly associated with the pain. Physical examination during an episode of biliary colic may reveal mild to moderate right upper quadrant tenderness. Between episodes, the physical examination is normal. Laboratory values, including liver function tests, are typically normal in uncomplicated biliary colic. Risk factors for cholelithiasis include female gender, obesity, rapid weight loss, multiparity, and certain medical conditions like diabetes mellitus and hyperlipidemia.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 8,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "65세 남성이 3개월간 지속된 복통, 배변 습관의 변화, 체중 감소로 내원하였다. 환자는 예전에는 하루 한 번 정상적인 배변을 했으나, 최근에는 변이 가늘어지고 배변 횟수가 하루 3-4회로 증가했다고 한다. 때때로 변에 선홍색 혈액이 묻어 나오는 것을 발견했으며, 배변 후에도 잔변감이 있다고 호소한다. 복부 불편감은 좌하복부에 주로 있으며, 배변 후 일시적으로 완화된다. 환자는 지난 3개월간 5kg의 체중 감소가 있었고, 최근 쉽게 피로해진다고 한다. 과거력상 고혈압과 제2형 당뇨병으로 약물 치료 중이며, 가족력상 부친이 대장암으로 사망했다. 신체 검사에서 좌하복부 압통이 있었고, 직장 수지 검사에서 혈변이 확인되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: Hb 10.2 g/dL, MCV 78 fL, 혈소판 420,000/μL, CEA 8.5 ng/mL (정상: <5 ng/mL)\n대변 잠혈 검사: 양성",
+  "options": {
+    "A": "바륨 관장 검사",
+    "B": "복부 초음파",
+    "C": "대장내시경 검사",
+    "D": "복부 단순 촬영",
+    "E": "구불결장경 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 대장암을 강력히 의심할 수 있는 임상양상을 보이고 있다. 대장암을 시사하는 특징으로는 1) 배변 습관의 변화(가는 변, 배변 횟수 증가), 2) 혈변, 3) 잔변감, 4) 체중 감소, 5) 빈혈, 6) 종양표지자(CEA) 상승, 7) 대장암의 가족력이 있다. 또한 증상이 주로 좌하복부에 국한되어 있어 S상결장이나 하행결장에 병변이 있을 가능성이 높다. 이러한 환자에게 가장 적절한 다음 검사는 대장내시경 검사이다. 대장내시경은 전체 대장과 말단 회장을 직접 관찰할 수 있어 대장암의 진단에 가장 민감하고 특이적인 검사이다. 또한 조직 검사를 통해 확진이 가능하고, 다발성 병변이나 동시성 용종 여부도 확인할 수 있다. 바륨 관장 검사는 대장의 구조적 이상을 평가하는 데 도움이 될 수 있으나, 조직 검사가 불가능하고 작은 병변을 놓칠 수 있어 대장내시경이 가능한 경우에는 권장되지 않는다. 복부 초음파는 간 전이와 같은 복강 내 병변을 평가하는 데 유용할 수 있으나, 대장벽의 평가에는 제한적이다. 복부 단순 촬영은 장폐색이나 천공 같은 합병증이 의심될 때 유용하나, 대장암의 일차 진단 검사로는 적합하지 않다. 구불결장경은 직장과 S상결장만 검사할 수 있어, 근위부 대장의 병변을 놓칠 수 있다. 대장암의 약 30-40%가 직장과 S상결장 상부에 위치하므로, 전체 대장을 검사할 수 있는 대장내시경이 더 적절하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Colorectal cancer commonly presents with a change in bowel habits, hematochezia or melena, abdominal pain, unexplained iron deficiency anemia, or weight loss. Left-sided lesions often present with hematochezia, tenesmus, and a change in bowel habits, particularly narrowing of the stool caliber. Colonoscopy is the preferred diagnostic modality for evaluating patients with suspected colorectal cancer, as it allows for direct visualization of the entire colon and rectum, as well as biopsy or removal of suspicious lesions. It is superior to barium enema and sigmoidoscopy, especially for detecting small lesions and right-sided tumors. Additional advantages include the ability to detect synchronous neoplasms, which occur in 3-5% of patients, and to remove polyps, which may be premalignant. Carcinoembryonic antigen (CEA) is not recommended for screening due to its low sensitivity and specificity for early disease, but it can be useful for monitoring response to therapy and detecting recurrence in patients with known colorectal cancer.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 9,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "32세 여성이 6개월간 지속된 복통과 배변 습관의 변화로 내원하였다. 환자는 하루 3-4회의 무른 변을 보며, 복통은 주로 하복부에 있고 배변 후 호전되는 양상이다. 증상은 스트레스를 받거나 특정 음식(우유, 밀가루)을 섭취한 후 악화된다고 한다. 환자는 또한 복부 팽만감과 가스 증가를 호소하며, 간혹 점액성 변을 본다고 한다. 체중 감소, 야간 증상, 발열은 없다. 과거력상 특이 사항은 없으며, 정기적으로 복용하는 약물도 없다. 환자는 최근 직장에서 업무량이 증가하고 생활 스트레스가 심해졌다고 한다. 신체 검사에서 하복부, 특히 좌하복부에 경미한 압통이 있었으나, 반발통이나 만져지는 종괴는 없었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: 일반 혈액 검사, 간기능 검사, 갑상선 기능 검사 모두 정상 범위\n염증표지자: ESR 10 mm/h, CRP 0.3 mg/dL\n대변 검사: 잠혈 음성, 백혈구 음성, 기생충 및 병원성 세균 배양 음성\n복부 CT: 특이 소견 없음\n대장내시경: 정상 점막 소견, 말단 회장 정상\n유당 불내성 검사: 음성\n셀리악병 항체 검사: 음성",
+  "options": {
+    "A": "항생제(rifaximin) 단기 투여",
+    "B": "글루텐 제한 식이와 프로바이오틱스",
+    "C": "저포드맵(low-FODMAP) 식이와 정신적 지지 요법",
+    "D": "메살라진(5-ASA) 경구 투여",
+    "E": "위장관 운동 촉진제(metoclopramide) 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 설사 우세형 과민성 장증후군(diarrhea-predominant irritable bowel syndrome, IBS-D)의 전형적인 임상양상을 보이고 있다. 과민성 장증후군(IBS)의 진단 기준(로마 IV 기준)은 최소 6개월 전에 시작되어 최근 3개월 동안 평균 주 1일 이상 나타나는 복통이 있으면서, 배변과 관련이 있거나, 배변 빈도의 변화와 관련이 있거나, 대변 형태(외관)의 변화와 관련이 있는 경우이다. 또한 기질적 질환이 배제되어야 한다. 이 환자는 6개월간의 복통과 설사가 있고, 복통은 배변 후 호전되며, 다양한 검사에서 기질적 질환이 배제되었다. 또한 스트레스와 증상의 연관성, 복부 팽만감과 가스 증가 같은 IBS의 흔한 증상도 있다. IBS-D의 치료는 식이 조절, 약물 치료, 정신적 지지 요법 등을 포함한 다각적 접근이 필요하다. 저포드맵(low-FODMAP) 식이는 발효성 올리고당, 이당류, 단당류, 폴리올과 같은 단쇄 탄수화물 섭취를 제한하는 식이법으로, IBS 증상 개선에 효과적인 것으로 알려져 있다. 정신적 지지 요법은 스트레스와 증상의 연관성이 높은 IBS 환자에게 특히 중요하다. 항생제(rifaximin)는 일부 IBS-D 환자에서 단기간 사용할 수 있으나, 모든 환자에게 일차 선택 치료는 아니다. 글루텐 제한 식이는 셀리악병 환자에게 필수적이나, 이 환자는 셀리악병 항체 검사가 음성이다. 메살라진은 염증성 장질환(IBD)의 치료에 사용되는 약물로, 염증이 없는 IBS에는 효과가 없다. 위장관 운동 촉진제는 기능성 소화불량이나 변비 우세형 IBS에 도움이 될 수 있으나, 설사 우세형 IBS에는 적합하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Irritable bowel syndrome (IBS) is a functional gastrointestinal disorder characterized by abdominal pain and altered bowel habits in the absence of a specific organic pathology. The Rome IV criteria define IBS as recurrent abdominal pain at least 1 day per week in the last 3 months, associated with two or more of the following: related to defecation, associated with a change in stool frequency, or associated with a change in stool form. IBS is subtyped based on the predominant stool pattern: IBS with predominant constipation (IBS-C), IBS with predominant diarrhea (IBS-D), IBS with mixed bowel habits (IBS-M), or IBS unclassified (IBS-U). Management strategies include dietary modification, pharmacologic agents targeting specific symptoms, and psychological interventions. The low-FODMAP diet, which restricts fermentable oligosaccharides, disaccharides, monosaccharides, and polyols, has shown efficacy in reducing IBS symptoms, particularly bloating and flatulence. Psychological interventions, including cognitive-behavioral therapy, hypnotherapy, and stress management, can be effective for patients with clear exacerbation of symptoms during periods of stress or anxiety.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 10,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "42세 남성이 6개월 이상 지속된 상복부 통증, 소화불량, 체중 감소로 내원하였다. 통증은 등 쪽으로 방사되며, 식사 후 악화되어 환자가 음식 섭취를 꺼리게 된다고 한다. 환자는 지난 6개월간 10kg의 체중 감소가 있었으며, 최근에는 지방이 많은 음식을 먹으면 무르고 지방성의 악취가 나는 대변을 본다고 호소한다. 또한 평소보다 피로감이 심하고, 혈당 조절이 잘 되지 않아 당뇨병 약물 용량을 증가시켰다고 한다. 과거력상 10년간 하루 1병 이상의 소주를 거의 매일 마셨으며, 2년 전 알코올성 췌장염으로 입원한 적이 있다. 흡연력은 20갑년이다. 신체 검사에서 상복부 심와부 압통이 있었고, 영양 상태는 불량해 보였다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 포도당 190 mg/dL, 아밀라아제 65 U/L(정상: 28-100 U/L), 리파아제 45 U/L(정상: 13-60 U/L), AST 45 U/L, ALT 38 U/L, ALP 130 U/L, 총 빌리루빈 1.1 mg/dL\n복부 CT: 췌장 실질의 위축과 다수의 석회화, 주췌관 확장, 가성낭종 관찰\n대변 지방 검사: 양성(>6g/24시간)",
+  "options": {
+    "A": "만성 췌장염",
+    "B": "췌장암",
+    "C": "담석성 췌장염",
+    "D": "자가면역성 췌장염",
+    "E": "급성 췌장염의 재발"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 만성 췌장염(chronic pancreatitis)의 전형적인 임상양상을 보이고 있다. 만성 췌장염의 특징으로는 1) 지속적이거나 재발성의 복통(특히 등으로 방사되는 통증), 2) 외분비 기능 부전으로 인한 증상(지방변, 체중 감소), 3) 내분비 기능 부전(당뇨병), 4) 영상 검사에서 췌장 실질의 위축, 석회화, 주췌관 확장, 가성낭종 등의 소견이다. 이 환자는 장기간의 과도한 알코올 섭취력(10년간 거의 매일 소주 1병 이상)과 흡연력이 있으며, 2년 전 알코올성 췌장염의 과거력도 있어 만성 췌장염의 주요 위험 요인을 가지고 있다. 또한 대변 지방 검사에서 양성 소견은 지방 흡수 장애(malabsorption)를 시사하며, 이는 췌장 외분비 기능 부전으로 인한 결과이다. 췌장암은 만성 췌장염과 유사한 증상을 보일 수 있으나, 보통 더 급격한 경과를 보이며, CT에서 췌장 종괴나 담관/주췌관의 급격한 협착('double duct sign')이 관찰될 수 있다. 담석성 췌장염은 담석에 의한 췌관 폐쇄로 발생하는 급성 췌장염의 형태로, 이 환자의 CT에서는 담석이나 담관 확장 소견이 언급되지 않았다. 자가면역성 췌장염은 IgG4 관련 질환의 일종으로, 영상 검사에서 췌장의 미만성 종대와 주변부 테두리 징후(rim sign), 혈청 IgG4 상승이 특징이나, 이 환자에서는 이러한 소견이 없다. 급성 췌장염의 재발은 급성 염증 소견(아밀라아제, 리파아제의 상승)이 동반되어야 하나, 이 환자의 혈액 검사에서는 정상 범위이다. 따라서 이 환자의 임상 소견, 위험 요인, 검사 결과를 종합할 때 만성 췌장염이 가장 가능성이 높은 진단이다.",
+  "source": "Pathology_Robbins_textbook_data.txt, 'Chronic pancreatitis is characterized by irreversible damage to the pancreas, featuring chronic inflammation, fibrosis, and progressive destruction of exocrine and endocrine tissue. The most common cause worldwide is long-term alcohol abuse, which accounts for 60-70% of cases in Western countries. Other etiologies include genetic mutations (PRSS1, CFTR, SPINK1), autoimmune disorders, recurrent acute pancreatitis, and obstructive causes. Clinical manifestations include chronic abdominal pain (typically epigastric with radiation to the back), malabsorption due to exocrine insufficiency (resulting in steatorrhea, weight loss, and malnutrition), and endocrine insufficiency leading to diabetes mellitus. Morphologically, the pancreas develops parenchymal atrophy, fibrosis, ductal dilation, and calcifications (pathognomonic of alcoholic chronic pancreatitis). Complications include pseudocysts, pancreatic ductal adenocarcinoma (4-5-fold increased risk), and pancreatic pseudocysts. Management focuses on pain control, enzyme replacement therapy for exocrine insufficiency, and treatment of endocrine insufficiency.'",
+  "category": "Gastroenterology"
+},
+
+{
+  "question_id": 11,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "68세 남성이 2개월간 지속된 심와부 통증, 체중 감소, 식욕 부진으로 내원하였다. 환자는 통증이 등 쪽으로 방사되며 밤에 더 심해지는 경향이 있다고 한다. 최근 2개월간 8kg의 체중 감소가 있었으며, 음식을 먹기 꺼려한다고 한다. 환자는 또한 피부와 공막이 노랗게 변했고, 소변색이 진해졌으며, 대변색이 회색빛을 띤다고 호소한다. 과거력상 20년간 하루 한 갑의 흡연력과 주 3회의 음주력이 있으며, 2년 전 당뇨병을 진단받았다. 가족력상 어머니가 췌장암으로 사망했다. 신체 검사에서 심와부 압통이 있었고, 황달과 쇠약한 모습이 관찰되었다. 촉진 시 우상복부에 압통은 있으나 종괴는 만져지지 않았다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 총 빌리루빈 8.5 mg/dL, 직접 빌리루빈 6.8 mg/dL, ALP 580 U/L, AST 85 U/L, ALT 75 U/L, Amylase 65 U/L, Lipase 55 U/L, CA 19-9 750 U/mL (정상: <37 U/mL)\n복부 CT: 췌장 두부에 3.5cm 크기의 저음영 종괴, 종괴에 의한 총담관 압박과 근위부 담관 확장, 주췌관 확장(double duct sign)",
+  "options": {
+    "A": "췌장암",
+    "B": "만성 췌장염",
+    "C": "담관암",
+    "D": "십이지장 궤양",
+    "E": "급성 담낭염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 췌장두부암(pancreatic head cancer)의 전형적인 임상양상을 보이고 있다. 췌장두부암의 특징적인 증상과 징후로는 1) 복통(주로 심와부 통증으로 등으로 방사됨), 2) 황달(폐쇄성 황달 - 종괴에 의한 총담관 압박), 3) 체중 감소, 4) 쇠약감이 있다. 이 환자는 이러한 증상 외에도 담도 폐쇄를 시사하는 담색변(clay-colored stool)과 진한 소변도 호소한다. 또한 중요한 위험 요인으로 고령(68세), 흡연력, 최근 발병한 당뇨병(2년 전), 가족력(어머니의 췌장암)을 가지고 있다. 검사 소견에서 폐쇄성 황달을 시사하는 혈액 검사 결과(총 빌리루빈과 직접 빌리루빈의 상승, 특히 ALP의 현저한 상승)와 종양표지자 CA 19-9의 상승이 관찰된다. 결정적으로 복부 CT에서 췌장 두부의 종괴와 함께 'double duct sign'(총담관과 주췌관의 동시 확장)이 관찰되는데, 이는 췌장두부암의 특징적인 소견이다. 만성 췌장염은 복통과 체중 감소를 유발할 수 있으나, 일반적으로 CT에서 췌장 석회화와 위축이 관찰되며, 이 환자와 같은 폐쇄성 황달이나 double duct sign은 드물다. 담관암은 비슷한 임상양상을 보일 수 있으나, CT에서 병변이 담관에 국한되어 있고 췌장 두부에 종괴가 관찰되지 않을 것이다. 십이지장 궤양은 심와부 통증을 유발할 수 있으나, 황달이나 double duct sign을 설명할 수 없다. 급성 담낭염은 주로 우상복부 통증, 발열, 구역을 유발하며, 황달이 있더라도 이 환자와 같이 심하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Pancreatic cancer often presents with nonspecific symptoms such as abdominal pain (typically dull and located in the epigastrium, often radiating to the back), weight loss, jaundice, and weakness. Pain is often worse at night and in the supine position. Jaundice is more common with tumors in the pancreatic head, which can obstruct the common bile duct, leading to painless jaundice, clay-colored stools, and dark urine. Weight loss is nearly universal and is multifactorial in etiology. Risk factors include age (peak incidence in the seventh and eighth decades), cigarette smoking (2-3-fold increased risk), family history (5-10% of patients have a family history), chronic pancreatitis, and new-onset diabetes mellitus (10-20% of patients develop diabetes within 1-2 years before diagnosis). The double duct sign (simultaneous dilation of the pancreatic and common bile ducts) on imaging is characteristic of pancreatic head carcinoma. CA 19-9 is the most commonly used serum tumor marker, with elevated levels in 70-80% of patients with pancreatic cancer.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 12,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "35세 남성이 2개월간 지속된 혈성 설사와 하복부 통증으로 내원하였다. 환자는 하루 6-8회의 혈변과 점액이 섞인 설사를 하며, 변의를 참기 어렵고 배변 후에도 잔변감이 있다고 한다. 복통은 주로 좌하복부에 있으며, 배변 전에 악화되었다가 배변 후 일시적으로 완화된다고 한다. 2주 전부터는 38.5°C까지 체온이 상승하는 발열이 간헐적으로 있었다. 환자는 지난 2개월간 5kg의 체중 감소가 있었고, 식욕이 감소했다고 한다. 과거력상 1년 전 관절염으로 진단받았으며, 최근에는 포도막염으로 안과 치료를 받고 있다. 가족력상 특이사항은 없다. 신체 검사에서 좌하복부 압통이 있었고, 항문 검사에서 혈변이 확인되었다. 대장내시경 검사 결과 직장부터 S상결장까지 연속적인 점막 발적, 혈관 패턴 소실, 다수의 궤양, 자발 출혈이 관찰되었고, 병변은 S상결장 근위부에서 정상 점막과 명확한 경계를 보였다. 조직검사에서 만성 활동성 염증과 음와 농양이 확인되었다. 이 환자에게 가장 적합한 초기 치료는?",
+  "exam": "혈액 검사: Hb 10.5 g/dL, WBC 12,500/μL, 혈소판 450,000/μL, ESR 55 mm/h, CRP 4.2 mg/dL, 알부민 3.0 g/dL\n대변 검사: 잠혈 양성, 백혈구 양성, C. difficile 독소 음성, 병원성 세균 배양 음성\n복부 CT: 직장 및 S상결장 벽의 비후, 주변 지방층 침윤",
+  "options": {
+    "A": "5-ASA 경구 및 좌약 투여",
+    "B": "스테로이드 정맥 투여와 5-ASA 병용",
+    "C": "항생제(ciprofloxacin과 metronidazole) 조합 투여",
+    "D": "장기능 개선제와 지사제 투여",
+    "E": "Anti-TNF 생물학적 제제(infliximab) 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 궤양성 대장염(ulcerative colitis, UC)의 중등도-중증 활성 상태로 진단할 수 있다. 임상 양상으로는 1) 혈성 설사와 점액, 2) 좌하복부 통증, 3) 직장 침범을 시사하는 급박변의와 잔변감, 4) 체중 감소와 발열과 같은 전신 증상, 5) 관절염, 포도막염 등의 장외 증상이 있다. 대장내시경에서 직장부터 S상결장까지 연속적인 염증과 궤양이 관찰되고, 병변이 정상 점막과 명확한 경계를 보이는 점도 UC에 합당하다. 혈액 검사에서 빈혈, 백혈구 증가, ESR/CRP 상승도 활동성 염증을 시사한다. 이 환자는 중등도-중증의 UC로, 하루 6-8회의 혈변, 발열, 빈혈, 체중 감소, 알부민 저하 등의 소견을 보인다. UC의 중등도-중증 활성 상태에서는 관해 유도를 위해 스테로이드 정맥 투여와 5-ASA 병용 요법이 가장 적합하다. 스테로이드는 급성 염증을 빠르게 억제하며, 5-ASA는 점막 치유와 유지 요법에 효과적이다. 5-ASA 단독 요법은 경증-중등도의 UC에 적합하며, 이 환자와 같은 중증 환자에서는 효과가 제한적이다. 항생제(ciprofloxacin과 metronidazole) 조합은 크론병의 누공이나 항문 주위 질환, 또는 UC의 급성 악화 시 이차 감염이 의심되는 경우에 부가적으로 사용될 수 있으나, UC의 일차 치료로는 적합하지 않다. 장기능 개선제와 지사제는 증상 완화에는 도움이 될 수 있으나, 기저 염증을 치료하지 못하므로 UC의 치료로는 부적절하다. Anti-TNF 생물학적 제제(infliximab)는 스테로이드 저항성 또는 의존성 UC에서 고려되며, 초기 치료보다는 스테로이드 치료에 반응하지 않는 경우의 구제 요법으로 더 적합하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Ulcerative colitis (UC) is an idiopathic inflammatory bowel disease characterized by continuous inflammation of the colonic mucosa, which almost always involves the rectum and may extend proximally in a continuous fashion. Clinical presentation typically includes bloody diarrhea, rectal urgency, tenesmus, and abdominal pain. Extraintestinal manifestations may include arthritis, uveitis, erythema nodosum, and primary sclerosing cholangitis. Disease severity is classified as mild, moderate, or severe based on the number of stools per day, presence of blood in stool, fever, tachycardia, anemia, and ESR or CRP elevation. Treatment of moderate to severe UC includes induction therapy with corticosteroids and 5-aminosalicylates (5-ASA). Systemic corticosteroids are the mainstay of treatment for moderate to severe UC, with intravenous therapy reserved for severe or fulminant disease. 5-ASA agents are effective for mild to moderate disease and for maintenance therapy, but are less effective as monotherapy for moderate to severe disease. Biological agents, such as infliximab, are generally reserved for patients who are refractory to or dependent on corticosteroids.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 13,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 3개월간 지속된 연하곤란, 가슴쓰림, 식후 흉통으로 내원하였다. 환자는 특히 고형 음식을 삼킬 때 음식이 가슴 중앙에 걸리는 느낌이 든다고 호소한다. 최근에는 음식을 삼킬 때마다 통증이 있어 식사량이 줄고 체중이 감소했다고 한다. 환자는 천식으로 흡입기를 사용 중이며, 계절성 알레르기로 간헐적으로 항히스타민제를 복용한다. 가족력상 어머니가 천식, 아토피 피부염이 있다. 신체 검사에서 특이 소견은 없었다. 이 환자의 진단을 위해 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: WBC 8,500/μL(호산구 8%), Hb 13.5 g/dL, 혈소판 280,000/μL, 총 IgE 350 IU/mL (정상: <100 IU/mL)\n흉부 X-선: 정상\n위식도역류질환에 대한 경험적 PPI 치료: 부분적 반응만 있음",
+  "options": {
+    "A": "바륨 식도조영술",
+    "B": "식도내압검사",
+    "C": "상부위장관내시경 검사와 식도 조직검사",
+    "D": "24시간 식도 pH 모니터링",
+    "E": "식도 임피던스 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 호산구성 식도염(eosinophilic esophagitis, EoE)이 강력히 의심되는 임상양상을 보이고 있다. EoE의 특징적인 증상으로는 1) 고형 음식에 대한 연하곤란(dysphagia), 2) 음식 막힘(food impaction), 3) 흉통, 4) PPI에 불완전하게 반응하는 가슴쓰림이 있다. 또한 이 환자는 EoE와 연관된 위험 요인으로 천식, 알레르기, 아토피 가족력을 가지고 있다. 혈액 검사에서 경미한 호산구 증가(8%)와 총 IgE 상승도 알레르기 소인을 시사한다. EoE의 확진을 위해서는 상부위장관내시경 검사를 통한 식도 조직검사가 필수적이다. 내시경에서는 종종 종적 주름, 백색 삼출물, 원형 주름, 협착 등이 관찰될 수 있으며, 조직검사에서 고배율 시야당 15개 이상의 호산구 침윤이 확인되면 진단이 확립된다. 바륨 식도조영술은 식도 협착이나 고리, 좁아진 식도 등의 구조적 이상을 평가하는 데 도움이 될 수 있으나, 확진을 위해서는 조직검사가 필요하다. 식도내압검사는 식도 운동 장애(아칼라지아, 미만성 식도경련 등)를 평가하는 데 유용하나, 이 환자의 증상과 임상 특성은 운동 장애보다 EoE를 더 시사한다. 24시간 식도 pH 모니터링은 위식도역류질환(GERD)의 평가에 유용하나, 이 환자는 이미 PPI에 부분적 반응만 있었고, 알레르기 병력과 증상이 GERD보다 EoE에 더 합당하다. 식도 임피던스 검사는 산성 및 비산성 역류를 평가하는 데 유용하나, 이 환자의 임상 양상은 EoE를 더 시사하므로 일차적으로는 내시경과 조직검사가 필요하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Eosinophilic esophagitis (EoE) is a chronic, immune-mediated esophageal disease characterized clinically by symptoms of esophageal dysfunction and histologically by eosinophil-predominant inflammation. The most common presenting symptoms in adults are dysphagia for solids, food impaction, and chest pain or heartburn that may be unresponsive to proton pump inhibitors. EoE is more common in males and often associated with atopic disorders such as asthma, allergic rhinitis, and eczema. The diagnosis requires upper endoscopy with esophageal biopsies showing ≥15 eosinophils per high-power field, and exclusion of other causes of esophageal eosinophilia, particularly gastroesophageal reflux disease (GERD). Endoscopic findings may include linear furrows, white exudates, concentric rings, strictures, and a small-caliber esophagus, though the esophagus may appear normal in up to 10% of cases. Treatment options include dietary elimination of food triggers, topical corticosteroids, and endoscopic dilation for strictures.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 14,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "58세 여성이 6개월간 지속된 식후 복부 팽만감, 오심, 조기 포만감으로 내원하였다. 환자는 식사 후 즉시 배가 불러지고 팽만감이 심해져 소량만 먹을 수 있다고 한다. 또한 식후 구역감이 심해지고 가끔 구토를 한다고 호소한다. 증상은 지방이 많거나 섬유질이 많은 음식을 먹을 때 더 심해진다고 한다. 환자는 지난 6개월간 7kg의 체중 감소가 있었으며, 최근에는 식사 후 간헐적인 복통도 호소한다. 과거력상 15년 전 당뇨병을 진단받았으며, 현재 인슐린으로 혈당 조절 중이다. 당뇨병성 망막병증과 신경병증으로 추적 관찰 중이다. 신체 검사에서 상복부 팽만이 관찰되었으나, 압통이나 종괴는 없었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 공복 혈당 145 mg/dL, HbA1c 8.2%, 전해질 정상 범위\n상부위장관내시경: 위내 음식물 저류, 구조적 폐쇄 소견 없음\n위배출 신티그래피: 4시간 후 고형 음식 잔류 65%(정상: <10%)",
+  "options": {
+    "A": "기능성 소화불량",
+    "B": "위마비(gastroparesis)",
+    "C": "위출구 폐쇄",
+    "D": "과민성 장증후군",
+    "E": "만성 담낭염"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 당뇨병성 위마비(diabetic gastroparesis)의 전형적인 임상양상을 보이고 있다. 위마비의 특징적인 증상으로는 1) 식후 조기 포만감, 2) 복부 팽만감, 3) 오심과 구토, 4) 상복부 통증, 5) 체중 감소가 있다. 이 환자는 15년의 장기간 당뇨병 병력이 있으며, 당뇨병성 망막병증과 신경병증도 동반되어 있어 당뇨병성 미세혈관 합병증이 진행된 상태임을 알 수 있다. 혈당 조절도 불량한 상태(HbA1c 8.2%)로, 이는 위마비를 악화시킬 수 있다. 결정적으로 위배출 신티그래피에서 4시간 후 65%의 음식물 저류가 확인되었는데, 이는 심한 위배출 지연을 의미한다(정상은 4시간 후 10% 미만). 또한 상부위장관내시경에서 위내 음식물 저류가 관찰되었으나 구조적 폐쇄는 없어, 기능적 위배출 장애인 위마비를 진단할 수 있다. 기능성 소화불량은 유사한 증상을 보일 수 있으나, 객관적인 위배출 지연이 없고, 이 환자와 같이 장기간의 당뇨병과 당뇨병성 합병증이 있는 경우에는 위마비를 우선 고려해야 한다. 위출구 폐쇄는 구토, 복부 팽만, 체중 감소를 유발할 수 있으나, 내시경에서 구조적 폐쇄가 없는 것으로 확인되었다. 과민성 장증후군은 주로 복통과 배변 습관의 변화(설사, 변비)를 특징으로 하며, 위배출 지연이나 구토 등의 상부위장관 증상이 주된 증상은 아니다. 만성 담낭염은 주로 우상복부 통증을 유발하며, 식후 오심이나 구토가 있을 수 있으나, 이 환자의 위배출 검사 결과로는 설명할 수 없다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Gastroparesis is a syndrome of delayed gastric emptying in the absence of mechanical obstruction. The most common symptoms include early satiety, nausea, vomiting, bloating, and upper abdominal pain. Diabetes mellitus is the most commonly recognized systemic disease causing gastroparesis, accounting for about one-third of cases. Diabetic gastroparesis typically occurs in patients with long-standing diabetes and other manifestations of diabetic autonomic neuropathy, such as peripheral or cardiovascular autonomic neuropathy. Poor glycemic control can both cause and result from gastroparesis, creating a vicious cycle. The diagnosis of gastroparesis is confirmed by demonstrating delayed gastric emptying in the absence of mechanical obstruction. Scintigraphy is the gold standard for measuring gastric emptying; retention of more than 10% of a solid meal after 4 hours is considered abnormal. Upper endoscopy is performed to exclude mechanical obstruction and other mucosal abnormalities. Management includes dietary modifications (small, frequent meals low in fat and fiber), optimization of glycemic control in diabetic patients, and prokinetic agents such as metoclopramide or erythromycin.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 15,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "75세 남성이 식후 30분에 발생하는 심한 복통으로 응급실에 내원하였다. 환자는 3일 전부터 식사 후마다 배꼽 주위와 상복부에 심한 통증이 발생하며, 통증이 있는 동안은 음식 섭취를 피하게 된다고 한다. 통증은 수 시간 지속되다가 저절로 호전되는 양상이다. 환자는 또한 식후 구역감과 구토를 호소하며, 지난 3일간 3kg의 체중 감소가 있었다고 한다. 과거력상 만성 심방세동으로 와파린을 복용 중이며, 관상동맥질환으로 관상동맥우회술을 받은 적이 있다. 고혈압, 고지혈증도 있어 약물 치료 중이다. 신체 검사에서 혈압 150/90 mmHg, 맥박 불규칙하게 110회/분, 체온 37.8°C였다. 복부 진찰에서 배꼽 주위와 상복부에 중등도의 압통이 있었으나, 반발통은 명확하지 않았다. 장음은 감소되어 있었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: WBC 14,500/μL, Hb 14.0 g/dL, 혈소판 280,000/μL, 아밀라아제 90 U/L, 리파아제 75 U/L, 젖산 3.5 mmol/L (정상: <2.0 mmol/L), INR 2.8\n복부 X-선: 소장 내 약간의 공기-액체층, 유리 가스 없음",
+  "options": {
+    "A": "복부 초음파",
+    "B": "상부위장관내시경",
+    "C": "조영증강 복부 CT",
+    "D": "MRCP(magnetic resonance cholangiopancreatography)",
+    "E": "위배출 신티그래피"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 장간막 허혈(mesenteric ischemia)이 강력히 의심되는 임상양상을 보이고 있다. 장간막 허혈을 시사하는 특징으로는 1) 고령, 2) 식후 발생하는 심한 복통(장간막 허혈의 특징적인 증상), 3) 구역과 구토, 4) 비례하지 않는 통증(physical examination에 비해 심한 통증), 5) 심혈관 위험 요인의 존재(심방세동, 관상동맥질환, 고혈압, 고지혈증)가 있다. 특히 심방세동은 색전성 장간막 허혈의 중요한 위험 인자이다. 또한 과응고 상태(INR 2.8)도 혈전 형성의 위험을 증가시킨다. 혈액 검사에서 백혈구 증가와 젖산 상승은 장 조직의 허혈과 염증을 시사한다. 이러한 환자에게 가장 적절한 다음 검사는 조영증강 복부 CT이다. CT 혈관조영술은 장간막 허혈의 진단에 가장 민감하고 특이적인 비침습적 검사로, 장간막 혈관의 폐쇄나 협착뿐만 아니라 장벽의 변화(벽 비후, 장 확장, 공기 주입, 조영증강 패턴의 변화)도 확인할 수 있다. 복부 초음파는 담낭염이나 담석과 같은 담도계 질환의 평가에 유용하나, 장간막 혈관과 장 점막의 평가에는 제한적이다. 상부위장관내시경은 위나 십이지장의 점막 이상을 직접 관찰할 수 있으나, 장간막 허혈의 평가에는 제한적이며, 내시경 시행 자체가 장 천공의 위험을 증가시킬 수 있다. MRCP는 췌담도계 질환의 평가에 유용하나, 장간막 혈관이나 장 점막의 평가에는 적합하지 않다. 위배출 신티그래피는 위배출 지연을 평가하는 검사로, 장간막 허혈의 진단에는 적합하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Mesenteric ischemia results from insufficient blood flow to the small intestine and/or colon. Acute mesenteric ischemia (AMI) can be caused by arterial embolism, arterial thrombosis, non-occlusive mesenteric ischemia, or mesenteric venous thrombosis. Chronic mesenteric ischemia typically presents with postprandial abdominal pain (\"intestinal angina\"), food aversion, and weight loss. Risk factors include advanced age, atrial fibrillation, recent myocardial infarction, valvular heart disease, and hypercoagulable states. The classic clinical presentation of AMI is severe abdominal pain out of proportion to physical findings. Laboratory abnormalities may include leukocytosis, metabolic acidosis, and elevated serum lactate, though these findings are nonspecific. Multidetector computed tomography (CT) angiography is the diagnostic test of choice, with a sensitivity exceeding 90% for the diagnosis of AMI. CT findings may include arterial occlusion, bowel wall thickening or thinning, pneumatosis intestinalis, portal venous gas, and lack of bowel wall enhancement.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 16,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "38세 여성이 6개월간 지속된 복통, 설사, 체중 감소로 내원하였다. 환자는 특히 식사 후 심해지는 하복부 경련성 통증과 하루 4-5회의 수양성 설사를 호소한다. 식사 후 복부 팽만감이 심해지고, 지난 6개월간 8kg의 체중 감소가 있었다고 한다. 환자는 또한 지속적인 피로감과 손발 저림, 근력 약화를 호소한다. 최근 피부에 가려움증을 동반한 수포성 발진이 생겼다고 한다. 과거력상 1형 당뇨병으로 인슐린 치료 중이며, 갑상선기능저하증으로 레보티록신을 복용 중이다. 가족력상 아버지가 1형 당뇨병이 있고, 언니가 자가면역 갑상선염이 있다. 신체 검사에서 BMI 18.5 kg/m², 복부 팽만, 하복부 압통이 관찰되었고, 팔과 다리의 근력이 경미하게 감소되어 있었다. 양측 팔꿈치 신전면과 무릎에 수포성 발진이 관찰되었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: Hb 10.8 g/dL, MCV 75 fL, 페리틴 10 ng/mL, 알부민 3.2 g/dL, 칼슘 8.1 mg/dL, 비타민 B12 180 pg/mL (정상: 200-900 pg/mL), 엽산 2.5 ng/mL (정상: >3 ng/mL)\n조직트랜스글루타미나제 IgA 항체(tTG-IgA): 120 U/mL (정상: <10 U/mL)\n대변 지방 검사: 양성",
+  "options": {
+    "A": "크론병",
+    "B": "궤양성 대장염",
+    "C": "셀리악병(celiac disease)",
+    "D": "현미경적 대장염",
+    "E": "과민성 장증후군"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 셀리악병(celiac disease)의 전형적인 임상양상을 보이고 있다. 셀리악병의 특징적인 증상과 징후로는 1) 만성 설사, 2) 복통과 복부 팽만감, 3) 체중 감소, 4) 흡수장애로 인한 영양소 결핍(철결핍성 빈혈, 비타민 B12와 엽산 결핍, 칼슘 저하), 5) 피부 증상(포진상 피부염, dermatitis herpetiformis)이 있다. 이 환자는 또한 셀리악병과 관련된 자가면역질환(1형 당뇨병, 갑상선기능저하증)을 가지고 있으며, 가족력상 자가면역질환이 있는 점도 셀리악병의 위험을 증가시킨다. 혈액 검사에서 조직트랜스글루타미나제 IgA 항체(tTG-IgA)가 현저히 상승되어 있어 셀리악병을 강력히 시사한다. 또한 철결핍성 빈혈(Hb 10.8 g/dL, MCV 75 fL, 페리틴 10 ng/mL)과 비타민 B12, 엽산 결핍이 관찰되는데, 이는 소장에서의 영양소 흡수장애를 시사한다. 대변 지방 검사 양성은 지방 흡수장애(malabsorption)를 확인해준다. 크론병은 설사와 복통을 유발할 수 있으나, 일반적으로 혈변이나 점액변이 더 흔하고, 항체 검사나 피부 병변이 이 환자와 일치하지 않는다. 궤양성 대장염은 주로 혈성 설사와 직장 침범을 특징으로 하며, 소장 흡수장애는 일반적이지 않다. 현미경적 대장염은 수양성 설사를 유발할 수 있으나, 이 환자의 심한 영양소 결핍과 피부 병변을 설명하지 못한다. 과민성 장증후군은 기질적 이상이 없는 기능성 장질환으로, 이 환자의 심한 체중 감소, 영양소 결핍, 피부 병변, tTG-IgA 항체 상승 등을 설명할 수 없다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Celiac disease (CD) is an immune-mediated enteropathy triggered by the ingestion of gluten-containing grains (wheat, barley, and rye) in genetically susceptible individuals. The classic presentation includes chronic diarrhea, abdominal pain, and weight loss due to malabsorption. However, many patients present with non-gastrointestinal manifestations such as iron-deficiency anemia, osteoporosis, dermatitis herpetiformis, or neurologic symptoms. CD is associated with other autoimmune disorders, including type 1 diabetes mellitus and autoimmune thyroid disease. The diagnosis is based on serologic testing, with tissue transglutaminase (tTG) IgA antibody being the single most efficient serologic test. Small intestinal biopsy showing villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes confirms the diagnosis. Dermatitis herpetiformis, a blistering skin condition characterized by IgA deposits in the skin, is considered a cutaneous manifestation of CD. The treatment of CD is a strict, lifelong gluten-free diet, which results in symptomatic, serologic, and histologic improvement in most patients.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 17,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "48세 남성이 2일 전부터 시작된 심한 상복부 통증, 구토, 발열로 응급실에 내원하였다. 환자는 1주일 전 과음 후 비슷한 통증이 있었으나 24시간 내에 호전되었다고 한다. 이번 통증은 상복부에서 시작하여 등으로 방사되며, 구토해도 완화되지 않는다고 한다. 환자는 지난 2일간 음식물 섭취를 하지 못했고, 소변량이 감소했다고 한다. 과거력상 고혈압, 고지혈증으로 약물 치료 중이며, 15년간 주 3-4회, 회당 소주 1병 정도의 음주력이 있다. 신체 검사에서 체온 38.5°C, 혈압 100/60 mmHg, 맥박 110회/분으로 측정되었다. 상복부에 심한 압통과 반발통이 있었고, 장음은 감소되어 있었다. 환자는 전신 쇠약감을 보이며, 발한과 빈맥이 관찰되었다. 이 환자에게 가장 적합한 초기 치료 계획은?",
+  "exam": "혈액 검사: WBC 16,500/μL, Hb 16.5 g/dL, 혈소판 95,000/μL, 아밀라아제 1,500 U/L, 리파아제 2,000 U/L, 크레아티닌 2.1 mg/dL, BUN 48 mg/dL, 칼슘 7.5 mg/dL, 중성지방 380 mg/dL, AST 120 U/L, ALT 85 U/L, LDH 450 U/L, CRP 15 mg/dL\n동맥혈 가스 분석: pH 7.32, HCO3- 18 mEq/L\n복부 CT: 췌장의 미만성 종대와 주변 지방층 침윤, 복수, 양측 흉수, 췌장 주변 체액 저류",
+  "options": {
+    "A": "경구 식이 시작과 진통제 투여",
+    "B": "비경구 영양(TPN) 공급과 예방적 항생제 투여",
+    "C": "ERCP를 통한 담석 제거",
+    "D": "적극적인 수액 소생술, 통증 조절, 집중 치료실 입원",
+    "E": "즉각적인 복강경 담낭절제술"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 중증 급성 췌장염(severe acute pancreatitis)의 임상양상을 보이고 있다. 급성 췌장염의 진단은 다음 세 가지 중 두 가지 이상이 충족될 때 가능하다: 1) 췌장염에 합당한 복통, 2) 혈청 아밀라아제나 리파아제가 정상 상한치의 3배 이상 상승, 3) 췌장염에 합당한 영상 소견. 이 환자는 세 가지 기준을 모두 충족한다. 또한 이 환자는 여러 중증도 지표를 보이고 있다: 1) 혈역학적 불안정(혈압 100/60 mmHg, 맥박 110회/분), 2) 급성 신손상(크레아티닌 2.1 mg/dL), 3) 호흡기 손상 징후(흉수), 4) 혈소판 감소증, 5) 대사성 산증, 6) 저칼슘혈증, 7) CT에서 췌장 주변 체액 저류와 복수. 이러한 소견들은 전신 염증 반응 증후군(SIRS)과 초기 장기 부전을 시사하며, 중증 급성 췌장염으로 진행할 위험이 높다. 중증 급성 췌장염의 초기 치료 원칙은 1) 적극적인 수액 소생술(첫 24시간 내 5-10L 정도의 균형 전해질 용액), 2) 적절한 통증 조절, 3) 영양 지원(초기에는 금식 유지), 4) 합병증 감시를 위한 집중 치료실 입원이다. 경구 식이 시작과 진통제 투여는 경증 췌장염에서 고려할 수 있으나, 이 환자는 중증 췌장염으로 금식 유지가 필요하다. 비경구 영양(TPN)과 예방적 항생제 투여는 과거에는 일반적이었으나, 현재는 초기 치료로 권장되지 않는다. 특히 예방적 항생제는 감염성 괴사성 췌장염이 확인되지 않은 상태에서는 일반적으로 권장되지 않으며, 영양 공급이 필요한 경우에는 TPN보다는 경장 영양(enteral nutrition)이 선호된다. ERCP를 통한 담석 제거는 담석성 췌장염에서 담관염이 동반되거나 지속적인 담관 폐쇄가 있을 때 시행되나, 이 환자는 알코올성 췌장염이 의심되며, 담관 폐쇄 소견이 언급되지 않았다. 즉각적인 복강경 담낭절제술은 담석성 췌장염에서 고려될 수 있으나, 일반적으로 급성기가 지난 후 시행되며, 이 환자는 알코올성 췌장염이 더 가능성이 높다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Acute pancreatitis is an acute inflammatory process of the pancreas that can range in severity from mild, self-limiting disease to severe disease with a mortality rate of 10-30%. Initial management of severe acute pancreatitis should focus on hemodynamic stabilization, pain control, and prevention of systemic complications. Aggressive fluid resuscitation is crucial in the first 24-48 hours, with the goal of maintaining adequate tissue perfusion and preventing pancreatic necrosis. Crystalloid solutions (lactated Ringer's) are preferred, and the rate of administration should be adjusted based on the patient's clinical status, with a typical initial goal of 5-10 L in the first 24 hours. Patients with severe acute pancreatitis should be admitted to an intensive care unit for close monitoring and support of organ dysfunction. Nutritional support should be considered early, with enteral feeding preferred over parenteral nutrition when possible. Prophylactic antibiotics are not recommended in the absence of documented infection. Treatment of the underlying cause, such as ERCP for gallstone pancreatitis with cholangitis or persistent biliary obstruction, should be undertaken when appropriate.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 18,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "52세 여성이 3개월간 지속된 간헐적인 상복부 불편감, 조기 포만감, 식후 팽만감을 주소로 내원하였다. 환자는 식사와 관련 없이 상복부에 둔한 통증이 있으며, 간헐적인 구역감이 있으나 구토는 없다고 한다. 최근 1개월간 2kg의 체중 감소가 있었으며, 식욕이 감소했다고 한다. 과거력상 고혈압, 고지혈증으로 아스피린(100mg/일), 로사르탄, 심바스타틴을 복용 중이다. 또한 6개월 전 류마티스 관절염을 진단받았으나 처방된 메토트렉세이트를 불규칙하게 복용하였고, 관절통이 심할 때는 처방 없이 여러 종류의 진통제를 구입하여 복용했다고 한다. 관절염이 심할 때는 이부프로펜을 기본으로 복용하며, 통증이 심할 때는 디클로페낙도 함께 복용한다고 한다. 환자는 또한 소화를 돕기 위해 시판되는 건강 보조 식품을 복용 중이며, 스트레스가 많을 때 음주량이 증가하는 경향이 있다고 한다. 1개월 전 개인 의원에서 소화불량으로 제산제와 PPI를 처방받아 복용했으나 일시적인 호전 후 다시 증상이 악화되었다. 신체 검사에서 상복부에 경미한 압통이 있었으나, 반발통이나 종괴는 없었다. 이 환자의 상복부 증상의 가장 가능성 높은 원인은?",
+  "exam": "혈액 검사: Hb 11.8 g/dL, MCV 84 fL, 혈소판 250,000/μL, WBC 6,800/μL, AST 35 U/L, ALT 32 U/L, 크레아티닌 0.9 mg/dL\n상부위장관내시경: 위 전정부에 다발성 발적과 표재성 미란, 위체부에 경미한 발적, 십이지장 구부에 작은 표재성 미란\n위 조직검사: 만성 활동성 위염, H. pylori 검사 약양성(1+)\n요소호기검사(Urea breath test): 음성",
+  "options": {
+    "A": "헬리코박터 파일로리 위염",
+    "B": "기능성 소화불량",
+    "C": "위식도역류질환",
+    "D": "약물 유발성 위염",
+    "E": "초기 위암"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 약물 유발성 위염(drug-induced gastritis)이 가장 가능성이 높은 원인이다. 환자의 증상과 내시경 소견을 종합적으로 평가할 때, 여러 약물 복용력이 가장 중요한 요인으로 작용한다. 이 환자는 1) 저용량 아스피린 지속 복용, 2) 불규칙한 NSAIDs(이부프로펜, 디클로페낙) 복용, 3) 메토트렉세이트 간헐적 복용, 4) 건강 보조 식품 복용, 5) 간헐적 음주력 등 위점막에 손상을 줄 수 있는 여러 요인을 가지고 있다. 특히 NSAIDs와 아스피린의 병용은 위점막 손상 위험을 상당히 증가시킨다. NSAIDs는 프로스타글란딘 합성을 억제하여 위 점막 방어 기전을 약화시키고, 저용량 아스피린도 장기간 사용 시 위점막 손상을 유발할 수 있다. 메토트렉세이트도 위장관 점막에 직접적인 자극을 줄 수 있다. 내시경 소견에서 위 전정부의 다발성 발적과 표재성 미란, 십이지장 구부의 미란은 약물에 의한 점막 손상과 일치한다. H. pylori 검사 결과가 조직검사에서 약양성(1+)이나 요소호기검사에서 음성인 것은 위음성일 가능성이 있으나, 활동성 H. pylori 감염을 적극적으로 시사하는 소견은 아니다. 헬리코박터 파일로리 위염의 경우 조직검사와 요소호기검사 모두에서 양성 소견이 있어야 하며, 이 환자의 약양성 결과는 과거 감염의 흔적이거나 위양성일 가능성이 있다. 기능성 소화불량은 내시경에서 특이 소견이 없을 때 고려되나, 이 환자는 다발성 미란이 관찰된다. 또한 약물 유발성 증상의 가능성이 높을 때는 먼저 약물 관련성을 평가해야 한다. 위식도역류질환은 주로 가슴쓰림(heartburn)과 산역류(acid regurgitation)가 특징이나, 이 환자의 주 증상은 상복부 불편감과 식후 팽만감이다. 초기 위암은 비특이적 증상을 보일 수 있으나, 내시경에서 종괴나 궤양이 관찰되지 않고 조직검사에서도 악성 소견이 없으므로 가능성이 낮다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Multiple medications can cause gastroduodenal injury through various mechanisms. Nonsteroidal anti-inflammatory drugs (NSAIDs) are among the most common causes of drug-induced gastritis and peptic ulcer disease, primarily through inhibition of prostaglandin synthesis, which reduces mucosal defense mechanisms. Low-dose aspirin (75-325 mg daily), commonly used for cardiovascular prophylaxis, can also cause significant gastroduodenal injury, particularly with long-term use. The risk of gastroduodenal injury is increased when multiple NSAIDs are used concurrently, or when NSAIDs are combined with other medications such as corticosteroids, anticoagulants, or selective serotonin reuptake inhibitors. Other medications associated with gastroduodenal injury include bisphosphonates, potassium chloride, iron supplements, and certain chemotherapeutic agents. Endoscopic findings in drug-induced gastritis may include erythema, erosions, subepithelial hemorrhages, and occasionally ulcerations, most commonly in the antrum and prepyloric region. Management includes discontinuation or dose reduction of the offending agent when possible, acid suppression with proton pump inhibitors, and consideration of prophylactic therapy for high-risk patients who require continued treatment with gastrotoxic medications.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 19,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 3년 이상 지속된 만성 변비와 복통으로 내원하였다. 환자는 일주일에 1-2회 단단하고 덩어리진 대변을 배출하며, 종종 복부 불편감과 팽만감이 동반된다고 한다. 배변 시 심한 힘주기가 필요하며, 때로는 손가락으로 대변을 제거해야 한다고 호소한다. 복통은 주로 좌하복부에 있으며, 변비가 심할 때 악화되고 배변 후 일시적으로 완화된다. 환자는 여러 종류의 완하제와 식이섬유 보충제를 시도했으나 효과가 제한적이었다고 한다. 과거력상 제왕절개로 2회 출산했으며, 특별한 약물 복용력은 없다. 신체 검사에서 복부 팽만, 좌하복부 압통이 있었고, 직장 수지 검사에서 직장 내 단단한 대변이 촉지되었다. 다음 중 이 환자에게 가장 적절한 진단적 검사는?",
+  "exam": "혈액 검사: Hb 12.5 g/dL, TSH 2.5 mIU/L, 칼슘 9.2 mg/dL, 그 외 전해질과 간기능 검사 정상\n직장 내시경: 특이 소견 없음\n대변 검사: 잠혈 음성, 백혈구 음성",
+  "options": {
+    "A": "대장내시경",
+    "B": "바륨 관장 검사",
+    "C": "대장 통과 시간 검사(colonic transit study)",
+    "D": "항문직장 내압검사(anorectal manometry)",
+    "E": "MR 배변조영술(MR defecography)"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 배변장애형 변비(defecatory disorder)가 의심되는 임상양상을 보이고 있다. 배변장애형 변비의 특징적인 증상으로는 1) 배변 시 과도한 힘주기, 2) 불완전 배변감, 3) 직장 막힘 느낌, 4) 손가락으로 대변 제거(디지털 배변, digital evacuation)가 필요함 등이 있다. 이러한 배변장애는 골반저 근육의 협응 장애나 구조적 문제(직장류, 직장 탈출증, 직장-항문 중첩증 등)로 인해 발생할 수 있다. 이 환자는 젊은 여성으로 2회의 제왕절개 출산력이 있는데, 이는 골반저 기능 이상의 위험 요인이 될 수 있다. MR 배변조영술(MR defecography)은 배변 과정 동안 골반저 및 항문직장 구조의 해부학적, 기능적 이상을 평가하는 데 가장 유용한 검사이다. 이 검사를 통해 직장류, 직장 탈출증, 직장-항문 중첩증, 골반저 하강 등의 구조적 이상과 배변 중 골반저 근육의 부적절한 이완이나 수축과 같은 기능적 이상을 확인할 수 있다. 대장내시경은 대장 내 구조적 이상(종양, 협착, 염증 등)을 확인하는 데 유용하나, 골반저 기능 이상의 평가에는 제한적이다. 바륨 관장 검사도 대장의 구조적 이상을 평가하는 데 도움이 될 수 있으나, 골반저 기능을 동적으로 평가하기는 어렵다. 대장 통과 시간 검사는 서행성 변비(slow-transit constipation)의 진단에 유용하나, 이 환자의 주된 증상은 배변장애를 시사한다. 항문직장 내압검사는 배변 중 항문괄약근과 직장 압력을 측정하여 배변장애를 평가하는 데 도움이 되나, MR 배변조영술에 비해 구조적 이상의 평가가 제한적이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Defecatory disorders are a common cause of chronic constipation, characterized by difficulty with evacuation of stool from the rectum due to functional or structural abnormalities of the anorectum and pelvic floor. Symptoms include excessive straining, a sensation of incomplete evacuation, a feeling of anorectal blockage, and the need for digital maneuvers to facilitate defecation. Risk factors include prior childbirth, pelvic surgery, and trauma. Magnetic resonance (MR) defecography is a valuable diagnostic tool that allows visualization of the anorectum and pelvic floor during the defecation process. It can identify structural abnormalities such as rectocele, rectal prolapse, rectal intussusception, and pelvic floor descent, as well as functional disorders such as paradoxical contraction or inadequate relaxation of the pelvic floor muscles during defecation. Other diagnostic tests include anorectal manometry, which measures pressures and coordination of the anal sphincters and rectum during defecation, and balloon expulsion testing, which assesses the ability to evacuate a simulated stool. Treatment options include biofeedback therapy, which retrains the pelvic floor muscles to coordinate properly during defecation, and in selected cases, surgical correction of structural abnormalities.'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 20,
+  "chief complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "60세 남성이 6개월간 지속된 음식 삼킴 곤란으로 내원하였다. 환자는 처음에는 고형 음식을 삼킬 때 불편함이 있었으나, 최근에는 유동식을 삼킬 때도 어려움을 느끼고 삼킬 때마다 흉골 뒤쪽에 통증이 있다고 한다. 음식물이 내려가지 않는 느낌이 들어 식사량이 감소했으며, 지난 6개월간 10kg의 체중 감소가 있었다고 한다. 또한 식사 중 기침이 잦아지고, 때로는 음식물이 역류되어 구강으로 다시 올라온다고 호소한다. 과거력상 20년 이상의 흡연력(하루 1갑)과 주 3회 이상 음주력이 있으며, 만성 위식도역류질환으로 장기간 PPI를 복용해왔다. 가족력상 아버지가 식도암으로 사망했다. 신체 검사에서 특이 소견은 없었으나, 전반적인 체중 감소와 근육량 감소가 관찰되었다. 상부위장관내시경 검사 결과 하부 식도에 5cm 길이의 궤양성 종괴가 관찰되었고, 조직검사에서 편평세포암종이 확인되었다. 추가 병기 결정을 위한 검사에서 국소 진행성 식도암(T3N1M0, AJCC 병기 IIIA)으로 확인되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: Hb 11.5 g/dL, 알부민 3.3 g/dL, 그 외 특이 소견 없음\n흉부 CT: 식도 벽 비후와 주변 지방층 침윤, 국소 림프절 전이 소견, 원격 전이 없음\nPET-CT: 식도 종괴와 주변 림프절에 FDG 섭취 증가, 원격 전이 없음\n내시경 초음파(EUS): T3N1 병기",
+  "options": {
+    "A": "내시경적 점막하 박리술(endoscopic submucosal dissection, ESD)",
+    "B": "수술적 식도 절제술(esophagectomy)만 시행",
+    "C": "선행 항암방사선요법 후 수술(neoadjuvant chemoradiotherapy followed by surgery)",
+    "D": "완화적 방사선 치료와 증상 조절",
+    "E": "식도 스텐트 삽입과 항암 치료"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 국소 진행성 식도 편평세포암종(T3N1M0, AJCC 병기 IIIA)으로 진단되었다. 병기 IIIA는 근층을 넘어 주변 조직으로 침범(T3)하고 국소 림프절 전이(N1)가 있으나 원격 전이(M0)는 없는 상태이다. 국소 진행성 식도암(병기 II-III)의 표준 치료는 선행 항암방사선요법 후 수술적 치료이다. 선행 항암방사선요법은 종양을 축소시켜 수술 가능성을 높이고, 미세 전이를 조기에 치료하여 전체 생존율을 향상시키는 것으로 알려져 있다. 여러 무작위 대조 연구에서 수술 단독보다 선행 항암방사선요법 후 수술이 더 나은 생존율을 보였다. 내시경적 점막하 박리술(ESD)은 조기 식도암(Tis 또는 T1a, 즉 점막 내 또는 점막하층 상부에 국한된 병변)에서 고려되는 치료법으로, 이 환자와 같은 국소 진행성 식도암에는 적합하지 않다. 수술적 식도 절제술만 시행하는 것은 국소 진행성 식도암에서는 선행 항암방사선요법 없이 수술을 단독으로 시행하는 것보다 예후가 좋지 않다. 완화적 방사선 치료와 증상 조절은 절제 불가능한 진행성 식도암이나 전신 상태가 불량하여 적극적 치료가 어려운 환자에게 적합하다. 그러나 이 환자는 절제 가능한 국소 진행성 식도암으로, 적극적인 다학제적 치료의 대상이다. 식도 스텐트 삽입과 항암 치료는 절제 불가능한 진행성 식도암에서 연하 곤란을 완화하기 위한 고식적 치료로, 이 환자와 같이 치료 가능한 국소 진행성 식도암에는 일차 치료로 적합하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Esophageal cancer treatment depends on the tumor stage, patient's performance status, and comorbidities. For locally advanced esophageal cancer (stages II-III), the standard of care is a multimodality approach. Neoadjuvant chemoradiotherapy followed by surgery has become the preferred treatment strategy for locally advanced disease, based on randomized trials showing improved survival compared to surgery alone. The CROSS trial demonstrated that preoperative chemoradiotherapy (weekly carboplatin and paclitaxel with concurrent radiotherapy) followed by surgery significantly improved overall survival compared to surgery alone in patients with resectable esophageal or esophagogastric junction cancers. Pathologic complete response rates of 25-30% can be achieved with neoadjuvant chemoradiotherapy. Surgical approaches include transthoracic or transhiatal esophagectomy, with en bloc lymphadenectomy. Endoscopic resection techniques (endoscopic mucosal resection or endoscopic submucosal dissection) are appropriate only for very early cancers limited to the mucosa (Tis or T1a).'",
+  "category": "Gastroenterology"
+},
+{
+  "question_id": 1,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "8세 남아가 목 중앙 부위의 덩이를 주소로 내원하였다. 환자 어머니는 약 3개월 전 목 중앙부에 작은 덩이를 발견했으며, 최근 크기가 점차 증가하여 내원하게 되었다고 한다. 통증이나 압통은 없으며, 환아는 특별한 증상을 호소하지 않는다. 과거력상 특이사항은 없으며, 최근의 상기도 감염이나 발열 등의 병력도 없다. 신체 검사에서 갑상연골과 설골 사이의 전경부 중앙선에 약 2cm 크기의 둥글고 부드러운 종괴가 관찰되었다. 이 종괴는 피부에 유착되어 있지 않고 촉진 시 통증은 없으나, 혀를 내밀거나 삼킬 때 위아래로 움직이는 양상이 관찰되었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "초음파 검사: 전경부 중앙선에 경계가 명확한 낭성 병변이 관찰됨. 내부에 격벽이나 고형 성분은 관찰되지 않음.\n혈액 검사: 백혈구 7,200/μL, 갑상선 기능 검사 정상",
+  "options": {
+    "A": "갑상혀관낭(thyroglossal duct cyst)",
+    "B": "새열낭종(branchial cleft cyst)",
+    "C": "표피낭종(epidermal cyst)",
+    "D": "피지낭종(sebaceous cyst)",
+    "E": "림프관종(lymphangioma)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 갑상혀관낭(thyroglossal duct cyst)의 전형적인 임상양상을 보이고 있다. 갑상혀관낭은 소아 및 청소년에서 가장 흔한 선천성 경부 종괴로, 갑상혀관(embryonic thyroglossal duct)의 불완전한 퇴화로 인해 발생한다. 주요 임상 특징으로는 1) 전경부 중앙선, 특히 갑상연골과 설골 사이에 위치, 2) 무통성, 부드러운 낭성 종괴, 3) 혀를 내밀거나 삼킬 때 종괴가 위아래로 움직이는 특징적인 소견, 4) 대개 소아나 청소년기에 발견됨 등이 있다. 이 환자의 경우 8세 남아로 전경부 중앙선에 위치한 무통성 낭성 종괴가 있으며, 특히 혀를 내밀 때 종괴가 움직이는 것이 관찰되어 갑상혀관낭에 합당한 소견이다. 초음파 검사에서도 경계가 명확한 단순 낭성 병변이 확인되어 진단을 뒷받침한다. 새열낭종은 주로 전경부 측면(특히 흉쇄유돌근의 앞쪽 가장자리)에 위치하며, 중앙선에 위치하는 경우는 드물다. 표피낭종과 피지낭종은 피부 부속기에서 발생하는 양성 종양으로, 주로 피부나 피하조직에 위치하며 삼킴이나 혀 내밀기와 연관된 움직임을 보이지 않는다. 림프관종은 림프관의 발생 이상으로 인한 양성 종양으로, 종종 다낭성이며 경계가 불명확하고, 초음파에서 격벽이 있는 복잡한 낭성 병변으로 나타나는 경우가 많다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'Thyroglossal duct cysts are the most common congenital neck masses, arising from remnants of the thyroglossal duct that fails to obliterate during embryonic development. The thyroglossal duct tract extends from the foramen cecum at the base of the tongue to the thyroid gland. These cysts typically present as painless, smooth, midline neck masses that move upward with tongue protrusion or swallowing due to their attachment to the hyoid bone. Most commonly, they are located between the hyoid bone and the thyroid cartilage, although they may be found anywhere along the path of the thyroglossal duct. Diagnosis is primarily clinical, supported by ultrasound imaging which typically shows a well-defined, anechoic or hypoechoic cystic lesion. Definitive treatment involves Sistrunk procedure, which includes excision of the cyst, the central portion of the hyoid bone, and a core of tissue extending to the base of the tongue to minimize recurrence.'",
+  "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+},
+{
+  "question_id": 2,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "25세 여성이 1주일 전부터 시작된 좌측 경부의 통증성 종괴를 주소로 내원하였다. 환자는 종괴와 함께 발열, 인후통, 전신 쇠약감을 호소한다. 2주 전부터 시작된 기침, 콧물, 인후통이 있었으며, 3일 전부터 좌측 경부에 압통이 동반된 종괴가 만져져 점차 커지고 있다고 한다. 과거력상 특이사항은 없으며, 최근 약물 복용력이나 여행력도 없다. 신체 검사에서 체온 38.2°C, 좌측 경부 level II 부위에 약 3cm 크기의 압통을 동반한 부드럽고 가동성 있는 종괴가 촉지되었다. 구강 및 인두 검사에서 좌측 편도의 비대와 발적이 관찰되었다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: 백혈구 14,500/μL (호중구 75%), CRP 8.5 mg/dL, ESR 40 mm/hr",
+  "options": {
+    "A": "경부 초음파 검사",
+    "B": "경부 전산화단층촬영(CT)",
+    "C": "단순 경부 X선 검사",
+    "D": "자기공명영상(MRI)",
+    "E": "양전자방출단층촬영(PET-CT)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 급성 화농성 림프절염(acute suppurative lymphadenitis)이 의심되는 임상양상을 보이고 있다. 환자의 병력에서 최근 상기도 감염(기침, 콧물, 인후통) 후 발생한 압통을 동반한 경부 종괴, 발열, 인후통, 전신 쇠약감 등의 증상이 있으며, 신체 검사에서 좌측 편도의 비대와 발적이 관찰되는 점은 상기도 감염에 의한 이차적인 림프절 염증을 시사한다. 혈액 검사에서도 백혈구 증가와 CRP, ESR 상승이 확인되어 염증 반응을 뒷받침한다. 이러한 급성 화농성 림프절염이 의심되는 환자에게 가장 적절한 초기 검사는 경부 초음파 검사이다. 초음파 검사는 비침습적이고 방사선 노출이 없으며, 림프절의 크기, 모양, 내부 구조(괴사, 농양 형성 등)를 평가하는 데 유용하다. 또한 필요시 초음파 유도 하 세침흡인검사(fine-needle aspiration)나 농양 배액을 시행할 수 있어 진단과 치료에 도움이 된다. 경부 CT는 심경부 감염이나 복잡한 농양이 의심될 때, 또는 초음파로 충분한 평가가 어려운 경우에 고려할 수 있으나, 방사선 노출과 비용 등을 고려할 때 초기 평가로는 초음파가 더 적합하다. 단순 경부 X선 검사는 림프절 염증의 평가에 민감도와 특이도가 낮아 유용성이 제한적이다. MRI는 연부조직의 평가에 유용하나, 비용이 높고 검사 시간이 길며, 급성 화농성 림프절염의 초기 평가에는 과도한 검사이다. PET-CT는 악성 종양의 병기 결정이나 원발 불명 암의 평가에 유용하나, 이 환자와 같은 급성 염증성 병변의 초기 평가에는 적합하지 않다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Acute cervical lymphadenitis commonly results from upper respiratory tract infections, dental infections, or skin infections of the head and neck. Streptococcus pyogenes and Staphylococcus aureus are the most common bacterial pathogens. Clinical features include painful, enlarging lymph nodes, often with overlying erythema and warmth. Systemic symptoms such as fever and malaise may be present. Diagnostic evaluation should begin with a thorough history and physical examination to identify potential sources of infection. Ultrasonography is the preferred initial imaging modality for evaluating cervical lymphadenopathy, as it is noninvasive, does not involve radiation exposure, and can reliably distinguish solid from cystic lesions. It can also guide fine-needle aspiration or core biopsy if indicated. Computed tomography may be necessary if deep space infection is suspected or ultrasound evaluation is inadequate. Management typically includes antibiotics targeting the most likely pathogens, with consideration for drainage if abscess formation is identified.'",
+  "category": "Infectious Diseases"
+},
+{
+  "question_id": 3,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게 원인질환에 따른 적합한 치료 계획을 선택할 수 있다.",
+  "question": "45세 여성이 우측 전경부의 무통성 종괴를 주소로 내원하였다. 환자는 약 3개월 전 우연히 목의 종괴를 발견했으며, 크기가 점차 증가하여 내원하게 되었다고 한다. 통증이나 압통은 없으며, 연하곤란, 호흡곤란, 쉰 목소리와 같은 증상도 없다. 과거력상 특이사항은 없으나, 친언니가 갑상선암으로 치료받은 가족력이 있다. 신체 검사에서 우측 갑상선 엽에 약 2.5cm 크기의 단단하고 가동성이 제한된 결절이 촉지되었다. 경부 림프절 비대는 없었다. 갑상선 초음파 검사 결과 우측 갑상선 엽에 불규칙한 경계와 미세석회화를 동반한 저에코성 결절이 확인되었고, 초음파 유도 하 세침흡인검사에서 베데스다 분류 VI(악성)으로 유두상 갑상선암(papillary thyroid carcinoma)이 진단되었다. 경부 초음파에서 의심스러운 림프절은 관찰되지 않았다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "갑상선 기능 검사: TSH 1.5 mIU/L, Free T4 1.2 ng/dL (정상 범위)\n경부 초음파: 우측 갑상선 엽에 2.5 x 2.0 cm 크기의 불규칙한 경계와 미세석회화를 동반한 저에코성 결절, 비정상 경부 림프절은 관찰되지 않음\n세침흡인검사: 베데스다 분류 VI (악성), 유두상 갑상선암에 합당한 소견\n흉부 X선: 정상",
+  "options": {
+    "A": "우측 갑상선 엽절제술(right thyroid lobectomy)만 시행",
+    "B": "방사성 요오드 치료(radioactive iodine therapy)만 시행",
+    "C": "갑상선 전절제술(total thyroidectomy)만 시행",
+    "D": "갑상선 전절제술 및 중앙 경부 림프절 청소술(central neck dissection) 시행",
+    "E": "주기적 관찰 및 경과 관찰"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 우측 갑상선 엽에 2.5cm 크기의 유두상 갑상선암(papillary thyroid carcinoma, PTC)으로 진단되었다. 갑상선 분화암(differentiated thyroid cancer)의 치료 방침은 종양의 크기, 갑상선 외 침범 여부, 림프절 전이 여부, 원격 전이 여부, 환자의 나이, 가족력 등 여러 요소를 고려하여 결정한다. 이 환자의 경우 1) 2.5cm 크기의 종양(T2), 2) 가동성 제한이 있어 갑상선 외 침범 가능성, 3) 갑상선암의 가족력, 4) 초음파에서 불규칙한 경계와 미세석회화 같은 악성 소견이 있어 좀 더 적극적인 치료가 필요하다. 갑상선 전절제술 및 중앙 경부 림프절 청소술이 적합한 치료 방법이다. 중앙 경부 림프절(central compartment lymph nodes)은 유두상 갑상선암의 초기 전이가 가장 흔히 발생하는 부위로, 특히 1cm 이상의 종양, 갑상선 외 침범이 있는 경우, 임상적으로 림프절 전이가 의심되는 경우에는 예방적 중앙 경부 림프절 청소술을 고려한다. 우측 갑상선 엽절제술만 시행하는 것은 1cm 이하의 작은 종양, 갑상선 내에 국한된 단일 병변, 림프절 전이가 없는 저위험군에서 고려할 수 있으나, 이 환자는 2.5cm 크기와 가동성 제한 등으로 더 적극적인 치료가 필요하다. 방사성 요오드 치료만 단독으로 시행하는 것은 수술적 치료 후 보조 요법으로 사용되며, 일차 치료로는 적합하지 않다. 갑상선 전절제술만 시행하는 것은 경부 림프절 청소술을 포함하지 않아 미세 림프절 전이를 놓칠 수 있다. 주기적 관찰 및 경과 관찰은 매우 작은 미세유두암이나 고령 환자, 수술 위험이 높은 경우에 고려할 수 있으나, 이 환자는 2.5cm 크기의 악성 종양으로 확인되었기 때문에 적극적인 치료가 필요하다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'The management of papillary thyroid carcinoma depends on tumor size, extrathyroidal extension, lymph node involvement, distant metastases, patient age, and other risk factors. For tumors >2 cm, or those with extrathyroidal extension or clinical evidence of lymph node metastases, total thyroidectomy is generally recommended. Prophylactic central compartment neck dissection (level VI) should be considered for patients with papillary thyroid cancer with clinically uninvolved central neck lymph nodes, especially for advanced primary tumors (T3 or T4), as the central compartment is the most common site of regional metastasis. This approach may reduce the risk of recurrence and the need for reoperation. After total thyroidectomy, radioactive iodine ablation may be indicated for selected intermediate and high-risk patients to eliminate residual thyroid tissue and potential microscopic disease. Long-term follow-up includes periodic clinical examinations, serum thyroglobulin measurements, and neck ultrasonography.'",
+  "category": "General Surgery"
+},
+{
+  "question_id": 4,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "17세 남성이 1개월 전부터 시작된 좌측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 최근 3개월간 3kg의 체중 감소, 간헐적인 발열, 야간 발한이 있었다고 한다. 종괴는 점차 크기가 증가하였으며, 통증이나 압통은 없다고 한다. 과거력상 특이사항은 없으며, 최근 약물 복용력이나 알레르기도 없다. 신체 검사에서 좌측 경부 쇄골 상부(supraclavicular) 부위에 약 4cm 크기의 단단하고 고정된 무통성 종괴가 촉지되었다. 추가로 좌측 경부 level III, IV 부위에도 다발성 림프절 비대가 관찰되었다. 상복부 촉진 시 비장 종대가 의심되었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: Hb 11.2 g/dL, 백혈구 12,500/μL, 혈소판 480,000/μL, ESR 75 mm/hr, LDH 450 U/L (정상: 100-250 U/L)\n흉부 X선: 종격동 확장 소견\n경부 초음파: 좌측 쇄골 상부와 경부 level III, IV에 다발성의 비균질성 저에코 림프절 비대, 일부 림프절에서 문양(hilum) 소실 관찰\n조직검사(excisional biopsy): Reed-Sternberg 세포가 관찰되며, 면역조직화학 염색에서 CD15, CD30 양성, CD45 음성",
+  "options": {
+    "A": "비호지킨 림프종(non-Hodgkin lymphoma)",
+    "B": "호지킨 림프종(Hodgkin lymphoma)",
+    "C": "전이성 암종(metastatic carcinoma)",
+    "D": "결핵성 림프절염(tuberculous lymphadenitis)",
+    "E": "톡소플라스마증(toxoplasmosis)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 호지킨 림프종(Hodgkin lymphoma)의 전형적인 임상양상을 보이고 있다. 호지킨 림프종의 특징적인 임상 소견으로는 1) 무통성 림프절 비대(주로 경부, 특히 쇄골 상부 림프절), 2) B 증상(발열, 야간 발한, 체중 감소), 3) 비장 종대, 4) 종격동 확장(약 50-60%의 환자에서 관찰) 등이 있다. 이 환자는 17세 남성으로, 호지킨 림프종은 젊은 성인(15-35세)에서 첫 번째 발생 피크를 보인다. 결정적으로, 조직검사에서 Reed-Sternberg 세포가 확인되었으며, 면역조직화학 염색에서 CD15, CD30 양성, CD45 음성으로 호지킨 림프종에 합당한 소견이다. Reed-Sternberg 세포는 호지킨 림프종의 특징적인 종양 세포로, 대형의 다핵 또는 이핵성 세포로 나타난다. 비호지킨 림프종도 림프절 비대와 전신 증상을 유발할 수 있으나, Reed-Sternberg 세포는 관찰되지 않으며, 면역표현형도 다르다. 전이성 암종은 원발 종양에 따라 다양한 임상양상을 보일 수 있으나, 일반적으로 17세 연령에서는 흔하지 않으며, 조직검사 소견도 호지킨 림프종과 다르다. 결핵성 림프절염은 경부 림프절을 침범하는 경우가 많으나, 일반적으로 다발성의 압통을 동반한 림프절 비대로 나타나며, 종종 누공 형성이 동반될 수 있다. 조직학적으로 육아종성 염증과 건락성 괴사가 특징적이다. 톡소플라스마증은 일반적으로 무증상이거나 가벼운 독감 유사 증상을 동반한 경부 림프절 비대로 나타나는 경우가 많으며, 조직학적으로 반응성 여포 증식이 특징적이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Hodgkin lymphoma (HL) typically presents with painless lymphadenopathy, most commonly involving the cervical, supraclavicular, and mediastinal lymph nodes. Approximately one-third of patients present with B symptoms (unexplained fever >38°C, drenching night sweats, and weight loss >10% of body weight over 6 months). Mediastinal involvement occurs in about 60% of cases and may cause cough, chest pain, or shortness of breath. HL has a bimodal age distribution, with peaks in young adults (15-35 years) and older adults (>50 years). The hallmark of HL is the presence of Reed-Sternberg cells, which are large, multinucleated or binucleated cells with prominent nucleoli, giving them an \"owl-eyed\" appearance. Immunophenotypically, the Reed-Sternberg cells express CD15 and CD30, but typically lack CD45 (leukocyte common antigen). The diagnosis is confirmed by excisional lymph node biopsy, as fine-needle aspiration may not provide sufficient material for accurate classification.'",
+  "category": "Hematology and Oncology"
+},
+{
+  "question_id": 5,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 우측 경부의 부드러운 종괴를 주소로 내원하였다. 환자는 약 1년 전부터 종괴를 인지했으나 통증이 없고 크기 변화가 없어 방치했다가, 최근 미용상의 이유로 내원하게 되었다고 한다. 과거력상 고혈압으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 우측 경부 흉쇄유돌근 후연부에 약 3cm 크기의 부드럽고 가동성이 있는 표재성 종괴가 관찰되었다. 종괴는 피부에 유착되어 있지 않았으며, 압통이나 발적도 없었다. 종괴를 눌렀을 때 모양의 변화가 있었고(compressible), 말랑말랑한 느낌이었다. 주변 피부는 정상이었고, 촉진 시 종괴는 주변 조직과 명확하게 분리되는 느낌이었다. 이 환자의 진단을 위해 가장 적절한 검사는?",
+  "exam": "일반 혈액 검사: 정상 범위\n경부 초음파: 우측 경부에 2.8 x 2.2 cm 크기의 경계가 명확한 균질한 고에코성 종괴, 내부에 격벽이나 석회화 없음, 혈류 신호는 거의 관찰되지 않음, 주변 근육층과 혈관은 정상, 종괴는 피하지방층에 국한됨",
+  "options": {
+    "A": "초음파 유도 하 세침흡인검사",
+    "B": "절개 생검(incisional biopsy)",
+    "C": "절제 생검(excisional biopsy)",
+    "D": "경부 CT 또는 MRI",
+    "E": "PET-CT"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 지방종(lipoma)이 가장 의심되는 임상양상을 보이고 있다. 지방종의 특징적인 임상 소견으로는 1) 천천히 자라는 무통성 종괴, 2) 부드럽고 가동성이 있는 종괴, 3) 압박 시 형태 변화(compressible), 4) 명확한 경계를 가짐 등이 있다. 환자의 병력에서 1년 이상 크기 변화 없이 지속된 무통성 종괴이며, 신체 검사에서 부드럽고 가동성이 있으며 압박 시 형태 변화가 있는 점은 지방종에 합당하다. 초음파에서 경계가 명확한 균질한 고에코성 종괴로 보이며 혈류가 거의 없고, 피하지방층에 국한되어 있는 점 역시 지방종을 강력히 시사한다. 이러한 전형적인 임상 및 영상 소견을 가진 3cm 크기의 표재성 지방종에서 가장 적절한 진단 및 치료 방법은 절제 생검(excisional biopsy)이다. 지방종은 일반적으로 양성 종양으로, 특히 이 환자처럼 크기가 작고(3cm 미만), 표재성이며, 주변 주요 구조물과 명확히 분리되는 경우 완전 절제를 통해 진단과 치료를 동시에 할 수 있다. 초음파 유도 하 세침흡인검사는 지방종의 진단에는 제한적인 가치를 가진다. 지방 조직은 흡인 시 세포가 잘 얻어지지 않을 수 있으며, 세침흡인만으로는 지방종과 지방육종의 감별이 어려울 수 있다. 절개 생검은 부분적인 조직만 얻기 때문에, 종양의 불균질성을 고려할 때 진단적 가치가 제한적일 수 있다. 특히 이 환자의 종괴는 크기가 작고 표재성이며 주변 구조물과 명확히 분리되어 있어 완전 절제가 쉽게 가능하므로, 절개 생검보다는 절제 생검이 선호된다. 경부 CT나 MRI는 지방종이 깊은 구조물과 연관되어 있거나, 크기가 매우 크거나, 악성이 의심될 때 추가로 시행할 수 있으나, 이 환자와 같이 전형적인 임상 양상을 보이는 작은 표재성 지방종에서는 초기 검사로는 불필요하다. PET-CT는 악성 종양의 병기 결정이나 원발 불명 암의 평가에 유용하나, 지방종과 같은 양성 종양의 진단에는 불필요하다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'Lipomas are benign tumors composed of mature adipose tissue and are the most common soft tissue tumor. They typically present as slow-growing, painless, soft, mobile masses with well-defined margins. On physical examination, they are often compressible and may have a doughy or fluctuant consistency. Lipomas can occur anywhere in the body but are most commonly found in the subcutaneous tissues of the neck, back, and extremities. Ultrasonography typically shows a well-circumscribed, homogeneous, hyperechoic mass. While fine-needle aspiration may yield fatty material, it is often non-diagnostic and inadequate for distinguishing between lipoma and liposarcoma. The definitive diagnosis and treatment is complete surgical excision (excisional biopsy), which allows for histopathological examination to rule out liposarcoma, which can sometimes mimic lipoma clinically. Most lipomas can be removed under local anesthesia on an outpatient basis, and the recurrence rate after complete excision is low.'",
+  "category": "General Surgery"
+},
+{
+  "question_id": 6,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "22세 남성이 좌측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 약 2주 전 우연히 목의 종괴를 발견했다고 한다. 종괴는 통증이 없으며, 크기 변화는 없었다. 과거력상 특이사항은 없으며, 최근 감염 증상이나 체중 감소는 없었다. 신체 검사에서 좌측 경부 흉쇄유돌근의 전방 연부, 하악각 아래에 약 3cm 크기의 부드럽고 가동성이 있는 낭성 종괴가 촉지되었다. 종괴는 압통이 없었으며, 삼킴이나 혀 내밀기에 따른 움직임은 관찰되지 않았다. 환자가 머리를 좌측으로 돌릴 때 종괴가 더 잘 촉지되었다. 구강 및 인두 검사에서 특이 소견은 없었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "경부 초음파: 좌측 경부 흉쇄유돌근의 전방, 하악각 아래에 3.2 x 2.5cm 크기의 경계가 명확한 단방성 낭종성 병변, 내부에 격벽이나 고형 성분은 관찰되지 않음\n세침흡인검사: 맑은 노란색 장액성 액체, 세포학적 검사에서 콜레스테롤 결정과 소수의 림프구, 편평상피세포 관찰됨",
+  "options": {
+    "A": "갑상혀관낭(thyroglossal duct cyst)",
+    "B": "새열낭종(branchial cleft cyst)",
+    "C": "림프관종(lymphangioma)",
+    "D": "표피낭종(epidermal cyst)",
+    "E": "낭성 림프절 전이(cystic nodal metastasis)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 새열낭종(branchial cleft cyst)의 전형적인 임상양상을 보이고 있다. 새열낭종은 배아 발생 중 제2 새열고랑(branchial groove)의 불완전한 폐쇄로 인해 발생하는 선천성 병변이다. 새열낭종의 특징적인 임상 소견으로는 1) 주로 30세 이전의 젊은 성인에서 발견됨, 2) 경부 측면, 특히 흉쇄유돌근의 전방 경계를 따라 위치, 3) 대개 무증상의 부드럽고 가동성 있는 낭성 종괴, 4) 상기도 감염 후 크기가 증가하거나 압통이 발생할 수 있음 등이 있다. 이 환자는 22세 남성으로 좌측 경부 흉쇄유돌근의 전방 연부, 하악각 아래에 위치한 무통성 낭성 종괴가 있고, 초음파에서 경계가 명확한 단방성 낭종이 확인되었다. 또한 세침흡인검사에서 맑은 노란색 장액성 액체와 콜레스테롤 결정, 림프구, 편평상피세포가 관찰된 점도 새열낭종에 합당하다. 갑상혀관낭은 주로 전경부 중앙선, 특히 설골 주위에 위치하며, 혀를 내밀거나 삼킬 때 상하로 움직이는 특징이 있다. 이 환자의 종괴는 경부 측면에 위치하고 삼킴이나 혀 내밀기에 따른 움직임이 없어 갑상혀관낭과는 부합하지 않는다. 림프관종은 주로 출생 시 또는 영아기에 발견되는 선천성 병변으로, 다방성의 연한 낭성 종괴로 나타나는 경우가 많다. 표피낭종은 피부나 피하조직에 발생하는 양성 종양으로, 주로 단단하고 표재성이며, 세침흡인검사에서 치즈 같은 각질성 물질이 나온다. 낭성 림프절 전이는 주로 두경부 편평세포암, 특히 구인두암의 경부 림프절 전이로 나타나는 경우가 많다. 그러나 이 환자는 젊은 연령이고 구강 및 인두 검사에서 이상 소견이 없어 낭성 림프절 전이의 가능성은 낮다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'Branchial cleft cysts, sinuses, and fistulas arise from incomplete obliteration of the branchial apparatus during embryonic development. Second branchial cleft anomalies are the most common, accounting for approximately 95% of branchial abnormalities. These cysts typically present as painless, fluctuant masses located along the anterior border of the sternocleidomastoid muscle, often at the junction of its upper and middle thirds. They may increase in size and become tender following an upper respiratory tract infection due to lymphoid hyperplasia within the cyst wall. On physical examination, the mass is often soft, mobile, and nontender. Ultrasonography typically shows a well-defined, unilocular cystic lesion with smooth borders. Fine-needle aspiration usually yields clear to pale yellow serous fluid containing cholesterol crystals, lymphocytes, and squamous epithelial cells. Treatment is complete surgical excision to prevent recurrent infection and to rule out malignancy, particularly in adults.'",
+  "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+},
+{
+  "question_id": 7,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "62세 남성이 2개월 전부터 발견된 우측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 종괴가 점차 커지고 있는 것 같다고 한다. 최근 3개월간 5kg의 체중 감소가 있었으며, 간헐적인 연하곤란과 목소리 변화를 호소한다. 환자는 40년간 하루 한 갑의 흡연력이 있으며, 주 3-4회 소주 1병 정도의 음주력이 있다. 과거력상 10년 전부터 고혈압으로 약물 치료 중이다. 신체 검사에서 우측 경부 level II 부위에 약 3cm 크기의 단단하고 고정된 무통성 종괴가 촉지되었다. 비인두와 구인두 검사에서 특이 소견은 관찰되지 않았다. 간접 후두경 검사에서 우측 성대의 움직임이 저하되어 있었다. 이 환자에게 가장 적절한 진단적 검사는?",
+  "exam": "혈액 검사: Hb 13.2 g/dL, 백혈구 8,500/μL, 혈소판 320,000/μL\n흉부 X선: 특이 소견 없음\n경부 초음파: 우측 level II 부위에 3.2 x 2.8cm 크기의 불균질한 저에코성 종괴, 내부에 미세석회화 관찰, 주변 조직으로의 침윤이 의심됨",
+  "options": {
+    "A": "경부 전산화단층촬영(CT) 및 초음파 유도 하 세침흡인검사",
+    "B": "자기공명영상(MRI)만 시행",
+    "C": "양전자방출단층촬영(PET-CT)만 시행",
+    "D": "경부 림프절 절제 생검",
+    "E": "내시경적 비인두 및 후두 생검"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 두경부 편평세포암의 경부 림프절 전이(metastatic squamous cell carcinoma to cervical lymph node)가 의심되는 임상양상을 보이고 있다. 위험 요인으로는 고령(62세), 장기간의 흡연력(40갑년)과 음주력이 있고, 체중 감소, 연하곤란, 목소리 변화와 같은 임상 증상이 있다. 신체 검사에서는 단단하고 고정된 경부 종괴와 우측 성대 마비가 관찰되었다. 이러한 환자에게 가장 적절한 초기 진단적 검사는 경부 전산화단층촬영(CT) 및 초음파 유도 하 세침흡인검사이다. CT는 경부 종괴의 범위, 주변 구조물과의 관계, 원발 종양 위치 확인, 다른 림프절 전이 여부 등을 평가하는 데 유용하다. 또한 흉부와 상복부를 포함하면 원격 전이 가능성도 평가할 수 있다. 초음파 유도 하 세침흡인검사는 최소 침습적이면서도 경부 종괴의 세포학적 진단을 제공하여, 암종(carcinoma)과 림프종(lymphoma) 같은 다른 원인을 감별하는 데 도움이 된다. 자기공명영상(MRI)만 시행하는 것은 연부조직 대비가 우수하나, 초기 평가에서는 CT와 함께 세침흡인검사가 더 효율적이다. 양전자방출단층촬영(PET-CT)만 시행하는 것은 원발 종양 위치 확인과 원격 전이 평가에 유용하나, 조직학적 진단을 제공하지 않으므로 초기 검사로는 불충분하다. 경부 림프절 절제 생검은 세침흡인검사로 진단이 불명확하거나 림프종이 의심될 때 고려할 수 있으나, 초기 평가로는 침습적이다. 내시경적 비인두 및 후두 생검은 신체 검사나 영상 검사에서 원발 종양이 의심되는 경우 시행하나, 이 환자는 아직 원발 부위가 확인되지 않았으므로 초기 검사로는 먼저 CT와 세침흡인검사를 통해 전반적인 평가를 하는 것이 적절하다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'In patients presenting with a neck mass suspected to be metastatic squamous cell carcinoma, a systematic diagnostic approach is essential. Contrast-enhanced computed tomography (CT) of the neck is the initial imaging modality of choice, as it provides detailed information about the extent of the mass, involvement of surrounding structures, and the presence of additional lymphadenopathy. CT may also help identify the primary tumor site, which is often in the nasopharynx, oropharynx, hypopharynx, or larynx. Ultrasound-guided fine-needle aspiration (FNA) cytology is a minimally invasive procedure with high sensitivity and specificity for diagnosing metastatic disease in neck nodes. FNA can distinguish between squamous cell carcinoma, lymphoma, and other etiologies, guiding further management. If the primary site is not evident after physical examination and CT, panendoscopy (examination of the nasopharynx, oropharynx, hypopharynx, larynx, and esophagus) with directed biopsies is performed. PET-CT is particularly useful for detecting occult primary tumors and distant metastases, but is generally performed after initial CT and FNA evaluation.'",
+  "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+},
+{
+  "question_id": 8,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게 원인질환에 따른 적합한 치료 계획을 선택할 수 있다.",
+  "question": "35세 여성이 6개월 전 우연히 발견된 갑상선 결절로 내원하였다. 환자는 무증상이며, 결절의 크기 변화는 모르고 있다. 과거력상 특이사항은 없으며, 갑상선 질환의 가족력도 없다. 방사선 노출력은 부인하였다. 신체 검사에서 갑상선 우엽에 약 1.5cm 크기의 단단하고 가동성이 있는 무통성 결절이 촉지되었으며, 경부 림프절 비대는 없었다. 갑상선 기능 검사는 정상이었고, 경부 초음파에서 갑상선 우엽에 1.6 x 1.2cm 크기의 저에코성 결절이 확인되었다. 결절 내부에 미세석회화가 관찰되었고, 세로보다 가로가 더 긴 모양이었다. 초음파 유도 하 세침흡인검사를 시행하였고, 베데스다 분류 III(atypia of undetermined significance/follicular lesion of undetermined significance, AUS/FLUS)로 보고되었다. 두 번째 세침흡인검사에서도 동일한 결과가 나왔다. 이 환자에게 가장 적합한 다음 치료 계획은?",
+  "exam": "갑상선 기능 검사: TSH 1.8 mIU/L, Free T4 1.1 ng/dL (정상 범위)\n경부 초음파: 갑상선 우엽에 1.6 x 1.2cm 크기의 저에코성 결절, 내부에 미세석회화 관찰, 가로보다 세로가 짧은 모양(wider than tall), 경계는 비교적 명확함\n세침흡인검사(2회): 베데스다 분류 III (AUS/FLUS)",
+  "options": {
+    "A": "갑상선 우엽 절제술(right thyroid lobectomy)",
+    "B": "갑상선 전절제술(total thyroidectomy)",
+    "C": "방사성 요오드 치료(radioactive iodine therapy)",
+    "D": "추가 세침흡인검사(repeat FNA)",
+    "E": "6개월 후 초음파 추적 관찰"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 초음파에서 악성이 의심되는 소견(저에코성, 미세석회화)을 보이는 갑상선 결절이 있으며, 두 차례의 세침흡인검사에서 모두 베데스다 분류 III(AUS/FLUS)로 보고되었다. 베데스다 분류 III는 약 10-30%의 악성 위험도를 가지며, 이 환자처럼 초음파에서 의심스러운 소견이 있고 반복 검사에서도 같은 결과가 나온 경우 수술적 치료가 권장된다. 중요한 점은 베데스다 분류 III나 IV(follicular neoplasm)에서는 세포학적 검사만으로는 여포상 선종(follicular adenoma, 양성)과 여포상 암종(follicular carcinoma, 악성)을 구별할 수 없다는 것이다. 이는 두 병변의 구별이 캡슐 침범이나 혈관 침범과 같은 조직학적 특성에 기반하기 때문으로, 최종 진단을 위해서는 수술적 절제가 필요하다. 갑상선 결절의 크기가 1.6cm이고 임상적으로 갑상선 외 침범이나 림프절 전이가 없으므로, 갑상선 우엽 절제술(lobectomy)이 가장 적합한 치료 방법이다. 갑상선 우엽 절제술은 진단과 치료를 동시에 할 수 있으며, 최종 병리 결과에 따라 필요한 경우 추가 수술(완결 갑상선절제술, completion thyroidectomy)을 고려할 수 있다. 갑상선 전절제술은 양측성 병변, 4cm 이상의 큰 결절, 명확한 갑상선 외 침범이나 림프절 전이가 있는 경우, 또는 고위험 병리 소견이 확인된 경우에 주로 시행된다. 이 환자는 단일 결절이고 크기가 작으며, 임상적으로 침범이나 전이가 없어 초기 치료로는 과도하다. 방사성 요오드 치료는 주로 갑상선 수술 후 보조 요법으로 사용되며, 일차 치료로는 적합하지 않다. 추가 세침흡인검사는 이미 두 차례 시행하여 같은 결과가 나왔으므로, 더 이상의 검사는 진단을 지연시킬 뿐이다. 6개월 후 초음파 추적 관찰은 저위험 베데스다 II(양성) 결절이나 매우 작은 결절에서 고려할 수 있으나, 이 환자처럼 초음파에서 의심스러운 소견이 있고 베데스다 III 결과가 반복된 경우에는 부적절하다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'The management of thyroid nodules depends on clinical, sonographic, and cytologic findings. For nodules with Bethesda category III (AUS/FLUS) cytology, the risk of malignancy ranges from 10-30%. Management options include repeat fine-needle aspiration (FNA), molecular testing, or surgical excision. Surgical excision (lobectomy) is generally recommended when there are suspicious ultrasonographic features (hypoechogenicity, microcalcifications, irregular margins, taller-than-wide shape), the nodule is ≥1 cm, or when repeat FNA yields the same indeterminate result. Thyroid lobectomy serves both diagnostic and therapeutic purposes, allowing for definitive histopathological examination while preserving thyroid function in most patients. Total thyroidectomy is typically reserved for cases with bilateral disease, significant extrathyroidal extension, clinical nodal involvement, or known high-risk histology. Observation with repeat ultrasound after 6-12 months is generally not recommended for Bethesda III nodules with suspicious ultrasonographic features, as it may delay diagnosis and treatment of potential malignancy.'",
+  "category": "General Surgery"
+},
+{
+  "question_id": 9,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "55세 여성이 3개월 전부터 발견된 전경부의 작은 종괴를 주소로 내원하였다. 환자는 특별한 증상은 없으나, 최근 종괴가 약간 커진 것 같아 걱정되어 내원했다고 한다. 환자는 2년 전부터 피로감, 쉽게 지침, 변비가 있었으며, 최근에는 근육통과 관절통도 있다고 한다. 과거력상 10년 전 고혈압을 진단받아 약물 치료 중이며, 1년 전부터 골다공증으로 칼슘과 비타민 D 보충제를 복용 중이다. 신체 검사에서 갑상선 하부와 흉골 상단 사이의 전경부 중앙에 약 1.5cm 크기의 부드럽고 가동성이 있는 종괴가 촉지되었다. 종괴는 삼킴 시 상하로 움직였다. 이 환자에게 가장 의미 있는 검사 소견은?",
+  "exam": "혈액 검사: 칼슘 11.8 mg/dL (정상: 8.5-10.5 mg/dL), 인 2.2 mg/dL (정상: 2.5-4.5 mg/dL), PTH 150 pg/mL (정상: 10-65 pg/mL), TSH 3.2 mIU/L, Free T4 1.1 ng/dL\n경부 초음파: 우측 갑상선 하극에 인접한 1.8 x 1.2cm 크기의 저에코성 종괴, 갑상선과는 구분되는 별개의 구조물로 보임\n세스타미비 스캔(Sestamibi scan): 우측 하부 부갑상선 부위에 국소적 섭취 증가 소견\n요중 칼슘 검사: 증가 (350 mg/24h, 정상: <250 mg/24h)",
+  "options": {
+    "A": "갑상선 초음파에서 관찰된 저에코성 종괴",
+    "B": "혈중 칼슘과 부갑상선호르몬(PTH)의 동시 상승",
+    "C": "세스타미비 스캔에서 국소적 섭취 증가",
+    "D": "24시간 요중 칼슘 배설 증가",
+    "E": "환자의 피로감, 근육통, 변비 증상"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 전형적인 원발성 부갑상선 기능항진증(primary hyperparathyroidism)의 임상양상과 검사 소견을 보이고 있다. 원발성 부갑상선 기능항진증의 가장 흔한 원인은 단일 부갑상선 선종(parathyroid adenoma, 약 80-85%)이다. 이 질환의 진단에 가장 중요한 검사 소견은 혈중 칼슘과 부갑상선호르몬(PTH)의 동시 상승이다. 정상적으로 혈중 칼슘이 증가하면 PTH 분비가 억제되어 PTH 수치가 감소해야 하지만, 원발성 부갑상선 기능항진증에서는 부갑상선의 자율적 기능으로 인해 혈중 칼슘 상승에도 불구하고 PTH가 부적절하게 상승한다. 이 환자의 혈중 칼슘은 11.8 mg/dL로 상승되어 있고, PTH는 150 pg/mL로 역시 상승되어 있어 원발성 부갑상선 기능항진증을 강력히 시사한다. 추가적으로, 저인산혈증(인 2.2 mg/dL)도 PTH의 작용으로 인한 것으로, 원발성 부갑상선 기능항진증에서 흔히 관찰된다. 경부 초음파에서 관찰된 저에코성 종괴는 부갑상선 선종을 시사하는 소견이나, 갑상선 결절과의 감별이 필요하며 진단적 특이성은 낮다. 세스타미비 스캔에서 국소적 섭취 증가는 부갑상선 선종의 위치를 확인하는 데 유용하나, 원발성 부갑상선 기능항진증의 생화학적 진단 후 시행되는 검사이다. 24시간 요중 칼슘 배설 증가는 원발성 부갑상선 기능항진증에서 관찰될 수 있으나, 가족성 저칼슘뇨성 고칼슘혈증(familial hypocalciuric hypercalcemia)과의 감별에 주로 이용된다. 환자의 피로감, 근육통, 변비 등의 증상은 고칼슘혈증과 관련된 비특이적 증상으로, 진단적 특이성은 낮다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Primary hyperparathyroidism is characterized by the autonomous production of parathyroid hormone (PTH), resulting in hypercalcemia. The most common cause is a solitary parathyroid adenoma (80-85% of cases), followed by multiple gland hyperplasia (10-15%) and parathyroid carcinoma (<1%). The biochemical hallmark of primary hyperparathyroidism is the presence of hypercalcemia in the setting of elevated or inappropriately normal PTH levels. Normally, elevated serum calcium suppresses PTH secretion, but in primary hyperparathyroidism, there is a failure of this negative feedback mechanism. Additional laboratory findings may include hypophosphatemia, elevated alkaline phosphatase, and increased urinary calcium excretion. Symptoms can be subtle and nonspecific, including fatigue, weakness, constipation, bone and joint pain, and psychiatric or cognitive changes, all related to hypercalcemia. Localization studies such as ultrasound and technetium-99m sestamibi scintigraphy are used to identify the site of the abnormal parathyroid gland(s) once the biochemical diagnosis is established, but are not used for making the initial diagnosis.'",
+  "category": "Endocrinology"
+},
+{
+  "question_id": 10,
+  "chief complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게 원인질환에 따른 적합한 치료 계획을 선택할 수 있다.",
+  "question": "28세 남성이 4일 전부터 시작된 좌측 경부의 부종과 통증으로 응급실에 내원하였다. 환자는 1주일 전부터 인후통, 고열, 오한이 있었으며, 2일 전부터는 연하곤란과 개구장애(trismus)가 발생했다고 한다. 통증으로 인해 수면과 식사가 어렵다고 호소한다. 과거력상 충치와 잇몸 질환이 있었으나 치과 치료는 받지 않았다. 내원 시 체온 39.2°C, 맥박 110회/분, 호흡수 22회/분, 혈압 100/60 mmHg였다. 신체 검사에서 좌측 악하부와 경부에 현저한 부종, 발적, 압통이 있었고, 입을 벌리는 데 제한이 있었다. 구강 검사에서 구강저 부종과 혀의 상승이 관찰되었고, 좌측 하악 구치에 심한 충치가 있었다. 경부 CT 검사 결과 좌측 악하 공간, 설하 공간, 그리고 부인두 공간에 걸친 광범위한 연부조직 부종과 다발성 농양이 관찰되었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사: 백혈구 22,500/μL (호중구 90%), Hb 13.5 g/dL, 혈소판 380,000/μL, CRP 18.5 mg/dL\n경부 CT: 좌측 악하 공간, 설하 공간, 부인두 공간에 걸친 다발성 저음영의 농양 형성과 주변 연부조직 부종 및 지방층 혼탁화, 기도가 우측으로 편위됨",
+  "options": {
+    "A": "광범위 항생제 정주 치료만 시행",
+    "B": "기관 삽관 또는 기관절개술 후 즉각적인 수술적 배농 및 항생제 치료",
+    "C": "바늘 흡인 배농(needle aspiration drainage)과 항생제 치료",
+    "D": "구강 내 절개 배농(intraoral incision and drainage)만 시행",
+    "E": "치아 발치(tooth extraction)와 항생제 치료"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 루드비히 앙기나(Ludwig's angina) 또는 심경부 감염(deep neck infection)으로 진단할 수 있다. 이는 구강저와 경부의 심부 근막 공간에 발생하는 급성 화농성 감염으로, 대개 치성 감염(dental infection)에서 시작된다. 이 환자의 경우 심한 충치가 있고, 임상적으로 악하부와 설하부 공간의 양측성 감염, 구강저 부종, 혀의 상승, 개구장애, 연하곤란 등 전형적인 루드비히 앙기나의 증상과 징후를 보인다. CT에서 다발성 농양과 심경부 감염 소견이 확인되었고, 기도 편위까지 동반되어 있어 매우 심각한 상태이다. 이러한 환자에게 가장 적합한 치료는 기도 확보(기관 삽관 또는 기관절개술)를 우선 시행한 후, 즉각적인 수술적 배농 및 광범위 항생제 정주 치료이다. 루드비히 앙기나는 빠르게 기도 폐쇄로 진행할 수 있는 응급 상황으로, 기도 확보가 최우선이다. 특히 이 환자의 경우 CT에서 기도 편위가 관찰되어 급성 기도 폐쇄의 위험이 높다. 수술적 배농은 충분한 절개를 통해 모든 감염된 공간의 농양을 배출하고 괴사 조직을 제거하는 것이 중요하다. 동시에 광범위 항생제(베타-락탐/베타-락타마제 억제제 조합 또는 클린다마이신과 3세대 세팔로스포린 병용 등)를 정주하여 감염을 조절해야 한다. 광범위 항생제 정주 치료만 시행하는 것은 이미 농양이 형성된 경우에는 불충분하며, 수술적 배농이 반드시 필요하다. 바늘 흡인 배농은 작은 표재성 농양이나 진단적 목적으로 시행할 수 있으나, 이 환자와 같이 광범위한 다발성 농양과 심경부 감염에는 적절하지 않다. 구강 내 절개 배농만으로는 심부 경부 공간의 농양을 충분히 배출할 수 없으며, 기도 확보 없이 시행할 경우 기도 폐쇄의 위험이 있다. 치아 발치만으로는 이미 진행된 심경부 감염을 적절히 치료할 수 없으며, 감염의 원인인 치아는 급성기가 지난 후 제거하는 것이 일반적이다.",
+  "source": "Surgery_Schwartz_textbook_data.txt, 'Ludwig's angina is a rapidly progressive, potentially life-threatening cellulitis of the floor of the mouth and neck, involving the submandibular, sublingual, and submental spaces bilaterally. It most commonly arises from odontogenic infections, particularly of the second and third mandibular molars. Clinical presentation includes marked swelling of the floor of the mouth, elevation and posterior displacement of the tongue, drooling, trismus, dysphagia, and dysphonia. Systemic symptoms such as fever, chills, and malaise are common. As the infection progresses, stridor and respiratory distress may develop due to upper airway compromise. Management priorities include securing the airway, which may require endotracheal intubation or tracheostomy in severe cases, followed by prompt surgical drainage of all involved spaces and administration of broad-spectrum intravenous antibiotics. CT imaging is valuable for delineating the extent of infection and identifying abscess formation. Delay in recognition and treatment can lead to rapid progression to airway obstruction, mediastinitis, sepsis, and death.'",
+  "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+},
+{
   "question_id": 1,
   "chief complaint": "허리통증",
   "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
