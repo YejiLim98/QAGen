@@ -3337,7 +3337,29 @@
     "content": "Cognitive-behavioral therapy (CBT) is considered the gold standard psychological treatment for panic disorder. CBT typically includes psychoeducation about the nature of anxiety and panic, cognitive restructuring to address catastrophic misinterpretations of bodily sensations, and interoceptive exposure to physical sensations associated with panic. Breathing retraining is often incorporated to address hyperventilation, which can trigger or exacerbate panic symptoms. Controlled breathing techniques teach patients to breathe more slowly and deeply, reducing the likelihood of hyperventilation and associated symptoms such as lightheadedness, numbness, and tingling in the extremities. For patients with panic disorder, a combination of CBT and breathing retraining has been shown to be more effective than pharmacotherapy alone in reducing panic frequency and severity and in maintaining long-term improvement."
   },
   "category": "Psychiatry"
+}, 
+{
+  "question_id": 171,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+  "question": "45세 남성이 항생제 치료 시작 7일 후 발생한 전신 두드러기, 발열, 관절통을 주소로 내원하였다. 환자는 2주 전 폐렴으로 진단받고 세프트리악손 정맥 주사 치료를 받았다. 신체검진에서 체온 38.5°C, 전신에 다발성 팽진과 발적, 양측 무릎과 발목 관절의 부종 및 압통이 관찰되었다. 림프절 종대도 확인되었다. 환자는 이전에도 페니실린계 항생제 복용 후 경미한 발진이 있었다고 한다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "일반혈액검사: WBC 9,500/μL (호산구 8%), Hb 13.5 g/dL, Plt 225,000/μL, 생화학검사: AST/ALT 45/50 IU/L, BUN/Cr 18/0.9 mg/dL, ESR 55 mm/hr, CRP 4.2 mg/dL, 소변검사: 단백 1+",
+  "options": {
+    "A": "세프트리악손 치료 유지와 항히스타민제 추가",
+    "B": "세프트리악손 중단과 H1 항히스타민제 투여",
+    "C": "세프트리악손 중단, 전신 스테로이드와 H1 항히스타민제 투여",
+    "D": "세프트리악손을 퀴놀론계 항생제로 교체하고 항히스타민제 투여",
+    "E": "세프트리악손 중단과 면역글로불린 정맥 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 세프트리악손 정맥 주사 치료 시작 7일 후 발생한 발열, 전신 두드러기, 관절통, 림프절 종대의 임상상을 보이고 있습니다. 이러한 증상이 약물 투여 후 1-3주 사이에 발생하고, 혈액검사에서 ESR과 CRP 상승, 단백뇨 소견을 보이는 점은 혈청병(serum sickness)을 강하게 시사합니다. 혈청병은 약물(특히 항생제), 이종 혈청, 생물학적 제제 등에 노출된 후 발생하는 제3형 과민반응으로, 약물과 혈장 단백질의 복합체가 형성되어 보체를 활성화하고 면역 복합체가 혈관, 관절, 피부 등에 침착되어 염증 반응을 일으킵니다. 또한 환자는 이전에 페니실린계 항생제에 발진 병력이 있어 베타락탐계 항생제에 대한 과민반응 위험이 높습니다. 혈청병의 일차 치료는 원인 약물의 즉각적인 중단입니다. 중등도 이상의 증상에는 전신 스테로이드(프레드니솔론 0.5-1mg/kg/일)가 필요하며, 증상이 완화될 때까지 사용 후 서서히 감량합니다. H1 항히스타민제는 두드러기와 가려움증 완화에 도움이 됩니다. 세프트리악손을 유지하면서 항히스타민제만 추가하는 것은 원인 약물이 지속되므로 증상이 악화될 수 있습니다. 세프트리악손 중단과 H1 항히스타민제만으로는 이미 진행된 면역 복합체 매개 염증을 효과적으로 조절하기 어렵습니다. 세프트리악손을 퀴놀론계 항생제로 교체하는 것은 폐렴 치료를 위해 필요할 수 있으나, 혈청병의 주요 치료인 스테로이드가 포함되어 있지 않습니다. 면역글로불린 정맥 투여는 혈청병의 표준 치료가 아니며, 일반적으로 면역혈소판감소증이나 가와사키병과 같은 다른 면역학적 질환에 사용됩니다.",
+  "source": {
+    "file_name": "Journal of Allergy and Clinical Immunology: In Practice",
+    "content": "Serum sickness is a type III hypersensitivity reaction characterized by fever, urticaria, arthralgia, lymphadenopathy, and occasionally proteinuria, occurring 7-14 days after exposure to the offending agent. First-line treatment includes immediate discontinuation of the causative agent. Systemic corticosteroids (prednisone 0.5-1 mg/kg/day) are indicated for moderate to severe symptoms, with gradual tapering as symptoms resolve, typically over 1-2 weeks. H1 antihistamines help alleviate urticaria and pruritus. NSAIDs may be used for arthralgias, but caution is advised as they can worsen renal manifestations and potentially cross-react in patients with NSAID hypersensitivity. In cases requiring continued antibiotic therapy, a structurally unrelated alternative should be chosen, as cross-reactivity between beta-lactams can occur in up to 10% of cases."
+  },
+  "category": "Allergy and Immunology"
 }
+
 
 
 
