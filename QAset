@@ -3549,6 +3549,226 @@
   },
   "category": "Dermatology"
 }, 
+{
+  "question_id": 181,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "32세 여성이 3일 전부터 시작된 극심한 두통으로 응급실에 내원하였다. 환자는 두통이 처음에는 양측 측두부에서 시작되었으나 점차 전체 머리로 퍼졌다고 한다. 두통과 함께 목 뻣뻣함, 발열, 오한 및 구역감을 호소한다. 최근 상기도 감염 증상이 있었다고 한다. 신체 검진에서 체온은 38.5°C이고, 의식은 명료하나 경부 강직이 관찰되었다. 케르니그 징후와 브루진스키 징후가 양성이다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사에서 백혈구 수치가 14,000/μL(정상 4,500-11,000/μL)로 증가되어 있고, C-반응성 단백질(CRP)은 8.5 mg/dL(정상 <0.5 mg/dL)로 상승되어 있다.",
+  "options": {
+    "A": "편두통",
+    "B": "긴장성 두통",
+    "C": "세균성 수막염",
+    "D": "지주막하 출혈",
+    "E": "편두통 지속 상태"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 급성 발열, 심한 두통, 경부 강직, 케르니그 징후와 브루진스키 징후 양성 등 수막 자극 징후를 보이고 있으며, 이는 수막염을 강하게 시사합니다. 특히 발열, 두통, 경부 강직의 세 가지 주요 증상이 함께 나타나는 경우 수막염을 의심해야 합니다. 백혈구 증가와 CRP 상승은 염증성 과정, 특히 세균성 감염을 시사합니다. 최근의 상기도 감염 병력은 세균성 수막염의 흔한 선행 요인입니다. 편두통은 일반적으로 반복적이고 박동성이며, 일측성인 경우가 많고, 빛이나 소리에 민감하지만 발열이나 경부 강직과 같은 수막 자극 징후는 보이지 않습니다. 긴장성 두통은 대개 양측성으로 압박감이나 조이는 듯한 통증을 특징으로 하며, 경부 강직이나 발열과 같은 심각한 징후는 동반하지 않습니다. 지주막하 출혈은 갑작스런 '벼락두통'으로 나타나며, 경부 강직이 있을 수 있으나 발열은 일반적이지 않습니다. 편두통 지속 상태는 72시간 이상 지속되는 편두통 발작이지만, 이 환자의 임상상과는 일치하지 않습니다. 따라서 이 환자의 임상 양상은 세균성 수막염에 가장 부합합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "The classic clinical triad of meningitis is fever, headache, and nuchal rigidity (stiff neck). Nausea, vomiting, and photophobia are common. In bacterial meningitis, the onset of symptoms may be acute and fulminant, with the development of symptoms over a period of hours, or it may be more subacute with a gradually progressive headache, fever, and nuchal rigidity developing over a period of 1–2 days. Signs of meningeal irritation include nuchal rigidity, Kernig's sign (resistance to passive extension of the flexed leg with the hip flexed), and Brudzinski's sign (involuntary flexion of the knees and hips when the neck is passively flexed)."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 182,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 '평생 가장 심한 두통'을 호소하며 응급실에 내원하였다. 환자는 약 2시간 전 갑자기 발생한 극심한 두통을 호소하며, 머리 뒤쪽에서 시작되어 전체 머리로 퍼졌다고 한다. 구토가 동반되었고, 약간의 목 뻣뻣함이 있다. 과거력상 고혈압으로 치료 중이며, 장기간 흡연력이 있다. 신경학적 검사에서 의식은 명료하고 국소 신경학적 이상은 관찰되지 않았다. 환자의 CT 소견을 고려할 때 다음 중 가장 적절한 다음 단계는?",
+  "exam": "비조영증강 두부 CT 검사에서 우측 실비안열(Sylvian fissure) 주변으로 고밀도의 혈액이 관찰되었다.",
+  "options": {
+    "A": "요추 천자 시행",
+    "B": "뇌혈관 조영술 시행",
+    "C": "항경련제 투여",
+    "D": "아세트아미노펜 투여 후 귀가",
+    "E": "만니톨 정맥 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 갑작스러운 심한 두통('벼락두통')과 구토, 그리고 경미한 경부 강직을 호소하고 있으며, 고혈압과 흡연이라는 위험 인자가 있습니다. 비조영증강 두부 CT에서 우측 실비안열 주변으로 고밀도의 혈액이 관찰된 것은 지주막하 출혈을 강력히 시사합니다. 지주막하 출혈의 가장 흔한 원인은 뇌동맥류 파열이며, 이 경우 다음 단계로 뇌혈관 조영술(cerebral angiography)을 시행하여 뇌동맥류의 위치와 크기를 확인하고 치료 계획을 세워야 합니다. 요추 천자는 두부 CT에서 지주막하 출혈이 확인되지 않았으나 임상적으로 강하게 의심되는 경우에 진단을 위해 시행할 수 있습니다. 이 환자의 경우 이미 CT에서 출혈이 확인되었으므로 요추 천자는 필요하지 않습니다. 항경련제는 지주막하 출혈 환자에서 경련의 위험이 있을 때 예방적으로 투여할 수 있으나, 현재로서는 가장 중요한 다음 단계는 출혈 원인을 확인하기 위한 뇌혈관 조영술입니다. 아세트아미노펜만 투여하고 귀가시키는 것은 생명을 위협하는 지주막하 출혈이 있는 상황에서 부적절한 대응입니다. 만니톨은 뇌압 상승이 임상적으로 의심되거나 확인된 경우에 사용할 수 있으나, 현재 상황에서는 뇌압 상승의 징후가 없으므로 적절한 다음 단계가 아닙니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "The diagnostic workup should begin with a noncontrast CT scan. If the CT scan is negative but suspicion of SAH is high, a lumbar puncture should be performed to look for RBCs or xanthochromia. Once the diagnosis is established, cerebral angiography is generally performed to localize and define the anatomic details of the aneurysm and to determine if there are additional unruptured aneurysms. Approximately 15% of patients have multiple aneurysms, and decisions regarding surgical or endovascular therapy are based on the site, size, and number of aneurysms and the patient's general medical condition."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 183,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
+  "question": "35세 여성이 한쪽 눈 주변의 심한 통증을 주소로 내원하였다. 환자는 지난 3주 동안 거의 매일 오후 같은 시간에 약 1-2시간 지속되는 극심한 통증이 발생한다고 한다. 통증은 우측 안와 주변에 국한되어 있으며, 동측 눈물 흘림, 결막 충혈, 코막힘이 동반된다. 통증이 있는 동안 가만히 있지 못하고 왔다 갔다 하는 모습을 보인다. 가족력상 어머니가 편두통으로 진단받아 치료 중이다. 신경학적 검진에서 이상 소견은 없다. 이 환자에게 가장 적절한 급성기 치료는?",
+  "exam": "뇌 MRI와 MRA 검사에서 특이 소견은 없었다.",
+  "options": {
+    "A": "수메트립탄 피하 주사",
+    "B": "프로프라놀롤 경구 투여",
+    "C": "카르바마제핀 경구 투여",
+    "D": "프레드니솔론 경구 투여",
+    "E": "아세타미노펜과 코데인 복합제 경구 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 군발성 두통(cluster headache)의 전형적인 임상 양상을 보이고 있습니다. 군발성 두통은 안와, 안와위, 측두부의 심한 일측성 통증이 특징이며, 동측의 자율신경계 증상(눈물 흘림, 결막 충혈, 코막힘, 비루, 안검 하수, 동공 축소, 이마와 얼굴의 발한 등)이 동반됩니다. 통증은 매우 심하여 환자가 안절부절 못하고 왔다 갔다 하는 행동(pacing)을 보이는 것이 특징입니다. 또한 발작이 하루 중 같은 시간에 발생하는 일주기 리듬을 보이고, 수주에서 수개월간 지속되는 군발기(cluster period)와 완화기가 반복되는 양상을 보입니다. 군발성 두통의 급성기 치료로는 수메트립탄 피하 주사, 산소 흡입, 비강 내 리도카인 등이 효과적입니다. 특히 수메트립탄 피하 주사는 약 75%의 환자에서 15분 이내에 효과를 나타내어 가장 효과적인 급성기 치료로 알려져 있습니다. 프로프라놀롤은 편두통의 예방 치료에 사용되지만, 군발성 두통의 예방이나 급성기 치료에는 효과적이지 않습니다. 카르바마제핀은 삼차신경통의 치료에 사용되며, 군발성 두통에는 일반적으로 사용되지 않습니다. 프레드니솔론은 군발성 두통의 단기 예방 치료로 사용될 수 있으나, 급성 발작의 치료에는 효과적이지 않습니다. 아세타미노펜과 코데인 복합제와 같은 일반적인 진통제는 군발성 두통의 심한 통증을 완화시키기에는 충분하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "The most effective acute treatments for cluster attacks are oxygen inhalation and subcutaneous sumatriptan. Sumatriptan 6 mg SC aborts an attack within 15 min in approximately 75% of patients. Zolmitriptan 5 mg or 10 mg nasal spray is also effective. Dihydroergotamine SC, IM, or IV is also useful in treating acute cluster. Oral ergotamine tartrate is absorbed too slowly to be useful for cluster attacks. Lidocaine solution used as a nasal spray or as drops (4% lidocaine) can be helpful in managing an acute attack in some patients."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 184,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "58세 여성이 2주 전부터 시작된 양측성 두통을 주소로 내원하였다. 환자는 두통이 머리 전체에 걸쳐 있고, 특히 측두부에 더 심하다고 호소한다. 두통은 아침에 더 심하고, 턱을 움직일 때 악화된다고 한다. 또한 전신 피로감, 식욕 저하, 체중 감소, 근육통을 호소한다. 최근 시력이 약간 흐려진 느낌이 있다고 한다. 신체 검진에서 측두 동맥이 만져지며 압통이 있다. 이 환자에서 다음 중 가장 유용한 검사는?",
+  "exam": "혈액 검사에서 ESR 85 mm/hr(정상 <20 mm/hr), CRP 6.2 mg/dL(정상 <0.5 mg/dL)로 상승되어 있다. 헤모글로빈 11.2 g/dL(정상 12-16 g/dL)로 경도의 빈혈이 있다.",
+  "options": {
+    "A": "측두 동맥 조직 검사",
+    "B": "뇌 MRI 촬영",
+    "C": "뇌척수액 검사",
+    "D": "뇌파 검사",
+    "E": "신경전도 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 50세 이상의 노인에서 발생한 새로운 양측성 두통, 특히 측두부의 압통, 턱 운동시 악화되는 통증(턱 파행, jaw claudication), 전신 증상(피로, 체중 감소, 식욕 부진, 근육통), 시력 변화 등의 증상을 보이고 있으며, 혈액 검사에서 ESR과 CRP의 현저한 상승이 관찰됩니다. 이러한 임상상은 거대세포 동맥염(giant cell arteritis, GCA)을 강하게 시사합니다. 거대세포 동맥염은 중간 크기와 큰 크기의 혈관, 특히 두개 외 분지를 가진 경동맥을 침범하는 혈관염으로, 주로 50세 이상의 성인에게 발생합니다. 거대세포 동맥염의 진단을 위한 가장 유용한 검사는 측두 동맥 조직 검사입니다. 조직 검사에서는 혈관벽의 육아종성 염증, 다핵 거대세포, 내막 증식 및 혈관 내강의 협착이 관찰될 수 있습니다. 거대세포 동맥염은 시력 상실과 같은 심각한 합병증을 예방하기 위해 조기 진단과 치료가 중요합니다. 뇌 MRI는 두개내 병변을 배제하는 데 도움이 될 수 있지만, 거대세포 동맥염의 진단에는 측두 동맥 조직 검사가 더 중요합니다. 뇌척수액 검사는 수막염이나 뇌염과 같은 중추신경계 감염을 배제하는 데 유용하지만, 이 환자의 임상상은 이러한 감염성 원인을 시사하지 않습니다. 뇌파 검사는 주로 간질 발작 등의 진단에 사용되며, 이 환자의 두통 평가에는 유용하지 않습니다. 신경전도 검사는 말초신경 질환의 평가에 사용되며, 이 환자의 두통 진단에는 적절하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Giant cell arteritis (GCA) is a vasculitis of medium-sized and large vessels, particularly the extracranial branches of the carotid artery. Clinical findings include a new onset of headache, scalp tenderness, jaw claudication, and visual changes. Systemic symptoms such as fever, weight loss, fatigue, and myalgias are common. Laboratory abnormalities include an elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP). The gold standard for diagnosis is a temporal artery biopsy showing granulomatous inflammation of the vessel wall with giant cells. Early diagnosis and treatment with high-dose glucocorticoids are essential to prevent vision loss."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 185,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "30세 여성이 3일 전부터 시작된, 오른쪽 머리에 박동성 통증을 주소로 내원하였다. 환자는 한 달에 한두 번 정도 비슷한 두통을 경험하며, 통증은 중등도에서 심한 정도이고 4-72시간 지속된다고 한다. 두통 시 빛과 소리에 민감해지고 구역감이 동반되며, 신체 활동에 의해 악화된다고 한다. 환자의 어머니도 비슷한 두통을 경험한다고 한다. 신경학적 검진에서 이상 소견은 없었다. 이 환자에게 가장 적절한 급성기 치료는?",
+  "exam": "뇌 MRI 검사에서 특이 소견은 관찰되지 않았다.",
+  "options": {
+    "A": "인도메타신 정맥 투여",
+    "B": "수메트립탄 경구 투여",
+    "C": "카르바마제핀 경구 투여",
+    "D": "고유량 산소 흡입",
+    "E": "프레드니솔론 정맥 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 편두통(migraine)의 전형적인 임상 양상을 보이고 있습니다. 편두통은 4-72시간 지속되는 중등도에서 심한 강도의 박동성 두통으로, 일측성인 경우가 많고, 신체 활동에 의해 악화되며, 구역, 구토, 빛 공포증(photophobia), 소리 공포증(phonophobia) 등이 동반됩니다. 가족력이 있는 경우가 흔하며, 이 환자의 경우 어머니도 비슷한 두통을 경험한다고 합니다. 뇌 MRI에서 특이 소견이 없는 것은 이차성 두통의 원인이 배제된 것으로, 편두통 진단에 부합합니다. 편두통의 급성기 치료로는 트립탄(triptan) 계열 약물이 매우 효과적입니다. 수메트립탄은 세로토닌 5-HT1B/1D 수용체 작용제로, 편두통 발작 시 뇌혈관의 수축과 신경펩티드 방출 억제를 통해 통증을 완화시킵니다. 경구, 비강 스프레이, 피하 주사 등 다양한 형태로 사용 가능하며, 경구 투여의 경우 50-100mg을 발작 초기에 투여합니다. 인도메타신은 특히 발작성 편측두통(paroxysmal hemicrania)이나 지속성 편측두통(hemicrania continua) 같은 삼차자율신경두통에 효과적이지만, 일반적인 편두통의 치료에는 일차 선택약이 아닙니다. 카르바마제핀은 삼차신경통의 치료에 사용되며, 편두통 치료에는 효과적이지 않습니다. 고유량 산소 흡입은 군발성 두통(cluster headache)의 급성기 치료에 효과적이지만, 편두통에는 일반적으로 사용되지 않습니다. 프레드니솔론 정맥 투여는 군발성 두통의 예방적 치료나 거대세포 동맥염 같은 두통의 원인 질환 치료에 사용될 수 있으나, 편두통의 급성기 치료에는 일반적으로 사용되지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Specific acute migraine treatments include the triptans and dihydroergotamine (DHE). All triptans are 5-HT1B/1D receptor agonists. They are very effective but should be used as early as possible during an attack. Sumatriptan is available as a subcutaneous injection (6 mg), nasal spray (20 mg), or oral tablet (25, 50, or 100 mg). The subcutaneous form has the fastest onset of action (10–15 min) and the highest efficacy but may cause more adverse effects. The most common adverse effects of triptans include nausea, dizziness, somnolence, paresthesias, and chest or throat tightness. Triptans are contraindicated in patients with vascular disease, uncontrolled hypertension, and hemiplegic migraine."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 186,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "42세 여성이 3개월 동안 지속된 두통으로 신경과 외래에 내원하였다. 환자는 거의 매일 양측 측두부와 후두부에 조이는 듯한 통증을 호소하며, 통증의 강도는 중등도로 일상생활은 가능하지만 불편함을 느낀다고 한다. 두통은 주로 오후에 악화되며, 스트레스가 심할 때 더 심해진다고 한다. 구역, 구토, 빛 공포증이나 소리 공포증은 없다. 환자는 과거 편두통 진단을 받은 적이 있으며, 최근 3개월간 거의 매일 진통제를 복용하고 있다고 한다. 신경학적 검진에서 이상 소견은 관찰되지 않았다. 이 환자에게 가장 가능성이 높은 진단은?",
+  "exam": "혈액 검사와 뇌 MRI 검사에서 특이 소견은 관찰되지 않았다.",
+  "options": {
+    "A": "긴장형 두통",
+    "B": "약물과용 두통",
+    "C": "만성 편두통",
+    "D": "군발성 두통",
+    "E": "후두신경통"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3개월 동안 거의 매일 지속되는 양측성, 압박성 두통을 호소하며 편두통의 과거력이 있고 최근 3개월간 거의 매일 진통제를 복용한 병력이 있습니다. 이러한 임상 양상은 약물과용 두통(medication overuse headache, MOH)에 부합합니다. 약물과용 두통은 두통 치료를 위해 진통제나 편두통 특이 약물을 과도하게 사용하여 발생하는 이차성 두통으로, 기존의 일차성 두통(주로 편두통이나 긴장형 두통)이 있는 환자에서 흔히 발생합니다. 진단 기준은 한 달에 15일 이상 두통이 있고, 3개월 이상 정기적으로 한 가지 이상의 급성기 또는 대증 치료 약물을 과용한 경우입니다(예: 단순 진통제는 한 달에 15일 이상, 트립탄, 에르고트, 오피오이드, 복합진통제는 한 달에 10일 이상). 약물과용 두통의 특징은 기존 두통이 더 빈번해지고 강도가 심해지며, 약물 효과가 감소하면서 더 많은 약물을 사용하게 되는 악순환이 형성됩니다. 치료는 원인 약물의 중단과 예방적 치료입니다. 긴장형 두통은 양측성, 압박성 또는 조이는 통증이 특징이지만, 약물 과용 없이도 발생할 수 있습니다. 만성 편두통은 3개월 이상 한 달에 15일 이상 두통이 있고, 그 중 8일 이상은 편두통 특성을 가져야 하는데, 이 환자는 편두통의 특성(박동성, 중등도-심도, 일상 활동에 의한 악화, 구역/구토, 빛/소리 공포증)을 보이지 않습니다. 군발성 두통은 극심한 안와 주변 통증이 특징이며 자율신경계 증상(눈물, 코막힘 등)이 동반되는데, 이 환자의 증상과는 맞지 않습니다. 후두신경통은 대후두신경 분포 영역의 갑작스럽고 심한 찌르는 듯한 통증이 특징이며, 이 환자의 지속적인 압박성 통증과는 다릅니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Medication-overuse headache (MOH) is a chronic daily headache syndrome that develops in patients with primary headache disorders who overuse acute headache medications. It is defined as headache present on 15 or more days per month in a patient with a preexisting headache disorder who has been overusing one or more acute headache medications for 3 or more months. The overuse is defined as 10 or more days per month for ergot derivatives, triptans, opioids, and combination analgesics and 15 or more days per month for simple analgesics. The headache has usually evolved from episodic to continuous, is present on awakening, and often has features of both migraine and tension-type headache. Treatment involves discontinuation of the overused medication(s) and initiation of appropriate preventive therapy."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 187,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "28세 여성이 1주일 전부터 시작된 두통으로 응급실에 내원하였다. 환자는 두통이 양측 전두부와 측두부에 위치하며 멍한 느낌이라고 표현한다. 두통은 지속적이고 체위 변화에 따라 악화된다고 한다. 환자는 또한 시야가 흐려지는 증상과 구역을 호소한다. 2주 전 경막외 마취하에 제왕절개술을 받았다. 신경학적 검사에서 유두부종이 관찰되었으며, 다른 국소 신경학적 이상은 없었다. 혈압은 140/90 mmHg이다. 이 환자에게 가장 가능성이 높은 진단은?",
+  "exam": "뇌 CT와 MRI 검사에서 뇌실 크기는 정상이며, 뇌내 병변은 관찰되지 않았다. MR 정맥조영술에서 횡정맥동(transverse sinus)의 협착 소견이 관찰되었다. 요추 천자에서 개방 압력이 280 mmH2O(정상 <200 mmH2O)로 상승되어 있고, 뇌척수액 검사는 정상이었다.",
+  "options": {
+    "A": "두개내압 상승을 동반한 경막하 혈종",
+    "B": "뇌수막염",
+    "C": "뇌종양",
+    "D": "저뇌척수액 압력 증후군",
+    "E": "특발성 두개내 고혈압"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 경막외 마취 후 발생한 두통, 시야 흐림, 구역 증상과 함께 유두부종, 뇌척수액 압력 상승(280 mmH2O), MR 정맥조영술에서 횡정맥동 협착 소견이 있으며, 뇌 영상에서 뇌실 크기가 정상이고 뇌내 병변이 없습니다. 이러한 임상 소견은 특발성 두개내 고혈압(idiopathic intracranial hypertension, IIH, 이전에는 가성뇌종양[pseudotumor cerebri]이라고도 함)을 시사합니다. 특발성 두개내 고혈압은 뇌종양, 수두증, 뇌염, 혈전성 정맥동 혈전증 등과 같은 확인 가능한 원인 없이 두개내압이 상승하는 상태입니다. 주로 가임기 비만 여성에게 발생하며, 임신, 여러 약물(테트라사이클린, 비타민 A 유도체, 성장 호르몬 등), 내분비 질환(쿠싱 증후군, 부신기능부전 등)과 관련이 있을 수 있습니다. 주요 증상은 두통(보통 매일 있고 아침에 더 심함), 일시적 시각 흐림, 복시, 박동성 이명 등이며, 신체 검진에서 유두부종이 특징적으로 관찰됩니다. 진단은 뇌내 병변과 뇌수두증을 배제하기 위한 뇌 영상 검사와 뇌척수액 압력을 측정하기 위한 요추 천자를 통해 이루어집니다. 처치는 체중 감량, 아세타졸아미드와 같은 약물 치료, 반복적인 요추 천자, 필요한 경우 뇌척수액 션트술 또는 시신경초 감압술 등이 있습니다. 경막하 혈종은 경막과 지주막 사이에 혈액이 고이는 상태로, 두부 외상 후 흔히 발생하며 CT나 MRI에서 쉽게 확인됩니다. 뇌수막염은 수막의 염증으로, 발열, 두통, 경부 강직이 특징이며 뇌척수액 검사에서 백혈구 증가, 단백질 증가, 포도당 감소 등의 소견을 보입니다. 뇌종양은 MRI나 CT에서 종괴 효과를 보이는 병변으로 나타납니다. 저뇌척수액 압력 증후군은 직립 자세에서 악화되고 누웠을 때 호전되는 두통이 특징이며, 경막 천자 또는 뇌척수액 누출 후 흔히 발생합니다. 뇌척수액 압력이 낮게 측정되고(대개 <60 mmH2O), 조영증강 MRI에서 경막의 미만성 조영증강이 관찰될 수 있습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Idiopathic intracranial hypertension (IIH), also known as pseudotumor cerebri, is characterized by increased intracranial pressure without a mass lesion, ventriculomegaly, or clinical, laboratory, or radiographic evidence of infection, malignancy, or hypertensive encephalopathy. It occurs most frequently in obese women of childbearing age. Symptoms include headache, transient visual obscurations, pulse-synchronous tinnitus, and diplopia due to abducens nerve palsy. Papilledema is the cardinal sign, and its detection is mandatory to make the diagnosis of IIH. Diagnosis requires brain imaging (CT or MRI with MR venography) to exclude a mass lesion or venous sinus thrombosis, followed by lumbar puncture with measurement of opening pressure, which is elevated (>250 mmH2O in adults, >280 mmH2O in children). The CSF formula is normal. Treatment includes weight loss, carbonic anhydrase inhibitors (acetazolamide), and in severe cases with visual threat, optic nerve sheath fenestration or CSF diversion procedures."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 188,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
+  "question": "25세 여성이 한 달에 2-3회 발생하는 중증도-심한 두통으로 내원하였다. 두통은 오른쪽 측두부와 전두부에 국한되어 있으며, 박동성이고, 4-6시간 지속된다. 두통이 있을 때 구역과 빛 공포증이 동반되며, 일상적인 신체 활동에 의해 악화된다. 환자는 두통이 시작되기 약 30분 전에 오른쪽 시야에 번쩍이는 지그재그 모양의 빛이 나타나고 점차 확대되다가 사라진다고 한다. 환자는 최근 경구 피임약을 시작했다. 신경학적 검진에서 이상 소견은 없었다. 이 환자에게 가장 적절한 예방적 치료는?",
+  "exam": "뇌 MRI와 MRA 검사에서 특이 소견은 관찰되지 않았다.",
+  "options": {
+    "A": "프로프라놀롤 경구 투여",
+    "B": "수메트립탄 경구 투여",
+    "C": "경구 피임약 중단",
+    "D": "카르바마제핀 경구 투여",
+    "E": "프레드니솔론 경구 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 전형적인 조짐 편두통(migraine with aura)의 임상상을 보이고 있습니다. 두통은 한쪽에 국한되어 있고 박동성이며, 중등도-심한 강도로 일상 활동에 의해 악화되고, 구역과 빛 공포증이 동반됩니다. 시각 조짐(번쩍이는 지그재그 모양의 빛이 점진적으로 확대되는 현상)이 두통 전에 나타나는 것이 특징적입니다. 경구 피임약은 편두통, 특히 조짐 편두통의 빈도를 증가시킬 수 있습니다. 뇌 MRI와 MRA에서 이상 소견이 없어 이차성 두통의 원인은 배제되었습니다. 이 환자는 한 달에 2-3회의 빈도로 두통이 발생하고 있으며, 이는 삶의 질에 상당한 영향을 미칠 수 있으므로 예방적 치료를 고려할 수 있습니다. 일반적으로 한 달에 4회 이상 또는 심한 두통이 있거나, 급성기 치료에 반응이 불충분하거나, 환자가 원할 경우 예방적 치료를 시작합니다. 프로프라놀롤은 베타 차단제로, 편두통 예방에 가장 효과적인 약물 중 하나입니다. 메커니즘은 정확히 알려져 있지 않지만, 뇌혈관 조절과 중추 세로토닌 시스템에 대한 효과가 관여할 것으로 생각됩니다. 일반적인 용량은 하루 40-240mg으로, 저용량에서 시작하여 점차 증량합니다. 다른 예방적 치료 옵션으로는 항경련제(토피라메이트, 발프로산), 삼환계 항우울제(아미트립틸린), 칼슘 채널 차단제(베라파밀) 등이 있습니다. 수메트립탄은 트립탄 계열 약물로, 급성기 치료에는 효과적이지만 예방적 치료에는 적합하지 않습니다. 경구 피임약 중단은 조짐 편두통 환자에서 고려할 수 있으나, 다른 피임 방법으로의 전환이 필요하며 이것만으로는 충분한 예방 효과를 기대하기 어렵습니다. 또한, 조짐 편두통 환자에서 경구 피임약은 뇌졸중 위험을 증가시킬 수 있어 상대적 금기사항입니다. 카르바마제핀은 삼차신경통 치료에 효과적이지만, 편두통 예방에는 일반적으로 사용되지 않습니다. 프레드니솔론은 군발성 두통의 단기 예방이나 지속 상태의 편두통 치료에 사용될 수 있으나, 장기적인 편두통 예방 치료로는 적합하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Preventive therapy for migraine should be considered when attacks are frequent (more than four per month), severe, or unresponsive to acute therapy, or when patients request it. Beta blockers (propranolol, timolol, metoprolol, atenolol), tricyclic antidepressants (amitriptyline, nortriptyline), anticonvulsants (topiramate, valproate), and calcium channel blockers (verapamil) are the most commonly used preventive medications. Propranolol, at a dose of 40–120 mg twice daily, is particularly effective and has the strongest evidence. Topiramate, valproate, and amitriptyline have also demonstrated efficacy in multiple randomized controlled trials. Combined hormonal contraceptives may worsen migraine, particularly migraine with aura, and increase the risk of stroke in women with migraine with aura; therefore, their use should be discouraged in these patients."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 189,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "65세 남성이 1주일 전 교통사고 후 발생한 두통으로 응급실에 내원하였다. 환자는 차 안에서 안전벨트를 착용한 상태로 후방에서 추돌 당했고, 당시 의식 소실은 없었으나 목 통증과 가벼운 머리 부딪힘이 있었다고 한다. 사고 당시 응급실에서 시행한 두부 CT는 정상이었다. 환자는 사고 이후 지속적인 두통과 어지러움, 집중력 저하, 기억력 감퇴, 불면증을 호소한다. 신경학적 검진에서 특이 소견은 관찰되지 않았다. 이 환자에게 가장 가능성이 높은 진단은?",
+  "exam": "반복 시행한 두부 CT와 MRI에서도 특이 소견은 관찰되지 않았다.",
+  "options": {
+    "A": "경막외 혈종",
+    "B": "경막하 혈종",
+    "C": "외상 후 두통",
+    "D": "긴장형 두통",
+    "E": "편두통"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 교통사고(추돌 사고)로 인한 경미한 두부 외상 후 발생한 지속적인 두통과 함께 어지러움, 집중력 저하, 기억력 감퇴, 불면증 등의 인지적, 정서적 증상을 호소하고 있습니다. 초기 및 추적 두부 영상 검사에서 특이 소견이 없음에도 불구하고 증상이 지속되고 있습니다. 이러한 임상상은 외상 후 두통(post-traumatic headache)에 부합합니다. 외상 후 두통은 국제두통질환분류(ICHD-3)에 따르면 '두부 외상 또는 경부 외상에 기인한 두통'으로 분류되며, 외상 후 7일 이내에 발생한 두통이 3개월 이상 지속되는 경우 만성 외상 후 두통으로 정의됩니다. 경미한 두부 외상 후에도 발생할 수 있으며, 두통 외에도 어지러움, 피로, 집중력 저하, 기억력 감퇴, 과민성, 불안, 우울, 수면 장애 등 다양한 신경인지적, 정서적 증상이 동반될 수 있습니다. 이러한 증상들의 복합체는 '외상 후 증후군(post-traumatic syndrome)' 또는 '경미한 외상성 뇌손상(mild traumatic brain injury, mTBI)'으로도 불립니다. 외상 후 두통의 특성은 다양하며, 긴장형 두통이나 편두통과 유사한 양상을 보일 수 있습니다. 치료는 기저 두통 유형에 따른 약물 치료와 함께 인지행동치료, 물리치료, 이완 요법 등의 비약물적 접근도 중요합니다. 경막외 혈종은 두개골과 경막 사이에 혈액이 고이는 상태로, 대개 두개골 골절과 동반되어 발생하며 급속히 진행하는 의식 저하, 동공 산대, 편마비 등의 증상을 보일 수 있습니다. CT에서 쉽게 확인됩니다. 경막하 혈종은 경막과 지주막 사이에 혈액이 고이는 상태로, 급성, 아급성, 만성으로 분류됩니다. 만성 경막하 혈종은 노인에서 경미한 외상 후 수주-수개월 후 발생할 수 있으나, CT나 MRI에서 확인됩니다. 긴장형 두통은 양측성, 압박성 또는 조이는 통증이 특징이며, 외상과의 명확한 시간적 관계가 없습니다. 편두통은 일측성, 박동성 통증과 함께 구역, 빛 공포증, 소리 공포증 등이 동반되는 특징이 있으며, 외상과의 시간적 관계가 없습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Post-traumatic headache (PTH) is defined as a headache that develops within 7 days of head trauma or after regaining consciousness following head trauma. Chronic PTH persists for more than 3 months after trauma. It can occur following mild, moderate, or severe traumatic brain injury. In mild traumatic brain injury (mTBI), also known as concussion, a constellation of symptoms including headache, dizziness, fatigue, irritability, insomnia, poor concentration, memory impairment, and anxiety may develop. This symptom complex is referred to as the postconcussion syndrome. The headache characteristics in PTH are variable and may resemble tension-type headache, migraine, or cervicogenic headache. Neuroimaging studies are typically normal. Management includes both pharmacologic treatment based on the headache phenotype and non-pharmacologic approaches such as cognitive behavioral therapy, physical therapy, and relaxation techniques."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 190,
+  "chief_complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "45세 남성이 1주일 전부터 왼쪽 얼굴과 눈 주변에 심한 통증을 호소하며 내원하였다. 환자는 통증이 갑자기 발생하여 수초에서 수분간 지속되며, 하루에 여러 차례 발작적으로 나타난다고 한다. 통증은 왼쪽 광대뼈 부위에서 시작하여 왼쪽 상악, 하악, 이마 부위로 퍼진다고 한다. 환자는 통증이 있는 동안 매우 괴로워하며, 세수를 하거나 얼굴을 만지는 것, 대화하는 것, 칫솔질을 할 때 통증이 유발된다고 한다. 과거력상 고혈압과 당뇨병으로 약물 치료 중이다. 신경학적 검진에서 왼쪽 삼차신경 첫 번째와 두 번째 분지 영역의 피부에 경미한 자극을 가했을 때 심한 통증을 호소하였다. 다른 신경학적 이상은 없었다. 이 환자에게 가장 가능성이 높은 진단은?",
+  "exam": "뇌 MRI 검사에서 특이 소견은 관찰되지 않았다.",
+  "options": {
+    "A": "편두통",
+    "B": "군발성 두통",
+    "C": "삼차신경통",
+    "D": "측두 동맥염",
+    "E": "통증성 당뇨병성 신경병증"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 삼차신경통(trigeminal neuralgia)의 전형적인 임상 양상을 보이고 있습니다. 삼차신경통은 삼차신경의 하나 이상의 분지 영역에 발생하는 갑작스럽고 심한 통증 발작이 특징입니다. 통증은 일반적으로 전기 충격과 같거나 찌르는 듯한 느낌으로, 수초에서 수분간 지속되며, 하루에 여러 차례 반복될 수 있습니다. 특징적으로 세수, 양치질, 면도, 음식 섭취, 말하기, 차가운 공기에 노출 등과 같은 무해한 자극에 의해 유발되며, 이러한 유발 영역(trigger zone)이 있는 것이 특징입니다. 통증은 주로 삼차신경의 두 번째(상악)와 세 번째(하악) 분지에 영향을 미치며, 첫 번째(안분지) 분지만 침범하는 경우는 드뭅니다. 삼차신경통은 주로 50세 이상에서 발생하며, 여성에서 더 흔합니다. 발병 기전으로는 혈관(주로 상소뇌동맥)에 의한 삼차신경 압박이 가장 흔한 원인으로 알려져 있으며, 다발성 경화증, 종양, 동정맥 기형 등도 원인이 될 수 있습니다. 치료로는 카르바마제핀이 일차 선택약이며, 옥스카르바제핀, 바클로펜, 라모트리진, 가바펜틴 등도 사용될 수 있습니다. 약물 치료에 반응하지 않는 경우 미세혈관 감압술(microvascular decompression)과 같은 수술적 치료를 고려할 수 있습니다. 편두통은 일측성 두통이 흔하지만, 삼차신경통과 달리 통증이 박동성이며 4-72시간 지속되고, 구역, 구토, 빛 공포증, 소리 공포증 등이 동반됩니다. 군발성 두통은 안와 주변의 극심한 통증이 특징이며, 동측 눈물, 결막 충혈, 코막힘, 비루 등의 자율신경계 증상이 동반됩니다. 측두 동맥염은 주로 50세 이상의 노인에서 발생하며, 측두부의 두통, 턱 파행, 시력 변화, 전신 증상(발열, 체중 감소, 피로) 등이 특징입니다. 통증성 당뇨병성 신경병증은 주로 사지, 특히 하지에 영향을 미치는 만성 통증 증후군으로, 화끈거림, 찌르는 듯한 통증, 이상감각 등이 특징입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Trigeminal neuralgia is characterized by brief episodes of sudden, severe, shock-like, stabbing, or lancinating facial pain in the distribution of one or more branches of the fifth cranial nerve. The pain is often triggered by minor sensory stimulation of susceptible areas, the so-called trigger zones. Common triggers include washing the face, brushing the teeth, shaving, eating, drinking, talking, or exposure to cold air. The pain typically lasts for seconds to minutes and may recur multiple times throughout the day. The maxillary (V2) and mandibular (V3) divisions are most commonly affected, and the ophthalmic division (V1) is rarely involved alone. The most common etiology is compression of the trigeminal nerve root by an aberrant loop of an artery or vein, most often the superior cerebellar artery. Other causes include multiple sclerosis, tumors, and arteriovenous malformations. Carbamazepine is the first-line drug treatment, with oxcarbazepine, baclofen, lamotrigine, and gabapentin as alternatives. For medically refractory cases, microvascular decompression or ablative procedures may be considered."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+
+
+
+
+
+
+
+
+
+
 
 
 
