@@ -3358,7 +3358,206 @@
     "content": "Serum sickness is a type III hypersensitivity reaction characterized by fever, urticaria, arthralgia, lymphadenopathy, and occasionally proteinuria, occurring 7-14 days after exposure to the offending agent. First-line treatment includes immediate discontinuation of the causative agent. Systemic corticosteroids (prednisone 0.5-1 mg/kg/day) are indicated for moderate to severe symptoms, with gradual tapering as symptoms resolve, typically over 1-2 weeks. H1 antihistamines help alleviate urticaria and pruritus. NSAIDs may be used for arthralgias, but caution is advised as they can worsen renal manifestations and potentially cross-react in patients with NSAID hypersensitivity. In cases requiring continued antibiotic therapy, a structurally unrelated alternative should be chosen, as cross-reactivity between beta-lactams can occur in up to 10% of cases."
   },
   "category": "Allergy and Immunology"
-}
+}, 
+{
+  "question_id": 172,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "25세 여성이 5일 전부터 시작된 가려움증을 동반한 전신의 팽진과 발적을 주소로 내원하였다. 환자는 평소 건강했으며, 특별한 약물 복용력은 없다고 한다. 증상은 주로 오후에 심해지며 1~2시간 내에 자연적으로 소실되지만 다른 부위에 다시 나타난다고 한다. 최근 2주 전부터 간헐적인 복통과 설사가 있었고, 체중이 3kg 감소했다고 한다. 신체검진에서 다양한 크기의 팽진이 전신에 관찰되며, 압력을 가했을 때 피부 반응이 증가하는 양상이다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "일반혈액검사: WBC 7,500/μL (호산구 5%), Hb 11.5 g/dL, MCV 76 fL, Plt 235,000/μL, 생화학검사: AST/ALT 35/40 IU/L, 철분 45 μg/dL (정상 50-170), 페리틴 15 ng/mL (정상 20-200)",
+  "options": {
+    "A": "만성 특발성 두드러기",
+    "B": "접촉성 두드러기",
+    "C": "셀리악병",
+    "D": "약물 유발성 두드러기",
+    "E": "콜린성 두드러기"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 만성 두드러기(5일 이상 지속)와 함께 소화기 증상(복통, 설사, 체중 감소)을 보이고 있습니다. 특히 체중 감소, 미세혈구성 빈혈(Hb 11.5 g/dL, MCV 76 fL), 철분과 페리틴 감소와 같은 흡수장애 소견이 동반된 점은 셀리악병(Celiac disease)을 강하게 시사합니다. 셀리악병은 글루텐에 대한 면역반응으로 발생하는 자가면역 질환으로, 소장 점막 손상과 흡수장애를 일으키며 두드러기를 포함한 다양한 피부 증상이 나타날 수 있습니다. 만성 특발성 두드러기는 6주 이상 지속되는 특별한 원인이 밝혀지지 않은 두드러기로 정의되나, 이 환자의 소화기 증상과 혈액학적 이상 소견을 설명하지 못합니다. 접촉성 두드러기는 특정 물질과의 접촉 후 즉시 발생하는 국소적 두드러기로, 전신 증상이나 소화기 증상을 동반하지 않습니다. 약물 유발성 두드러기는 특정 약물 복용력이 없다는 점에서 가능성이 낮으며, 콜린성 두드러기는 주로 운동, 스트레스, 열 노출 후 발생하는 작은 팽진이 특징적이나 이 환자의 증상과는 차이가 있습니다.",
+  "source": {
+    "file_name": "Journal of Allergy and Clinical Immunology",
+    "content": "Celiac disease should be considered in patients with chronic urticaria, especially when gastrointestinal symptoms are present. Common laboratory findings include iron deficiency anemia, folate and vitamin B12 deficiencies, and hypoalbuminemia due to malabsorption. A gluten-free diet can lead to resolution of both gastrointestinal and cutaneous manifestations in affected individuals."
+  },
+  "category": "Allergy and Immunology"
+}, 
+{
+  "question_id": 173,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 응급 치료가 필요한 경우 적절한 치료 방법을 선택할 수 있다.",
+  "question": "68세 남성이 조영제 주입 직후 갑작스러운 두드러기, 전신 가려움증, 호흡곤란, 저혈압을 주소로 응급실로 이송되었다. 환자는 관상동맥 조영술을 위해 요오드화 조영제를 정맥 주사로 투여받았으며, 주입 직후 증상이 발생했다고 한다. 과거력상 고혈압으로 ACE 억제제를 복용 중이며, 3년 전 다른 병원에서 CT 검사 시 경미한 발진이 있었다고 한다. 응급실 도착 시 혈압 85/50 mmHg, 맥박 120회/분, 호흡수 28회/분, 산소포화도 88%로 측정되었다. 신체검진에서 전신에 두드러기와 혈관부종이 관찰되며, 청진상 천명음이 들린다. 이 환자의 응급 처치로 가장 적절한 다음 단계는?",
+  "exam": "일반혈액검사: WBC 10,500/μL, Hb 14.0 g/dL, Plt 245,000/μL, 동맥혈 가스분석: pH 7.36, PaO2 68 mmHg, PaCO2 32 mmHg, HCO3 18 mEq/L",
+  "options": {
+    "A": "H1 항히스타민제와 H2 항히스타민제 병용 정맥 투여",
+    "B": "에피네프린 0.3-0.5mg 근육 주사 후 수액 요법 시작",
+    "C": "하이드로코티손 100mg 정맥 투여와 산소 공급",
+    "D": "디펜히드라민 50mg 정맥 투여와 라니티딘 50mg 정맥 투여",
+    "E": "생리식염수 급속 주입과 알부테롤 흡입 치료"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 요오드화 조영제 주입 직후 발생한 전신 두드러기, 호흡곤란(천명음), 저혈압(85/50 mmHg)의 임상상을 보이고 있어 조영제에 의한 아나필락시스로 진단할 수 있습니다. 아나필락시스는 여러 장기계에 영향을 미치는 심각한 전신성 과민반응으로, 조영제는 IgE 매개 기전보다는 직접적인 비만세포 활성화(direct mast cell degranulation)를 통해 아나필락시스를 유발하는 경우가 많습니다. 아나필락시스의 일차 치료는 에피네프린 근육 주사이며, 이는 지체 없이 시행해야 합니다. 성인의 경우 1:1000(1mg/mL) 농도의 에피네프린 0.3-0.5mg을 대퇴부 외측에 근육 주사합니다. 에피네프린은 알파1 수용체 작용을 통해 혈관 수축과 혈압 상승을, 베타1 수용체 작용을 통해 심박출량 증가를, 베타2 수용체 작용을 통해 기관지 확장과 비만세포 안정화를 유도합니다. 저혈압이 있으므로 수액 요법도 즉시 시작해야 합니다. H1 항히스타민제와 H2 항히스타민제는 아나필락시스의 보조 치료로 사용될 수 있지만, 일차 치료는 아니며 단독으로는 생명을 위협하는 아나필락시스 증상을 효과적으로 치료할 수 없습니다. 스테로이드(하이드로코티손)는 후기 반응 예방에 도움이 될 수 있으나 급성기 증상 완화에는 즉각적인 효과가 없으므로, 에피네프린과 수액 요법 후에 투여해야 합니다. 디펜히드라민과 라니티딘의 병용은 피부 증상 완화에 도움이 될 수 있으나, 저혈압과 호흡곤란과 같은 생명을 위협하는 증상에는 제한적인 효과를 보입니다. 생리식염수 급속 주입은 저혈압 치료에 중요하지만, 에피네프린 투여와 함께 시행해야 합니다. 알부테롤 흡입은 기관지 확장에 도움이 될 수 있으나, 에피네프린의 대체 치료가 아닙니다.",
+  "source": {
+    "file_name": "Anaphylaxis: Emergency treatment guidelines",
+    "content": "For anaphylaxis, epinephrine is the first-line treatment and should be administered promptly. In adults, 0.3-0.5 mg of 1:1000 (1 mg/mL) epinephrine solution is given intramuscularly in the mid-anterolateral thigh. Epinephrine can be repeated every 5-15 minutes if needed. Hypotension should be treated with intravenous fluids, preferably crystalloids. Patients should be placed in a supine position with legs elevated, unless respiratory distress is predominant. Oxygen should be administered to patients with respiratory symptoms or hypoxemia. Antihistamines (H1 and H2 antagonists) and corticosteroids are considered second-line treatments and should not delay epinephrine administration. Antihistamines may help relieve cutaneous symptoms but have limited effect on respiratory or cardiovascular symptoms. Corticosteroids may prevent biphasic or protracted reactions but do not act quickly enough to reverse acute symptoms."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 174,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적합한 교육을 할 수 있다.",
+  "question": "23세 여성이 3개월 전부터 심한 운동 후 발생하는 전신 가려움증, 두드러기, 때로는 호흡곤란을 주소로 내원하였다. 환자는 주로 달리기나 에어로빅과 같은 격렬한 운동 후 30분 이내에 증상이 발생하며, 1-2시간 후 자연적으로 호전된다고 한다. 최근에는 특히 더운 날씨에 운동할 때 증상이 더 심해졌다고 한다. 환자는 또한 뜨거운 샤워나 사우나 후에도 비슷한 증상을 경험한 적이 있다고 한다. 신체검진에서 현재 피부 병변은 관찰되지 않았다. 내원 당일 실시한 운동 유발 검사에서 10분간 달리기 후 전신에 다수의 팽진이 발생하였다. 이 환자에게 제공해야 할 가장 적절한 교육 내용은?",
+  "exam": "일반혈액검사: 정상, 호산구 3%, 총 IgE: 180 IU/mL (정상 <100), 트립타제(기저): 4.2 μg/L (정상 <11.4), 알레르기 피부단자 검사: 음성",
+  "options": {
+    "A": "운동을 영구적으로 중단하고 실내에서만 활동한다.",
+    "B": "운동 전 4시간 이내 음식 섭취를 피하고, 운동 1시간 전 항히스타민제를 복용한다.",
+    "C": "베타차단제를 정기적으로 복용하여 심박수 상승을 억제한다.",
+    "D": "오말리주맙을 4주마다 피하 주사로 투여한다.",
+    "E": "증상이 발생할 때마다 전신 스테로이드를 복용한다."
+  },
+  "answer": "B",
+  "explanation": "이 환자는 운동 유발 두드러기/아나필락시스(Exercise-induced urticaria/anaphylaxis)의 임상상을 보이고 있습니다. 운동 후 30분 이내에 두드러기, 가려움증이 발생하고, 때로는 호흡곤란과 같은 전신 증상도 동반됩니다. 또한 더운 날씨, 뜨거운 샤워나 사우나와 같은 체온 상승 요인에 의해 증상이 악화되는 특징을 보이는데, 이는 온열 요인이 증상 발생에 기여함을 시사합니다(cholinergic urticaria의 요소). 운동 유발 두드러기의 관리에서 가장 중요한 것은 예방입니다. 특히 음식 의존성 운동 유발 아나필락시스(Food-dependent exercise-induced anaphylaxis, FDEIA)의 가능성을 고려하여, 운동 전 4-6시간 이내 음식 섭취를 피하는 것이 권장됩니다. 또한 예방적으로 운동 1시간 전 항히스타민제(특히 2세대 항히스타민제)를 복용하면 증상 발생을 줄이거나 심각도를 낮출 수 있습니다. 운동을 영구적으로 중단하는 것은 지나친 제한이며, 삶의 질을 크게 저하시킬 수 있습니다. 대신 증상 유발을 최소화하기 위한 조절 방법(예: 더운 날씨 피하기, 단독 운동 피하기, 점진적 운동 시작, 음식 섭취 조절)을 교육하는 것이 바람직합니다. 베타차단제는 아나필락시스 발생 시 에피네프린의 효과를 감소시킬 수 있으므로, 아나필락시스 위험이 있는 환자에게는 오히려 금기입니다. 오말리주맙은 중증 만성 자발성 두드러기 치료에 효과적이지만, 운동 유발 두드러기의 일차 치료로는 권장되지 않습니다. 전신 스테로이드의 반복적 사용은 심각한 부작용 위험이 있어 권장되지 않으며, 운동 유발 두드러기의 예방이나 일상적 치료로 적절하지 않습니다.",
+  "source": {
+    "file_name": "Journal of Allergy and Clinical Immunology: In Practice",
+    "content": "Management of exercise-induced urticaria/anaphylaxis includes both preventive measures and acute treatment. Patients should avoid exercising within 4-6 hours after eating, particularly if food-dependent exercise-induced anaphylaxis (FDEIA) is suspected. Premedication with H1 antihistamines 1-2 hours before exercise may be helpful in preventing or reducing symptoms. Patients should be advised to exercise with a partner, carry emergency medications including epinephrine auto-injectors if anaphylaxis has occurred, and wear medical alert identification. Exercise in extreme temperatures should be avoided, and patients should stop exercising at the first sign of symptoms. Beta-blockers are contraindicated as they may reduce the effectiveness of epinephrine in case of anaphylaxis. A graduated exercise program starting at a low intensity and gradually increasing may help some patients develop tolerance."
+  },
+  "category": "Allergy and Immunology"
+}, 
+ {
+  "question_id": 175,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "58세 남성이 6개월 전부터 발생한 반복적인 얼굴과 입술의 부종으로 내원하였다. 부종은 통증이나 가려움 없이 갑자기 발생하여 2-3일간 지속된 후 자연적으로 소실되는 양상이며, 두드러기는 동반되지 않았다. 환자는 3년 전부터 고혈압으로 진단받고 약물을 복용 중이다. 가족력상 아버지와 형이 비슷한 증상을 경험했다고 한다. 신체검진에서 현재 얼굴과 입술의 부종은 관찰되지 않으며, 다른 특이 소견은 없다. 이 환자의 진단을 위해 가장 적절한 검사는?",
+  "exam": "일반혈액검사: WBC 6,500/μL, Hb 14.0 g/dL, Plt 230,000/μL, ESR 12 mm/hr, CRP 0.3 mg/dL",
+  "options": {
+    "A": "C1 에스테라제 억제제(C1-INH) 기능 및 항원 검사",
+    "B": "식품 알레르기 피부단자 검사",
+    "C": "혈청 트립타제 수치 측정",
+    "D": "약물 유발 림프구 자극 검사(DLST)",
+    "E": "항핵항체(ANA) 및 류마티스 인자(RF) 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 가려움이나 두드러기 없이 얼굴과 입술에 반복적으로 부종이 발생하고, 비교적 오래(2-3일) 지속되며, 가족력이 있는 점이 특징적입니다. 또한 고혈압 치료를 위해 약물(가능성 높은 것은 ACE 억제제)을 복용하고 있습니다. 이러한 임상 양상은 유전성 혈관부종(Hereditary Angioedema, HAE) 또는 ACE 억제제 유발 혈관부종을 강하게 시사합니다. 유전성 혈관부종은 C1 에스테라제 억제제(C1-INH)의 결핍 또는 기능 이상으로 인해 발생하는 드문 유전성 질환으로, 가족력이 있고 두드러기 없이 혈관부종만 나타나는 것이 특징입니다. 진단을 위해서는 C1-INH 항원 수치와 기능, C4 수치를 측정해야 합니다. C1-INH 항원 수치와 기능이 모두 감소되어 있으면 제1형 HAE, C1-INH 항원 수치는 정상이나 기능이 감소되어 있으면 제2형 HAE로 진단할 수 있습니다. ACE 억제제 유발 혈관부종도 두드러기 없이 발생하지만, 약물 중단 후 점차 호전되는 경향이 있습니다. 식품 알레르기 피부단자 검사는 IgE 매개 알레르기 반응을 확인하는 데 유용하지만, 이 환자의 임상 양상(두드러기 없음, 장시간 지속, 가족력)과 일치하지 않습니다. 혈청 트립타제는 비만세포 활성화(예: 아나필락시스)를 평가하는 데 유용하지만, 이 환자의 증상은 비만세포 매개 반응을 시사하지 않습니다. 약물 유발 림프구 자극 검사는 약물 알레르기 평가에 이용되나 민감도와 특이도가 제한적이며, 이 환자의 가족력을 설명하지 못합니다. 자가면역 검사(ANA, RF)는 결합조직질환과 관련된 혈관부종을 평가할 수 있으나, 이 환자의 가족력과 임상 양상은 자가면역 질환보다 유전성 혈관부종에 더 부합합니다.",
+  "source": {
+    "file_name": "World Allergy Organization Journal",
+    "content": "The diagnosis of HAE is confirmed by measuring C1-INH antigenic protein levels and function, and C4 levels. In HAE type I (85% of cases), both C1-INH antigenic levels and function are low. In HAE type II (15% of cases), C1-INH antigenic levels are normal or elevated, but function is impaired. C4 levels are typically low in both types, even between attacks. Family history is present in about 75% of cases, as HAE follows an autosomal dominant inheritance pattern. HAE is characterized by recurrent episodes of non-pruritic, non-urticarial angioedema affecting the skin, gastrointestinal tract, and upper airway. The swelling is self-limited but typically lasts 2-5 days without treatment."
+  },
+  "category": "Allergy and Immunology"
+}, 
+{
+  "question_id": 176,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적합한 교육을 할 수 있다.",
+  "question": "28세 여성이 차가운 물에 접촉하면 발생하는 두드러기와 가려움증으로 내원하였다. 환자는 겨울철 세수를 하거나 수영장에 들어갈 때마다 노출된 부위에 가려움증, 발적, 팽진이 발생한다고 한다. 증상은 보통 노출 후 수분 내에 시작되어 30분 정도 지속된다고 한다. 냉 유발 검사에서 양성 반응을 보였다. 이 환자에게 제공해야 할 가장 적절한 교육 내용은?",
+  "exam": "차가운 물(4°C)에 적신 거즈를 전완부에 5분간 적용한 후 발적과 팽진이 관찰되었다. 냉 유발 검사 양성으로 판정되었다.",
+  "options": {
+    "A": "평생 항히스타민제를 매일 복용해야 한다.",
+    "B": "갑작스러운 차가운 물 노출을 피하고, 수영 전 항히스타민제를 복용한다.",
+    "C": "가족 구성원들도 유전자 검사를 받아야 한다.",
+    "D": "음식 일기를 작성하여 악화 요인이 되는 식품을 파악한다.",
+    "E": "실내 알레르겐 노출을 최소화하기 위해 집을 정기적으로 청소한다."
+  },
+  "answer": "B",
+  "explanation": "이 환자는 냉 유발 검사 양성 소견을 보이는 한랭 두드러기(Cold urticaria)로 진단할 수 있습니다. 한랭 두드러기는 물리적 두드러기의 한 형태로, 차가운 공기, 물, 음식 등에 노출된 후 접촉 부위에 두드러기와 혈관부종이 발생하는 것이 특징입니다. 이 환자의 경우 차가운 물에 접촉할 때마다 증상이 발생하고 있으므로, 가장 중요한 교육 내용은 갑작스러운 차가운 물 노출을 피하고, 불가피한 노출 전에는 항히스타민제를 예방적으로 복용하도록 하는 것입니다. 특히 전신 노출(예: 수영)은 심각한 전신 반응이나 아나필락시스를 유발할 수 있으므로 주의가 필요합니다. 한랭 두드러기 환자는 수영 전 항히스타민제를 복용하고, 가능하면 다른 사람이 있는 환경에서 수영하며, 점진적으로 차가운 물에 들어가는 것이 좋습니다. 항히스타민제는 증상 조절에 도움이 되지만, 모든 환자가 평생 매일 복용해야 하는 것은 아닙니다. 증상의
+ 중증도와 빈도에 따라 필요시 복용하거나, 노출이 예상될 때 예방적으로 복용할 수 있습니다. 대부분의 한랭 두드러기는 후천성이며 가족성 한랭 자가염증 증후군(FCAS)과 같은 드문 유전성 질환을 제외하고는 가족력이 없으므로, 이 환자의 가족 구성원들에게 유전자 검사를 권장할 필요는 없습니다. 음식 일기 작성은 식품 알레르기나 식품 유발 두드러기가 의심될 때 유용하지만, 이 환자의 증상은 명확히 차가운 물 노출과 관련이 있습니다. 실내 알레르겐 관리는 알레르기성 비염이나 천식과 같은 호흡기 알레르기 질환에 중요하지만, 한랭 두드러기와는 직접적인 관련이 없습니다.",
+  "source": {
+    "file_name": "European Academy of Allergy and Clinical Immunology (EAACI) guideline on cold urticaria",
+    "content": "Patient education is crucial in cold urticaria management. Patients should be advised to avoid sudden exposure to cold, especially swimming in cold water, which can cause systemic reactions or anaphylaxis due to massive histamine release. For patients who need to be exposed to cold triggers, premedication with antihistamines 1-2 hours before anticipated exposure is recommended. Patients should be advised to enter cold water gradually and never swim alone. They should carry emergency medication including epinephrine auto-injectors if they have experienced systemic reactions in the past. Unlike hereditary angioedema, most cases of cold urticaria are acquired and do not require genetic testing of family members."
+  },
+  "category": "Dermatology"
+}, 
+{
+  "question_id": 177,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인물질을 추정하고 필요한 검사를 선택할 수 있다.",
+  "question": "32세 여성이 3개월간 지속되는 두드러기로 내원하였다. 환자는 두드러기가 하루에도 여러 번 다른 부위에 나타나고, 개별 병변은 24시간 이내에 사라진다고 한다. 특정 음식이나 약물, 환경 노출과의 연관성은 찾을 수 없었다. 증상은 스트레스를 받을 때 악화되는 경향이 있으며, 때로는 압력을 가했을 때 발적이 발생한다고 한다. 신체검진에서 몸통과 사지에 다양한 크기의 팽진과 발적이 관찰되었고, 피부묘기증 검사에서 양성 반응을 보였다. 기본 혈액검사, 간기능검사, 갑상선기능검사는 모두 정상이었다. 이 환자에게 가장 적절한 다음 단계 검사는?",
+  "exam": "일반혈액검사: 정상, 간기능검사: 정상, 갑상선기능검사: 정상, 총 IgE: 110 IU/mL (정상 <100), 소변검사: 정상",
+  "options": {
+    "A": "세균 및 바이러스성 감염 표지자 검사",
+    "B": "알레르기 피부단자 검사",
+    "C": "자가면역 갑상선항체 검사",
+    "D": "기생충 감염 검사",
+    "E": "식품 알레르기 혈청 특이 IgE 패널 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3개월 이상 지속되는 만성 자발성 두드러기(Chronic Spontaneous Urticaria, CSU)의 임상상을 보이고 있습니다. 두드러기 병변이 24시간 이내에 사라지고, 하루에도 여러 번 다른 부위에 나타나는 전형적인 양상을 보이며, 특정 유발 요인이 확인되지 않았습니다. 만성 자발성 두드러기는 약 40-45%에서 자가면역 기전과 관련이 있으며, 특히 갑상선 자가항체가 증가되어 있는 경우가 많습니다. 2021년 국제 두드러기 가이드라인(EAACI/GA²LEN/EuroGuiDerm/APAAACI)에 따르면, 만성 두드러기 환자에서 광범위한 선별검사는 권장되지 않지만, 임상적으로 의심되는 경우 특정 검사를 시행할 수 있습니다. 이 환자는 기본 검사에서 특이 소견이 없고 특발성(idiopathic) 두드러기로 생각되므로, 자가면역성 두드러기의 가능성을 평가하기 위해 자가면역 갑상선항체 검사(항TPO항체, 항티로글로불린항체)가 적절합니다. 알레르기 피부단자 검사나 특이 IgE 패널 검사는 IgE 매개 알레르기가 의심될 때 유용하지만, 이 환자의 경우 특정 알레르겐과의 연관성이 없고 만성적인 경과를 보이므로 우선순위가 낮습니다. 세균 및 바이러스성 감염 표지자 검사는 급성 두드러기나 감염과의 시간적 연관성이 있을 때 고려할 수 있으나, 3개월간 지속되는 만성 경과에는 덜 관련이 있습니다. 기생충 감염 검사는 여행력, 소화기 증상, 호산구 증가 등이 있을 때 고려하지만, 이 환자의 병력과 검사 결과에서 이러한 소견은 보이지 않습니다.",
+  "source": {
+    "file_name": "EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis and management of urticaria",
+    "content": "In CSU, autoimmunity plays a significant role in 40-45% of patients. Thyroid autoimmunity is particularly common, with anti-thyroid peroxidase (anti-TPO) antibodies being the most frequently detected. The presence of thyroid autoantibodies may not directly cause urticaria but serves as a marker for autoimmune processes. Routine extensive screening tests are not recommended for all patients with CSU, but targeted investigations based on clinical suspicion should be performed. For patients with chronic urticaria without obvious causes after initial evaluation, testing for thyroid autoantibodies should be considered."
+  },
+  "category": "Allergy and Immunology"
+}, 
+{
+  "question_id": 178,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+  "question": "38세 여성이 6개월 전부터 시작된 만성 두드러기로 내원하였다. 환자는 거의 매일 전신에 두드러기가 발생하며, 심한 가려움증으로 인해 수면 장애를 호소한다. 증상은 특정 음식이나 약물과 관련이 없으며, 2세대 H1 항히스타민제(세티리진 10mg/일)를 4주간 복용했으나 증상 조절이 불충분했다. 추가 검사에서 갑상선 자가항체 양성 소견을 보였으나, 갑상선 기능은 정상이었다. 자가면역 두드러기를 의심하여 시행한 자가혈청 피부반응 검사에서 양성 반응을 보였다. 이 환자의 다음 단계 치료로 가장 적절한 것은?",
+  "exam": "일반혈액검사: 정상, 항TPO항체: 양성(320 IU/mL, 정상 <35), 갑상선기능검사: 정상, 자가혈청 피부반응 검사: 양성",
+  "options": {
+    "A": "세티리진을 10mg에서 20mg으로 증량",
+    "B": "히드록시진 25mg 취침 전 추가",
+    "C": "H2 항히스타민제(라니티딘 150mg 1일 2회) 추가",
+    "D": "몬테루카스트 10mg 1일 1회 추가",
+    "E": "단기간 전신 스테로이드(프레드니솔론 40mg/일) 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 6개월 이상 지속된 만성 자발성 두드러기(Chronic Spontaneous Urticaria, CSU)로, 표준 용량의 2세대 H1 항히스타민제(세티리진 10mg/일)에 불충분한 반응을 보이고 있습니다. 갑상선 자가항체 양성과 자가혈청 피부반응 검사 양성은 자가면역성 기전을 시사합니다. 2021년 개정된 국제 두드러기 가이드라인(EAACI/GA²LEN/EuroGuiDerm/APAAACI)에 따르면, 만성 두드러기의 단계적 치료 접근법에서 표준 용량의 2세대 H1 항히스타민제에 불충분한 반응을 보이는 경우, 다음 단계로 항히스타민제 용량을 증량(최대 4배까지)하는 것이 권장됩니다. 따라서 세티리진을 10mg에서 20mg으로 증량하는 것이 가장 적절한 치료 선택입니다. 증량된 용량에서도 2-4주 후 효과가 불충분하면, 다음 단계로 오말리주맙 추가를 고려합니다. 1세대 H1 항히스타민제(히드록시진)는 진정 작용과 인지 기능 저하 등의 부작용으로 인해 2세대 H1 항히스타민제의 대체로 권장되지 않습니다. 특히 이 환자는 이미 수면 장애를 호소하고 있는데, 1세대 항히스타민제의 진정 작용이 낮 시간의 기능에 영향을 미칠 수 있습니다. H2 항히스타민제(라니티딘) 추가는 과거에는 권장되었으나, 최신 가이드라인에서는 그 효과에 대한 증거가 제한적이라고 평가됩니다. 몬테루카스트는 일부 환자에서 도움이 될 수 있으나, 항히스타민제 증량보다 우선되지 않습니다. 전신 스테로이드는 급성 두드러기 악화 시 단기간(최대 10일) 사용할 수 있으나, 장기적인 관리에는 부적합하며 부작용 위험이 높습니다. 이 환자는 만성 경과를 보이므로 스테로이드보다는 항히스타민제 증량이 더 적절합니다.",
+  "source": {
+    "file_name": "EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis and management of urticaria",
+    "content": "In patients with CSU unresponsive to standard doses of second-generation H1-antihistamines, the recommended second-line treatment is to increase the dose up to fourfold the standard or licensed dose. This approach is supported by high-quality evidence and has a better safety profile compared to alternative treatments. Second-generation H1-antihistamines should be preferred over first-generation H1-antihistamines due to their better safety profile, especially regarding central nervous system effects and impairment of cognitive function. The addition of H2-antihistamines or leukotriene receptor antagonists (e.g., montelukast) has limited evidence of efficacy in CSU and is no longer strongly recommended in the updated guidelines. Systemic corticosteroids should be avoided for the long-term management of CSU due to their unfavorable risk-benefit ratio. Short-term use (up to 10 days) may be considered for acute exacerbations, but not for routine management."
+  },
+  "category": "Dermatology"
+}, 
+{
+  "question_id": 179,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+  "question": "30세 여성이 만성 자발성 두드러기로 내원하였다. 환자는 6개월 이상 거의 매일 두드러기가 발생하며, 고용량(4배 용량)의 2세대 H1 항히스타민제와 오말리주맙 300mg 매월 투여에도 불구하고 증상이 지속되고 있다. 두드러기 활성도 점수(UAS7)는 여전히 24점(최대 42점)으로 중등도 이상의 활성도를 보인다. 환자는 심한 가려움증으로 인한 수면 장애와 일상생활 지장을 호소한다. 모든 기본 검사는 정상이었으나 자가혈청 피부반응 검사에서는 양성 반응을 보였다. 이 환자에게 가장 적절한 추가 치료는?",
+  "exam": "일반혈액검사: 정상, 갑상선기능검사: 정상, 항갑상선항체: 음성, 자가혈청 피부반응 검사: 양성",
+  "options": {
+    "A": "사이클로스포린 3-5mg/kg/일 경구 투여",
+    "B": "프레드니솔론 0.5mg/kg/일 장기 투여",
+    "C": "메토트렉세이트 10-15mg/주 경구 투여",
+    "D": "미코페놀레이트 모페틸 1-2g/일 경구 투여",
+    "E": "다프손 50-100mg/일 경구 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 고용량의 2세대 H1 항히스타민제와 오말리주맙 치료에도 불구하고 증상이 지속되는 치료 저항성 만성 자발성 두드러기(CSU)입니다. 2021년 국제 두드러기 가이드라인(EAACI/GA²LEN/EuroGuiDerm/APAAACI)에 따르면, CSU의 단계적 치료에서 4단계 치료로 사이클로스포린 A를 추가하는 것이 권장됩니다. 사이클로스포린은 T세포 활성화를 억제하고, 사이토카인 생성을 감소시키며, 비만세포의 히스타민 분비를 직접 억제하는 효과가 있습니다. 여러 무작위 대조 시험에서 CSU에 대한 사이클로스포린의 효과가 입증되었으며, 특히 자가면역성 CSU 환자에서 효과적입니다. 일반적인 용량은 3-5mg/kg/일을 2회로 나누어 경구 투여하며, 효과는 대개 2-4주 내에 나타납니다. 그러나 신독성, 고혈압, 다모증 등의 부작용 위험이 있어 정기적인 혈압 및 신기능 모니터링이 필요합니다. 전신 스테로이드(프레드니솔론)는 급성 악화 시 단기간(최대 10일) 사용할 수 있으나, 장기 사용은 심각한 부작용 위험으로 인해 권장되지 않습니다. 메토트렉세이트와 미코페놀레이트 모페틸은 면역억제제로 CSU에 사용될 수 있으나, 현재 가이드라인에서 사이클로스포린보다 우선 권장되지는 않습니다. 다프손은 주로 자가면역 수포성 질환과 호중구성 피부질환에 사용되는 약물로, 일부 연구에서 CSU에 효과가 보고되었으나 근거 수준이 낮고 용혈성 빈혈 등의 심각한 부작용 위험이 있어 일차적으로 권장되지 않습니다.",
+  "source": {
+    "file_name": "EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis and management of urticaria",
+    "content": "For patients with CSU who remain symptomatic despite up-dosing of antihistamines and add-on omalizumab, cyclosporine A is recommended as fourth-line therapy. The recommended dose is 3-5 mg/kg/day in two divided doses. Cyclosporine A has been shown to be effective in CSU in several randomized controlled trials, with response rates of 65-95%. It is particularly effective in patients with positive autologous serum skin test results, suggesting an autoimmune etiology. The onset of action is usually within 2-4 weeks. However, cyclosporine A has a less favorable safety profile compared to antihistamines and omalizumab, with potential side effects including nephrotoxicity, hypertension, hirsutism, and increased risk of infections and malignancies. Regular monitoring of blood pressure and renal function is mandatory. Systemic corticosteroids should be avoided for the long-term management of CSU due to their unfavorable risk-benefit ratio. Alternative immunosuppressants such as methotrexate, mycophenolate mofetil, and dapsone have been reported to be effective in small studies or case series, but evidence is limited and these are not included in the main treatment algorithm."
+  },
+  "category": "Dermatology"
+}, 
+{
+  "question_id": 180,
+  "chief_complaint": "두드러기/혈관부종",
+  "purpose": "두드러기나 혈관부종이 있는 사람에게 원인에 따른 적합한 교육을 할 수 있다.",
+  "question": "27세 여성이 피부 압박 후 발생하는 팽진과 발적을 주소로 내원하였다. 환자는 꽉 끼는 옷을 입거나, 가방 끈이 닿는 부위, 또는 단단한 의자에 앉았을 때 해당 부위에 가려움증을 동반한 부종과 발적이 발생한다고 한다. 증상은 보통 30분에서 2시간 정도 지속되다가 자연적으로 소실된다고 한다. 신체검진에서 특이 소견은 없었으나, 진찰 중 피부에 펜으로 글씨를 쓰자 몇 분 후 해당 부위가 부풀어 오르며 발적이 나타났다. 이 환자에게 제공해야 할 가장 적절한 교육 내용은?",
+  "exam": "일반혈액검사: 정상, 총 IgE: 95 IU/mL (정상 <100), 피부묘기증 검사: 양성(피부에 압력을 가한 부위에 팽진과 발적 발생)",
+  "options": {
+    "A": "모든 형태의 압박을 완전히 피하고 항히스타민제를 매일 복용한다.",
+    "B": "압력이 가해질 것으로 예상되는 부위에 미리 국소 스테로이드를 도포한다.",
+    "C": "꽉 끼는 옷과 액세서리를 피하고, 필요시 예방적으로 항히스타민제를 복용한다.",
+    "D": "증상 발생 시마다 전신 스테로이드를 단기간 복용한다.",
+    "E": "특별한 주의사항 없이 일상생활을 유지하되, 증상 발생 시 항히스타민제만 복용한다."
+  },
+  "answer": "C",
+  "explanation": "이 환자는 피부묘기증(dermatographism) 또는 압박성 두드러기(pressure urticaria)의 전형적인 증상을 보이고 있습니다. 피부묘기증은 피부에 압력이나 마찰이 가해졌을 때 해당 부위에 팽진과 발적이 나타나는 물리적 두드러기의 흔한 형태입니다. 대부분의 경우 양성(단순) 피부묘기증으로, 실제 임상적 의미는 크지 않습니다. 그러나 증상이 심하거나 일상생활에 지장을 주는 경우에는 적절한 관리가 필요합니다. 이 환자에게 가장 적절한 교육 내용은 꽉 끼는 옷과 액세서리를 피하고, 필요시 예방적으로 항히스타민제를 복용하는 것입니다. 피부묘기증/압박성 두드러기 환자는 다음과 같은 관리 전략이 도움이 될 수 있습니다: 1) 유발 요인(꽉 끼는 옷, 벨트, 가방 끈, 단단한 의자 등)을 가능한 피하거나 최소화합니다. 2) 증상이 심한 경우 2세대 H1 항히스타민제를 예방적으로 복용할 수 있으며, 필요시 용량을 증량할 수 있습니다. 3) 중요한 행사나 활동 전에 항히스타민제를 미리 복용하는 것이 도움될 수 있습니다. 모든 형태의 압박을 완전히 피하는 것은 실질적으로 불가능하며, 일상생활을 지나치게 제한할 수 있습니다. 국소 스테로이드는 피부묘기증/압박성 두드러기에 효과적이지 않으며, 장기간 사용 시 피부 위축 등의 부작용이 발생할 수 있습니다. 전신 스테로이드는 일시적인 효과가 있을 수 있으나, 반복적인 사용은 심각한 부작용의 위험이 있으므로 피부묘기증과 같은 만성적인 상태에는 적합하지 않습니다. 특별한 주의사항 없이 일상생활을 유지하는 것은 지속적인 증상과 불편함을 초래할 수 있으므로, 적절한 예방 조치와 함께 생활 습관을 조정하는 것이 바람직합니다.",
+  "source": {
+    "file_name": "Journal of Allergy and Clinical Immunology: In Practice",
+    "content": "Dermatographism and pressure urticaria are common forms of physical urticaria characterized by wheals and erythema occurring at sites of skin friction or pressure. Patient education is key to management and should include avoidance strategies for trigger factors such as tight clothing, belts, straps, and firm seating surfaces. Second-generation H1-antihistamines are the mainstay of pharmacological treatment and can be taken prophylactically before anticipated exposure to triggers or on a regular basis for more severe symptoms. Up-dosing of antihistamines (up to 4x the standard dose) may be necessary for adequate symptom control. Topical corticosteroids are ineffective for these conditions. Systemic corticosteroids should be avoided due to their unfavorable risk-benefit ratio for long-term management. While complete avoidance of all pressure is impractical, patients should be advised on reasonable modifications to minimize symptoms while maintaining quality of life."
+  },
+  "category": "Dermatology"
+}, 
+
+
+
+
+
+
+
+
+
 
 
 
