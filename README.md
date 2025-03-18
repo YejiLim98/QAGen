@@ -5,7 +5,17 @@
 2. 각자 Branch에 생성한 json 파일(QASet)과 활용한자료들 업로드 (ex. Prompt, 사용한 모델 기록)
 3. 추후에 main branch에 업로드
 
-### 
+### Branch 구성
+```
+QAGen
+├── folder1/
+│   ├── file1.js
+│   └── file2.js
+├── folder2/
+│   ├── file3.js
+│   └── file4.js
+└── README.md
+```
 
 ### HuggingFace 업데이트 
 - 데이터셋 완료 후 2_add_dataset.py 코드를 활용하여 HuggingFace에 해당 데이터셋 업로드
