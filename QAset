@@ -5642,7 +5642,96 @@
   "source": "urology_Adams_textbook_data.txt, 'Urolithiasis is a common cause of urinary tract obstruction and can lead to acute kidney injury if the obstruction is bilateral or occurs in a solitary functioning kidney. Patients typically present with acute flank pain, hematuria, and sometimes nausea and vomiting. As the obstruction progresses, oliguria or anuria may develop. Computed tomography (CT) urography is the gold standard for diagnosing urinary tract stones, with a sensitivity and specificity exceeding 95%. Non-contrast CT can identify the size, location, and density of stones, while the addition of intravenous contrast allows assessment of renal function and the degree of obstruction. CT can also identify other causes of obstruction such as tumors, blood clots, or papillary necrosis. Management includes pain control, hydration, and relief of obstruction through either ureteral stent placement or percutaneous nephrostomy if the obstruction is causing significant renal impairment. Prompt relief of obstruction is essential to prevent permanent renal damage.'",
   "category": "Urology"
 },
-
+{
+"question_id": 6,
+"chief complaint": "무뇨증/핍뇨증",
+"purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+"question": "72세 남성이 3일 전부터 점차 악화되는 소변량 감소와 전신 부종으로 응급실에 내원하였다. 환자는 알코올성 간경변 진단을 받았으며, 1주일 전 소화불량으로 복용한 비스테로이드성 항염증제 이후 상태가 악화되었다고 한다. 5일 전 복부 팽만감이 심해졌으며, 3일 전부터 하루 소변량이 300mL 미만으로 감소했다고 한다. 과거력상 20년간의 만성 알코올 섭취력이 있고, 10년 전 알코올성 간경변을 진단받았으며, 3년 전부터 복수가 발생하여 이뇨제와 염분 제한 식이로 조절해왔다. 내원 당시 혈압 90/60 mmHg, 맥박 110회/분, 체온 36.8°C였다. 신체 검사에서 공막 황달, 거미 모양 혈관종, 손바닥 홍반이 관찰되었고, 복부는 팽만되어 있었으며 이동 탁음이 확인되었다. 양측 하지에 중등도의 함요부종이 있었다. 이 환자의 임상 증상과 검사 소견을 종합할 때 가장 가능성이 높은 원인은?",
+"exam": "혈액 검사: Hb 11.0 g/dL, 백혈구 9,500/μL, 혈소판 85,000/μL, BUN 65 mg/dL, 크레아티닌 3.2 mg/dL, Na 128 mEq/L, K 4.9 mEq/L, 총 빌리루빈 4.5 mg/dL, 알부민 2.8 g/dL, AST 85 U/L, ALT 62 U/L\n소변 검사: 비중 1.018, 단백질 1+, RBC 0-2/HPF, WBC 0-2/HPF\n소변 나트륨 <10 mEq/L, 분획배설나트륨(FENa) 0.5%\n신장 초음파: 양측 신장 크기 정상, 에코 증가, 수신증 없음\n복부 초음파: 간경변 소견, 중등도의 복수",
+"options": {
+"A": "급성 세뇨관 괴사",
+"B": "간신증후군",
+"C": "급성 사구체신염",
+"D": "급성 간질성 신염",
+"E": "양측성 요로 폐쇄"
+},
+"answer": "B",
+"explanation": "이 환자는 간신증후군(hepatorenal syndrome)의 전형적인 임상양상을 보이고 있다. 간신증후군은 진행된 간경변, 급성 간부전 또는 알코올성 간염 환자에서 발생하는 기능적 신부전으로, 신장 자체에는 구조적 이상이 없으나 신장 혈류량 감소로 인해 신기능이 저하된다. 이 환자는 만성 알코올성 간경변이 있으며, 비스테로이드성 항염증제 복용 후 상태가 악화되었다. NSAIDs는 신장 혈류량을 감소시켜 간경변 환자에서 간신증후군을 유발할 수 있는 위험 요인이다. 검사 소견에서 BUN과 크레아티닌이 상승되어 있으며, 소변 나트륨이 10 mEq/L 미만, 분획배설나트륨이 1% 미만으로 콩팥 전성 원인을 시사한다. 이러한 소견은 간신증후군에 합당하다. 또한 간신증후군의 주요 진단 기준인 간경변과 복수가 있고, 소변량이 감소했으며, 다른 원인으로 설명되지 않는 혈청 크레아티닌 상승이 있다. 간신증후군의 유발 요인으로는 이뇨제 과다 사용, 대량 복수천자, 위장관 출혈, 감염, NSAIDs 사용 등이 있다. 급성 세뇨관 괴사는 저혈압, 패혈증, 신독성 약물 등에 의한 신손상으로, 분획배설나트륨이 2% 이상으로 증가하는 특징이 있으나, 이 환자는 분획배설나트륨이 0.5%로 낮다. 급성 사구체신염은 소변에서 적혈구, 적혈구 원주, 단백뇨가 특징이나, 이 환자의 소변 검사에서는 이러한 소견이 없다. 급성 간질성 신염은 약물 과민반응에 의한 것으로, 소변에서 백혈구, 백혈구 원주, 호산구가 관찰되는 특징이 있으나, 이 환자의 소변 검사에서는 이러한 소견이 없다. 양측성 요로 폐쇄는 요로결석, 종양, 전립선 비대 등에 의해 발생하며, 초음파에서 수신증이 관찰되는 특징이 있으나, 이 환자의 초음파에서는 수신증이 없다.",
+"source": "InternalMed_Harrison_textbook_data.txt, 'Hepatorenal syndrome (HRS) is a form of functional renal failure that occurs in patients with advanced liver disease, characterized by reduced renal blood flow and glomerular filtration rate without significant histologic abnormalities in the kidney. HRS is classified into type 1 (rapidly progressive) and type 2 (slower onset). Diagnostic criteria include cirrhosis with ascites, serum creatinine >1.5 mg/dL, no improvement after volume expansion with albumin, absence of shock, no recent use of nephrotoxic drugs, and absence of parenchymal kidney disease. Laboratory findings typically show elevated BUN and creatinine, low urine sodium (<10 mEq/L), and low fractional excretion of sodium (<1%). Precipitating factors include large-volume paracentesis without albumin replacement, gastrointestinal bleeding, infection (especially spontaneous bacterial peritonitis), and use of NSAIDs or diuretics. Treatment includes albumin infusion, vasoconstrictors (terlipressin, norepinephrine, or midodrine plus octreotide), and consideration for liver transplantation in eligible candidates.'",
+"category": "Nephrology"
+},
+{
+"question_id": 7,
+"chief complaint": "무뇨증/핍뇨증",
+"purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+"question": "65세 여성이 갑작스러운 소변량 감소와 전신 부종으로 응급실에 내원하였다. 환자는 3일 전 관상동맥 조영술을 시행받았으며, 하루 후부터 소변량이 감소하기 시작했다고 한다. 환자는 내원 전날부터는 거의 소변을 보지 못했다고 한다. 과거력상 고혈압, 당뇨병, 고지혈증이 있으며, 1년 전 협심증으로 진단받았다. 3일 전 불안정 협심증으로 응급 관상동맥 조영술을 시행받았고, 우관상동맥에 스텐트를 삽입했다. 약물 복용력으로는 aspirin, clopidogrel, atorvastatin, metformin, amlodipine이 있다. 내원 당시 혈압 150/90 mmHg, 맥박 96회/분, 체온 37.0°C였다. 신체 검사에서 경정맥 확장, 양측 폐하부의 악설음, 양측 하지의 함요부종이 관찰되었다. 이 환자의 급성 신손상 원인을 확인하기 위한 가장 적절한 다음 검사는?",
+"exam": "혈액 검사: BUN 65 mg/dL, 크레아티닌 4.2 mg/dL(기저치 1.1 mg/dL), Na 138 mEq/L, K 5.5 mEq/L, Cl 102 mEq/L, HCO3 18 mEq/L, 칼슘 8.2 mg/dL, 인 5.8 mg/dL\n소변 검사: 비중 1.012, 단백질 2+, 잠혈 1+, RBC 5-10/HPF, WBC 0-2/HPF, 갈색 과립원주 다수\n소변 나트륨 35 mEq/L, 분획배설나트륨(FENa) 2.5%",
+"options": {
+"A": "신장 생검",
+"B": "신장 도플러 초음파",
+"C": "혈중 보체(C3, C4) 검사",
+"D": "요중 호산구 검사",
+"E": "혈중 크레아틴키나아제(CK) 검사"
+},
+"answer": "B",
+"explanation": "이 환자는 관상동맥 조영술 후 발생한 급성 신손상으로, 조영제 신독성(contrast-induced nephropathy)이 가장 의심되지만, 콜레스테롤 색전증(cholesterol embolism)의 가능성도 고려해야 한다. 이 환자에게 가장 적절한 다음 검사는 신장 도플러 초음파이다. 신장 도플러 초음파는 신혈류를 평가하고 신동맥 협착이나 혈전, 색전 등의 혈관 이상을 확인할 수 있으며, 비침습적이고 안전하게 시행할 수 있다. 특히 콜레스테롤 색전증은 관상동맥 조영술 같은 혈관 시술 후 발생할 수 있으며, 이 경우 신장 도플러 초음파에서 신장 관류 감소와 신동맥 혈류 이상을 확인할 수 있다. 또한 도플러 초음파는 신장 크기, 에코, 실질 구조도 평가할 수 있어 여러 정보를 제공한다. 신장 생검은 침습적 검사로, 급성 신손상의 초기 평가에서는 일반적으로 시행하지 않는다. 또한 조영제 신독성이나 콜레스테롤 색전증의 진단에 반드시 필요하지 않으며, 특히 항혈소판제(aspirin, clopidogrel)를 복용 중인 환자에서는 출혈 위험이 있다. 혈중 보체(C3, C4) 검사는 면역 복합체 매개 사구체신염이나 보체 관련 신병증을 평가하는 데 유용하나, 이 환자의 임상 양상은 사구체신염보다는 세뇨관-간질 손상을 시사한다. 요중 호산구 검사는 약물 유발성 급성 간질성 신염을 진단하는 데 도움이 될 수 있으나, 이 환자의 임상 양상(혈관 시술 후 발생한 신손상)과는 부합하지 않는다. 혈중 크레아틴키나아제(CK) 검사는 횡문근융해증에 의한 신손상을 평가하는 데 유용하나, 이 환자에서 근육 손상이나 횡문근융해증을 시사하는 소견은 없다. 따라서 이 환자의 급성 신손상 원인을 확인하기 위한 가장 적절한 다음 검사는 신장 도플러 초음파이다.",
+"source": "InternalMed_Harrison_textbook_data.txt, 'Renal artery stenosis and cholesterol atheroemboli should be considered in elderly patients with acute kidney injury following vascular procedures such as coronary angiography. Cholesterol emboli syndrome typically occurs days to weeks after vascular procedures, with a progressive rise in creatinine, often accompanied by eosinophilia, hypocomplementemia, and cutaneous manifestations such as livedo reticularis or blue toe syndrome. Renal Doppler ultrasonography is a non-invasive test that can evaluate renal blood flow, detect renal artery stenosis, and assess for large renal infarcts. It can demonstrate increased resistive indices in cases of cholesterol emboli. Contrast-induced nephropathy, another potential cause in this setting, typically occurs within 24-72 hours after contrast administration, peaks at 3-5 days, and usually resolves within 7-10 days. Risk factors include pre-existing kidney disease, diabetes mellitus, volume depletion, heart failure, and use of large volumes of contrast. While both conditions can present with similar timing and clinical features after angiography, Doppler ultrasonography may help differentiate between vascular causes and direct toxic effects of contrast media.'",
+"category": "Nephrology"
+},
+{
+"question_id": 8,
+"chief complaint": "무뇨증/핍뇨증",
+"purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+"question": "62세 여성이 1주일 전부터 시작된 소변량 감소, 전신 무력감, 오심으로 응급실에 내원하였다. 환자는 3개월 전부터 요통이 있었으며, 1개월 전부터는 골격에 통증이 심해져 정형외과에서 진통제를 처방받아 복용했으나 증상이 호전되지 않았다고 한다. 2주 전부터 식욕이 감소하고 오심, 구토가 있었으며, 체중이 5kg 감소했다고 한다. 과거력상 특이 질환은 없었다. 내원 당시 혈압 150/90 mmHg, 맥박 88회/분, 체온 36.8°C였다. 신체 검사에서 결막 창백, 설 건조, 가벼운 흉골 압통이 있었다. 복부는 부드럽고 압통은 없었으며, 경한 하지 부종이 관찰되었다. 이 환자의 임상 증상과 검사 소견을 종합할 때 가장 가능성이 높은 원인은?",
+"exam": "혈액 검사: Hb 8.5 g/dL, 백혈구 7,500/μL, 혈소판 250,000/μL, BUN 85 mg/dL, 크레아티닌 5.2 mg/dL, Na 135 mEq/L, K 5.6 mEq/L, Cl 104 mEq/L, HCO3 16 mEq/L, 칼슘 11.8 mg/dL, 인 6.2 mg/dL, 총 단백 9.2 g/dL, 알부민 3.2 g/dL, 글로불린 6.0 g/dL\n소변 검사: 비중 1.010, 단백질 3+, 잠혈 1+, RBC 2-5/HPF, WBC 0-2/HPF, 세뇨관 원주 소수\n혈청 단백 전기영동: 감마 영역에서 단클론성 단백띠 관찰\n혈청 면역고정 전기영동: IgG 람다 타입 단클론성 감마글로불린혈증\n신장 초음파: 양측 신장 크기 정상, 에코 증가, 피질-수질 경계 불명확, 수신증 없음",
+"options": {
+"A": "당뇨병성 신병증",
+"B": "다발성 골수종에 의한 신손상",
+"C": "급성 간질성 신염",
+"D": "급성 사구체신염",
+"E": "양측성 요로 폐쇄"
+},
+"answer": "B",
+"explanation": "이 환자는 다발성 골수종에 의한 신손상(myeloma kidney, 골수종 신장)의 전형적인 임상양상을 보이고 있다. 다발성 골수종은 형질세포의 악성 증식성 질환으로, 환자는 고전적인 다발성 골수종의 증상인 골격계 통증, 빈혈, 고칼슘혈증, 신부전을 보인다. 특히 이 환자는 요통 및 골격 통증, 빈혈(Hb 8.5 g/dL), 고칼슘혈증(11.8 mg/dL), 신부전(크레아티닌 5.2 mg/dL)의 전형적인 소견을 보인다. 또한 혈청 단백 전기영동에서 감마 영역의 단클론성 단백띠와 혈청 면역고정 전기영동에서 IgG 람다 타입의 단클론성 감마글로불린혈증이 확인되어 다발성 골수종을 강력히 시사한다. 다발성 골수종에서 신손상은 주로 경쇄(light chain)에 의한 세뇨관 손상으로 발생하며, 이를 골수종 원주(myeloma cast) 신병증 또는 경쇄 세뇨관병증이라 한다. 또한 고칼슘혈증, 고요산혈증, 아밀로이드증, 고점도혈증 등도 신손상에 기여할 수 있다. 당뇨병성 신병증은 장기간의 당뇨병 병력이 있는 환자에서 발생하는 미세혈관 합병증으로, 일반적으로 단백뇨와 점진적인 신기능 저하가 특징이다. 이 환자는 당뇨병 병력이 없고, 단클론성 감마글로불린혈증과 고칼슘혈증이 있어 당뇨병성 신병증의 가능성은 낮다. 급성 간질성 신염은 약물 과민반응이나 감염에 의한 것으로, 소변에서 백혈구, 백혈구 원주, 호산구가 관찰되는 특징이 있으나, 이 환자의 소변 검사에서는 이러한 소견이 없다. 급성 사구체신염은 소변에서 적혈구, 적혈구 원주, 단백뇨가 특징이나, 이 환자의 소변 검사는 사구체신염보다는 세뇨관 손상에 합당하다. 양측성 요로 폐쇄는 요로결석, 종양, 후복막 섬유증 등에 의해 발생하며, 초음파에서 수신증이 관찰되는 특징이 있으나, 이 환자의 초음파에서는 수신증이 없다. 따라서 이 환자의 임상 증상과 검사 소견을 종합할 때 가장 가능성이 높은 원인은 다발성 골수종에 의한 신손상이다.",
+"source": "InternalMed_Harrison_textbook_data.txt, 'Multiple myeloma is a malignant proliferation of plasma cells that often leads to renal injury. Approximately 20-50% of patients with multiple myeloma present with renal impairment, and about 10% require dialysis. The most common cause of renal failure in multiple myeloma is cast nephropathy (myeloma kidney), caused by precipitation of filtered free light chains with Tamm-Horsfall protein in the distal tubules, forming obstructive casts. Clinical presentation typically includes the tetrad of anemia, hypercalcemia, renal failure, and bone pain. Laboratory findings include normocytic anemia, elevated serum creatinine, hyperuricemia, hypercalcemia, and a large anion gap metabolic acidosis. Urinalysis may show minimal proteinuria, as the standard dipstick primarily detects albumin, not light chains. Serum and urine protein electrophoresis with immunofixation reveals a monoclonal protein (M-protein), most commonly IgG or IgA. Treatment includes aggressive hydration, correction of hypercalcemia, allopurinol for hyperuricemia, and prompt initiation of anti-myeloma therapy with bortezomib-based regimens.'",
+"category": "Nephrology"
+},
+{
+  "question_id": 9,
+  "chief complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "32세 여성이 5일 전부터 발생한 전신 부종과 소변량 감소로 응급실에 내원하였다. 환자는 임신 34주로, 1주일 전부터 얼굴과 손이 붓기 시작했으며, 점차 다리와 발까지 부종이 심해졌다고 한다. 3일 전부터는 심한 두통과 시야 흐림이 있었고, 소변량이 현저히 감소했다고 한다. 내원 당일 아침에는 상복부 통증과 구역, 구토 증상이 발생했다. 이전 임신력은 1-0-0-1로, 첫 임신 때는 특별한 문제가 없었다. 과거력상 특이 질환은 없었다. 내원 시 혈압 180/110 mmHg, 맥박 100회/분, 체온 37.2°C였다. 신체 검사에서 안면부종, 양측 하지의 심한 함요부종이 관찰되었으며, 상복부 압통이 있었다. 자궁 저부 높이는 임신 주수에 비해 작게 측정되었다. 신경학적 검사에서 심부건반사가 항진되어 있었으나, 국소 신경학적 이상은 없었다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "혈액 검사: Hb 14.2 g/dL, 백혈구 12,000/μL, 혈소판 85,000/μL, BUN 35 mg/dL, 크레아티닌 1.8 mg/dL, Na 138 mEq/L, K 4.8 mEq/L, AST 120 U/L, ALT 105 U/L, LDH 580 U/L, 총 빌리루빈 1.2 mg/dL, 요산 7.5 mg/dL\n소변 검사: 단백질 4+, 잠혈 1+, RBC 5-10/HPF, WBC 0-2/HPF\n24시간 소변 단백: 5.2 g/day\n태아 상태: 태아 심박수 140회/분, 비수축 검사 반응성, 초음파에서 태아 성장 지연\n복부 초음파: 양측 신장 크기 정상, 에코 증가, 수신증 없음",
+  "options": {
+    "A": "저용량 아스피린 투여와 보존적 치료",
+    "B": "항고혈압제 투여와 임신 유지를 위한 경과 관찰",
+    "C": "마그네슘 황산염, 항고혈압제 투여와 즉각적인 분만 유도",
+    "D": "혈장분리교환술(Plasmapheresis)과 대량 수액 요법",
+    "E": "대량 스테로이드 충격 요법과 이뇨제 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 중증 전자간증(severe preeclampsia)에서 HELLP 증후군(Hemolysis, Elevated Liver enzymes, Low Platelets)으로 진행한 상태로 보인다. 환자는 임신 34주의 산모로, 고혈압(180/110 mmHg), 단백뇨(5.2 g/day), 부종, 두통, 시야 흐림, 상복부 통증과 같은 전자간증의 전형적인 증상을 보인다. 또한 혈소판 감소(85,000/μL), 간효소 상승(AST 120 U/L, ALT 105 U/L), LDH 상승(580 U/L)은 HELLP 증후군을 시사한다. 소변량 감소와 크레아티닌 상승은 전자간증에서 신장 기능 저하를 반영한다. 이러한 환자에게 가장 적절한 초기 치료는 마그네슘 황산염, 항고혈압제 투여와 즉각적인 분만 유도이다. 중증 전자간증이나 HELLP 증후군의 유일한 근본적 치료는 분만이며, 특히 임신 34주 이상에서는 태아 폐 성숙이 충분히 이루어진 상태이므로 즉각적인 분만이 모체와 태아 모두에게 최선의 치료이다. 마그네슘 황산염은 중증 전자간증 환자에서 경련(자간증)의 예방과 치료를 위해 필수적이다. 항고혈압제 치료는 고혈압으로 인한 뇌출혈 같은 합병증을 예방하기 위해 필요하며, 일반적으로 수축기 혈압 ≥160 mmHg 또는 이완기 혈압 ≥110 mmHg인 경우 labetalol, hydralazine, nifedipine 등을 사용한다. 저용량 아스피린 투여와 보존적 치료는 전자간증 예방을 위해 임신 초기부터 고위험군에게 사용할 수 있는 방법이나, 이미 중증 전자간증과 HELLP 증후군이 발생한 이 환자에게는 적절하지 않다. 항고혈압제 투여와 임신 유지를 위한 경과 관찰은 경증-중등도 전자간증에서 고려할 수 있으나, 이 환자처럼 중증 전자간증이나 HELLP 증후군에서는 즉각적인 분만이 필요하므로 적절하지 않다. 혈장분리교환술(Plasmapheresis)과 대량 수액 요법은 전자간증의 일차 치료로는 사용되지 않으며, 오히려 대량 수액 요법은 이미 부종이 있는 환자에서 폐부종의 위험을 증가시킬 수 있다. 대량 스테로이드 충격 요법과 이뇨제 투여는 HELLP 증후군에서 혈소판 감소 회복을 촉진하기 위해 일부에서 사용되기도 하나, 이 환자처럼 중증 전자간증과 HELLP 증후군에서는 마그네슘 황산염 투여와 분만이 우선이다. 따라서 이 환자에게 가장 적절한 초기 치료는 마그네슘 황산염, 항고혈압제 투여와 즉각적인 분만 유도이다.",
+  "source": "Obstentrics_Williams_textbook_data.txt, 'Preeclampsia is a pregnancy-specific hypertensive disorder with multisystem involvement, characterized by hypertension and proteinuria after 20 weeks of gestation. Severe features include severe hypertension (systolic blood pressure ≥160 mmHg or diastolic blood pressure ≥110 mmHg), thrombocytopenia (<100,000/μL), impaired liver function (elevated transaminases to twice normal), progressive renal insufficiency (serum creatinine >1.1 mg/dL), pulmonary edema, new-onset cerebral or visual disturbances, or severe persistent right upper quadrant or epigastric pain. HELLP syndrome, a severe variant of preeclampsia, is characterized by hemolysis, elevated liver enzymes, and low platelets. Oliguria is a concerning sign that may indicate progressive renal impairment. Definitive treatment for severe preeclampsia or HELLP syndrome is delivery of the fetus and placenta. For pregnancies ≥34 weeks of gestation with severe preeclampsia or HELLP syndrome, immediate delivery is indicated. Antihypertensive therapy is administered to prevent cerebrovascular accidents when blood pressure reaches severe levels. Magnesium sulfate is given for seizure prophylaxis. Corticosteroids may be used to enhance fetal lung maturity if delivery before 34 weeks is anticipated, and may also temporarily improve platelet counts in HELLP syndrome.'",
+  "category": "Obstetrics"
+},
+{
+  "question_id": 10,
+  "chief complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "48세 남성이 2일 전부터 시작된 복통, 구토, 설사 후 발생한 소변량 감소로 응급실에 내원하였다. 환자는 5일 전 시골에서 가족 모임에 참석했으며, 2일 후부터 심한 복통, 혈성 설사, 발열이 시작되었다고 한다. 같은 모임에 참석했던 가족 몇 명도 비슷한 증상을 보였다고 한다. 증상이 시작되고 하루 후부터 소변량이 현저히 감소했으며, 소변 색은 진한 적갈색이었다고 한다. 과거력상 특이 질환은 없었다. 내원 당시 혈압 100/60 mmHg, 맥박 110회/분, 체온 38.2°C였다. 신체 검사에서 피부와 결막의 창백함, 공막의 황달이 관찰되었고, 복부 압통이 있었으나 반발통은 없었다. 이 환자의 현재 상태에 대한 원인 규명을 위해 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "혈액 검사: Hb 9.2 g/dL, 백혈구 18,500/μL, 혈소판 45,000/μL, 망상적혈구 8.5%, BUN 85 mg/dL, 크레아티닌 4.8 mg/dL, Na 135 mEq/L, K 5.3 mEq/L, 총 빌리루빈 3.5 mg/dL, 직접 빌리루빈 0.8 mg/dL, AST 150 U/L, ALT 82 U/L, LDH 950 U/L, 합토글로빈 <10 mg/dL\n소변 검사: 비중 1.015, 단백질 2+, 잠혈 3+, RBC 5-10/HPF, WBC 0-2/HPF, 적갈색\n신장 초음파: 양측 신장 크기 정상, 에코 증가, 수신증 없음",
+  "options": {
+    "A": "소변 배양 검사",
+    "B": "말초 혈액 도말 검사",
+    "C": "대변 Shiga 독소 검사",
+    "D": "신장 생검",
+    "E": "복부 CT 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 용혈성 요독 증후군(hemolytic uremic syndrome, HUS)의 전형적인 임상양상을 보이고 있다. 용혈성 요독 증후군은 미세혈관병증 용혈성 빈혈, 혈소판 감소증, 급성 신손상의 3가지 특징적 소견을 보이는 질환으로, 가장 흔한 원인은 Shiga 독소 생성 대장균(주로 O157:H7)에 의한 감염이다. 이 환자는 시골에서의 가족 모임 후 발생한 혈성 설사 뒤 신부전이 발생했으며, 검사 소견에서 용혈성 빈혈(Hb 9.2 g/dL, 망상적혈구 증가, 합토글로빈 감소, LDH 상승, 간접 빌리루빈 상승), 혈소판 감소증(45,000/μL), 급성 신손상(크레아티닌 4.8 mg/dL)의 특징적인 3가지 소견이 모두 관찰된다. 또한 같은 모임에 참석한 다른 가족들도 비슷한 증상을 보였다는 점에서 식품 매개 감염이 의심된다. 이러한 환자에게 가장 적절한 검사는 대변 Shiga 독소 검사이다. Shiga 독소는 대장균 O157:H7을 포함한 여러 장출혈성 대장균에 의해 생성되며, 장내피 세포를 손상시키고 전신 순환으로 흡수되어 신장의 사구체 내피 세포를 손상시킨다. 대변 Shiga 독소 검사는 면역학적 방법이나 PCR을 통해 독소 자체를 검출하거나, 대변 배양을 통해 독소 생성 대장균을 분리하여 확인할 수 있다. 소변 배양 검사는 요로감염을 진단하기 위한 검사로, 이 환자의 임상 양상은 요로감염보다는 용혈성 요독 증후군에 합당하다. 말초 혈액 도말 검사는 용혈성 요독 증후군의 진단에 도움이 될 수 있으나, 특이적이지 않다. 말초 혈액 도말에서 분절적혈구(schistocytes)가 관찰되면 미세혈관병증 용혈성 빈혈을 시사하지만, 이는 용혈성 요독 증후군 외에도 혈전성 혈소판감소성 자반증(TTP), 파종성 혈관내 응고(DIC) 등에서도 관찰될 수 있다. 또한 이미 용혈성 빈혈, 혈소판 감소증, 신부전의 3가지 소견이 있어 HUS 진단이 강력히 의심되므로, 원인 규명을 위한 대변 Shiga 독소 검사가 더 중요하다. 신장 생검은 침습적 검사로, 용혈성 요독 증후군의 진단에 반드시 필요하지 않으며, 혈소판 감소증이 있는 환자에서는 출혈 위험이 증가한다. 복부 CT 검사는 장염이나 장허혈의 평가에 도움이 될 수 있으나, 신기능 저하가 있는 환자에서는 조영제 사용이 제한적이며, 용혈성 요독 증후군의 진단에 필수적이지 않다. 따라서 이 환자의 현재 상태에 대한 원인 규명을 위해 가장 우선적으로 시행해야 할 검사는 대변 Shiga 독소 검사이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Hemolytic uremic syndrome (HUS) is characterized by the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. The most common form, typical HUS, is associated with infections by Shiga toxin-producing Escherichia coli (STEC), particularly serotype O157:H7. The clinical course usually begins with bloody diarrhea following ingestion of contaminated food or water, with HUS developing 5-10 days after the onset of diarrhea. Laboratory findings include hemolytic anemia with schistocytes on peripheral blood smear, elevated reticulocyte count, elevated indirect bilirubin, elevated LDH, decreased haptoglobin, negative Coombs test, thrombocytopenia, and elevated serum creatinine. Diagnosis relies on clinical features and laboratory findings, with confirmation by detection of Shiga toxins or isolation of STEC from stool samples. Stool culture for E. coli O157:H7 and testing for Shiga toxins should be performed promptly, as the bacteria may be cleared from the stool by the time HUS develops. Treatment is primarily supportive, including management of fluid and electrolyte abnormalities, blood pressure control, and renal replacement therapy if needed. Antibiotic treatment for STEC infections is controversial, as it may increase the risk of HUS by promoting toxin release.'",
+  "category": "Nephrology"
+},
 {
   "question_id": 1,
   "chief complaint": "허리통증",
