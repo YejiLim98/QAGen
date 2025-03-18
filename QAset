@@ -1,4 +1,5 @@
- {
+[
+{
   "question_id": 1,
   "chief_complaint": "가려움증",
   "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
@@ -4178,7 +4179,8 @@
     "content": "For patients with locally advanced (T3-T4a, N0-N3) hypopharyngeal squamous cell carcinoma, concurrent chemoradiotherapy (CCRT) is the preferred treatment approach for organ preservation. High-dose cisplatin with radiotherapy has been established as the standard concurrent regimen. This approach has shown improved locoregional control and overall survival compared to radiotherapy alone, while preserving the larynx and pharynx functions. The alternative approach of total laryngopharyngectomy with neck dissection followed by adjuvant therapy is associated with significant functional and cosmetic morbidity and is generally reserved for patients who are not candidates for organ preservation approaches or those with extensive cartilage destruction, extralaryngeal disease, or poor pretreatment laryngeal function."
   },
   "category": "Otolaryngology (ENT)"
-}, 
+}
+]
 
 
 
