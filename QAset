@@ -3759,6 +3759,226 @@
   },
   "category": "Neurology / Neurosurgery"
 }, 
+{
+  "question_id": 191,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "45세 남성이 3개월 동안 지속된 상복부 통증과 속쓰림을 주소로 내원하였다. 환자는 증상이 주로 식후에 악화되며, 위산분비억제제를 복용하면 일시적으로 호전된다고 한다. 최근 6개월간 약 5kg의 체중 감소가 있었으며, 가끔 구토를 경험하지만 혈액은 관찰되지 않았다. 환자는 20년간 하루 한 갑씩 흡연했으며, 주 3회 이상 소주 1병을 마시는 음주력이 있다. 가족력상 부친이 70세에 위암으로 사망하였다. 신체 검진에서 상복부에 경미한 압통이 있으며, 만져지는 종괴는 없었다. 이 환자에서 가장 의심해야 할 질환은?",
+  "exam": "혈액검사: 백혈구 7,000/μL, 혈색소 12.3g/dL, 혈소판 250,000/μL, AST 32 IU/L, ALT 28 IU/L",
+  "options": {
+    "A": "기능성 소화불량",
+    "B": "위식도역류질환",
+    "C": "헬리코박터 파일로리 감염",
+    "D": "위암",
+    "E": "만성 췌장염"
+  },
+  "answer": "D",
+  "explanation": "이 환자의 경우 만성적인 상복부 통증과 속쓰림, 6개월간 5kg의 체중 감소, 식후 악화되는 증상, 위산분비억제제에 일시적인 반응, 가끔의 구토 증상을 보이고 있습니다. 또한 장기간의 흡연력과 음주력, 그리고 부친의 위암 가족력은 위암의 위험인자입니다. 45세 이상의 연령에서 체중 감소, 지속적인 소화기 증상, 위암의 가족력 등은 경고 증상(red flags)으로 악성 질환을 의심해야 합니다. 기능성 소화불량은 일반적으로 체중 감소나 진행성 증상이 없으며, 위식도역류질환은 주로 가슴쓰림(heartburn)과 산역류가 특징적입니다. 헬리코박터 파일로리 감염은 위암의 위험인자이기는 하지만 단독으로 이러한 임상 증상을 설명하기는 어렵습니다. 만성 췌장염은 주로 심한 복통과 지방변, 당뇨 등의 증상이 나타납니다. 이 환자의 경우 체중 감소, 지속적인 상복부 증상, 위암의 가족력, 장기간의 흡연 및 음주력을 고려할 때 위암을 가장 먼저 의심해야 하며, 추가적인 내시경 검사가 필요합니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Gastric cancer should be suspected in patients >45 years with new-onset dyspepsia, especially when accompanied by weight loss, persistent vomiting, dysphagia, or other alarm symptoms (such as family history of gastric cancer, anemia, gastrointestinal bleeding). Risk factors include Helicobacter pylori infection, smoking, high salt intake, and family history. Early gastric cancer may be asymptomatic or cause nonspecific symptoms similar to those of functional dyspepsia or gastroesophageal reflux disease. Weight loss, progressive symptoms, and failure to respond to antisecretory therapy are concerning features that warrant prompt endoscopic evaluation."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 192,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "58세 여성이 6개월 동안 지속된 식후 상복부 통증과 팽만감을 주소로 내원하였다. 환자는 증상이 일주일에 3-4회 이상 발생하며, 식사 후 30분 이내에 시작되어 1-2시간 지속된다고 한다. 가끔 구역감이 동반되나 구토는 없으며, 체중 변화도 없다고 한다. 약물 복용력상 고혈압으로 amlodipine을 10년간 복용 중이다. 과거력상 5년 전 담낭절제술을 받았다. 신체 검진에서 상복부에 경미한 압통이 있으나 반발통은 없고, 장음은 정상이다. 환자의 증상 원인을 확인하기 위해 시행한 상부위장관내시경 검사에서 십이지장에 여러 개의 미란과 궤양이 발견되었다. 이 환자에게 추가로 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액검사: 백혈구 8,200/μL, 혈색소 13.5g/dL, 혈소판 230,000/μL, AST 35 IU/L, ALT 32 IU/L, 총 빌리루빈 0.7mg/dL, 아밀라아제 45 U/L, 리파제 40 U/L",
+  "options": {
+    "A": "복부 CT 검사",
+    "B": "혈청 가스트린 측정",
+    "C": "Helicobacter pylori 검사",
+    "D": "담도 초음파",
+    "E": "24시간 식도 pH 모니터링"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 6개월간 지속된 식후 상복부 통증과 팽만감을 호소하며, 상부위장관내시경에서 십이지장에 여러 개의 미란과 궤양이 발견되었습니다. 십이지장에 다발성 궤양이 있는 경우 졸링거-엘리슨 증후군(Zollinger-Ellison syndrome)을 의심해야 합니다. 이는 가스트린을 분비하는 종양(가스트리노마)에 의해 발생하며, 과도한 위산 분비로 인해 상부 위장관, 특히 십이지장에 다발성 궤양을 일으킵니다. 이 환자의 경우 담낭절제술의 과거력이 있어 담도 질환의 가능성은 낮으며, 아밀라아제와 리파제도 정상 범위로 췌장 질환의 가능성도 낮습니다. 헬리코박터 파일로리 감염은 위궤양과 십이지장궤양의 흔한 원인이지만, 다발성 십이지장 궤양을 설명하기에는 충분하지 않습니다. 24시간 식도 pH 모니터링은 위식도역류질환의 진단에 도움이 되지만, 이 환자의 주요 증상과 내시경 소견은 위식도역류질환보다는 졸링거-엘리슨 증후군을 더 시사합니다. 따라서 혈청 가스트린 측정이 가장 적절한 추가 검사입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Zollinger-Ellison syndrome (ZES) should be suspected in patients with multiple duodenal ulcers, ulcers in unusual locations (distal duodenum or jejunum), ulcers refractory to standard therapy, recurrent ulcers after adequate surgery, ulcers associated with diarrhea, and ulcers associated with family history of multiple endocrine neoplasia type 1 (MEN1). The diagnosis is established by demonstrating an elevated fasting serum gastrin level (>150-200 pg/mL). In patients with borderline elevations of gastrin, secretin stimulation test may be used to confirm the diagnosis. Most gastrinomas are found in the 'gastrinoma triangle,' an area bounded by the junction of the cystic and common bile ducts, the junction of the second and third portions of the duodenum, and the junction of the neck and body of the pancreas."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 193,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "32세 여성이 3년간 지속된 식후 명치부위 통증, 팽만감, 조기 포만감을 주소로 내원하였다. 증상은 주 3회 이상 발생하며, 식사량을 줄이면 다소 완화된다고 한다. 과거력상 특이사항은 없으며, 약물 복용력도 없다. 신체 검진에서 상복부에 경미한 압통이 있으나 다른 이상 소견은 없었다. 상부위장관내시경 검사에서 경미한 위염 소견 외에 특이 소견은 없었으며, 위생검에서 헬리코박터 파일로리 감염은 음성이었다. 복부 초음파 검사도 정상이었다. 이 환자를 위한 가장 적절한 초기 치료 계획은?",
+  "exam": "혈액검사: 백혈구 6,500/μL, 혈색소 13.0g/dL, 혈소판 280,000/μL, AST 25 IU/L, ALT 22 IU/L, 총 빌리루빈 0.5mg/dL",
+  "options": {
+    "A": "프로톤 펌프 억제제 8주 투여",
+    "B": "트리프탄 계열 약물 필요시 투여",
+    "C": "프로키네틱스 약물 투여",
+    "D": "삼환계 항우울제 저용량 투여",
+    "E": "항생제 삼제요법 14일 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3년간 지속된 식후 명치부위 통증, 팽만감, 조기 포만감을 호소하며, 내시경 검사와 기타 검사에서 특이 소견이 없어 기능성 소화불량증(functional dyspepsia)으로 진단할 수 있습니다. 기능성 소화불량증은 기질적 원인 없이 상복부 증상이 지속되는 경우를 말하며, 식후 불편 증후군(postprandial distress syndrome)과, 상복부 통증 증후군(epigastric pain syndrome)으로 구분됩니다. 이 환자의 경우 식후 팽만감과 조기 포만감을 호소하는 것으로 보아 식후 불편 증후군에 더 부합합니다. 식후 불편 증후군에는 위장관 운동성 저하가 흔한 병태생리로, 프로키네틱스 약물(위장관 운동 촉진제)이 일차 치료로 권장됩니다. 프로톤 펌프 억제제는 위산 관련 증상이나 산역류가 주된 증상일 때 유용하지만, 이 환자의 주 증상은 팽만감과 조기 포만감으로 위산 분비와의 관련성이 명확하지 않습니다. 트리프탄 계열 약물은 편두통 치료제이며, 삼환계 항우울제는 내장 과민성이 있는 기능성 소화불량증에 도움이 될 수 있으나 일차 치료로는 권장되지 않습니다. 항생제 삼제요법은 헬리코박터 파일로리 감염이 확인된 경우에 시행하지만, 이 환자는 검사 결과 음성으로 확인되었습니다.",
+  "source": {
+    "file_name": "Rome IV Functional Gastrointestinal Disorders",
+    "content": "Functional dyspepsia is categorized into two subgroups: postprandial distress syndrome (PDS) characterized by meal-induced dyspeptic symptoms such as postprandial fullness and early satiation, and epigastric pain syndrome (EPS) characterized by epigastric pain or burning not necessarily associated with meals. For patients with PDS, where impaired gastric emptying and accommodation are common pathophysiological mechanisms, prokinetic agents that enhance gastric motility (such as metoclopramide, domperidone, or itopride) are recommended as first-line treatment. Proton pump inhibitors are more effective for patients with EPS or those with predominant reflux-like symptoms. Low-dose tricyclic antidepressants may be beneficial for patients with visceral hypersensitivity but are generally considered second-line treatment for functional dyspepsia."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 194,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "52세 남성이 6개월간 지속된 가슴쓰림과 산역류를 주소로 내원하였다. 증상은 주로 식후와 누울 때 악화되며, 최근에는 삼킴곤란이 동반되었고 고형식을 삼킬 때 음식물이 가슴에 걸리는 느낌이 든다고 한다. 환자는 15년 전부터 흡연 중이며(하루 1갑), 음주는 주 2회 소주 1병 정도이다. 비만도는 BMI 28kg/m²이다. 증상 조절을 위해 over-the-counter 제산제를 복용해 왔으나 효과가 미미하다고 한다. 신체 검진에서 특이 소견은 없었다. 이 환자에게 시행한 상부위장관내시경 검사에서 다음과 같은 소견이 관찰되었다. 이 환자의 진단으로 가장 적절한 것은?",
+  "exam": "내시경 소견: 위식도 접합부 상방 5cm 부위부터 원주상으로 붉은색 점막이 관찰되며, 일부 영역에서는 점막의 불규칙성과 결절성 변화가 관찰됨. 생검 결과: 편평상피가 원주상피로 대체된 바렛식도(Barrett's esophagus) 소견과 일부 영역에서 고도 이형성(high-grade dysplasia)이 관찰됨.",
+  "options": {
+    "A": "역류성 식도염, LA 분류 Grade A",
+    "B": "호산구성 식도염",
+    "C": "바렛식도와 고도 이형성",
+    "D": "식도 칸디다증",
+    "E": "아칼라지아"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 장기간의 가슴쓰림과 산역류 증상을 호소하며, 최근에는 삼킴곤란이 동반되었습니다. 내시경 검사에서 위식도 접합부 상방에 원주상 붉은색 점막이 관찰되고, 생검 결과 편평상피가 원주상피로 대체된 바렛식도 소견과 고도 이형성이 확인되었습니다. 바렛식도는 위식도역류질환의 합병증으로, 식도 하부의 편평상피가 장상피로 화생(metaplasia)되는 변화를 말합니다. 바렛식도는 식도선암의 전구 병변으로 간주되며, 특히 고도 이형성이 동반된 경우 식도선암으로 진행할 위험이 높습니다. 이 환자의 경우 장기간의 흡연, 음주, 비만 등의 위험인자를 가지고 있어 바렛식도와 연관된 식도선암의 위험이 더욱 높아질 수 있습니다. 역류성 식도염 LA 분류 Grade A는 식도 점막의 5mm 이하 미란이 관찰되는 경우이며, 호산구성 식도염은 식도 점막에 호산구의 침윤이 특징적입니다. 식도 칸디다증은 식도에 백색의 플라크가 관찰되는 진균 감염이며, 아칼라지아는 식도 하부괄약근의 이완 장애로 인한 질환으로 바륨 식도조영술이나 식도내압검사에서 특징적인 소견을 보입니다. 이 환자의 경우 내시경 소견과 생검 결과를 종합할 때 바렛식도와 고도 이형성이 가장 적절한 진단입니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines",
+    "content": "Barrett's esophagus is defined as the replacement of normal squamous epithelium of the distal esophagus with columnar epithelium containing intestinal metaplasia, confirmed by histology. It is a complication of chronic gastroesophageal reflux disease and a precursor lesion for esophageal adenocarcinoma. The risk of progression to adenocarcinoma depends on the presence and degree of dysplasia. The annual risk of developing adenocarcinoma is approximately 0.2-0.5% for non-dysplastic Barrett's esophagus, 1% for low-grade dysplasia, and 6-19% for high-grade dysplasia. Endoscopic findings suggestive of Barrett's esophagus include salmon-pink columnar mucosa extending proximally from the gastroesophageal junction, with or without nodularity, ulceration, or stricture. Risk factors for Barrett's esophagus include chronic GERD symptoms, male gender, age over 50, white race, central obesity, smoking, and family history."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 195,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "65세 남성이 2개월간 지속된 상복부 통증과 소화불량을 주소로 내원하였다. 통증은 공복 시 악화되고 식후에 완화되는 양상이며, 최근에는 야간에 악화되어 수면을 방해한다고 한다. 환자는 소화제를 복용했으나 증상 호전이 없었다. 과거력상 고혈압으로 amlodipine과 아스피린 100mg을 10년간 복용해왔다. 신체 검진에서 상복부 압통이 있었으나 다른 이상 소견은 없었다. 상부위장관내시경 검사를 시행하였고, 위전정부에 1.5cm 크기의 궤양이 발견되었다. 생검 결과 악성 소견은 없었으며, 헬리코박터 파일로리 감염 검사는 양성이었다. 이 환자의 치료 계획으로 가장 적절한 것은?",
+  "exam": "혈액검사: 백혈구 7,800/μL, 혈색소 12.5g/dL, 혈소판 250,000/μL, AST 30 IU/L, ALT 28 IU/L",
+  "options": {
+    "A": "프로톤 펌프 억제제 단독 투여 4주",
+    "B": "H2 수용체 길항제와 제산제 병합 투여 4주",
+    "C": "아스피린 중단 및 프로톤 펌프 억제제 투여",
+    "D": "헬리코박터 파일로리 제균 치료 및 프로톤 펌프 억제제 투여",
+    "E": "프로키네틱스 약물과 프로톤 펌프 억제제 병합 투여"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 공복 시 악화되고 식후에 완화되는 상복부 통증과 소화불량을 호소하고 있으며, 내시경 검사에서 위전정부에 양성 궤양이 발견되었고 헬리코박터 파일로리 감염이 확인되었습니다. 또한 장기간 아스피린을 복용하고 있어 소화성 궤양의 위험인자를 가지고 있습니다. 헬리코박터 파일로리 양성인 소화성 궤양의 표준 치료는 헬리코박터 파일로리 제균 치료와 프로톤 펌프 억제제 투여입니다. 헬리코박터 파일로리 제균 치료는 일반적으로 프로톤 펌프 억제제와 두 가지 항생제의 삼제요법, 또는 프로톤 펌프 억제제, 비스무트, 두 가지 항생제의 사제요법으로 시행합니다. 제균 치료는 소화성 궤양의 재발을 현저히 감소시키는 것으로 알려져 있습니다. 프로톤 펌프 억제제 단독 투여는 헬리코박터 파일로리 감염이 확인된 경우 적절한 치료가 아니며, H2 수용체 길항제와 제산제 병합 요법도 헬리코박터 파일로리 제균 효과가 없어 적절하지 않습니다. 아스피린 중단은 환자가 고혈압으로 인해 심혈관 질환의 예방 목적으로 복용 중일 가능성이 높아 위험할 수 있으며, 대신 프로톤 펌프 억제제를 함께 투여하는 것이 권장됩니다. 프로키네틱스 약물은 위장관 운동성 개선에 도움이 되지만, 헬리코박터 파일로리 양성 소화성 궤양의 일차 치료로는 적절하지 않습니다.",
+  "source": {
+    "file_name": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection",
+    "content": "For patients with H. pylori-associated peptic ulcer disease, eradication therapy is strongly recommended to reduce the risk of ulcer recurrence. First-line treatment options include: 1) Clarithromycin triple therapy (PPI, clarithromycin, and amoxicillin or metronidazole) for 14 days in regions with low clarithromycin resistance rates, 2) Bismuth quadruple therapy (PPI, bismuth, tetracycline, and metronidazole) for 10-14 days, or 3) Concomitant therapy (PPI, clarithromycin, amoxicillin, and metronidazole) for 10-14 days. For patients on chronic low-dose aspirin who develop ulcers and are found to have H. pylori infection, the recommendation is to treat the infection and continue aspirin with PPI co-therapy rather than discontinuing aspirin therapy, which may increase the risk of cardiovascular events. Eradication should be confirmed with urea breath test, stool antigen test, or biopsy-based testing at least 4 weeks after completion of therapy and after PPI therapy has been withheld for 1-2 weeks."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 196,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "48세 여성이 6개월 동안 간헐적으로 발생하는 우상복부 통증을 주소로 내원하였다. 통증은 기름진 음식을 섭취한 후 악화되며, 식후 구역감과 팽만감이 동반된다. 최근에는 증상이 더 빈번해져 주 3회 이상 발생한다고 한다. 환자는 BMI 27kg/m²의 과체중이며, 3년 전 고지혈증을 진단받고 약물치료 중이다. 신체 검진에서 우상복부에 압통이 있으며, Murphy 징후가 양성이다. 이 환자에서 가장 의심해야 할 질환은?",
+  "exam": "혈액검사: 백혈구 8,500/μL, 혈색소 13.8g/dL, 혈소판 275,000/μL, AST 42 IU/L, ALT 45 IU/L, 총 빌리루빈 1.2mg/dL, ALP 110 IU/L, GGT 75 IU/L",
+  "options": {
+    "A": "급성 간염",
+    "B": "만성 췌장염",
+    "C": "담석증",
+    "D": "과민성 장증후군",
+    "E": "크론병"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 6개월 동안 간헐적인 우상복부 통증을 호소하며, 통증이 기름진 음식 섭취 후 악화되고 구역감, 팽만감이 동반됩니다. 신체 검진에서 우상복부 압통과 Murphy 징후 양성 소견을 보이고, 혈액검사에서 경미한 간효소 수치 상승이 관찰됩니다. 이러한 임상 양상은 담석증(cholelithiasis)을 강하게 시사합니다. 담석증은 40대 여성, 과체중, 고지혈증 등이 위험인자로 알려져 있으며, 지방식 후 우상복부 통증(biliary colic)이 특징적입니다. Murphy 징후(우상복부를 누른 상태에서 환자가 심호흡할 때 통증으로 인해 호흡이 멈추는 현상)는 담낭염을 시사하는 소견입니다. 급성 간염은 보통 황달, 전신 피로감, 식욕부진 등이 뚜렷하게 나타나며, AST, ALT가 현저히 상승합니다. 만성 췌장염은 주로 상복부 통증, 소화불량, 체중 감소가 특징이며, 아밀라아제, 리파제 상승이 관찰될 수 있습니다. 과민성 장증후군은 주로 하복부 통증이 배변 후 완화되는 양상이 특징적이며, 크론병은 주로 하복부 통증, 설사, 체중 감소 등이 특징적입니다. 이 환자의 증상, 신체 검진 소견, 위험인자를 종합적으로 고려할 때 담석증이 가장 의심됩니다.",
+  "source": {
+    "file_name": "Sleisenger and Fordtran's Gastrointestinal and Liver Disease",
+    "content": "Symptomatic gallstone disease typically presents with right upper quadrant or epigastric pain, often following fatty meals. The pain may radiate to the right shoulder or back and is often associated with nausea and vomiting. Physical examination may reveal right upper quadrant tenderness and a positive Murphy's sign (inspiratory arrest during palpation of the right upper quadrant). Risk factors include female gender, age over 40, obesity, rapid weight loss, high-fat and low-fiber diet, pregnancy, certain medications (estrogens, oral contraceptives), and medical conditions such as diabetes mellitus, hyperlipidemia, and liver cirrhosis. Laboratory tests may show mild elevations in liver enzymes, particularly during an acute episode. Patients with uncomplicated gallstones may have normal laboratory values between episodes."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 197,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 3개월간 지속된 상복부 통증과 소화불량을 주소로 내원하였다. 통증은 하루 중 변동이 있으며, 때로는 등으로 방사되는 양상이라고 한다. 환자는 최근 3개월간 약 7kg의 체중 감소가 있었고, 지방식 섭취 후 설사가 동반되기도 한다. 과거력상 알코올 섭취량은 주당 소주 5병 이상이며, 20년 이상 지속되었다. 신체 검진에서 상복부에 경미한 압통이 있으나 만져지는 종괴는 없었다. 이 환자의 진단을 위해 시행한 복부 CT에서 췌장 실질의 위축과 다발성 석회화, 주췌관의 불규칙한 확장 소견이 관찰되었다. 이 환자에게 추가로 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액검사: 백혈구 7,200/μL, 혈색소 13.2g/dL, 혈소판 260,000/μL, AST 45 IU/L, ALT 38 IU/L, 총 빌리루빈 0.9mg/dL, 아밀라아제 80 U/L(정상 범위: 28-100 U/L), 리파제 75 U/L(정상 범위: 13-60 U/L), 혈당 130mg/dL(공복)",
+  "options": {
+    "A": "상부위장관내시경",
+    "B": "대장내시경",
+    "C": "대변 지방 검사",
+    "D": "담도 초음파",
+    "E": "헬리코박터 파일로리 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 장기간의 알코올 섭취력, 3개월간 지속된 상복부 통증, 체중 감소, 지방식 후 설사 등의 증상을 보이며, CT에서 췌장 실질의 위축과 다발성 석회화, 주췌관의 불규칙한 확장이 관찰되어 만성 췌장염에 합당한 소견을 보입니다. 만성 췌장염은 췌장의 지속적인 염증으로 인해 췌장 실질이 비가역적으로 손상되어 외분비 및 내분비 기능 저하가 발생하는 질환입니다. 외분비 기능 저하로 인한 지방 소화 장애는 지방변(steatorrhea)을 유발할 수 있으며, 이는 대변 지방 검사를 통해 확인할 수 있습니다. 72시간 대변 지방 검사에서 일일 지방 배설량이 7g 이상일 경우 지방변으로 진단하며, 이는 만성 췌장염에 의한 외분비 기능 저하를 시사합니다. 공복 혈당 상승은 내분비 기능 저하를 시사할 수 있습니다. 상부위장관내시경은 소화성 궤양이나 위암 등을 배제하는 데 도움이 될 수 있으나, 이 환자의 주요 증상과 CT 소견을 고려할 때 우선순위가 높지 않습니다. 대장내시경은 만성 췌장염의 진단에 직접적인 도움이 되지 않습니다. 담도 초음파는 담석증이나 담도 질환을 의심할 때 유용하나, 이 환자의 CT 소견은 만성 췌장염에 더 부합합니다. 헬리코박터 파일로리 검사는 소화성 궤양이나 위염이 의심될 때 시행하는 검사로, 이 환자의 주요 임상 소견과는 관련성이 낮습니다.",
+  "source": {
+    "file_name": "American Pancreatic Association Practice Guidelines in Chronic Pancreatitis",
+    "content": "The diagnosis of chronic pancreatitis is based on a combination of clinical symptoms, imaging findings, and pancreatic function tests. In patients with clinical suspicion of chronic pancreatitis and characteristic imaging findings such as pancreatic calcifications, ductal dilatation, or parenchymal atrophy, further evaluation of pancreatic exocrine function should be considered. Fecal fat quantification (72-hour stool collection) remains the gold standard for diagnosing steatorrhea, with values >7g/day indicating fat malabsorption. Alternative tests include fecal elastase-1, which has high sensitivity for moderate to severe pancreatic exocrine insufficiency. Steatorrhea typically does not occur until pancreatic lipase secretion is reduced to <10% of normal. Common clinical manifestations of pancreatic exocrine insufficiency include diarrhea, steatorrhea (greasy, foul-smelling stools), weight loss, and abdominal pain. Endocrine insufficiency, manifesting as diabetes mellitus, often develops later in the disease course."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 198,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게 원인질환 치료를 포함한 적합한 치료 계획을 세울 수 있다.",
+  "question": "60세 여성이 2년간 지속된 상복부 타는 듯한 통증과, 가슴쓰림, 산역류를 주소로 내원하였다. 증상은 주로 취침 전 악화되며, 프로톤 펌프 억제제를 복용하면 부분적으로 호전된다고 한다. 과거력상 고혈압, 당뇨병으로 약물치료 중이며, 20년 전 담낭절제술을 받았다. 신체 검진에서 명치부위에 경미한 압통이 있으나 다른 이상 소견은 없었다. 환자는 6개월 전 상부위장관내시경 검사를 받았으며, LA 분류 Grade B의 역류성 식도염 소견이 확인되었다. 이 환자의 적절한 치료 계획은?",
+  "exam": "혈액검사: 백혈구 6,800/μL, 혈색소 13.5g/dL, 혈소판 245,000/μL, AST 32 IU/L, ALT 28 IU/L",
+  "options": {
+    "A": "프로톤 펌프 억제제 표준 용량으로 8주간 투여",
+    "B": "프로톤 펌프 억제제 고용량으로 8주간 투여 후 필요시 복용으로 전환",
+    "C": "프로톤 펌프 억제제 표준 용량으로 8주간 투여 후 유지 요법으로 전환",
+    "D": "H2 수용체 길항제로 전환하여 장기간 투여",
+    "E": "위저부 주름술(fundoplication)을 고려"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 2년간 지속된 위식도역류 증상을 호소하며, 이전 내시경에서 LA 분류 Grade B의 역류성 식도염이 확인되었고, 프로톤 펌프 억제제에 부분 반응을 보이는 만성 위식도역류질환(GERD) 환자입니다. 만성 위식도역류질환의 적절한 치료는 초기에 프로톤 펌프 억제제 표준 용량을 8주간 투여하여 식도염을 치료하고, 이후 증상 조절을 위해 유지 요법으로 전환하는 것입니다. 유지 요법은 최소 유효 용량의 프로톤 펌프 억제제를 장기간 투여하거나, 간헐적 투여 또는 필요시 복용하는 방법이 있습니다. 이 환자의 경우 2년간 지속된 만성 증상이 있고, 내시경에서 식도염이 확인되었으며, 프로톤 펌프 억제제에 부분 반응을 보이는 점을 고려할 때, 표준 용량으로 8주간 투여하여 식도염을 치료한 후 유지 요법으로 전환하는 것이 적절합니다. 표준 용량으로 8주간 투여하는 것만으로는 만성 증상의 재발을 예방하기 어렵습니다. 고용량 프로톤 펌프 억제제는 표준 용량에 반응이 불충분한 경우 고려할 수 있으나, 이 환자는 부분적으로 반응을 보이는 상태로 우선은 표준 용량으로 시도하는 것이 적절합니다. H2 수용체 길항제는 프로톤 펌프 억제제보다 산 억제 효과가 약하여, 식도염이 확인된 환자에서 일차 치료로는 적절하지 않습니다. 위저부 주름술과 같은 수술적 치료는 약물 치료에 반응이 없거나, 심한 합병증이 있는 경우, 또는 약물 의존성을 피하고자 하는 환자에서 고려할 수 있으나, 이 환자는 약물에 부분 반응을 보이고 있어 우선은 약물 치료 최적화가 필요합니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines for the Diagnosis and Management of Gastroesophageal Reflux Disease",
+    "content": "For patients with Los Angeles (LA) grade B or higher esophagitis, an 8-week course of proton pump inhibitors (PPIs) is recommended as initial therapy. After initial healing of erosive esophagitis, maintenance therapy with a PPI should be considered to prevent recurrence of erosive esophagitis, especially in patients with LA grade C or D esophagitis. Maintenance therapy options include continuous PPI therapy (daily), intermittent PPI therapy (2-4 days per week), or on-demand therapy (taken when symptoms occur). For patients with chronic GERD symptoms and response to PPI therapy, maintenance PPI therapy is recommended to control symptoms and prevent complications. The maintenance dose should be the lowest effective dose of PPI that controls symptoms. Long-term PPI therapy is generally well-tolerated, though patients should be informed about potential risks such as Clostridium difficile infection, bone fracture, community-acquired pneumonia, and micronutrient deficiencies. Anti-reflux surgery may be considered in patients who are responsive to PPI therapy but wish to discontinue medication, those with persistent troublesome symptoms despite PPI optimization, or those with complications of GERD such as Barrett's esophagus or large hiatal hernia."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 199,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "38세 여성이 6개월간 지속된 복통과 잦은 설사를 주소로 내원하였다. 복통은 주로 하복부에 국한되며, 배변 후 완화되는 양상이다. 설사는 일주일에 3일 이상 발생하며, 평균 하루 3-4회 배변한다고 한다. 대변은 무르거나 수양성이며, 간혹 점액이 섞여있으나 혈액은 관찰되지 않았다. 환자는 증상이 스트레스를 받을 때 악화된다고 하며, 복부 팽만감과 가스 참을 수 없는 증상도 호소한다. 체중 감소나 야간 설사는 없다. 과거력상 특이사항은 없으며, 가족력에서 염증성 장질환이나 대장암 병력은 없다. 신체 검진에서 좌하복부에 경미한 압통이 있으나 반발통은 없고, 장음은 약간 증가되어 있다. 이 환자에서 가장 의심해야 할 질환은?",
+  "exam": "혈액검사: 백혈구 6,500/μL, 혈색소 13.5g/dL, 혈소판 280,000/μL, CRP 0.3mg/dL, ESR 10mm/hr, 대변 잠혈 검사 음성",
+  "options": {
+    "A": "과민성 장증후군",
+    "B": "염증성 장질환",
+    "C": "만성 췌장염",
+    "D": "대장암",
+    "E": "셀리악병"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 6개월간 지속된 하복부 통증과 잦은 설사를 호소하며, 통증은 배변 후 완화되고, 스트레스에 의해 악화되는 양상을 보입니다. 또한 복부 팽만감과 가스 참을 수 없는 증상도 동반되어 있습니다. 체중 감소, 야간 설사, 혈변과 같은 경고 증상(red flags)은 없으며, 혈액검사에서도 염증 수치는 정상입니다. 이러한 임상 양상은 과민성 장증후군(Irritable Bowel Syndrome, IBS)에 합당합니다. 과민성 장증후군은 로마 기준 IV(Rome IV criteria)에 따르면, 최소 6개월 전에 시작되어 최근 3개월 동안 평균 주 1일 이상 발생하는 복통이 있으면서, 배변과 관련되거나, 배변 빈도의 변화와 관련되거나, 대변 형태(외관)의 변화와 관련된 경우 진단할 수 있습니다. 이 환자는 설사 우세형 과민성 장증후군(IBS-D)에 해당합니다. 염증성 장질환은 일반적으로 혈변, 체중 감소, 야간 설사, 발열과 같은 경고 증상이 동반되며, CRP나 ESR과 같은 염증 표지자가 상승합니다. 만성 췌장염은 주로 상복부 통증, 체중 감소, 지방변이 특징적입니다. 대장암은 혈변, 체중 감소, 빈혈, 배변 습관의 변화가 특징적이며, 특히 40세 이상에서 흔합니다. 셀리악병은 글루텐에 대한 면역 반응으로 발생하는 소장 질환으로, 만성 설사, 체중 감소, 영양 결핍, 복부 팽만 등이 특징적입니다. 이 환자의 임상 양상과 검사 결과를 종합적으로 고려할 때 과민성 장증후군이 가장 의심됩니다.",
+  "source": {
+    "file_name": "Rome IV Diagnostic Criteria for Functional Gastrointestinal Disorders",
+    "content": "Irritable Bowel Syndrome (IBS) is defined as recurrent abdominal pain at least 1 day per week in the last 3 months, with symptom onset at least 6 months prior to diagnosis, associated with two or more of the following: 1) related to defecation, 2) associated with a change in frequency of stool, 3) associated with a change in form (appearance) of stool. IBS is subclassified based on predominant bowel habits: IBS with predominant constipation (IBS-C), IBS with predominant diarrhea (IBS-D), mixed IBS (IBS-M), and unclassified IBS (IBS-U). The diagnosis should be made in the absence of alarm features such as rectal bleeding, unexplained weight loss, nocturnal symptoms, family history of colorectal cancer or inflammatory bowel disease, and onset of symptoms after age 50. Normal inflammatory markers (ESR, CRP) and negative fecal occult blood test help differentiate IBS from inflammatory bowel disease. IBS is often associated with abdominal bloating, increased gas, and symptoms that worsen with stress or certain foods."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 200,
+  "chief_complaint": "만성복통/소화불량/속쓰림",
+  "purpose": "만성복통/소화불량/속쓰림을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "42세 여성이 3개월간 지속된 복통과 설사를 주소로 내원하였다. 설사는 하루 5-6회이고 간혹 혈액이 섞여 있으며, 야간에도 발생한다고 한다. 환자는 최근 5kg의 체중 감소가 있었으며, 간헐적인 저열이 동반된다고 한다. 과거력상 5년 전 항문 주위 누공으로 수술을 받은 적이 있다. 신체 검진에서 우하복부에 압통이 있으며, 항문 주위에 흉터가 관찰된다. 말초혈액검사에서 백혈구 10,800/μL, 혈색소 11.2g/dL, 혈소판 450,000/μL, CRP 2.8mg/dL로 측정되었다. 이 환자의 진단을 위해 가장 적절한 다음 단계 검사는?",
+  "exam": "",
+  "options": {
+    "A": "복부 초음파",
+    "B": "상부위장관내시경",
+    "C": "대장내시경 및 회장 말단부 검사",
+    "D": "대변 배양검사",
+    "E": "복부 단순 촬영"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3개월간 지속된 혈성 설사, 체중 감소, 야간 설사, 저열 등의 증상과 함께 과거 항문 주위 누공의 병력이 있으며, 검사실 소견에서 백혈구 증가, 빈혈, 혈소판 증가, CRP 상승 등 염증성 변화가 관찰됩니다. 이러한 임상 양상은 크론병(Crohn's disease)을 강하게 시사합니다. 크론병은 구강에서 항문까지 전 위장관을 침범할 수 있는 만성 염증성 장질환으로, 특히 회장 말단부와 대장을 흔히 침범합니다. 항문 주위 누공은 크론병의 특징적인 합병증 중 하나입니다. 크론병의 확진을 위해서는 대장내시경 및 회장 말단부 검사가 가장 중요합니다. 내시경 검사를 통해 점막의 비연속적 염증, 종주궤양, 조약돌 모양의 점막 등 특징적인 소견을 확인할 수 있으며, 조직 생검을 통해 비건락성 육아종(non-caseating granuloma)과 같은 병리학적 소견을 확인할 수 있습니다. 또한 내시경 검사는 크론병의 범위와 중증도 평가에도 중요합니다. 복부 초음파는 복부 종괴, 농양, 장벽 비후 등을 확인할 수 있으나, 크론병의 진단에는 제한적입니다. 상부위장관내시경은 상부 위장관 침범이 의심될 때 시행할 수 있으나, 이 환자의 주 증상은 하부 위장관과 관련되어 있습니다. 대변 배양검사는 감염성 설사를 배제하는 데 도움이 되나, 이 환자의 만성적인 경과와 항문 주위 누공 병력을 고려할 때 감염성 원인보다는 염증성 장질환의 가능성이 높습니다. 복부 단순 촬영은 급성 복부 상태나 장폐색 등을 평가하는 데 유용하나, 크론병의 진단에는 제한적입니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Clinical Guideline: Management of Crohn's Disease in Adults",
+    "content": "The diagnosis of Crohn's disease is established by a combination of clinical symptoms, endoscopic findings, histology, radiography, and/or biochemical investigations. Ileocolonoscopy with biopsy is the most accurate test for the diagnosis of colonic and ileal Crohn's disease. Characteristic endoscopic features include discontinuous involvement, rectal sparing, asymmetric involvement, cobblestoning, longitudinal ulcerations, and the presence of strictures or fistula openings. Histologic findings such as focal (discontinuous) chronic inflammation, focal crypt irregularity, and granulomas further support the diagnosis. Small bowel imaging should be performed in all patients with suspected Crohn's disease, as approximately 30% of patients have disease limited to the small bowel. The clinical presentation of Crohn's disease is variable but commonly includes diarrhea, abdominal pain, weight loss, fever, and fatigue. Extra-intestinal manifestations such as arthritis, pyoderma gangrenosum, erythema nodosum, primary sclerosing cholangitis, and uveitis may also be present. Perianal disease, including fistulae and abscesses, occurs in approximately 25-30% of patients with Crohn's disease and may precede intestinal manifestations."
+  },
+  "category": "Gastroenterology"
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
