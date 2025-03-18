@@ -3968,29 +3968,217 @@
     "content": "The diagnosis of Crohn's disease is established by a combination of clinical symptoms, endoscopic findings, histology, radiography, and/or biochemical investigations. Ileocolonoscopy with biopsy is the most accurate test for the diagnosis of colonic and ileal Crohn's disease. Characteristic endoscopic features include discontinuous involvement, rectal sparing, asymmetric involvement, cobblestoning, longitudinal ulcerations, and the presence of strictures or fistula openings. Histologic findings such as focal (discontinuous) chronic inflammation, focal crypt irregularity, and granulomas further support the diagnosis. Small bowel imaging should be performed in all patients with suspected Crohn's disease, as approximately 30% of patients have disease limited to the small bowel. The clinical presentation of Crohn's disease is variable but commonly includes diarrhea, abdominal pain, weight loss, fever, and fatigue. Extra-intestinal manifestations such as arthritis, pyoderma gangrenosum, erythema nodosum, primary sclerosing cholangitis, and uveitis may also be present. Perianal disease, including fistulae and abscesses, occurs in approximately 25-30% of patients with Crohn's disease and may precede intestinal manifestations."
   },
   "category": "Gastroenterology"
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}, 
+{
+  "question_id": 201,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "45세 여성이 최근 발견한 목 앞쪽의 덩이를 주소로 내원하였다. 환자는 덩이가 아프지 않고 크기가 점점 커지는 것 같다고 한다. 가족력에서 어머니가 갑상선 질환으로 치료 받은 적이 있다고 한다. 신체 검진에서 갑상선 우엽에 약 2cm 크기의 단단하고 경계가 명확한 무통성 결절이 촉지되었다. 결절은 연하 시 상하로 움직였으며, 주변 경부 림프절은 만져지지 않았다. 갑상선 기능 검사는 정상이었다. 이 환자의 결절에 대한 다음 소견 중 악성을 시사하는 특징은?",
+  "exam": "갑상선 초음파 검사에서 우엽에 2.1 × 1.8cm 크기의 저에코성 결절이 관찰되었으며, 미세석회화와 불규칙한 경계를 보였다.",
+  "options": {
+    "A": "결절이 연하 시 상하로 움직임",
+    "B": "갑상선 기능 검사 정상",
+    "C": "단일 결절",
+    "D": "초음파에서 관찰된 미세석회화",
+    "E": "가족력에서 어머니의 갑상선 질환"
+  },
+  "answer": "D",
+  "explanation": "갑상선 결절의 악성을 시사하는 초음파 소견으로는 미세석회화, 불규칙한 경계, 저에코 패턴, 결절 내부의 불균질성, 앞뒤 직경이 가로 직경보다 큰 경우(taller than wide) 등이 있습니다. 특히 미세석회화는 갑상선 유두암에서 흔히 관찰되는 소견으로, 악성 가능성을 높이는 중요한 초음파 특징입니다. 초음파에서 관찰된 미세석회화와 불규칙한 경계는 악성 결절을 강하게 시사합니다. 반면, 결절이 연하 시 상하로 움직이는 것은 양성과 악성 모두에서 관찰될 수 있는 특징이며, 갑상선 기능 검사가 정상인 것은 대부분의 갑상선 결절(양성 및 악성 모두)에서 흔합니다. 단일 결절이라는 사실만으로는 악성 위험도를 평가할 수 없으며, 가족력에서 어머니의 갑상선 질환이 구체적으로 악성이라고 명시되지 않았기 때문에 이 정보만으로는 환자의 악성 위험도를 높인다고 판단할 수 없습니다.",
+  "source": {
+    "file_name": "대한갑상선학회 갑상선결절 및 암 진료권고안 2016",
+    "content": "갑상선결절의 초음파 소견 중 악성을 시사하는 특징으로는 미세석회화, 불규칙한 변연, 앞뒤가 긴 모양(taller than wide), 현저한 저에코 등이 있다. 특히 미세석회화는 갑상선 유두암에서 특이적으로 관찰되는 소견으로, 유두암의 29-59%에서 관찰되며 특이도가 매우 높다."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 202,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "35세 남성이 2주 전부터 발생한 목의 통증성 종괴를 주소로 내원하였다. 환자는 최근 상기도 감염 증상이 있었고, 5일간 지속된 후 호전되었다고 한다. 신체검진에서 경부 좌측에 약 3cm 크기의 압통성 종괴가 촉지되었으며, 종괴는 다소 부드럽고 움직임이 제한적이었다. 체온은 37.8°C였다. 이 환자의 진단을 위한 가장 적절한 다음 단계는?",
+  "exam": " 혈액 검사에서 백혈구 11,000/µL, CRP 2.5 mg/dL로 상승해 있었다. ",
+  "options": {
+    "A": "경부 CT 검사",
+    "B": "갑상선 기능 검사",
+    "C": "세침흡인검사",
+    "D": "항생제 투여 후 2주 관찰",
+    "E": "즉시 수술적 절제"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 최근 상기도 감염 후 발생한 압통성 경부 종괴와 경미한 발열, 염증 수치 상승을 보이는 젊은 성인입니다. 이러한 임상 양상은 화농성 림프절염(suppurative lymphadenitis) 또는 경부 농양의 가능성을 시사합니다. 경부 CT 검사는 종괴의 정확한 위치, 크기, 주변 구조와의 관계, 농양 형성 여부 등을 평가하는 데 가장 유용합니다. 특히 심경부 감염이나 농양이 의심될 때 중요하며, 수술적 배농이 필요한지 결정하는 데 도움이 됩니다. 갑상선 기능 검사는 갑상선 질환이 의심될 때 유용하지만, 이 환자의 임상 양상은 감염성 질환에 더 부합합니다. 세침흡인검사는 농양이 의심되는 경우 진단 및 치료적 목적으로 사용될 수 있으나, 심경부 감염에서는 CT로 정확한 해부학적 정보를 먼저 파악하는 것이 중요합니다. 항생제 투여 후 관찰만 하는 것은 농양이 형성된 경우 적절한 치료가 지연될 수 있어 위험할 수 있습니다. 즉시 수술적 절제는 진단이 확립되지 않은 상태에서 과도한 접근법이며, 감염성 병변에서는 적절한 영상 평가와 항생제 치료가 선행되어야 합니다.",
+  "source": {
+    "file_name": "Bailey & Love's Short Practice of Surgery 27th Edition",
+    "content": "When a suppurative lymphadenitis or deep neck abscess is suspected, contrast-enhanced CT is the imaging modality of choice. It provides valuable information about the exact location, size, and extent of the abscess, involvement of surrounding structures, and helps in planning surgical drainage when necessary. CT findings that suggest abscess formation include rim enhancement, central hypodensity, and adjacent fat stranding."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 203,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게 원인 질환에 따른 적합한 치료 계획을 선택할 수 있다.",
+  "question": "28세 여성이 2개월 전 우연히 발견한 전경부 종괴를 주소로 내원하였다. 환자는 특별한 증상이 없고 종괴의 크기 변화도 없다고 한다. 신체검진에서 갑상선 우엽에 약 1.5cm 크기의 부드럽고 움직이는 결절이 촉지되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": " 갑상선 초음파에서 우엽에 1.6 × 1.2cm 크기의 무에코성 낭종이 확인되었으며, 내부에 고형 성분이나 석회화는 관찰되지 않았다. 갑상선 기능 검사는 정상이었다. 갑상선 세침흡인검사에서 낭성 액체와 소수의 양성 여포 세포가 관찰되었으며, 베데스다 분류 II(양성)로 판정되었다.",
+  "options": {
+    "A": "갑상선엽 절제술(lobectomy)",
+    "B": "방사성요오드 치료",
+    "C": "세침흡인 및 배액",
+    "D": "갑상선 호르몬 억제 요법",
+    "E": "경과관찰 및 6개월 후 초음파 추적검사"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 28세 여성으로 증상이 없는 갑상선 낭종이 있으며, 초음파에서 악성을 시사하는 소견이 없고(무에코성, 고형 성분 없음, 석회화 없음) 세침흡인검사에서 양성으로 확인되었습니다. 갑상선 양성 낭종의 경우, 특히 무증상이고 크기가 작은 경우(보통 2cm 이하)에는 경과관찰이 일차적인 치료 방법입니다. 갑상선 낭종은 종종 자연적으로 소실되거나 크기가 변하지 않고 유지될 수 있으며, 주기적인 초음파 추적검사를 통해 크기 변화를 모니터링하는 것이 권장됩니다. 갑상선엽 절제술은 양성 낭종에서는 과도한 치료이며, 크기가 큰 낭종, 압박 증상이 있는 경우, 또는 악성이 의심되거나 확인된 경우에 고려됩니다. 방사성요오드 치료는 기능성 갑상선 결절이나 분화성 갑상선암의 수술 후 잔여 조직의 제거에 사용되며, 단순 낭종에는 적응증이 되지 않습니다. 세침흡인 및 배액은 크기가 큰 낭종이나 압박 증상이 있는 경우에 고려될 수 있으나, 단순 배액 후 재발률이 높습니다. 증상이 없는 작은 낭종에서는 불필요한 시술입니다. 갑상선 호르몬 억제 요법은 일부 고형 결절의 크기 감소를 위해 과거에 사용되었으나, 낭종에서의 효과는 제한적이고 장기적인 부작용 위험이 있어 일반적으로 권장되지 않습니다.",
+  "source": {
+    "file_name": "American Thyroid Association Guidelines for Management of Thyroid Nodules",
+    "content": "Pure cystic nodules without solid components are very rarely malignant. For asymptomatic, sonographically confirmed cystic nodules with benign cytology, routine follow-up with ultrasound at 6-18 month intervals is appropriate. Intervention with surgery or other invasive therapies is rarely indicated for pure cystic nodules unless they are large (>4 cm), causing compressive symptoms, or have a cosmetic impact."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 204,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "22세 남성이 2주 전부터 발생한 양측 경부 종괴를 주소로 내원하였다. 환자는 발열, 전신 피로감, 식은땀이 동반되었으며, 최근 5kg의 체중 감소가 있었다고 한다. 신체검진에서 양측 경부, 쇄골상부, 액와부에 다수의 무통성, 고무같은 경도의 림프절이 촉지되었다. 림프절은 서로 유착되어 있지 않았고 피부에 고정되지 않았다. 이학적 검사에서 간비종대가 의심되었다. 이 환자에게서 가장 의심해야 할 진단은?",
+  "exam": "흉부 X선 검사에서 전종격동 확장이 관찰되었다. 혈액 검사에서 경미한 빈혈과 LDH 상승이 확인되었으며, 간 및 신장 기능 검사는 정상이었다.",
+  "options": {
+    "A": "전염성 단핵구증",
+    "B": "결핵성 림프절염",
+    "C": "호지킨 림프종",
+    "D": "전이성 폐암",
+    "E": "사르코이드증"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 22세 젊은 남성으로 양측성 무통성 경부 림프절 종대, B 증상(발열, 체중 감소, 식은땀), 종격동 확장, LDH 상승을 보이고 있습니다. 이러한 임상 양상은 호지킨 림프종(Hodgkin's lymphoma)에 매우 합당합니다. 호지킨 림프종은 15-35세의 젊은 성인에서 첫 번째 발병 피크를 보이며, 일반적으로 경부나 쇄골상부의 무통성 림프절 종대로 시작됩니다. 종격동 침범은 호지킨 림프종의 약 50-70%에서 관찰되며, 특히 전종격동 확장은 호지킨 림프종의 특징적인 소견입니다. B 증상과 LDH 상승은 림프종의 활동성과 관련이 있습니다. 전염성 단핵구증은 젊은 성인에서 발열, 인후통, 림프절 종대를 일으킬 수 있으나, 일반적으로 체중 감소가 두드러지지 않고, 종격동 침범도 흔하지 않습니다. 결핵성 림프절염은 주로 경부 일측의 림프절을 침범하며, 시간이 지남에 따라 림프절이 서로 유착되고 피부에 고정되는 경향이 있습니다. 또한 결핵성 림프절염에서는 종격동 확장보다는 폐실질 병변이나 흉막 삼출이 더 흔하게 관찰됩니다. 전이성 폐암은 22세 젊은 환자에서는 매우 드물며, 일반적으로 흉부 X선에서 폐 종괴가 관찰됩니다. 사르코이드증은 양측성 폐문 림프절 종대가 특징적이지만, B 증상이 이 환자처럼 뚜렷하지 않은 경우가 많습니다.",
+  "source": {
+    "file_name": "Williams Hematology, 10th Edition",
+    "content": "Hodgkin lymphoma typically presents with painless, rubbery lymphadenopathy, most commonly in the cervical or supraclavicular regions. Approximately 40% of patients present with B symptoms (fever, night sweats, and weight loss), which are associated with a less favorable prognosis. Mediastinal involvement is common, particularly anterior mediastinal masses, and can be seen in 50-70% of cases at presentation. The bimodal age distribution shows a first peak in young adults (15-35 years) and a second peak after age 50. Laboratory findings may include mild anemia, elevated erythrocyte sedimentation rate, and elevated serum lactate dehydrogenase levels, which correlate with disease bulk and activity."
+  },
+  "category": "Hematology and Oncology"
+}, 
+{
+  "question_id": 205
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "4세 남아가 전경부 중앙에 위치한 종괴를 주소로 내원하였다. 어머니는 이 종괴가 출생 이후 지속되었으며 최근 몇 개월 동안 크기가 커졌다고 한다. 종괴는 무통성이며 연하 시 상하로 움직인다. 신체검진에서 전경부 중앙선에 위치한 2cm 크기의 둥글고 부드러운 낭성 종괴가 촉지되었다. 이 환자의 진단으로 가장 가능성이 높은 것은?",
+  "exam": "경부 초음파 검사에서 설골 아래, 갑상선 상부에 위치한 2.3 × 1.8cm 크기의 낭성 종괴가 확인되었다. 종괴는 경계가 명확하고 내부에 미세한 격벽이 관찰되었다.",
+  "options": {
+    "A": "갑상설관 낭종",
+    "B": "새열낭종",
+    "C": "표피낭종",
+    "D": "림프관종",
+    "E": "갑상선 낭종"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 전경부 중앙선에 위치한 낭성 종괴를 가진 4세 소아로, 출생 이후 지속되었으며 연하 시 상하로 움직이는 특징을 보입니다. 이러한 임상 양상은 갑상설관 낭종(thyroglossal duct cyst)에 가장 합당합니다. 갑상설관 낭종은 갑상선 발생 과정에서 설골(혀의 기저부)에서부터 갑상선의 정상 위치까지 이어지는 갑상설관의 불완전한 퇴화로 인해 발생합니다. 이 낭종은 일반적으로 전경부 중앙선에 위치하며, 90%가 설골 수준이나 그 아래에 위치합니다. 갑상설관 낭종의 진단적 특징 중 하나는 연하 시나 혀를 내밀 때 상하로 움직인다는 점입니다. 이는 낭종이 설골과 연결되어 있기 때문입니다. 새열낭종(branchial cleft cyst)은 일반적으로 경부 측면, 특히 흉쇄유돌근의 전연을 따라 위치하며, 중앙선에 발생하지 않습니다. 표피낭종(epidermal cyst)은 피부 어디에나 발생할 수 있으나, 연하 시 움직임을 보이지 않으며 일반적으로 진피나 피하조직에 국한됩니다. 림프관종(lymphangioma 또는 cystic hygroma)은 주로 경부 측면이나 액와부에 발생하며, 종종 크고 다낭성이며 반투명한 특징을 보입니다. 갑상선 낭종은 갑상선 내부에 위치하므로 갑상선과 함께 움직이지만, 이 환자에서처럼 갑상선 상부, 설골 아래에 위치하는 경우는 드뭅니다.",
+  "source": {
+    "file_name": "Cummings Otolaryngology 7th Edition",
+    "content": "Thyroglossal duct cysts (TDCs) are the most common congenital neck masses, accounting for 70% of congenital neck lesions. They result from the persistence of epithelial remnants of the thyroglossal duct, which normally involutes after the descent of the thyroid gland from the foramen cecum at the base of the tongue to its final position in the lower neck. TDCs are typically located in the midline of the neck, with approximately 90% found at or below the level of the hyoid bone. A pathognomonic finding is the upward movement of the cyst with tongue protrusion or swallowing, due to its attachment to the hyoid bone. The usual presentation is a painless, smooth, cystic midline neck mass that moves with swallowing and tongue protrusion."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 206,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "25세 남성이 3일 전부터 발생한 좌측 경부의 통증성 종괴와 38.5°C의 발열을 주소로 내원하였다. 환자는 1주일 전 심한 인후통이 있었으나 특별한 치료 없이 호전되었다고 한다. 신체검진에서 좌측 경부에 4 × 3cm 크기의 압통성, 발적된 종괴가 촉지되었으며, 종괴는 다소 유동적이었다. 구강 및 인두 검사에서 특이 소견은 없었다. 이 환자에게 시행한 경부 CT 검사에서 가장 예상되는 소견은?",
+  "exam": " 혈액 검사에서 백혈구 15,000/µL(호중구 80%)와 CRP 8.5mg/dL로 상승해 있었다. ",
+  "options": {
+    "A": "테두리 조영증강(rim enhancement)과 내부 저음영을 보이는 병변",
+    "B": "다수의 석회화와 낭성 변화를 동반한 종괴",
+    "C": "균일한 조영증강을 보이는 다발성 림프절",
+    "D": "지방 음영을 보이는 경계가 명확한 병변",
+    "E": "주변 조직 침범과 불규칙한 가장자리를 가진 종괴"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 최근 인후통 병력이 있는 젊은 성인으로 급성 발열, 압통성 경부 종괴, 백혈구 및 CRP 상승과 같은 염증 소견을 보이고 있습니다. 이러한 임상 양상은 화농성 림프절염(suppurative lymphadenitis) 또는 경부 농양을 강하게 시사합니다. 경부 CT에서 농양의 전형적인 소견은 테두리 조영증강(rim enhancement)과 내부 저음영(low-density center)입니다. 이는 농양의 중심부에 괴사 조직과 농이 있고, 주변부에 염증성 육아 조직과 혈관이 풍부한 피막이 형성되기 때문입니다. 또한 주변 연조직의 염증성 변화(지방층 혼탁, stranding)가 동반될 수 있습니다. 다수의 석회화와 낭성 변화를 동반한 종괴는 오래된 결핵성 림프절염이나 일부 악성 종양(예: 유두상 갑상선암의 림프절 전이)에서 관찰될 수 있으나, 급성 염증 과정에서는 일반적이지 않습니다. 균일한 조영증강을 보이는 다발성 림프절은 반응성 림프절염이나 림프종과 같은 비화농성 림프절 병변에서 볼 수 있습니다. 지방 음영을 보이는 경계가 명확한 병변은 지방종(lipoma)의 특징적인 소견이나, 이 환자의 임상 양상과는 일치하지 않습니다. 주변 조직 침범과 불규칙한 가장자리를 가진 종괴는 침습성 악성 종양에서 관찰될 수 있는 소견으로, 이 환자의 급성 임상 경과와는 부합하지 않습니다.",
+  "source": {
+    "file_name": "Diagnostic Imaging: Head and Neck, 3rd Edition",
+    "content": "Suppurative lymphadenitis and neck abscesses typically demonstrate rim enhancement on contrast-enhanced CT, representing the hyperemic and inflamed wall of the abscess cavity. The central portion shows low density, reflecting necrotic tissue, pus, and debris. Additional CT findings include surrounding fat stranding, thickening of adjacent fascial planes, and obliteration of normal fat planes. In cases of deep neck space infections, the abscess may extend along fascial planes, potentially involving multiple compartments of the neck."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 207,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "48세 남성이 2개월 전 우연히 발견한 좌측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 20년간 하루 한 갑씩 흡연해왔으며, 최근 2개월간 목소리가 쉬어지고 간헐적인 인후통이 있었다고 한다. 신체검진에서 좌측 경부에 3cm 크기의 단단하고 고정된 림프절이 촉지되었다. 다음 소견 중 이 환자의 진단에 가장 부합하는 것은?",
+  "exam": " 인두 검사에서 좌측 편도와(tonsillar fossa)에 불규칙한 표면을 가진 2cm 크기의 궤양성 병변이 관찰되었다. ",
+  "options": {
+    "A": "장기간 흡연력",
+    "B": "단단하고 고정된 경부 림프절",
+    "C": "편도와의 궤양성 병변",
+    "D": "목소리 변화",
+    "E": "무증상 기간"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 장기간 흡연력이 있는 중년 남성으로, 편도와에 궤양성 병변과 동측 경부에 단단하고 고정된 림프절이 있습니다. 이러한 임상 양상은 구인두 편평세포암(oropharyngeal squamous cell carcinoma)을 강하게 시사합니다. 구인두암의 가장 중요한 진단적 소견은 원발 종양 부위의 육안적 병변으로, 이 환자에서는 편도와의 궤양성 병변이 이에 해당합니다. 구인두암은 초기에는 무증상이거나 경미한 증상만 있을 수 있으며, 종종 진행된 병기에서 발견됩니다. 장기간 흡연력은 두경부 편평세포암의 중요한 위험 인자이나, 진단적 소견은 아닙니다. 또한 최근에는 인간 유두종 바이러스(HPV) 감염이 구인두암, 특히 편도와 설기저부 암의 중요한 원인으로 인식되고 있습니다. 단단하고 고정된 경부 림프절은 전이성 림프절병증을 시사하며, 구인두암이 경부 림프절 전이로 처음 발견되는 경우도 흔합니다. 그러나 림프절 소견만으로는 원발 종양의 위치를 확정할 수 없으며, 다른 두경부 악성 종양이나 림프종 등의 가능성도 있습니다. 목소리 변화는 주로 후두나 하인두 병변과 관련이 있으며, 편도와 종양에서는 덜 특징적입니다. 무증상 기간은 병력의 일부로 중요하지만, 진단에 특이적인 소견은 아닙니다.",
+  "source": {
+    "file_name": "DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology, 11th Edition",
+    "content": "Oropharyngeal squamous cell carcinoma most commonly presents as an ulcerative or exophytic lesion in the tonsillar fossa, tongue base, or soft palate. The clinical presentation may include a sore throat, odynophagia, referred otalgia, voice changes, and a neck mass. Up to 70% of patients with oropharyngeal cancer present with regional nodal disease, and in 20-25% of cases, an asymptomatic neck mass may be the only presenting symptom. The presence of a firm, fixed neck node in conjunction with an oropharyngeal lesion is highly suggestive of malignancy. Risk factors include tobacco use, alcohol consumption, and human papillomavirus (HPV) infection, with HPV-associated oropharyngeal cancers showing a significant increase in incidence over the past two decades, particularly in younger patients with minimal tobacco exposure."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 208,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 원인을 찾기 위한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "60세 여성이 2개월 전 발견한 우측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 최근 목소리가 쉬어지고 간헐적인 연하곤란이 있었다고 한다. 신체검진에서 우측 경부에 4cm 크기의 단단한 종괴가 촉지되었으며, 갑상선 촉진에서 우엽에 약 3cm 크기의 딱딱한 결절이 확인되었다. 초음파 유도 세침흡인검사를 시행하였다. 이 환자의 진단을 위해 세침흡인검사 결과에서 확인해야 할 가장 중요한 면역조직화학적 표지자는?",
+  "exam": "경부 초음파에서 우측 갑상선에 3.2cm 크기의 불규칙한 경계와 미세석회화를 가진 저에코성 결절과 우측 경부에 3.8cm 크기의 유사한 초음파 특성을 가진 림프절이 관찰되었다.",
+  "options": {
+    "A": "갑상선글로불린(Thyroglobulin)",
+    "B": "칼시토닌(Calcitonin)",
+    "C": "CD45(백혈구 공통 항원)",
+    "D": "P16(HPV 관련 단백질)",
+    "E": "CD30(Ki-1 항원)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 갑상선 결절과 동측 경부 림프절 종대를 가진 60세 여성으로, 초음파에서 불규칙한 경계와 미세석회화와 같은 악성 소견을 보이고 있습니다. 이러한 임상 양상은 갑상선 유두암과 경부 림프절 전이의 가능성을 강하게 시사합니다. 갑상선 유두암은 가장 흔한 갑상선 악성 종양으로, 경부 림프절 전이가 흔하게 발생합니다. 갑상선글로불린(Thyroglobulin)은 정상 갑상선 여포 세포와 대부분의 분화된 갑상선 암(유두암, 여포암)에서 발현되는 단백질로, 갑상선 기원의 종양을 확인하는 데 매우 유용한 표지자입니다. 특히 경부 림프절에서 갑상선 유두암의 전이를 확인하는 데 높은 특이도를 보입니다. 세침흡인검사로 얻은 림프절 검체에서 갑상선글로불린 수치를 측정하거나 면역조직화학 염색을 통해 갑상선 기원의 전이성 암을 확인할 수 있습니다. 칼시토닌(Calcitonin)은 갑상선 수질암(medullary thyroid carcinoma)의 표지자로, 이 암은 갑상선의 C 세포(부여포 세포)에서 기원합니다. 그러나 이 환자의 초음파 소견(미세석회화, 불규칙한 경계)은 유두암에 더 합당합니다. CD45는 백혈구 공통 항원으로 림프종을 진단하는 데 사용되나, 이 환자의 임상 양상은 림프종보다 갑상선암에 부합합니다. P16은 인간 유두종 바이러스(HPV) 관련 구인두 편평세포암의 대리 표지자로 사용되지만, 이 환자의 임상 양상은 갑상선 기원의 종양에 더 부합합니다. CD30(Ki-1 항원)은 호지킨 림프종, 일부 비호지킨 림프종(특히 역형성 대세포 림프종), 배아세포종 등에서 발현되는 표지자로, 이 환자의 임상 양상과는 일치하지 않습니다.",
+  "source": {
+    "file_name": "NCCN Clinical Practice Guidelines in Oncology: Thyroid Carcinoma",
+    "content": "Thyroglobulin (Tg) is a glycoprotein produced only by thyroid follicular cells, both normal and neoplastic. In patients with suspected lymph node metastases from differentiated thyroid cancer (particularly papillary thyroid carcinoma), measurement of Tg in the needle washout fluid from fine-needle aspiration (FNA) of suspicious lymph nodes has emerged as a valuable diagnostic technique. This approach, known as FNA-Tg, has high sensitivity and specificity for detecting metastatic disease in cervical lymph nodes, even in cases where cytology alone may be inconclusive. Thyroglobulin immunohistochemistry is also useful for confirming the thyroid origin of metastatic lesions in lymph nodes or distant sites."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 209,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
+  "question": "3세 여아가 출생 시부터 있던 우측 경부의 종괴를 주소로 내원하였다. 부모에 따르면 종괴는 천천히 크기가 증가해왔으며, 최근 상기도 감염 이후 크기가 더 커졌다고 한다. 신체검진에서 우측 경부에 약 4cm 크기의 부드럽고 압박 가능한 종괴가 관찰되었다. 종괴는 투명하게 보이고 압통은 없었다. 다음 중 이 환자에게 가장 가능성이 높은 진단은?",
+  "exam": "경부 초음파 검사에서 우측 경부에 다격벽성(multiloculated)의 낭성 종괴가 확인되었으며, 내부에 액체-액체 층(fluid-fluid level)이 관찰되었다.",
+  "options": {
+    "A": "갑상설관 낭종",
+    "B": "림프관종(낭성 림프관종)",
+    "C": "지방종",
+    "D": "새열낭종",
+    "E": "표피낭종"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 출생 시부터 존재한 우측 경부의 부드럽고 압박 가능한 종괴가 있으며, 최근 상기도 감염 후 크기가 증가했습니다. 초음파에서 다격벽성(multiloculated) 낭성 종괴와 액체-액체 층이 관찰됩니다. 이러한 임상 양상은 림프관종, 특히 낭성 림프관종(cystic lymphangioma) 또는 낭성 낭종(cystic hygroma)과 가장 일치합니다. 림프관종은 림프관의 선천적 기형으로, 주로 출생 시부터 존재하며 경부의 측면(특히 후경삼각)에 흔히 발생합니다. 특징적으로 부드럽고 압박 가능하며, 상기도 감염이나 외상 후 크기가 증가할 수 있습니다. 초음파에서 다격벽성 낭성 종괴로 나타나는 것이 전형적입니다. 갑상설관 낭종은 주로 전경부 중앙선에 위치하며, 연하 시 상하로 움직이는 특징이 있습니다. 지방종은 고형 종괴로, 초음파에서 균일한 에코 패턴을 보이며 낭성 성분을 포함하지 않습니다. 새열낭종은 주로 전경부 측면에 위치하며, 일반적으로 영아기나 유아기보다는 학령기나 청소년기에 발견됩니다. 또한 선천적으로 존재하더라도 출생 시에는 눈에 띄지 않는 경우가 많습니다. 표피낭종은 주로 피하에 위치하는 양성 종양으로, 선천적이기보다는 후천적으로 발생하는 경우가 많습니다.",
+  "source": {
+    "file_name": "Bailey & Love's Short Practice of Surgery, 27th Edition",
+    "content": "Cystic hygromas (lymphangiomas) are congenital malformations of the lymphatic system, believed to arise from sequestration of lymphatic tissue that fails to communicate with the normal lymphatic system during embryological development. They typically present at birth or in early infancy as soft, compressible masses in the posterior triangle of the neck. The swellings are translucent, brilliantly transilluminate and have no connection with the skin. They characteristically increase in size following upper respiratory tract infections. Ultrasound shows a multiloculated cystic mass with internal septations. CT or MRI can define the extent of the lesion, which may be more extensive than clinical examination suggests, often extending into the mediastinum or axilla."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 210,
+  "chief_complaint": "목덩이",
+  "purpose": "목덩이가 있는 사람에게 원인 질환에 따른 적합한 치료 계획을 선택할 수 있다.",
+  "question": "55세 남성이 3개월 전부터 서서히 커지는 우측 경부의 무통성 종괴를 주소로 내원하였다. 환자는 40년간 하루 한 갑씩 흡연해왔으며, 음주는 주 5회 이상 소주 1병씩 마셨다고 한다. 최근 목소리가 변하고 삼킴 곤란이 있었다고 호소했다. 후두내시경 검사에서 우측 성대의 움직임이 감소되어 있었고, 하인두 우측 이상와(pyriform sinus)에 궤양성 병변이 관찰되었다. 조직 검사 결과 중등도 분화도의 편평세포암으로 확인되었다. PET-CT에서 원발 종양 외에 우측 경부 level II, III에 다수의 전이성 림프절이 확인되었으며, 원격 전이의 증거는 없었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "",
+  "options": {
+    "A": "방사선 치료 단독",
+    "B": "항암화학요법 단독",
+    "C": "수술적 절제 후 방사선 치료",
+    "D": "동시 항암방사선 치료(concurrent chemoradiotherapy)",
+    "E": "경부 림프절 절제술 단독"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 하인두 편평세포암(hypopharyngeal squamous cell carcinoma)과 다발성 경부 림프절 전이가 있으며, 우측 성대 마비 소견을 보입니다. 이는 종양이 반회후두신경을 침범했거나 압박하고 있음을 시사합니다. 이러한 임상 양상은 진행된 하인두암(T3-T4, N2)에 해당하며, 이 경우 표준 치료는 동시 항암방사선 치료(concurrent chemoradiotherapy, CCRT)입니다. 하인두암은 진단 시 이미 진행된 상태로 발견되는 경우가 많으며, 다발성 경부 림프절 전이와 원격 전이의 위험이 높은 공격적인 종양입니다. 동시 항암방사선 치료는 cisplatin과 같은 항암제를 방사선 치료와 함께 시행하는 방법으로, 국소 진행성 두경부 편평세포암에서 단독 방사선 치료보다 우수한 종양 조절률과 생존율을 보입니다. 또한 장기 보존 효과도 있어 삶의 질 측면에서도 장점이 있습니다. 방사선 치료 단독은 다발성 림프절 전이가 있거나 T3-T4 병기의 진행된 하인두암에서는 불충분한 치료일 수 있습니다. 항암화학요법 단독은 국소 치료 없이는 완치를 기대하기 어려우며, 주로 완화 목적이나 유도 요법으로 사용됩니다. 수술적 절제 후 방사선 치료는 일부 하인두암에서 선택할 수 있는 방법이나, 이 환자처럼 진행된 병기에서는 광범위한 수술이 필요하며(후두전적출술, 인두절제술, 경부 림프절 곽청술), 기능적, 미용적 후유증이 클 수 있습니다. 최근에는 장기 보존 접근법으로 동시 항암방사선 치료가 선호되는 추세입니다. 경부 림프절 절제술 단독은 원발 종양에 대한 치료가 없어 부적절합니다.",
+  "source": {
+    "file_name": "NCCN Guidelines Version 2.2023, Head and Neck Cancers",
+    "content": "For patients with locally advanced (T3-T4a, N0-N3) hypopharyngeal squamous cell carcinoma, concurrent chemoradiotherapy (CCRT) is the preferred treatment approach for organ preservation. High-dose cisplatin with radiotherapy has been established as the standard concurrent regimen. This approach has shown improved locoregional control and overall survival compared to radiotherapy alone, while preserving the larynx and pharynx functions. The alternative approach of total laryngopharyngectomy with neck dissection followed by adjuvant therapy is associated with significant functional and cosmetic morbidity and is generally reserved for patients who are not candidates for organ preservation approaches or those with extensive cartilage destruction, extralaryngeal disease, or poor pretreatment laryngeal function."
+  },
+  "category": "Otolaryngology (ENT)"
+}, 
 
 
 
