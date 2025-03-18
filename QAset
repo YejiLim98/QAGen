@@ -1,3 +1,4 @@
+[
 {
   "question_id": 1,
   "chief complaint": "가려움증",
@@ -129,8 +130,7 @@
   "explanation": "이 환자는 임신 32주에 발생한 피부 발진 없는 전신 가려움증을 보이며, 특히 손바닥과 발바닥을 포함한 가려움증과 야간 악화가 특징적입니다. 또한 경미한 황달과 함께 간효소(AST, ALT) 상승, ALP 상승, 혈청 담즙산 상승이 관찰됩니다. 이러한 임상상은 임신성 담즙정체증(intrahepatic cholestasis of pregnancy, ICP)을 강하게 시사합니다. 임신성 담즙정체증은 임신 2-3분기에 발생하는 간담도계 질환으로, 가려움증이 주요 증상이며 특히 손바닥과 발바닥에 심하게 나타납니다. 가려움증은 담즙산이 피부에 축적됨에 따라 발생하며, 밤에 악화되는 특징이 있습니다. 대부분의 환자는 피부 병변 없이 가려움증만 호소하며, 일부에서는 황달이 동반될 수 있습니다. 진단은 임상 증상과 함께 혈청 담즙산 상승(>10 μmol/L)을 확인하는 것이 중요하며, 간효소와 빌리루빈 상승이 동반될 수 있습니다. 임신성 담즙정체증은 산모에게는 불편한 증상 외에 큰 위험이 없으나, 태아에게는 조산, 태변 착색, 주산기 사망 위험을 증가시킬 수 있어 적극적인 관리가 필요합니다. 치료는 우르소데옥시콜산 투여와 함께 태아 상태 모니터링, 적절한 분만 시기 결정이 중요합니다. 임신성 소양진은 복부에서 시작하여 피부 병변(홍반성 구진과 판)을 동반합니다. 임신성 유사천포창은 수포성 병변을 특징으로 하며, 임신성 여포염은 여포성 구진과 농포가 특징입니다. 급성 지방간염은 더 심한 간기능 이상과 전신 증상을 동반합니다.",
   "source": "Obstentrics_Williams_textbook_data.txt: Intrahepatic cholestasis of pregnancy (ICP) is characterized by pruritus without a rash, typically beginning in the third trimester. The pruritus characteristically affects the palms and soles and worsens at night. Laboratory findings include elevated serum bile acids (>10 μmol/L), which is the most sensitive and specific test, and mild elevations in aminotransferases. Bilirubin levels are usually normal or slightly elevated (usually <6 mg/dL). ICP increases the risk of adverse fetal outcomes, including preterm birth, meconium-stained amniotic fluid, and intrauterine fetal demise. The principal aim of management is to alleviate maternal symptoms and reduce perinatal morbidity and mortality. Ursodeoxycholic acid (UDCA) is the first-line treatment. Delivery timing is usually recommended between 36 and 38 weeks, depending on the severity of the disease and previous obstetric history.",
   "category": "Obstetrics"
-}
-
+},
 {
   "question_id": 8,
   "chief complaint": "가려움증",
@@ -361,8 +361,7 @@
   "chief complaint": "가려움증",
   "purpose": "가려움증을 호소하는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
   "question": "45세 여성이 3주 전부터 시작된 심한 가려움증을 주소로 내원하였다. 환자는 최근 인후통과 발열로 아목시실린-클라불란산을 10일간 복용했으며, 치료 시작 5일 후부터 전신에 가려운 발진이 나타났다고 한다. 피부 검사에서 전신에 다형성 홍반성 반구진성 발진이 관찰되며, 일부는 미란과 수포 형성을 동반하고 있다. 구강 점막과 생식기 점막에도 유사한 병변이 관찰된다. 이 환자의 진단과 가장 적절한 치료는?",
-  "exam": "피부 사진: 전신에 다양한 크기와
-형태의 홍반성 반구진성 발진이 관찰되며, 일부 병변은 표적 모양(target-like)을 보이고, 구강 내 점막에 미란성 병변이 관찰된다. 혈액 검사에서 호산구 증가증이 확인되었다.",
+  "exam": "피부 사진: 전신에 다양한 크기와 형태의 홍반성 반구진성 발진이 관찰되며, 일부 병변은 표적 모양(target-like)을 보이고, 구강 내 점막에 미란성 병변이 관찰된다. 혈액 검사에서 호산구 증가증이 확인되었다.",
   "options": { 
     "A": "스티븐스-존슨 증후군 - 약물 중단 및 중증도에 따라 지지 치료 또는 전신 코르티코스테로이드 투여", 
     "B": "다형홍반 - 국소 코르티코스테로이드 도포", 
@@ -539,8 +538,7 @@
     "E": "흉부 CT 검사" 
   },
   "answer": "D",
-  "explanation": "이 환자는 젊은 여성으로, 2주 전부터 시작된 가슴 중앙의 날카로운 통증과 호흡곤란을 호소합니다. 특히 통증이 깊은 호흡 시 악화되고, 가슴 두근거림과 불안감을 동반하며, 간헐적으로 발생하여 수분에서 수시간 지속됩니다. 또한 최근 학업 스트레스가 많다고 합니다. 신체 검진, 기본 검사(흉부 X-선, 심전도, 심장 효소, D-dimer)에서 모두 정상 소견을 보입니다. 이러한 임상상은 심인성 흉통(psychogenic chest pain) 또는 불안 장애와 관련된 흉통을 시사합니다. 심인성 흉통은 기질적 원인 없이 발생하는 흉통으로, 불안 장애, 공황 장애, 우울증 등 정신적 요인에 의해 발생할 수 있습니다. 특징적으로 통증이 날카롭고, 국소화되며, 수초에서 수시간 지속될 수 있고, 흔히 불안감, 심계항진, 발한, 호흡곤란 등의 자율신경계 증상을 동반합니다. 또한 스트레스 상황에서 악화되거나 유발될 수 있습니다. 기본적인 심장 및 폐 검사에서 이상 소견이 없으면, 정신건강 평가 및 불안장애 선별검사를 통해 기저 정신적 요인을 확인하는 것이 중요합니다. 이 환자의 경우, 기본 검사에서 모두 정상이고, 임상 증상과 상황(학업 스트레스)이 심인성 흉통을 시사하므로, 정신건강 평가 및 불안장애 선별검사가 가장 적절한 추가 검사입니다. 심장 CT 혈관조영술은 관상동맥질환이 의심될 때 시행하는 검사로, 이 젊은 여성에서는 우선적으로 고려할 필요가 없습니다. 24시간 홀터 모니터링은
-심부정맥이 의심될 때 유용하며, 폐기능 검사는 천식이나 만성 폐쇄성 폐질환 등 폐질환이 의심될 때 시행합니다. 흉부 CT 검사는 기본 영상 검사에서 이상 소견이 있거나, 특정 폐질환이나 종격동 병변이 의심될 때 고려합니다.",
+  "explanation": "이 환자는 젊은 여성으로, 2주 전부터 시작된 가슴 중앙의 날카로운 통증과 호흡곤란을 호소합니다. 특히 통증이 깊은 호흡 시 악화되고, 가슴 두근거림과 불안감을 동반하며, 간헐적으로 발생하여 수분에서 수시간 지속됩니다. 또한 최근 학업 스트레스가 많다고 합니다. 신체 검진, 기본 검사(흉부 X-선, 심전도, 심장 효소, D-dimer)에서 모두 정상 소견을 보입니다. 이러한 임상상은 심인성 흉통(psychogenic chest pain) 또는 불안 장애와 관련된 흉통을 시사합니다. 심인성 흉통은 기질적 원인 없이 발생하는 흉통으로, 불안 장애, 공황 장애, 우울증 등 정신적 요인에 의해 발생할 수 있습니다. 특징적으로 통증이 날카롭고, 국소화되며, 수초에서 수시간 지속될 수 있고, 흔히 불안감, 심계항진, 발한, 호흡곤란 등의 자율신경계 증상을 동반합니다. 또한 스트레스 상황에서 악화되거나 유발될 수 있습니다. 기본적인 심장 및 폐 검사에서 이상 소견이 없으면, 정신건강 평가 및 불안장애 선별검사를 통해 기저 정신적 요인을 확인하는 것이 중요합니다. 이 환자의 경우, 기본 검사에서 모두 정상이고, 임상 증상과 상황(학업 스트레스)이 심인성 흉통을 시사하므로, 정신건강 평가 및 불안장애 선별검사가 가장 적절한 추가 검사입니다. 심장 CT 혈관조영술은 관상동맥질환이 의심될 때 시행하는 검사로, 이 젊은 여성에서는 우선적으로 고려할 필요가 없습니다. 24시간 홀터 모니터링은 심부정맥이 의심될 때 유용하며, 폐기능 검사는 천식이나 만성 폐쇄성 폐질환 등 폐질환이 의심될 때 시행합니다. 흉부 CT 검사는 기본 영상 검사에서 이상 소견이 있거나, 특정 폐질환이나 종격동 병변이 의심될 때 고려합니다.",
   "source": "Psichiatry_DSM-5_textbook_data.txt: Psychogenic chest pain, often associated with anxiety disorders or panic disorder, is characterized by recurrent episodes of intense chest discomfort often described as sharp, stabbing, or pressure-like. These episodes are typically accompanied by autonomic symptoms such as palpitations, dyspnea, dizziness, and feelings of impending doom. The chest pain associated with panic disorder is usually short-lived (seconds to minutes), although discomfort may persist for hours. Exacerbation by emotional stress and psychosocial triggers is common. Diagnosis requires exclusion of medical causes of chest pain, including cardiac, pulmonary, and gastrointestinal disorders. Screening for panic disorder includes assessment of panic frequency, severity, associated avoidance behaviors, and functional impairment. The Panic Disorder Severity Scale (PDSS) and the Anxiety Sensitivity Index (ASI) are validated screening tools that can help in the diagnostic evaluation.",
   "category": "Psychiatry"
 },
@@ -1567,8 +1565,7 @@
   "chief complaint": "거품 소변",
   "purpose": "거품 소변이 있는 사람에게서 원인을 파악하기 위하여 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
   "question": "14세 남자 청소년이 학교 검진에서 발견된 단백뇨로 내원하였다. 환자는 특별한 증상이 없었으며, 과거력 및 가족력에서 특이사항은 없었다. 신체 검사에서 혈압 110/70mmHg, 키 162cm(50 백분위수), 체중 52kg(50 백분위수)로 정상이었으며, 다른 이상 소견은 관찰되지 않았다. 학교 검진 당시 오후에 시행한 소변 검사에서 단백 2+가 검출되었으나, 병원에서 다음날 아침 첫 소변에서는 단백이 음성이었다. 이 환자에서 단백뇨의 원인을 파악하기 위해 가장 적절한 검사는?",
-  "exam": "혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 6,500/μL, 혈소판 250,000/μL, BUN 12 mg/dL, 크레아티닌 0.7 mg/dL, 총 단백 7.0 g/dL, 알부민
-4.5 g/dL\n소변 검사(학교 검진, 오후): 비중 1.020, 단백 2+, 적혈구 0-1/HPF, 백혈구 0-2/HPF\n소변 검사(병원, 아침 첫 소변): 비중 1.018, 단백 음성, 적혈구 0-1/HPF, 백혈구 0-2/HPF",
+  "exam": "혈액 검사: 헤모글로빈 13.5 g/dL, 백혈구 6,500/μL, 혈소판 250,000/μL, BUN 12 mg/dL, 크레아티닌 0.7 mg/dL, 총 단백 7.0 g/dL, 알부민 4.5 g/dL\n소변 검사(학교 검진, 오후): 비중 1.020, 단백 2+, 적혈구 0-1/HPF, 백혈구 0-2/HPF\n소변 검사(병원, 아침 첫 소변): 비중 1.018, 단백 음성, 적혈구 0-1/HPF, 백혈구 0-2/HPF",
   "options": {
     "A": "24시간 소변 단백 정량",
     "B": "분리 소변 검사(오전, 오후, 취침 전)",
@@ -3049,8 +3046,7 @@
   "question_id": 18,
   "chief complaint": "급성복통",
   "purpose": "급성복통이 있는 사람에게서 증상의 발생 기전을 제시하고 전신질환 및 복강 외 원인을 감별할 수 있다.",
-  "question": "60세 남성이 24시간 전부터 시작된 우측 하부 흉부와 상복부 통증으로 응급실에 내원하였다. 통증은 날카롭고 호흡이나 기침 시 악화되며, 앞으로 구부리면 완화된다고 하였다. 환자는 3일 전부터 38.5°C의 발열, 오한, 마른 기침, 피로감이 있었다고 한다. 과거력상 고혈압과 2형 당뇨병으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 혈압 130/80mmHg, 맥박 96회/분, 호흡수 24회/분, 체온 38.2°C, 산소포화도 94%(실내 공기)였다. 환자는 우측 하부 흉부와 상복부 압통이 있었고, 우측 흉부 타진에서 탁음, 청진에서 거친 호흡음과
-통음(rales)이 들렸다. 다음 중 이 환자의 복통 발생 기전으로 가장 적절한 것은?",
+  "question": "60세 남성이 24시간 전부터 시작된 우측 하부 흉부와 상복부 통증으로 응급실에 내원하였다. 통증은 날카롭고 호흡이나 기침 시 악화되며, 앞으로 구부리면 완화된다고 하였다. 환자는 3일 전부터 38.5°C의 발열, 오한, 마른 기침, 피로감이 있었다고 한다. 과거력상 고혈압과 2형 당뇨병으로 약물 치료 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 혈압 130/80mmHg, 맥박 96회/분, 호흡수 24회/분, 체온 38.2°C, 산소포화도 94%(실내 공기)였다. 환자는 우측 하부 흉부와 상복부 압통이 있었고, 우측 흉부 타진에서 탁음, 청진에서 거친 호흡음과 통음(rales)이 들렸다. 다음 중 이 환자의 복통 발생 기전으로 가장 적절한 것은?",
   "exam": "혈액 검사: 백혈구 15,200/μL (호중구 82%), 헤모글로빈 14.0 g/dL, 혈소판 280,000/μL, CRP 12.5 mg/dL, 프로칼시토닌 0.8 ng/mL\n흉부 X-선: 우측 하엽에 경화(consolidation) 소견\n복부 초음파: 간, 담낭, 췌장, 비장 정상",
   "options": {
     "A": "복벽 체성 신경의 직접 자극으로 인한 전이통",
@@ -3783,7 +3779,7 @@
   },
   "answer": "C",
   "explanation": "이 환자는 백일해(Pertussis)의 전형적인 임상 양상을 보이고 있습니다. 백일해는 Bordetella pertussis 세균에 의한 급성 호흡기 감염으로, 특징적인 발작성 기침과 흡기성 협착음(whoop)이 특징입니다.\n\n백일해의 전형적인 임상 경과는 다음과 같은 세 단계로 나뉩니다:\n1. 카타르기(catarrhal phase): 1-2주간 지속되며, 경미한 상기도 감염 증상(콧물, 경미한 기침, 미열)이 나타납니다.\n2. 발작기(paroxysmal phase): 2-6주간 지속되며, 특징적인 발작성 기침, 기침 후 구토, 흡기성 협착음이 나타납니다. 기침 사이에는 상대적으로 정상적으로 보일 수 있습니다.\n3. 회복기(convalescent phase): 수주에서 수개월 동안 기침의 빈도와 중증도가 점차 감소합니다.\n\n이 환자는 초기 카타르기 증상(콧물, 경미한 발열) 후 발작기에 해당하는 전형적인 발작성 기침, 기침 후 구토, 흡기성 협착음의 증상을 보이고 있어 백일해를 강하게 시사합니다. 또한 환자의 여동생도 비슷한 증상을 보이는 것은 가족 내 2차 감염의 가능성을 시사합니다. 백일해는 매우 전염성이 강하며, 백신 접종을 완료한 개인에게도 발생할 수 있습니다(백신 효과의 감소, 백신 접종 후 면역력 약화 등).\n\n백일해의 진단을 위한 가장 적절한 검사는 '비인두 도말 배양검사와 PCR 검사'입니다. PCR 검사는 특히 질병의 초기 단계에서 민감도가 높으며, 항생제 치료 시작 후나 백신 접종을 받은 사람에서도 유용합니다. 배양검사는 특이도가 높지만 민감도가 낮고 결과를 얻는 데 시간이 더 오래 걸립니다. 이상적으로는 두 검사 모두 시행하는 것이 좋습니다.\n\n백일해의 치료는 주로 마크로라이드계 항생제(아지트로마이신, 클래리스로마이신, 에리스로마이신)를 사용합니다. 항생제 치료는 주로 질병의 초기 단계(카타르기와 초기 발작기)에 시작할 때 가장 효과적이며, 증상 발현 후 3주 이내에 시작해야 합니다. 항생제 치료는 증상을 완화시키고 전염 기간을 줄일 수 있지만, 이미 발생한 발작성 기침의 경과에는 큰 영향을 미치지 않을 수 있습니다.\n\n또한 백일해 확진 환자와 밀접하게 접촉한 사람들에게는 예방적 항생제 투여가 권장됩니다. 특히 12개월 미만의 영아, 임산부, 면역 저하자와 같은 고위험군 접촉자에게는 노출 후 예방이 중요합니다.\n\n코인두 분비물 호흡기 바이러스 PCR 검사(A)는 호흡기 바이러스(인플루엔자, RSV, 리노바이러스 등)에 의한 감염을 진단하는 데 유용합니다. 그러나 이 환자의 임상 양상(특징적인 발작성 기침, 흡기성 협착음, 기침 후 구토)은 바이러스성 감염보다는 백일해를 강하게 시사합니다. 따라서 Bordetella pertussis를 직접 검출하는 검사가 더 적절합니다.\n\n혈청 특이 IgE 항체 검사(B)는 알레르기 질환(알레르기성 비염, 천식 등)의 원인 알레르겐을 확인하는 데 사용됩니다. 이 환자의 급성 발병, 특징적인 발작성 기침, 흡기성 협착음은 알레르기 질환보다는 백일해에 합당합니다.\n\n기관지내시경검사(D)는 기도 이물, 선천성 기도 이상, 종양 등을 평가하는 데 유용하지만, 침습적인 검사이므로 일차 검사로 적절하지 않습니다. 이 환자의 임상 양상이 백일해를 강하게 시사하므로, 먼저 비침습적인 검사로 Bordetella pertussis 감염을 확인하는 것이 더 적절합니다.\n\n메타콜린 유발 검사(E)는 기관지 과민성을 평가하여 천식을 진단하는 데 사용됩니다. 이 환자의 임상 양상(특징적인 발작성 기침, 흡기성 협착음, 기침 후 구토)은 천식보다는 백일해를 강하게 시사합니다. 또한 메타콜린 유발 검사는 일반적으로 5-6세 이상의 협조 가능한 소아에서 시행되므로, 4세 환자에게는 적합하지 않을 수 있습니다.",
-  "source": "Pediatrics_Nelson_textbook_data.txt - Pertussis (whooping cough) is an acute respiratory infection caused primarily by Bordetella pertussis, characterized by paroxysmal cough followed by an inspiratory whoop. Despite widespread vaccination, pertussis remains endemic worldwide with cyclic outbreaks every 3-5 years, affecting all age groups but causing the most severe disease in infants. The clinical course classically progresses through three stages: the catarrhal phase (1-2 weeks), characterized by nonspecific upper respiratory symptoms including rhinorrhea, mild cough, and low-grade fever; the paroxysmal phase (2-6 weeks), marked by distinctive coughing spells that culminate in a "whoop" as air is rapidly inspired through a partially closed glottis, often accompanied by cyanosis, bulging eyes, and post-tussive vomiting; and the convalescent phase (weeks to months), during which paroxysms gradually diminish in frequency and severity. In infants under 6 months, the presentation may be atypical, with apnea or gasping as the primary manifestation rather than the classic whoop, reflecting their narrower airways and weaker respiratory muscles. Adolescents and adults, particularly those with partial immunity from prior vaccination, also frequently present with atypical symptoms, often manifesting as a persistent, non-specific cough without the characteristic whoop, making clinical diagnosis challenging. Complications primarily affect infants and include pneumonia (either from B. pertussis itself or secondary bacterial infection), seizures, encephalopathy, and in severe cases, respiratory failure and death. Weight loss and dehydration may occur due to feeding difficulties, especially following post-tussive vomiting. Laboratory findings typically include leukocytosis with absolute lymphocytosis, though this may be absent in partially immunized individuals or in infections caused by other Bordetella species. Diagnostic testing has evolved significantly, with polymerase chain reaction (PCR) of nasopharyngeal specimens now the preferred method due to its high sensitivity, particularly during the first three weeks of illness, and rapid turnaround time. Culture, while highly specific, has lower sensitivity (especially after antibiotic administration or one week into illness) and requires specific transport and growth media. Serologic testing for anti-pertussis toxin antibodies can be helpful later in the course but lacks standardization. Management centers on macrolide antibiotics (azithromycin, clarithromycin, or erythromycin), which eliminate nasopharyngeal carriage and reduce infectivity, though they have minimal impact on the clinical course unless administered very early. Supportive care is essential, particularly for infants, who may require hospitalization, careful monitoring for apnea, supplemental oxygen, and in severe cases, mechanical ventilation. Prevention relies primarily on vaccination with either whole-cell (wP) or acellular pertussis (aP) vaccines, typically combined with diphtheria and tetanus toxoids. While effective, protection wanes over time, necessitating booster doses during adolescence and adulthood. Postexposure prophylaxis with macrolides is recommended for high-risk contacts of confirmed cases, particularly household members, infants, pregnant women, healthcare workers, and those with underlying conditions that might increase complications from pertussis.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Pertussis (whooping cough) is an acute respiratory infection caused primarily by Bordetella pertussis, characterized by paroxysmal cough followed by an inspiratory whoop. Despite widespread vaccination, pertussis remains endemic worldwide with cyclic outbreaks every 3-5 years, affecting all age groups but causing the most severe disease in infants. The clinical course classically progresses through three stages: the catarrhal phase (1-2 weeks), characterized by nonspecific upper respiratory symptoms including rhinorrhea, mild cough, and low-grade fever; the paroxysmal phase (2-6 weeks), marked by distinctive coughing spells that culminate in a 'whoop' as air is rapidly inspired through a partially closed glottis, often accompanied by cyanosis, bulging eyes, and post-tussive vomiting; and the convalescent phase (weeks to months), during which paroxysms gradually diminish in frequency and severity. In infants under 6 months, the presentation may be atypical, with apnea or gasping as the primary manifestation rather than the classic whoop, reflecting their narrower airways and weaker respiratory muscles. Adolescents and adults, particularly those with partial immunity from prior vaccination, also frequently present with atypical symptoms, often manifesting as a persistent, non-specific cough without the characteristic whoop, making clinical diagnosis challenging. Complications primarily affect infants and include pneumonia (either from B. pertussis itself or secondary bacterial infection), seizures, encephalopathy, and in severe cases, respiratory failure and death. Weight loss and dehydration may occur due to feeding difficulties, especially following post-tussive vomiting. Laboratory findings typically include leukocytosis with absolute lymphocytosis, though this may be absent in partially immunized individuals or in infections caused by other Bordetella species. Diagnostic testing has evolved significantly, with polymerase chain reaction (PCR) of nasopharyngeal specimens now the preferred method due to its high sensitivity, particularly during the first three weeks of illness, and rapid turnaround time. Culture, while highly specific, has lower sensitivity (especially after antibiotic administration or one week into illness) and requires specific transport and growth media. Serologic testing for anti-pertussis toxin antibodies can be helpful later in the course but lacks standardization. Management centers on macrolide antibiotics (azithromycin, clarithromycin, or erythromycin), which eliminate nasopharyngeal carriage and reduce infectivity, though they have minimal impact on the clinical course unless administered very early. Supportive care is essential, particularly for infants, who may require hospitalization, careful monitoring for apnea, supplemental oxygen, and in severe cases, mechanical ventilation. Prevention relies primarily on vaccination with either whole-cell (wP) or acellular pertussis (aP) vaccines, typically combined with diphtheria and tetanus toxoids. While effective, protection wanes over time, necessitating booster doses during adolescence and adulthood. Postexposure prophylaxis with macrolides is recommended for high-risk contacts of confirmed cases, particularly household members, infants, pregnant women, healthcare workers, and those with underlying conditions that might increase complications from pertussis.",
   "category": "Pediatrics"
 },
 
@@ -4514,7 +4510,7 @@
   "question_id": 14,
   "chief complaint": "두근거림",
   "purpose": "두근거림을 호소하는 사람에게서 원인, 심한 정도, 합병증 등을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
-  "question": "25세 여성이 6개월 전부터 간헐적으로 발생하는 두근거림을 주소로 내원하였다. 환자는 갑자기 "퍼덕"하는 느낌이 들다가 사라지며, 이러한 증상은 특히 앉았다가 갑자기 일어설 때 심해진다고 한다. 가끔 가슴 통증과 어지러움이 동반되지만 의식 소실은 없었다고 한다. 과거력 및 가족력상 특이 사항은 없으며, 약물 복용력도 없다. 신체 검사에서 혈압 115/70 mmHg, 맥박 72회/분(규칙적), 호흡수 16회/분, 체온 36.5°C였다. 심음 청진 시 수축기 중간 클릭음 이후 수축기 후반 심잡음(2/6)이 청진되었으며, 이 심잡음은 스쿼트 자세에서 감소하고 기립 자세에서 증가하였다. 이 환자에서 가장 적절한 다음 검사는?",
+  "question": "25세 여성이 6개월 전부터 간헐적으로 발생하는 두근거림을 주소로 내원하였다. 환자는 갑자기 '퍼덕'하는 느낌이 들다가 사라지며, 이러한 증상은 특히 앉았다가 갑자기 일어설 때 심해진다고 한다. 가끔 가슴 통증과 어지러움이 동반되지만 의식 소실은 없었다고 한다. 과거력 및 가족력상 특이 사항은 없으며, 약물 복용력도 없다. 신체 검사에서 혈압 115/70 mmHg, 맥박 72회/분(규칙적), 호흡수 16회/분, 체온 36.5°C였다. 심음 청진 시 수축기 중간 클릭음 이후 수축기 후반 심잡음(2/6)이 청진되었으며, 이 심잡음은 스쿼트 자세에서 감소하고 기립 자세에서 증가하였다. 이 환자에서 가장 적절한 다음 검사는?",
   "exam": "혈액 검사: 전해질, CBC, 갑상선 기능 검사 모두 정상 범위\n흉부 X-선: 정상\n기본 심전도: 정상 동리듬, 심박수 70회/분, 이분지 T파",
   "options": { 
     "A": "경흉부 심초음파", 
@@ -4832,97 +4828,95 @@
   "source": "InternalMed_Harrison_textbook_data.txt: Epinephrine is the first-line treatment for anaphylaxis and should be administered as soon as the diagnosis is suspected, without waiting for complete clinical criteria to be fulfilled. The recommended dose is 0.3 mg (0.3 mL of a 1:1,000 solution) for adults or 0.15 mg for children, administered intramuscularly into the anterolateral thigh for optimal absorption. Intramuscular injection is preferred over subcutaneous administration due to more rapid and reliable absorption. Epinephrine's beneficial effects include alpha-1 adrenergic vasoconstriction (reversing hypotension and reducing angioedema), beta-1 adrenergic chronotropic and inotropic cardiac stimulation, and beta-2 adrenergic bronchodilation and inhibition of mediator release from mast cells and basophils. Patients with severe reactions or incomplete response may require multiple doses. Antihistamines and corticosteroids are considered second-line agents that may help relieve urticaria and prevent biphasic reactions, respectively, but they do not replace epinephrine as the primary treatment for anaphylaxis. Delayed administration of epinephrine has been associated with increased mortality and morbidity in anaphylaxis cases.",
   "category": "Emergency Medicine"
 },
-
-[
-  {
-    "question_id": 1,
-    "chief complaint": "두통",
-    "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
-    "question": "35세 여성이 반복되는 두통으로 내원하였다. 환자는 5년 전부터 한 달에 3-4회 정도 두통을 경험하고 있으며, 두통 발생 20분 전에 반짝이는 지그재그 모양의 시각 현상을 경험한다고 한다. 두통은 주로 왼쪽 측두부에 박동성으로 나타나며 4-6시간 지속된다. 두통이 있을 때 빛과 소리에 민감해지고 오심이 동반되며, 조용한 방에서 누워있으면 증상이 완화된다. 가족력상 환자의 어머니와 언니도 비슷한 증상이 있다고 한다. 신체 검사에서 특이 소견은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
-    "exam": "신경학적 검사: 정상\n두부 CT: 정상\n일반 혈액 검사: 정상 범위",
-    "options": {
-      "A": "긴장성 두통",
-      "B": "편두통",
-      "C": "군발두통",
-      "D": "약물과용두통",
-      "E": "측두동맥염"
-    },
-    "answer": "B",
-    "explanation": "이 환자는 전형적인 편두통(migraine with aura)의 증상을 보이고 있다. 편두통의 특징적인 임상양상으로는 1) 전조증상(aura)으로 시각적 증상(반짝이는 지그재그 모양)이 선행, 2) 박동성 두통이 주로 한쪽(일측성)에 발생, 3) 빛과 소리에 대한 과민성(광공포증, 음공포증), 4) 오심이나 구토 동반, 5) 가족력이 있는 경우가 많음. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 전조증상이 없다. 군발두통은 매우 심한 일측성 두통으로 주로 안구 주변이나 측두부에 발생하며, 동측의 눈물, 코막힘, 결막충혈 등 자율신경계 증상이 동반되고 주로 남성에게 많이 발생한다. 약물과용두통은 진통제나 triptan 등의 약물을 장기간 과용할 때 발생하는 만성 두통이다. 측두동맥염은 주로 50세 이상의 고령에서 발생하며, 두피 압통, 저작시 통증, 시력 저하, 발열, ESR/CRP 상승 등이 특징이다. 환자의 연령, 전조 증상, 두통의 특성, 동반 증상 및 가족력 등을 고려할 때 편두통이 가장 가능성이 높다.",
-    "source": "InternalMed_Harrison_textbook_data.txt, 'Migraine is characterized by recurrent episodes of headache that are typically throbbing, unilateral, and aggravated by routine physical activity. The headache typically lasts 4–72 h and is accompanied by nausea, vomiting, or sensitivity to light, sound, or movement. Patients may experience a premonitory phase occurring hours to days before headache onset, consisting of altered mood, behavior, or cognition. About 25% of patients with migraine experience aura: a reversible focal neurologic symptom that usually precedes the headache but may occur during the headache phase. The most common aura symptom is visual, often a scintillating scotoma (i.e., an expanding visual disruption with a scintillating border), or other visual disturbances (e.g., zigzag lines). Risk factors for migraine include female sex (3:1 female-to-male ratio), family history of migraine (risk increases by 1.5–4.0 times), and low socioeconomic status.'",
-    "category": "Neurology / Neurosurgery"
-  },
-  {
-    "question_id": 2,
-    "chief complaint": "두통",
-    "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
-    "question": "45세 남성이 갑작스러운 극심한 두통으로 응급실에 내원하였다. 환자는 15분 전 아령 운동 중에 '평생 경험한 적 없는 최악의 두통'이 갑자기 시작되었다고 한다. 두통은 후두부에서 시작하여 전체 두부로 퍼졌으며, 동시에 오심과 구토가 있었다. 환자는 고혈압으로 약물 복용 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 혈압 170/95 mmHg, 맥박 95회/분, 체온 37.2°C였다. 의식은 명료하나 경부 경직이 관찰되었고, 광공포증을 호소하였다. 이 환자에게 가장 적절한 다음 검사는?",
-    "exam": "혈액 검사: WBC 12,000/μL, 그 외 정상 범위\n단순 두부 촬영: 정상",
-    "options": {
-      "A": "뇌파검사(EEG)",
-      "B": "뇌 MRI",
-      "C": "비조영증강 뇌 CT",
-      "D": "요추천자",
-      "E": "측두동맥 조직검사"
-    },
-    "answer": "C",
-    "explanation": "이 환자는 지주막하 출혈(subarachnoid hemorrhage, SAH)이 강력히 의심되는 임상양상을 보이고 있다. SAH의 특징적인 증상은 '벼락두통'(thunderclap headache)으로 묘사되는 갑작스럽고 극심한 두통으로, 환자들은 종종 '평생 경험한 적 없는 최악의 두통'이라고 표현한다. 이 환자의 경우 두통이 운동 중에 갑자기 발생했고, 경부 경직(meningismus)과 광공포증 같은 수막 자극 징후가 있으며, SAH의 위험인자인 고혈압과 흡연력도 가지고 있다. SAH가 의심될 경우 가장 먼저 시행해야 할 검사는 비조영증강 뇌 CT이다. 뇌 CT는 발병 24시간 이내에 시행할 경우 SAH의 진단 민감도가 약 95%로 높다. 뇌 MRI도 SAH 진단에 사용될 수 있으나, 급성기에는 CT에 비해 시간이 더 소요되고 급성 출혈의 발견에 있어 특별한 이점이 없다. 만약 임상적으로 SAH가 강하게 의심되나 뇌 CT에서 음성 결과가 나온다면, 다음 단계로 요추천자를 시행하여 뇌척수액 검사를 통해 진단할 수 있다. 뇌파검사는 SAH의 진단에 도움이 되지 않으며, 측두동맥 조직검사는 측두동맥염이 의심될 때 시행하는 검사이다.",
-    "source": "InternalMed_Harrison_textbook_data.txt, 'Subarachnoid hemorrhage (SAH) is a neurologic emergency characterized by the extravasation of blood into the space between the arachnoid and pia mater. The classic clinical presentation is the sudden onset of a severe headache (a thunderclap headache), often described as the \"worst headache of my life.\" The most common cause of spontaneous SAH is rupture of an intracranial aneurysm. Risk factors include hypertension, smoking, alcohol use, and family history. Initial diagnostic test of choice for suspected SAH is a noncontrast head CT scan, which has high sensitivity within 24 hours of onset. If CT is negative but clinical suspicion remains high, a lumbar puncture should be performed to look for evidence of blood in the cerebrospinal fluid.'",
-    "category": "Neurology / Neurosurgery"
-  },
-  {
-    "question_id": 3,
-    "chief complaint": "두통",
-    "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
-    "question": "28세 남성이 극심한 우측 안구 주변 통증으로 내원하였다. 환자는 2주 전부터 매일 밤 같은 시간에 약 45분간 지속되는 심한 두통이 발생한다고 한다. 두통은 항상 우측 안구 주변에 국한되어 있으며, 환자는 통증이 '뜨거운 쇠막대가 눈을 찌르는 것 같다'고 표현했다. 두통 발작 중에는 가만히 있지 못하고 방 안을 걸어다니거나 머리를 흔드는 등 안절부절 못하는 모습을 보인다. 또한 두통 시 우측 눈물과 코막힘, 결막 충혈이 동반된다고 한다. 과거력상 비슷한 증상이 1년 전에도 약 3주간 있었으며, 그 후 완전히 사라졌다가 최근 다시 발생했다고 한다. 신체 검사에서 우측 결막 충혈과 동공 크기 감소(축동)가 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
-    "exam": "뇌 MRI: 정상\n일반 혈액 검사: 정상 범위",
-    "options": {
-      "A": "긴장성 두통",
-      "B": "편두통",
-      "C": "군발두통",
-      "D": "삼차신경통",
-      "E": "측두동맥염"
-    },
-    "answer": "C",
-    "explanation": "이 환자의 임상 양상은 전형적인 군발두통(cluster headache)에 합당하다. 군발두통의 주요 특징으로는 1) 극심한 단측성 안구 주변 통증, 2) 발작 기간이 짧고(15-180분) 주로 밤에 발생, 3) 동측의 자율신경계 증상(눈물, 코막힘, 결막 충혈, 축동, 안검 하수 등), 4) 안절부절 못하는 행동(pacing, rocking), 5) 발작이 수주에서 수개월간 군집(cluster)을 이루어 발생하고 이후 완전한 관해기를 보임. 남성에서 더 흔하게 발생하는 것도 특징적이다. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 자율신경계 증상이 동반되지 않는다. 편두통은 박동성 두통으로 수 시간에서 수일간 지속되며, 빛과 소리에 대한 과민성, 오심, 구토가 동반될 수 있으나 이 환자와 같은 뚜렷한 자율신경계 증상과 주기적 패턴은 보이지 않는다. 삼차신경통은 삼차신경 분포 영역(주로 2, 3분지)에 짧은 전기 충격과 같은 통증이 특징이며, 특정 유발 부위를 자극할 때 발생한다. 측두동맥염은 주로 50세 이상의 노인에서 발생하며, 측두부 압통, 턱 파행(jaw claudication), ESR 상승 등이 특징이다.",
-    "source": "InternalMed_Harrison_textbook_data.txt, 'Cluster headache is characterized by attacks of severe, strictly unilateral pain, which is orbital, supraorbital, temporal, or in any combination of these sites, lasting 15–180 min and occurring from once every other day to eight times a day. The attacks are associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhea, facial sweating, miosis, ptosis, and/or eyelid edema, and/or with restlessness or agitation. They occur in series lasting for weeks or months (so-called cluster periods or bouts) separated by remission periods usually lasting months or years. Cluster headache has a distinctive circadian pattern, with attacks often occurring at night and waking the patient from sleep. During a series, attacks can be provoked by alcohol, histamine, or nitroglycerin. Men are affected more commonly than women, with a male-to-female ratio of 2.5:1.'",
-    "category": "Neurology / Neurosurgery"
-  },
-  {
-    "question_id": 4,
-    "chief complaint": "두통",
-    "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
-    "question": "42세 여성이 3개월 이상 지속된 만성 두통으로 내원하였다. 환자는 10년 전부터 월 1-2회 편두통이 있었으나, 최근 6개월 전부터 두통 빈도가 증가하여 거의 매일 두통을 경험한다고 한다. 두통은 양측성이며 압박감이 있고, 경도에서 중등도의 강도로 하루 종일 지속된다. 환자는 두통 조절을 위해 처방받은 수마트립탄을 초기에는 월 2-3회 사용했으나, 최근에는 주 3-4회 사용하고 있으며, 추가로 이부프로펜을 거의 매일 복용하고 있다고 한다. 신체 검사와 신경학적 검사에서 특이 소견은 관찰되지 않았다. 이 환자에게 가장 적절한 치료 방침은?",
-    "exam": "뇌 MRI: 정상\n혈액 검사: 정상 범위",
-    "options": {
-      "A": "수마트립탄의 용량 증가",
-      "B": "이부프로펜을 아세트아미노펜으로 교체",
-      "C": "예방적 항우울제(amitriptyline) 추가",
-      "D": "급성기 약물 중단과 예방 치료 시작",
-      "E": "경구 스테로이드 단기 투여"
-    },
-    "answer": "D",
-    "explanation": "이 환자는 약물과용두통(medication-overuse headache, MOH)의 전형적인 임상양상을 보이고 있다. MOH는 3개월 이상, 월 15일 이상 만성적으로 두통이 있는 환자에서 진통제나 트립탄 계열 약물을 과다 사용(트립탄의 경우 월 10일 이상, 단순 진통제의 경우 월 15일 이상)할 때 발생한다. 환자의 경우 원래 간헐적인 편두통이 있었으나, 최근 수마트립탄과 이부프로펜의 빈번한 사용으로 인해 거의 매일 두통이 발생하는 만성 양상으로 변화했다. MOH의 치료에서 가장 중요한 첫 단계는 과용하고 있는 급성기 약물을 중단하는 것이다. 동시에 예방 치료를 시작하여 기저 두통(이 환자의 경우 편두통)을 관리하는 것이 필요하다. 급성기 약물 중단 후 일시적으로 반동 두통(rebound headache)이 악화될 수 있으나, 대부분 1-2주 내에 호전된다. 수마트립탄의 용량 증가나 이부프로펜을 아세트아미노펜으로 교체하는 것은 약물 과용 상태를 지속시키므로 도움이 되지 않는다. 예방적 항우울제 추가는 근본적인 약물 과용 문제를 해결하지 않고는 효과가 제한적이다. 경구 스테로이드는 군발두통의 단기 조절이나 상황에 따라 약물 중단 시 반동 두통의 완화를 위해 고려할 수 있으나, MOH의 일차 치료 전략은 아니다.",
-    "source": "InternalMed_Harrison_textbook_data.txt, 'Medication-overuse headache (MOH) is a complex disorder characterized by chronic headache (≥15 days/month) that develops or worsens during overuse of acute medications. Medication overuse is defined as regular use of drugs for >3 months, with frequency depending on the medication class: ≥10 days/month for triptans, ergots, opioids, or combination analgesics; or ≥15 days/month for simple analgesics or NSAIDs. MOH commonly starts with episodic migraine or tension-type headache that transforms into a daily or near-daily headache pattern. The first and most crucial step in treatment is discontinuation of the overused medication(s). This withdrawal is followed initially by worsening of headache, nausea, and sleep disturbances, but most patients improve within 2 weeks. Simultaneously, preventive treatment should be initiated to address the underlying primary headache disorder.'",
-    "category": "Neurology / Neurosurgery"
-  },
- {
-  "question_id": 5,
+{
+  "question_id": 1,
   "chief complaint": "두통",
-  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
-  "question": "53세 여성이 6주 전부터 시작된 두통으로 내원하였다. 두통은 주로 아침에 심하고 기침이나 몸을 구부릴 때 악화되며, 최근에는 강도가 점차 증가하고 있다고 한다. 환자는 또한 최근 2주간 간헐적인 오른쪽 손의 저림과 약한 보행 장애를 경험했다고 한다. 환자는 평소 건강했으며 특별한 과거력은 없다. 신체 검사에서 오른팔의 경미한 근력 저하(MRC grade IV+/V)와 깊은 건반사 항진이 관찰되었다. 안저 검사에서 양측 유두부종(papilledema)이 확인되었다. 이 환자에게 가장 적절한 다음 검사는?",
-  "exam": "혈액 검사: WBC 7,500/μL, Hb 13.2 g/dL, 전해질 정상 범위\n흉부 X-선: 정상",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "35세 여성이 반복되는 두통으로 내원하였다. 환자는 5년 전부터 한 달에 3-4회 정도 두통을 경험하고 있으며, 두통 발생 20분 전에 반짝이는 지그재그 모양의 시각 현상을 경험한다고 한다. 두통은 주로 왼쪽 측두부에 박동성으로 나타나며 4-6시간 지속된다. 두통이 있을 때 빛과 소리에 민감해지고 오심이 동반되며, 조용한 방에서 누워있으면 증상이 완화된다. 가족력상 환자의 어머니와 언니도 비슷한 증상이 있다고 한다. 신체 검사에서 특이 소견은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "신경학적 검사: 정상\n두부 CT: 정상\n일반 혈액 검사: 정상 범위",
   "options": {
-    "A": "뇌파검사(EEG)",
-    "B": "조영증강 뇌 MRI",
-    "C": "척수 MRI",
-    "D": "뇌혈관조영술",
-    "E": "요추천자"
+    "A": "긴장성 두통",
+    "B": "편두통",
+    "C": "군발두통",
+    "D": "약물과용두통",
+    "E": "측두동맥염"
   },
   "answer": "B",
-  "explanation": "이 환자는 두개내 종양(intracranial tumor)이 강력히 의심되는 임상양상을 보이고 있다. 환자의 임상적 특징으로 1) 아침에 악화되고 기침이나 자세 변화시 심해지는 두통(두개내압 상승의 특징), 2) 최근 발생한 국소 신경학적 증상(오른손 저림, 보행 장애, 오른팔 근력 저하), 3) 양측 유두부종(두개내압 상승의 객관적 징후)이 있다. 이러한 소견들은 공간 점유 병변(space-occupying lesion)에 의한 두개내압 상승과 국소 뇌 조직 압박을 시사한다. 두개내 종양이 의심될 경우 조영증강 뇌 MRI가 가장 적절한 진단 검사이다. MRI는 조직 대조도가 높아 뇌실질 내 병변을 자세히 확인할 수 있으며, 조영제 사용 시 종양의 혈관성, 혈액뇌장벽 파괴 여부 등에 대한 추가 정보를 제공한다. 또한 종양의 정확한 위치, 크기, 주변 조직과의 관계를 평가하여 수술 계획에도 도움이 된다. 뇌파검사는 뇌의 전기적 활동을 기록하는 검사로, 간질 진단에 유용하나 공간 점유 병변의 진단에는 제한적이다. 척수 MRI는 척수 병변 평가에 유용하나 이 환자의 증상은 두개내 병변을 시사한다. 뇌혈관조영술은 뇌혈관 질환(동맥류, 동정맥기형 등)의 평가에 유용하지만, 일차적 평가 도구로는 적합하지 않다. 요추천자는 두개내압 상승이 의심되는 환자에서 두개내 종양이 배제되기 전에는 뇌탈출(brain herniation)의 위험이 있어 금기이다.",
-  "source": "InternalMed_Harrison_textbook_data.txt, 'Brain tumors present with progressive neurologic deficits and are often associated with headache and seizures. The classic headache associated with a brain tumor is most severe when the patient awakens in the morning and improves after arising, but this pattern is actually seen in a minority of patients. Headaches from brain tumors worsen with exertion or changes in position. Focal or generalized seizures and progressive focal neurologic deficits can indicate the presence of an underlying brain tumor. Most patients with brain tumors will have papilledema, focal neurologic deficits, or both. A contrast-enhanced MRI is the best diagnostic test because it can delineate the anatomy of the tumor, identify any surrounding edema, and help determine the nature of the lesion.'",
+  "explanation": "이 환자는 전형적인 편두통(migraine with aura)의 증상을 보이고 있다. 편두통의 특징적인 임상양상으로는 1) 전조증상(aura)으로 시각적 증상(반짝이는 지그재그 모양)이 선행, 2) 박동성 두통이 주로 한쪽(일측성)에 발생, 3) 빛과 소리에 대한 과민성(광공포증, 음공포증), 4) 오심이나 구토 동반, 5) 가족력이 있는 경우가 많음. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 전조증상이 없다. 군발두통은 매우 심한 일측성 두통으로 주로 안구 주변이나 측두부에 발생하며, 동측의 눈물, 코막힘, 결막충혈 등 자율신경계 증상이 동반되고 주로 남성에게 많이 발생한다. 약물과용두통은 진통제나 triptan 등의 약물을 장기간 과용할 때 발생하는 만성 두통이다. 측두동맥염은 주로 50세 이상의 고령에서 발생하며, 두피 압통, 저작시 통증, 시력 저하, 발열, ESR/CRP 상승 등이 특징이다. 환자의 연령, 전조 증상, 두통의 특성, 동반 증상 및 가족력 등을 고려할 때 편두통이 가장 가능성이 높다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Migraine is characterized by recurrent episodes of headache that are typically throbbing, unilateral, and aggravated by routine physical activity. The headache typically lasts 4–72 h and is accompanied by nausea, vomiting, or sensitivity to light, sound, or movement. Patients may experience a premonitory phase occurring hours to days before headache onset, consisting of altered mood, behavior, or cognition. About 25% of patients with migraine experience aura: a reversible focal neurologic symptom that usually precedes the headache but may occur during the headache phase. The most common aura symptom is visual, often a scintillating scotoma (i.e., an expanding visual disruption with a scintillating border), or other visual disturbances (e.g., zigzag lines). Risk factors for migraine include female sex (3:1 female-to-male ratio), family history of migraine (risk increases by 1.5–4.0 times), and low socioeconomic status.'",
   "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 2,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남성이 갑작스러운 극심한 두통으로 응급실에 내원하였다. 환자는 15분 전 아령 운동 중에 '평생 경험한 적 없는 최악의 두통'이 갑자기 시작되었다고 한다. 두통은 후두부에서 시작하여 전체 두부로 퍼졌으며, 동시에 오심과 구토가 있었다. 환자는 고혈압으로 약물 복용 중이며, 20갑년의 흡연력이 있다. 신체 검사에서 혈압 170/95 mmHg, 맥박 95회/분, 체온 37.2°C였다. 의식은 명료하나 경부 경직이 관찰되었고, 광공포증을 호소하였다. 이 환자에게 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사: WBC 12,000/μL, 그 외 정상 범위\n단순 두부 촬영: 정상",
+  "options": {
+    "A": "뇌파검사(EEG)",
+    "B": "뇌 MRI",
+    "C": "비조영증강 뇌 CT",
+    "D": "요추천자",
+    "E": "측두동맥 조직검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 지주막하 출혈(subarachnoid hemorrhage, SAH)이 강력히 의심되는 임상양상을 보이고 있다. SAH의 특징적인 증상은 '벼락두통'(thunderclap headache)으로 묘사되는 갑작스럽고 극심한 두통으로, 환자들은 종종 '평생 경험한 적 없는 최악의 두통'이라고 표현한다. 이 환자의 경우 두통이 운동 중에 갑자기 발생했고, 경부 경직(meningismus)과 광공포증 같은 수막 자극 징후가 있으며, SAH의 위험인자인 고혈압과 흡연력도 가지고 있다. SAH가 의심될 경우 가장 먼저 시행해야 할 검사는 비조영증강 뇌 CT이다. 뇌 CT는 발병 24시간 이내에 시행할 경우 SAH의 진단 민감도가 약 95%로 높다. 뇌 MRI도 SAH 진단에 사용될 수 있으나, 급성기에는 CT에 비해 시간이 더 소요되고 급성 출혈의 발견에 있어 특별한 이점이 없다. 만약 임상적으로 SAH가 강하게 의심되나 뇌 CT에서 음성 결과가 나온다면, 다음 단계로 요추천자를 시행하여 뇌척수액 검사를 통해 진단할 수 있다. 뇌파검사는 SAH의 진단에 도움이 되지 않으며, 측두동맥 조직검사는 측두동맥염이 의심될 때 시행하는 검사이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Subarachnoid hemorrhage (SAH) is a neurologic emergency characterized by the extravasation of blood into the space between the arachnoid and pia mater. The classic clinical presentation is the sudden onset of a severe headache (a thunderclap headache), often described as the \"worst headache of my life.\" The most common cause of spontaneous SAH is rupture of an intracranial aneurysm. Risk factors include hypertension, smoking, alcohol use, and family history. Initial diagnostic test of choice for suspected SAH is a noncontrast head CT scan, which has high sensitivity within 24 hours of onset. If CT is negative but clinical suspicion remains high, a lumbar puncture should be performed to look for evidence of blood in the cerebrospinal fluid.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 3,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+  "question": "28세 남성이 극심한 우측 안구 주변 통증으로 내원하였다. 환자는 2주 전부터 매일 밤 같은 시간에 약 45분간 지속되는 심한 두통이 발생한다고 한다. 두통은 항상 우측 안구 주변에 국한되어 있으며, 환자는 통증이 '뜨거운 쇠막대가 눈을 찌르는 것 같다'고 표현했다. 두통 발작 중에는 가만히 있지 못하고 방 안을 걸어다니거나 머리를 흔드는 등 안절부절 못하는 모습을 보인다. 또한 두통 시 우측 눈물과 코막힘, 결막 충혈이 동반된다고 한다. 과거력상 비슷한 증상이 1년 전에도 약 3주간 있었으며, 그 후 완전히 사라졌다가 최근 다시 발생했다고 한다. 신체 검사에서 우측 결막 충혈과 동공 크기 감소(축동)가 관찰되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "뇌 MRI: 정상\n일반 혈액 검사: 정상 범위",
+  "options": {
+    "A": "긴장성 두통",
+    "B": "편두통",
+    "C": "군발두통",
+    "D": "삼차신경통",
+    "E": "측두동맥염"
+  },
+  "answer": "C",
+  "explanation": "이 환자의 임상 양상은 전형적인 군발두통(cluster headache)에 합당하다. 군발두통의 주요 특징으로는 1) 극심한 단측성 안구 주변 통증, 2) 발작 기간이 짧고(15-180분) 주로 밤에 발생, 3) 동측의 자율신경계 증상(눈물, 코막힘, 결막 충혈, 축동, 안검 하수 등), 4) 안절부절 못하는 행동(pacing, rocking), 5) 발작이 수주에서 수개월간 군집(cluster)을 이루어 발생하고 이후 완전한 관해기를 보임. 남성에서 더 흔하게 발생하는 것도 특징적이다. 긴장성 두통은 주로 양측성의 압박감이나 조이는 느낌으로 나타나며 자율신경계 증상이 동반되지 않는다. 편두통은 박동성 두통으로 수 시간에서 수일간 지속되며, 빛과 소리에 대한 과민성, 오심, 구토가 동반될 수 있으나 이 환자와 같은 뚜렷한 자율신경계 증상과 주기적 패턴은 보이지 않는다. 삼차신경통은 삼차신경 분포 영역(주로 2, 3분지)에 짧은 전기 충격과 같은 통증이 특징이며, 특정 유발 부위를 자극할 때 발생한다. 측두동맥염은 주로 50세 이상의 노인에서 발생하며, 측두부 압통, 턱 파행(jaw claudication), ESR 상승 등이 특징이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Cluster headache is characterized by attacks of severe, strictly unilateral pain, which is orbital, supraorbital, temporal, or in any combination of these sites, lasting 15–180 min and occurring from once every other day to eight times a day. The attacks are associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhea, facial sweating, miosis, ptosis, and/or eyelid edema, and/or with restlessness or agitation. They occur in series lasting for weeks or months (so-called cluster periods or bouts) separated by remission periods usually lasting months or years. Cluster headache has a distinctive circadian pattern, with attacks often occurring at night and waking the patient from sleep. During a series, attacks can be provoked by alcohol, histamine, or nitroglycerin. Men are affected more commonly than women, with a male-to-female ratio of 2.5:1.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+  "question_id": 4,
+  "chief complaint": "두통",
+  "purpose": "두통을 호소하는 사람에게 원인에 따른 적합한 치료를 선택할 수 있다.",
+  "question": "42세 여성이 3개월 이상 지속된 만성 두통으로 내원하였다. 환자는 10년 전부터 월 1-2회 편두통이 있었으나, 최근 6개월 전부터 두통 빈도가 증가하여 거의 매일 두통을 경험한다고 한다. 두통은 양측성이며 압박감이 있고, 경도에서 중등도의 강도로 하루 종일 지속된다. 환자는 두통 조절을 위해 처방받은 수마트립탄을 초기에는 월 2-3회 사용했으나, 최근에는 주 3-4회 사용하고 있으며, 추가로 이부프로펜을 거의 매일 복용하고 있다고 한다. 신체 검사와 신경학적 검사에서 특이 소견은 관찰되지 않았다. 이 환자에게 가장 적절한 치료 방침은?",
+  "exam": "뇌 MRI: 정상\n혈액 검사: 정상 범위",
+  "options": {
+    "A": "수마트립탄의 용량 증가",
+    "B": "이부프로펜을 아세트아미노펜으로 교체",
+    "C": "예방적 항우울제(amitriptyline) 추가",
+    "D": "급성기 약물 중단과 예방 치료 시작",
+    "E": "경구 스테로이드 단기 투여"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 약물과용두통(medication-overuse headache, MOH)의 전형적인 임상양상을 보이고 있다. MOH는 3개월 이상, 월 15일 이상 만성적으로 두통이 있는 환자에서 진통제나 트립탄 계열 약물을 과다 사용(트립탄의 경우 월 10일 이상, 단순 진통제의 경우 월 15일 이상)할 때 발생한다. 환자의 경우 원래 간헐적인 편두통이 있었으나, 최근 수마트립탄과 이부프로펜의 빈번한 사용으로 인해 거의 매일 두통이 발생하는 만성 양상으로 변화했다. MOH의 치료에서 가장 중요한 첫 단계는 과용하고 있는 급성기 약물을 중단하는 것이다. 동시에 예방 치료를 시작하여 기저 두통(이 환자의 경우 편두통)을 관리하는 것이 필요하다. 급성기 약물 중단 후 일시적으로 반동 두통(rebound headache)이 악화될 수 있으나, 대부분 1-2주 내에 호전된다. 수마트립탄의 용량 증가나 이부프로펜을 아세트아미노펜으로 교체하는 것은 약물 과용 상태를 지속시키므로 도움이 되지 않는다. 예방적 항우울제 추가는 근본적인 약물 과용 문제를 해결하지 않고는 효과가 제한적이다. 경구 스테로이드는 군발두통의 단기 조절이나 상황에 따라 약물 중단 시 반동 두통의 완화를 위해 고려할 수 있으나, MOH의 일차 치료 전략은 아니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt, 'Medication-overuse headache (MOH) is a complex disorder characterized by chronic headache (≥15 days/month) that develops or worsens during overuse of acute medications. Medication overuse is defined as regular use of drugs for >3 months, with frequency depending on the medication class: ≥10 days/month for triptans, ergots, opioids, or combination analgesics; or ≥15 days/month for simple analgesics or NSAIDs. MOH commonly starts with episodic migraine or tension-type headache that transforms into a daily or near-daily headache pattern. The first and most crucial step in treatment is discontinuation of the overused medication(s). This withdrawal is followed initially by worsening of headache, nausea, and sleep disturbances, but most patients improve within 2 weeks. Simultaneously, preventive treatment should be initiated to address the underlying primary headache disorder.'",
+  "category": "Neurology / Neurosurgery"
+},
+{
+"question_id": 5,
+"chief complaint": "두통",
+"purpose": "두통을 호소하는 사람에게서 필요한 검사를 시행하고 그 결과를 해석할 수 있다.",
+"question": "53세 여성이 6주 전부터 시작된 두통으로 내원하였다. 두통은 주로 아침에 심하고 기침이나 몸을 구부릴 때 악화되며, 최근에는 강도가 점차 증가하고 있다고 한다. 환자는 또한 최근 2주간 간헐적인 오른쪽 손의 저림과 약한 보행 장애를 경험했다고 한다. 환자는 평소 건강했으며 특별한 과거력은 없다. 신체 검사에서 오른팔의 경미한 근력 저하(MRC grade IV+/V)와 깊은 건반사 항진이 관찰되었다. 안저 검사에서 양측 유두부종(papilledema)이 확인되었다. 이 환자에게 가장 적절한 다음 검사는?",
+"exam": "혈액 검사: WBC 7,500/μL, Hb 13.2 g/dL, 전해질 정상 범위\n흉부 X-선: 정상",
+"options": {
+  "A": "뇌파검사(EEG)",
+  "B": "조영증강 뇌 MRI",
+  "C": "척수 MRI",
+  "D": "뇌혈관조영술",
+  "E": "요추천자"
+},
+"answer": "B",
+"explanation": "이 환자는 두개내 종양(intracranial tumor)이 강력히 의심되는 임상양상을 보이고 있다. 환자의 임상적 특징으로 1) 아침에 악화되고 기침이나 자세 변화시 심해지는 두통(두개내압 상승의 특징), 2) 최근 발생한 국소 신경학적 증상(오른손 저림, 보행 장애, 오른팔 근력 저하), 3) 양측 유두부종(두개내압 상승의 객관적 징후)이 있다. 이러한 소견들은 공간 점유 병변(space-occupying lesion)에 의한 두개내압 상승과 국소 뇌 조직 압박을 시사한다. 두개내 종양이 의심될 경우 조영증강 뇌 MRI가 가장 적절한 진단 검사이다. MRI는 조직 대조도가 높아 뇌실질 내 병변을 자세히 확인할 수 있으며, 조영제 사용 시 종양의 혈관성, 혈액뇌장벽 파괴 여부 등에 대한 추가 정보를 제공한다. 또한 종양의 정확한 위치, 크기, 주변 조직과의 관계를 평가하여 수술 계획에도 도움이 된다. 뇌파검사는 뇌의 전기적 활동을 기록하는 검사로, 간질 진단에 유용하나 공간 점유 병변의 진단에는 제한적이다. 척수 MRI는 척수 병변 평가에 유용하나 이 환자의 증상은 두개내 병변을 시사한다. 뇌혈관조영술은 뇌혈관 질환(동맥류, 동정맥기형 등)의 평가에 유용하지만, 일차적 평가 도구로는 적합하지 않다. 요추천자는 두개내압 상승이 의심되는 환자에서 두개내 종양이 배제되기 전에는 뇌탈출(brain herniation)의 위험이 있어 금기이다.",
+"source": "InternalMed_Harrison_textbook_data.txt, 'Brain tumors present with progressive neurologic deficits and are often associated with headache and seizures. The classic headache associated with a brain tumor is most severe when the patient awakens in the morning and improves after arising, but this pattern is actually seen in a minority of patients. Headaches from brain tumors worsen with exertion or changes in position. Focal or generalized seizures and progressive focal neurologic deficits can indicate the presence of an underlying brain tumor. Most patients with brain tumors will have papilledema, focal neurologic deficits, or both. A contrast-enhanced MRI is the best diagnostic test because it can delineate the anatomy of the tumor, identify any surrounding edema, and help determine the nature of the lesion.'",
+"category": "Neurology / Neurosurgery"
 },
 
 {
@@ -6397,4 +6391,5 @@
   "explanation": "이 환자는 30세 여성으로 항생제 복용 후 황달이 발생한 사례입니다. 검사 결과에서 간접 빌리루빈의 상승(총 빌리루빈 - 직접 빌리루빈), 상대적으로 경미한 간효소 상승, 헤모글로빈 감소, 망상적혈구 증가, 직접 Coombs 검사 양성, 혈액 도말에서 구상적혈구 관찰 등 용혈성 빈혈의 특징적인 소견을 보입니다. 이러한 임상상은 약물 유발성 용혈성 빈혈, 특히 면역 매개성 용혈성 빈혈에 합당합니다. 약물 유발성 용혈성 빈혈은 크게 두 가지 기전으로 발생합니다: 1) 약물-항체 복합체 형성(면역 복합체 기전)이나 약물 유도 자가항체 형성(약물 유도 자가면역) 등의 면역학적 기전과 2) 직접적인 세포 독성이나 산화 스트레스 유발 등의 비면역학적 기전. 이 환자의 경우 직접 Coombs 검사 양성은 적혈구 표면에 항체가 부착되어 있음을 의미하며, 이는 면역 매개성 용혈을 시사합니다. Amoxicillin-clavulanate는 면역 매개성 용혈성 빈혈을 유발할 수 있는 약물 중 하나입니다. 약물 유발성 간손상은 주로 간효소의 현저한 상승과 직접 빌리루빈의 상승을 특징으로 합니다. 바이러스성 간염 역시 간효소의 현저한 상승을 보입니다. 윌슨병은 ceruloplasmin 감소, 24시간 소변 구리 증가 등의 특징적인 소견을 보입니다. 길버트 증후군은 간접 빌리루빈의 경미한 상승만 있고 용혈의 증거는 없습니다.",
   "source": "InternalMed_Harrison_textbook_data.txt - Drug-induced immune hemolytic anemia (DIIHA) is a rare but potentially serious complication of drug therapy. It can be caused by drug-induced antibodies reacting with red blood cells by various mechanisms: (1) drug-dependent antibodies (e.g., the drug binds to the RBC membrane, and antibody binds to the drug, forming an immune complex); (2) drug-independent antibodies (true autoantibodies induced by drugs); and (3) immune complex mechanism (drug-antibody complexes deposit nonspecifically on RBC membranes). Common drugs implicated in DIIHA include penicillins, cephalosporins, nonsteroidal anti-inflammatory drugs, quinine, and sulfonamides. Clinical manifestations include the sudden onset of anemia, jaundice, and occasionally hemoglobinuria. Laboratory findings include decreased hemoglobin, increased reticulocytes, elevated indirect bilirubin, positive direct Coombs (antiglobulin) test, and spherocytes on peripheral blood smear. Treatment involves immediate discontinuation of the offending drug, supportive care, and, in severe cases, corticosteroids or intravenous immunoglobulin. Most patients recover fully within several weeks after drug discontinuation.",
   "category": "Hematology and Oncology"
-},
+}
+]
