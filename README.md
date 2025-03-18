@@ -28,6 +28,7 @@ Cardiology, Pulmonology (Respiratory Medicine), Gastroenterology, Nephrology, In
 ```
 
 ### 문제 형식
+```
 { "question_id": ,
 "chief complaint": ,
 "purpose": ,
@@ -39,3 +40,4 @@ Cardiology, Pulmonology (Respiratory Medicine), Gastroenterology, Nephrology, In
 "source": 
 “category”:,
 }
+```
