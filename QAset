@@ -951,7 +951,7 @@
   "question": "7세 남아가 3일 전부터 발생한 거품 소변, 얼굴 부종, 그리고 갈색 소변을 주소로 내원하였다. 환자는 2주 전 인후통과 발열로 지역 의원에서 치료받은 적이 있다. 신체검진에서 혈압 130/80 mmHg, 맥박 100회/분, 호흡수 22회/분, 체온 37.3°C였다. 안면부종과 가벼운 복부 팽만이 관찰되었다. 이 환자에게 가장 적합한 치료는?",
   "exam": "혈액검사: 혈색소 11.5 g/dL, 백혈구 8,500/μL, 혈소판 250,000/μL, 혈중요소질소 28 mg/dL, 혈청 크레아티닌 0.8 mg/dL, 혈청 알부민 3.2 g/dL. 요분석: 단백 2+, 적혈구 대부분/HPF, 적혈구 원주가 관찰됨. 혈청 C3 35 mg/dL(정상: 90-180 mg/dL), C4 25 mg/dL(정상: 10-40 mg/dL), 항스트렙토리신 O(ASO) 역가 650 IU/mL(정상: <200 IU/mL). ",
   "options": {
-    "A": "경과 관찰”,
+    "A": "경과 관찰",
     "B": "고용량 코르티코스테로이드와 시클로포스파미드 병합 요법",
     "C": "페니실린 G 또는 아목시실린 투여",
     "D": "싸이클로스포린 또는 타크로리무스 투여",
@@ -1263,7 +1263,7 @@
   "question_id": 62,
   "chief_complaint": "골절/탈구",
   "purpose": "골절/탈구를 갖고 있는 사람에게 기본적인 응급처치를 할 수 있다.",
-  "question": "15세 남학생이 축구 경기 중 넘어지면서 좌측 손목을 과신전한 후 발생한 통증과 변형을 주소로 응급실에 내원하였다. 환자는 손목이 "포크처럼 변형되었다"고 표현하였다. 신체 검진에서 좌측 원위 요골 부위의 배측 각형성 변형과 심한 압통이 관찰되며, 손목 움직임에 제한이 있으나 수지 운동 및 감각은 정상이다. 단순 X-선 검사에서 원위 요골 골절이 확인되었다. 이 환자에게 응급실에서 시행해야 할 가장 적절한 초기 처치는?",
+  "question": "15세 남학생이 축구 경기 중 넘어지면서 좌측 손목을 과신전한 후 발생한 통증과 변형을 주소로 응급실에 내원하였다. 환자는 손목이 포크처럼 변형되었다고 표현하였다. 신체 검진에서 좌측 원위 요골 부위의 배측 각형성 변형과 심한 압통이 관찰되며, 손목 움직임에 제한이 있으나 수지 운동 및 감각은 정상이다. 단순 X-선 검사에서 원위 요골 골절이 확인되었다. 이 환자에게 응급실에서 시행해야 할 가장 적절한 초기 처치는?",
   "exam": "좌측 손목 X-선 검사에서 원위 요골의 20도 배측 각형성과 5mm의 단축이 관찰되는 완전 골절이 확인되었다. 신경혈관학적 검사 결과: 요골동맥 맥박 2+/4+, 척골동맥 맥박 2+/4+, 모세혈관 재충전 시간 2초, 손가락 전체의 감각 점수 2점/2점(정상), 수지 굴곡 및 신전 근력 5/5, Two-point discrimination 검사 5mm, Allen 검사 음성이다.",
   "options": {
     "A": "즉시 수술적 정복 및 내고정술을 시행한다.",
@@ -1336,8 +1336,7 @@
     "E": "지방 색전증 - 산소 공급 및 수액 요법"
   },
   "answer": "B",
-  "explanation": "이 환자는 고에너지 외상(오토바이 사고)으로 인한 경골 및 비골의 분쇄 골절이 있으며, 하퇴부 구획 증후군의 전형적인 임상 소견을 보이고 있습니다. 하퇴부 구획 증후군은 근막으로 둘러싸인 폐쇄된 공간 내 압력이 상승하여 혈액 순환이 저하되고 신경 및 근육 손상이 발생하는 응급 상황입니다. 이 환자의 경우 하퇴부가 전체적으로 긴장되고 단단하게 만져지며, 수동적 발가락 신전 시 심한 통증(passive stretch pain)이 유발되는 특징적인 소견을 보입니다. 또한 원위부 맥박 소실, 모세혈관 재충전 시간 지연, 감각 저하 등의 허혈성 변화가 동반되어 있습니다. 구획 증후군은 가장 초기에 나타나는 증상이 passive stretch pain(수동적 신전 통증)이며, 이후 감각 저하, 마비, 맥박 소실 순으로 진행합니다. 맥박 소실은 후기 소견으로, 이 시점에서는 이미 상당한 조직 손상이 진행된 상태입니다. 구획 증후군이 의심되는 경우 확진을 위해 구획압 측정을 할 수 있으나, 임상적으로 명확한 경우 지체 없이 응급 근막 절개술을 시행해야 합니다. 근막 절개술은
-구획 내 압력을 감소시켜 혈류를 회복시키고 추가적인 조직 괴사를 방지하는 유일한 치료법입니다. 치료가 지연될 경우 비가역적인 신경 및 근육 손상, 허혈성 구축, 심지어 절단이 필요할 수 있습니다. 동맥 손상은 맥박 소실과 모세혈관 재충전 시간 지연을 설명할 수 있으나, 사지가 단단하고 긴장된 상태와 passive stretch pain은 설명하지 못합니다. 신경 손상도 감각 저하를 설명할 수 있으나, 하퇴부 전체가 단단하고 긴장된 상태는 설명하지 못합니다. 심부정맥 혈전증은 일반적으로 외상 후 수일 내에 발생하며, 이 환자와 같은 급성기 증상을 설명하지 못합니다. 지방 색전증은 주로 장골 골절 후 발생하는 전신적 합병증으로, 국소적인 하퇴부 증상을 설명하지 못합니다.",
+  "explanation": "이 환자는 고에너지 외상(오토바이 사고)으로 인한 경골 및 비골의 분쇄 골절이 있으며, 하퇴부 구획 증후군의 전형적인 임상 소견을 보이고 있습니다. 하퇴부 구획 증후군은 근막으로 둘러싸인 폐쇄된 공간 내 압력이 상승하여 혈액 순환이 저하되고 신경 및 근육 손상이 발생하는 응급 상황입니다. 이 환자의 경우 하퇴부가 전체적으로 긴장되고 단단하게 만져지며, 수동적 발가락 신전 시 심한 통증(passive stretch pain)이 유발되는 특징적인 소견을 보입니다. 또한 원위부 맥박 소실, 모세혈관 재충전 시간 지연, 감각 저하 등의 허혈성 변화가 동반되어 있습니다. 구획 증후군은 가장 초기에 나타나는 증상이 passive stretch pain(수동적 신전 통증)이며, 이후 감각 저하, 마비, 맥박 소실 순으로 진행합니다. 맥박 소실은 후기 소견으로, 이 시점에서는 이미 상당한 조직 손상이 진행된 상태입니다. 구획 증후군이 의심되는 경우 확진을 위해 구획압 측정을 할 수 있으나, 임상적으로 명확한 경우 지체 없이 응급 근막 절개술을 시행해야 합니다. 근막 절개술은 구획 내 압력을 감소시켜 혈류를 회복시키고 추가적인 조직 괴사를 방지하는 유일한 치료법입니다. 치료가 지연될 경우 비가역적인 신경 및 근육 손상, 허혈성 구축, 심지어 절단이 필요할 수 있습니다. 동맥 손상은 맥박 소실과 모세혈관 재충전 시간 지연을 설명할 수 있으나, 사지가 단단하고 긴장된 상태와 passive stretch pain은 설명하지 못합니다. 신경 손상도 감각 저하를 설명할 수 있으나, 하퇴부 전체가 단단하고 긴장된 상태는 설명하지 못합니다. 심부정맥 혈전증은 일반적으로 외상 후 수일 내에 발생하며, 이 환자와 같은 급성기 증상을 설명하지 못합니다. 지방 색전증은 주로 장골 골절 후 발생하는 전신적 합병증으로, 국소적인 하퇴부 증상을 설명하지 못합니다.",
   "source": {
     "file_name": "Rockwood and Green's Fractures in Adults",
     "content": "Compartment syndrome is a surgical emergency characterized by increased pressure within a closed fascial space, leading to compromised circulation and tissue ischemia. The classic signs of compartment syndrome include pain out of proportion to the injury, pain on passive stretch of muscles within the affected compartment, paresthesia, pallor, and pulselessness. However, it's critical to note that pulselessness is a late finding, and waiting for this sign may result in irreversible tissue damage. The most sensitive early clinical finding is pain on passive stretching of muscles within the affected compartment. In the lower leg, this is assessed by passively dorsiflexing or plantarflexing the patient's toes and ankle. Definitive diagnosis is made by measuring compartment pressures, with absolute pressures >30 mmHg or pressures within 30 mmHg of diastolic blood pressure indicating the need for fasciotomy. However, in cases with clear clinical signs, treatment should not be delayed for pressure measurements. Emergency fasciotomy is the only effective treatment, involving the release of all compartments through appropriate surgical incisions. Delay in diagnosis and treatment can lead to irreversible muscle and nerve damage, ischemic contractures, and potentially limb amputation."
@@ -3458,8 +3457,7 @@
     "E": "실내 알레르겐 노출을 최소화하기 위해 집을 정기적으로 청소한다."
   },
   "answer": "B",
-  "explanation": "이 환자는 냉 유발 검사 양성 소견을 보이는 한랭 두드러기(Cold urticaria)로 진단할 수 있습니다. 한랭 두드러기는 물리적 두드러기의 한 형태로, 차가운 공기, 물, 음식 등에 노출된 후 접촉 부위에 두드러기와 혈관부종이 발생하는 것이 특징입니다. 이 환자의 경우 차가운 물에 접촉할 때마다 증상이 발생하고 있으므로, 가장 중요한 교육 내용은 갑작스러운 차가운 물 노출을 피하고, 불가피한 노출 전에는 항히스타민제를 예방적으로 복용하도록 하는 것입니다. 특히 전신 노출(예: 수영)은 심각한 전신 반응이나 아나필락시스를 유발할 수 있으므로 주의가 필요합니다. 한랭 두드러기 환자는 수영 전 항히스타민제를 복용하고, 가능하면 다른 사람이 있는 환경에서 수영하며, 점진적으로 차가운 물에 들어가는 것이 좋습니다. 항히스타민제는 증상 조절에 도움이 되지만, 모든 환자가 평생 매일 복용해야 하는 것은 아닙니다. 증상의
- 중증도와 빈도에 따라 필요시 복용하거나, 노출이 예상될 때 예방적으로 복용할 수 있습니다. 대부분의 한랭 두드러기는 후천성이며 가족성 한랭 자가염증 증후군(FCAS)과 같은 드문 유전성 질환을 제외하고는 가족력이 없으므로, 이 환자의 가족 구성원들에게 유전자 검사를 권장할 필요는 없습니다. 음식 일기 작성은 식품 알레르기나 식품 유발 두드러기가 의심될 때 유용하지만, 이 환자의 증상은 명확히 차가운 물 노출과 관련이 있습니다. 실내 알레르겐 관리는 알레르기성 비염이나 천식과 같은 호흡기 알레르기 질환에 중요하지만, 한랭 두드러기와는 직접적인 관련이 없습니다.",
+  "explanation": "이 환자는 냉 유발 검사 양성 소견을 보이는 한랭 두드러기(Cold urticaria)로 진단할 수 있습니다. 한랭 두드러기는 물리적 두드러기의 한 형태로, 차가운 공기, 물, 음식 등에 노출된 후 접촉 부위에 두드러기와 혈관부종이 발생하는 것이 특징입니다. 이 환자의 경우 차가운 물에 접촉할 때마다 증상이 발생하고 있으므로, 가장 중요한 교육 내용은 갑작스러운 차가운 물 노출을 피하고, 불가피한 노출 전에는 항히스타민제를 예방적으로 복용하도록 하는 것입니다. 특히 전신 노출(예: 수영)은 심각한 전신 반응이나 아나필락시스를 유발할 수 있으므로 주의가 필요합니다. 한랭 두드러기 환자는 수영 전 항히스타민제를 복용하고, 가능하면 다른 사람이 있는 환경에서 수영하며, 점진적으로 차가운 물에 들어가는 것이 좋습니다. 항히스타민제는 증상 조절에 도움이 되지만, 모든 환자가 평생 매일 복용해야 하는 것은 아닙니다. 증상의 중증도와 빈도에 따라 필요시 복용하거나, 노출이 예상될 때 예방적으로 복용할 수 있습니다. 대부분의 한랭 두드러기는 후천성이며 가족성 한랭 자가염증 증후군(FCAS)과 같은 드문 유전성 질환을 제외하고는 가족력이 없으므로, 이 환자의 가족 구성원들에게 유전자 검사를 권장할 필요는 없습니다. 음식 일기 작성은 식품 알레르기나 식품 유발 두드러기가 의심될 때 유용하지만, 이 환자의 증상은 명확히 차가운 물 노출과 관련이 있습니다. 실내 알레르겐 관리는 알레르기성 비염이나 천식과 같은 호흡기 알레르기 질환에 중요하지만, 한랭 두드러기와는 직접적인 관련이 없습니다.",
   "source": {
     "file_name": "European Academy of Allergy and Clinical Immunology (EAACI) guideline on cold urticaria",
     "content": "Patient education is crucial in cold urticaria management. Patients should be advised to avoid sudden exposure to cold, especially swimming in cold water, which can cause systemic reactions or anaphylaxis due to massive histamine release. For patients who need to be exposed to cold triggers, premedication with antihistamines 1-2 hours before anticipated exposure is recommended. Patients should be advised to enter cold water gradually and never swim alone. They should carry emergency medication including epinephrine auto-injectors if they have experienced systemic reactions in the past. Unlike hereditary angioedema, most cases of cold urticaria are acquired and do not require genetic testing of family members."
@@ -4055,7 +4053,7 @@
   "category": "Hematology and Oncology"
 }, 
 {
-  "question_id": 205
+  "question_id": 205,
   "chief_complaint": "목덩이",
   "purpose": "목덩이가 있는 사람에게서 병력청취와 신체진찰을 통해 원인 질환을 감별할 수 있다.",
   "question": "4세 남아가 전경부 중앙에 위치한 종괴를 주소로 내원하였다. 어머니는 이 종괴가 출생 이후 지속되었으며 최근 몇 개월 동안 크기가 커졌다고 한다. 종괴는 무통성이며 연하 시 상하로 움직인다. 신체검진에서 전경부 중앙선에 위치한 2cm 크기의 둥글고 부드러운 낭성 종괴가 촉지되었다. 이 환자의 진단으로 가장 가능성이 높은 것은?",
