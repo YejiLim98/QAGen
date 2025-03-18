@@ -23,7 +23,9 @@ QAGen
 - 업데이트 코드 : [GitToHug](/src)
 
 ### Medical Specialities
+```
 Cardiology, Pulmonology (Respiratory Medicine), Gastroenterology, Nephrology, Infectious Diseases, Endocrinology, Allergy and Immunology, Hematology and Oncology, Rheumatology, General Surgery, Obstetrics, Gynecology, Pediatrics, Psychiatry, Dermatology, Neurology / Neurosurgery, Ophthalmology, Plastic Surgery, Otolaryngology, Orthopedic Surgery, Emergency Medicine, Urology, 의료통계, 의료법
+```
 
 ### 문제 형식
 { "question_id": ,
