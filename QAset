@@ -147,6 +147,27 @@
   "category": "Allergy and Immunology"
 }, 
 {
+  "question_id": 8,
+  "chief_complaint": "가려움증",
+  "purpose": "가려움증을 호소하는 사람에게서 병력, 신체소견, 피부소견, 검사소견을 종합하여 원인을 감별할 수 있다.",
+  "question": "70세 남성이 2개월 전부터 시작된 전신 가려움증을 주소로 내원하였다. 환자는 특히 목욕 후에 가려움증이 심해지며, 밤에도 증상이 악화된다고 한다. 피부는 건조하고 일부 긁은 자국이 있으나 특별한 발진은 없다. 최근 식욕 부진과 약 5kg의 체중 감소가 있었으며, 전반적인 피로감을 호소한다. 과거력상 5년 전 고혈압 진단받고 약물 복용 중이다. 신체 검진에서 피부가 창백하고 비장이 촉지되며, 다른 특이 소견은 없다. 다음 중 이 환자의 가려움증의 원인으로 가장 가능성이 높은 질환은?",
+  "exam": "검사 결과 헤모글로빈 17.8 g/dL, 적혈구용적률 55%, 백혈구 12,000/µL, 혈소판 450,000/µL, 간기능과 신장 기능은 정상이었다. 적혈구 질량 측정: 증가\n동맥혈 산소포화도: 96%\nJAK2 V617F 돌연변이 검사: 양성\n부검 초음파: 비장 비대 확인\n골수 생검: 과형성, 거대핵세포 증가",
+  "options": {
+    "A": "특발성 폐섬유증",
+    "B": "만성 림프구성 백혈병",
+    "C": "원발성 진성 적혈구증가증",
+    "D": "아토피 피부염",
+    "E": "원발성 담즙성 담관염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전신 가려움증, 특히 목욕 후 악화되는 증상, 창백한 피부, 비장 비대, 체중 감소, 피로감 등의 임상 증상을 보입니다. 검사 소견에서 헤모글로빈 17.8 g/dL, 적혈구용적률 55%로 증가된 소견과 백혈구 12,000/µL, 혈소판 450,000/µL로 증가된 소견을 보이며, 적혈구 질량 증가, JAK2 V617F 돌연변이 양성, 비장 비대, 골수 과형성과 거대핵세포 증가 소견이 확인되었습니다. 이러한 소견들은 원발성 진성 적혈구증가증(Polycythemia vera)을 강하게 시사합니다. 원발성 진성 적혈구증가증은 골수증식성 종양의 하나로, JAK2 유전자 돌연변이로 인해 조혈모세포의 자율적인 증식이 일어나는 질환입니다. 이 질환에서는 적혈구뿐만 아니라 백혈구와 혈소판도 증가할 수 있으며, 비장 비대가 흔히 관찰됩니다. 가려움증은 원발성 진성 적혈구증가증의 특징적인 증상 중 하나로, 특히 따뜻한 물에 노출된 후(목욕 후) 악화되는 경향이 있습니다. 이는 비만 세포의 과도한 활성화와 히스타민 분비 증가로 인한 것으로 생각됩니다. 특발성 폐섬유증은 가려움증보다는 호흡곤란, 마른 기침 등의 호흡기 증상이 주로 나타나며, 혈액학적 이상을 설명하지 못합니다. 만성 림프구성 백혈병에서는 림프구 증가, 림프절 비대 등이 특징적이며, 적혈구용적률 증가는 일반적이지 않습니다. 아토피 피부염은 특징적인 피부 발진(습진성 병변)과 함께 나타나며, 이 환자에게서는 발진이 없고 혈액학적 이상을 설명하지 못합니다. 원발성 담즙성 담관염은 담즙 정체로 인한 가려움증과 함께 알칼리성 포스파타제, 감마글루타밀전이효소 등의 상승이 특징적이지만, 이 환자의 간기능은 정상이며 혈액학적 이상을 설명하지 못합니다.",
+  "source": {
+    "file_name": "Williams Hematology",
+    "content": "Polycythemia vera (PV) is a chronic myeloproliferative neoplasm characterized by increased red cell mass, often accompanied by leukocytosis and thrombocytosis. The JAK2 V617F mutation is present in more than 95% of cases, leading to constitutive activation of JAK-STAT signaling pathway and autonomous proliferation of hematopoietic stem cells. Clinical manifestations include symptoms related to hyperviscosity (headache, dizziness, visual disturbances), thrombotic events, splenomegaly, and aquagenic pruritus (itching provoked by contact with water, particularly after hot showers or baths). The pruritus in PV is thought to be due to abnormal histamine release from basophils and mast cells which express the JAK2 V617F mutation. This pruritus can be severe and debilitating, significantly affecting quality of life. Diagnostic criteria for PV include elevated hemoglobin (>16.5 g/dL in men, >16.0 g/dL in women), presence of JAK2 mutation, and bone marrow showing hypercellularity with trilineage growth (panmyelosis)."
+  },
+  "category": "Hematology and Oncology"
+},
+{
   "question_id": 9,
   "chief_complaint": "가려움증",
   "purpose": "가려움증을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
