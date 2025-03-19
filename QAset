@@ -4387,7 +4387,229 @@
     "content": "Prerenal AKI is the most common form of AKI and is an appropriate physiologic response to renal hypoperfusion. When renal perfusion is reduced, the glomerular filtration rate falls because of a decrease in net glomerular filtration pressure, caused by a combination of reduced cardiac output, systemic vasodilatation, and renal vasoconstriction. Prerenal azotemia can complicate any disease characterized by decreased effective arterial blood volume, including true volume depletion (e.g., hemorrhage, diarrhea, vomiting), decreased cardiac output (e.g., heart failure, pericardial tamponade), and peripheral vasodilation (e.g., sepsis or anaphylaxis). Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the synthesis of renal vasodilatory prostaglandins and may precipitate prerenal AKI in patients with volume depletion, heart failure, or cirrhosis."
   },
   "category": "Nephrology"
-}
+}, 
+{
+  "question_id": 221,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람의 병력과 신체소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "19세 여성이 초경이 없다는 것을 주소로 내원하였다. 환자는 키 155cm, 체중 48kg이며, 정상적인 신체 발달과 2차 성징을 보이고 있다. 과거력상 특이사항은 없으며 가족력에서 환자의 어머니는 14세에 초경이 있었다고 한다. 신체 검사에서 정상적인 외부 생식기와 유방 발달(Tanner 단계 4)을 보이며, 골반 초음파에서 자궁이 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "염색체 검사: 46,XY. 호르몬 검사 결과 FSH 5 mIU/mL, LH 7 mIU/mL, 에스트라디올 75 pg/mL로 측정되었다.",
+  "options": {
+    "A": "고프로락틴혈증",
+    "B": "안드로겐 불감증 증후군",
+    "C": "다낭성 난소 증후군",
+    "D": "터너 증후군",
+    "E": "시상하부성 무월경"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 19세에 초경이 없는 원발성 무월경을 주소로 내원했습니다. 환자는 정상적인 신체 발달과 2차 성징(유방 발달 Tanner 단계 4)을 보이고 있으며, 정상 범위의 성선자극호르몬(FSH, LH)과 에스트라디올 수치를 보입니다. 그러나 골반 초음파에서 자궁이 관찰되지 않았고, 염색체 검사에서 46,XY 핵형을 보이고 있습니다. 이러한 임상 소견은 안드로겐 불감증 증후군(Androgen Insensitivity Syndrome, AIS)을 시사합니다. 안드로겐 불감증 증후군은 X 염색체에 연관된 안드로겐 수용체의 돌연변이로 인해 발생하며, 유전적으로는 남성(46,XY)이지만 표현형은 여성으로 나타납니다. 완전 안드로겐 불감증 증후군(Complete AIS)의 경우, 테스토스테론에 대한 조직의 반응이 완전히 없어 정상 여성 외부 생식기와 2차 성징(유방 발달)을 보이지만, 자궁과, 자궁경부, 근위부 질은 결여되어 있습니다. 고환은 복강 내 또는 서혜부에 위치하며 테스토스테론을 생성하지만 이것이 에스트로겐으로 전환되어 여성형 체형과 유방 발달을 유도합니다. 이 환자의 경우 정상 범위의 에스트라디올 수치는 고환에서 생성된 테스토스테론이 말초에서 에스트로겐으로 전환된 결과입니다. 고프로락틴혈증은 프로락틴 분비 종양이나 약물 부작용 등에 의해 발생할 수 있으며, 유즙 분비와 함께 속발성 무월경의 원인이 될 수 있습니다. 다낭성 난소 증후군은 희발월경이나 무월경을 유발할 수 있으나, 자궁이 존재하며 초경이 있었던 경우가 많습니다. 터너 증후군(45,X)은 난소 이형성, 저신장, 다양한 선천성 기형을 특징으로 하며, 이 환자의 정상적인 신장과 46,XY 핵형과는 일치하지 않습니다. 시상하부성 무월경은 GnRH 펄스 생성 장애로 인한 것으로, 낮은 FSH, LH, 에스트라디올 수치를 보이는데, 이 환자의 호르몬 수치는 정상 범위이며 자궁이 없다는 점에서 일치하지 않습니다.",
+  "source": {
+    "file_name": "Williams Textbook of Endocrinology",
+    "content": "Complete androgen insensitivity syndrome (CAIS) is characterized by a female phenotype in an individual with an XY karyotype and testes producing age-appropriate male levels of testosterone. Affected individuals have female external genitalia, normal breast development (due to aromatization of androgens to estrogens), a vagina, but no uterus, fallopian tubes, or proximal vagina (due to anti-müllerian hormone action). The vagina may be short or absent. The gonads may be intra-abdominal, inguinal, or labial. The diagnosis is usually made at puberty when primary amenorrhea is investigated. Hormone levels typically show normal male testosterone levels and luteinizing hormone (LH) levels that may be normal or slightly elevated. Estradiol levels may be normal or somewhat elevated and are derived from peripheral aromatization of androgens."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 222,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "24세 여성이 6개월간 지속된 무월경을 주소로 내원하였다. 환자는 16세에 초경이 있었으며 이전까지 규칙적인 월경 주기(28~30일)를 유지해왔다. 최근 3개월 동안 8kg의 체중 감소가 있었으며, 과도한 운동(주 6일, 하루 2시간 이상)을 하고 있다고 한다. BMI는 17.5kg/m²이다. 환자는 최근 식사량을 줄이고 단백질 위주의 식단을 유지하고 있다고 하며, 정신과적 병력은 없다. 신체 검진에서 특이 소견은 관찰되지 않았다. 이 환자에서 진단을 위해 다음 중 가장 먼저 시행해야 할 검사는?",
+  "exam": "임신 검사: 음성, TSH 2.1 μIU/mL (정상 범위: 0.4-4.0), 프로락틴 15 ng/mL (정상 범위: 4-23)",
+  "options": {
+    "A": "뇌 MRI",
+    "B": "골반 초음파",
+    "C": "FSH와 LH 혈중 농도 측정",
+    "D": "프로게스테론 유발 검사",
+    "E": "염색체 분석"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 6개월간 지속된 속발성 무월경을 호소하는 24세 여성으로, 최근 3개월간 8kg의 체중 감소와 과도한 운동, BMI 17.5kg/m²의 저체중을 보이고 있습니다. 기본적인 선별검사인 임신 검사, 갑상선 기능 검사(TSH), 프로락틴 수치는 모두 정상 범위입니다. 이러한 임상 상황에서는 에너지 결핍으로 인한 기능성 시상하부성 무월경(functional hypothalamic amenorrhea)을 의심해볼 수 있습니다. 기능성 시상하부성 무월경의 진단을 위해서는 프로게스테론 유발 검사(progesterone challenge test)가 가장 먼저 시행되어야 합니다. 프로게스테론 유발 검사는 메드록시프로게스테론 아세테이트(MPA) 10mg을 5-10일간 경구 투여한 후 약물 중단 후 출혈 여부를 관찰하는 검사입니다. 검사에서 출혈이 발생하면(양성 반응) 자궁내막이 에스트로겐에 의해 충분히 자극받았음을 시사하며, 출혈이 없으면(음성 반응) 저에스트로겐 상태임을 시사합니다. 기능성 시상하부성 무월경의 경우 저에스트로겐 상태로 프로게스테론 유발 검사에서 음성 반응을 보입니다. 뇌 MRI는 고프로락틴혈증이 있거나 두통, 시야장애 등 뇌하수체 종양을 시사하는 증상이 있을 때 고려됩니다. 이 환자의 프로락틴 수치는 정상이므로 1차 검사로는 적합하지 않습니다. 골반 초음파는 다낭성 난소 증후군이나 구조적 이상을 평가하는 데 유용하지만, 이 환자의 임상 양상은 기능성 시상하부성 무월경에 더 부합합니다. FSH와 LH 혈중 농도 측정은 무월경의 원인이 난소성인지, 시상하부-뇌하수체성인지 구별하는 데 도움을 줄 수 있으나, 프로게스테론 유발 검사를 통해 먼저 에스트로겐 상태를 평가하는 것이 더 합리적인 접근법입니다. 염색체 분석은 원발성 무월경, 특히 생식선 이형성이 의심될 때 주로 시행되며, 이 환자는 이전에 정상 월경을 경험했으므로 적합하지 않습니다.",
+  "source": {
+    "file_name": "Speroff's Clinical Gynecologic Endocrinology and Infertility",
+    "content": "The progesterone challenge test is performed by administering medroxyprogesterone acetate (Provera), 10 mg daily for 5-10 days. Withdrawal bleeding within 2-7 days after discontinuing the progestin indicates adequate endogenous estrogen production and a patent outflow tract. The absence of withdrawal bleeding after progestin administration suggests one of the following: 1) inadequate endogenous estrogen to prime the endometrium (hypoestrogenic state), 2) outflow tract obstruction, or 3) endometrial scarring (Asherman syndrome). In functional hypothalamic amenorrhea, the progesterone challenge test is typically negative due to insufficient estrogen production to stimulate endometrial growth. This condition often results from psychological stress, excessive exercise, weight loss, or a combination of these factors, leading to suppression of GnRH pulsatility."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 223,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 6개월간의 무월경을 주소로 내원하였다. 환자는 15세에 초경이 있었으며, 평소 28~35일 주기로 규칙적인 월경을 하였다. 최근 체중 변화는 없었으며, 약물 복용력이나 다른 특이 병력은 없다. 신체 검사에서 갈색 피부 색소 침착과 경미한 다모증이 관찰되었다. 혈압은 90/60mmHg였다. 골반 초음파에서 자궁과 양측 난소는 정상 소견을 보였다. 이 환자에게 가장 적합한 치료는?",
+  "exam": " 호르몬 검사 결과 FSH 14 mIU/mL, LH 18 mIU/mL, 에스트라디올 35 pg/mL, 프로락틴 12 ng/mL, TSH 3.2 μIU/mL였다. 추가 검사에서 오전 8시 코르티솔은 5 μg/dL(정상 범위: 10-20 μg/dL)로 측정되었다. ACTH 자극 검사: 코르티솔 기저치 5 μg/dL, 자극 후 30분 5.5 μg/dL, 자극 후 60분 6 μg/dL",
+  "options": {
+    "A": "복합 경구 피임약",
+    "B": "글루코코르티코이드와 미네랄코르티코이드 보충 요법",
+    "C": "클로미펜 구연산염",
+    "D": "카베르골린",
+    "E": "메트포민"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 6개월간의 속발성 무월경을 주소로 내원한 28세 여성으로, 갈색 피부 색소 침착, 경미한 다모증, 저혈압(90/60mmHg)을 보이고 있습니다. 호르몬 검사에서 FSH와 LH는 정상 상한 또는 약간 상승된 소견을 보이며, 에스트라디올은 다소 낮은 수치를 보입니다. 특히 오전 8시 코르티솔이 5 μg/dL로 낮게 측정되었고, ACTH 자극 검사에서 코르티솔 반응이 충분하지 않았습니다(자극 후 30분 5.5 μg/dL, 60분 6 μg/dL). 이러한 임상 소견과 검사 결과는 원발성 부신기능부전(애디슨병)을 강하게 시사합니다. 애디슨병은 부신피질의 파괴로 인해 글루코코르티코이드, 미네랄코르티코이드, 안드로겐 생성이 감소하는 질환입니다. 주요 증상으로는 전신 피로감, 체중 감소, 식욕 저하, 오심, 구토, 저혈압, 저혈당, 저나트륨혈증, 고칼륨혈증 등이 있으며, 특징적인 피부 색소 침착(ACTH 상승에 따른 MSH 활성 증가로 인한)이 나타납니다. 애디슨병에 의한 무월경은 부신 안드로겐 생성 감소와 글루코코르티코이드 결핍으로 인한 시상하부-뇌하수체-성선 축의 기능 이상으로 발생합니다. 원발성 부신기능부전의 치료는 부족한 스테로이드 호르몬을 보충하는 것입니다. 이에 적합한 치료는 글루코코르티코이드(하이드로코르티손 15-25 mg/일, 분할 투여)와 미네랄코르티코이드(플루드로코르티손 0.05-0.2 mg/일) 보충 요법입니다. 적절한 호르몬 보충 치료를 통해 무월경을 포함한 증상들이 개선될 수 있습니다. 복합 경구 피임약은 시상하부성 무월경이나 다낭성 난소 증후군에 의한 무월경의 치료에 사용될 수 있으나, 이 환자의 근본적인 문제인 부신기능부전을 해결하지 못합니다. 클로미펜 구연산염은 배란 유도제로 사용되며, 다낭성 난소 증후군이나 특발성 무배란에 의한 불임 치료에 사용됩니다. 카베르골린은 도파민 작용제로 고프로락틴혈증에 의한 무월경 치료에 사용되지만, 이 환자의 프로락틴 수치는 정상입니다. 메트포민은 인슐린 저항성 감소를 통해 다낭성 난소 증후군 환자의 배란을 개선시킬 수 있지만, 이 환자의 임상상은 다낭성 난소 증후군과 일치하지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Primary adrenal insufficiency (Addison's disease) requires lifelong glucocorticoid and mineralocorticoid replacement therapy. The standard replacement regimen consists of hydrocortisone at a total daily dose of 15-25 mg given in two or three divided doses (typically, 10-15 mg in the morning and 5-10 mg in the afternoon). Alternative glucocorticoid replacement includes prednisone (3-5 mg/day) or dexamethasone (0.25-0.5 mg/day). Mineralocorticoid replacement consists of fludrocortisone (0.05-0.2 mg daily). The adequacy of therapy is monitored by assessment of clinical symptoms, electrolytes, and plasma renin activity. Women with primary adrenal insufficiency often have amenorrhea due to loss of adrenal androgens and disruption of the hypothalamic-pituitary-gonadal axis from glucocorticoid deficiency. Appropriate glucocorticoid and mineralocorticoid replacement typically leads to normalization of menstrual cycles."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 224,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람의 병력과 신체소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "22세 여성이 9개월 동안 지속된 무월경을 주소로 내원하였다. 환자는 13세에 초경이 있었으며, 이후 규칙적인 월경 주기를 유지해왔다. 환자는 최근 10kg의 체중 증가가 있었으며, 얼굴과 가슴, 등에 여드름이 늘어났다고 호소한다. 또한 턱과 윗입술에 털이 자라는 것이 신경 쓰인다고 한다. 가족력상 어머니가 2형 당뇨병을 앓고 있다. 신체 검진에서 BMI 28kg/m², 혈압 125/85mmHg, 얼굴과 턱에 중등도의 다모증이 관찰되었다. 복부에는 검은색 색소 침착과 피부 비후가 있었다. 이 환자에서 가장 가능성 높은 진단은?",
+  "exam": "혈액검사: 공복혈당 110 mg/dL, TSH 2.8 μIU/mL, 프로락틴 18 ng/mL, 총 테스토스테론 80 ng/dL (정상 범위: 15-70 ng/dL), DHEA-S 380 μg/dL (정상 범위: 35-430 μg/dL), FSH 5 mIU/mL, LH 12 mIU/mL, 17-OH 프로게스테론 1.2 ng/mL (정상 범위: <2 ng/mL). 골반 초음파: 양측 난소 크기 증가, 각각 12개 이상의 2-9mm 크기 난포 관찰, 난소 용적 각각 12mL.",
+  "options": {
+    "A": "다낭성 난소 증후군",
+    "B": "쿠싱 증후군",
+    "C": "갑상선기능저하증",
+    "D": "선천성 부신 과형성증",
+    "E": "조기 난소 부전"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 9개월간의 속발성 무월경, 체중 증가, 여드름 증가, 다모증 등의 증상과 함께 혈액검사에서 테스토스테론 상승, LH:FSH 비율 증가, 그리고 골반 초음파에서 양측 난소의 다낭성 변화(각각 12개 이상의 2-9mm 크기 난포, 난소 용적 각각 12mL)를 보이고 있습니다. 이러한 임상 소견과 검사 결과는 다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)에 부합합니다. 다낭성 난소 증후군은 가임기 여성에서 가장 흔한 내분비 장애 중 하나로, 로테르담 기준(Rotterdam criteria)에 따르면 다음 세 가지 중 두 가지 이상을 만족할 때 진단할 수 있습니다: 1) 희발월경 또는 무월경(만성 무배란), 2) 임상적 또는 생화학적 고안드로겐혈증, 3) 초음파상 다낭성 난소 소견. 이 환자는 세 가지 기준을 모두 만족합니다. PCOS 환자들은 종종 인슐린 저항성을 보이며, 이로 인해 체중 증가, 흑색극세포증(acanthosis nigricans), 2형 당뇨병의 위험 증가 등이 동반될 수 있습니다. 환자의 복부에 관찰된 검은색 색소 침착과 피부 비후는 흑색극세포증을 시사하며, 이는 인슐린 저항성과 연관됩니다. 또한 공복혈당이 110 mg/dL로 약간 상승되어 있어 인슐린 저항성의 가능성을 더 강화합니다. 쿠싱 증후군은 글루코코르티코이드 과잉으로 인해 발생하며, 중심성 비만, 달덩이 얼굴(moon face), 버팔로 혹(buffalo hump), 자색 선조(purple striae), 근위근 약화 등의 특징적인 증상을 보입니다. 이 환자의 임상 양상은 쿠싱 증후군보다는 PCOS에 더 부합합니다. 갑상선기능저하증은 체중 증가, 무월경 등을 유발할 수 있으나, 이 환자의 TSH는 정상 범위(2.8 μIU/mL)로 갑상선기능저하증을 배제합니다. 선천성 부신 과형성증은 부신에서의 코르티솔 생합성 효소 결핍으로 인해 발생하며, 성인에서는 주로 21-수산화효소 결핍의 비전형적 형태로 나타납니다. 이 경우 17-OH 프로게스테론 수치가 증가하지만, 이 환자의 수치는 정상 범위(1.2 ng/mL)입니다. 조기 난소 부전은 40세 이전에 난소 기능이 소실되는 상태로, FSH가 25 mIU/mL 이상으로 상승되어 있으나, 이 환자의 FSH는 5 mIU/mL로 정상 범위 내에 있습니다.",
+  "source": {
+    "file_name": "Current Diagnosis & Treatment: Obstetrics & Gynecology",
+    "content": "Polycystic ovary syndrome (PCOS) is one of the most common endocrinopathies affecting women of reproductive age, with a prevalence of 5-10%. The Rotterdam consensus criteria (2003) require at least two of the following three features for diagnosis: 1) oligo-ovulation or anovulation (manifesting as oligomenorrhea or amenorrhea), 2) clinical or biochemical signs of hyperandrogenism, and 3) polycystic ovaries on ultrasound (defined as ≥12 follicles measuring 2-9 mm in diameter in at least one ovary, or an ovarian volume >10 mL). The pathophysiology of PCOS includes insulin resistance, hyperandrogenism, and abnormal gonadotropin secretion. Insulin resistance is present in 50-80% of women with PCOS, especially in those who are obese. Clinical manifestations of hyperandrogenism include hirsutism, acne, and alopecia. Many women with PCOS exhibit a characteristic LH:FSH ratio >2:1, although this is not required for diagnosis. Acanthosis nigricans, characterized by velvety, hyperpigmented skin in neck and body folds, is a cutaneous marker of insulin resistance and may be present in women with PCOS."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 225,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "31세 여성이 5개월 전 자연유산 후 월경이 돌아오지 않는다는 것을 주소로 내원하였다. 환자는 자연유산 후 소파술을 받았으며, 수술 시 특별한 합병증은 없었다고 한다. 과거력상 2회의 정상 만삭 분만력이 있으며, 첫 아이 출산 후에도 1개월간 무월경을 경험한 적이 있다고 한다. 호르몬 검사에서 FSH 5.8 mIU/mL, LH 4.2 mIU/mL, 에스트라디올 58 pg/mL, 프로락틴 22 ng/mL, TSH 3.1 μIU/mL로 측정되었다. 초음파검사에서 자궁내막은 4mm로 얇았으며, 자궁강 내에 얇은 선상의 음영이 관찰되었다. 프로게스테론 유발 검사에서 출혈이 없었다. 에스트로겐-프로게스테론 순차적 투여 후에도 출혈이 없었다. 이 환자에게 가장 적합한 치료는?",
+  "exam": "자궁경 검사: 자궁강 내 유착이 관찰되며, 양측 난관 개구부가 보이지 않음",
+  "options": {
+    "A": "레보노르게스트렐 자궁내장치 삽입",
+    "B": "글루코코르티코이드 투여",
+    "C": "자궁경하 유착박리술 후 에스트로겐 요법",
+    "D": "브로모크립틴 투여",
+    "E": "고나도트로핀 유리호르몬 작용제 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 자연유산 후 소파술을 받은 후 5개월간 무월경이 지속되고 있으며, 호르몬 검사에서는 정상 소견을 보이나 자궁경 검사에서 자궁강 내 유착이 확인되었습니다. 프로게스테론 유발 검사와 에스트로겐-프로게스테론 순차적 투여에도 불구하고 출혈이 없었다는 점은 자궁내막이 호르몬 자극에 반응하지 않거나 자궁강의 기계적 폐쇄가 있음을 시사합니다. 이러한 임상 소견은 아셔만 증후군(Asherman's syndrome)을 강하게 시사합니다. 아셔만 증후군은 자궁 내 소파술, 제왕절개술, 자궁근종 절제술, 자궁내막염 등으로 인한 자궁내막 손상 후 발생하는 자궁강 내 유착으로, 무월경, 월경량 감소, 반복 유산, 불임 등을 유발할 수 있습니다. 아셔만 증후군의 가장 적합한 치료는 자궁경하 유착박리술(hysteroscopic adhesiolysis)을 시행하여 유착 조직을 제거하고, 이후 에스트로겐 요법을 통해 자궁내막 재생을 촉진하는 것입니다. 수술 후에는 재유착 방지를 위해 자궁 내 장치(IUD)나 풍선 카테터를 일시적으로 삽입하거나 항생제 치료를 병행할 수 있습니다. 레보노르게스트렐 자궁내장치(LNG-IUS)는 자궁내막증, 월경과다, 자궁선근증 등의 치료에 사용되지만, 아셔만 증후군 치료에는 적합하지 않습니다. 오히려 자궁내막 성장을 억제하여 문제를 악화시킬 수 있습니다. 글루코코르티코이드 투여는 자가면역성 조기 난소 부전이나 선천성 부신 과형성증 치료에 사용될 수 있으나, 아셔만 증후군과는 관련이 없습니다. 브로모크립틴은 고프로락틴혈증에 의한 무월경 치료에 사용되는 약물로, 이 환자의 프로락틴 수치는 정상 범위(22 ng/mL)이므로 적절한 치료가 아닙니다. 고나도트로핀 유리호르몬(GnRH) 작용제는 시상하부성 무월경이나 다낭성 난소 증후군에 의한 무배란 치료에 사용될 수 있지만, 자궁강 내 유착에 의한 아셔만 증후군에는 효과가 없습니다.",
+  "source": {
+    "file_name": "Journal of Minimally Invasive Gynecology",
+    "content": "The gold standard for both the diagnosis and treatment of intrauterine adhesions (Asherman's syndrome) is hysteroscopy. Hysteroscopic adhesiolysis should be performed by experienced surgeons using microscissors and other mechanical instruments or energy-based devices like laser or electrosurgery. Following adhesiolysis, adjunctive therapies to prevent recurrence of adhesions include temporary placement of an intrauterine device, balloon catheter or hyaluronic acid gel, combined with high-dose estrogen therapy to promote endometrial regeneration. The recommended estrogen regimen typically consists of conjugated equine estrogen 2.5 mg daily or estradiol valerate 4-6 mg daily for 60-90 days, with periodic addition of progestins to prevent endometrial hyperplasia. A second-look hysteroscopy is often performed 2-3 months after the initial procedure to confirm resolution of adhesions and assess endometrial healing. In cases of moderate to severe Asherman's syndrome, multiple procedures may be required to achieve adequate restoration of the uterine cavity."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 226,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람의 병력과 신체소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "17세 여성이 초경이 없다는 것을 주소로 내원하였다. 환자는 키 163cm, 체중 55kg이며, 14세부터 약 2년간 가슴 발달이 진행되었으나 음모와 겨드랑이 털 발달은 미미하다고 한다. 두통, 시력 변화, 유즙 분비 등의 증상은 없다. 환자의 어머니는 13세에 초경이 있었다고 한다. 신체 검사에서 유방 발달은 Tanner 단계 4, 음모 발달은 Tanner 단계 2로 평가되었다. 외부 생식기는 정상 여성형이나 질 입구가 작게 관찰되었다. 이 환자에게 가장 먼저 시행해야 할 검사는?",
+  "exam": "",
+  "options": {
+    "A": "염색체 분석",
+    "B": "두부 MRI",
+    "C": "골반 초음파 또는 MRI",
+    "D": "혈중 프로락틴 측정",
+    "E": "디히드로테스토스테론(DHT) 측정"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 17세에 초경이 없는 원발성 무월경을 주소로 내원한 여성으로, 유방 발달은 정상적으로 진행되었으나(Tanner 단계 4) 음모 발달이 지연되어 있습니다(Tanner 단계 2). 외부 생식기는 정상 여성형이나 질 입구가 작게 관찰되었습니다. 이러한 임상 양상은 생식기관의 선천적 이상, 특히 뮐러관(Müllerian duct) 기형이나 처녀막 폐쇄, 질 격막, 질 무발생 등의 생식관 출구 폐쇄를 시사할 수 있습니다. 따라서 이 환자에게 가장 먼저 시행해야 할 검사는 골반 초음파 또는 MRI입니다. 골반 초음파나 MRI는 자궁, 질, 난소의 해부학적 구조를 평가하여 뮐러관 기형이나 생식관 출구 폐쇄의 존재 여부를 확인할 수 있습니다. 특히 처녀막 폐쇄나 횡질 격막이 있는 경우, 월경혈이 질이나 자궁 내에 축적되어 혈질증(hematocolpos)이나 혈자궁증(hematometra)을 유발할 수 있으며, 이는 영상 검사에서 확인할 수 있습니다. 정상적인 유방 발달은 기능적인 시상하부-뇌하수체-난소 축과 에스트로겐 생성이 이루어지고 있음을 시사하며, 이는 기능적 원인보다는 구조적 원인에 의한 무월경 가능성을 높입니다. 염색체 분석은 터너 증후군이나 완전 안드로겐 불감증 증후군(CAIS)과 같은 유전적 원인이 의심될 때 시행합니다. 이 환자는 정상적인 유방 발달과 신장을 보이고 있어 터너 증후군의 가능성은 낮으며, 외부 생식기가 정상 여성형인 점에서 CAIS도 덜 의심됩니다. 두부 MRI는 프로락틴종이나 다른 뇌하수체 종양이 의심될 때 시행하며, 이 환자는 두통, 시력 변화, 유즙 분비 등의 증상이 없어 우선적인 검사는 아닙니다. 혈중 프로락틴 측정은 고프로락틴혈증에 의한 무월경 평가에 유용하나, 유즙 분비가 없고 정상적인 유방 발달이 이루어진 점을 고려할 때 우선순위는 낮습니다. 디히드로테스토스테론(DHT) 측정은 5알파-환원효소 결핍증과 같은 안드로겐 생합성 장애가 의심될 때 시행하나, 이 환자의 임상 양상은 이러한 질환과 일치하지 않습니다.",
+  "source": {
+    "file_name": "Clinical Gynecologic Endocrinology and Infertility",
+    "content": "In the evaluation of primary amenorrhea with normal breast development, ruling out anatomic abnormalities or outflow tract obstruction should be an early priority. Pelvic ultrasonography or MRI can visualize the uterus, cervix, vagina, and ovaries, and may reveal müllerian anomalies such as uterine agenesis, unicornuate uterus, or uterine didelphys. Outflow tract obstructions including imperforate hymen, transverse vaginal septum, or vaginal agenesis can lead to hematocolpos or hematometra if menstruation has occurred internally. The presence of normal breast development (Tanner stage 3-5) typically indicates functional hypothalamic-pituitary-ovarian axis with adequate estrogen production, making anatomic causes more likely than endocrine dysfunction. In cases of obstructive anomalies, patients may experience cyclic abdominal or pelvic pain as blood accumulates behind the obstruction, though this is not universal. Physical examination may reveal a bulging hymen in cases of imperforate hymen or a shortened vagina in cases of vaginal agenesis or transverse septum."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 227,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "26세 여성이 1년간 지속된 무월경을 주소로 내원하였다. 환자는 14세에 초경이 있었으며, 22세까지 규칙적인 월경을 하였으나, 이후 점차 희발월경으로 변하다가 최근 1년간 월경이 없었다고 한다. 최근 2년간 두통이 심해졌으며, 가끔 시야가 흐려지는 증상이 있다고 호소한다. 또한 가슴에서 우유 같은 분비물이 나온다고 한다. 신체 검사에서 특이 소견은 없었으며, 시야 검사에서 양측 시야 결손이 확인되었다. 이 환자에서 다음 중 가장 예상되는 검사 결과는?",
+  "exam": "",
+  "options": {
+    "A": "FSH 85 mIU/mL, LH 95 mIU/mL, 에스트라디올 15 pg/mL",
+    "B": "FSH 2 mIU/mL, LH 1 mIU/mL, 프로락틴 210 ng/mL",
+    "C": "TSH 15 μIU/mL, T4 3.5 μg/dL, 항갑상선 과산화효소 항체 양성",
+    "D": "코르티솔 28 μg/dL, ACTH 65 pg/mL, 야간 덱사메타손 억제 검사 양성",
+    "E": "테스토스테론 150 ng/dL, DHEA-S 450 μg/dL, 17-OH 프로게스테론 4.5 ng/mL"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 1년간 지속된 속발성 무월경과 함께 두통, 시야 장애, 유즙 분비(유루증, galactorrhea)를 호소하고 있으며, 시야 검사에서 양측 시야 결손이 확인되었습니다. 이러한 임상 양상은 프로락틴 분비 뇌하수체 종양(프로락틴종, prolactinoma)을 강하게 시사합니다. 프로락틴종은 가장 흔한 기능성 뇌하수체 종양으로, 과도한 프로락틴 분비로 인해 무월경, 유루증, 불임 등을 유발할 수 있습니다. 종양이 커지면(매크로프로락틴종, >10mm) 주변 구조물, 특히 시신경교차(optic chiasm)를 압박하여 두통과 양측 시야 결손(주로 양이측 반맹, bitemporal hemianopia)을 일으킬 수 있습니다. 프로락틴종 환자에서 예상되는 호르몬 검사 결과는 프로락틴 상승(보통 >100 ng/mL, 매크로프로락틴종에서는 >250 ng/mL)과 함께 FSH와 LH의 감소입니다. 프로락틴은 시상하부의 도파민 분비를 증가시켜 GnRH 펄스 생성을 억제하고, 이로 인해 FSH와 LH 분비가 감소하게 됩니다. 또한 프로락틴은 난소에 직접 작용하여 에스트로겐과 프로게스테론 생성을 억제할 수 있습니다. 따라서 FSH 2 mIU/mL, LH 1 mIU/mL, 프로락틴 210 ng/mL의 결과는 프로락틴종의 전형적인 소견과 일치합니다. FSH 85 mIU/mL, LH 95 mIU/mL, 에스트라디올 15 pg/mL의 패턴은 조기 난소 부전(premature ovarian failure)을 시사하며, 이 환자의 임상 양상과는 일치하지 않습니다. TSH 15 μIU/mL, T4 3.5 μg/dL, 항갑상선 과산화효소 항체 양성은 하시모토 갑상선염에 의한 원발성 갑상선기능저하증을 시사합니다. 갑상선기능저하증은 무월경, 유루증을 유발할 수 있으나, 시야 장애는 일반적으로 동반되지 않습니다. 코르티솔 28 μg/dL, ACTH 65 pg/mL, 야간 덱사메타손 억제 검사 양성은 쿠싱 증후군을 시사하며, 이 경우 체중 증가, 중심성 비만, 자색 선조, 고혈압 등의 증상이 동반될 수 있으나 유루증이나 시야 장애는 흔하지 않습니다. 테스토스테론 150 ng/dL, DHEA-S 450 μg/dL, 17-OH 프로게스테론 4.5 ng/mL는 다낭성 난소 증후군이나 비전형적 선천성 부신 과형성증을 시사할 수 있으나, 이 경우 다모증, 여드름 등의 안드로겐 과잉 증상이 있을 수 있으며, 유루증이나 시야 장애는 설명되지 않습니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Prolactinomas, the most common functional pituitary tumors, can lead to reproductive and sexual dysfunction through prolactin-mediated suppression of gonadotropin-releasing hormone pulsatility. In women, this manifests as oligomenorrhea progressing to amenorrhea, and galactorrhea occurs in approximately 80% of premenopausal women with hyperprolactinemia. Macroadenomas (>10 mm) may cause headaches and visual disturbances due to compression of adjacent structures, particularly the optic chiasm, resulting in classically bitemporal hemianopia. Laboratory findings typically include elevated prolactin levels (usually >100 ng/mL in microprolactinomas and >250 ng/mL in macroadenomas) and reduced gonadotropin (FSH and LH) levels leading to hypogonadotropic hypogonadism. The degree of prolactin elevation generally correlates with tumor size, with macroadenomas causing higher prolactin levels than microprolactinomas. Management of prolactinomas typically involves dopamine agonists (cabergoline or bromocriptine), which normalize prolactin levels, reduce tumor size, and restore gonadal function in most patients."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 228,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게 원인에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "23세 여성이 6개월간 지속된 무월경을 주소로 내원하였다. 환자는 15세에 초경이 있었으며, 이전까지 규칙적인 월경 주기를 유지해왔다. 최근 대학원 입시 준비로 심한 스트레스를 받았으며, 하루 8시간 이상 공부하느라 운동은 전혀 하지 않았다고 한다. 체중은 3개월 전부터 5kg 감소하였다. 과거력상 특이사항은 없으며, 약물 복용력도 없다. 신체 검사에서 키 165cm, 체중 48kg, BMI 17.6kg/m²이었다. 호르몬 검사에서 TSH 2.8 μIU/mL, 프로락틴 15 ng/mL, FSH 3.5 mIU/mL, LH 2.1 mIU/mL, 에스트라디올 25 pg/mL로 측정되었다. 프로게스테론 유발 검사에서 출혈이 없었다. 이 환자에게 가장 효과적인 치료 계획은?",
+  "exam": "DEXA 검사: 요추 T-score -2.1, 대퇴골 경부 T-score -1.9",
+  "options": {
+    "A": "체중 회복과 스트레스 관리, 칼슘 및 비타민 D 보충",
+    "B": "경구 피임약 복용",
+    "C": "클로미펜 구연산염 투여",
+    "D": "폐경 호르몬 치료",
+    "E": "고나도트로핀 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 6개월간의 속발성 무월경, 최근의 체중 감소(5kg), 심한 스트레스, 운동 부족 등의 병력이 있으며, BMI 17.6kg/m²의 저체중 상태입니다. 호르몬 검사에서 FSH, LH, 에스트라디올이 모두 낮은 수치를 보이고, 프로게스테론 유발 검사에서 출혈이 없었습니다. DEXA 검사에서는 골밀도 감소(요추 T-score -2.1, 대퇴골 경부 T-score -1.9)가 확인되었습니다. 이러한 임상 소견과 검사 결과는 기능성 시상하부성 무월경(functional hypothalamic amenorrhea)을 시사합니다. 기능성 시상하부성 무월경은 심리적 스트레스, 과도한 운동, 체중 감소 등에 의해 시상하부에서의 GnRH 펄스 생성이 억제되어 발생하는 상태로, 기질적 병변 없이 가역적인 특성을 가집니다. 이 환자의 경우 대학원 입시 준비로 인한 심한 스트레스와 체중 감소가 주요 원인으로 작용했을 가능성이 높습니다. 기능성 시상하부성 무월경의 가장 효과적인 치료는 원인 요소를 교정하는 것입니다. 따라서 체중 회복과 스트레스 관리가 가장 중요합니다. 또한 저에스트로겐 상태가 지속되면 골밀도 감소가 진행될 수 있으므로, 이미 발생한 골밀도 감소에 대해 칼슘 및 비타민 D 보충이 필요합니다. 약물 치료보다는 생활 습관 개선을 통한 체중 증가와 심리적 스트레스 감소가 GnRH 펄스 생성을 회복시키고 정상적인 생식 내분비 기능을 회복하는 데 효과적입니다. 경구 피임약은 무월경 자체를 치료하는 것이 아니라, 인공적인 월경 주기를 제공하고 에스트로겐을 보충하여 골밀도 감소를 예방하는 역할을 할 수 있습니다. 그러나 근본적인 원인인 체중 감소와 스트레스를 해결하지 않으면 약물 중단 시 무월경이 재발할 수 있습니다. 클로미펜 구연산염은 항에스트로겐 효과를 통해 시상하부와 뇌하수체에서의 피드백 억제를 차단하여 배란을 유도하는 약물로, 주로 배란장애성 불임 치료에 사용됩니다. 그러나 시상하부성 무월경에서는 GnRH 펄스 생성 자체가 억제되어 있어 효과가 제한적입니다. 폐경 호르몬 치료는 폐경기 여성의 증상 완화와 골다공증 예방에 사용되며, 이 젊은 환자에게는 적합하지 않습니다. 고나도트로핀 투여는 시상하부-뇌하수체 기능을 우회하여 직접 난소를 자극하는 방법으로, 주로 불임 치료에 사용됩니다. 기능성 시상하부성 무월경의 근본 원인을 해결하지 않는 한, 이러한 치료는 일시적인 효과만 있을 수 있습니다.",
+  "source": {
+    "file_name": "Endocrine Reviews",
+    "content": "Functional hypothalamic amenorrhea (FHA) is a reversible form of hypogonadotropic hypogonadism characterized by suppression of GnRH pulsatility due to psychological stress, excessive exercise, weight loss, or a combination of these factors. Laboratory findings typically show low or low-normal gonadotropins (FSH and LH) and low estradiol levels, reflecting central suppression of the reproductive axis. The primary treatment for FHA is addressing the underlying causes: weight gain in underweight individuals, reduction of exercise intensity in athletes, and stress management. Weight recovery to achieve a BMI of at least 18.5-19 kg/m² is often sufficient to restore menstrual cycles, though the exact threshold varies among individuals. Cognitive behavioral therapy and other psychological interventions have shown efficacy in reducing stress and improving recovery. Due to the estrogen deficiency state, women with prolonged FHA are at risk for bone mineral density loss, and bone densitometry should be considered after 6-12 months of amenorrhea. While hormonal therapy with combined oral contraceptives may be prescribed to provide estrogen and prevent further bone loss, it does not treat the underlying problem and may mask recovery. Calcium (1200-1500 mg daily) and vitamin D supplementation (800-1000 IU daily) are recommended for all women with FHA."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 229,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람의 병력과 신체소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "35세 여성이 2개월 전부터 시작된 무월경을 주소로 내원하였다. 환자는 13세에 초경이 있었으며, 평소 28~30일 주기로 규칙적인 월경을 하였다. 최근 약 10kg의 체중 증가가 있었으며, 피부가 건조해지고 항상 피곤하며 추위를 많이 느낀다고 호소한다. 또한 변비가 심해지고 머리카락이 많이 빠진다고 한다. 과거력상 특이사항은 없으며, 약물 복용력도 없다. 신체 검사에서 심박수 58회/분, 혈압 110/70mmHg였으며, 피부는 건조하고 다소 창백하였다. 이 환자에서 가장 가능성 높은 진단은?",
+  "exam": "혈액검사: TSH 18.5 μIU/mL (정상 범위: 0.4-4.0), Free T4 0.6 ng/dL (정상 범위: 0.8-1.8), 항갑상선 과산화효소 항체 양성, 프로락틴 28 ng/mL (정상 범위: 4-23), FSH 4.2 mIU/mL, LH 3.5 mIU/mL, 임신 검사 음성",
+  "options": {
+    "A": "다낭성 난소 증후군",
+    "B": "조기 난소 부전",
+    "C": "갑상선기능저하증",
+    "D": "고프로락틴혈증",
+    "E": "임신"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 2개월 전부터 시작된 속발성 무월경과 함께 체중 증가, 피부 건조, 피로감, 한냉 불내성, 변비, 탈모 등의 증상을 호소하고 있으며, 신체 검사에서 서맥(심박수 58회/분)과 건조하고 창백한 피부가 관찰되었습니다. 혈액검사에서는 TSH 18.5 μIU/mL로 현저히 상승되어 있고, Free T4 0.6 ng/dL로 감소되어 있으며, 항갑상선 과산화효소 항체가 양성으로 나타났습니다. 이러한 임상 소견과 검사 결과는 원발성 갑상선기능저하증(primary hypothyroidism)을 강하게 시사합니다. 특히 항갑상선 과산화효소 항체 양성은 하시모토 갑상선염(Hashimoto's thyroiditis)에 의한 자가면역성 갑상선기능저하증을 시사합니다. 갑상선기능저하증은 갑상선 호르몬 결핍으로 인해 신체 대사가 감소하는 상태로, 특징적인 증상으로는 피로감, 한냉 불내성, 체중 증가, 변비, 피부 건조, 탈모, 서맥, 쉰 목소리, 근육통, 관절통, 월경 장애 등이 있습니다. 갑상선기능저하증에서 무월경이 발생하는 기전은 여러 가지가 있습니다. 갑상선 호르몬 결핍은 성호르몬 결합 글로불린(SHBG) 합성을 감소시켜 혈중 유리 에스트로겐 수치를 변화시킬 수 있으며, TRH(갑상선자극호르몬 방출호르몬) 상승은 프로락틴 분비를 증가시켜 GnRH 펄스 생성을 억제할 수 있습니다. 또한 갑상선 호르몬은 성선자극호르몬에 대한 난소의 감수성과 성스테로이드 대사에도 영향을 미칩니다. 이 환자의 프로락틴이 정상 상한인 28 ng/mL로 약간 상승되어 있는 것도 갑상선기능저하증과 일치하는 소견입니다. 다낭성 난소 증후군은 무월경이나 희발월경, 다모증, 여드름 등의 안드로겐 과잉 증상, 초음파상 다낭성 난소 소견을 특징으로 하며, 이 환자의 임상 양상과는 일치하지 않습니다. 조기 난소 부전은 40세 이전에 난소 기능이 소실되는 상태로, FSH가 25 mIU/mL 이상으로 현저히 상승되는 특징이 있으나, 이 환자의 FSH는 4.2 mIU/mL로 정상 범위입니다. 고프로락틴혈증은 프로락틴이 정상 범위 상한의 2배 이상(일반적으로 >50 ng/mL)일 때 진단하며, 이 환자의 프로락틴은 28 ng/mL로 경미하게 상승되어 있습니다. 이는 갑상선기능저하증에 의한 이차적인 현상으로 볼 수 있습니다. 임신은 임신 검사가 음성이므로 배제됩니다.",
+  "source": {
+    "file_name": "Williams Textbook of Endocrinology",
+    "content": "Hypothyroidism affects the reproductive system through multiple mechanisms. Thyroid hormone deficiency alters the metabolism of estrogens and androgens by decreasing sex hormone-binding globulin synthesis, changing the peripheral conversion of androgens to estrogens, and affecting the clearance of these hormones. Additionally, the elevated TRH levels seen in primary hypothyroidism can cause mild hyperprolactinemia (usually <40 ng/mL) by stimulating prolactin secretion, which may contribute to menstrual disturbances. Menstrual irregularities are common in women with hypothyroidism, with prevalence rates of 23-70% reported in various studies. Oligomenorrhea or amenorrhea is more common than menorrhagia, especially in severe or longstanding disease. Laboratory findings typically include elevated TSH (often >10 μIU/mL) and decreased free T4 levels. Hashimoto's thyroiditis, the most common cause of primary hypothyroidism, is characterized by the presence of thyroid peroxidase and/or thyroglobulin antibodies. Treatment with levothyroxine at appropriate doses to normalize TSH typically leads to resolution of menstrual abnormalities within 2-3 months in most women."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 230,
+  "chief_complaint": "무월경",
+  "purpose": "무월경이 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "16세 여학생이 초경이 없어 내원하였다. 환자는 12세경부터 가슴 발달이 시작되었으며, 최근 6개월 동안 간헐적인 하복부 통증이 있다고 한다. 통증은 주기적으로 나타나며, 약 1개월 간격으로 3-4일간 지속된다고 한다. 환자의 어머니는 13세에 초경이 있었다고 한다. 신체 검사에서 키 160cm, 체중 53kg이며, 유방과 음모 발달은 Tanner 단계 4로 평가되었다. 외부 생식기는 정상 여성형이나 처녀막이 팽창되어 있었다. 이 환자에게 가장 적절한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "복부 및 골반 초음파",
+    "B": "뇌 MRI",
+    "C": "호르몬 검사(FSH, LH, 에스트라디올)",
+    "D": "염색체 검사",
+    "E": "프로게스테론 유발 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 16세에 초경이 없는 원발성 무월경을 주소로 내원한 여성으로, 정상적인 2차 성징 발달(유방과 음모 발달 Tanner 단계 4)을 보이고 있으며, 6개월 동안 약 1개월 간격으로 주기적인 하복부 통증을 경험하고 있습니다. 신체 검사에서 외부 생식기는 정상 여성형이나 처녀막이 팽창되어 있었습니다. 이러한 임상 소견은 처녀막 폐쇄(imperforate hymen)를 강하게 시사합니다. 처녀막 폐쇄는 처녀막에 개구부가 없어 월경혈이 질 내에 축적되는 상태(혈질증, hematocolpos)를 유발합니다. 이로 인해 주기적인 하복부 통증이 발생하며, 통증은 보통 월경 주기에 따라 나타납니다. 정상적인 2차 성징 발달은 시상하부-뇌하수체-난소 축이 정상적으로 기능하고 있음을 시사하며, 에스트로겐 생성이 적절히 이루어지고 있음을 의미합니다. 이러한 환자에게 가장 적절한 검사는 복부 및 골반 초음파입니다. 초음파 검사를 통해 자궁과 난소의 존재 및 정상 발달 여부를 확인할 수 있으며, 혈질증이나 혈자궁증(hematometra, 자궁 내 월경혈 축적)의 정도를 평가할 수 있습니다. 또한 다른 생식기 기형의 동반 여부도 확인할 수 있습니다. 처녀막 폐쇄로 인한 혈질증이 확인되면, 처녀막 절개술을 통해 축적된 월경혈을 배출하고 정상적인 월경 흐름을 회복시킬 수 있습니다. 이 시술은 일반적으로 외래에서 국소 마취 하에 시행할 수 있습니다. 뇌 MRI는 시상하부나 뇌하수체 이상에 의한 무월경 평가에 유용하나, 이 환자는 정상적인 2차 성징 발달과 주기적인 하복부 통증을 보이고 있어 중추신경계 이상보다는 생식관 출구 폐쇄가 더 의심됩니다. 호르몬 검사(FSH, LH, 에스트라디올)는 무월경의 원인이 시상하부-뇌하수체-난소 축의 어느 수준에 있는지 평가하는 데 도움이 되나, 이 환자는 정상적인 2차 성징 발달을 보이고 있어 호르몬 이상의 가능성이 낮습니다. 염색체 검사는 터너 증후군이나 완전 안드로겐 불감증 증후군과 같은 유전적 이상이 의심될 때 시행하며, 이 환자의 임상 양상은 이러한 질환과 일치하지 않습니다. 프로게스테론 유발 검사는 에스트로겐 상태를 평가하고 자궁내막의 반응성과 생식관의 개통성을 확인하는 데 사용되나, 처녀막 폐쇄가 의심되는 경우에는 검사 자체가 불가능하거나 의미가 없습니다.",
+  "source": {
+    "file_name": "Comprehensive Gynecology",
+    "content": "Imperforate hymen is a congenital anomaly where the hymenal membrane completely occludes the vaginal opening. The condition typically becomes symptomatic during puberty when menarche occurs but menstrual blood cannot exit, resulting in hematocolpos (blood collection in the vagina) and often hematometra (blood collection in the uterus). Patients present with cyclic abdominal pain, usually occurring at monthly intervals and lasting for several days, consistent with the timing of menses. Physical examination reveals normal female external genitalia but with a bulging, bluish hymenal membrane due to the accumulated blood behind it. Transabdominal or transperineal ultrasound is the first-line imaging study, which can confirm the diagnosis by demonstrating a distended vagina and possibly uterus filled with echogenic fluid, representing retained menstrual blood. Ultrasound can also evaluate the upper genital tract for coexisting anomalies, which are present in approximately 7-10% of cases. Management involves surgical hymenotomy with evacuation of the retained blood. The procedure is typically performed under local anesthesia in an outpatient setting. Following appropriate treatment, normal menstruation is established, and fertility is generally unaffected."
+  },
+  "category": "Gynecology"
+}, 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
 
