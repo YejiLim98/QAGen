@@ -4177,19 +4177,218 @@
     "content": "For patients with locally advanced (T3-T4a, N0-N3) hypopharyngeal squamous cell carcinoma, concurrent chemoradiotherapy (CCRT) is the preferred treatment approach for organ preservation. High-dose cisplatin with radiotherapy has been established as the standard concurrent regimen. This approach has shown improved locoregional control and overall survival compared to radiotherapy alone, while preserving the larynx and pharynx functions. The alternative approach of total laryngopharyngectomy with neck dissection followed by adjuvant therapy is associated with significant functional and cosmetic morbidity and is generally reserved for patients who are not candidates for organ preservation approaches or those with extensive cartilage destruction, extralaryngeal disease, or poor pretreatment laryngeal function."
   },
   "category": "Otolaryngology (ENT)"
+}, 
+{
+  "question_id": 211,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "68세 남성이 2일 전부터 소변량이 현저히 감소하여 내원하였다. 환자는 3일 전 지인의 집에서 열린 식사 모임에 참석하였고, 다른 참석자들도 유사한 증상을 보였다고 한다. 내원 당일 아침부터는 소변이 전혀 나오지 않았다고 하며, 구역, 구토, 복통을 동반하고 있다. 과거력상 20년 전 진단받은 고혈압으로 아모디핀을 복용 중이다. 신체 검진에서 혈압 150/90 mmHg, 맥박 92회/분, 호흡수 20회/분, 체온 37.3°C이다. 복부 검진에서 양측 늑골척추각 압통이 있으며, 방광 팽창은 관찰되지 않는다. 이 환자의 무뇨증 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: WBC 12,000/μL, Hb 14.2 g/dL, Platelet 240,000/μL, BUN 58 mg/dL, Creatinine 4.2 mg/dL, Na 138 mEq/L, K 5.8 mEq/L, Cl 102 mEq/L, AST 42 U/L, ALT 38 U/L. 소변 검사: 비중 1.025, pH 5.5, 단백 2+, 적혈구 many/HPF, 백혈구 2-3/HPF, 과립원주 2+. 신장 초음파 검사: 양측 신장 크기 정상, 에코 증가, 신우 확장 없음.",
+  "options": {
+    "A": "급성 세뇨관 괴사",
+    "B": "양측성 요로결석",
+    "C": "전립선 비대증",
+    "D": "방광출구폐쇄",
+    "E": "신장 경색"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 급성 신손상(Acute Kidney Injury, AKI)의 전형적인 임상상을 보이고 있으며, 제시된 상황에서 가장 가능성이 높은 원인은 급성 세뇨관 괴사(Acute Tubular Necrosis, ATN)입니다. 환자의 병력에서 식사 모임 후 다른 참석자들도 유사한 증상을 보였다는 점은 식품 매개 독소나 감염에 의한 급성 세뇨관 손상을 시사합니다. 또한 구역, 구토, 복통과 같은 소화기 증상은 식중독이나 독소에 의한 전신 영향을 나타냅니다. 검사 결과에서 BUN과 크레아티닌의 현저한 상승, 고칼륨혈증, 소변 검사에서 단백뇨, 혈뇨, 과립원주 등은 급성 신손상, 특히 세뇨관 손상을 시사합니다. 신장 초음파에서 신우 확장이 없다는 점은 폐쇄성 원인보다는 실질적 손상을 더 시사합니다. 급성 세뇨관 괴사는 신장 허혈, 신독성 물질 노출(약물, 독소, 중금속 등) 또는 심한 패혈증에 의해 발생할 수 있으며, 이 환자의 경우 식품 매개 독소에 의한 ATN이 가능성이 높습니다. 반면, 양측성 요로결석이나 방광출구폐쇄, 전립선 비대증과 같은 폐쇄성 원인은 신장 초음파에서 신우 확장이 관찰되어야 하지만, 이 환자에서는 그런 소견이 없습니다. 신장 경색은 급성 신손상을 일으킬 수 있지만, 일반적으로 심한 측복부 통증을 동반하며, 여러 참석자가 동시에 발병했다는 역학적 연관성과 맞지 않습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Acute tubular necrosis (ATN) is the most common cause of hospital-acquired AKI. ATN often coexists with prerenal disease and is caused by ischemic or nephrotoxic injury to the kidney. The ischemia can result from prolonged hypoperfusion or a brief period of complete cessation of blood flow. Nephrotoxic causes of ATN include exogenous toxins, such as radiographic contrast agents, antibiotics, chemotherapy, and heme pigments. The initial injury to the tubular epithelium (in the straight portion of the proximal tubule and in the thick ascending limb) leads to obstruction by casts and debris, resulting in backleak of the glomerular filtrate, and to a subsequent inflammatory response."
+  },
+  "category": "Nephrology"
+},
+{
+  "question_id": 212,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 3일간의 구토와 설사, 그리고 하루 전부터 시작된 소변량 감소로 응급실에 내원하였다. 환자는 최근 마라톤 대회에 참가하여 42.195km를 완주하였고, 이후 근육통과 전신 피로감을 호소하였다. 무뇨증이 발생하기 전 소변 색이 콜라색으로 변했다고 한다. 신체 검진에서 혈압 90/60 mmHg, 맥박 110회/분, 호흡수 22회/분, 체온 37.2°C이다. 피부 및 점막은 건조하며, 양쪽 종아리에 압통이 있으나 부종은 없다. 복부 진찰에서 특이소견은 없다. 이 환자의 급성 신손상 원인을 감별하기 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 9,500/μL, Hb 15.8 g/dL, Platelet 230,000/μL, BUN 75 mg/dL, Creatinine 6.3 mg/dL, Na 145 mEq/L, K 6.2 mEq/L, Cl 100 mEq/L, Ca 8.2 mg/dL, P 5.8 mg/dL, 총단백 7.0 g/dL, 알부민 3.8 g/dL.",
+  "options": {
+    "A": "신장 조직검사",
+    "B": "혈청 크레아틴 키나아제(CK) 측정",
+    "C": "신장 도플러 초음파",
+    "D": "방사성 동위원소 신장 스캔",
+    "E": "항사구체 기저막 항체 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 신손상(AKI)의 임상상을 보이고 있으며, 병력과 임상 양상을 고려할 때 횡문근융해증(rhabdomyolysis)에 의한 신손상을 강하게 의심할 수 있습니다. 환자는 최근 마라톤을 완주했고, 근육통과 전신 피로감을 호소하고 있으며, 소변이 콜라색으로 변했다고 보고하였습니다. 콜라색 소변은 미오글로빈뇨증(myoglobinuria)을 시사하며, 이는 횡문근융해증의 특징적인 소견입니다. 횡문근융해증은 골격근 손상으로 인해 근육 내용물(특히 미오글로빈, 크레아틴 키나아제 등)이 혈류로 방출되는 상태이며, 미오글로빈은 신장에서 여과되어 세뇨관 손상 및 폐쇄를 일으켜 급성 신손상을 유발할 수 있습니다. 따라서 이 환자에게 가장 적절한 검사는 혈청 크레아틴 키나아제(CK) 측정입니다. CK는 횡문근융해증에서 현저히 상승하며(정상의 5배 이상, 종종 수만 단위까지), 진단적 가치가 높습니다. 또한 미오글로빈 자체의 측정도 도움이 될 수 있지만, 미오글로빈은 반감기가 짧아 CK보다 진단적 가치가 낮을 수 있습니다. 신장 조직검사는 침습적 검사로, 횡문근융해증이 강하게 의심되는 상황에서는 일반적으로 필요하지 않습니다. 신장 도플러 초음파는 신혈관 질환이나 폐쇄성 요로병증의 평가에 유용하지만, 이 환자의 임상상은 이러한 원인보다는 횡문근융해증을 더 시사합니다. 방사성 동위원소 신장 스캔은 신관류 및 기능 평가에 유용하지만, 급성기에 원인 감별을 위한 첫 번째 검사로는 적절하지 않습니다. 항사구체 기저막 항체 검사는 면역 매개 사구체 질환의 평가에 유용하지만, 이 환자의 임상상은 이러한 질환보다는 횡문근융해증을 더 시사합니다.",
+  "source": {
+    "file_name": "Brenner and Rector's The Kidney",
+    "content": "Rhabdomyolysis-induced AKI is characterized by muscle necrosis with release of myoglobin and other muscle constituents into the circulation. Common causes include trauma, exertion, alcohol abuse, muscle ischemia, genetic defects, metabolic disorders, medications, and toxins. The diagnosis of rhabdomyolysis is established by elevated serum creatine kinase (CK) levels, typically greater than 5 times the upper limit of normal. Myoglobinuria is suggested by a positive urine dipstick test for 'blood' without evidence of red blood cells on microscopic examination. However, since myoglobin has a shorter half-life than CK, the urine may be negative for blood by the time the patient presents with rhabdomyolysis-induced AKI. The risk of AKI increases with higher levels of serum CK and is exacerbated by volume depletion, acidosis, and concurrent nephrotoxic exposures."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 213,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "72세 남성이 3일간의 소변량 감소와 의식 저하로 응급실에 내원하였다. 환자는 2주 전부터 복용 중인 약물로 인해 상태가 악화되었다고 가족이 진술하였다. 과거력에는 고혈압, 심방세동, 당뇨병이 있으며, 최근 항생제를 처방받아 복용 중이었다. 신체 검진에서 혈압 165/95 mmHg, 맥박 98회/분(불규칙), 호흡수 24회/분, 체온 37.1°C이다. 의식은 기면 상태이며, 양측 하지에 중등도의 함요부종이 관찰된다. 심전도에서 심방세동 리듬과 좌심실 비대 소견이 있다. 이 환자의 급성 신손상 치료를 위해 가장 우선적으로 시행해야 할 조치는?",
+  "exam": "혈액 검사: WBC 9,800/μL, Hb 12.1 g/dL, Platelet 185,000/μL, BUN 96 mg/dL, Creatinine 4.8 mg/dL, Na 134 mEq/L, K 6.9 mEq/L, Cl 98 mEq/L, HCO3 16 mEq/L, 혈당 210 mg/dL, 칼슘 7.8 mg/dL. 소변 검사: 비중 1.010, pH 5.0, 단백 1+, 당 2+, 적혈구 0-1/HPF, 백혈구 1-2/HPF, 과립원주 소량. 심초음파: 좌심실 벽 두께 증가, 좌심실 구축률 45%, 좌심방 확장.",
+  "options": {
+    "A": "응급 혈액투석",
+    "B": "고용량 이뇨제 정맥 투여",
+    "C": "고수액 요법(하루 3L 이상)",
+    "D": "신장 스텐트 삽입",
+    "E": "코르티코스테로이드 정맥 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 고칼륨혈증(K 6.9 mEq/L), 산증(HCO3 16 mEq/L), 요독증(BUN 96 mg/dL, Creatinine 4.8 mg/dL)을 동반한 중증 급성 신손상 상태입니다. 또한 의식 저하가 동반되어 있어, 요독성 뇌병증이 발생했을 가능성이 높습니다. 이런 상황에서 응급 혈액투석이 가장 우선적으로 시행해야 할 조치입니다. 급성 신손상에서 투석의 절대적 적응증으로는 (1) 중증 고칼륨혈증(>6.5 mEq/L)이나 급격히 상승하는 칼륨 수치, (2) 중증 대사성 산증(pH <7.1 또는 중탄산염 <12 mEq/L), (3) 폐부종이나 심한 체액 과부하, (4) 요독성 증상(뇌병증, 심낭염, 출혈 경향 등)이 있습니다. 이 환자는 심한 고칼륨혈증(6.9 mEq/L)과 의식 저하(요독성 뇌병증 의심)가 있어 응급 투석의 적응증에 해당합니다. 고용량 이뇨제 정맥 투여는 일부 급성 신손상 환자에서 소변량을 증가시키고 체액 과부하를 해소하는 데 도움이 될 수 있지만, 이 환자와 같이 중증 신손상과 생명을 위협하는 전해질 이상이 있는 경우에는 충분한 효과를 기대하기 어렵습니다. 오히려 신독성을 악화시킬 위험이 있습니다. 고수액 요법은 체액량 부족이 원인인 신전성(prerenal) 급성 신손상 환자에게 적합하지만, 이 환자는 하지 부종과 심부전 소견이 있어 체액 과부하 상태로 추정되므로 금기입니다. 추가적인 수액 공급은 폐부종 등 체액 과부하 합병증을 악화시킬 수 있습니다. 신장 스텐트 삽입은 요로 폐쇄가 원인인 폐쇄성(post-renal) 급성 신손상에 적합하지만, 이 환자의 임상 및 검사 소견은 폐쇄성 원인을 시사하지 않습니다(소변 검사에서 혈뇨나 농뇨 소견 없음). 코르티코스테로이드 정맥 투여는 면역 매개성 사구체 질환이나 급성 간질성 신염과 같은 특정 원인의 급성 신손상에 도움이 될 수 있지만, 이 환자의 임상상(복용 중인 약물로 인한 신손상 의심)과 검사 소견(소변 검사에서 활동성 요세포 소견 없음)은 이러한 질환을 시사하지 않습니다.",
+  "source": {
+    "file_name": "Comprehensive Clinical Nephrology",
+    "content": "The indications for initiation of renal replacement therapy in AKI include severe or progressive azotemia (generally BUN >100 mg/dL), volume overload unresponsive to diuretics, hyperkalemia (K >6.5 mEq/L or rapidly rising), severe metabolic acidosis (pH <7.1 or serum bicarbonate <12 mEq/L), and uremic complications (encephalopathy, pericarditis, bleeding diathesis). The presence of one or more of these indications warrants consideration of dialysis, and the decision should be individualized based on the patient's overall clinical status, comorbidities, and goals of care. In patients with symptomatic uremia or life-threatening electrolyte disturbances, prompt initiation of dialysis is essential. The timing of dialysis initiation in AKI remains controversial, but there is a general consensus that dialysis should not be delayed when clear indications are present."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 214,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 3일간의 소변량 감소와 호흡곤란으로 응급실에 내원하였다. 환자는 2주 전 심근경색으로 입원 치료를 받은 병력이 있으며, 퇴원 후 심부전 증상이 점차 악화되었다고 한다. 내원 시 양측 하지 부종과 경정맥 팽창이 관찰되며, 복부에 경도의 복수가 의심된다. 폐 청진 시 양측 하폐야에서 수포음이 들린다. 활력징후는 혈압 130/80 mmHg, 맥박 100회/분, 호흡수 24회/분이다. 이 환자의 핍뇨증 원인 감별을 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 8,500/μL, Hb 13.2 g/dL, Platelet 220,000/μL, BUN 55 mg/dL, Creatinine 2.3 mg/dL, Na 133 mEq/L, K 4.8 mEq/L, NT-proBNP 8,500 pg/mL.",
+  "options": {
+    "A": "신장 도플러 초음파",
+    "B": "혈청 알부민/크레아티닌 비율",
+    "C": "요검사와 요단백/요크레아티닌 비율",
+    "D": "소변 삼투압과 소변 나트륨 농도",
+    "E": "심초음파"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 심근경색 후 발생한 심부전으로 인한 급성 신손상(심장성 신증후군, Cardiorenal Syndrome)이 의심됩니다. 병력에서 최근 심근경색이 있었고, 심부전 증상(호흡곤란, 하지 부종, 경정맥 팽창, 폐 수포음)이 점차 악화되었습니다. 또한 NT-proBNP가 8,500 pg/mL로 현저히 상승되어 있어 심부전을 강하게 시사합니다. 심장성 신증후군은 심장 기능 장애가 신장 기능에 영향을 미치는 상태로, 특히 급성 심부전이나 급성 관상동맥 증후군 후에 흔히 발생합니다. 이러한 상황에서 가장 적절한 검사는 심초음파입니다. 심초음파를 통해 심장 구조와 기능을 평가하고, 좌심실 수축 기능(구축률), 확장 기능, 판막 이상, 국소 벽 운동 이상 등을 확인할 수 있습니다. 특히 이 환자의 경우, 심근경색 후 발생한 심부전의 정도와 양상을 평가하는 것이 중요하며, 이는 신기능 저하의 직접적인 원인이 될 수 있습니다. 신장 도플러 초음파는 신혈관 질환이나 폐쇄성 요로병증의 평가에 유용하지만, 이 환자의 주된 문제는 심장성이므로 우선순위가 낮습니다. 혈청 알부민/크레아티닌 비율은 표준 검사가 아니며, 주로 영양 상태나 근육량을 평가하는 데 사용됩니다. 요검사와 요단백/요크레아티닌 비율은 단백뇨의 정량적 평가에 유용하지만, 심장성 신증후군의 원인 진단에는 제한적입니다. 소변 삼투압과 소변 나트륨 농도는 신전성(prerenal) 및 신성(intrinsic renal) 급성 신손상의 감별에 도움이 되지만, 이 환자에서는 심부전으로 인한 혈역학적 변화가 주된 원인으로 심초음파가 더 중요한 정보를 제공할 것입니다.",
+  "source": {
+    "file_name": "Journal of the American College of Cardiology",
+    "content": "Cardiorenal syndrome (CRS) type 1 is characterized by acute worsening of cardiac function leading to acute kidney injury. Echocardiography is essential in the evaluation of patients with suspected CRS, as it provides critical information about cardiac structure and function, including left ventricular ejection fraction, diastolic function, valvular abnormalities, and regional wall motion abnormalities. In post-myocardial infarction patients with heart failure, echocardiography can identify left ventricular systolic dysfunction, ventricular aneurysm, mitral regurgitation, or mechanical complications that may contribute to cardiorenal syndrome. Additionally, echocardiography helps guide therapy by assessing volume status and response to interventions. Elevated biomarkers such as B-type natriuretic peptide (BNP) or N-terminal pro-BNP support the diagnosis of heart failure but should be interpreted in the context of clinical findings and imaging results."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 215,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "42세 여성이 2일 전부터 시작된 심한 설사와 구토, 그리고 12시간 전부터 발생한 소변량 감소로 응급실에 내원하였다. 환자는 3일 전 해외여행에서 귀국했으며, 현지에서 길거리 음식을 먹은 후 복통과 설사가 시작되었다고 한다. 내원 시 활력징후는 혈압 85/50 mmHg, 맥박 120회/분, 호흡수 22회/분, 체온 38.0°C이다. 피부와 점막은 매우 건조하며, 피부 긴장도가 감소되어 있다. 복부 진찰에서 전반적인 압통이 있으나 반발통은 없다. 이 환자의 무뇨증 치료를 위한 가장 적절한 초기 접근법은?",
+  "exam": "혈액 검사: WBC 15,800/μL, Hb 16.8 g/dL, Hct 52%, Platelet 230,000/μL, BUN 70 mg/dL, Creatinine 2.8 mg/dL, Na 150 mEq/L, K 3.2 mEq/L, Cl 110 mEq/L, HCO3 16 mEq/L, Glucose 110 mg/dL, Lactate 3.5 mmol/L. 소변 검사: 비중 1.030, 나트륨 10 mEq/L, 분획성 나트륨 배설(FENa) 0.5%.",
+  "options": {
+    "A": "등장성 생리식염수 급속 주입(20 mL/kg)",
+    "B": "저장성 생리식염수 주입",
+    "C": "콜로이드 용액(알부민) 주입",
+    "D": "루프 이뇨제 정맥 투여",
+    "E": "즉각적인 혈액투석"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 심한 설사와 구토로 인한 체액량 감소성(혈량저하성) 쇼크 상태와 그로 인한 신전성(prerenal) 급성 신손상을 보이고 있습니다. 임상적으로 저혈압(85/50 mmHg), 빈맥(120회/분), 점막 건조, 피부 긴장도 감소 등 심한 탈수 소견을 보이고 있습니다. 검사 소견에서도 높은 헤마토크릿(52%), 고나트륨혈증(150 mEq/L), BUN/크레아티닌 비율 상승(70/2.8 = 25, 정상 10-20), 낮은 소변 나트륨(10 mEq/L)과 분획성 나트륨 배설(0.5% < 1%)은 모두 신전성 급성 신손상에 합당합니다. 이러한 상황에서 가장 적절한 초기 치료는 등장성 생리식염수의 급속 주입입니다. 체액량 감소성 쇼크와 신전성 급성 신손상의 첫 번째 치료 원칙은 순환 혈액량을 신속하게 회복시키는 것입니다. 등장성 생리식염수(0.9% NaCl)는 혈관 내 용적을 빠르게 증가시키고 신관류를 개선하여 신기능 회복을 촉진합니다. 특히 저혈압이 동반된 경우, 초기에 20 mL/kg의 등장성 생리식염수를 급속 주입(bolus)하고, 이후 혈역학적 반응에 따라 추가 수액을 조절하는 것이 권장됩니다. 저장성 생리식염수(0.45% NaCl)는 혈관 내 용적 확장 효과가 등장성 생리식염수보다 낮아 심한 체액량 감소 상태에서는 적절하지 않습니다. 또한 이 환자는 이미 고나트륨혈증(150 mEq/L)이 있지만, 이는 순수한 나트륨 과다보다는 심한 탈수로 인한 상대적 상승으로 보이므로, 등장성 수액 공급이 더 적합합니다. 콜로이드 용액(알부민)은 혈관 내 용적 유지에 도움이 될 수 있지만, 초기 소생술에서 정질액(등장성 생리식염수)보다 우월한 효과가 입증되지 않았으며 비용이 더 높습니다. 루프 이뇨제 정맥 투여는 체액 과부하 상태나 소변량 유지가 필요한 경우에 유용하지만, 이 환자와 같이 심한 체액량 감소와 저혈압이 있는 경우에는 금기입니다. 이뇨제는 탈수를 더욱 악화시키고 신손상을 심화시킬 수 있습니다. 즉각적인 혈액투석은 고칼륨혈증, 중증 대사성 산증, 요독성 증상, 치료에 반응하지 않는 체액 과부하 등의 절대적 적응증이 있을 때 고려되며, 이 환자는 적응증에 해당하지 않습니다. 또한 혈역학적으로 불안정한 상태에서 투석은 추가적인 혈압 저하를 초래할 수 있어 위험합니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Prerenal acute kidney injury due to volume depletion is characterized by decreased effective arterial blood volume, which triggers compensatory mechanisms to preserve renal perfusion. Clinical features include hypotension, tachycardia, decreased skin turgor, dry mucous membranes, and oliguria. Laboratory findings typically show an elevated BUN-to-creatinine ratio (>20:1), concentrated urine (specific gravity >1.020), low urinary sodium (<20 mEq/L), and low fractional excretion of sodium (<1%). Initial management should focus on prompt restoration of intravascular volume with isotonic crystalloids. In patients with hypotension, an initial bolus of 20 mL per kilogram of body weight of isotonic saline is recommended, followed by continuous infusion titrated to clinical response. Volume resuscitation should be guided by frequent reassessment of vital signs, urine output, and, when available, dynamic parameters of fluid responsiveness. Renal function typically improves rapidly with adequate volume repletion, and if oliguria persists despite volume restoration, intrinsic renal causes should be considered."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 216,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "36세 여성이 3일간의 발열, 오한과 함께 24시간 전부터 소변량이 급격히 감소하여 응급실에 내원하였다. 환자는 2주 전 세균성 인두염 진단을 받고 항생제를 복용하였으며, 최근 1주일간 얼굴과 발목 부종이 발생했다고 한다. 신체 검진에서 혈압 160/100 mmHg, 맥박 95회/분, 호흡수 20회/분, 체온 38.3°C이다. 안면부 및 양측 하지에 함요부종이 관찰되며, 복부에 중등도의 압통이 있다. 이 환자의 무뇨증 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액 검사: WBC 14,500/μL, Hb 11.2 g/dL, Platelet 110,000/μL, BUN 65 mg/dL, Creatinine 4.3 mg/dL, Na 134 mEq/L, K 5.4 mEq/L, Cl 100 mEq/L, 총단백 5.8 g/dL, 알부민 2.9 g/dL, C3 40 mg/dL (정상 90-180), C4 30 mg/dL (정상 10-40), ASO 350 IU/mL (정상 <200). 소변 검사: 비중 1.018, pH 6.0, 단백 3+, 적혈구 many/HPF, 적혈구 원주 2+, 백혈구 5-10/HPF. 24시간 소변 단백: 4.2 g/day.",
+  "options": {
+    "A": "루푸스 신염",
+    "B": "IgA 신병증",
+    "C": "급성 간질성 신염",
+    "D": "급성 사구체후신염",
+    "E": "급성 연쇄구균감염후 사구체신염"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 급성 연쇄구균감염후 사구체신염(Post-Streptococcal Glomerulonephritis, PSGN)의 전형적인 임상상을 보이고 있습니다. PSGN은 A군 베타용혈성 연쇄구균 감염(인두염 또는 피부 감염) 후 1-2주 지연기를 두고 발생하는 면역 매개성 사구체 질환입니다. 이 환자의 경우, 2주 전 세균성 인두염 병력과 함께 ASO 역가 상승(350 IU/mL)이 확인되어 선행 연쇄구균 감염을 시사합니다. 임상적으로 급성 신염 증후군(신부전, 고혈압, 부종, 혈뇨, 단백뇨)을 보이며, 특히 소변 검사에서 적혈구 원주는 사구체 기원의 혈뇨를 강력히 시사합니다. 또한 혈청 보체 C3 감소(40 mg/dL)는 PSGN에서 특징적으로 나타나는 소견으로, 항원-항체 복합체에 의한 보체 활성화로 인해 발생합니다. C4가 정상인 점도 대체경로 활성화를 통한 C3 감소를 시사하며, 이는 PSGN의 전형적인 소견입니다. 루푸스 신염은 전신성 홍반성 루푸스의 신장 침범으로, 임상적으로 급성 신염 증후군을 나타낼 수 있습니다. 그러나 루푸스 신염에서는 전형적으로 C3와 C4 모두 감소하며, 항핵항체(ANA), 항dsDNA 항체 등의 자가항체가 양성으로 나타납니다. 이 환자에서는 C4가 정상이고, 선행 연쇄구균 감염의 증거가 있어 루푸스 신염보다는 PSGN이 더 가능성이 높습니다. IgA 신병증은 가장 흔한 원발성 사구체신염으로, 상기도 감염 후 육안적 혈뇨로 발현될 수 있습니다. 그러나 일반적으로 보체 수치는 정상이며, 이 환자처럼 전형적인 급성 신염 증후군으로 발현되는 경우는 상대적으로 드뭅니다. 급성 간질성 신염은 주로 약물 과민반응(특히 항생제, NSAIDs 등)에 의해 발생하며, 발열, 발진, 호산구뇨, 호산구증가증 등이 특징입니다. 단백뇨와 혈뇨가 동반될 수 있으나, 일반적으로 신증후군 범위의 단백뇨(>3.5g/day)는 드물고, 적혈구 원주는 관찰되지 않으며, 보체 저하도 특징적이지 않습니다. 급성 사구체후신염은 광범위한 용어로, 여러 원인에 의한 급성 사구체 손상을 지칭할 수 있으나, 일반적으로 이 용어는 잘 사용되지 않습니다. 이 환자의 임상상은 특히 PSGN에 가장 합당합니다.",
+  "source": {
+    "file_name": "Brenner and Rector's The Kidney",
+    "content": "Acute post-streptococcal glomerulonephritis (PSGN) typically occurs 1-2 weeks following pharyngeal infection or 3-6 weeks following skin infection with nephritogenic strains of group A beta-hemolytic streptococci. The diagnosis is supported by evidence of recent streptococcal infection (elevated ASO, anti-DNase B titers, or positive throat/skin cultures), characteristic clinical findings (acute nephritic syndrome with hematuria, proteinuria, edema, hypertension, and reduced GFR), and laboratory evidence of complement activation (decreased C3 with normal C4 levels reflecting alternative pathway activation). Urinalysis typically shows dysmorphic red blood cells and red cell casts, indicating glomerular origin of hematuria. Proteinuria is usually sub-nephrotic (less than 3.5 g/day) but may occasionally reach nephrotic ranges. The pathogenesis involves immune complex deposition with subsequent complement activation, leading to inflammation and injury of the glomerular basement membrane. Renal biopsy, when performed, reveals diffuse proliferative glomerulonephritis with subepithelial 'humps' on electron microscopy."
+  },
+  "category": "Nephrology"
+},
+{
+  "question_id": 217,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "62세 남성이 1주일 전부터 서서히 진행된 소변량 감소와 전신 부종으로 내원하였다. 환자는 3개월 전 진단받은 다발성 골수종으로 항암치료를 시작할 예정이었으나, 치료 전 상태 악화로 내원하게 되었다. 신체 검진에서 혈압 150/90 mmHg, 맥박 90회/분, 호흡수 20회/분, 체온 36.7°C이다. 안면부와 전신에 걸쳐 함요부종이 있으며, 흉부 청진에서 양측 폐하부에 수포음이 청진된다. 이 환자의 무뇨증 원인을 감별하기 위해 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사: WBC 6,800/μL, Hb 9.2 g/dL, Platelet 150,000/μL, BUN 95 mg/dL, Creatinine 6.3 mg/dL, Na 138 mEq/L, K 5.7 mEq/L, Cl 102 mEq/L, Ca 11.5 mg/dL, 총단백 8.5 g/dL, 알부민 2.8 g/dL, 글로불린 5.7 g/dL, 혈청 단백전기영동: M-단백 확인됨. 소변 검사: 비중 1.015, pH 6.0, 단백 2+, 잠혈 음성, 적혈구 0-1/HPF, 백혈구 0-1/HPF.",
+  "options": {
+    "A": "신장 초음파",
+    "B": "신장 조직검사",
+    "C": "혈청 유리경쇄 검사",
+    "D": "24시간 소변 단백 및 면역전기영동",
+    "E": "신장 도플러 초음파"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 다발성 골수종 관련 신손상(Myeloma Cast Nephropathy, 골수종 원주신병증)이 강하게 의심됩니다. 환자는 3개월 전 다발성 골수종을 진단받았으며, 혈액 검사에서 M-단백이 확인되었고, 고칼슘혈증(11.5 mg/dL)과 단백-크레아티닌 갭(총단백 8.5 g/dL, 알부민 2.8 g/dL로 글로불린 증가)이 관찰됩니다. 다발성 골수종에서 신손상은 흔한 합병증으로, 주요 기전으로는 (1) 단일클론 경쇄에 의한 원주신병증(cast nephropathy), (2) 경쇄 침착에 의한 AL 아밀로이드증, (3) 경쇄 침착 질환(LCDD) 등이 있습니다. 특히 원주신병증은 과량의 단일클론 경쇄가 원위 세뇨관에서 Tamm-Horsfall 단백과 결합하여 원주를 형성하고 세뇨관 폐쇄를 일으켜 급성 신손상을 유발합니다. 이 환자에서 가장 적절한 검사는 혈청 유리경쇄(Free Light Chain, FLC) 검사입니다. 혈청 FLC 검사는 다발성 골수종 환자에서 단일클론 경쇄(kappa 또는 lambda)의 수치와 kappa/lambda 비율을 측정하여 골수종의 활성도를 평가하고, 경쇄 관련 신손상의 가능성을 평가하는 데 중요합니다. 특히 골수종 원주신병증에서는 단일클론 경쇄의 혈중 농도가 높을수록 신손상의 위험이 증가하며, 효과적인 경쇄 감소가 신기능 회복의 중요한 예측인자입니다. 신장 초음파는 급성 신손상의 기본 검사로 신장 크기, 에코, 수집계 확장 여부 등을 평가하지만, 골수종 관련 신손상의 특이적 진단에는 제한적입니다. 신장 조직검사는 골수종 관련 신손상의 확진 검사로 유용하지만, 침습적이며 이 환자에서는 이미 다발성 골수종이 진단되어 있고 임상 및 검사 소견이 골수종 원주신병증과 일치하므로, 조직검사 전에 비침습적인 혈청 FLC 검사를 우선 시행하는 것이 합리적입니다. 24시간 소변 단백 및 면역전기영동은 소변 내 단백질의 양과 특성(특히 Bence Jones 단백)을 평가하는 데 유용하지만, 급성 신손상 상태에서는 소변량 감소로 인해 정확한 24시간 소변 수집이 어려울 수 있으며, 혈청 FLC 검사가 더 민감하고 신속한 결과를 제공합니다. 신장 도플러 초음파는 신혈관 질환이나 혈역학적 이상의 평가에 유용하지만, 이 환자의 임상상은 골수종 관련 신손상을 더 시사합니다.",
+  "source": {
+    "file_name": "Clinical Journal of the American Society of Nephrology",
+    "content": "Myeloma cast nephropathy (MCN), also known as myeloma kidney, is a common cause of acute kidney injury in patients with multiple myeloma, occurring in up to 50% of cases. The pathophysiology involves the precipitation of monoclonal free light chains (FLCs) with Tamm-Horsfall protein in the distal tubules, forming obstructive casts. Serum FLC measurement has become the gold standard for quantifying circulating monoclonal light chains and is superior to urine protein electrophoresis for diagnosing and monitoring light chain-related kidney diseases. A high burden of FLCs (typically >500 mg/L) is strongly associated with MCN risk. The kappa/lambda ratio is also crucial, with a ratio >100 or <0.01 indicating monoclonality. Rapid reduction of FLC levels through effective chemotherapy is associated with improved renal outcomes, and early measurement helps guide therapy decisions. While renal biopsy provides definitive diagnosis, clinical suspicion of MCN in the setting of acute kidney injury in a patient with known multiple myeloma, along with elevated FLCs, often suffices for initiating treatment without biopsy confirmation."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 218,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 3일 동안 지속된 소변량 감소와 전신 부종을 주소로 내원하였다. 환자는 2주 전부터 상기도 감염 증상이 있었으며, 1주일 전부터 얼굴과 발목 부종이 시작되었다고 한다. 신체 검진에서 혈압 165/100 mmHg, 맥박 85회/분, 호흡수 20회/분이며, 안면부종, 복수, 양측 하지의 함요부종이 관찰된다. 최근 24시간 동안의 소변량은 약 300 mL이다. 요검사에서 3+ 단백뇨와 현미경적 혈뇨가 관찰되었다. 이 환자의 진단을 위해 다음 중 가장 적절한 검사는?",
+  "exam": "혈액 검사: 혈중 요소질소(BUN) 48 mg/dL, 크레아티닌 2.2 mg/dL, 총단백 5.5 g/dL, 알부민 2.8 g/dL, 총콜레스테롤 280 mg/dL. 전해질: 나트륨 138 mEq/L, 칼륨 5.0 mEq/L, 염소 104 mEq/L, 중탄산염 22 mEq/L. 24시간 소변 단백: 4.5 g/일.",
+  "options": {
+    "A": "신장 도플러 초음파",
+    "B": "신장 조영제 CT",
+    "C": "신장 생검",
+    "D": "요로조영술",
+    "E": "신장 핵의학 검사(DTPA 신티그라피)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 핍뇨증, 고혈압, 전신 부종, 단백뇨, 현미경적 혈뇨, 저알부민혈증, 고콜레스테롤혈증을 보이고 있습니다. 이러한 임상 양상은 신증후군의 특징과 일치하며, 최근 상기도 감염 후 발생한 급성 신기능 저하와 함께 나타나고 있어 급성 사구체신염 또는 급속 진행성 사구체신염을 의심해 볼 수 있습니다. 급성 사구체신염은 면역 복합체의 침착이나 항체 매개 손상으로 인해 발생하며, 상기도 감염 후 발생하는 경우 주로 감염 후 사구체신염 또는 IgA 신병증 등이 원인일 수 있습니다. 급속 진행성 사구체신염은 빠르게 진행하는 신기능 저하를 특징으로 하며, 반월형 사구체신염, ANCA 연관 혈관염, 항사구체 기저막 질환 등이 원인일 수 있습니다. 이러한 사구체 질환의 정확한 진단을 위해서는 신장 생검이 가장 적절한 검사입니다. 신장 생검을 통해 광학현미경, 면역형광, 전자현미경 검사를 시행하여 정확한 사구체 병변의 유형과 범위, 면역 복합체 침착 여부, 세포외 기질 변화 등을 확인할 수 있습니다. 이를 통해 특정 사구체 질환을 진단하고, 예후를 예측하며, 적절한 치료 방법을 결정할 수 있습니다. 신장 도플러 초음파는 신장 혈류를 평가하는 데 유용하지만, 사구체 질환의 진단에는 제한적입니다. 신장 조영제 CT는 종양, 결석, 해부학적 이상 등을 평가하는 데 유용하지만, 사구체 질환의 진단에는 적합하지 않으며, 신기능 저하 환자에서는 조영제 신독성의 위험이 있습니다. 요로조영술은 요로계의 해부학적 이상을 평가하는 데 유용하지만, 사구체 질환의 진단에는 적합하지 않습니다. 신장 핵의학 검사(DTPA 신티그라피)는 신장 관류와 사구체 여과율을 평가하는 데 유용하지만, 사구체 질환의 원인을 규명하는 데는 제한적입니다.",
+  "source": {
+    "file_name": "Brenner & Rector's The Kidney, 11th Edition",
+    "content": "Kidney biopsy is indicated in cases of unexplained acute kidney injury, especially when associated with proteinuria and/or hematuria, to diagnose the specific glomerular disease responsible for the nephritic or nephrotic syndrome presentation. The histopathologic findings from a kidney biopsy provide critical information about the type, extent, and severity of glomerular injury, the presence of immune complex deposits, and the degree of tubulointerstitial damage. This information is essential for establishing a specific diagnosis, guiding therapeutic decisions, and providing prognostic information. In patients presenting with features of acute glomerulonephritis following an upper respiratory infection, a kidney biopsy can differentiate between conditions such as postinfectious glomerulonephritis, IgA nephropathy, or rapidly progressive glomerulonephritis with crescentic formation, each requiring different therapeutic approaches."
+  },
+  "category": "Nephrology"
+}, 
+{
+  "question_id": 219,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "65세 남성이 소변이 나오지 않는다는 주소로 응급실에 내원하였다. 환자는 3일 전부터 배뇨 곤란, 하복부 팽만감, 불편감을 호소하였으며, 점차 심해져 지난 12시간 동안 소변을 전혀 보지 못했다고 한다. 과거력상 양성 전립선 비대증으로 5년 전부터 약물 치료를 받고 있었으나, 최근 개인 사정으로 2주간 약물 복용을 중단했다고 한다. 신체 검진에서 혈압 150/90 mmHg, 맥박 95회/분, 호흡수 18회/분이며, 하복부에 압통을 동반한 팽만이 관찰되고, 타진 시 둔탁음이 확인된다. 직장 수지 검사에서 전립선이 크게 비대되어 있다. 이 환자의 진단에 가장 적합한 검사는?",
+  "exam": "혈액 검사: 혈중 요소질소(BUN) 40 mg/dL, 크레아티닌 2.0 mg/dL, 나트륨 138 mEq/L, 칼륨 4.8 mEq/L.",
+  "options": {
+    "A": "신장 초음파",
+    "B": "요역동학 검사",
+    "C": "방광 초음파",
+    "D": "복부 CT",
+    "E": "역행성 요로조영술"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 양성 전립선 비대증의 과거력이 있고, 최근 약물 복용을 중단한 후 배뇨 곤란, 하복부 팽만감이 발생하였으며, 현재 무뇨증을 보이고 있습니다. 신체 검진에서 하복부 팽만과 압통, 타진 시 둔탁음이 관찰되고, 직장 수지 검사에서 전립선 비대가 확인되었습니다. 이러한 임상 양상은 양성 전립선 비대증으로 인한 급성 요폐(acute urinary retention)를 강하게 시사합니다. 급성 요폐 환자에서 가장 먼저 시행해야 할 검사는 방광 초음파입니다. 방광 초음파는 방광 내 소변량을 정확하게 측정할 수 있고, 방광의 확장 정도와 벽 두께를 평가할 수 있으며, 전립선 크기도 함께 확인할 수 있습니다. 또한 비침습적이고 빠르게 시행할 수 있어 응급 상황에서 유용합니다. 급성 요폐가 의심되는 환자에서 방광 초음파를 통해 500 mL 이상의 잔뇨량이 확인되면, 즉시 도뇨관 삽입을 통한 감압이 필요합니다. 신장 초음파는 수신증(hydronephrosis), 신결석, 신종양 등 신장 질환을 평가하는 데 유용하지만, 급성 요폐의 급속 평가에는 방광 초음파가 더 적합합니다. 요역동학 검사는 배뇨 장애의 원인을 평가하는 데 유용하지만, 급성 요폐 상황에서는 우선적으로 시행하지 않으며, 요폐 해결 후 추적 관찰 시 고려할 수 있습니다. 복부 CT는 요로계 질환의 정밀한 평가에 유용하지만, 방사선 노출과 조영제 사용에 따른 위험이 있고, 시간이 더 소요되므로 급성 요폐의 초기 평가에는 적합하지 않습니다. 역행성 요로조영술은 침습적 검사로, 주로 요관 협착이나 결석을 평가하는 데 사용되며, 급성 요폐의 초기 평가에는 적합하지 않습니다. 또한 이 환자처럼 신기능이 저하된 경우 조영제 신독성의 위험이 있어 주의가 필요합니다.",
+  "source": {
+    "file_name": "Campbell-Walsh Urology, 12th Edition",
+    "content": "Bladder ultrasound is the preferred initial diagnostic test for patients presenting with acute urinary retention. It provides a non-invasive, rapid assessment of bladder volume, detrusor wall thickness, and can visualize prostatic enlargement. A post-void residual urine volume greater than 300-500 mL on ultrasound in a patient with symptoms of voiding difficulty strongly suggests urinary retention and indicates the need for catheterization. Bladder ultrasound has largely replaced the need for more invasive studies in the acute setting and can be performed at the bedside in the emergency department. In patients with benign prostatic hyperplasia who present with acute urinary retention after discontinuation of medical therapy, immediate bladder decompression via catheterization is the first step in management, and bladder ultrasound provides objective documentation of retention and helps exclude other pathologies such as bladder stones or tumors."
+  },
+  "category": "Urology"
+}, 
+{
+  "question_id": 220,
+  "chief_complaint": "무뇨증/핍뇨증",
+  "purpose": "소변이 줄거나 나오지 않는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 알아낼 수 있다.",
+  "question": "68세 남성이 지난 24시간 동안 소변량이 급격히 감소하여 응급실에 내원하였다. 환자는 3일 전부터 지속된 구토와 설사로 인해 탈수 상태였으며, 고혈압과 당뇨병으로 약물 치료 중이다. 최근 허리 통증으로 비스테로이드성 소염제를 복용하기 시작했다. 신체검사에서 혈압 90/60 mmHg, 맥박 110회/분, 호흡수 22회/분, 체온 37.3°C이다. 피부 탄력도가 감소되어 있고, 구강 점막이 건조하며, 경정맥 확장은 관찰되지 않는다. 복부는 부드럽고 압통이 없으며, 양측 늑골척추각 압통은 없다. 하지의 부종은 관찰되지 않는다. 최근 24시간 동안 소변량은 약 250 mL이다. 이 환자의 급성 신손상의 가장 가능성 높은 원인은?",
+  "exam": "검사 결과: 혈중 요소질소(BUN) 65 mg/dL, 크레아티닌 2.8 mg/dL (기저치 0.9 mg/dL), 나트륨 135 mEq/L, 칼륨 5.2 mEq/L, 염소 95 mEq/L, 중탄산염 18 mEq/L. 요검사: 비중 1.025, 단백질 1+, 적혈구 소수/고배율시야, 백혈구 2-3/고배율시야, 과립원주 소수/고배율시야. 신장 초음파: 양측 신장 크기 정상, 수신증 없음.",
+  "options": {
+    "A": "급성 사구체신염",
+    "B": "급성 간질성 신염",
+    "C": "신전성 급성 신손상",
+    "D": "급성 요로폐쇄",
+    "E": "급성 세뇨관 괴사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 구토와 설사로 인한 탈수, 저혈압(90/60 mmHg), 빈맥(110회/분), 피부 탄력도 감소, 구강 점막 건조 등 체액량 감소를 시사하는 임상 소견을 보입니다. 또한 비스테로이드성 소염제(NSAIDs) 복용력이 있으며, 고혈압과 당뇨병 병력이 있습니다. 이러한 상황은 신전성(prerenal) 급성 신손상의 전형적인 원인입니다. 신전성 급성 신손상은 실제 신장 실질의 손상 없이 신장으로의 혈류 감소로 인해 발생합니다. 탈수, 저혈압, 심장 기능 저하, 혈관 확장 등으로 인한 유효 순환 혈액량 감소가 주요 원인입니다. NSAIDs는 프로스타글란딘 합성을 억제하여 신장 자가조절 기능을 방해하므로, 특히 체액량이 감소된 상태에서 신전성 급성 신손상의 위험을 증가시킵니다. 검사 결과에서 BUN/크레아티닌 비율이 20 이상(65/2.8≈23)으로 상승되어 있고, 소변 비중이 1.025로 증가되어 있으며, 요중 나트륨 농도가 낮을 것으로 예상되는 점도 신전성 급성 신손상을 지지합니다. 급성 사구체신염은 일반적으로 혈뇨, 단백뇨, 부종, 고혈압을 동반하며, 이 환자에서는 이러한 특징적인 소견이 관찰되지 않습니다. 급성 간질성 신염은 주로 약물 과민반응으로 발생하며, 발열, 발진, 호산구뇨, 호산구증가증과 같은 과민반응 증상을 동반하는데 이 환자에서는 관찰되지 않습니다. 급성 요로폐쇄는 신장 초음파에서 수신증이 없어 배제할 수 있습니다. 급성 세뇨관 괴사는 신실질성(intrinsic) 급성 신손상의 한 형태로, 심한 허혈이나 신독성 물질에 의한 직접적인 세뇨관 손상으로 발생하며, 소변 검사에서 신세뇨관 상피세포, 과립원주, 진한 갈색 원주 등이 더 뚜렷하게 관찰될 것입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th Edition",
+    "content": "Prerenal AKI is the most common form of AKI and is an appropriate physiologic response to renal hypoperfusion. When renal perfusion is reduced, the glomerular filtration rate falls because of a decrease in net glomerular filtration pressure, caused by a combination of reduced cardiac output, systemic vasodilatation, and renal vasoconstriction. Prerenal azotemia can complicate any disease characterized by decreased effective arterial blood volume, including true volume depletion (e.g., hemorrhage, diarrhea, vomiting), decreased cardiac output (e.g., heart failure, pericardial tamponade), and peripheral vasodilation (e.g., sepsis or anaphylaxis). Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the synthesis of renal vasodilatory prostaglandins and may precipitate prerenal AKI in patients with volume depletion, heart failure, or cirrhosis."
+  },
+  "category": "Nephrology"
 }
+
 ]
-
-
-
-
-
-
-
-
-
-
-
-
 
 
