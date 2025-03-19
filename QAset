@@ -4598,6 +4598,225 @@
   },
   "category": "Gynecology"
 }, 
+{
+  "question_id": 231,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 병력청취와 신체진찰을 통해서 급성중독, 금단증상, 합병증을 파악할 수 있다.",
+  "question": "22세 남자가 혼돈 상태로 응급실에 내원하였다. 환자는 최근 대학 기말고사 기간이었으며, 친구들이 환자를 응급실로 데려왔다. 친구들에 따르면 환자는 3일 전부터 거의 잠을 자지 않고 공부했으며, 집중력 향상을 위해 '어떤 약'을 복용했다고 한다. 내원 당시 환자는 초조하고 공격적인 모습을 보였으며, 피부는 따뜻하고 건조했다. 활력 징후는 혈압 160/95 mmHg, 맥박 120회/분, 호흡수 22회/분, 체온 38.2°C였다. 신경학적 검사에서 동공이 확대되어 있었고, 심부건반사가 항진되어 있었다. 이 환자에서 가장 의심되는 물질은?",
+  "exam": "혈액 검사에서 백혈구 12,000/μL, CK 800 U/L로 증가되어 있었다.",
+  "options": {
+    "A": "알코올",
+    "B": "암페타민",
+    "C": "마리화나",
+    "D": "헤로인",
+    "E": "벤조디아제핀"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 암페타민 계열 약물 중독의 특징적인 증상을 보이고 있습니다. 암페타민과 메스암페타민 같은 각성제는 학생들 사이에서 집중력 향상과 졸음 방지를 위해 오용되는 경향이 있습니다. 이 사례에서 환자는 수면 부족, 초조함, 공격성, 혼돈 상태와 같은 중추신경계 자극 증상을 보이고 있습니다. 또한 고혈압, 빈맥, 발열, 산동, 심부건반사 항진과 같은 교감신경계 자극 증상도 함께 나타납니다. 암페타민 중독은 횡문근융해증(CK 상승)을 유발할 수 있으며, 소변 독성 선별검사에서 양성으로 나타날 수 있습니다. 알코올은 중추신경계 억제제로, 반응 둔화, 조화운동불능, 의식 저하를 유발하므로 이 환자의 증상과 맞지 않습니다. 마리화나는 일반적으로 빈맥과 결막 충혈을 유발할 수 있지만, 이 정도의 심한 교감신경계 과활성화 증상을 보이지는 않습니다. 헤로인은 오피오이드로 동공 축소, 호흡 억제, 의식 저하 등의 증상을 유발하므로 이 환자의 증상과 반대됩니다. 벤조디아제핀도 중추신경계 억제제로, 진정, 졸음, 조화운동불능 등을 유발하므로 이 환자의 임상 양상과 일치하지 않습니다.",
+  "source": {
+    "file_name": "Kaplan & Sadock's Synopsis of Psychiatry",
+    "content": "Amphetamine intoxication presents with central nervous system stimulation including hypervigilance, anxiety, tension, anger, impaired judgment, and psychomotor agitation. Physical signs include tachycardia, pupillary dilation, elevated blood pressure, perspiration or chills, nausea/vomiting, and weight loss. In severe cases, it can lead to confusion, seizures, dyskinesias, dystonias, and coma. Laboratory findings may show elevated creatine kinase due to rhabdomyolysis. Amphetamines are often abused by students and professionals trying to stay awake or enhance performance."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 232,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 남자가 하루 전부터 시작된 떨림, 발한, 불안, 오심을 주소로 응급실에 내원하였다. 환자는 1일 전까지 매일 소주 2병씩 20년간 음주했으나, 가족들의 권유로 갑자기 음주를 중단했다고 한다. 과거력상 만성 B형 간염이 있으며, 10년 전 알코올성 간염으로 입원한 적이 있다. 신체 검진에서 환자는 심한 떨림, 빈맥, 발한을 보였고, 혈압은 150/95 mmHg, 맥박 110회/분, 체온 37.8°C였다. 신경학적 검사에서 환자는 시간과 장소에 대한 지남력이 저하되어 있었으며, 환시를 호소했다. 이 환자의 진단과 초기 평가를 위해 가장 중요한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "뇌 MRI",
+    "B": "뇌파검사",
+    "C": "소변 독성 선별검사",
+    "D": "간 기능 검사 및 전해질 검사",
+    "E": "혈중 알코올 농도"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 알코올 금단 증후군(alcohol withdrawal syndrome)의 전형적인 증상을 보이고 있습니다. 장기간의 과도한 음주 후 갑작스러운 중단으로 인해 떨림, 발한, 불안, 빈맥, 고혈압, 오심 등의 금단 증상이 나타납니다. 환시와 지남력 저하는 알코올 금단 섬망(delirium tremens)으로 진행될 수 있는 위험 신호입니다. 이 환자는 만성 B형 간염과 알코올성 간염의 과거력이 있어 간 기능 이상의 위험이 매우 높습니다. 알코올 금단 환자에서는 전해질 불균형, 특히 저마그네슘혈증, 저칼슘혈증, 저인산혈증 등이 흔히 발생하며, 이는 금단 발작의 위험을 증가시킬 수 있습니다. 따라서 간 기능 검사와 전해질 검사는 이 환자의 초기 평가와 적절한 치료 계획 수립에 가장 중요합니다. 뇌 MRI는 알코올 금단 증후군의 진단에 일반적으로 필요하지 않으며, 다른 중추신경계 질환이 의심될 때 고려할 수 있습니다. 뇌파검사는 발작 활동의 평가에 도움이 될 수 있지만, 초기 평가에서는 우선순위가 낮습니다. 소변 독성 선별검사는 다른 물질 남용이 의심될 때 유용하지만, 이 환자는 명확한 알코올 의존과 금단의 병력을 가지고 있습니다. 혈중 알코올 농도는 급성 알코올 중독의 평가에 중요하지만, 이 환자는 이미 음주를 중단한 상태로 금단 증상을 보이고 있어 진단적 가치가 제한적입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "In alcohol withdrawal syndrome, laboratory tests should include a complete blood count, liver function tests, pancreatic enzymes, electrolytes (including magnesium, phosphate, and calcium), blood urea nitrogen, creatinine, and urinalysis. These tests are important because chronic alcohol use can cause liver disease, pancreatitis, electrolyte imbalances, and bone marrow suppression. Patients with severe alcohol withdrawal, especially those with delirium tremens, are at risk for significant fluid and electrolyte abnormalities. Hypomagnesemia, hypophosphatemia, and hypocalcemia are common and may increase the risk of withdrawal seizures. Management of these abnormalities is an essential component of treating alcohol withdrawal."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 233,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게 원인물질에 따른 적합한 초기 치료 계획을 수립하고 장기적인 해결 방법을 제시할 수 있다.",
+  "question": "27세 남자가 의식 저하로 응급실에 내원하였다. 환자의 여자친구에 따르면 환자는 약 1시간 전 약물을 주사한 후 호흡이 느려지고 반응이 둔해져 119를 불렀다고 한다. 과거력상 환자는 3년 전부터 헤로인을 사용해왔으며, 몇 차례 단약을 시도했으나 실패했다고 한다. 신체 검진에서 환자는 의식이 저하되어 있었고, 동공이 핀홀처럼 축소되어 있었다. 호흡수는 6회/분으로 감소되어 있었고, 산소포화도는 88%였다. 활력 징후는 혈압 100/60 mmHg, 맥박 55회/분, 체온 36.2°C였다. 이 환자의 초기 응급 처치로 가장 적절한 것은?",
+  "exam": "",
+  "options": {
+    "A": "플루마제닐(flumazenil) 정맥 투여",
+    "B": "날록손(naloxone) 정맥 투여",
+    "C": "활성탄 경구 투여",
+    "D": "디아제팜(diazepam) 정맥 투여",
+    "E": "할로페리돌(haloperidol) 근육 주사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 오피오이드(헤로인) 과다 복용의 전형적인 증상을 보이고 있습니다. 오피오이드 과다 복용의 특징은 의식 저하, 동공 축소(miosis), 호흡 억제의 3가지 주요 증상(opioid triad)입니다. 이 환자는 헤로인 투여 후 호흡수 감소(6회/분), 산소포화도 저하(88%), 서맥(55회/분), 저혈압(100/60 mmHg)과 같은 생명을 위협하는 증상을 보이고 있습니다. 날록손(naloxone)은 오피오이드 길항제로, 오피오이드 수용체에 경쟁적으로 결합하여 과다 복용의 효과를 빠르게 역전시킵니다. 따라서 의심되는 오피오이드 과다 복용 환자에서 호흡 억제와 의식 저하가 있는 경우 날록손의 즉각적인 투여가 필요합니다. 플루마제닐(flumazenil)은 벤조디아제핀 길항제로, 벤조디아제핀 과다 복용에 사용되지만 이 환자의 증상은 오피오이드 과다 복용에 합당합니다. 활성탄은 경구 약물 중독에서 위장관 내 약물 흡수를 감소시키는 데 도움이 될 수 있지만, 이미 주사된 헤로인에는 효과가 없습니다. 디아제팜(diazepam)은 벤조디아제핀으로 알코올이나 벤조디아제핀 금단 증상, 발작 조절에 사용되지만, 오피오이드 과다 복용 환자에서는 호흡 억제를 더 악화시킬 수 있습니다. 할로페리돌(haloperidol)은 항정신병 약물로 정신병적 증상이나 섬망 조절에 사용되지만, 오피오이드 과다 복용의 치료와는 관련이 없습니다.",
+  "source": {
+    "file_name": "Tintinalli's Emergency Medicine",
+    "content": "The classic presentation of opioid overdose includes the triad of central nervous system depression, respiratory depression, and miosis (pinpoint pupils). Respiratory depression is the most dangerous and potentially lethal complication. Naloxone, a pure opioid antagonist, is the antidote of choice for opioid overdose. It competitively displaces opioids from the mu receptors, reversing respiratory depression, sedation, and hypotension. The initial recommended dose is 0.4 to 2 mg IV, which can be repeated every 2 to 3 minutes as needed up to 10 mg. For patients with suspected opioid use disorder, smaller initial doses (0.1 to 0.2 mg) may be used to avoid precipitating severe withdrawal symptoms. The half-life of naloxone is 30 to 90 minutes, which is shorter than many opioids, so patients should be observed for at least 4 to 6 hours after reversal to monitor for recurrence of opioid toxicity."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 234,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게 원인물질에 따른 적합한 초기 치료 계획을 수립하고 장기적인 해결 방법을 제시할 수 있다.",
+  "question": "35세 여자가 불면, 우울감, 피로, 집중력 저하를 주소로 정신건강의학과 외래에 내원하였다. 환자는 3년 전 교통사고 후 지속되는 요통으로 코데인 함유 진통제를 처방받기 시작했으며, 점차 용량이 증가하여 현재는 처방량의 3배 이상을 복용 중이라고 한다. 최근에는 처방받은 약이 떨어지면 불안, 발한, 근육통, 설사 등의 증상이 나타나며, 여러 병원을 다니며 약을 구하고 있다고 한다. 환자는 약물 의존성을 인정하고 치료를 원하고 있다. 이 환자의 오피오이드 사용 장애(opioid use disorder)의 장기 치료로 가장 적절한 것은?",
+  "exam": "신체 검진에서 특이 소견은 없었으며, 양측 팔에 주사 흔적은 관찰되지 않았다. 소변 약물 검사에서 코데인 양성 반응을 보였다.",
+  "options": {
+    "A": "날트렉손(naltrexone) 경구 또는 주사 요법",
+    "B": "부프레노르핀(buprenorphine) 유지 요법",
+    "C": "로페라마이드(loperamide) 대체 요법",
+    "D": "프로포폴(propofol) 진정 요법",
+    "E": "플루옥세틴(fluoxetine) 항우울제 요법"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 처방받은 코데인 함유 진통제의 의존성이 발생한 오피오이드 사용 장애(opioid use disorder)의 특징적인 증상을 보이고 있습니다. 환자는 내성(약물 용량의 점진적 증가), 금단 증상(불안, 발한, 근육통, 설사), 약물 구하기 위한 행동 패턴 변화(여러 병원 방문) 등 오피오이드 의존의 전형적인 징후를 보이고 있습니다. 부프레노르핀(buprenorphine)은 부분적 오피오이드 작용제로, 오피오이드 사용 장애의 유지 치료에 효과적입니다. 부프레노르핀은 오피오이드 수용체에 부분적으로 작용하여 금단 증상을 완화하면서도 완전한 작용제들보다 호흡 억제와 같은 부작용이 적고 남용 가능성이 낮습니다. 또한 환자가 외래에서 관리할 수 있어 일상생활을 유지하며 치료할 수 있다는 장점이 있습니다. 날트렉손(naltrexone)은 오피오이드 길항제로, 완전히 단약한 환자의 재발 방지에 사용될 수 있지만, 투여 전 완전한 해독(detoxification)이 필요하며 그렇지 않으면 심한 금단 증상을 유발할 수 있어 이 환자의 초기 치료로는 적합하지 않습니다. 로페라마이드(loperamide)는 설사 치료제로 금단 증상 중 설사를 일시적으로 완화할 수 있지만, 오피오이드 사용 장애의 장기 치료법으로는 적절하지 않습니다. 프로포폴(propofol)은 마취제로 오피오이드 사용 장애의 치료와는 관련이 없으며, 오히려 남용 가능성이 있는 약물입니다. 플루옥세틴(fluoxetine)과 같은 항우울제는 동반된 우울 증상을 치료하는 데 도움이 될 수 있지만, 오피오이드 사용 장애 자체의 치료에는 효과적이지 않습니다.",
+  "source": {
+    "file_name": "American Society of Addiction Medicine Clinical Practice Guidelines",
+    "content": "Buprenorphine is a partial mu-opioid agonist that is effective for the treatment of opioid use disorder. Its partial agonist properties result in a ceiling effect on opioid receptor activity, resulting in greater safety with respect to respiratory depression and less euphoria compared to full agonists. Buprenorphine maintenance therapy has been shown to effectively reduce opioid use, retain patients in treatment, reduce cravings, and improve social function. It can be prescribed in office-based settings by qualified physicians, making it more accessible than methadone, which requires daily visits to specialized clinics. The sublingual formulation (often combined with naloxone to deter injection) is typically initiated once mild to moderate withdrawal symptoms have emerged to avoid precipitated withdrawal. Maintenance doses typically range from 8-24 mg daily, with evidence suggesting that higher maintenance doses are associated with better treatment outcomes."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 235,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 병력청취와 신체진찰을 통해서 급성중독, 금단증상, 합병증을 파악할 수 있다.",
+  "question": "32세 여자가 흥분, 환각, 불안 증상으로 응급실에 내원하였다. 환자는 파티에서 'MDMA'라는 약물을 복용했다고 한다. 내원 당시 환자는 과다하게 발한하고 있었으며, 동공이 확대되어 있었다. 활력징후는 혈압 160/100 mmHg, 맥박 130회/분, 체온 39.2°C, 호흡수 25회/분이었다. 신경학적 검사에서 환자는 혼동 상태였으며, 입 주변의 근육 경련과 턱 경직이 관찰되었다. 이 환자에서 가장 우려되는 합병증은?",
+  "exam": "혈액 검사에서 나트륨 128 mEq/L, 크레아티닌 1.8 mg/dL, CK 4,500 U/L로 증가되어 있었다.",
+  "options": {
+    "A": "세로토닌 증후군",
+    "B": "알코올 금단 섬망",
+    "C": "신경이완제 악성 증후군",
+    "D": "항콜린성 독성 증후군",
+    "E": "오피오이드 과다 복용"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 MDMA(3,4-메틸렌디옥시메스암페타민) 복용 후 세로토닌 증후군(serotonin syndrome)의 특징적인 증상을 보이고 있습니다. MDMA는 세로토닌의 방출을 증가시키고 재흡수를 억제하는 작용을 하여 세로토닌 증후군을 유발할 수 있습니다. 세로토닌 증후군의 특징은 정신상태 변화(혼동, 흥분), 자율신경계 과활성화(고열, 빈맥, 발한), 신경근육 이상(근육 경직, 간대성 근경련, 반사 항진)의 세 가지 영역에서의 증상입니다. 이 환자는 고열(39.2°C), 빈맥(130회/분), 고혈압(160/100 mmHg), 발한, 동공 확대, 혼동 상태, 입 주변의 근육 경련과 턱 경직 등 세로토닌 증후군의 모든 영역에서 증상을 보이고 있습니다. 또한 혈액 검사에서 저나트륨혈증(128 mEq/L)은 MDMA 사용과 관련된 부적절한 항이뇨 호르몬 분비 증후군(SIADH)에 의해 발생할 수 있으며, 크레아티닌 상승(1.8 mg/dL)과 CK 상승(4,500 U/L)은 횡문근융해증을 시사합니다. 알코올 금단 섬망은 장기간의 알코올 사용 후 중단 시 발생하며, 떨림, 발한, 불안, 혼돈, 환각, 발작 등의 증상을 보이지만, 이 환자는 명확한 MDMA 복용 이력이 있습니다. 신경이완제 악성 증후군은 항정신병 약물 사용과 관련이 있으며, 근육 강직, 자율신경계 불안정, 고열, 의식 변화를 특징으로 하지만, 이 환자는 항정신병 약물 복용 이력이 없습니다. 항콜린성 독성 증후군은 항콜린성 약물 과다 복용 시 발생하며, '미친 듯한(mad as a hatter), 뜨겁고 건조한(hot as a hare), 붉은(red as a beet), 눈이 흐릿한(blind as a bat), 마른(dry as a bone)' 증상을 보이지만, 이 환자는 발한이 있어 '건조한' 증상과 맞지 않습니다. 오피오이드 과다 복용은 동공 축소, 호흡 억제, 의식 저하를 특징으로 하며, 이 환자의 동공 확대 및 자율신경계 과활성화 증상과 반대됩니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Serotonin syndrome is characterized by the triad of mental status changes, autonomic hyperactivity, and neuromuscular abnormalities. It occurs due to excessive serotonergic activity in the central nervous system, often resulting from the use of serotonergic drugs such as MDMA (3,4-methylenedioxymethamphetamine). Clinical features include altered mental status (agitation, confusion, hallucinations), autonomic dysfunction (hyperthermia, tachycardia, hypertension, diaphoresis, mydriasis), and neuromuscular abnormalities (tremor, clonus, hyperreflexia, muscle rigidity). MDMA use is also associated with hyponatremia due to inappropriate antidiuretic hormone secretion and rhabdomyolysis. Severe cases can progress to metabolic acidosis, seizures, disseminated intravascular coagulation, renal failure, and death. Treatment includes discontinuation of the offending agent, supportive care, benzodiazepines for agitation and tremor, and in severe cases, serotonin antagonists such as cyproheptadine."
+  },
+  "category": "Psychiatry"
+}, 
+{
+  "question_id": 236,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게 원인물질에 따른 적합한 초기 치료 계획을 수립하고 장기적인 해결 방법을 제시할 수 있다.",
+  "question": "55세 남자가 만성 B형 간염으로 내과를 방문하였다. 환자는 20년 이상 매일 소주 2-3병을 마셔왔으며, 과거 여러 차례 금주를 시도했으나 실패했다고 한다. 최근 복부 불편감과 부종이 있어 시행한 복부 초음파에서 간경변증 소견이 확인되었다. 간 기능 검사에서 AST 120 U/L, ALT 55 U/L, 총 빌리루빈 2.8 mg/dL, 알부민 2.8 g/dL, PT INR 1.6이었다. 환자는 금주의 필요성을 인식하고 있으나 혼자서는 어렵다고 호소한다. 이 환자의 알코올 사용 장애(alcohol use disorder) 치료를 위한 약물 요법으로 가장 적절한 것은?",
+  "exam": "Child-Pugh 점수는 9점(class B)이었다. 혈액 검사에서 혈소판 85,000/μL, 크레아티닌 1.2 mg/dL였다.",
+  "options": {
+    "A": "디설피람(disulfiram)",
+    "B": "날트렉손(naltrexone)",
+    "C": "아캄프로세이트(acamprosate)",
+    "D": "바클로펜(baclofen)",
+    "E": "토피라메이트(topiramate)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 장기간의 알코올 사용으로 인한 간경변증이 있는 알코올 사용 장애 환자입니다. 간경변증은 Child-Pugh class B로 중등도의 간기능 저하를 나타냅니다(총 빌리루빈 2.8 mg/dL, 알부민 2.8 g/dL, PT INR 1.6). 이러한 간기능 저하가 있는 알코올 사용 장애 환자에서 약물 치료를 선택할 때는 간 대사 및 간독성 위험을 고려해야 합니다. 바클로펜(baclofen)은 감마-아미노부티르산-B(GABA-B) 수용체 작용제로, 알코올 갈망과 섭취를 감소시키는 효과가 있습니다. 중요한 것은 바클로펜이 주로 신장을 통해 배설되고 간 대사를 거의 거치지 않아 간경변증 환자에게 안전하게 사용할 수 있다는 점입니다. 여러 연구에서 바클로펜은 간경변증이 있는 알코올 사용 장애 환자에서 효과적이고 안전한 것으로 나타났습니다. 디설피람(disulfiram)은 알데히드 탈수소효소를 억제하여 알코올 대사 중간산물인 아세트알데히드가 축적되게 합니다. 이로 인해 알코올 섭취 시 홍조, 오심, 구토, 두통 등의 불쾌한 반응이 나타나 음주를 억제하는 효과가 있습니다. 그러나 디설피람은 간에서 대사되며 간독성의 위험이 있어 간질환 환자에게는 금기입니다. 날트렉손(naltrexone)은 오피오이드 수용체 길항제로, 알코올의 보상 효과를 감소시켜 음주 욕구를 줄이는 효과가 있습니다. 그러나 날트렉손은 간에서 대사되며, 고용량에서는 간독성의 위험이 있어 간기능이 저하된 환자(특히 Child-Pugh class B/C)에서는 주의가 필요합니다. 아캄프로세이트(acamprosate)는 글루타메이트 시스템을 조절하여 금주 유지에 도움이 됩니다. 주로 신장으로 배설되어 간질환 환자에게 비교적 안전하지만, 이 환자와 같이 크레아티닌이 상승(1.2 mg/dL)한 경우 용량 조절이 필요하며, 간경변증 환자에서의 효과에 대한 증거는 제한적입니다. 토피라메이트(topiramate)는 항경련제로, 알코올 사용 장애 치료에 off-label로 사용될 수 있습니다. 간 대사가 최소로 이루어져 간질환 환자에게 비교적 안전할 수 있으나, 중증 간질환 환자에서의 사용에 대한 충분한 연구가 없습니다.",
+  "source": {
+    "file_name": "Lancet Gastroenterology & Hepatology",
+    "content": "For patients with alcohol use disorder and significant liver disease, medication selection must carefully consider hepatic metabolism and potential hepatotoxicity. Baclofen, a GABA-B receptor agonist, has emerged as a preferred option for patients with alcoholic liver disease, particularly those with cirrhosis. Unlike other medications used for alcohol use disorder, baclofen undergoes minimal hepatic metabolism with approximately 85% of the drug excreted unchanged in urine, making it particularly suitable for patients with hepatic impairment. Several randomized controlled trials have demonstrated baclofen's efficacy in promoting abstinence and reducing alcohol craving in patients with liver cirrhosis. The recommended starting dose is 5 mg three times daily, with gradual titration up to 10-25 mg three times daily based on clinical response and tolerability. Disulfiram is contraindicated in patients with significant liver disease due to potential hepatotoxicity. Naltrexone undergoes extensive hepatic metabolism and may cause hepatocellular injury at higher doses, requiring caution in patients with liver disease. While acamprosate is primarily eliminated renally and might be considered in patients with stable liver disease, evidence for its efficacy specifically in cirrhotic patients is limited."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 237,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "19세 여자가 구토와 복통을 주소로 응급실에 내원하였다. 환자는 전날 밤 친구들과 클럽에서 술을 마셨으며, 아침에 일어났을 때 심한 구토와 상복부 통증이 시작되었다고 한다. 환자는 평소 음주량이 많지 않으며, 최근 시험 스트레스로 식사를 제대로 하지 못했다고 한다. 신체 검진에서 상복부 압통이 있었으며, 활력징후는 혈압 110/70 mmHg, 맥박 100회/분, 호흡수 18회/분, 체온 36.8°C였다. 이 환자에서 시행해야 할 가장 중요한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "혈중 알코올 농도 측정",
+    "B": "복부 초음파 검사",
+    "C": "혈당, 전해질, 혈중 케톤 측정",
+    "D": "간 기능 검사",
+    "E": "소변 독성 선별검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 음주 후 발생한 구토와 복통을 호소하고 있으며, 최근 식사를 제대로 하지 못했다는 병력이 있습니다. 이는 알코올성 케톤산증(alcoholic ketoacidosis, AKA)의 가능성을 시사합니다. 알코올성 케톤산증은 알코올 섭취 후 금식 상태에서 발생하는 대사성 산증으로, 음주 후 구토, 복통, 식욕부진과 같은 증상으로 나타납니다. 알코올 자체와 금식으로 인한 인슐린 분비 감소, 글루카곤과 같은 길항 호르몬의 증가는 지방 분해를 촉진하고 케톤체 생성을 증가시킵니다. 따라서 이 환자에서는 혈당, 전해질, 혈중 케톤 측정이 가장 중요한 검사입니다. 알코올성 케톤산증 환자는 저혈당 또는 정상 혈당, 대사성 산증, 혈중 케톤체 증가, 전해질 불균형(특히 저칼륨혈증, 저마그네슘혈증, 저인산혈증)을 보일 수 있습니다. 혈중 알코올 농도 측정은 급성 알코올 중독의 진단에 도움이 될 수 있지만, 알코올성 케톤산증은 일반적으로 음주 후 수 시간에서 하루가 지난 시점에 발생하므로 알코올 농도가 이미 낮거나 검출되지 않을 수 있습니다. 복부 초음파 검사는 급성 담낭염, 췌장염 등 다른 복통 원인을 감별하는 데 도움이 될 수 있지만, 이 환자의 임상 양상은 알코올성 케톤산증에 더 합당합니다. 간 기능 검사는 알코올 관련 간 손상을 평가하는 데 유용하지만, 급성 대사 이상을 진단하는 데는 제한적입니다. 소변 독성 선별검사는 다른 약물 사용이 의심될 때 유용하지만, 이 환자의 증상은 알코올 섭취와 금식으로 인한 대사성 합병증에 더 부합합니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Alcoholic ketoacidosis (AKA) typically occurs in individuals with a history of chronic alcohol abuse who have had a recent episode of heavy drinking followed by reduced food intake and vomiting. The pathophysiology involves a combination of factors: alcohol-induced suppression of gluconeogenesis, depletion of glycogen stores due to poor nutritional status, increased lipolysis, and enhanced ketogenesis. Laboratory findings typically include an elevated anion gap metabolic acidosis, ketonemia (particularly beta-hydroxybutyrate), normal or low glucose levels (distinguishing it from diabetic ketoacidosis), and electrolyte abnormalities including hypokalemia, hypomagnesemia, and hypophosphatemia. Blood alcohol levels may be low or undetectable as AKA often develops during the withdrawal phase. Initial laboratory evaluation should include a comprehensive metabolic panel, measurement of ketones (particularly beta-hydroxybutyrate), arterial blood gas analysis, and serum osmolality. Management involves fluid resuscitation with dextrose-containing solutions, correction of electrolyte abnormalities, and thiamine supplementation to prevent Wernicke's encephalopathy."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 238,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게 원인물질에 따른 적합한 초기 치료 계획을 수립하고 장기적인 해결 방법을 제시할 수 있다.",
+  "question": "40세 남자가 정신건강의학과 외래에 내원하였다. 환자는 10년 이상 매일 소주 1병 이상을 마셔왔으며, 최근 아내의 권유로 금주를 결심했다고 한다. 환자는 과거 여러 차례 금주를 시도했으나, 매번 불안, 떨림, 발한 등의 증상으로 다시 음주를 시작했다고 한다. 신체 검진에서 경도의 손 떨림이 관찰되었으며, 활력징후는 정상이었다. 알코올 의존증으로 진단된 이 환자에게 금주 유지를 위한 장기적인 치료 계획으로 가장 적절한 것은?",
+  "exam": "간 기능 검사 결과 AST 65 U/L, ALT : 45 U/L, GGT 120 U/L로 경도로 상승되어 있었다.",
+  "options": {
+    "A": "인지행동치료와 날트렉손 병합요법",
+    "B": "인지행동치료와 디설피람 병합요법",
+    "C": "지지정신치료와 발프로산 병합요법",
+    "D": "정신역동치료와 카바마제핀 병합요법",
+    "E": "가족치료와 리튬 병합요법"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 장기간의 알코올 의존증으로 여러 차례 금주 시도에 실패한 경험이 있으며, 금단 증상(불안, 떨림, 발한)이 재발의 주요 원인으로 작용했습니다. 알코올 사용 장애의 효과적인 장기 치료는 약물치료와 심리사회적 개입의 병합이 가장 효과적입니다. 인지행동치료(CBT)는 알코올 사용 장애 치료에 가장 강력한 증거 기반을 가진 심리치료 접근법 중 하나입니다. CBT는 음주 행동과 관련된 사고와 감정을 확인하고 변화시켜, 고위험 상황에서의 대처 기술을 향상시키는 데 중점을 둡니다. 날트렉손(naltrexone)은 오피오이드 수용체 길항제로, 알코올의 보상 효과를 차단하여 음주 욕구와 재발 위험을 감소시킵니다. 여러 임상 시험에서 날트렉손은 재발률 감소와 금주 유지에 효과적인 것으로 나타났습니다. 특히 날트렉손은 경도의 간 기능 이상이 있는 환자에서도 비교적 안전하게 사용할 수 있습니다(단, 중증의 간질환에서는 주의 필요). 인지행동치료와 날트렉손의 병합은 각각의 단독 치료보다 더 우수한 결과를 보일 수 있어, 이 환자의 장기적인 치료 계획으로 가장 적절합니다. 디설피람(disulfiram)은 알데히드 탈수소효소를 억제하여 알코올 섭취 시 불쾌한 반응(홍조, 오심, 구토, 두통)을 유발합니다. 그러나 디설피람은 환자의 강한 동기와 약물 복용 순응도가 필요하며, 간 기능 이상이 있는 환자에서는 간독성의 위험이 있어 주의가 필요합니다. 발프로산과 카바마제핀은 항경련제로, 알코올 금단 증상 조절에 사용될 수 있으나, 장기적인 알코올 사용 장애 치료에 대한 증거는 제한적이며, 특히 발프로산은 간독성의 위험이 있습니다. 리튬은 양극성 장애 치료에 사용되는 약물로, 알코올 사용 장애 치료에 대한 효과는 입증되지 않았습니다.",
+  "source": {
+    "file_name": "American Journal of Psychiatry",
+    "content": "Combined cognitive-behavioral therapy and naltrexone represents one of the most evidence-based approaches for the long-term management of alcohol use disorder. Cognitive-behavioral therapy (CBT) focuses on identifying and modifying maladaptive thought patterns and behaviors associated with drinking, developing coping skills for high-risk situations, and enhancing motivation for change. Naltrexone, an opioid receptor antagonist, reduces alcohol craving and the rewarding effects of alcohol by blocking endorphin release, thereby decreasing the likelihood of heavy drinking and relapse. Multiple randomized controlled trials have demonstrated that the combination of CBT and naltrexone is more effective than either treatment alone, with higher rates of abstinence, fewer drinking days, and reduced heavy drinking episodes. Naltrexone is generally well-tolerated with mild side effects (nausea, headache, dizziness) and can be used in patients with mild to moderate liver function abnormalities, although serum transaminases should be monitored. The typical dosage is 50 mg daily, with treatment duration of at least 3-6 months, though longer treatment courses show continued benefit in maintaining abstinence."
+  },
+  "category": "Psychiatry"
+},
+{
+  "question_id": 239,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 병력청취와 신체진찰을 통해서 급성중독, 금단증상, 합병증을 파악할 수 있다.",
+  "question": "23세 남자가 친구들과 파티 중 갑작스러운 의식 저하로 응급실에 내원하였다. 친구들에 따르면 환자는 술과 함께 '물뽕'이라는 약물을 복용했다고 한다. 내원 당시 환자는 깊은 수면 상태였으나 강한 자극에 반응했다. 활력징후는 혈압 100/60 mmHg, 맥박 55회/분, 호흡수 10회/분, 체온 36.0°C였다. 신경학적 검사에서 동공 반응은 정상이었으며, 병적 반사는 관찰되지 않았다. 이 환자에서 가장 의심되는 약물은?",
+  "exam": "혈액 가스 분석에서 pH 7.32, PaCO2 48 mmHg, HCO3 24 mEq/L이었다. 혈액 검사에서 나트륨 138 mEq/L, 칼륨 3.8 mEq/L, 혈당 85 mg/dL이었다.",
+  "options": {
+    "A": "LSD (lysergic acid diethylamide)",
+    "B": "GHB (gamma-hydroxybutyrate)",
+    "C": "메스암페타민 (methamphetamine)",
+    "D": "마리화나 (marijuana)",
+    "E": "MDMA (3,4-methylenedioxymethamphetamine)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 GHB(gamma-hydroxybutyrate, 감마-하이드록시부티레이트) 중독의 특징적인 증상을 보이고 있습니다. GHB는 '물뽕'이라는 은어로 불리며, 클럽이나 파티에서 오락용으로 남용되는 약물입니다. GHB는 중추신경계 억제제로 GABA 수용체를 통해 작용하며, 낮은 용량에서는 다행감과 억제 감소를 유발하지만, 높은 용량에서는 깊은 진정, 의식 저하, 호흡 억제를 일으킬 수 있습니다. 이 환자는 GHB 중독의 전형적인 증상인 급격한 의식 저하, 깊은 수면 상태, 서맥(55회/분), 호흡 억제(10회/분), 경도의 저혈압(100/60 mmHg)을 보이고 있습니다. 또한 혈액 가스 분석에서 경도의 호흡성 산증(pH 7.32, PaCO2 48 mmHg)이 관찰되는데, 이는 GHB로 인한 호흡 억제의 결과로 볼 수 있습니다. GHB 중독의 중요한 특징 중 하나는 약물 효과가 빠르게 시작되고(10-15분 내) 비교적 짧게 지속(1-3시간)된다는 점입니다. 따라서 환자들은 갑자기 의식을 잃고, 수 시간 후 완전히 각성될 수 있습니다. LSD는 강력한 환각제로, 지각 변화, 환각, 기분 변화를 유발하지만, 의식 저하나 호흡 억제를 일으키지는 않습니다. 메스암페타민은 중추신경계 자극제로, 흥분, 불안, 편집증, 빈맥, 고혈압 등의 증상을 유발하여 이 환자의 임상 양상과 반대됩니다. 마리화나는 대마초의 주요 정신활성 성분인 THC(tetrahydrocannabinol)를 포함하는 약물로, 일반적으로 이완, 경미한 지각 변화, 식욕 증가 등을 유발하지만, 이 정도의 심한 의식 저하나 호흡 억제를 일으키지는 않습니다. MDMA(엑스터시)는 세로토닌, 도파민, 노르에피네프린의 방출을 증가시키는 약물로, 공감, 친밀감 증가, 에너지 증가 등을 유발합니다. MDMA는 빈맥, 고혈압, 체온 상승 등의 교감신경 활성화 증상을 일으키므로 이 환자의 서맥, 저혈압과는 일치하지 않습니다.",
+  "source": {
+    "file_name": "Annals of Emergency Medicine",
+    "content": "Gamma-hydroxybutyrate (GHB) intoxication presents with a characteristic clinical picture. Patients typically experience rapid onset of sedation, often progressing to coma within minutes of ingestion. Vital sign abnormalities include bradycardia, hypotension, and respiratory depression, with the latter potentially leading to respiratory acidosis. The classic presentation is a patient with profound central nervous system depression but with intact pupillary light reflexes and without focal neurological deficits. Most patients will spontaneously recover within 1-3 hours as GHB has a short half-life. Laboratory findings are often non-specific, though mild hypokalemia may be present. GHB is difficult to detect on routine toxicology screens and requires specialized testing. It is frequently used as a 'club drug' and has been implicated in sexual assaults due to its sedative properties, amnesia-inducing effects, and rapid clearance from the body. Management is primarily supportive, focusing on airway protection and ventilatory support if needed. Patients characteristically demonstrate a rapid recovery to full alertness without a prolonged period of partial consciousness."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 240,
+  "chief_complaint": "물질남용",
+  "purpose": "물질남용을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "34세 남자가 3일 전부터 시작된 발열, 근육통, 콧물, 설사를 주소로 응급실에 내원하였다. 환자는 과거 헤로인 중독으로 치료받은 적이 있으며, 최근 1년간 부프레노르핀-날록손 유지 요법을 받아왔으나, 1주일 전 약을 모두 소진했다고 한다. 신체 검진에서 환자는 안절부절 못하는 모습을 보였으며, 동공이 확대되어 있었고, 코에서 분비물이 흘러나왔다. 활력징후는 혈압 140/90 mmHg, 맥박 110회/분, 체온 37.8°C, 호흡수 20회/분이었다. 이 환자의 진단을 위해 가장 유용한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "흉부 X선 검사",
+    "B": "소변 또는 혈액 독성 선별검사",
+    "C": "척수액 검사",
+    "D": "혈액 배양 검사",
+    "E": "임상 평가만으로 충분하며 추가 검사는 필요하지 않다"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 오피오이드 금단 증후군(opioid withdrawal syndrome)의 전형적인 증상을 보이고 있습니다. 환자는 부프레노르핀-날록손 유지 요법을 받아오다가 1주일 전 약물이 소진된 상태로, 발열, 근육통, 콧물, 설사와 같은 금단 증상이 나타났습니다. 오피오이드 금단 증후군은 장기간 오피오이드 사용 후 갑작스러운 중단이나 감량, 또는 길항제 투여 시 발생하는 일련의 증상으로, 임상적으로 진단됩니다. 전형적인 증상으로는 불안, 안절부절못함, 발한, 동공 확대, 콧물, 눈물, 하품, 근육통, 오심, 구토, 설사, 복통, 발열 등이 있습니다. 이 환자는 이러한 금단 증상 중 동공 확대, 콧물, 발열, 근육통, 설사, 안절부절못함, 빈맥, 고혈압 등 여러 증상을 보이고 있습니다. 오피오이드 금단 증후군의 진단은 주로 임상적으로 이루어지며, 특히 명확한 오피오이드 사용 중단 이력과 특징적인 임상 증상이 있는 경우에는 추가적인 검사 없이도 진단이 가능합니다. 금단 증상의 중증도는 임상적 평가 도구인 COWS(Clinical Opiate Withdrawal Scale)를 사용하여 평가할 수 있습니다. 소변이나 혈액 독성 선별검사는 현재 약물 사용 여부를 확인하는 데 도움이 될 수 있지만, 오피오이드 금단 증후군의 진단에는 필수적이지 않습니다. 또한 이미 약물 사용을 중단한 상태라면 검사에서 음성이 나올 가능성이 높습니다. 흉부 X선 검사는 호흡기 감염이 의심될 때 유용하지만, 이 환자의 증상은 오피오이드 금단으로 인한 것으로 보입니다. 척수액 검사는 중추신경계 감염이 의심될 때 시행하며, 이 환자의 임상 양상은 수막염보다는 오피오이드 금단에 합당합니다. 혈액 배양 검사는 균혈증이 의심될 때 유용하지만, 이 환자는 패혈증의 징후(심한 빈맥, 저혈압, 의식 변화 등)를 보이지 않습니다.",
+  "source": {
+    "file_name": "American Society of Addiction Medicine Clinical Practice Guideline",
+    "content": "The diagnosis of opioid withdrawal syndrome is primarily clinical, based on a history of opioid dependence followed by reduction or discontinuation of opioid use, and the presence of characteristic signs and symptoms. The Clinical Opiate Withdrawal Scale (COWS) is a validated tool for assessing withdrawal severity, incorporating both objective and subjective symptoms including pupillary dilation, rhinorrhea, piloerection, diaphoresis, gastrointestinal distress, anxiety, restlessness, bone/joint aches, and vital sign abnormalities. For patients with a clear history of opioid dependence presenting with typical withdrawal symptoms, additional diagnostic testing beyond clinical assessment is generally unnecessary. While urine drug screening may be helpful in some cases to confirm recent opioid use or to identify other substances, it is not essential for diagnosis when the clinical presentation is characteristic. The timing and severity of withdrawal symptoms depend on the specific opioid used, with short-acting opioids like heroin producing symptoms within 8-12 hours of last use, peaking at 36-72 hours, and gradually subsiding over 7-10 days."
+  },
+  "category": "Psychiatry"
+}
+
+
+
+
+
+
+
+
+
 
 
 
