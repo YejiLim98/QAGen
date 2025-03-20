@@ -5930,11 +5930,6 @@
   "source": "Pharmacology_Katzung_textbook_data.txt: Methamphetamine toxicity presents with sympathomimetic effects including tachycardia, hypertension, hyperthermia, agitation, and psychosis. Treatment is supportive, with benzodiazepines for agitation and seizures, cooling measures for hyperthermia, and antipsychotics for severe psychosis.",
   "category": "Emergency Medicine"
 },
-  "answer": "A",
-  "explanation": "이 환자는 아편유사제 과다복용의 전형적인 증상을 보이고 있다. 환자는 의식 저하, 호흡 억제(호흡수 6회/분), 서맥(심박수 55회/분), 저혈압, 그리고 동공 수축(pinpoint pupil)을 보이고 있다. 소변 약물 검사에서 아편유사제 양성 결과가 나왔으며, 동맥혈 가스 분석에서 호흡성 산증(pH 7.25, PaCO2 60 mmHg)과 저산소증(PaO2 65 mmHg)이 관찰된다. 날록손(Naloxone)은 아편유사제 길항제로, 아편유사제 과다복용에 대한 특이적 해독제이다.",
-  "source": "Pharmacology_Katzung_textbook_data.txt: Naloxone is a pure opioid antagonist used to reverse the effects of opioid overdose. The signs of opioid overdose are pinpoint pupils, respiratory depression, and coma. Naloxone can be administered intravenously, intramuscularly, or intranasally.",
-  "category": "Emergency Medicine"
-},
 {
   "question_id": 3,
   "chief complaint": "물질남용",
