@@ -181,7 +181,7 @@
   },
   {
     "question_id": 11,
-    "chief complaint": "토혈 (hematemesis)",
+    "chief complaint": "토혈",
     "purpose": "토혈을 보이는 사람에게서 원인을 감별하고 적절한 치료를 할 수 있다.",
     "question": "60세 남성이 갑자기 피를 토한 뒤 어지러움을 느껴 응급실로 왔다. 예전부터 배가 자주 부었고, 최근 몇 달 동안 몸이 더 무거워지고 배가 단단해지는 느낌이 들었다고 한다. 평소 기억이 깜빡거리고, 가족들이 멍하게 앉아있는 일이 많다고 걱정한 적이 있었다. 병원에 도착했을 때 얼굴이 창백했고, 혈압은 85/50 mmHg, 맥박은 115회/분이었다. 이 환자의 초기 치료로 가장 적절한 것은?",
     "exam": "내시경: 식도 정맥이 확장되어 있으며, 피가 나고 있음 (red wale mark); 혈액검사: Hb 7.5 g/dL, Platelet 70,000/uL, INR 1.6, BUN 32 mg/dL, Cr 1.1 mg/dL, AST 88 U/L, ALT 43 U/L, ALP 120 U/L, Total bilirubin 4.2 mg/dL; 체온: 38.0℃; 복부 초음파: 간이 거칠게 변형된 소견, 비장이 커져 있음, 혈류가 원활하지 않음; EKG: 정상 동성 리듬",
@@ -432,7 +432,7 @@
   },
   {
     "question_id": 25,
-    "chief complaint": "33. 복부팽만/복수 (abdominal distension/ascites)",
+    "chief complaint": "복부팽만/복수",
     "purpose": "복부팽만/복수를 갖고 있는 사람에게서 병력, 신체진찰 및 검사를 통해 원인을 파악할 수 있다.",
     "question": "60세 남성이 복부 팽만과 체중 감소를 주소로 내원하였다. 이 환자의 복수 원인으로 가장 가능성이 높은 것은?",
     "exam": "혈액검사: 알부민 3.2 g/dL, AST 50 IU/L, ALT 40 IU/L; 복수 분석: SAAG 0.8 g/dL, 복수 단백질 3.5 g/dL",
@@ -450,7 +450,7 @@
   },
   {
     "question_id": 26,
-    "chief complaint": "98. 감염병 유행과 관리 (outbreak management)",
+    "chief complaint": "감염병 유행과 관리",
     "purpose": "감염병의 역학적 특성을 이해하고, 검사 결과를 바탕으로 진단과 관리 계획을 세울 수 있다.",
     "question": "45세 남성이 건강 검진에서 B형간염 바이러스 검사 결과를 확인하였다. HBsAg (-), anti-HBs (+), anti-HBc (+), HBV DNA (-) 소견을 보였다. 이 환자의 B형간염 면역 상태로 가장 적절한 것은?",
     "exam": "HBsAg (-), anti-HBs (+), anti-HBc (+), HBV DNA (-)",
