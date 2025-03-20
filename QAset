@@ -5458,5 +5458,215 @@
     "content": "Crohn's disease (CD) is a chronic inflammatory bowel disease characterized by transmural inflammation that can affect any part of the gastrointestinal tract from the mouth to the anus. Common symptoms include abdominal pain, diarrhea, weight loss, and fever. Extra-intestinal manifestations such as arthritis, uveitis, and erythema nodosum may occur in up to 25% of patients. Laboratory findings may include anemia, elevated inflammatory markers (ESR, CRP), hypoalbuminemia, and occasionally elevated liver enzymes. Endoscopic findings characteristic of CD include discontinuous involvement (skip lesions), cobblestoning, aphthous ulcerations, and longitudinal ulcers. Fever of unknown origin (FUO) can be a presenting symptom of CD, particularly when the disease primarily involves the small bowel. Approximately 10-15% of patients with CD present with FUO as their predominant symptom. In these cases, the fever may be related to the inflammatory process itself or to complications such as intra-abdominal abscesses or fistulas. The diagnosis of CD is established through a combination of clinical, laboratory, radiographic, endoscopic, and pathological findings. Differential diagnosis includes intestinal tuberculosis, lymphoma, ulcerative colitis, and various infectious enteritides."
   },
   "category": "Gastroenterology"
+}, 
+{
+  "question_id": 261,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 발작과 발작 유사증상을 구별하고, 간질을 분류할 수 있다.",
+  "question": "22세 여성이 대학교 기숙사에서 갑자기 의식을 잃고 쓰러져 구급차로 응급실에 내원하였다. 환자의 룸메이트에 따르면, 시험 기간 중 스트레스를 많이 받고 있었으며 최근 며칠간 거의 잠을 자지 못했다고 한다. 의식 소실 직전 환자는 갑자기 고개를 왼쪽으로 돌리고 눈을 깜빡이더니 양팔과 다리가 강직되었고, 이후 약 2분간 전신의 율동적인 경련이 있었다. 경련 중 환자는 혀를 깨물었고 요실금이 있었다. 응급실 도착 시 환자는 의식이 혼미하고 신경학적 검사에서 지남력이 저하되어 있었다. 응급실에서 시행한 혈액검사에서 이상 소견은 없었으며, 뇌 CT에서도 특이 소견은 보이지 않았다. 1시간 후 환자의 의식은 완전히 회복되었으나, 사건에 대한 기억은 없었다. 환자는 과거에 이와 유사한 발작이 2회 있었으나 병원을 방문하지 않았다고 한다. 가족력에서는 특이사항이 없었다. 이 환자에게 가장 적절한 진단은?",
+  "exam": "뇌파검사(EEG)에서 3Hz의 미만성 양측성 극파-서파 복합체(spike-and-wave complexes)가 관찰되었다.",
+  "options": {
+    "A": "국소 발작(focal seizure)",
+    "B": "결신 발작(absence seizure)",
+    "C": "강직-간대 발작(tonic-clonic seizure)",
+    "D": "심인성 비간질성 발작(psychogenic non-epileptic seizure)",
+    "E": "실신(syncope)"
+  },
+  "answer": "C",
+  "explanation": "이 환자의 임상 양상은 전형적인 강직-간대 발작(tonic-clonic seizure)을 시사합니다. 환자는 갑자기 의식을 잃고, 처음에는 강직(tonic) 단계가 나타났으며(고개를 왼쪽으로 돌리고 양팔과 다리가 강직됨), 이후 약 2분간 율동적인 경련(clonic) 단계가 진행되었습니다. 또한 발작 중 혀를 깨물고 요실금이 발생한 것은 강직-간대 발작의 전형적인 특징입니다. 환자가 발작 후 의식이 혼미하고(postictal confusion) 사건에 대한 기억이 없는 것(발작 후 기억상실)도 이러한 진단을 뒷받침합니다. 국소 발작은 의식 소실 없이 국소적인 신경학적 증상으로 시작될 수 있으나, 이 환자는 명확한 의식 소실과 전신 증상을 보였습니다. 결신 발작은 주로 소아에서 발생하며, 짧은 시간(수초) 동안의 의식 소실과 미세한 안면 근육 경련 또는 눈 깜빡임만 있고, 넘어지거나 요실금, 혀를 깨무는 등의 현상은 드뭅니다. 심인성 비간질성 발작은 비전형적인 운동 양상, 발작 중 눈을 감고 있거나 저항하는 모습, 정상적인 발작 후 상태 등의 특징을 보입니다. 실신은 대개 짧은 시간 동안의 의식 소실로, 경련이 있더라도 매우 짧고 대부분 회복이 빠릅니다. EEG에서 관찰된 3Hz의 미만성 양측성 극파-서파 복합체는 일반적으로 결신 발작과 관련이 있으나, 이 환자의 임상 양상은 전형적인 강직-간대 발작을 시사하므로, 강직-간대 발작이 가장 적절한 진단입니다.",
+  "source": {
+    "file_name": "Epilepsy: A Comprehensive Textbook, 2nd Edition",
+    "content": "Generalized tonic-clonic seizures (GTCS) are characterized by an abrupt loss of consciousness, followed by tonic contraction of the muscles, which causes the individual to fall if standing, and often is associated with a cry as air is forced through the contracted vocal cords. This tonic phase lasts for 10-30 seconds and is followed by a clonic phase of rhythmic muscular contractions lasting another 30-60 seconds. Tongue biting and urinary incontinence are common. Following the seizure, the patient is confused and lethargic (postictal state), and has no memory for events that occurred during the seizure."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 262,
+  "chief_complaint": "발작/간질",
+  "purpose": "간질발작이 있는 사람에게 적합한 응급치료를 할 수 있다.",
+  "question": "45세 남성이 집에서 갑자기 발생한 발작으로 응급실에 내원하였다. 환자의 아내에 따르면, 발작은 약 3분 전에 시작되었으며 여전히 지속되고 있다. 환자는 2년 전 교통사고로 인한 외상성 뇌손상 이후로 항경련제를 복용 중이었으나, 최근 약물 복용을 소홀히 했다고 한다. 현재 환자는 의식이 없고, 양측 상하지의 율동적인 경련이 지속되고 있으며, 입에서 거품이 나오고 있다. 활력 징후는 혈압 150/90 mmHg, 맥박 120회/분, 호흡수 25회/분, 체온 37.5°C이다. 이 환자에게 가장 적절한 초기 응급 처치는?",
+  "exam": "동맥혈 가스 분석: pH 7.25, PaCO2 48 mmHg, PaO2 85 mmHg, HCO3 20 mEq/L, 혈당 110 mg/dL, 나트륨 138 mEq/L, 칼륨 4.0 mEq/L, 혈중 약물 농도 검사에서 페니토인(phenytoin) 농도가 치료 범위 이하로 측정되었다.",
+  "options": {
+    "A": "즉시 기관 삽관 시행",
+    "B": "로라제팜(lorazepam) 4mg 정맥 투여",
+    "C": "레베티라세탐(levetiracetam) 경구 투여",
+    "D": "저체온 요법 시작",
+    "E": "만니톨(mannitol) 정맥 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 5분 이상 지속되는 전신성 강직-간대 발작으로, 이는 간질 지속 상태(status epilepticus)에 해당합니다. 간질 지속 상태는 즉각적인 응급 처치가 필요한 신경학적 응급상황입니다. 초기 치료의 목표는 발작을 신속히 중단시키고, 환자의 기도를 확보하며, 순환을 유지하는 것입니다. 벤조디아제핀계 약물, 특히 로라제팜(lorazepam)이나 디아제팜(diazepam)의 정맥 투여가 간질 지속 상태의 1차 치료입니다. 로라제팜은 반감기가 길고 효과가 빠르게 나타나기 때문에 선호됩니다. 성인에서 일반적으로 로라제팜 4mg을 정맥으로 투여하며, 필요시 10-15분 후 반복 투여할 수 있습니다. 기관 삽관은 발작이 지속되거나 환자의 호흡이 억제되는 경우에 고려할 수 있으나, 초기 응급 처치로서는 적절하지 않습니다. 레베티라세탐은 경구가 아닌 정맥 투여 형태로 2차 약제로 사용될 수 있으나, 현재 발작이 지속되는 상황에서는 경구 투여가 불가능하며, 초기 치료로 적절하지 않습니다. 저체온 요법은 심정지 후 뇌 손상을 예방하기 위해 사용되는 치료법으로, 간질 지속 상태의 초기 치료로는 적합하지 않습니다. 만니톨은 뇌압 상승 시 사용되는 삼투 이뇨제로, 간질 지속 상태 자체의 치료에는 사용되지 않습니다. 이 환자는 약물 복용을 소홀히 하여 발생한 간질 지속 상태로 판단되며, 로라제팜의 정맥 투여가 가장 적절한 초기 응급 처치입니다.",
+  "source": {
+    "file_name": "Emergency Medicine: A Comprehensive Study Guide, 8th Edition",
+    "content": "The first-line treatment for generalized convulsive status epilepticus is a benzodiazepine, with intravenous (IV) lorazepam being the preferred agent due to its rapid onset of action and longer duration of effect compared to diazepam. The recommended dose for adults is 4 mg IV, which can be repeated once after 10-15 minutes if seizures continue. Benzodiazepines act by enhancing the inhibitory effects of gamma-aminobutyric acid (GABA), the principal inhibitory neurotransmitter in the central nervous system. After benzodiazepine administration, a second-line antiepileptic drug should be started to provide more sustained seizure control, such as IV phenytoin, fosphenytoin, valproate, or levetiracetam."
+  },
+  "category": "Emergency Medicine"
+}, 
+{
+  "question_id": 263,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게 원인에 따른 기본적인 치료 계획을 세울 수 있다.",
+  "question": "30세 여성이 처음 발생한 발작으로 내원하였다. 환자는 임신 36주이며, 분만 전 검진을 위해 산부인과를 방문했을 때 혈압이 170/110 mmHg로 측정되어 자세한 검사를 위해 입원하였다. 입원 당일 저녁, 환자는 갑작스러운 두통과 시야 장애를 호소하였고, 이후 전신 강직-간대 발작이 발생하였다. 발작은 약 2분간 지속되었으며, 의식은 서서히 회복되었다. 신체 검진에서 하지 부종이 관찰되었고, 심부건반사는 항진되어 있었다. 혈액검사에서 혈소판 감소증과 간효소 수치 상승이 확인되었다. 24시간 소변 검사에서 단백뇨가 관찰되었다. 이 환자의 발작에 대한 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: 혈소판 80,000/μL, AST 65 U/L, ALT 70 U/L, LDH 450 U/L, 요산 8.5 mg/dL, 크레아티닌 1.2 mg/dL. 24시간 소변 단백질: 3.5 g/day. 뇌 MRI에서 후두엽 부위의 피질하 백질에 고강도 신호가 관찰되었다.",
+  "options": {
+    "A": "즉시 카바마제핀(carbamazepine) 투여 시작",
+    "B": "마그네슘 황산염(magnesium sulfate) 정맥 투여 및 분만 유도",
+    "C": "페니토인(phenytoin) 부하 용량 투여 후 유지 요법 시작",
+    "D": "발프로산(valproic acid) 투여 및 항고혈압제 조절",
+    "E": "라모트리진(lamotrigine) 점진적 용량 증량 요법 시작"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 36주의 임산부로, 고혈압, 단백뇨, 혈소판 감소증, 간효소 수치 상승, 그리고 발작이 동반된 상태로, 이는 전자간증(preeclampsia)이 자간증(eclampsia)으로 진행된 것을 강하게 시사합니다. 자간증은 전자간증 환자에서 발생하는 경련을 특징으로 하는 심각한 합병증으로, 모성 및 태아 사망률을 증가시키는 산과적 응급 상황입니다. 뇌 MRI에서 관찰된 후두엽 부위의 피질하 백질 변화는 가역적 후뇌병증 증후군(Posterior Reversible Encephalopathy Syndrome, PRES)과 일치하며, 이는 자간증에서 흔히 관찰됩니다. 자간증의 표준 치료는 마그네슘 황산염의 정맥 투여와 분만 유도입니다. 마그네슘 황산염은 발작 조절 및 예방에 효과적이며, 4-6g의 부하 용량을 정맥으로 투여한 후 1-2g/시간의 속도로 유지 요법을 시행합니다. 분만이 자간증의 근본적인 치료이므로, 환자의 상태가 안정되면 빠른 분만이 필요합니다. 카바마제핀, 페니토인, 발프로산, 라모트리진과 같은 항경련제는 일반적인 간질 치료에 사용되지만, 자간증의 발작 치료 및 예방에는 일차적으로 권장되지 않습니다. 특히, 발프로산은 임신 중 태아 기형 위험이 높아 임산부에게 금기입니다. 이 환자의 경우, 자간증으로 인한 발작에 대해 마그네슘 황산염 정맥 투여 및 분만 유도가 가장 적절한 치료 계획입니다.",
+  "source": {
+    "file_name": "Williams Obstetrics, 25th Edition",
+    "content": "Eclampsia is defined as the development of convulsions and/or unexplained coma during pregnancy or postpartum in patients with signs and symptoms of preeclampsia. It is a significant cause of maternal mortality worldwide. The mainstay of treatment for eclampsia is magnesium sulfate for seizure prophylaxis and control, along with prompt delivery once the maternal condition is stabilized. Magnesium sulfate is superior to phenytoin, diazepam, and other anticonvulsants for the prevention of recurrent eclamptic seizures. The standard regimen is a 4-6 g intravenous loading dose, followed by a maintenance infusion of 1-2 g/hour, continued for 24 hours postpartum or after the last seizure. Neuroimaging in women with eclampsia often shows transient changes consistent with posterior reversible encephalopathy syndrome (PRES), characterized by subcortical white matter edema, predominantly in the parieto-occipital regions."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 264,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 발작과 발작 유사증상을 구별하고, 간질을 분류할 수 있다.",
+  "question": "68세 남성이 집에서 TV를 시청하던 중 갑자기 의식을 잃고 쓰러져 응급실로 내원하였다. 환자의 배우자에 따르면, 환자는 갑자기 창백해지고 의식을 잃었으며, 약 10초간 팔과 다리에 가벼운 떨림이 있었고, 약 1분 후 의식을 회복하였다고 한다. 환자는 최근 3개월간 비슷한 증상이 2회 있었으며, 모두 아침에 발생했다고 한다. 과거력상 환자는 고혈압, 당뇨병, 관상동맥질환으로 약물 치료 중이다. 신체 검진에서 혈압 110/70 mmHg, 맥박 48회/분, 호흡수 18회/분, 체온 36.5°C이며, 심잡음은 청진되지 않았다. 신경학적 검사에서 특이 소견은 없었다. 이 환자의 증상을 가장 잘 설명하는 진단은?",
+  "exam": "표준 12-유도 심전도에서 2:1 방실 차단(2:1 AV block)이 관찰되었으며, 심초음파에서 좌심실 구혈률(LVEF)은 55%로 정상이었다. 뇌 MRI와 뇌파검사(EEG)는 정상이었다. 24시간 홀터 모니터링에서 최장 3.5초의 동정지(sinus pause)가 여러 차례 기록되었다.",
+  "options": {
+    "A": "결신 발작(absence seizure)",
+    "B": "국소 인지 장애 발작(focal impaired awareness seizure)",
+    "C": "심장성 실신(cardiogenic syncope)",
+    "D": "혈관 미주신경성 실신(vasovagal syncope)",
+    "E": "기립성 저혈압(orthostatic hypotension)"
+  },
+  "answer": "C",
+  "explanation": "이 환자의 임상 양상은 심장성 실신(cardiogenic syncope)을 강하게 시사합니다. 환자는 갑작스러운 의식 소실과 창백함을 보였으며, 짧은 시간(약 10초) 동안 팔과 다리에 가벼운 떨림이 있었고, 의식 회복이 빠르게(약 1분 내) 이루어졌습니다. 이러한 양상은 실신의 특징적인 소견입니다. 특히, 검사에서 2:1 방실 차단과 최장 3.5초의 동정지가 관찰된 것으로 보아 서맥성 부정맥으로 인한 심장성 실신으로 진단할 수 있습니다. 서맥성 부정맥은 심박출량 감소로 인해 뇌 관류가 일시적으로 감소하여 실신을 유발할 수 있습니다. 또한, 환자가 고혈압, 당뇨병, 관상동맥질환의 과거력이 있다는 점도 심장성 실신의 가능성을 높입니다. 발작 후 빠른 의식 회복과 함께 정상 뇌파 소견은 간질 발작보다는 실신을 더 강하게 시사합니다. 실신 중 발생하는 가벼운 떨림(convulsive syncope)은 뇌 허혈로 인한 것으로, 간질 발작의 경련과 구별해야 합니다. 결신 발작은 주로 소아에서 발생하며, 짧은 의식 소실과 가벼운 안면 경련을 특징으로 합니다. 국소 인지 장애 발작은 의식 변화와 함께 자동증이나 비정형적인 행동을 보일 수 있으나, 이 환자의 임상 양상과 검사 소견은 부합하지 않습니다. 혈관 미주신경성 실신은 통증, 공포, 장시간 서 있는 등의 유발 요인이 있으며, 전조 증상(어지러움, 발한, 구역 등)이 선행하는 경우가 많습니다. 기립성 저혈압은 자세 변화 시 발생하는 혈압 감소로 인한 실신으로, 이 환자의 증상과는 부합하지 않습니다. 따라서, 이 환자의 증상을 가장 잘 설명하는 진단은 심장성 실신입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th Edition",
+    "content": "Cardiac syncope is characterized by sudden loss of consciousness with little or no prodrome due to cerebral hypoperfusion resulting from cardiac arrhythmias or structural heart disease. Bradyarrhythmias, including sinus node dysfunction and atrioventricular (AV) block, are common causes of syncope, particularly in elderly patients. High-grade AV block can result in ventricular asystole lasting for seconds, leading to cerebral hypoperfusion and syncope. Convulsive movements during syncope, sometimes called convulsive syncope, are due to cerebral hypoxia and should not be confused with epileptic seizures. Key distinguishing features include brief duration of motor activity (usually < 15 seconds), rapid recovery of consciousness, and absence of postictal confusion. Holter monitoring may reveal periods of asystole (> 3 seconds), high-grade AV block, or significant bradycardia in patients with bradyarrhythmic syncope."
+  },
+  "category": "Cardiology"
+}, 
+{
+  "question_id": 265,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게 원인에 따른 기본적인 치료 계획을 세울 수 있다.",
+  "question": "35세 여성 환자가 6개월간 지속된 반복적인 발작으로 신경과 외래를 방문하였다. 발작은 매주 2-3회 발생하며, 갑자기 왼쪽 손이 저리고 떨리는 증상으로 시작하여 왼팔 전체로 퍼지고, 때로는 의식 소실과 전신 경련으로 진행한다고 한다. 신경학적 검사에서 특이 소견은 없었다. 뇌 MRI에서 우측 전두엽에 2.5cm 크기의 경계가 명확한 종괴가 발견되었으며, T1 강조영상에서 저신호, T2 강조영상에서 고신호 강도를 보였고, 조영증강은 되지 않았다. 뇌파검사에서 우측 전두엽에서 기원하는 간헐적인 예파가 관찰되었다. 환자는 현재 레베티라세탐(levetiracetam) 1000mg을 하루 두 번 복용 중이나 발작이 조절되지 않고 있다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: 정상. 종양표지자 검사: 정상. 추가적인 MRI 확산강조영상(DWI)에서 종괴는 확산 제한을 보이지 않았으며, MR 분광검사에서 N-acetylaspartate(NAA) 감소와 콜린(choline) 증가 소견이 관찰되었다.",
+  "options": {
+    "A": "항경련제 용량 증량 및 추가",
+    "B": "종양에 대한 방사선 치료",
+    "C": "외과적 절제술",
+    "D": "스테로이드 펄스 요법",
+    "E": "항경련제 변경(발프로산으로 교체)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 약물 치료에 반응하지 않는 난치성 간질(drug-resistant epilepsy)로, 우측 전두엽에 2.5cm 크기의 뇌종양이 원인으로 추정됩니다. 영상 소견(T1에서 저신호, T2에서 고신호, 조영증강 없음, 확산 제한 없음, NAA 감소와 콜린 증가)은 저등급 신경교종(low-grade glioma)을 시사합니다. 난치성 간질과 종양이 동반된 경우, 항경련제만으로는 발작 조절이 어려우며, 원인이 되는 종양을 제거하는 것이 근본적인 치료입니다. 특히 이 환자의 종양은 경계가 명확하고 크기가 2.5cm로 수술적 접근이 가능한 위치에 있다면, 외과적 절제술이 가장 적절한 치료입니다. 외과적 절제술은 종양 제거와 함께 발작의 원인이 되는 간질 병소(epileptogenic focus)를 함께 제거할 수 있어, 발작 조절 및 종양 관련 합병증 예방에 효과적입니다. 또한, 조직학적 진단을 통해 정확한 종양 유형을 확인하고 추가 치료 계획을 수립할 수 있습니다. 항경련제 용량 증량 및 추가는 일시적으로 발작 빈도를 줄일 수 있으나, 원인 종양이 남아있는 한 근본적인 해결책이 되지 못합니다. 방사선 치료는 수술이 불가능한 경우나 고등급 신경교종, 또는 수술 후 잔여 종양이 있는 경우에 고려되며, 일차 치료로는 적합하지 않습니다. 스테로이드 펄스 요법은 종양 주변 부종 감소에 도움이 될 수 있으나, 종양 자체를 치료하지는 못합니다. 항경련제 변경(발프로산으로 교체)도 원인 종양이 남아있는 한 근본적인 해결책이 되지 못합니다. 따라서, 이 환자에게 가장 적절한 치료 계획은 외과적 절제술입니다.",
+  "source": {
+    "file_name": "Neurosurgery: The Essential Guide to the Oral and Clinical Neurosurgical Exam",
+    "content": "In patients with drug-resistant epilepsy associated with brain tumors, surgical resection should be considered as the primary treatment modality when feasible. This approach serves dual purposes: removing the tumor and eliminating the epileptogenic focus. Low-grade gliomas frequently cause medically refractory seizures and are often well-circumscribed, making them good candidates for complete surgical resection. Studies have shown that gross total resection of the tumor along with the epileptogenic zone results in seizure freedom in 60-90% of patients, significantly higher than continued medical management alone. Surgery also provides tissue for histopathological diagnosis, guiding adjuvant treatment decisions. Antiepileptic drug therapy alone is unlikely to achieve seizure control when a structural lesion like a tumor is present, and radiotherapy is generally reserved for high-grade tumors or as adjuvant treatment following surgery."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 266,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 발작과 발작 유사증상을 구별하고, 간질을 분류할 수 있다.",
+  "question": "25세 여성이 10분 전 발생한 갑작스러운 의식 소실로 응급실에 내원하였다. 환자의 남자친구에 따르면, 식당에서 식사 중 환자가 갑자기 '배가 아프다'라고 말한 후 멍한 표정을 지었고, 약 30초간 입술을 쩝쩝거리는 행동과 함께 양손으로 옷을 만지작거리는 모습을 보였다고 한다. 발작 후 환자는 5분간 혼돈 상태를 보였으며, 당시 상황에 대한 기억이 없었다. 환자는 이전에도 유사한 증상이 3년 전부터 월 1-2회 있었으나 병원을 방문하지 않았다고 한다. 가족력에서 간질 환자는 없었다. 신체 검진과 신경학적 검사에서 특이소견은 관찰되지 않았다. 이 환자의 발작 유형으로 가장 적절한 것은?",
+  "exam": "뇌파검사(EEG)에서 우측 측두엽에서 기원하는 간헐적인 예파(intermittent sharp waves)가 관찰되었다. 뇌 MRI에서 우측 해마(hippocampus)의 경미한 위축이 발견되었다.",
+  "options": {
+    "A": "국소 운동 발작(focal motor seizure)",
+    "B": "국소 인지 장애 발작(focal impaired awareness seizure)",
+    "C": "전신 강직-간대 발작(generalized tonic-clonic seizure)",
+    "D": "결신 발작(absence seizure)",
+    "E": "근간대 발작(myoclonic seizure)"
+  },
+  "answer": "B",
+  "explanation": "이 환자의 임상 양상은 국소 인지 장애 발작(focal impaired awareness seizure, 이전에는 복합 부분 발작/complex partial seizure로 불림)을 시사합니다. 이 발작 유형은 의식 변화를 특징으로 하며, 종종 자동증(automatism)이 동반됩니다. 자동증은 입술 쩝쩝거림, 씹는 동작, 손으로 물건을 만지작거리는 등의 무의식적이고 반복적인 동작을 말합니다. 이 환자는 발작 시작 전 '배가 아프다'는 전조 증상(aura)을 호소했으며, 이는 측두엽 간질의 흔한 특징입니다. 또한 발작 후 혼돈 상태(postictal confusion)와 기억 상실(amnesia)을 보였습니다. 뇌파검사에서 우측 측두엽에서 기원하는 간헐적인 예파가 관찰되었고, 뇌 MRI에서 우측 해마의 경미한 위축이 발견된 것은 측두엽 간질의 구조적 병변을 시사합니다. 해마경화증(hippocampal sclerosis)은 측두엽 간질의 가장 흔한 구조적 원인입니다. 국소 운동 발작은 의식 변화 없이 신체 일부(주로 팔이나 다리)의 리듬성 운동 증상을 특징으로 합니다. 전신 강직-간대 발작은 의식 소실과 함께 전신의 강직 및 간대성 경련을 보이는 발작입니다. 결신 발작은 주로 소아에서 발생하며, 짧은 의식 소실과 가벼운 안면 경련이 특징이며, 발작 후 상태가 없이 즉시 정상 활동으로 돌아갑니다. 근간대 발작은 갑작스럽고 짧은 근육 수축을 특징으로 하며, 의식은 유지됩니다. 따라서, 이 환자의 발작 유형으로 가장 적절한 것은 국소 인지 장애 발작입니다.",
+  "source": {
+    "file_name": "Epilepsy: A Comprehensive Textbook, 3rd Edition",
+    "content": "Focal impaired awareness seizures (previously known as complex partial seizures) are characterized by alteration of consciousness and often include automatisms - repetitive, purposeless movements such as lip smacking, chewing, or hand fumbling. These seizures often begin with an aura, which represents a focal aware seizure before consciousness is impaired. In temporal lobe epilepsy, common auras include rising epigastric sensations, emotional symptoms (fear, anxiety), or olfactory hallucinations. Postictal confusion and amnesia for the event are typical. Electroencephalography (EEG) may show interictal epileptiform discharges (sharp waves or spikes) over the temporal regions, and magnetic resonance imaging (MRI) may reveal hippocampal sclerosis, which is the most common structural abnormality associated with temporal lobe epilepsy."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 267,
+  "chief_complaint": "발작/간질",
+  "purpose": "간질발작이 있는 사람에게 적합한 응급치료를 할 수 있다.",
+  "question": "28세 임신 32주 여성이 갑작스러운 발작으로 응급실에 내원하였다. 환자는 내원 1시간 전 집에서 TV를 시청하던 중 갑자기 의식을 잃고 전신 강직-간대 발작을 보였으며, 발작은 약 3분간 지속되었다고 한다. 환자는 6년 전 간질 진단을 받고 라모트리진(lamotrigine)을 복용 중이었으나, 최근 입덧이 심해 약물 복용을 제대로 하지 못했다고 한다. 응급실 도착 직후 두 번째 발작이 발생하였고, 디아제팜(diazepam) 10mg 정맥 투여 후 발작은 중단되었다. 현재 활력징후는 혈압 110/70 mmHg, 맥박 95회/분, 호흡수 18회/분, 체온 36.8°C이다. 신경학적 검사에서 의식은 명료하며, 특이 소견은 관찰되지 않았다. 태아 심음은 정상이다. 이 환자의 지속적인 발작 조절을 위한 가장 적절한 다음 치료 단계는?",
+  "exam": "혈액검사: Hb 11.0 g/dL, WBC 9,000/mm³, Plt 230,000/mm³, Na 138 mEq/L, K 4.0 mEq/L, Cl 105 mEq/L, 혈당 85 mg/dL, BUN 12 mg/dL, Cr 0.7 mg/dL, AST 25 IU/L, ALT 20 IU/L. 라모트리진 혈중 농도: 2 μg/mL (치료 범위: 3-14 μg/mL). 뇌 CT 스캔: 정상 소견.",
+  "options": {
+    "A": "페니토인(phenytoin) 정맥 투여",
+    "B": "발프로산(valproic acid) 정맥 투여",
+    "C": "레베티라세탐(levetiracetam) 정맥 투여",
+    "D": "페노바르비탈(phenobarbital) 정맥 투여",
+    "E": "마그네슘 황산염(magnesium sulfate) 정맥 투여"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 임신 32주의 임산부로, 기존에 간질로 진단받고 라모트리진을 복용 중이었으나 약물 복용이 불규칙하여 발생한 발작으로 판단됩니다. 혈중 라모트리진 농도가 치료 범위 이하로 측정된 것이 이를 뒷받침합니다. 임산부에서 발작 조절을 위한 항경련제 선택 시에는 태아 안전성을 고려해야 합니다. 레베티라세탐은 임신 중 사용이 상대적으로 안전한 것으로 알려져 있으며, 태아 기형 위험이 낮고, 약동학적 특성이 안정적이어서 임산부의 발작 조절에 적합합니다. 또한, 정맥 투여가 가능하여 급성 발작 조절에도 효과적입니다. 페니토인은 태아 기형 유발 위험이 있고(태아 페니토인 증후군), 임신 중 약동학적 변화로 인해 약물 농도 유지가 어려울 수 있습니다. 발프로산은 임신 중 금기 약물로, 신경관 결손 등 심각한 태아 기형 및 신경발달 장애 위험이 높습니다. 페노바르비탈도 태아 기형 위험이 있으며, 신생아 출혈 경향, 금단 증상 등을 유발할 수 있습니다. 마그네슘 황산염은 자간전증/자간증에서의 발작 예방 및 치료에 사용되는 약물이나, 이 환자는 자간전증/자간증의 증거가 없는 간질 환자로, 마그네슘 황산염은 적절한 치료가 아닙니다. 따라서, 이 임산부 간질 환자의 지속적인 발작 조절을 위한 가장 적절한 다음 치료 단계는 레베티라세탐 정맥 투여입니다.",
+  "source": {
+    "file_name": "Epilepsy in Pregnancy: Current Concepts and Management Strategies",
+    "content": "For acute seizure management in pregnant women with epilepsy, intravenous levetiracetam is increasingly being recognized as a first-line agent due to its favorable pharmacokinetic profile, relatively low protein binding, minimal hepatic metabolism, and most importantly, its safety profile in pregnancy. Unlike phenytoin and valproic acid, which are associated with significant teratogenic risks, or phenobarbital, which can cause neonatal withdrawal and bleeding disorders, levetiracetam has not been linked to an increased risk of major congenital malformations. Additionally, levetiracetam does not undergo significant plasma concentration changes during pregnancy, making it more reliable for seizure control. The recommended loading dose is 20-60 mg/kg IV (typically 1000-3000 mg in adults), followed by maintenance therapy. Valproic acid should be avoided during pregnancy, especially during the first trimester, due to its association with neural tube defects, cardiac malformations, and neurodevelopmental disorders including autism spectrum disorder."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 268,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게 원인에 따른 기본적인 치료 계획을 세울 수 있다.",
+  "question": "4세 남아가 고열과 발작으로 응급실에 내원하였다. 환자는 내원 당일 오전부터 39.5°C의 고열이 있었으며, 해열제를 복용한 후에도 열이 내리지 않았다고 한다. 오후에 갑자기 의식을 잃고 양측 상하지가 대칭적으로 경직되었다가 약 3분간 경련이 있었고, 이후 깨어났으나 졸려하는 상태였다. 환아의 어머니에 따르면, 2세경에도 열이 날 때 비슷한 발작이 1회 있었으나 이후 특별한 치료 없이 경과 관찰하였다고 한다. 발달력상 특이사항은 없으며, 가족력에서 간질 환자는 없었다. 신체 검진에서 인두 발적이 관찰되었고, 신경학적 검사에서는 특이 소견이 없었다. 이 환아에 대한 가장 적절한 치료 계획은?",
+  "exam": "말초혈액검사: WBC 12,000/mm³, Hb 12.5 g/dL, Plt 280,000/mm³. 혈액화학검사: 포도당 85 mg/dL, Na 138 mEq/L, K 4.0 mEq/L, Cl 105 mEq/L, Ca 9.0 mg/dL. 뇌척수액검사: 개방압력 12 cmH2O, WBC 2/mm³, 단백질 25 mg/dL, 포도당 65 mg/dL. 뇌파검사(EEG)와 뇌 MRI는 정상이었다.",
+  "options": {
+    "A": "즉시 항경련제 평생 복용 시작",
+    "B": "해열제 투여 및 경과 관찰",
+    "C": "열이 날 때만 디아제팜(diazepam) 좌약 투여",
+    "D": "항생제 정맥 투여",
+    "E": "뇌척수액 PCR 검사로 바이러스성 뇌염 확인"
+  },
+  "answer": "B",
+  "explanation": "이 환아의 임상 양상은 전형적인 열성 경련(febrile seizure)을 시사합니다. 열성 경련은 6개월에서 5세 사이의 소아에서 고열(38°C 이상)과 관련하여 발생하는 발작으로, 중추신경계 감염이나 급성 대사 장애 없이 발생합니다. 단순 열성 경련은 15분 미만 지속되고, 24시간 내에 반복되지 않으며, 전신성(generalized)인 특징을 가집니다. 이 환아는 39.5°C의 고열과 함께 약 3분간 지속된 전신성 발작을 보였으며, 인두 발적이 관찰되어 상기도 감염에 의한 발열로 추정됩니다. 또한, 뇌척수액검사, 뇌파검사, 뇌 MRI가 모두 정상으로, 중추신경계 감염이나 구조적 이상이 배제되었습니다. 단순 열성 경련의 경우, 대부분 양호한 예후를 보이며, 후기 간질 발생 위험도 매우 낮습니다. 따라서, 지속적인 항경련제 치료는 필요하지 않으며, 해열제 투여 및 경과 관찰이 가장 적절한 치료 계획입니다. 해열제(아세트아미노펜, 이부프로펜 등)는 열로 인한 불편감을 줄이기 위해 사용되나, 열성 경련 자체를 예방하는 효과는 제한적입니다. 열이 날 때만 디아제팜 좌약을 예방적으로 투여하는 방법은 일부 복합 열성 경련이나 재발 위험이 높은 환아에서 고려될 수 있으나, 단순 열성 경련의 경우 일상적인 사용은 권장되지 않습니다. 항생제 정맥 투여는 세균성 뇌수막염이 의심될 때 고려하지만, 이 환아의 뇌척수액검사는 정상으로 중추신경계 감염의 증거가 없습니다. 바이러스성 뇌염 확인을 위한 뇌척수액 PCR 검사도 뇌척수액검사가 정상이고 신경학적 이상이 없는 단순 열성 경련에서는 일반적으로 필요하지 않습니다. 결론적으로, 이 환아는 단순 열성 경련으로 진단되며, 장기적인 항경련제 치료 없이 해열제 투여 및 경과 관찰이 가장 적절한 치료 계획입니다.",
+  "source": {
+    "file_name": "Nelson Textbook of Pediatrics, 21st Edition",
+    "content": "Febrile seizures are the most common seizure disorder in childhood, affecting 2-5% of children between 6 months and 5 years of age. Simple febrile seizures are generalized, last less than 15 minutes, and do not recur within 24 hours. They are benign and self-limited events with excellent prognosis. The risk of developing epilepsy following simple febrile seizures is only slightly higher than the general population (approximately 1%). Continuous anticonvulsant prophylaxis is not recommended for children with simple febrile seizures due to potential adverse effects of the medications and the benign nature of the condition. Treatment is primarily aimed at controlling the fever with antipyretics, although there is no evidence that this prevents recurrence of seizures. Intermittent diazepam at the time of fever may be considered in selected cases with frequent or complicated febrile seizures, but is not routinely indicated in simple febrile seizures."
+  },
+  "category": "Pediatrics"
+}, 
+{
+  "question_id": 269,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게서 병력, 신체소견, 검사소견 등을 종합하여 발작과 발작 유사증상을 구별하고, 간질을 분류할 수 있다.",
+  "question": "42세 여성이 2일 전부터 시작된 의식 변화와 이상행동으로 응급실에 내원하였다. 환자의 남편에 따르면, 평소 건강하던 환자가 갑자기 기억력 저하, 혼돈, 불안 증상을 보이기 시작했으며, 내원 당일에는 입 주변의 불수의적 움직임과 함께 상지의 미세한 떨림이 반복적으로 관찰되었다고 한다. 환자는 최근 심한 두통과 발열이 있었으며, 체중이 약 5kg 감소했다고 한다. 신경학적 검사에서 환자는 시간과 장소에 대한 지남력이 저하되어 있었고, 단기 기억력이 현저히 감소되어 있었다. 신체 검진에서 특이 소견은 없었다. 이 환자에게 가장 의심되는 진단은?",
+  "exam": "뇌 MRI T2강조영상과 FLAIR 영상에서 양측 측두엽 내측(medial temporal lobe)에 고신호 강도가 관찰되었다. 뇌파검사(EEG)에서 좌측 측두엽에서 기원하는 주기적 예파 복합체(periodic sharp wave complexes)가 관찰되었다. 뇌척수액검사: 개방압력 18 cmH2O, WBC 30/mm³(림프구 우세), 단백질 70 mg/dL, 포도당 60 mg/dL.",
+  "options": {
+    "A": "뇌종양",
+    "B": "급성 허혈성 뇌졸중",
+    "C": "바이러스성 뇌염",
+    "D": "크로이츠펠트-야콥병(Creutzfeldt-Jakob disease)",
+    "E": "루푸스 뇌염(Lupus cerebritis)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 갑작스러운 의식 변화, 기억력 저하, 혼돈, 불안 증상과 함께 입 주변의 불수의적 움직임 및 상지의 미세한 떨림이 관찰되는 임상 양상을 보입니다. 이러한 증상은 바이러스성 뇌염, 특히 단순포진 바이러스 뇌염(Herpes Simplex Virus Encephalitis, HSE)을 강하게 시사합니다. 단순포진 뇌염은 가장 흔한 산발성 바이러스성 뇌염으로, 치명적일 수 있으나 조기 항바이러스 치료로 예후를 개선할 수 있습니다. 특징적인 임상 양상으로는 발열, 두통, 의식 변화, 행동 변화, 발작, 국소 신경학적 결손 등이 있으며, 특히 측두엽 기능 이상으로 인한 기억력 저하와 이상행동이 흔히 관찰됩니다. 뇌 MRI에서 양측 측두엽 내측의 신호 변화는 단순포진 뇌염의 전형적인 영상 소견입니다. 또한, 뇌파검사에서 관찰된 주기적 예파 복합체와 뇌척수액검사에서의 림프구성 다형핵구증가증, 단백질 상승도 바이러스성 뇌염에 합당합니다. 뇌종양은 일반적으로 더 서서히 진행하는 임상 경과를 보이며, MRI에서 종괴 효과(mass effect)와 조영증강이 관찰되는 경우가 많습니다. 급성 허혈성 뇌졸중은 갑작스러운 국소 신경학적 결손을 주 증상으로 하며, 일반적으로 의식 변화는 광범위한 뇌졸중이나 뇌간 침범 시에만 발생합니다. 크로이츠펠트-야콥병은 프리온 질환으로, 빠르게 진행하는 치매와 근간대경련(myoclonus)을 특징으로 하나, 발열은 일반적이지 않으며, MRI에서는 주로 기저핵과 피질에 신호 변화가 관찰됩니다. 뇌파에서는 특징적인 주기적 예파 복합체가 관찰될 수 있으나, 이 환자의 MRI 소견과는 일치하지 않습니다. 루푸스 뇌염은 전신성 홍반성 루푸스(SLE)의 중추신경계 침범으로, 다양한 신경정신과적 증상을 유발할 수 있으나, 일반적으로 다른 전신 증상(관절염, 피부 발진, 신장 침범 등)이 동반되며, 이 환자에서는 그러한 증상이 없었습니다. 따라서, 이 환자에게 가장 의심되는 진단은 바이러스성 뇌염, 특히 단순포진 바이러스 뇌염입니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th Edition",
+    "content": "Herpes simplex virus (HSV) encephalitis is the most common cause of sporadic fatal encephalitis in the United States. Clinical manifestations include fever, headache, altered consciousness, behavioral and personality changes, and focal neurological deficits. Temporal lobe involvement is classic and can lead to memory impairment, olfactory hallucinations, and complex partial seizures. MRI is the most sensitive imaging modality and typically reveals T2-weighted and FLAIR hyperintensities in the medial and inferior temporal lobes, insular cortex, and inferolateral frontal lobes, often with associated edema. These changes may be unilateral or bilateral but are typically asymmetric. CSF analysis typically reveals a lymphocytic pleocytosis (10-500 cells/μL), elevated protein (60-700 mg/dL), and normal glucose. Periodic lateralizing epileptiform discharges (PLEDs) on EEG, occurring as repetitive spike or sharp-wave complexes, may be observed in up to 80% of patients. Early diagnosis and treatment with acyclovir significantly improves survival and reduces morbidity."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 270,
+  "chief_complaint": "발작/간질",
+  "purpose": "발작이 있는 사람에게 원인에 따른 기본적인 치료 계획을 세울 수 있다.",
+  "question": "26세 여성이 투석을 받던 중 발생한 발작으로 응급실에 내원하였다. 환자는 만성 사구체신염으로 진단받고 1년 전부터 주 3회 혈액투석을 받고 있었다. 오늘 투석 시작 2시간 후, 갑자기 두통을 호소하더니 의식을 잃고 전신 강직-간대 발작을 보였다. 발작은 약 2분간 지속되었고, 의식은 서서히 회복되었다. 응급실 도착 시 환자는 의식이 명료했으나, 두통과 시력 저하를 호소하였다. 신경학적 검사에서 양안의 유두부종(papilledema)이 관찰되었다. 활력징후는 혈압 210/110 mmHg, 맥박 98회/분, 호흡수 20회/분, 체온 36.8°C였다. 이 환자의 발작에 대한 가장 적절한 치료 계획은?",
+  "exam": "혈액검사: BUN 60 mg/dL, Cr 8.5 mg/dL, Na 138 mEq/L, K 5.0 mEq/L, Ca 8.5 mg/dL, P 6.0 mg/dL. 뇌 CT 및 MRI에서 피질하 백질에 다발성 저음영 병변이 관찰되었으며, 뇌 MRA에서 혈관 협착이나 폐색 소견은 없었다.",
+  "options": {
+    "A": "페니토인(phenytoin) 정맥 투여",
+    "B": "혈압 조절 및 투석 지속",
+    "C": "마그네슘 황산염(magnesium sulfate) 정맥 투여",
+    "D": "만니톨(mannitol) 정맥 투여",
+    "E": "항바이러스제(acyclovir) 정맥 투여"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 만성 신부전으로 혈액투석 중인 환자로, 갑작스러운 혈압 상승(210/110 mmHg), 두통, 시력 저하, 유두부종, 발작과 함께 뇌 영상에서 피질하 백질에 다발성 저음영 병변이 관찰되는 소견을 보입니다. 이는 고혈압성 뇌병증(hypertensive encephalopathy) 또는 가역적 후뇌병증 증후군(Posterior Reversible Encephalopathy Syndrome, PRES)의 전형적인 임상 및 영상 소견으로, 특히 만성 신부전 환자에서 투석 중 급격한 혈압 상승으로 인해 발생할 수 있습니다. 고혈압성 뇌병증은 뇌 자동조절 기능의 한계를 넘어서는 급격한 혈압 상승으로 인해 뇌 혈관의 과관류 상태가 발생하여 혈액-뇌 장벽이 손상되고 혈관성 뇌부종이 발생하는 질환입니다. 이러한 상황에서의 치료는 혈압을 서서히 조절하는 것이 가장 중요합니다. 혈압을 너무 급격히 낮추면 뇌 관류 저하로 인한 뇌 허혈이 발생할 수 있으므로, 일반적으로 처음 1시간 내에 평균 동맥압의 20-25% 정도를 목표로 서서히 낮추는 것이 권장됩니다. 또한, 투석을 지속하여 체액 과다와 요독 상태를 교정하는 것이 필요합니다. 페니토인과 같은 항경련제는 발작 조절에 도움이 될 수 있으나, 근본 원인인 고혈압과 체액 과다를 해결하지 않으면 발작이 재발할 수 있습니다. 마그네슘 황산염은 자간증의 발작 조절에 사용되나, 이 환자의 경우 고혈압성 뇌병증에 의한 발작으로 적절한 치료가 아닙니다. 만니톨은 뇌압 상승 시 사용되는 삼투 이뇨제로, 신부전 환자에서는 체내 축적될 수 있어 사용에 주의가 필요하며, 이 환자에게는 우선적인 치료가 아닙니다. 항바이러스제는 바이러스성 뇌염의 치료에 사용되나, 이 환자의 임상 양상과 영상 소견은 바이러스성 뇌염보다는 고혈압성 뇌병증에 합당합니다. 따라서, 이 환자의 발작에 대한 가장 적절한 치료 계획은 혈압 조절 및 투석 지속입니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine, Hypertensive Encephalopathy",
+    "content": "Hypertensive encephalopathy is a clinical syndrome characterized by acute elevation in blood pressure associated with neurological symptoms such as headache, altered mental status, visual disturbances, and seizures. It is a manifestation of posterior reversible encephalopathy syndrome (PRES), a clinico-radiological entity characterized by symmetrical white matter edema predominantly affecting the posterior cerebral hemispheres. Hypertensive encephalopathy occurs when a sudden rise in blood pressure exceeds the autoregulatory capacity of the cerebral vasculature, leading to breakthrough vasodilation, endothelial injury, and vasogenic edema. In patients with chronic kidney disease, especially those undergoing dialysis, the risk of developing hypertensive encephalopathy is increased due to fluid overload, uremia, and impaired blood pressure regulation. Management focuses on gradual reduction of blood pressure to avoid cerebral hypoperfusion, with a goal of lowering mean arterial pressure by 20-25% in the first hour. Continuation of dialysis to correct fluid overload and uremia is essential. With prompt recognition and appropriate management, the clinical and radiological abnormalities are usually reversible."
+  },
+  "category": "Nephrology"
 }
 ]
