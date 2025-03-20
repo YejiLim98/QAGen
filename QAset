@@ -5248,5 +5248,215 @@
     "content": "Cerebral palsy (CP) is a group of permanent disorders of movement and posture causing activity limitation, attributed to nonprogressive disturbances in the developing brain. The motor disorders of CP are often accompanied by disturbances of sensation, perception, cognition, communication, and behavior, as well as epilepsy and secondary musculoskeletal problems. Spastic quadriplegia is the most severe form of CP, affecting all four limbs, the trunk, and often the orofacial muscles. It is frequently associated with significant developmental delay, microcephaly, and seizures. MRI is the neuroimaging study of choice in the evaluation of children with CP. MRI findings vary with the type of CP and may include periventricular leukomalacia, cortical infarcts, congenital malformations, and basal ganglia lesions. MRI abnormalities are found in about 80% of children with CP, with the highest yield in those with spastic quadriplegia."
   },
   "category": "Pediatrics"
+}, 
+{
+  "question_id": 251,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+  "question": "67세 남자 환자가 3주간 지속된 발열을 주소로 내원하였다. 환자는 기저질환으로 고혈압과 2형 당뇨병이 있으며, 2개월 전 치과 치료를 받은 이력이 있다. 발열과 함께 체중감소, 전신 쇠약감, 식욕부진을 호소하고 있다. 이학적 검사에서 체온 38.7°C, 심박수 110회/분, 혈압 115/70 mmHg, 호흡수 18회/분이었다. 심장 청진상 이완기 심잡음(grade 3/6)이 들리고, 비장 비대가 촉지되었다. 손가락 끝에 작은 출혈성 반점들이 관찰되었다.",
+  "exam": "말초혈액검사: 백혈구 12,000/μL (호중구 80%), 헤모글로빈 10.5 g/dL, 혈소판 150,000/μL\n혈액화학검사: BUN 28 mg/dL, 크레아티닌 1.5 mg/dL, AST 45 IU/L, ALT 50 IU/L\nC-반응성단백(CRP): 15 mg/dL\n적혈구침강속도(ESR): 85 mm/hr\n소변검사: 적혈구 10-15/HPF, 단백질 1+\n흉부 X선: 특이소견 없음\n3세트의 혈액배양 검사에서 2세트에서 그람양성구균이 동정되었다.",
+  "options": {
+    "A": "급성 골수성 백혈병",
+    "B": "감염성 심내막염",
+    "C": "결핵성 심낭염",
+    "D": "류마티스 관절염",
+    "E": "전신성 홍반성 루푸스"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 3주 이상 지속된 발열, 체중감소, 전신 쇠약감을 보이며, 이학적 검사에서 이완기 심잡음, 비장 비대, 출혈성 반점(Janeway 병변 또는 Osler 결절로 의심됨)이 관찰되었다. 혈액배양에서 그람양성구균이 양성으로 나온 점, 2개월 전 치과 치료를 받은 병력, 그리고 빈혈, 상승된 염증표지자(CRP, ESR), 현미경적 혈뇨 등의 소견은 감염성 심내막염을 강하게 시사한다. 감염성 심내막염의 주된 원인균은 Staphylococcus aureus와 Streptococcus viridans 등의 그람양성구균이다. Duke 진단기준에 따르면, 이 환자는 주요 기준(양성 혈액배양, 심장 내막 침범의 증거인 심잡음)과 부가 기준(발열, 혈관성 현상, 면역학적 현상, 미생물학적 증거)을 충족하여 감염성 심내막염을 진단할 수 있다. 급성 골수성 백혈병은 발열을 유발할 수 있지만, 이 환자에서는 특징적인 혈액학적 이상(심한 백혈구증가증, 순환 아세포, 심한 혈소판감소증)이 없다. 결핵성 심낭염은 흉통, 호흡곤란, 심낭 마찰음 등의 특징적인 증상이 없고, 흉부 X선에서 심비대가 보이지 않는다. 류마티스 관절염은 주로 다발성 관절염을 특징으로 하며, 이 환자에서는 관절 증상이 없다. 전신성 홍반성 루푸스는 다양한 장기 침범을 보일 수 있지만, 이 환자의 나이와 성별(고령 남성), 혈액배양 양성 결과 등은 루푸스와는 맞지 않는다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine, 20th Edition",
+    "content": "Infective endocarditis (IE) is a microbial infection of the endocardial surface of the heart. The modified Duke criteria for the diagnosis of IE require 2 major criteria, 1 major criterion and 3 minor criteria, or 5 minor criteria. Major criteria include: (1) positive blood cultures for typical microorganisms consistent with IE from two separate blood cultures, and (2) evidence of endocardial involvement documented by echocardiography. Minor criteria include: (1) predisposing heart condition or injection drug use, (2) fever ≥38.0°C, (3) vascular phenomena (major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, Janeway lesions), (4) immunologic phenomena (glomerulonephritis, Osler's nodes, Roth spots, rheumatoid factor), and (5) microbiologic evidence."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 252,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "28세 여성이 1주일 전부터 시작된 39℃의 고열, 오한, 두통을 주소로 내원하였다. 환자는 2주 전 태국 치앙마이 밀림 지역으로 배낭여행을 다녀왔으며, 모기에 여러 번 물렸다고 한다. 예방접종은 A형 간염과 장티푸스 백신만 접종하였고, 말라리아 예방약은 복용하지 않았다. 신체검진에서 체온 39.2℃, 맥박 110회/분, 혈압 100/70 mmHg, 호흡수 20회/분이었다. 공막에 황달이 관찰되었고, 복부 진찰에서 간비대와 압통이 있었다. 피부에 출혈성 반점이나 발진은 없었다.",
+  "exam": "말초혈액검사: 백혈구 3,500/μL, 헤모글로빈 10.2 g/dL, 혈소판 85,000/μL\n혈액화학검사: 총 빌리루빈 3.2 mg/dL, 직접 빌리루빈 1.8 mg/dL, AST 125 IU/L, ALT 110 IU/L, LDH 850 IU/L\n신장기능검사: BUN 30 mg/dL, 크레아티닌 1.3 mg/dL\n혈액응고검사: PT 15초(정상 11-13초), aPTT 42초(정상 28-38초)\n소변검사: 혈색소뇨 양성\n흉부 X선: 특이소견 없음",
+  "options": {
+    "A": "Wright 응집검사",
+    "B": "패혈증을 확인하기 위한 혈액배양",
+    "C": "혈액도말 검사와 신속진단검사",
+    "D": "렙토스피라증 항체검사",
+    "E": "뎅기열 PCR 및 혈청학적 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 말라리아 풍토지역인 태국 밀림 지역 여행력이 있으며, 모기에 물린 병력이 있고 말라리아 예방약을 복용하지 않았다. 갑작스런 고열, 오한, 두통, 황달, 간비대와 함께 혈액검사에서 범혈구감소증(백혈구감소, 빈혈, 혈소판감소), 간기능 이상, 신기능 이상, 응고장애, 혈색소뇨 등의 소견을 보인다. 이러한 임상양상은 중증 말라리아, 특히 열대열 말라리아(Plasmodium falciparum)를 강하게 시사한다. 말라리아 진단의 표준검사는 혈액도말 검사(후층도말과 박층도말)와 말라리아 항원을 검출하는 신속진단검사(Rapid Diagnostic Test, RDT)이다. 혈액도말 검사는 말라리아 원충의 종류와 감염 정도를 확인할 수 있으며, 신속진단검사는 민감도와 특이도가 높고 빠르게 결과를 확인할 수 있어 응급상황에서 유용하다. Wright 응집검사는 브루셀라증의 진단에 사용되는 검사로, 이 환자의 임상양상과는 맞지 않다. 혈액배양은 세균성 패혈증의 진단에 필수적이지만, 말라리아는 혈액배양에서 검출되지 않는다. 렙토스피라증은 황달, 신부전, 출혈 경향을 보일 수 있으나, 물에 노출된 병력이 중요하며 이 환자의 역학적 정보와는 일치하지 않는다. 뎅기열도 유사한 임상양상을 보일 수 있으나, 발진이 특징적이고 심한 황달과 신부전은 덜 흔하다. 이 환자의 경우 임상적으로 말라리아가 가장 의심되므로 혈액도말 검사와 신속진단검사가 가장 적절한 검사이다.",
+  "source": {
+    "file_name": "WHO Guidelines for the Treatment of Malaria, 3rd Edition",
+    "content": "The diagnosis of malaria is based on clinical suspicion and detection of parasites in the blood. Microscopic examination of Giemsa-stained thick and thin blood films remains the gold standard for diagnosis of malaria. Thick films are more sensitive in detecting malaria parasites because the blood is more concentrated, allowing for a greater volume of blood to be examined. Thin films are better for parasite species identification and quantification. Rapid diagnostic tests (RDTs) detect parasite antigens in a small amount of blood using immunochromatographic methods. Current RDTs can detect P. falciparum and non-falciparum species (mainly P. vivax) and are particularly useful in settings where good quality microscopy is not available."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 253,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "23세 여성이 40°C의 고열, 심한 두통, 구토가 발생하여 응급실에 내원하였다. 증상은 12시간 전에 갑자기 시작되었으며, 환자는 목이 뻣뻣하고 빛을 보면 눈이 아프다고 호소하였다. 환자는 3일 전부터 대학 기숙사에 거주하는 룸메이트가 유사한 증상으로 입원하였다고 한다. 신체 검진에서 체온 40.1°C, 맥박 115회/분, 혈압 95/60 mmHg, 호흡수 24회/분이었다. 의식은 명료하나 간헐적으로 지남력 장애를 보였다. 경부 강직이 뚜렷하게 관찰되었고, Kernig 징후와 Brudzinski 징후가 양성이었다. 피부에 전신적으로 자반성 발진이 관찰되었다.",
+  "exam": "말초혈액검사: 백혈구 18,000/μL (호중구 92%), 헤모글로빈 13.5 g/dL, 혈소판 180,000/μL\n혈액화학검사: BUN 18 mg/dL, 크레아티닌 0.9 mg/dL, 포도당 160 mg/dL, 젖산 3.5 mmol/L\nC-반응성단백(CRP): 25 mg/dL\n프로칼시토닌: 15 ng/mL\n요추천자: 뇌척수액 압력 상승, 혼탁한 외관, 백혈구 1,500/μL (호중구 95%), 포도당 25 mg/dL (혈청 포도당의 15%), 단백질 250 mg/dL, 그람 염색에서 그람 음성 쌍구균 관찰됨",
+  "options": {
+    "A": "세프트리악손 2g IV와 반코마이신 15-20 mg/kg IV 투여 후 뇌 MRI 시행",
+    "B": "세프트리악손 2g IV, 반코마이신 15-20 mg/kg IV, 덱사메타손 10mg IV 투여 후 혈액배양 확인",
+    "C": "아시클로버 10 mg/kg IV, 덱사메타손 10mg IV 투여 후 뇌파검사 시행",
+    "D": "세프트리악손 2g IV, 반코마이신 15-20 mg/kg IV, 덱사메타손 10mg IV, 페니실린 G 4백만 단위 IV 투여",
+    "E": "반코마이신 15-20 mg/kg IV, 메로페넴 2g IV, 아목시실린 2g IV 투여 후 뇌 CT 촬영"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 급성 발열, 두통, 경부 강직, Kernig 징후와 Brudzinski 징후 양성, 자반성 발진 등 전형적인 급성 세균성 수막염의 임상상을 보이고 있다. 특히 뇌척수액 검사에서 백혈구 증가(호중구 우세), 포도당 감소, 단백질 증가, 그람 음성 쌍구균 관찰 소견은 수막구균(Neisseria meningitidis) 수막염을 강하게 시사한다. 대학 기숙사 거주와 룸메이트의 유사 증상은 수막구균 감염의 집단 발생 가능성을 시사한다. 급성 세균성 수막염은 응급 상황으로, 진단 즉시 적절한 항생제 치료를 시작해야 한다. 경험적 항생제 요법으로는 세프트리악손과 반코마이신을 기본으로 사용하며, 환자의 나이, 동반 질환, 면역 상태, 지역사회 내성 패턴 등을 고려하여 조정한다. 특히 수막구균이 의심되는 경우 페니실린 G를 추가하는 것이 권장된다. 또한 덱사메타손을 항생제 투여 전 또는 동시에 투여하면 염증 반응을 감소시켜 신경학적 합병증을 줄일 수 있다. 따라서 이 환자에게는 세프트리악손, 반코마이신, 덱사메타손과 함께 페니실린 G를 투여하는 것이 가장 적절한 초기 치료이다. 뇌 MRI나 CT는 뇌 농양, 뇌종양, 뇌출혈 등의 감별이 필요할 때 유용하지만, 전형적인 수막염 증상과 뇌척수액 소견을 보이는 환자에서 항생제 투여를 지연시켜서는 안 된다. 아시클로버는 헤르페스 뇌염 등 바이러스성 뇌염에 사용되는 약물로, 이 환자의 임상상과는 맞지 않는다. 메로페넴은 광범위 항생제로 사용될 수 있지만, 일반적으로 1차 선택약은 아니며, 아목시실린은 리스테리아 수막염 등에 효과적이지만 이 환자의 경우 수막구균 감염이 의심되어 페니실린 G가 더 적합하다.",
+  "source": {
+    "file_name": "IDSA Guidelines for Bacterial Meningitis",
+    "content": "Empiric antimicrobial therapy should be initiated immediately after lumbar puncture is performed in patients with suspected bacterial meningitis. In adults, vancomycin plus a third-generation cephalosporin (ceftriaxone or cefotaxime) is recommended. The addition of dexamethasone (0.15 mg/kg every 6 hours for 2-4 days with the first dose administered 10-20 minutes before, or at least concomitantly with, the first dose of antimicrobial therapy) should be considered. If Neisseria meningitidis is strongly suspected based on Gram stain or epidemiologic factors, the addition of penicillin G or ampicillin is recommended for optimal coverage. For meningococcal meningitis, high-dose penicillin G (24 million units daily, divided every 4 hours) is the drug of choice if the organism is known to be susceptible."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 254,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 남자 환자가 3주 이상 지속된 발열, 체중감소, 피로감을 주소로 내원하였다. 발열은 38.3°C 이상으로 간헐적으로 나타나며, 최근 3개월간 5kg의 체중감소가 있었다. 환자는 과거력상 특이사항이 없었으며, 최근 해외여행력이나 항생제 복용력도 없었다. 신체 검사에서 체온 38.5°C, 맥박 90회/분, 혈압 120/80 mmHg였다. 촉진상 림프절 비대는 없었으며, 복부 진찰에서 간비종대 소견이 있었다. 환자는 왼쪽 상복부에 불편감을 호소하였으나 압통은 명확하지 않았다.",
+  "exam": "말초혈액검사: 백혈구 6,500/μL, 헤모글로빈 11.2 g/dL, 혈소판 350,000/μL\nESR 65 mm/hr, CRP 8.2 mg/dL\n혈액화학검사: AST 40 IU/L, ALT 45 IU/L, ALP 150 IU/L, 총빌리루빈 0.8 mg/dL\n소변검사: 정상\n흉부 X선: 정상\n복부 초음파: 비장 비대, 간내 다발성 저에코성 병변\n복부 CT: 간과 비장의 다발성 저음영 결절, 복부 대동맥 주위 림프절 비대\n3회의 혈액배양 검사와 소변배양 검사: 음성\n투베르쿨린 피부반응검사(TST): 18mm의 경결\nInterferon-Gamma Release Assay (IGRA): 양성\n간 조직생검: 건락성 괴사를 동반한 육아종성 염증",
+  "options": {
+    "A": "이소니아지드, 리팜핀, 에탐부톨, 피라진아미드의 4제 요법",
+    "B": "독시사이클린과 겐타마이신 병합요법",
+    "C": "이소니아지드와 리팜핀의 2제 요법",
+    "D": "플루코나졸 단독요법",
+    "E": "프레드니솔론과 메토트렉세이트 병합요법"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 3주 이상 지속된 불명열(Fever of Unknown Origin, FUO), A체중감소, 간비종대 소견을 보이며, 복부 영상검사에서 간과 비장의 다발성 병변, 복부 림프절 비대가 확인되었다. 또한 투베르쿨린 피부반응검사와 IGRA 검사에서 양성 소견을 보이고, 간 조직생검에서 건락성 괴사를 동반한 육아종이 확인되어 간의 결핵(간결핵) 진단에 합당하다. 간결핵은 폐외 결핵의 한 형태로, 특히 결핵 풍토지역에서 불명열의 중요한 원인 중 하나이다. 결핵의 치료는 이소니아지드, 리팜핀, 에탐부톨, 피라진아미드의 4제 요법을 초기 2개월간 시행하고, 이후 이소니아지드와 리팜핀의 2제 요법을 추가 4개월간 지속하는 것이 표준치료이다. 폐외 결핵, 특히 간결핵에서도 동일한 치료원칙이 적용된다. 독시사이클린과 겐타마이신 병합요법은 브루셀라증에 사용되는 항생제 조합으로, 이 환자의 진단과는 맞지 않는다. 이소니아지드와 리팜핀의 2제 요법은 결핵의 유지치료에 사용되나, 초기 치료로는 불충분하다. 플루코나졸은 항진균제로, 크립토코쿠스증이나 칸디다증 등의 진균 감염에 사용되며, 결핵 치료에는 효과가 없다. 프레드니솔론과 메토트렉세이트 병합요법은 자가면역 질환(예: 류마티스 관절염, 사르코이도시스 등)의 치료에 사용되나, 결핵성 질환에서는 오히려 면역억제로 인해 질병을 악화시킬 수 있다.",
+  "source": {
+    "file_name": "American Thoracic Society/CDC/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible TB Disease",
+    "content": "For patients with drug-susceptible pulmonary and extrapulmonary TB, our recommendation is to prescribe an intensive phase regimen consisting of isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months followed by a continuation phase regimen consisting of isoniazid and rifampin for 4 months. The intensive phase should consist of daily treatment for 2 months. The continuation phase should consist of daily or thrice-weekly treatment for 4 months. For patients with TB at sites where there is a high risk for disability or death, such as CNS TB, bone/joint TB, or miliary TB, extending the continuation phase from 4 to 7 months (total treatment duration of 9 months) is recommended. For hepatic TB, the same regimen used for pulmonary TB is generally effective, with treatment duration of at least 6 months."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 255,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 2개월간 지속된 발열, 체중감소, 식은땀을 주소로 내원하였다. 발열은 오후에 심해지는 양상이며 38.5°C 이상 오르고, 야간에 식은땀이 동반된다. 최근 2개월간 8kg의 체중감소가 있었다. 환자는 10년 전 폐결핵으로 치료받은 병력이 있으며, 30갑년의 흡연력이 있다. 신체검진에서 체온 38.2°C, 혈압 125/75 mmHg, 맥박 95회/분이었다. 좌측 경부에 무통성 종괴가 촉지되었고, 복부 진찰에서 비장이 촉지되었다.",
+  "exam": "말초혈액검사: 백혈구 3,800/μL, 혈색소 10.5 g/dL, 혈소판 140,000/μL\n혈액화학검사: AST 38 IU/L, ALT 42 IU/L, LDH 450 IU/L, 알칼리성 인산분해효소 280 IU/L\nESR 82 mm/hr, CRP 6.5 mg/dL\n요검사: 정상\n흉부 X선: 좌측 폐문부 비대 소견\n복부 초음파: 비장비대, 복부 다발성 림프절 비대\n3회의 혈액배양: 음성\n결핵균 특이 인터페론감마 검사(IGRA): 음성\n경부 림프절 세침흡인검사: 비정형 림프구 관찰됨",
+  "options": {
+    "A": "림프절 절제 생검",
+    "B": "골수 생검",
+    "C": "기관지내시경 검사",
+    "D": "18F-FDG PET/CT 검사",
+    "E": "척추 자기공명영상(MRI) 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 2개월 이상 지속된 불명열, 체중감소, 야간 발한, 무통성 림프절 종대, 비장비대 등의 전신 증상을 보이고 있다. 또한 말초혈액검사에서 범혈구감소증 소견과 LDH 상승, 비정형 림프구 관찰 등은 림프종, 특히 호지킨 림프종(Hodgkin lymphoma)의 가능성을 시사한다. 흉부 X선에서 관찰된 폐문부 비대는 림프종의 종격동 림프절 침범을 의미할 수 있다. 호지킨 림프종은 발열, 야간 발한, 체중감소와 같은 B 증상이 흔히 나타나며, 무통성 림프절 종대가 특징적이다. 림프종의 확진을 위해서는 조직학적 진단이 필수적이며, 림프절 절제 생검(excisional biopsy)이 가장 정확한 진단 방법이다. 세침흡인검사는 세포학적 검사만 가능하여 림프종의 아형 분류와 확진에 제한이 있으므로, 림프종이 의심되는 경우 전체 림프절을 절제하여 조직학적, 면역조직화학적, 분자유전학적 검사를 시행하는 것이 필요하다. 골수 생검은 림프종의 병기 판정에 중요하지만, 초기 진단을 위한 일차적인 검사로는 적합하지 않다. 기관지내시경 검사는 폐문부 이상이 있을 때 유용하지만, 이 환자의 경우 경부 림프절 종대가 있어 접근이 더 용이한 경부 림프절 생검이 우선된다. 18F-FDG PET/CT는 림프종의 병기 판정과 치료 반응 평가에 유용하지만, 조직학적 확진이 우선되어야 한다. 척추 MRI는 이 환자의 임상 증상과 관련성이 낮아 일차적으로 필요한 검사가 아니다.",
+  "source": {
+    "file_name": "National Comprehensive Cancer Network (NCCN) Guidelines for Hodgkin Lymphoma",
+    "content": "The diagnosis of Hodgkin lymphoma (HL) requires an adequate biopsy of an involved site, preferably an excisional lymph node biopsy. Core needle biopsy may be adequate if diagnostic, but fine-needle aspiration (FNA) is insufficient for initial diagnosis. Symptoms may include constitutional symptoms such as unexplained weight loss >10% within 6 months, unexplained fever with temperatures >38°C, and drenching night sweats. Physical findings may include painless lymphadenopathy, often presenting in the cervical, supraclavicular, or mediastinal regions. Splenomegaly and hepatomegaly may be present. Laboratory abnormalities can include anemia, lymphopenia, neutrophilia, eosinophilia, and elevated inflammatory markers such as ESR and CRP. Serum LDH may be elevated in more aggressive cases. Excisional biopsy is required for the initial diagnosis of HL, as it allows for assessment of lymph node architecture and adequate immunophenotyping, which are essential for accurate classification."
+  },
+  "category": "Hematology and Oncology"
+}, 
+{
+  "question_id": 256,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "72세 남성이 5일간 지속된 발열, 오한, 기침, 노란 가래를 주소로 응급실에 내원하였다. 고혈압과 만성 폐쇄성 폐질환으로 약물 복용 중이며, 30갑년의 흡연력이 있다. 내원 당시 체온 39.0°C, 혈압 95/60 mmHg, 맥박 115회/분, 호흡수 30회/분, 산소포화도 88%(실내 공기)였다. 의식은 명료하나 급성 병색을 보였으며, 청진상 오른쪽 폐하부에서 수포음이 들렸다. 흉부 X선에서 오른쪽 하폐야에 폐경화 소견이 관찰되었다. 혈액검사에서 백혈구 17,000/μL(호중구 85%), CRP 20 mg/dL, 프로칼시토닌 2.5 ng/mL, BUN 30 mg/dL, 크레아티닌 1.4 mg/dL, 동맥혈 가스분석에서 pH 7.30, PaO2 58 mmHg, PaCO2 48 mmHg, HCO3 22 mEq/L의 소견을 보였다. 혈액배양 검사를 시행하고 세프트리악손과 아지트로마이신으로 항생제 치료를 시작하였다. 24시간 후 혈액배양에서 그람양성구균이 검출되었으며, 최종적으로 페니실린 감수성 폐렴구균으로 확인되었다. 환자는 산소요법과 항생제 치료에도 호흡곤란이 악화되고 산소요구량이 증가하였다.",
+  "exam": "추적 흉부 X선: 폐경화의 악화 및 양측성 폐침윤\n동맥혈 가스분석(산소 5L 투여 중): pH 7.28, PaO2 55 mmHg, PaCO2 52 mmHg, HCO3 20 mEq/L\n혈액검사: 백혈구 20,000/μL, 혈소판 90,000/μL, BUN 38 mg/dL, 크레아티닌 1.8 mg/dL\n활력징후: 체온 38.5°C, 혈압 85/50 mmHg, 맥박 130회/분, 호흡수 35회/분",
+  "options": {
+    "A": "항생제를 세페핌과 레보플록사신으로 변경한다.",
+    "B": "기존 항생제를 유지하고 고유량 산소요법을 시행한다.",
+    "C": "기관 삽관 및 기계환기를 시행하고, 항생제에 반코마이신을 추가한다.",
+    "D": "기관 삽관 및 기계환기를 시행하고, 항생제를 페니실린 G로 변경한다.",
+    "E": "스테로이드를 투여하고 고유량 산소요법을 시행한다."
+  },
+  "answer": "D",
+  "explanation": "이 환자는 지역사회획득 폐렴(Community-Acquired Pneumonia, CAP)으로 진단받고 치료받던 중, 저산소혈증과 호흡부전이 악화되었으며, 새롭게 양측성 폐침윤이 발생하고 혈압이 저하되는 등 중증 패혈증 및 급성 호흡곤란 증후군(ARDS)으로의 진행을 시사하는 소견을 보이고 있다. 혈액배양에서 페니실린 감수성 폐렴구균이 확인되었으므로, 항생제를 원인균에 가장 효과적인 약제인 페니실린 G로 변경하는 것이 적절하다. 또한 환자의 임상적 악화, 심한 저산소혈증(PaO2/FiO2 < 200), 빈호흡, 고탄산혈증을 고려할 때, 기관 삽관 및 기계환기가 필요하다. 페니실린 G는 페니실린 감수성 폐렴구균 감염에 대한 가장 효과적인 항생제로, 표적 치료를 통해 항생제 스펙트럼을 좁히는 것이 내성 발생을 줄이고 치료 효과를 높일 수 있다. 세페핌과 레보플록사신으로의 항생제 변경은 원인균이 이미 확인되고 페니실린에 감수성이 있으므로 불필요하다. 기존 항생제 유지 및 고유량 산소요법만으로는 급격히 악화되는 호흡부전에 대처하기 어렵다. 반코마이신의 추가는 메티실린 내성 황색포도상구균(MRSA) 감염이 의심될 때 고려할 수 있으나, 이미 원인균이 페니실린 감수성 폐렴구균으로 확인되었으므로 불필요하다. 스테로이드는 중증 지역사회획득 폐렴에서 고려할 수 있으나, 이 환자의 경우 기계환기가 우선적으로 필요한 상황이다.",
+  "source": {
+    "file_name": "Infectious Diseases Society of America/American Thoracic Society Consensus Guidelines on the Management of Community-Acquired Pneumonia in Adults",
+    "content": "For patients with CAP who have positive blood cultures for S. pneumoniae, treatment with penicillin G, ceftriaxone, or amoxicillin is recommended, provided the isolate is susceptible to these agents. If CAP patients develop severe respiratory failure, acute respiratory distress syndrome, or septic shock, invasive mechanical ventilation should be initiated. Narrowing antibiotic therapy based on culture results (de-escalation) is recommended, as this can reduce adverse drug effects, costs, and risk of further resistance development. In patients with severe CAP, initial combination empiric therapy should be followed by pathogen-directed therapy once culture results become available. For penicillin-susceptible S. pneumoniae, high-dose penicillin G (2 million units IV every 4 hours) is the preferred agent, with ceftriaxone, cefotaxime, or amoxicillin as alternatives. Invasive mechanical ventilation should be considered in patients with progressive hypoxemia (PaO2/FiO2 < 200), respiratory acidosis (pH < 7.30), respiratory rate > 30 breaths/min, or altered mental status."
+  },
+  "category": "Pulmonology (Respiratory Medicine)"
+}, 
+{
+  "question_id": 257,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+  "question": "32세 여성이 1주일간 지속된 발열, 두통, 근육통, 오한을 주소로 내원하였다. 환자는 발열 시작 2주 전에 강원도 산간지역으로 캠핑을 다녀왔으며, 야외 활동 중 여러 차례 진드기에 물린 것을 발견했다고 한다. 내원 당시 체온 39.2°C, 혈압 110/70 mmHg, 맥박 95회/분이었다. 신체검진에서 양쪽 다리에 작은 반점상 발진이 관찰되었고, 우측 목에 검은 가피가 있는 상처가 발견되었다. 또한 일부 기억력 저하와 의식 혼미가 관찰되었다.",
+  "exam": "말초혈액검사: 백혈구 3,500/μL, 혈색소 12.0 g/dL, 혈소판 80,000/μL\n혈액화학검사: AST 120 IU/L, ALT 95 IU/L, LDH 450 IU/L, CK 580 IU/L\nC-반응성단백(CRP): 8.5 mg/dL\n응고검사: PT 14초(정상 10-13초), aPTT 45초(정상 28-38초)\n요검사: 단백질 1+, 적혈구 5-10/HPF\n뇌척수액검사: 백혈구 80/μL(림프구 우세), 단백질 80 mg/dL, 포도당 55 mg/dL\n흉부 X선 및 심전도: 정상",
+  "options": {
+    "A": "쯔쯔가무시병",
+    "B": "신증후군출혈열",
+    "C": "렙토스피라증",
+    "D": "라임병",
+    "E": "Q열"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 진드기 노출 병력, 발열, 두통, 근육통과 함께 검은 가피(eschar) 소견이 관찰되며, 혈액검사에서 백혈구감소증, 혈소판감소증, 간효소 상승, 근육효소 상승이 있고, 신경학적 증상(기억력 저하, 의식 혼미)이 동반되어 있어 쯔쯔가무시병(Scrub typhus)에 합당한 임상상을 보인다. 쯔쯔가무시병은 Orientia tsutsugamushi에 의해 발생하는 리케챠 감염증으로, 털진드기 유충에 물린 후 발생한다. 국내에서는 주로 가을철(10-11월)에 발생하며, 강원도를 포함한 산간지역이 주요 유행지역이다. 주요 임상소견으로는 고열, 두통, 근육통, 진드기 물린 자리에 생기는 특징적인 검은 가피(eschar), 발진, 림프절 종창이 있으며, 중증 감염 시 간질성 폐렴, 급성 신부전, 뇌수막염, 심근염, 파종성 혈관내응고 등이 발생할 수 있다. 이 환자의 경우 뇌척수액 검사에서 림프구성 수막염 소견이 있어 중추신경계 침범을 시사한다. 신증후군출혈열(HFRS)은 한타바이러스에 의한 감염으로, 발열, 출혈 경향, 저혈압, 급성 신부전이 특징적이나, 이 환자에서는 뚜렷한 신부전 소견이 없고 검은 가피가 있어 일치하지 않는다. 렙토스피라증은 렙토스피라균 감염으로, 물이나 젖은 토양 노출력이 중요하며, 결막 충혈, 황달, 신부전이 특징적이나, 이 환자의 증상과 맞지 않는다. 라임병은 Borrelia burgdorferi에 의한 감염으로, 특징적인 윤상 홍반(erythema migrans)이 중요한 징후이나, 이 환자에서는 관찰되지 않았다. Q열은 Coxiella burnetii에 의한 감염으로, 주로 가축 접촉을 통해 전파되며, 비정형 폐렴, 간염이 주요 증상이나, 이 환자의 임상상과는 차이가 있다.",
+  "source": {
+    "file_name": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases",
+    "content": "Scrub typhus, caused by Orientia tsutsugamushi, is transmitted by larval mites (chiggers). The disease is endemic in the Asia-Pacific region, including Korea, Japan, China, India, and northern Australia. After an incubation period of 6-21 days, patients typically present with fever, headache, myalgia, and a characteristic necrotic lesion (eschar) at the site of the chigger bite. A maculopapular rash may appear on the trunk and spread to the extremities. Laboratory findings include leukopenia (early) or leukocytosis (late), thrombocytopenia, elevated liver enzymes, and elevated creatine kinase. Complications can include interstitial pneumonia, acute respiratory distress syndrome, acute kidney injury, meningoencephalitis, myocarditis, and disseminated intravascular coagulation. The presence of eschar, though not universal, is highly suggestive of scrub typhus when observed in a patient with appropriate clinical and epidemiological features. CSF analysis in patients with CNS involvement typically shows a lymphocytic pleocytosis, elevated protein, and normal glucose, consistent with aseptic meningitis."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 258,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "40세 여성이 4주 이상 지속된 38.5℃ 이상의 발열, 전신 관절통, 근육통, 피로감을 주소로 내원하였다. 환자는 발열 외에도 탈모, 구강 궤양, 광과민성을 호소하였다. 최근 병력에서 특별한 약물 복용력이나 감염 병력은 없었으며, 해외여행력도 없었다. 신체 검진에서 체온 38.8°C, 혈압 130/85 mmHg, 맥박 95회/분이었다. 안면부에 홍반성 발진(butterfly rash)이 관찰되었고, 손가락 관절의 압통과 부종이 확인되었다. 흉부와 복부 진찰에서 특이소견은 없었다.",
+  "exam": "말초혈액검사: 백혈구 3,200/μL, 헤모글로빈 10.5 g/dL, 혈소판 110,000/μL\n혈액화학검사: BUN 22 mg/dL, 크레아티닌 1.1 mg/dL, AST 45 IU/L, ALT 50 IU/L\nC-반응성단백(CRP): 3.5 mg/dL, 적혈구침강속도(ESR): 85 mm/hr\n요검사: 단백질 2+, 적혈구 10-15/HPF\n흉부 X선: 정상\n복부 초음파: 정상\n혈액배양 검사 3회: 음성\n결핵균 특이 인터페론감마 검사(IGRA): 음성",
+  "options": {
+    "A": "항핵항체(ANA) 검사와 보체(C3, C4) 검사",
+    "B": "골수 검사",
+    "C": "정맥 혈전증에 대한 하지 도플러 초음파",
+    "D": "브르셀라증 혈청 검사",
+    "E": "전신 PET-CT 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 4주 이상 지속된 불명열과 함께 전신 관절통, 안면부 홍반성 발진(나비 모양 발진), 구강 궤양, 광과민성, 탈모 등의 증상이 있으며, 검사상 백혈구감소증, 빈혈, 혈소판감소증(범혈구감소증), 간효소 상승, 단백뇨, 현미경적 혈뇨 등의 소견을 보인다. 이러한 임상상과 검사 소견은 전신성 홍반성 루푸스(Systemic Lupus Erythematosus, SLE)를 강하게 시사한다. SLE는 다양한 장기를 침범하는 자가면역질환으로, 특히 여성에서 호발하며 불명열의 중요한 원인 중 하나이다. 항핵항체(ANA) 검사는 SLE 진단에 있어 매우 민감한 검사로, 거의 모든 SLE 환자에서 양성을 보인다. 또한 보체(C3, C4) 수치는 SLE의 질병 활성도와 관련이 있으며, 활동성 루푸스에서는 보체 소모로 인해 감소하는 경향을 보인다. 따라서 이 환자에서는 항핵항체와 보체 검사가 가장 적절한 진단적 검사이다. 추가적으로 항dsDNA 항체, 항Sm 항체, 항인지질 항체 등 다른 자가항체 검사도 고려할 수 있다. 골수 검사는 원인 불명의 혈구감소증, 혈액종양, 비정형 감염 등이 의심될 때 유용하지만, 이 환자의 임상상은 SLE에 더 합당하여 일차적으로 필요한 검사는 아니다. 정맥 혈전증에 대한 하지 도플러 초음파는 루푸스 항인지질 증후군이 의심될 때 유용할 수 있지만, 현재 환자의 주 증상이 발열과 전신 증상이므로 우선순위가 높지 않다. 브루셀라증 혈청 검사는 브루셀라 감염이 의심될 때 시행하나, 이 환자의 임상양상과 역학적 특성(감염 위험 노출력 없음)은 브루셀라증과 맞지 않는다. 전신 PET-CT 검사는 불명열의 원인으로 악성종양이나 감염, 염증성 질환의 병변을 찾는 데 유용하지만, 이 환자는 SLE를 시사하는 임상적 특징이 뚜렷하므로 일차적으로 고려할 검사는 아니다.",
+  "source": {
+    "file_name": "European League Against Rheumatism recommendations for the management of systemic lupus erythematosus",
+    "content": "Systemic lupus erythematosus (SLE) is a chronic autoimmune disease that can affect multiple organ systems. Common manifestations include fever, fatigue, arthralgia, photosensitivity, malar rash, oral ulcers, alopecia, serositis, nephritis, and hematological abnormalities. Laboratory abnormalities include leukopenia, anemia, thrombocytopenia, elevated ESR, and various autoantibodies. Fever is a common manifestation of active SLE and may be the presenting symptom in up to 50% of patients. SLE is an important cause of fever of unknown origin (FUO), particularly in young women. The diagnosis of SLE is based on clinical features and laboratory findings. Antinuclear antibody (ANA) testing is highly sensitive for SLE, with over 95% of patients testing positive. However, ANA is not specific for SLE and can be positive in other autoimmune diseases, infections, and even in some healthy individuals. Other autoantibodies, such as anti-dsDNA and anti-Sm, are more specific for SLE. Complement levels (C3, C4) are often decreased in active SLE due to consumption, and their measurement is useful for monitoring disease activity. The presence of proteinuria and/or hematuria may indicate lupus nephritis, which requires further evaluation including renal biopsy."
+  },
+  "category": "Rheumatology"
+}, 
+{
+  "question_id": 259,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "20세 남자 환자가 3일 전부터 시작된 고열, 오한, 심한 두통, 근육통, 관절통을 주소로 응급실에 내원하였다. 환자는 1주일 전 친구들과 강원도 계곡에서 수영을 하고 왔다고 한다. 내원 당시 체온 40.1°C, 혈압 90/50 mmHg, 맥박 120회/분, 호흡수 26회/분이었다. 의식은 명료하나 급성 병색을 보였고, 공막에 황달이 관찰되었다. 복부 진찰에서 우상복부 압통이 있었고, 양쪽 종아리 근육을 누를 때 심한 통증을 호소하였다. 피부에 출혈성 반점은 관찰되지 않았다.",
+  "exam": "말초혈액검사: 백혈구 15,500/μL (호중구 88%), 혈색소 14.2 g/dL, 혈소판 85,000/μL\n혈액화학검사: BUN 45 mg/dL, 크레아티닌 2.2 mg/dL, AST 120 IU/L, ALT 145 IU/L, 총 빌리루빈 3.5 mg/dL, 직접 빌리루빈 2.8 mg/dL\nC-반응성단백(CRP): 15 mg/dL\n프로칼시토닌: 2.8 ng/mL\n혈액응고검사: PT 16초(정상 11-13초), aPTT 45초(정상 28-38초)\n소변검사: 단백질 2+, 적혈구 다수, 백혈구 5-10/HPF\n흉부 X선: 정상\n복부 초음파: 경도의 간비대, 신장 크기 증가 및 에코 증가",
+  "options": {
+    "A": "독시사이클린 100mg 1일 2회 정맥투여",
+    "B": "세프트리악손 2g 1일 1회 정맥투여",
+    "C": "아시클로버 10mg/kg 8시간마다 정맥투여",
+    "D": "메로페넴 1g 8시간마다 정맥투여",
+    "E": "플루코나졸 400mg 1일 1회 정맥투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 계곡 물에 노출된 후 발생한 급성 발열, 근육통(특히 종아리 근육통), 황달, 신기능 저하 소견을 보이고 있어 렙토스피라증(Leptospirosis)을 강하게 의심할 수 있다. 렙토스피라증은 렙토스피라균(Leptospira interrogans)에 의한 인수공통감염병으로, 감염된 동물(주로 설치류)의 소변에 오염된 물이나 토양에 노출될 때 주로 발생한다. 국내에서는 여름철 물놀이 후 발생하는 경우가 많으며, 특히 장마 후 계곡물에 노출된 경우 발생 위험이 증가한다. 렙토스피라증의 주요 임상 증상으로는 급성 발열, 심한 두통, 근육통(특히 종아리 근육통이 특징적), 결막 충혈, 황달, 신부전 등이 있다. 렙토스피라증은 적절한 항생제 치료가 지연될 경우 폐출혈, 급성 신부전, 간부전, 수막염 등 심각한 합병증이 발생할 수 있으므로 조기 진단과 치료가 중요하다. 독시사이클린은 렙토스피라증의 일차 치료제로, 조기에 투여할 경우 질병의 중증도와 기간을 감소시킬 수 있다. 특히 이 환자는 신부전, 간염, 황달 등 렙토스피라증의 중증 형태인 바일병(Weil's disease)으로 진행하고 있어 즉각적인 항생제 치료가 필요하다. 세프트리악손은 렙토스피라증에도 효과가 있으나, 독시사이클린이 더 우선적으로 권장된다. 아시클로버는 헤르페스바이러스 감염 치료제로, 렙토스피라증에는 효과가 없다. 메로페넴은 광범위 항생제로 여러 감염증에 사용되나, 렙토스피라증의 일차 치료제는 아니다. 플루코나졸은 항진균제로, 렙토스피라증에는 효과가 없다.",
+  "source": {
+    "file_name": "World Health Organization, Human leptospirosis: guidance for diagnosis, surveillance and control",
+    "content": "Leptospirosis is a zoonotic disease caused by pathogenic spirochetes of the genus Leptospira. Humans become infected through direct contact with the urine of infected animals or through contact with a urine-contaminated environment, such as surface water, soil, and plants. The clinical manifestations of leptospirosis range from mild, flu-like illness to severe disease with multiple organ involvement. Severe leptospirosis, also known as Weil's disease, is characterized by jaundice, renal dysfunction, and hemorrhagic manifestations. Early antimicrobial therapy is essential in the treatment of leptospirosis, as it shortens the duration of illness and reduces the severity of symptoms. Doxycycline (100 mg orally or intravenously twice daily) is the drug of choice for mild to moderate leptospirosis. For severe leptospirosis, intravenous penicillin G (1.5 million units intravenously every 6 hours) or third-generation cephalosporins can be used, but doxycycline remains effective even in severe cases and has the advantage of covering other potential causes of acute febrile illness in endemic areas, such as rickettsial infections."
+  },
+  "category": "Infectious Diseases"
+}, 
+{
+  "question_id": 260,
+  "chief_complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+  "question": "35세 여성이 3개월 이상 지속된 38℃ 이상의 발열, 전신 쇠약감, 체중감소를 주소로 내원하였다. 환자는 최근 6개월간 10kg의 체중감소가 있었으며, 간헐적인 복통과 설사가 동반되었다. 과거력상 특이사항은 없었고, 약물 복용력이나 여행력도 없었다. 신체검진에서 체온 38.5°C, 혈압 110/70 mmHg, 맥박 90회/분이었다. 경부, 액와부, 서혜부에서 림프절은 촉지되지 않았고, 복부 진찰에서 경도의 하복부 압통이 있었으나 반발통은 없었다. 직장수지검사에서 특이소견은 없었다.",
+  "exam": "말초혈액검사: 백혈구 4,500/μL, 혈색소 9.5 g/dL(MCV 78 fL), 혈소판 350,000/μL\n혈액화학검사: 알부민 3.0 g/dL, AST 35 IU/L, ALT 32 IU/L, ALP 110 IU/L, 총 빌리루빈 0.5 mg/dL\nC-반응성단백(CRP): 5.5 mg/dL, 적혈구침강속도(ESR): 75 mm/hr\n요검사: 정상\n흉부 X선: 정상\n복부 CT: 말단 회장부와 맹장 부위의 장벽 비후, 주변 림프절 비대\n대변 잠혈검사: 양성\n3회의 혈액배양: 음성\n결핵균 특이 인터페론감마 검사(IGRA): 음성\n위장관 내시경 검사: 말단 회장부에 다발성 아프타성 궤양과 종주 궤양",
+  "options": {
+    "A": "크론병",
+    "B": "결핵성 장염",
+    "C": "궤양성 대장염",
+    "D": "림프종",
+    "E": "아메바성 대장염"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 3개월 이상 지속된 불명열, 체중감소, 간헐적 복통과 설사 등의 만성 증상을 보이며, 검사 소견에서 미세혈구성 빈혈, 저알부민혈증, 염증표지자 상승, 영상검사에서 말단 회장부와 맹장 부위의 장벽 비후, 내시경에서 말단 회장부의 다발성 아프타성 궤양과 종주 궤양 소견을 보여 크론병(Crohn's disease)에 합당한 임상상을 보인다. 크론병은 원인 불명의 만성 염증성 장질환으로, 입에서 항문까지 소화관 어느 부위에나 발생할 수 있으나 주로 회장 말단부와 대장을 침범한다. 주요 증상으로는 복통, 설사, 체중감소, 발열, 혈변 등이 있으며, 장외 증상(관절염, 홍채염, 피부병변 등)이 동반될 수 있다. 내시경적 특징으로는 아프타성 궤양, 종주 궤양, 조약돌 모양의 점막, 비연속적인 건너뛰기 병변(skip lesion) 등이 있다. 이 환자의 내시경 소견인 말단 회장부의 다발성 아프타성 궤양과 종주 궤양은 크론병의 특징적 소견이다. 결핵성 장염은 임상적으로 크론병과 유사하여 감별이 어려우나, 이 환자는 IGRA 검사 음성으로 결핵 가능성이 낮다. 궤양성 대장염은 직장부터 시작하여 근위부로 연속적으로 침범하며, 주로 대장 점막층에 국한되는 특징이 있으나, 이 환자는 말단 회장부 침범이 확인되어 궤양성 대장염과는 맞지 않는다. 림프종은 주로 림프절 종대와 B증상(발열, 체중감소, 야간 발한)을 특징으로 하며, 내시경 소견이 크론병과는 다르다. 아메바성 대장염은 주로 급성 발병하는 혈성 설사와 함께 맹장과 상행결장을 침범하는 특징이 있으며, 아메바 영양형이 검출되어야 확진할 수 있다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Clinical Guideline: Management of Crohn's Disease in Adults",
+    "content": "Crohn's disease (CD) is a chronic inflammatory bowel disease characterized by transmural inflammation that can affect any part of the gastrointestinal tract from the mouth to the anus. Common symptoms include abdominal pain, diarrhea, weight loss, and fever. Extra-intestinal manifestations such as arthritis, uveitis, and erythema nodosum may occur in up to 25% of patients. Laboratory findings may include anemia, elevated inflammatory markers (ESR, CRP), hypoalbuminemia, and occasionally elevated liver enzymes. Endoscopic findings characteristic of CD include discontinuous involvement (skip lesions), cobblestoning, aphthous ulcerations, and longitudinal ulcers. Fever of unknown origin (FUO) can be a presenting symptom of CD, particularly when the disease primarily involves the small bowel. Approximately 10-15% of patients with CD present with FUO as their predominant symptom. In these cases, the fever may be related to the inflammatory process itself or to complications such as intra-abdominal abscesses or fistulas. The diagnosis of CD is established through a combination of clinical, laboratory, radiographic, endoscopic, and pathological findings. Differential diagnosis includes intestinal tuberculosis, lymphoma, ulcerative colitis, and various infectious enteritides."
+  },
+  "category": "Gastroenterology"
 }
 ]
