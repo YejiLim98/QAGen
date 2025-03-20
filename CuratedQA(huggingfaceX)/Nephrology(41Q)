@@ -14,7 +14,8 @@
     },
     "answer": "C",
     "explanation": "FeNa가 1% 미만이며, 단백뇨와 혈뇨가 동반된 점에서 신사구체신염 가능성이 높다. 급성 신손상의 다른 원인들(예: 급성 세뇨관 괴사)은 FeNa가 2% 이상일 가능성이 높다.",
-    "source": "신장분과 전공의 진료지침.pdf, 710page, 혈뇨 및 단백뇨를 동반한 환자들의 약 1% 정도가 급성 간질성 신염이며, 최근 NSAIDs 사용 증가로 인하여 그 빈도는 더 높을 것으로 생각된다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "신장분과 전공의 진료지침.pdf, 710page, 혈뇨 및 단백뇨를 동반한 환자들의 약 1% 정도가 급성 간질성 신염이며, 최근 NSAIDs 사용 증가로 인하여 그 빈도는 더 높을 것으로 생각된다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 2,
@@ -31,7 +32,8 @@
     },
     "answer": "C",
     "explanation": "저알부민혈증, 심한 단백뇨(>3.5g/day), 부종이 동반된 경우 신증후군 가능성이 높다.",
-    "source": "신장분과 전공의 진료지침.pdf, 654page, 신증후군은 단백뇨 (> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 654page, 신증후군은 단백뇨 (> 3.5 g/day), 저알부빈혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 3,
@@ -48,7 +50,8 @@
     },
     "answer": "B",
     "explanation": "신혈관성 고혈압은 신동맥 협착에 의해 발생하며, 신장 초음파에서 크기 차이 또는 신동맥 협착이 확인될 수 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 4,
@@ -65,7 +68,8 @@
     },
     "answer": "B",
     "explanation": "원주형 적혈구는 사구체 기원의 혈뇨를 시사하며, 이는 신사구체신염의 특징적인 소견이다.",
-    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 적혈구의 크기가 상대적으로 작고 크기 분포가 균등하지 않거나, 고혈압 또는 콩팥기능 저하가 동반되는 경우는 사구체질환 또는 신장실질질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 적혈구의 크기가 상대적으로 작고 크기 분포가 균등하지 않거나, 고혈압 또는 콩팥기능 저하가 동반되는 경우는 사구체질환 또는 신장실질질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 5,
@@ -82,7 +86,8 @@
     },
     "answer": "A",
     "explanation": "요붕증은 낮은 소변 삼투압(200 mOsm/kg 이하)과 다뇨를 특징으로 한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 613page, 요붕증은 다뇨 및 다음을 특징으로 하며 항이뇨 호르몬(ADH) 분비가 결핍된 중추성 요붕증과 ADH가 정상적으로 분비되어도 신장에 작용하지 않는 신성 요붕증으로 나눈다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 613page, 요붕증은 다뇨 및 다음을 특징으로 하며 항이뇨 호르몬(ADH) 분비가 결핍된 중추성 요붕증과 ADH가 정상적으로 분비되어도 신장에 작용하지 않는 신성 요붕증으로 나눈다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 6,
@@ -99,7 +104,8 @@
     },
     "answer": "A",
     "explanation": "만성 신부전에서 단백뇨가 동반된 경우 ACE 억제제 또는 ARB가 1차 치료로 사용된다.",
-    "source": "신장분과 전공의 진료지침.pdf, 699page, 특히, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 699page, 특히, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 7,
@@ -116,7 +122,8 @@
     },
     "answer": "A",
     "explanation": "만성 신부전에서 단백뇨가 동반된 경우 ACE 억제제 또는 ARB가 1차 치료로 사용된다.",
-    "source": "신장분과 전공의 진료지침.pdf, 699page, 특히, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다."
+    "source": "신장분과 전공의 진료지침.pdf, 699page, 특히, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.",
+    "category": "Nephrology"
   },
   {
     "question_id": 8,
@@ -133,7 +140,8 @@
     },
     "answer": "B",
     "explanation": "신증후군은 심한 단백뇨(>3.5g/day), 저알부민혈증, 부종과 함께 거품 소변을 보이는 특징이 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다."
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.",
+    "category": "Nephrology"
   },
   {
     "question_id": 9,
@@ -150,12 +158,13 @@
     },
     "answer": "B",
     "explanation": "신혈관성 고혈압은 신동맥 협착에 의해 발생하며, 신장 초음파에서 크기 차이 또는 신동맥 협착이 확인될 수 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다."
+    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다.",
+    "category": "Nephrology"
   },
   {
     "question_id": 10,
     "chief complaint": "부종",
-    "purpose": "부종이 있는 사람에게서 원인을 감별진단할 수 있다.",
+    "purpose": "부종이 있는 사람에게 원인을 감별진단할 수 있다.",
     "question": "60세 남성이 3개월 전부터 진행된 하지 부종을 주소로 내원하였다. 환자는 고혈압과 당뇨병을 앓고 있으며, 최근 체중이 6kg 증가하였다. 혈압 150/95 mmHg, 혈액검사에서 BUN 35 mg/dL, Cr 2.5 mg/dL, Albumin 2.8 g/dL, Na 140 mEq/L, K 4.5 mEq/L가 확인되었다. 소변검사에서 단백뇨 4+였다. 이 환자의 가장 가능성 높은 진단은?",
     "exam": "소변검사: 단백뇨 4+",
     "options": {
@@ -167,7 +176,8 @@
     },
     "answer": "C",
     "explanation": "신증후군은 심한 단백뇨와 저알부민혈증으로 인한 전신 부종을 특징으로 한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다."
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.",
+    "category": "Nephrology"
   },
   {
     "question_id": 11,
@@ -184,7 +194,8 @@
     },
     "answer": "B",
     "explanation": "원주형 적혈구는 사구체 기원의 혈뇨를 시사하며, 이는 신사구체신염의 특징적인 소견이다.",
-    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 적혈구의 크기가 상대적으로 작고 크기 분포가 균등하지 않거나, 고혈압 또는 콩팥기능 저하가 동반되는 경우는 사구체질환 또는 신장실질질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 적혈구의 크기가 상대적으로 작고 크기 분포가 균등하지 않거나, 고혈압 또는 콩팥기능 저하가 동반되는 경우는 사구체질환 또는 신장실질질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 12,
@@ -201,7 +212,8 @@
     },
     "answer": "A",
     "explanation": "거품 소변은 신증후군에서 흔히 관찰되는 소견으로, 단백뇨(>3.5g/day), 저알부민혈증이 특징이다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 13,
@@ -218,12 +230,13 @@
     },
     "answer": "B",
     "explanation": "신혈관성 고혈압은 신장 크기의 감소와 함께 고혈압이 지속되는 특징을 가진다.",
-    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압(renovascular hypertension), 허혈성 신장 기능 이상(ischemic renal function impairment)이 있으며, 반복되는 원인 없는 급성 폐부종이 동반되기도 한다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 14,
     "chief complaint": "부종",
-    "purpose": "부종이 있는 사람에게서 원인을 감별진단할 수 있다.&#8203;:contentReference[oaicite:3]{index=3}",
+    "purpose": "부종이 있는 사람에게 원인을 감별진단할 수 있다.&#8203;:contentReference[oaicite:3]{index=3}",
     "question": "60세 남성이 3개월 전부터 진행된 하지 부종으로 내원하였다. 환자는 당뇨병과 고혈압 병력이 있으며, 최근 체중이 6kg 증가하였다. 혈압 150/95 mmHg, 혈액검사에서 BUN 35 mg/dL, Cr 2.5 mg/dL, Albumin 2.8 g/dL, Na 140 mEq/L, K 4.5 mEq/L였다. 소변검사에서 단백뇨 4+였다. 이 환자의 가장 가능성 높은 진단은?",
     "exam": "소변검사: 단백뇨 4+",
     "options": {
@@ -235,7 +248,8 @@
     },
     "answer": "A",
     "explanation": "신증후군은 심한 단백뇨와 저알부민혈증으로 인한 전신 부종을 특징으로 한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:3]{index=3}"
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨(> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:3]{index=3}",
+    "category": "Nephrology"
   },
   {
     "question_id": 15,
@@ -252,7 +266,8 @@
     },
     "answer": "B",
     "explanation": "원주형 적혈구는 사구체 기원의 혈뇨를 시사하며, 이는 신사구체신염의 특징적인 소견이다.",
-    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 사구체 질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "현미경혈뇨.pdf, 95page, 현미경혈뇨가 발견된 환자에서 단백뇨가 동반되거나 소변현미경검사에서 이상형태적혈구나 세포 원주(cellular cast)가 관찰되는 경우, 사구체 질환의 가능성을 시사한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 16,
@@ -269,7 +284,8 @@
     },
     "answer": "C",
     "explanation": "고칼륨혈증(K >6.5 mEq/L) 및 대사성 산증(HCO3- <15 mEq/L)이 동반된 급성 신손상에서는 응급 혈액투석이 필요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 673page, 고칼륨혈증(K >6.6 mEq/L) 또는 임상적으로 또는 EKG 변화가 있을 때 응급 혈액투석이 필요하다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 673page, 고칼륨혈증(K >6.6 mEq/L) 또는 임상적으로 또는 EKG 변화가 있을 때 응급 혈액투석이 필요하다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 17,
@@ -286,7 +302,8 @@
     },
     "answer": "E",
     "explanation": "신혈관성 고혈압으로 인한 신장 크기 감소가 관찰되면 신장 스텐트 삽입이 필요할 수 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압은 신동맥 협착에 의해 발생하며, 허혈성 신장 기능 이상이 동반될 수 있다. 신장 크기 감소가 확인되면 혈관조영술 및 신장 스텐트 삽입을 고려해야 한다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 704page, 신혈관성 고혈압은 신동맥 협착에 의해 발생하며, 허혈성 신장 기능 이상이 동반될 수 있다. 신장 크기 감소가 확인되면 혈관조영술 및 신장 스텐트 삽입을 고려해야 한다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 18,
@@ -303,7 +320,8 @@
     },
     "answer": "A",
     "explanation": "ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.",
-    "source": "신장분과 전공의 진료지침.pdf, 699page, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "신장분과 전공의 진료지침.pdf, 699page, ACE 억제제의 경우 원심성 세동맥압과 사구체 내 모세혈관압을 감소시킴으로서 신기능 저하 속도를 완화시킨다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 19,
@@ -320,7 +338,8 @@
     },
     "answer": "B",
     "explanation": "단순 방광염의 경우 경구 항생제가 1차 치료로 권장된다.",
-    "source": "요로감염 항생제.pdf, p.10, '외래에서 단순 방광염 환자를 치료할 때 다음의 항생제를 사용하는 것이 좋은 치료 성적과 예후를 위해 적절하다. 8-1 Nitrofurantoin monohydrate/macrocrystals 100 mg 하루 2회씩 5일 이상 투여할 것을 권고한다. 8-2 Fosfomycin trometamol 3 g 단회 사용을 권고한다. 8-4 경구용 fluoroquinolone 계열 항생제를 3일 이상 투여할 것을 권고한다.'&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "요로감염 항생제.pdf, p.10, '외래에서 단순 방광염 환자를 치료할 때 다음의 항생제를 사용하는 것이 좋은 치료 성적과 예후를 위해 적절하다. 8-1 Nitrofurantoin monohydrate/macrocrystals 100 mg 하루 2회씩 5일 이상 투여할 것을 권고한다. 8-2 Fosfomycin trometamol 3 g 단회 사용을 권고한다. 8-4 경구용 fluoroquinolone 계열 항생제를 3일 이상 투여할 것을 권고한다.'&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 20,
@@ -337,7 +356,8 @@
     },
     "answer": "B",
     "explanation": "중증 저칼륨혈증(K+ <2.5 mEq/L) 또는 EKG 변화가 동반된 경우 정맥 칼륨 보충이 필요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 618page, 정맥 치료 : 중증 저칼륨혈증 or EKG 변화 동반시 (1) 말초 정맥 <40 mEq/L, 중심 정맥 <60 mEq/L (2) 주입 속도 <20 mEq/hr (3) 응급시 5-10 mEq KCl을 15-20분에 걸쳐 투여.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 618page, 정맥 치료 : 중증 저칼륨혈증 or EKG 변화 동반시 (1) 말초 정맥 <40 mEq/L, 중심 정맥 <60 mEq/L (2) 주입 속도 <20 mEq/hr (3) 응급시 5-10 mEq KCl을 15-20분에 걸쳐 투여.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 21,
@@ -354,7 +374,8 @@
     },
     "answer": "B",
     "explanation": "심한 단백뇨(>3.5g/day), 저알부민혈증(<3.5 g/dL), 고지혈증, 전신 부종이 동반된 경우 신증후군 가능성이 높다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨 (> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 단백뇨 (> 3.5 g/day), 저알부민혈증(< 3.5 g/dL), 부종, 고지혈증의 4가지 소견이 같이 동반된 것으로 신장염 증후군과는 임상적인 차이가 있다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 22,
@@ -371,12 +392,13 @@
     },
     "answer": "A",
     "explanation": "신증후군이 의심되는 경우, 원인을 감별하기 위해 신장 생검이 필요할 수 있다. 특히 성인에서 발생한 원발성 신증후군은 다양한 형태의 사구체 신염과 관련될 수 있어 감별이 중요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 원발성 사구체 질환에 의한 경우와 당뇨병, 유전분증, SLE 등의 전신질환에 동반된 이차성 사구체 질환에 의한 것으로 구분이 가능하다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 신증후군은 원발성 사구체 질환에 의한 경우와 당뇨병, 유전분증, SLE 등의 전신질환에 동반된 이차성 사구체 질환에 의한 것으로 구분이 가능하다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 23,
     "chief complaint": "부종",
-    "purpose": "부종이 있는 사람에게서 원인을 감별진단할 수 있다.",
+    "purpose": "부종이 있는 사람에게 원인을 감별진단할 수 있다.",
     "question": "52세 남성이 3주 전부터 시작된 전신 부종과 소변량 감소를 주소로 내원하였다. 최근 감염력은 없으며, 신체 진찰에서 혈압 140/90 mmHg, 체중 증가 (+5kg), 양측 하지 함요부종이 확인되었다. 이 환자에서 가장 주의해야 할 합병증은?",
     "exam": "혈액검사에서 BUN 24 mg/dL, Cr 1.3 mg/dL, Na 138 mEq/L, K 4.1 mEq/L, Albumin 1.9 g/dL, 총콜레스테롤 310 mg/dL로 확인되었다. 소변검사에서는 단백뇨 4+, RBC 0-1/HPF, 24시간 소변 단백량 7.5g이었다.",
     "options": {
@@ -388,12 +410,13 @@
     },
     "answer": "A",
     "explanation": "신증후군 환자는 심한 저알부민혈증과 과응고 상태로 인해 혈전 색전증(특히 폐색전증)의 위험이 증가한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 716page, 신증후군에서는 혈전색전증의 위험이 증가하며, 특히 폐색전증이 흔하게 발생할 수 있다.&#8203;:contentReference[oaicite:2]{index=2}"
-  }
+    "source": "신장분과 전공의 진료지침.pdf, 716page, 신증후군에서는 혈전색전증의 위험이 증가하며, 특히 폐색전증이 흔하게 발생할 수 있다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
+  },
   {
     "question_id": 24,
     "chief complaint": "부종",
-    "purpose": "부종이 있는 사람에게서 원인을 감별진단할 수 있다.",
+    "purpose": "부종이 있는 사람에게 원인을 감별진단할 수 있다.",
     "question": "45세 남성이 3주 전부터 몸이 점점 부으면서 아침에 일어나면 얼굴이 퉁퉁 붓고, 종아리를 손가락으로 눌렀을 때 쉽게 가라앉지 않는다고 내원했다. 평소 고혈압이 있어 약을 복용 중이며, 최근 체중이 4kg 증가했다고 한다. 소변을 보면 거품이 많고 잘 가라앉지 않는다고 하며, 특별한 통증은 없다. 진찰 결과 혈압은 145/95 mmHg였고, 양측 하지에 함요부종이 확인되었다. 신장 생검에서 사구체 기저막이 두꺼워져 있으며, 면역형광검사에서 IgG 및 C3 침착이 확인되었다. 이 환자의 가장 가능성 높은 진단명은?",
     "exam": "면역형광검사: IgG 및 C3 침착 / 전자현미경: subepithelial electron-dense deposit",
     "options": {
@@ -405,7 +428,8 @@
     },
     "answer": "C",
     "explanation": "막성신병증(MGN)은 신증후군의 대표적인 원인으로, 신장 생검에서 subepithelial electron-dense deposit과 IgG 및 C3 침착이 특징적이다.",
-    "source": "신장분과 전공의 진료지침.pdf, 720page, 막성신병증은 신증후군의 주요 원인이며, 면역복합체 침착이 subepithelial 영역에서 관찰되는 것이 특징이다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "source": "신장분과 전공의 진료지침.pdf, 720page, 막성신병증은 신증후군의 주요 원인이며, 면역복합체 침착이 subepithelial 영역에서 관찰되는 것이 특징이다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 25,
@@ -422,7 +446,8 @@
     },
     "answer": "B",
     "explanation": "초점분절성 사구체경화증(FSGS)은 신증후군의 원인 중 하나이며, 초기 치료로 스테로이드가 1차 선택 약제이다. 면역복합체 침착이 없고 일부 사구체에서 국소적 경화 소견이 보이는 것이 특징적이다.",
-    "source": "신장분과 전공의 진료지침.pdf, 725page, FSGS는 면역복합체 침착 없이 일부 사구체에 초점분절성 경화가 나타나는 것이 특징이며, 1차 치료로 스테로이드가 권장된다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "source": "신장분과 전공의 진료지침.pdf, 725page, FSGS는 면역복합체 침착 없이 일부 사구체에 초점분절성 경화가 나타나는 것이 특징이며, 1차 치료로 스테로이드가 권장된다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 26,
@@ -439,9 +464,9 @@
     },
     "answer": "D",
     "explanation": "막증식성 사구체신염(MPGN)은 C3 우세 침착이 특징이며, 스테로이드와 미코페놀레이트 모페틸(MMF) 병용이 1차 치료로 권장될 수 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 730page, MPGN에서는 면역형광검사에서 C3 dominant 침착이 특징적이며, 면역억제 치료가 필요하다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "source": "신장분과 전공의 진료지침.pdf, 730page, MPGN에서는 면역형광검사에서 C3 dominant 침착이 특징적이며, 면역억제 치료가 필요하다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
-[
   {
     "question_id": 27,
     "chief complaint": "혈뇨",
@@ -456,8 +481,9 @@
       "E": "단백 동화 스테로이드 투여"
     },
     "answer": "C",
-    "explanation": "횡문근융해증 치료의 핵심은 **충분한 수액 공급**을 통해 신장 손상을 예방하는 것이다. 초기에는 **고유량 정맥 수액**이 1차 치료이며, 혈액투석은 신부전이 진행된 경우에 고려한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 815page, 횡문근융해증의 주요 치료는 충분한 수액 공급을 통한 신장 보호이며, 혈액투석은 신부전이 진행된 경우에 한해 고려한다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "explanation": "횡문근융해증 치료의 핵심은 충분한 수액 공급을 통해 신장 손상을 예방하는 것이다. 초기에는 고유량 정맥 수액이 1차 치료이며, 혈액투석은 신부전이 진행된 경우에 고려한다.",
+    "source": "신장분과 전공의 진료지침.pdf, 815page, 횡문근융해증의 주요 치료는 충분한 수액 공급을 통한 신장 보호이며, 혈액투석은 신부전이 진행된 경우에 한해 고려한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 28,
@@ -473,8 +499,9 @@
       "E": "고농도 포도당과 인슐린 투여"
     },
     "answer": "B",
-    "explanation": "이 환자는 **횡문근융해증에 의한 급성 신부전 및 중증 고칼륨혈증** 상태로, 즉각적인 **혈액투석**이 필요하다. 단순한 수액 공급으로는 고칼륨혈증을 해결할 수 없으며, 신기능이 악화된 경우 신속한 투석이 필요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 817page, 심한 횡문근융해증에서 신기능 악화와 고칼륨혈증이 동반될 경우 신속한 혈액투석이 필요하다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "explanation": "이 환자는 횡문근융해증에 의한 급성 신부전 및 중증 고칼륨혈증 상태로, 즉각적인 혈액투석이 필요하다. 단순한 수액 공급만으로는 고칼륨혈증을 해결하기 어려우며, 신기능도 이미 악화된 경우에는 신속한 투석이 필수다.",
+    "source": "신장분과 전공의 진료지침.pdf, 817page, 심한 횡문근융해증에서 신기능 악화와 고칼륨혈증이 동반될 경우 신속한 혈액투석이 필요하다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 29,
@@ -490,13 +517,14 @@
       "E": "근육 조직 생검"
     },
     "answer": "B",
-    "explanation": "이 환자는 말라리아 예방약 복용 후 발생한 **횡문근융해증**이 의심되며, **말라리아 도말 검사를 통해 감염 여부를 확인**해야 한다. 일부 말라리아 치료제는 횡문근융해증을 유발할 수 있으며, 감염 자체도 원인이 될 수 있다.",
-    "source": "신장분과 전공의 진료지침.pdf, 820page, 감염성 원인에 의한 횡문근융해증 가능성이 있는 경우, 원인 감별을 위한 추가 검사가 필요하다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "explanation": "말라리아 예방약 복용 후 발생한 횡문근융해증이 의심되므로, 말라리아 도말 검사를 통해 감염 여부를 확인해야 한다. 일부 말라리아 치료제나 감염 자체도 횡문근융해증의 원인이 될 수 있다.",
+    "source": "신장분과 전공의 진료지침.pdf, 820page, 감염성 원인에 의한 횡문근융해증 가능성이 있는 경우, 원인 감별을 위한 추가 검사가 필요하다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 30,
     "chief complaint": "팔다리 근력약화/마비",
-    "purpose": "",
+    "purpose": "팔다리 근력약화/마비가 있는 사람에게 적합한 응급 처치와 치료 계획을 수립할 수 있다.",
     "question": "64세 남성이 심한 전신 근육통과 소변량 감소를 주소로 내원하였다. 환자는 최근 독감에 걸려 고열이 있었으며, 근육통이 심해 해열제를 여러 차례 복용했다고 한다. 하루 전부터 팔다리에 힘이 빠지기 시작했으며, 오늘 아침부터 거의 움직이지 못할 정도로 약해졌다고 한다. 또한, 어제부터 소변량이 극도로 줄어들었으며, 마지막 배뇨 이후 8시간 동안 소변을 보지 못했다고 한다. 신체 진찰에서 혈압 90/60 mmHg, 심박수 105회/분, 체온 38.2°C였으며, 팔다리 근력은 2/5로 저하되어 있었다. 이 환자에서 가장 적절한 치료는?",
     "exam": "혈액검사: 크레아티닌 5.6 mg/dL, 칼륨 7.5 mEq/L, 인 7.2 mg/dL, 칼슘 6.8 mg/dL, 알부민 3.1 g/dL, 크레아티닌 키나아제 180,000 U/L, 미오글로빈 5800 ng/mL. 심전도: T파 고조, PR 간격 연장, QRS 연장. 소변검사: 단백뇨 3+, 적혈구 0-1/HPF, 미오글로빈 검출, 요량 100mL/24시간.",
     "options": {
@@ -507,14 +535,15 @@
       "E": "중탄산나트륨 정주"
     },
     "answer": "C",
-    "explanation": "이 환자는 **횡문근융해증으로 인한 급성 신부전 및 중증 고칼륨혈증** 상태로, 심전도 이상이 동반되어 **즉각적인 혈액투석이 필요하다**. 칼슘 투여는 심전도 이상을 안정화하기 위한 응급 처치이며, 근본적인 칼륨 제거를 위해 신속한 혈액투석이 필수적이다.",
-    "source": "신장분과 전공의 진료지침.pdf, 818page, 횡문근융해증에서 소변량 감소, 크레아티닌 증가, 고칼륨혈증이 동반될 경우 즉각적인 혈액투석이 필요하다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "explanation": "횡문근융해증으로 인한 급성 신부전 및 중증 고칼륨혈증 상태이며, 심전도 이상이 나타나므로 칼슘 투여(심근 안정) 후 신속한 혈액투석이 필수적이다.",
+    "source": "신장분과 전공의 진료지침.pdf, 818page, 횡문근융해증에서 소변량 감소, 크레아티닌 증가, 고칼륨혈증이 동반될 경우 즉각적인 혈액투석이 필요하다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 31,
     "chief complaint": "의식변화/혼수",
     "purpose": "의식변화/혼수를 보이는 사람에게서 원인, 중증도, 합병증을 판단할 수 있다.",
-    "question": "72세 여성이 최근 물을 많이 마시게 되고, 점점 정신이 멍해진다고 가족과 함께 병원에 왔다. 보호자는 몇 시간 전부터 환자가 말을 더듬고 멍한 상태가 심해져 걱정이 되어 병원에 데려왔다고 한다. 신체 진찰에서 혈압 115/70 mmHg, 심박수 88회/분, 체온 36.8°C였으며, 신경학적 검사에서 근력 저하는 없었으나 반응이 느렸다. 이 환자의 가장 가능성 높은 진단은?",
+    "question": "72세 여성이 최근 물을 많이 마시게 되고, 점점 정신이 멍해진다고 가족과 함께 병원에 왔다. 보호자는 몇 시간 전부터 환자가 말을 더듬고 멍한 상태가 심해져 걱정이 되어 병원에 데려왔다고 한다. 신체 진찰에서 혈압 115/70 mmHg, 심박수 88회/분, 체온 36.8°C였으며, 신경학적 검사에서 근력 저하는 없으나 반응이 느렸다. 이 환자의 가장 가능성 높은 진단은?",
     "exam": "혈액검사: 나트륨 118 mEq/L, 칼륨 4.1 mEq/L, 혈장 삼투압 250 mOsm/kg, 요 삼투압 110 mOsm/kg, 요 나트륨 10 mEq/L.",
     "options": {
       "A": "SIADH",
@@ -524,8 +553,9 @@
       "E": "갑상선 기능 저하증"
     },
     "answer": "B",
-    "explanation": "이 환자는 **희석성 저나트륨혈증**을 보이며, 요 삼투압과 요 나트륨이 낮아 일차성 다음증(과도한 수분 섭취)이 원인으로 가장 가능성이 높다. SIADH는 요 삼투압이 높고, 신증후군은 고나트륨혈증이 동반될 가능성이 크다.",
-    "source": "신장분과 전공의 진료지침.pdf, 612page, 희석성 저나트륨혈증은 소변 희석 기능이 정상적으로 유지된 상태에서 과도한 수분 섭취로 인해 발생할 수 있다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "explanation": "희석성 저나트륨혈증이며, 요 삼투압이 매우 낮고 요 나트륨 배설도 적어 일차성 다음증(물 과섭취) 가능성이 높다. SIADH였다면 소변이 농축되어 요 삼투압이 높은 편이다.",
+    "source": "신장분과 전공의 진료지침.pdf, 612page, 희석성 저나트륨혈증은 소변 희석 능력이 유지된 상태에서 물을 과도하게 섭취할 때 발생한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 32,
@@ -541,8 +571,9 @@
       "E": "고삼투압 포도당 정주"
     },
     "answer": "C",
-    "explanation": "이 환자는 **이뇨제 유발 저칼륨혈증**(2.3 mEq/L)과 이에 따른 근력 저하 및 심전도 이상(U파)을 보이며, 정맥 칼륨 보충이 필요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 630page, 심한 저칼륨혈증(2.5 mEq/L 미만)에서는 정맥 칼륨 보충이 필요하다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "explanation": "이뇨제 유발 저칼륨혈증(2.3 mEq/L)이며, 심전도 이상(U파)까지 보이므로 정맥 칼륨 보충이 필요하다.",
+    "source": "신장분과 전공의 진료지침.pdf, 630page, 심한 저칼륨혈증(2.5 mEq/L 미만)에서는 정맥 칼륨 보충이 권장된다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 33,
@@ -558,8 +589,9 @@
       "E": "갑상선 기능 항진증"
     },
     "answer": "D",
-    "explanation": "이 환자는 **고칼슘혈증, 저인산혈증, 대사성 알칼리증**을 보이며, 위장약 및 칼슘 보충제 과사용으로 인해 발생할 수 있는 **우유-알칼리 증후군**이 가장 가능성이 높다.",
-    "source": "신장분과 전공의 진료지침.pdf, 645page, 우유-알칼리 증후군은 칼슘과 염기성 물질을 과다 복용할 때 발생하며, 대사성 알칼리증을 동반한다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "explanation": "칼슘과 알칼리를 과다 복용 시 발생하는 우유-알칼리 증후군(고칼슘혈증, 대사성 알칼리증, 저인산혈증)에 부합한다.",
+    "source": "신장분과 전공의 진료지침.pdf, 645page, 우유-알칼리 증후군은 칼슘 및 제산제(알칼리성 물질)를 과량 섭취할 때 나타난다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 34,
@@ -575,15 +607,16 @@
       "E": "칼슘 보충"
     },
     "answer": "C",
-    "explanation": "이 환자는 **고삼투압성 탈수**(고나트륨혈증, 혈장 삼투압 증가) 상태이며, 서서히 교정해야 하므로 **5% 포도당 정주**가 적절하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 670page, 급격한 나트륨 농도 변화는 뇌부종을 유발할 수 있으므로 천천히 교정해야 한다.&#8203;:contentReference[oaicite:3]{index=3}"
+    "explanation": "고나트륨혈증(고삼투압성 탈수) 상태이므로, 저나트륨성 수액(5% 포도당)으로 서서히 교정해야 한다.",
+    "source": "신장분과 전공의 진료지침.pdf, 670page, 급격한 나트륨 교정은 뇌부종 위험이 있으므로 서서히 교정.&#8203;:contentReference[oaicite:3]{index=3}",
+    "category": "Nephrology"
   },
   {
     "question_id": 35,
     "chief complaint": "고혈압",
     "purpose": "고혈압을 갖고 있는 사람에게서 심한 정도, 합병증, 원인질환 등을 진단할 수 있다.",
     "question": "19세 남성이 최근 몇 개월 동안 혈압이 계속 높고 쉽게 피로해진다고 병원에 왔다. 별다른 병력은 없고 가족 중에서도 고혈압이 있는 사람이 없다. 신체 진찰에서 혈압 160/95 mmHg, 심박수 82회/분이었으며, 부종이나 신경학적 이상은 관찰되지 않았다. 이 환자의 가장 가능성 높은 진단은?",
-    "exam": "혈액검사: 나트륨 150 mEq/L, 칼륨 2.2 mEq/L, 크레아티닌 1.0 mg/dL, 중탄산 32 mEq/L. 소변검사: 나트륨 배설 감소, 알도스테론 2 ng/dL(정상 범위 4-31).",
+    "exam": "혈액검사: 나트륨 150 mEq/L, 칼륨 2.2 mEq/L, 크레아티닌 1.0 mg/dL, 중탄산 32 mEq/L. 소변검사: 나트륨 배설 감소, 알도스테론 2 ng/dL(정상 4-31). 레닌 활성도 감소.",
     "options": {
       "A": "바터 증후군",
       "B": "리들 증후군",
@@ -592,8 +625,9 @@
       "E": "원발성 알도스테론증"
     },
     "answer": "B",
-    "explanation": "이 환자는 **저칼륨혈증, 고혈압, 대사성 알칼리증**을 보이며, 혈장 알도스테론 농도가 낮다. 이는 **리들 증후군**의 특징으로, ENaC 활성 증가로 인해 나트륨이 과흡수되고 칼륨이 과배출되면서 발생한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 715page, 리들 증후군은 유전적 ENaC 과활성으로 인해 발생하는 저칼륨성 고혈압 상태이다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "explanation": "저칼륨혈증, 고혈압, 대사성 알칼리증, 혈중 알도스테론이 낮은 경우는 리들(Liddle) 증후군이 대표적이다(ENaC 과흡수).",
+    "source": "신장분과 전공의 진료지침.pdf, 715page, 리들 증후군은 알도스테론 의존적 기전이 아님에도 ENaC 기능이 과도하여 고혈압·저칼륨혈증이 발생한다.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 36,
@@ -609,8 +643,9 @@
       "E": "만성 대사성 산증"
     },
     "answer": "A",
-    "explanation": "이 환자는 **저칼륨혈증, 저혈압, 다뇨, 성장 장애**를 보이며, **고칼슘뇨**가 동반되어 있다. 이는 **바터 증후군**의 특징으로, 헨레 고리의 나트륨 재흡수 장애로 인해 발생한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 720page, 바터 증후군은 나트륨 재흡수 장애로 인해 RAAS가 과활성화되며, 고칼슘뇨를 보일 수 있다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "explanation": "저칼륨혈증, 저혈압, 성장장애, 고칼슘뇨가 특징적인 바터 증후군으로, 헨레고리 재흡수 장애가 원인이다.",
+    "source": "신장분과 전공의 진료지침.pdf, 720page, 바터 증후군은 유년기에 발현되며, RAAS 항진·고칼슘뇨·성장장애가 특징이다.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 37,
@@ -626,8 +661,9 @@
       "E": "만성 신부전"
     },
     "answer": "A",
-    "explanation": "이 환자는 **저칼륨혈증, 저마그네슘혈증, 근긴장 항진**을 보이며, 혈압이 낮다. 이는 **지틀만 증후군**의 특징으로, 원위 세뇨관의 나트륨 재흡수 장애로 인해 발생한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 725page, 지틀만 증후군은 저칼륨혈증과 저마그네슘혈증을 특징으로 하며, 바터 증후군과 달리 저칼슘뇨를 보인다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "explanation": "지틀만(Gitelman) 증후군은 원위세뇨관(특히 Na-Cl cotransporter) 이상으로 저칼륨혈증, 저마그네슘혈증이 특징이며, 혈압은 정상~낮은 편이다.",
+    "source": "신장분과 전공의 진료지침.pdf, 725page, 지틀만 증후군은 바터 증후군과 유사하나 주로 청소년기~성인기에 발견되며 저마그네슘혈증·저칼슘뇨가 동반된다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   },
   {
     "question_id": 38,
@@ -643,13 +679,14 @@
       "E": "알도스테론 저하증"
     },
     "answer": "E",
-    "explanation": "이 환자는 **고칼륨혈증과 신기능 저하**를 보이며, 알도스테론 분비가 감소된 상태이다. 이는 **NSAID 복용에 의한 알도스테론 저하증**이 원인일 가능성이 높다.",
-    "source": "신장분과 전공의 진료지침.pdf, 730page, NSAID는 프로스타글란딘 합성을 억제하여 레닌-알도스테론 체계를 억제하고, 고칼륨혈증을 유발할 수 있다.&#8203;:contentReference[oaicite:3]{index=3}"
+    "explanation": "NSAID에 의해 RAAS가 억제되고 알도스테론이 감소된 상태로, 고칼륨혈증과 대사성 산증이 함께 나타난다(알도스테론 저하).",
+    "source": "신장분과 전공의 진료지침.pdf, 730page, NSAID는 신장 내 프로스타글란딘 합성을 억제하여 레닌-알도스테론 분비가 감소, 고칼륨혈증 유발 가능.&#8203;:contentReference[oaicite:3]{index=3}",
+    "category": "Nephrology"
   },
   {
     "question_id": 39,
     "chief complaint": "팔다리 근력약화/마비",
-    "purpose": " 팔다리 근력약화/마비를 호소하는 사람에게서 원인을 감별 할 수 있다.",
+    "purpose": "팔다리 근력약화/마비를 호소하는 사람에게서 원인을 감별 할 수 있다.",
     "question": "40세 여성이 만성적인 근육 경련과 손발 저림을 주소로 병원에 왔다. 환자는 몇 년 전부터 손이 저리고, 가끔씩 얼굴 근육이 떨리는 증상이 있었다고 한다. 최근 들어 증상이 악화되었으며, 피곤함을 자주 느낀다고 한다. 신체 진찰에서 혈압 115/70 mmHg, 심박수 75회/분이었으며, 심부건 반사가 항진되어 있었다. 이 환자에서 추가로 시행해야 할 검사는?",
     "exam": "혈액검사: 나트륨 139 mEq/L, 칼륨 3.1 mEq/L, 칼슘 7.1 mg/dL, 인 3.8 mg/dL, 마그네슘 0.9 mg/dL. 소변검사: 칼슘 배설 증가, 마그네슘 배설 증가.",
     "options": {
@@ -660,8 +697,9 @@
       "E": "혈장 알도스테론/레닌 활성비 검사"
     },
     "answer": "A",
-    "explanation": "이 환자는 **저칼슘혈증, 저마그네슘혈증, 근육 경련 및 신경과민 반응**을 보이며, 이는 **부갑상선 기능 저하증** 또는 **선천성 신세뇨관 질환(지틀만 증후군 등)**일 가능성이 있다. 혈중 부갑상선 호르몬 검사를 통해 원인을 감별해야 한다.",
-    "source": "신장분과 전공의 진료지침.pdf, 740page, 부갑상선 기능 저하증과 신세뇨관 이상(지틀만 증후군)은 저칼슘혈증과 저마그네슘혈증을 보일 수 있다.&#8203;:contentReference[oaicite:0]{index=0}"
+    "explanation": "저칼슘혈증·저마그네슘혈증·근육 경련이 있으므로 부갑상선 호르몬(PTH) 이상 여부를 우선 확인해야 한다.",
+    "source": "신장분과 전공의 진료지침.pdf, 740page, 부갑상선 기능 저하와 신세뇨관 이상은 임상적으로 유사할 수 있으므로 PTH 검사가 필요.&#8203;:contentReference[oaicite:0]{index=0}",
+    "category": "Nephrology"
   },
   {
     "question_id": 40,
@@ -677,8 +715,9 @@
       "E": "베타차단제 단독 투여"
     },
     "answer": "C",
-    "explanation": "이 환자는 **저칼륨혈증과 고혈압, 나트륨 재흡수 증가, 레닌-알도스테론 저하**를 보이며, 이는 **리들 증후군**의 가능성이 높다. 트리암테렌 또는 아밀로라이드는 ENaC 차단제로, 리들 증후군 치료에 효과적이다.",
-    "source": "신장분과 전공의 진료지침.pdf, 750page, 리들 증후군에서는 ENaC 차단제인 트리암테렌 또는 아밀로라이드를 사용해야 한다.&#8203;:contentReference[oaicite:1]{index=1}"
+    "explanation": "저칼륨혈증·고혈압·알도스테론 저하 상태는 리들 증후군 가능성이 크고, ENaC 억제제(트리암테렌·아밀로라이드)가 효과적이다.",
+    "source": "신장분과 전공의 진료지침.pdf, 750page, 리들 증후군은 ENaC 과발현으로 발생하며, 치료는 ENaC 차단제 사용.&#8203;:contentReference[oaicite:1]{index=1}",
+    "category": "Nephrology"
   },
   {
     "question_id": 41,
@@ -694,11 +733,8 @@
       "E": "베타차단제 단독 투여"
     },
     "answer": "B",
-    "explanation": "이 환자는 **저칼륨혈증, 저마그네슘혈증, 근육 경련 및 신경과민 반응**을 보이며, 이는 **지틀만 증후군**의 가능성이 높다. 정맥 칼륨 및 마그네슘 보충이 필요하다.",
-    "source": "신장분과 전공의 진료지침.pdf, 755page, 지틀만 증후군에서는 저칼륨혈증과 저마그네슘혈증을 교정하기 위해 정맥 보충이 필요하다.&#8203;:contentReference[oaicite:2]{index=2}"
+    "explanation": "지틀만 증후군(Gitelman syndrome)이 의심되며, 저칼륨혈증·저마그네슘혈증 교정을 위해 정맥 보충이 필요하다.",
+    "source": "신장분과 전공의 진료지침.pdf, 755page, 지틀만 증후군은 저칼륨혈증, 저마그네슘혈증, 대사성 알칼리증을 동반하며 정맥 보충 치료가 요구된다.&#8203;:contentReference[oaicite:2]{index=2}",
+    "category": "Nephrology"
   }
 ]
-
-
-
-
