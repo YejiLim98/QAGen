@@ -212,10 +212,7 @@
     },
     "answer": "C",
     "explanation": "소아 천식 환자에서는 증상 조절과 기도 염증 억제를 위해 ICS와 LABA 병용 치료가 권장된다.",
-    "source": [
-      "천식 진료지침(2022).pdf, p.96: \"저용량 흡입스테로이드(budesonide or beclomethasone)-formoterol 유지 및 완화 요법을 권고한다.\"&#8203;:contentReference[oaicite:0]{index=0}",
-      "천식 진료지침(2022).pdf, p.94: \"경증 천식에서 운동 전 저용량 budesonide-formoterol 을 사용한 경우 매일 저용량 흡입 스테로이드를 사용하면서 필요시와 운동전 속효성 베타작용제를 사용한 것과 유사한 효과가 있었다.\"&#8203;:contentReference[oaicite:1]{index=1}"
-    ],
+    "source": "천식 진료지침(2022).pdf, p.96: \"저용량 흡입스테로이드(budesonide or beclomethasone)-formoterol 유지 및 완화 요법을 권고한다.\"&#8203;:contentReference[oaicite:0]{index=0}\n천식 진료지침(2022).pdf, p.94: \"경증 천식에서 운동 전 저용량 budesonide-formoterol 을 사용한 경우 매일 저용량 흡입 스테로이드를 사용하면서 필요시와 운동전 속효성 베타작용제를 사용한 것과 유사한 효과가 있었다.\"&#8203;:contentReference[oaicite:1]{index=1}",
     "category": "Pulmonology (Respiratory Medicine)"
   },
   {
