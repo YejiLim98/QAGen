@@ -5668,5 +5668,47 @@
     "content": "Hypertensive encephalopathy is a clinical syndrome characterized by acute elevation in blood pressure associated with neurological symptoms such as headache, altered mental status, visual disturbances, and seizures. It is a manifestation of posterior reversible encephalopathy syndrome (PRES), a clinico-radiological entity characterized by symmetrical white matter edema predominantly affecting the posterior cerebral hemispheres. Hypertensive encephalopathy occurs when a sudden rise in blood pressure exceeds the autoregulatory capacity of the cerebral vasculature, leading to breakthrough vasodilation, endothelial injury, and vasogenic edema. In patients with chronic kidney disease, especially those undergoing dialysis, the risk of developing hypertensive encephalopathy is increased due to fluid overload, uremia, and impaired blood pressure regulation. Management focuses on gradual reduction of blood pressure to avoid cerebral hypoperfusion, with a goal of lowering mean arterial pressure by 20-25% in the first hour. Continuation of dialysis to correct fluid overload and uremia is essential. With prompt recognition and appropriate management, the clinical and radiological abnormalities are usually reversible."
   },
   "category": "Nephrology"
-}
+}, 
+{
+  "question_id": 271,
+  "chief_complaint": "배뇨곤란/배뇨통",
+  "purpose": "배뇨곤란/배뇨통을 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "68세 남성이 2개월 전부터 시작된 배뇨곤란을 주소로 내원하였다. 환자는 야간에 3-4회 소변을 보기 위해 깨며, 소변줄기가 약해지고 간헐적으로 끊기며, 배뇨 후 잔뇨감을 호소한다. 최근에는 갑작스러운 배뇨욕구가 생겨 참기 어려운 경우도 있다고 한다. 과거력상 고혈압으로 약물 복용 중이며, 20년간 하루 1갑의 흡연력이 있다. 신체검사에서 하복부 팽만이 관찰되며, 직장수지검사에서 전립선이 대칭적으로 비대되어 있으며 경도의 압통이 있다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액검사: WBC 6,500/μL, Hb 14.2 g/dL, Platelet 240,000/μL, PSA 3.8 ng/mL\n소변검사: pH 6.0, RBC 0-1/HPF, WBC 2-3/HPF, 세균 (-).\n초음파 검사: 전립선 크기 45cc, 방광 용적 550mL, 배뇨 후 잔뇨량 120mL.",
+  "options": {
+    "A": "방광암",
+    "B": "전립선암",
+    "C": "양성 전립선 비대증",
+    "D": "급성 세균성 방광염",
+    "E": "만성 전립선염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 하부요로증상(LUTS)을 호소하는 68세 남성으로, 특히 약한 소변줄기, 야간뇨, 빈뇨, 잔뇨감, 절박뇨 등의 증상을 보입니다. 직장수지검사에서 전립선이 대칭적으로 비대되어 있고, 초음파검사에서 전립선 크기가 45cc로 증가되어 있으며, 배뇨 후 잔뇨량이 120mL로 증가되어 있습니다. PSA는 3.8 ng/mL로 경미하게 상승되어 있으나, 양성 전립선 비대증에서도 약간의 상승이 흔합니다. 환자의 연령과 임상 증상, 검사 결과를 종합하면 양성 전립선 비대증이 가장 가능성이 높습니다. 방광암은 통증 없는 혈뇨가 주 증상이나 이 환자는 혈뇨가 없습니다. 전립선암은 초기에는 증상이 없을 수 있으며, 직장수지검사에서 비대칭적 경결이 만져지고 PSA가 더 많이 상승하는 경우가 많습니다. 급성 세균성 방광염은 빈뇨, 배뇨통, 잔뇨감, 발열 등의 증상과 소변검사에서 백혈구와 세균이 양성으로 나타납니다. 만성 전립선염은 회음부나 하복부의 통증이 주 증상이며, 이 환자의 증상과는 맞지 않습니다.",
+  "source": {
+    "file_name": "Campbell-Walsh Urology",
+    "content": "양성 전립선 비대증(BPH)은 50세 이상 남성에서 흔히 나타나는 질환으로, 하부요로증상(LUTS)을 유발합니다. 이러한 증상은 방해 증상(약한 소변줄기, 배뇨 지연, 복부 힘주기, 간헐적 배뇨, 잔뇨감)과 자극 증상(빈뇨, 야간뇨, 절박뇨)으로 나눌 수 있습니다. 직장수지검사에서 전립선 크기 증가와 대칭적인 전립선 비대 소견을 보이며, 초음파 검사에서 전립선 용적 증가, 배뇨 후 잔뇨량 증가 소견을 보입니다. PSA는 전립선암에 비해 상승 정도가 적으나, BPH에서도 정상보다 약간 상승할 수 있습니다."
+  },
+  "category": "Urology"
+}, 
+{
+  "question_id": 272,
+  "chief_complaint": "배뇨곤란/배뇨통",
+  "purpose": "배뇨곤란/배뇨통을 호소하는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "25세 여성이 3일 전부터 시작된 배뇨통과 빈뇨를 주소로 내원하였다. 환자는 소변을 볼 때마다 통증이 있고, 하루에 8-10회 소변을 보며, 소변을 본 후에도 시원하지 않다고 호소한다. 또한 하복부 불편감도 동반되었으나 열감은 없었다고 한다. 최근 성관계 후 증상이 시작되었다고 한다. 과거력상 특이 소견은 없으며, 약 복용력도 없다. 신체 검사에서 하복부 압통이 경미하게 있으며, 늑골척추각 압통은 없었다. 이 환자에게 가장 적절한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "복부 초음파 검사",
+    "B": "요역동학 검사",
+    "C": "소변 배양 검사",
+    "D": "혈중 크레아티닌 검사",
+    "E": "자기공명영상(MRI) 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 배뇨통, 빈뇨, 잔뇨감, 하복부 불편감 등 전형적인 방광염 증상을 보이는 젊은 여성입니다. 특히 성관계 후 증상이 발생했다는 점은 세균성 방광염을 강하게 시사합니다. 단순 방광염은 요도를 통해 세균(주로 대장균)이 방광으로 상행 감염되어 발생하며, 성관계는 이러한 세균의 요도 침입을 촉진시키는 위험 요인입니다. 단순 방광염의 진단을 위해 가장 중요한 검사는 소변 배양 검사입니다. 소변 배양 검사는 감염 원인균을 확인하고 항생제 감수성 검사를 통해 적절한 항생제 선택에 도움을 줍니다. 복부 초음파 검사는 상부 요로 감염이 의심되거나 해부학적 이상이 동반된 경우 시행할 수 있으나, 단순 방광염에서는 일반적으로 필요하지 않습니다. 요역동학 검사는 신경인성 방광이나 배뇨 장애의 원인 평가에 유용하나, 이 환자의 급성 증상에는 적합하지 않습니다. 혈중 크레아티닌 검사는 신장 기능 평가에 사용되며, 단순 방광염에서 일반적으로 상승하지 않습니다. 자기공명영상(MRI) 검사는 단순 방광염의 진단에 필요하지 않은 고비용 검사입니다. 이 환자의 임상 양상을 고려할 때, 소변 배양 검사가 가장 적절한 검사입니다.",
+  "source": {
+    "file_name": "EAU Guidelines on Urological Infections",
+    "content": "급성 단순 방광염의 진단은 주로 임상 증상(배뇨통, 빈뇨, 절박뇨, 하복부 통증)과 소변검사에 기초합니다. 소변 배양 검사는 단순 방광염이 의심되는 모든 환자에서 권장되며, 특히 재발성 방광염, 비전형적 증상, 임신, 남성, 항생제 치료 실패 등의 경우에 중요합니다. 소변 배양은 요로감염의 원인균을 확인하고, 항생제 감수성 검사 결과를 통해 적절한 항생제 선택에 도움을 줍니다. 단순 방광염의 가장 흔한 원인균은 대장균(E. coli)으로, 전체 요로감염의 70-80%를 차지합니다."
+  },
+  "category": "Urology"
+}, 
 ]
