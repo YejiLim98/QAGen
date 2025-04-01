@@ -5878,5 +5878,72 @@
     "content": "임신 중에는 여러 해부학적, 생리적 변화가 비뇨기계에 영향을 미칩니다. 자궁의 크기 증가는 방광을 압박하여 방광 용적을 감소시키고, 이로 인해 빈뇨가 발생합니다. 프로게스테론의 증가는 방광과 요관의 평활근을 이완시켜 요로의 긴장도를 감소시키며, 이로 인해 요관과 신우의 확장(생리적 수신증)이 발생할 수 있습니다. 임신 중에는 사구체 여과율이 30-50% 증가하고, 신장 혈류량도 약 80% 증가하여 소변 생성량이 증가합니다. 이러한 변화들로 인해 임신 여성의 약 80%에서 빈뇨를 경험하며, 특히 첫 삼분기와 셋째 삼분기에 증상이 더 흔합니다. 첫 삼분기에는 프로게스테론의 영향이 주된 원인이며, 셋째 삼분기에는 자궁의 크기 증가로 인한 방광 압박이 주된 원인입니다. 대부분의 경우 이러한 증상은 생리적인 것으로, 특별한 치료 없이 출산 후 자연히 호전됩니다."
   },
   "category": "Obstetrics"
-}
+}, 
+{
+  "question_id": 281,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "65세 남성이 3일 전부터 우측 서혜부에 발생한 덩이와 통증을 주소로 내원하였다. 환자는 평소 만성 기침이 있었으며, 최근 무거운 물건을 들고 난 후 증상이 시작되었다고 한다. 내원 당시 구토와 복통이 동반되었으며, 덩이는 누워있을 때도 사라지지 않았다. 환자는 식사를 하지 못하고 대변도 3일째 보지 못했다고 한다. 신체 검진에서 우측 서혜부에 약 4cm 크기의 단단하고 압통이 있는 덩이가 촉지되며, 환원되지 않는다. 복부는 팽만되어 있고, 장음은 증가되어 있다. 활력징후는 혈압 130/85 mmHg, 맥박 95회/분, 체온 37.8°C이다.",
+  "exam": "일반혈액검사에서 백혈구 12,500/μL(중성구 85%), 복부 CT에서 우측 서혜부 탈장낭 내 확장된 소장 루프와 장간막 부종이 관찰된다.",
+  "options": {
+    "A": "응급 수술적 교정",
+    "B": "진정제 투여 후 도수 환원",
+    "C": "복대 착용과 항생제 투여",
+    "D": "복강경 관찰 후 보존적 치료",
+    "E": "경화요법 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 감돈 탈장(incarcerated hernia)에서 교액 탈장(strangulated hernia)으로 진행하는 임상양상을 보입니다. 3일 전부터 시작된 서혜부 덩이가 환원되지 않고(감돈), 통증, 구토, 장폐색 증상(대변 못 봄, 복부 팽만)과 함께 발열, 백혈구 증가 소견이 있으며, CT에서 탈장낭 내 장간막 부종이 관찰되는 것은 장의 혈액 공급이 차단되어 허혈이 발생했음을 시사합니다. 교액 탈장은 탈장된 장의 혈액 공급이 차단되어 장 괴사가 발생할 수 있는 외과적 응급 상황으로, 즉각적인 수술적 교정이 필요합니다. 감돈 탈장이나 교액 탈장이 의심되는 경우에는 도수 환원을 시도하면 안 됩니다. 이미 괴사된 장을 복강 내로 환원시킬 경우 복막염을 유발할 수 있으며, 무리한 도수 환원은 장 천공을 유발할 수 있습니다. 복대 착용과 항생제 투여, 복강경 관찰 후 보존적 치료, 경화요법 등은 모두 교액 탈장의 적절한 치료가 아니며, 수술적 치료가 지연될 경우 장 괴사, 복막염, 패혈증으로 진행하여 사망에 이를 수 있습니다.",
+  "source": {
+    "file_name": "Schwartz's Principles of Surgery",
+    "content": "Strangulated hernia is a surgical emergency that requires immediate operative intervention. The diagnosis is established by the presence of an irreducible hernia with signs of intestinal obstruction, systemic toxicity, and local inflammatory changes. The patient typically presents with a painful, tender, erythematous irreducible hernia, often with signs and symptoms of intestinal obstruction. Nausea, vomiting, and obstipation are common. Systemic manifestations include fever, tachycardia, and leukocytosis. Attempts at manual reduction should not be performed in suspected strangulation because of the risk of reduction en masse, where the compromised bowel is reduced into the peritoneal cavity, leading to delayed diagnosis of bowel necrosis and peritonitis."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 282,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "32세 남성이 2년 전부터 우측 서혜부에 덩이가 만져진다고 내원하였다. 환자는 덩이가 서있을 때 나타나고 누우면 사라지며, 최근에는 무거운 물건을 들 때마다 뻐근한 통증이 동반된다고 호소한다. 과거력상 특이사항은 없으며, 3개월 전 건강검진에서 모든 검사 결과는 정상이었다. 신체 검진에서 우측 서혜부에 약 3cm 크기의 부드러운 덩이가 촉지되며, 기침할 때 덩이가 커지고 누워서 압박하면 환원된다. 환자는 현재 건설업에 종사하고 있으며, 결혼을 앞두고 있어 치료 방법에 대해 상담을 원한다.",
+  "exam": "초음파 검사에서 우측 외측 서혜부 탈장이 확인되었으며, 탈장낭 내에는 장간막 지방조직이 관찰된다.",
+  "options": {
+    "A": "복강경을 이용한 TAPP(Transabdominal Preperitoneal) 수술",
+    "B": "복대 착용 및 외래 추적 관찰",
+    "C": "복강 내 항생제 세척만 시행",
+    "D": "개복술을 통한 일차 봉합술",
+    "E": "경화요법 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 전형적인 간접 서혜부 탈장(indirect inguinal hernia)으로 진단되었습니다. 서있을 때 덩이가 나타나고 누우면 사라지며, 기침할 때 덩이가 커지고 도수 환원이 가능한 환원성 탈장의 임상 양상을 보입니다. 초음파 검사에서도 외측 서혜부 탈장(indirect hernia)이 확인되었습니다. 건강한 젊은 성인에서의 서혜부 탈장은 자연적으로 치유되지 않으며, 시간이 지날수록 탈장낭이 커지고 감돈이나 교액의
+  위험이 높아질 수 있습니다. 특히 환자가 건설업에 종사하고 있어 무거운 물건을 자주 들게 되므로 합병증 발생 위험이 높습니다. 따라서 수술적 교정이 권장됩니다. 복강경 TAPP 술식은 최소 침습적인 방법으로 복구 강도가 우수하고 회복이 빠르며 통증이 적고 미용적으로도 우수하여, 젊은 환자에게 적합한 방법입니다. 복대 착용은 일시적인 증상 완화에는 도움이 될 수 있으나 치료 효과는 없으며, 젊은 환자에서 장기간 사용은 권장되지 않습니다. 복강 내 항생제 세척은 서혜부 탈장의 치료법이 아니며, 개복술을 통한 일차 봉합술은 단순 봉합으로 재발률이 높고 과도한 침습성이 있어 권장되지 않습니다. 경화요법은 서혜부 탈장에는 적용되지 않으며, 주로 정맥류 치료에 사용됩니다.",
+  "source": {
+    "file_name": "Current Surgical Therapy",
+    "content": "Laparoscopic hernia repair, including transabdominal preperitoneal (TAPP) and totally extraperitoneal (TEP) approaches, offers several advantages over open repair, particularly in young, active patients. These advantages include less postoperative pain, faster return to normal activities, reduced risk of chronic pain, and better cosmetic results. The TAPP approach allows for excellent visualization of the myopectineal orifice and placement of a large mesh that covers all potential hernia sites. It is particularly useful for bilateral hernias and recurrent hernias after previous open repair. For young patients with demanding physical occupations, laparoscopic repair is often the preferred approach due to its strength and durability."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 283,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "70세 여성이 복부 중앙에 발생한 덩이를 주소로 내원하였다. 환자는 3년 전 담낭 절제술을 받았으며, 수술 후부터 배꼽 주변에 작은 덩이가 만져졌으나 최근 1개월 동안 크기가 증가했다고 한다. 덩이는 누워 있을 때는 편평해지며, 기침하거나 서있을 때 더 두드러지게 된다. 또한 덩이 부위에 간헐적인 통증을 호소하며, 최근에는 소화불량과 복부 불편감이 동반된다고 한다. 신체 검진에서 복부 중앙선의 배꼽 상부에 약 5cm 크기의 부드럽고 환원 가능한 덩이가 관찰된다. 피부는 정상 색깔이며, 덩이 부위에 경미한 압통이 있다.",
+  "exam": "복부 CT에서 복부 중앙선의 근막 결손을 통해 복강 내 지방 조직이 돌출되어 있으며, 소장의 일부도 탈장낭 내에 포함되어 있다. 혈액 검사는 정상 범위이다.",
+  "options": {
+    "A": "절개 탈장(incisional hernia)",
+    "B": "상복부 정중 탈장(epigastric hernia)",
+    "C": "복직근 분리(diastasis recti)",
+    "D": "지방종(lipoma)",
+    "E": "복직근 혈종(rectus sheath hematoma)"
+  },
+  "answer": "A",
+  "explanation": "이 환자의 임상 양상은 절개 탈장(incisional hernia)에 합당합니다. 절개 탈장은 이전 복부 수술 절개 부위의 근막 결손을 통해 복강 내 내용물이 돌출되는 상태로, 복부 수술 후 5-10%에서 발생합니다. 이 환자는 3년 전 담낭 절제술을 받았으며, 수술 후부터 배꼽 주변에 덩이가 만져졌다고 합니다. 또한 덩이는 누워 있을 때 환원되고, 기침이나 서있을 때 더 두드러지는 전형적인 탈장의 특징을 보입니다. CT에서도 복부 중앙선의 근막 결손을 통해 복강 내 지방 조직과 소장의 일부가 돌출되어 있음이 확인되었습니다. 절개 탈장의 위험 인자로는 고령, 비만, 당뇨병, 영양 부족, 스테로이드 사용, 수술 후 감염, 만성 기침, 복부 팽만 등이 있습니다. 합병증으로는 감돈, 교액, 장폐색 등이 있으며, 증상이 있거나 크기가 증가하는 절개 탈장은 수술적 교정이 필요합니다. 상복부 정중 탈장은 배꼽과 흉골 검상돌기 사이의 복부 백선에 발생하는 일차성 탈장으로, 이전 수술 병력이 없는 환자에서 발생합니다. 복직근 분리는 복직근 사이의 백선이 넓어지는 상태로, 탈장과 달리 근막 결손이나 복강 내 내용물의 돌출이 없습니다. 지방종은 피하 조직의 양성 종양으로, 기침이나 자세 변화에 따라 크기가 변하지 않습니다. 복직근 혈종은 복직근 내부나 복직근 초 내에 혈액이 고이는 상태로, 갑작스러운 통증과 함께 발생하며 항응고제 사용, 외상, 기침 등과 관련이 있습니다.",
+  "source": {
+    "file_name": "Sabiston Textbook of Surgery",
+    "content": "Incisional hernias occur at sites of previous surgical incisions due to failure of fascial tissues to heal and close following surgery. They are common complications after abdominal surgery, with an incidence of 5-10%. Risk factors include advanced age, obesity, diabetes, malnutrition, steroid use, wound infection, chronic cough, and abdominal distention. Patients typically present with a bulge or swelling at the site of previous incision, which may reduce when lying down and become more prominent when standing or coughing. Pain, discomfort, and symptoms of intermittent bowel obstruction may occur. Diagnosis is primarily clinical, but CT imaging is useful to delineate the exact location and size of the defect, content of the hernia sac, and to rule out other pathologies. Complications include incarceration, strangulation, and bowel obstruction. Symptomatic or enlarging incisional hernias require surgical repair, which may be performed using open or laparoscopic techniques with mesh reinforcement."
+  },
+  "category": "General Surgery"
+}, 
+
+
+
 ]
