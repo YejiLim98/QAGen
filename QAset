@@ -6435,6 +6435,96 @@
   "category": "Neurology / Neurosurgery"
 },
 {
+"question_id": 1,
+"chief complaint": "발달지연",
+"purpose": "발달지연을 의심하는 아이에게서 한국형 영유아 건강검진을 이용하여 발달지연을 선별할 수 있다.",
+"question": "18개월 된 남아가 정기 검진을 위해 내원하였다. 어머니는 아이가 또래 아이들보다 발달이 느린 것 같다고 걱정하였다. 현재 아이는 몇 걸음 걷기는 하지만 쉽게 넘어지며, '엄마', '아빠' 외에 다른 말을 하지 못한다. 장난감을 가지고 놀기는 하나 주로 입에 넣거나 던지는 정도이다. 어머니는 아이가 자신의 이름을 불러도 반응이 없을 때가 있다고 한다. 출생력상 재태연령 37주, 출생체중 2.8kg으로 정상 질식분만하였고, 주산기 문제는 없었다. 가족력상 특이사항은 없다. 이 아이에 대한 평가로 가장 적절한 것은?",
+"exam": "신체검사: 체중 10.5kg (25-50 백분위수), 신장 79cm (25-50 백분위수), 두위 47cm (50 백분위수)\n발달검사: K-DST 사회성 영역 30점(또래 평균 45점), 언어 영역 28점(또래 평균 48점), 대근육 운동 32점(또래 평균 50점), 소근육 운동 35점(또래 평균 52점)",
+"options": {
+"A": "청력 검사를 시행한다.",
+"B": "뇌 MRI 검사를 시행한다.",
+"C": "정상 발달 범주이므로 추가 검사 없이 경과관찰한다.",
+"D": "염색체 마이크로어레이 검사를 시행한다.",
+"E": "아동 발달 전문가에게 의뢰한다."
+},
+"answer": "A",
+"explanation": "이 18개월 남아는 전반적인 발달지연 증상을 보이고 있습니다. 특히 언어 발달 지연(18개월에 2개 단어 이하)과 자신의 이름을 불러도 반응이 없는 청각 반응 저하가 관찰됩니다. 발달 영역 중 사회성, 언어, 대소근육 운동 영역에서 모두 지연이 보이며, K-DST 검사에서도 모든 영역이 또래 평균보다 낮습니다. 18개월 아동은 보통 10-15개 정도의 단어를 사용하고, 한 손으로 작은 물체를 잡고, 블록을 쌓으며, 이름을 부르면 반응하는 등의 발달 이정표를 보입니다. 이 환아는 이러한 발달 이정표에 도달하지 못했습니다. 특히 이름을 불러도 반응이 없다는 점은 청력 문제의 가능성을 시사합니다. 청력 손실은 언어 발달 지연의 중요한 원인이며, 전반적 발달지연의 원인이 될 수 있습니다. 따라서 청력 검사를 우선적으로 시행하는 것이 적절합니다. 청력 문제가 배제된 후에도 발달지연이 지속된다면 추가적인 검사(뇌 영상, 유전학적 검사 등)와 전문가 의뢰를 고려할 수 있습니다.",
+"source": "Pediatrics_Nelson_textbook_data.txt - Children with developmental speech or language disorder not due to motor or peripheral speech mechanisms abnormalities may exhibit language comprehension at the receptive level appropriate for age with abnormal expressive language (expressive language disorder) or both receptive and expressive deficits (mixed receptive-expressive language disorder).",
+"category": "Pediatrics"
+},
+{
+"question_id": 2,
+"chief complaint": "발달지연",
+"purpose": "발달지연이 있는 아이에게서 발달지연의 유형과 원인을 감별할 수 있다.",
+"question": "30개월 된 여아가 또래보다 말이 늦는다는 주 호소로 내원하였다. 산모는 임신 중 특별한 문제가 없었으며, 정상 질식분만으로 출생하였다. 출생 체중은 3.2kg이었다. 환아는 현재 '엄마', '아빠', '줘' 정도의 단어만 사용하며, 두 단어 조합은 불가능하다. 그러나 간단한 지시는 잘 따르고, 장난감을 가지고 상상놀이를 하며, 또래와의 상호작용도 적절하다. 대근육 및 소근육 운동발달은 정상이다. 신체검진에서 특이 소견은 없었고, 시각 및 청각 검사도 정상이었다. 이 환아의 가장 가능성 높은 진단은?",
+"exam": "K-DST: 사회성 영역 정상, 언어 영역 지연(또래 평균 미만), 대근육 운동 정상, 소근육 운동 정상\n청력 검사: 정상\n혈액 검사: CBC, 전해질, 갑상선 기능 검사 모두 정상",
+"options": {
+"A": "자폐 스펙트럼 장애",
+"B": "전반적 발달지연",
+"C": "특정 언어발달장애",
+"D": "주의력결핍 과잉행동장애",
+"E": "언어자극 부족"
+},
+"answer": "C",
+"explanation": "이 30개월 여아는 언어 영역에서만 발달 지연을 보이고 있습니다. 현재 3단어 정도만 사용하고 있으며, 두 단어 조합이 불가능한데, 이는 30개월 아동의 발달 이정표(50-100개 단어 사용, 2-3단어 문장 구사)에 비해 크게 지연된 상태입니다. 반면, 다른 발달 영역(사회성, 대근육 및 소근육 운동)은 정상이며, 지시 이해, 상상놀이, 또래 상호작용도 적절합니다. 특정 언어발달장애(Specific Language Impairment, SLI)는 다른 인지 기능이나 발달 영역은 정상인데 언어 영역만 지연되는 경우를 말합니다. 자폐 스펙트럼 장애는 언어 지연뿐만 아니라 사회적 상호작용 장애, 제한적이고 반복적인 행동 패턴을 동반하는데, 이 환아는 사회적 상호작용이 적절하고 상상놀이가 가능하므로 자폐 스펙트럼 장애의 가능성은 낮습니다. 전반적 발달지연은 언어, 운동, 인지, 사회성 등 여러 영역에서 지연이 나타나는데, 이 환아는 언어 영역만 지연되어 있습니다. 주의력결핍 과잉행동장애는 주의집중 문제, 과잉행동, 충동성이 주 증상이며, 언어 지연만으로는 진단할 수 없습니다. 언어자극 부족은 환경적 요인으로 인한 언어 지연을 의미하는데, 이 환아가 언어자극이 부족한 환경에 있다는 정보는 주어지지 않았습니다. 따라서 가장 가능성 높은 진단은 특정 언어발달장애입니다.",
+"source": "Pediatrics_Nelson_textbook_data.txt - Specific language impairment is a developmental language disorder in which a child has normal nonverbal intelligence but delayed development of language skills for no apparent reason. It is a common developmental disorder, affecting approximately 7% of kindergarten children.",
+"category": "Pediatrics"
+},
+{
+"question_id": 3,
+"chief complaint": "발달지연",
+"purpose": "발달지연이 있는 아이에게서 발달지연의 유형과 원인을 감별할 수 있다.",
+"question": "12개월 된 남아가 아직 혼자 앉지 못한다는 주 호소로 내원하였다. 환아는 재태연령 39주, 출생체중 3.0kg으로 정상 질식분만으로 출생하였다. 주산기 특이사항은 없었다. 발달력상 3개월에 목가누기, 6개월에 뒤집기가 가능했으나, 현재까지 혼자 앉지 못하고 있다. 손으로 장난감을 잡는 것은 가능하지만 손에서 손으로 옮기는 것은 어려워한다. '엄마', '아빠'와 같은 단어를 따라 말하고, 이름을 부르면 반응한다. 가족력상 외삼촌이 근육질환으로 10대에 사망했다고 한다. 신체검진에서 사지 근육의 긴장도가 감소되어 있고, 깊은힘줄반사는 저하되어 있다. 이 환아의 가장 가능성 높은 진단은?",
+"exam": "혈액 검사: CPK 1500 U/L (정상 범위: 55-170 U/L), LDH 450 U/L (정상 범위: 120-250 U/L), ALT 65 U/L (정상 범위: 7-40 U/L), AST 75 U/L (정상 범위: 10-40 U/L)\n근전도 검사: 근육병증(myopathy) 소견",
+"options": {
+"A": "뒤센형 근이영양증",
+"B": "척수성 근위축증",
+"C": "선천성 근긴장증",
+"D": "소아마비",
+"E": "뇌성마비"
+},
+"answer": "A",
+"explanation": "이 12개월 남아는 운동발달지연, 특히 대근육 운동발달의 지연을 보이고 있습니다. 12개월에 혼자 앉지 못하는 것은 명확한 운동발달지연입니다(정상적으로 6-7개월에 혼자 앉기 가능). 또한 소근육 운동(손에서 손으로 장난감 옮기기)도 지연되어 있습니다. 반면, 언어 및 사회성 발달은 적절해 보입니다. 신체검진에서 근육 긴장도 감소와 깊은힘줄반사 저하가 관찰되고, 혈액검사에서 CPK, LDH, ALT, AST 상승이 있으며, 근전도에서 근육병증 소견을 보입니다. 또한 외삼촌이 근육질환으로 사망한 가족력이 있습니다. 이러한 소견들은 X-연관성 열성으로 유전되는 뒤센형 근이영양증(Duchenne Muscular Dystrophy)에 합당합니다. 뒤센형 근이영양증은 디스트로핀 단백질의 결핍으로 발생하며, 근육 괴사와 근위축을 초래합니다. 초기에는 운동발달지연으로 나타나며, 혈청 CPK 상승이 특징적입니다. 척수성 근위축증은 하위운동신경원 질환으로, 근력 약화와 근위축이 나타나지만 CPK는 정상이거나 경미하게 상승합니다. 선천성 근긴장증은 출생 시부터 근육 강직이 있으며, 뇌성마비는 중추신경계 손상으로 인한 운동장애로 근긴장도 증가가 특징적입니다. 소아마비는 급성 이완성 마비로 발열 후 갑작스럽게 발생하는 특징이 있습니다. 따라서 이 환아의 임상양상, 검사결과, 가족력을 종합하면 뒤센형 근이영양증이 가장 가능성이 높습니다.",
+"source": "Pathology_Robbins_textbook_data.txt - Duchenne muscular dystrophy is X-linked recessive disease caused by mutations in the dystrophin gene. Dystrophin is a cytoskeletal protein that connects the actin cytoskeleton to the extracellular matrix. Affected boys typically present with motor developmental delay and show markedly elevated serum creatine kinase levels.",
+"category": "Pediatrics"
+},
+{
+"question_id": 4,
+"chief complaint": "발달지연",
+"purpose": "발달지연을 의심하는 아이에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+"question": "24개월 된 여아가 또래보다 발달이 전반적으로 느리다는 주 호소로 내원하였다. 현재 두 단어 조합은 불가능하고, 몇 걸음 걷기는 하나 불안정하며, 블록 쌓기나 낙서하기 같은 소근육 운동도 어려워한다. 환아는 재태연령 38주, 출생체중 2.9kg으로 정상 질식분만으로 출생하였으며, 주산기 문제는 없었다. 가족력상 특이사항 없음. 신체검진에서 키 80cm(3백분위수), 체중 9.8kg(5백분위수), 두위 47cm(25백분위수)이다. 피부에 다수의 café-au-lait 반점이 관찰되고, 겨드랑이 주근깨(freckle)가 있다. 이 환아에서 시행할 가장 적절한 검사는?",
+"exam": "K-DST: 전 영역(사회성, 언어, 대근육 운동, 소근육 운동) 모두 지연\n혈액 검사: CBC, 전해질, 간기능, 신장기능 검사 정상\n소변 검사: 정상",
+"options": {
+"A": "FISH 검사로 Williams 증후군 확인",
+"B": "혈중 페닐알라닌 수치 검사",
+"C": "NF1 유전자 검사",
+"D": "갑상선 기능 검사",
+"E": "뇌파 검사(EEG)"
+},
+"answer": "C",
+"explanation": "이 환아는 전반적 발달지연과 함께 다수의 café-au-lait 반점과 겨드랑이 주근깨(freckle)가 관찰됩니다. 이러한 피부 소견은 신경섬유종증 1형(Neurofibromatosis type 1, NF1)을 강하게 시사합니다. NF1의 진단 기준에는 6개 이상의 café-au-lait 반점(직경 5mm 이상)과 액와부 또는 서혜부의 주근깨(freckling)가 포함됩니다. NF1은 상염색체 우성으로 유전되는 질환으로, 다양한 신경발달 문제를 동반할 수 있으며, 전반적 발달지연 및 인지 장애도 흔히 관찰됩니다. 따라서 이 환아의 경우 NF1 유전자 검사가 가장 적절합니다. Williams 증후군은 수퍼밸브 대동맥 협착증, 특징적인 요정 얼굴(elfin facies), 인지 장애를 특징으로 하는데, 이 환아의 임상 소견과는 맞지 않습니다. 페닐케톤뇨증은 페닐알라닌 수치 상승으로 인한 대사질환으로, 치료하지 않으면 발달지연을 초래할 수 있지만, 환아의 피부 소견을 설명하지 못합니다. 갑상선 기능 이상은 발달지연의 원인이 될 수 있으나, 환아의 피부 소견과는 관련이 없습니다. 뇌파 검사는 간질 등 발작성 질환의 평가에 유용하지만, 현재 환아의 증상에서 발작을 시사하는 소견은 없습니다. 따라서 환아의 임상 소견을 종합하면 NF1 유전자 검사가 가장 적절합니다.",
+"source": "Pathology_Robbins_textbook_data.txt - Neurofibromatosis type 1 (NF1) is characterized by multiple neurofibromas, café-au-lait spots, and Lisch nodules (hamartomas of the iris). The café-au-lait spots, which increase in number and size with age, are flat, light brown, uniformly hyperpigmented macules that vary from 0.5 to 12 cm in greatest dimension. Axillary or inguinal freckling is a helpful diagnostic feature.",
+"category": "Pediatrics"
+},
+{
+"question_id": 5,
+"chief complaint": "발달지연",
+"purpose": "발달지연을 의심하는 아이에게 적합한 치료 계획을 수립할 수 있다.",
+"question": "36개월 된 남아가 또래와 잘 어울리지 못하고 언어 발달이 지연되어 내원하였다. 환아는 재태연령 40주, 출생체중 3.3kg으로 정상 질식분만하였다. 12개월에 첫 단어를 말했으나, 현재 30개 정도의 단어만 사용하고 두 단어 조합은 거의 하지 못한다. 눈 맞춤이 제한적이고, 다른 아이들과 함께 놀기보다는 혼자 놀기를 선호한다. 특히 자동차를 일렬로 세우는 놀이를 반복적으로 하고, 일상의 변화에 저항하며, 특정 소리에 과민하게 반응한다. 대소근육 운동 발달은 정상이다. 가족력상 부친의 사촌이 자폐 스펙트럼 장애로 진단받았다고 한다. 이 환아에 대한 가장 적절한 치료 계획은?",
+"exam": "ADOS-2: 자폐 스펙트럼 장애에 합당한 점수\nK-CARS: 30점(경도-중등도 자폐증)\nK-DST: 사회성 영역 지연, 언어 영역 지연, 대근육 운동 정상, 소근육 운동 정상\n청력 검사: 정상",
+"options": {
+"A": "항정신병 약물 치료를 시작한다.",
+"B": "응용행동분석(ABA) 치료와 언어치료를 시작한다.",
+"C": "지켜보면서 경과관찰한다.",
+"D": "주의력결핍 과잉행동장애 약물 치료를 시작한다.",
+"E": "간질에 대한 평가를 위해 뇌파검사를 시행한다."
+},
+"answer": "B",
+"explanation": "이 환아는 자폐 스펙트럼 장애(ASD)의 핵심 증상인 사회적 상호작용 결핍(눈 맞춤 부족, 또래 놀이 거부), 제한적/반복적 행동(일렬 놀이, 일상 변화 저항), 감각 과민성을 보입니다. ADOS-2와 K-CARS 검사에서 ASD 진단 기준을 충족합니다. ASD 치료의 1차 접근은 조기 행동 중재로, 응용행동분석(ABA)은 구조화된 환경에서 긍정적 강화를 통해 사회적 기술과 의사소통 능력을 향상시키는 근거 기반 치료법입니다[4]. 언어치료는 표현/수용 언어 발달을 촉진하고 대체 의사소통 수단(예: PECS)을 도입합니다. 항정신병약물(리스페리돈 등)은 공격성이나 자해행동 동반 시에만 보조적으로 사용되며, 이 환아에겐 적합하지 않습니다[3]. ASD는 신경발달장애로 경과관찰만으로 호전되지 않으며, 3세 이전 조기 개입이 예후를 크게 개선합니다[1][2].",
+  "source": "Psichiatry_DSM-5_textbook_data.txt - Autism spectrum disorder is characterized by persistent deficits in social communication and social interaction across multiple contexts, including deficits in social reciprocity, nonverbal communicative behaviors, and developing/maintaining relationships. Restricted, repetitive patterns of behavior, interests, or activities must also be present.",
+  "category": "Pediatrics"
+},
+{
   "question_id": 1,
   "chief complaint": "허리통증",
   "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
