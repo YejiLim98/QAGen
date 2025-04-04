@@ -5943,7 +5943,152 @@
   },
   "category": "General Surgery"
 }, 
-
-
+{
+  "question_id": 284,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "35세 임신 28주 여성이 배꼽 주위 통증과 덩이를 주소로 내원하였다. 환자는 첫 번째 임신 중이며, 임신 전에는 복부에 특별한 증상이 없었으나, 임신 20주경부터 배꼽 부위에 덩이가 나타났다고 한다. 최근 1주일 동안 덩이의 크기가 커지면서 통증이 심해졌으며, 구역감과 간헐적인 구토가 동반된다고 호소한다. 신체 검진에서 배꼽 부위에 약 3cm 크기의 부드럽고 압통이 있는 덩이가 관찰되며, 도수 환원을 시도했으나 부분적으로만 환원되었다. 자궁은 임신 주수에 맞게 커져 있으며, 태아 심음은 정상이다.",
+  "exam": "복부 초음파 검사에서 배꼽 근막 결손(약 2cm)을 통해 대망이 탈출되어 있으며, 장폐색 소견은 보이지 않는다. 일반혈액검사와 간기능, 신기능 검사는 정상이다.",
+  "options": {
+    "A": "응급 수술적 교정",
+    "B": "출산 후 수술적 교정",
+    "C": "임신 중 보존적 치료 후 출산 직후 수술적 교정",
+    "D": "도수 환원 후 복대 착용",
+    "E": "제왕절개술과 동시에 탈장 교정술 시행"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 임신 중 발생한 배꼽 탈장(umbilical hernia)으로 진단됩니다. 임신 중에는 복강 내 압력 증가, 복벽 근육의 이완, 이전에 존재하던 작은 근막 결손의 확장 등으로 인해 배꼽 탈장이 발생하거나 악화될 수 있습니다. 임신 중 발생한 배꼽 탈장은 일반적으로 감돈이나 교액과 같은 심각한 합병증이 없는 한, 임신 기간 동안은 보존적으로 치료하고 출산 후에 수술적 교정을 고려하는 것이 표준 치료입니다. 이 환자의 경우 부분적으로만 환원되는 상태로 감돈의 위험이 있으나, 현재 장폐색 소견은 없고 대망만 탈출된 상태이므로 즉각적인 수술이 필요한 응급 상황은 아닙니다. 임신 중 수술은 태아와 산모 모두에게 위험을 증가시킬 수 있으므로, 가능한 한 피하는 것이 좋습니다. 따라서 임신 기간 동안은 복대 착용, 활동 제한, 변비 예방 등의 보존적 치료를 시행하면서 정기적으로 관찰하고, 출산 직후(보통 산후 2-3개월 내)에 수술적 교정을 시행하는 것이 가장 적절한 치료 계획입니다. 응급 수술적 교정은 교액이나 복막염과 같은 심각한 합병증이 있을 때만 고려됩니다. 단순히 출산 후로 수술을 미루는 것은 현재 환자의 증상(통증, 구역감, 구토)이 심하고 부분 감돈 상태를 고려할 때 적절하지 않을 수 있습니다. 도수 환원 후 복대 착용은 일시적인 증상 완화에 도움이 될 수 있으나, 이미 부분적으로만 환원되는 상태이므로 완전한 해결책이 되지 못합니다. 제왕절개술과 동시에 탈장 교정술을 시행하는 것은 수술 시간 연장, 감염 위험 증가, 회복 지연 등의 문제가 있어 일반적으로 권장되지 않습니다.",
+  "source": {
+    "file_name": "Williams Obstetrics",
+    "content": "Umbilical hernias may develop or worsen during pregnancy due to increased intra-abdominal pressure and stretching of the abdominal wall. Management of umbilical hernias during pregnancy is generally conservative unless there are signs of strangulation or bowel obstruction. Conservative measures include abdominal binders, activity modification, and prevention of constipation. Surgical repair is typically deferred until after delivery, usually 2-3 months postpartum, when the abdominal wall has returned to its pre-pregnancy state and the risk of recurrence is lower. Emergency surgery during pregnancy is reserved for cases with signs of strangulation, incarceration with obstruction, or peritonitis. Combined procedures such as hernia repair during cesarean section are generally not recommended due to increased operative time, infection risk, and delayed recovery, particularly in the immediate postpartum period when tissue healing may be compromised by the physiologic changes of pregnancy."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 285,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "42세 여성이 좌측 서혜부 덩이를 주소로 내원하였다. 환자는 6개월 전부터 좌측 서혜부에 덩이가 만져졌으며, 서 있을 때 더 뚜렷해지고 누우면 사라진다고 한다. 최근에는 무거운 물건을 들 때마다 서혜부 통증이 발생한다고 호소한다. 환자는 3년 전 제왕절개로 출산한 이후 체중이 10kg 증가하였고, 현재 사무직에 종사하고 있다. 신체 검진에서 좌측 서혜부에 약 2cm 크기의 부드러운 덩이가 촉지되며, 기침할 때 덩이가 더 뚜렷해지고 쉽게 환원된다. 복부 CT 검사를 시행하였다.",
+  "exam": "복부 CT에서 좌측 대퇴 혈관 내측으로 원형의 근막 결손(약 1.5cm)을 통해 복강 내 지방 조직이 돌출되어 있으며, 장관의 탈출은 관찰되지 않는다.",
+  "options": {
+    "A": "간접 서혜부 탈장(indirect inguinal hernia)",
+    "B": "직접 서혜부 탈장(direct inguinal hernia)",
+    "C": "대퇴 탈장(femoral hernia)",
+    "D": "폐쇄공 탈장(obturator hernia)",
+    "E": "복직근 탈장(Spigelian hernia)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 대퇴 탈장(femoral hernia)으로 진단됩니다. 대퇴 탈장은 대퇴관(femoral canal)을 통해 복강 내 내용물이 탈출하는 것으로, 대퇴 혈관 내측에 위치하는 특징이 있습니다. CT 소견에서 좌측 대퇴 혈관 내측으로 근막 결손을 통해 복강 내 지방 조직이 돌출되어 있는 것이 확인되었습니다. 대퇴 탈장은 여성에서 더 흔하며(여성:남성 = 4:1), 임신, 출산, 비만, 만성 기침, 만성 변비 등이 위험 인자입니다. 이 환자의 경우 제왕절개 출산 후 체중이 증가한 것이 위험 인자로 작용했을 가능성이 있습니다. 대퇴 탈장은 서혜부 탈장에 비해 상대적으로 드물지만(전체 서혜부 영역 탈장의 약 2-8%), 감돈과 교액의 위험이 높아(약 40%) 진단 시 수술적 교정이 권장됩니다. 간접 서혜부 탈장은 내서혜륜(internal inguinal ring)을 통해 복강 내 내용물이 서혜관으로 탈출하는 것으로, 정삭(정관) 또는 원인대를 따라 진행하며, 때로는 음낭이나 대음순까지 확장될 수 있습니다. 직접 서혜부 탈장은 Hesselbach 삼각(Hesselbach's triangle) 내의 복벽 근막 약화로 인해 발생하며, 하복벽 혈관의 내측에 위치합니다. 폐쇄공 탈장은 폐쇄공(obturator foramen)을 통해 복강 내 내용물이 탈출하는 것으로, 매우 드물며 주로 고령의 여성에서 발생합니다. 임상적으로 비특이적이며, 종종 장폐색의 형태로 발현됩니다. 복직근 탈장(Spigelian hernia)은 복직근 외측 가장자리(linea semilunaris)를 따라 발생하는 탈장으로, 복벽의 Spigelian 근막(반월선과 복직근 외측 가장자리 사이의 무근육 부위)을 통해 복강 내 내용물이 탈출하는 것입니다.",
+  "source": {
+    "file_name": "Greenfield's Surgery: Scientific Principles and Practice",
+    "content": "Femoral hernias occur through the femoral canal, medial to the femoral vessels. They are more common in women than men by a ratio of approximately 4:1, and risk factors include pregnancy, childbirth, obesity, chronic cough, and constipation. Although femoral hernias account for only 2-8% of all groin hernias, they have a significantly higher risk of incarceration and strangulation (approximately 40%) compared to inguinal hernias, due to the narrow and rigid boundaries of the femoral canal. On CT imaging, femoral hernias appear as protrusions of intra-abdominal contents through a defect medial to the femoral vessels. Initially, they may contain only preperitoneal fat, but can progress to contain bowel. Due to their high risk of complications, femoral hernias should be surgically repaired promptly upon diagnosis, even if asymptomatic."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 286,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "55세 남성이 갑작스러운 좌측 서혜부 통증을 주소로 응급실에 내원하였다. 환자는 1년 전부터 좌측 서혜부 탈장으로 진단받았으나 수술을 미루고 있었으며, 오늘 아침 운동 중 갑자기 심한 통증이 발생했다고 한다. 통증은 지속적이고 심하며, 구토가 3회 있었다고 한다. 신체 검진에서 좌측 서혜부에 약 4cm 크기의 단단하고 압통이 심한 덩이가 촉지되며, 환원을 시도했으나 실패하였다. 복부는 약간 팽만되어 있고, 장음은 항진되어 있다. 활력징후는 혈압 130/80 mmHg, 맥박 105회/분, 체온 37.5°C이다. 환자는 4시간 전에 마지막으로 음식을 섭취했다고 한다.",
+  "exam": "백혈구 12,000/μL, CRP 2.5mg/dL로 상승되어 있다. 복부 CT에서 좌측 서혜부 탈장낭 내에 소장 고리가 갇혀 있으며, 장벽의 조영 증강이 감소되어 있고 주변에 액체 저류가 관찰된다. 근위부 소장은 확장되어 있다.",
+  "options": {
+    "A": "도수 환원 후 경과 관찰",
+    "B": "항생제 투여 및 금식, 비위관 삽입",
+    "C": "응급 탈장 교정술 및 장 절제술",
+    "D": "응급 탈장 교정술(장 절제 없이)",
+    "E": "메쉬를 이용한 계획된 탈장 교정술"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 교액 서혜부 탈장(strangulated inguinal hernia)으로 진단됩니다. 장기간 존재하던 서혜부 탈장에서 갑작스러운 심한 통증, 구토, 탈장의 단단함, 압통, 환원 불가능 등의 임상 증상은 교액을 강하게 시사합니다. 또한 CT에서 장벽의 조영 증강 감소는 장의 허혈을 의미하며, 주변 액체 저류는 염증이나 괴사의 징후입니다. 근위부 소장의 확장은 장폐색이 동반되었음을 나타냅니다. 교액 탈장은 탈장낭 내 장관의 혈액 공급이 차단되어 장 괴사가 발생한 상태로, 외과적 응급 상황입니다. 이 경우 즉각적인 수술적 개입이 필요하며, 괴사된 장관의 절제가 필요할 가능성이 높습니다. 따라서 응급 탈장 교정술 및 장 절제술이 가장 적절한 치료법입니다. 도수 환원은 교액 탈장에서 금기이며, 이미 괴사된 장을 복강 내로 환원시킬 경우 복막염을 유발할 수 있고, 장 천공의 위험도 있습니다. 항생제 투여 및 금식, 비위관 삽입은 보조적인 치료로 시행할 수 있으나, 이 환자의 경우 장 괴사가 의심되어 응급 수술이 필요하므로 충분한 치료가 되지 못합니다. 장 절제 없는 응급 탈장 교정술은 장 괴사가 의심되는 경우 부적절하며, 계획된 탈장 교정술은 응급 상황에서 적합하지 않습니다.",
+  "source": {
+    "file_name": "Schwartz's Principles of Surgery",
+    "content": "Strangulated hernia represents a surgical emergency requiring immediate operative intervention. The diagnosis is established by the presence of an irreducible hernia with signs of intestinal obstruction, systemic toxicity, and local inflammatory changes. CT findings suggestive of strangulation include decreased enhancement of the bowel wall, free fluid in the hernia sac, and bowel wall thickening. During surgery for strangulated hernia, careful assessment of bowel viability is crucial. Nonviable bowel appears dark, hemorrhagic, and lacks peristalsis and mesenteric arterial pulsations. When bowel viability is questionable or clearly compromised, resection of the affected segment with primary anastomosis is necessary. Attempts at manual reduction of suspected strangulated hernias are contraindicated due to the risk of reduction en masse, where the compromised bowel is reduced into the peritoneal cavity, potentially leading to delayed diagnosis of bowel necrosis and peritonitis."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 287,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "30세 남성이 3일 전부터 발생한 급성 음낭 통증과 오른쪽 서혜부 덩이를 주소로 내원하였다. 환자는 평소 우측 서혜부에 덩이가 있었으나 통증이 없어 방치해왔으며, 3일 전부터 갑자기 덩이가 커지면서 통증이 시작되었다고 한다. 통증은 지속적이고 심하며, 구역감과 구토가 동반되었다고 한다. 신체 검진에서 우측 서혜부에서 음낭까지 이어지는 약 5cm 크기의 단단하고 압통이 심한 덩이가 촉지되며, 우측 음낭은 부종과 발적이 있다. 고환은 촉지되나 압통이 심하고, 거상 시 통증이 완화되지 않는다. 복부는 약간 팽만되어 있고, 장음은 증가되어 있다.",
+  "exam": "백혈구 14,500/μL, CRP 6.5mg/dL로 상승되어 있다. 도플러 초음파 검사에서 우측 서혜부에서 음낭까지 이어지는 탈장낭이 관찰되며, 그 안에 장 고리와 고환이 모두 포함되어 있다. 고환의 혈류는 감소되어 있으며, 음낭 내 액체 저류가 관찰된다.",
+  "options": {
+    "A": "항생제 투여 및 보존적 치료",
+    "B": "도수 환원 시도 후 계획된 수술",
+    "C": "진통제 투여 및 냉찜질",
+    "D": "응급 탈장 교정술 및 고환 보존술",
+    "E": "응급 탈장 교정술 및 고환 절제술"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 교액 서혜-음낭 탈장(strangulated inguinoscrotal hernia)과 함께 고환허혈이 동반된 상태입니다. 서혜-음낭 탈장은 서혜부 탈장이 음낭까지 확장된 것으로, 증상이 없는 경우가 많지만 감돈이나 교액이 발생하면 급성 통증과 전신 증상을 유발할 수 있습니다. 이 환자의 경우 갑작스러운 통증, 구역감, 구토, 탈장의 단단함, 압통, 음낭의 부종과 발적 등의 임상 증상은 교액을 강하게 시사합니다. 또한 초음파에서 고환의 혈류 감소는 탈장으로 인한 고환허혈을 의미합니다. 교액 서혜-음낭 탈장은 외과적 응급 상황으로, 즉각적인 수술적 개입이 필요합니다. 수술 시 탈장낭 내 장관의 생존력을 평가하고, 괴사된 부분이 있다면 절제해야 하며, 고환의 생존력도 확인해야 합니다. 초음파에서 고환의 혈류가 완전히 차단되지는 않았으므로, 고환 보존이 가능할 것으로 판단됩니다. 따라서 응급 탈장 교정술 및 고환 보존술이 가장 적절한 치료법입니다. 항생제 투여 및 보존적 치료, 진통제 투여 및 냉찜질은 교액 탈장에서 충분한 치료가 되지 못하며, 장괴사와 고환 괴사의 위험이 있습니다. 도수 환원은 교액 탈장에서 금기이며, 이미 장 허혈이나 괴사가 있는 경우 복막염을 유발할 수 있습니다. 고환의 혈류가 완전히 차단되지 않은 상태에서 고환 절제술은 과도한 치료이며, 가능한 한 고환을 보존하는 것이 좋습니다.",
+  "source": {
+    "file_name": "Urologic Clinics of North America",
+    "content": "Inguinoscrotal hernias can lead to testicular ischemia through several mechanisms, including compression of the testicular blood supply within the hernia sac or direct pressure on the spermatic cord vessels. In cases of strangulated inguinoscrotal hernias, urgent surgical intervention is required not only to address the compromised bowel but also to preserve testicular function. Doppler ultrasound findings of decreased but present testicular blood flow indicate partial ischemia rather than complete infarction, suggesting that testicular salvage may be possible with prompt intervention. The surgical approach involves careful reduction of the hernia contents, assessment of bowel viability with resection if necessary, repair of the hernia defect, and evaluation of testicular perfusion. Following reduction of the hernia and release of compression on the spermatic cord, testicular blood flow often improves, allowing for testicular preservation. Orchiectomy is reserved for cases with evident testicular necrosis. Postoperative Doppler ultrasound assessment may be valuable to confirm restoration of adequate testicular blood flow."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 288,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게서 원인, 중증도 및 합병증을 파악할 수 있다.",
+  "question": "25세 남성이 1년 전부터 간헐적으로 발생하는 우측 음낭 통증과 덩이를 주소로 내원하였다. 환자는 통증이 무거운 물건을 들거나 오래 서 있을 때 심해지고, 누우면 호전된다고 한다. 1주일 전부터는 우측 음낭이 갑자기 커지고 통증이 심해져 일상생활에 지장이 있다고 호소한다. 신체 검진에서 우측 서혜부에서 음낭까지 이어지는 약 4cm 크기의 덩이가 촉지되며, 덩이는 부드럽고 환원이 가능하다. 기침 시 덩이가 더 뚜렷해지고, 투조 검사에서 양성 소견을 보인다. 우측 고환은 정상 크기이나 덩이에 의해 아래로 밀려 있다.",
+  "exam": "초음파 검사에서 우측 서혜부에서 음낭까지 이어지는 탈장낭이 관찰되며, 탈장낭 내에는 장관과 복막 앞 지방이 포함되어 있다. 고환과 부고환은 정상 소견이다.",
+  "options": {
+    "A": "정계정맥류(varicocele)",
+    "B": "음낭수종(hydrocele)",
+    "C": "정삭낭종(spermatic cord cyst)",
+    "D": "간접 서혜부 탈장(indirect inguinal hernia)",
+    "E": "고환 염전(testicular torsion)"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 간접 서혜부 탈장(indirect inguinal hernia)으로 진단됩니다. 간접 서혜부 탈장은 복강 내 내용물이 내서혜륜(internal inguinal ring)을 통해 서혜관(inguinal canal)으로 진입하여 외서혜륜(external inguinal ring)을 통과해 음낭까지 내려오는 상태로, 해부학적으로 복막초(processus vaginalis)의 불완전한 퇴화로 인해 발생합니다. 임상적으로 서혜부에서 음낭까지 이어지는 덩이가 촉지되며, 기침이나 복압 증가 시 덩이가 더 뚜렷해지고, 누우면 환원되는 특징이 있습니다. 초음파 검사에서 탈장낭 내에 장관과 복막 앞 지방이 관찰되는 것은 간접 서혜부 탈장을 강력히 시사합니다. 정계정맥류는 정계정맥(pampiniform plexus)의 확장으로, 주로 좌측에 발생하며 서 있을 때 더 뚜렷해지고 누우면 사라지는 특징이 있습니다. '벌레 주머니' 같은 느낌으로 만져지며, 초음파에서 확장된 정맥이 관찰됩니다. 음낭수종은 고환과 부고환을 둘러싸는 초막(tunica vaginalis) 내에 장액성 액체가 고이는 상태로, 무통성의 투명한 덩이가 특징이며, 투조 검사에서 양성 소견을 보입니다. 정삭낭종은 정삭 내 발생하는 낭종으로, 대부분 무증상이며 고환 상부에 단단한 덩이로 만져집니다. 고환 염전은 갑작스러운 심한 통증과 함께 고환이 붓고 단단해지는 특징이 있으며, 긴급한 외과적 응급 상황입니다. 이 환자의 임상 양상(기침 시 덩이가 더 뚜렷해짐, 누우면 호전됨)과 초음파 소견(탈장낭 내 장관과 복막 앞 지방)은 간접 서혜부 탈장에 합당합니다.",
+  "source": {
+    "file_name": "Campbell-Walsh Urology",
+    "content": "Indirect inguinal hernias are the most common type of groin hernia in males, accounting for approximately 80% of all inguinal hernias. They result from persistence or reopening of the processus vaginalis, a peritoneal outpouching that normally obliterates after testicular descent. These hernias exit the abdomen through the internal inguinal ring lateral to the inferior epigastric vessels, follow the spermatic cord through the inguinal canal, and may extend into the scrotum. Clinical presentation includes a groin bulge that extends along the inguinal canal and sometimes into the scrotum, which typically increases with Valsalva maneuvers and standing, and reduces when supine. On ultrasound, indirect inguinal hernias appear as herniation of abdominal contents (bowel loops, omentum) through the internal ring into the inguinal canal, with potential extension into the scrotum. Ultrasound can reliably differentiate hernias from other scrotal pathologies such as hydroceles, varicoceles, or testicular masses. Transillumination may be positive if the hernia sac contains only fluid or omentum, but negative if it contains bowel."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 289,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "66세 남성이 배꼽 주위 통증과 덩이를 주소로 내원하였다. 환자는 3년 전부터 배꼽 주위에 덩이가 있었으나 최근 2주 동안 크기가 증가하고 통증이 심해졌다고 한다. 환자는 만성 폐쇄성 폐질환으로 스테로이드를 간헐적으로 사용 중이며, 4년 전 대장암으로 복강경 수술을 받은 이력이 있다. 신체 검진에서 배꼽 주위에 약 5cm 크기의 단단하고 압통이 있는 덩이가 관찰되며, 환원을 시도했으나 부분적으로만 환원된다. 복부는 약간 팽만되어 있으나 반발통은 없고, 장음은 항진되어 있다. 환자는 대변을 3일째 보지 못했으며, 간헐적인 구역감이 있다고 한다.",
+  "exam": "혈액 검사에서 백혈구 10,500/μL로 약간 상승되어 있다. 복부 CT에서 배꼽 탈장이 확인되었으며, 탈장낭 내에 소장 고리가 포함되어 있고 근위부 소장의 확장이 관찰된다. 전이나 재발을 시사하는 종괴는 보이지 않는다.",
+  "options": {
+    "A": "도수 환원 후 계획된 수술",
+    "B": "응급 수술적 교정(장 절제 없이)",
+    "C": "응급 수술적 교정(필요시 장 절제)",
+    "D": "보존적 치료(비위관 삽입, 금식, 항생제 투여) 후 계획된 수술",
+    "E": "복대 착용 및 경과 관찰"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 부분 감돈된 배꼽 탈장(partially incarcerated umbilical hernia)과 함께 장폐색 증상을 보이는 상태입니다. 배꼽 탈장은 배꼽 부위의 근막 약화로 인해 복강 내 내용물이 탈출하는 것으로, 성인에서는 만성 복압 증가(비만, 복수, 만성 기침, 다산, 장기간의 복부 팽만 등)와 관련이 있습니다. 이 환자의 경우 만성 폐쇄성 폐질환으로 인한 만성 기침, 스테로이드 사용으로 인한 조직 약화, 이전 복부 수술 등이 위험 인자로 작용했을 가능성이 있습니다. 환자의 임상 양상(부분 감돈된 탈장, 3일간 배변 없음, 구역감, 복부 팽만, 장음 항진)과 CT 소견(탈장낭 내 소장 고리, 근위부 소장 확장)은 탈장으로 인한 장폐색을 시사합니다. 이는 외과적 응급 상황으로, 장 괴사의 위험이 있어 즉각적인 수술적 개입이 필요합니다. 따라서 응급 수술적 교정(필요시 장 절제)이 가장 적절한 치료법입니다. 수술 시 탈장낭 내 장관의 생존력을 평가하고, 괴사된 부분이 있다면 절제해야 합니다. 도수 환원 후 계획된 수술은 감돈된 탈장에서 권장되지 않으며, 특히 장폐색 증상이 있는 경우 장 손상이나 복막염의 위험이 있습니다. 또한 환원 후에도 장의 생존력을 평가할 수 없어 장 괴사를 놓칠 가능성이 있습니다. 응급 수술적 교정(장 절제 없이)은 수술 중 장의 생존력 평가에 따라 장 절제가 필요할 수 있으므로, 미리 장 절제 가능성을 배제하는 것은 적절하지 않습니다. 보존적 치료 후 계획된 수술은 감돈이 해소되고 장폐색이 호전된 경우에 고려할 수 있으나, 이 환자처럼 부분 감돈이 지속되고 장폐색 증상이 있는 경우에는 적절하지 않습니다. 복대 착용 및 경과 관찰은 증상이 경미하고 합병증이 없는 탈장에서만 고려할 수 있으며, 이 환자와 같이 감돈과 장폐색이 있는 경우에는 부적절합니다.",
+  "source": {
+    "file_name": "Current Surgical Therapy",
+    "content": "Incarcerated umbilical hernias with signs of bowel obstruction represent a surgical emergency requiring prompt intervention. When a hernia becomes incarcerated and causes bowel obstruction, there is a significant risk of progression to strangulation, which can lead to bowel necrosis, peritonitis, and sepsis if not addressed promptly. The surgical approach for incarcerated umbilical hernias involves reduction of the hernia contents, careful assessment of bowel viability, resection of any nonviable segments, and repair of the hernia defect. Attempts at manual reduction of incarcerated hernias with obstructive symptoms are generally contraindicated due to the risk of reducing compromised bowel into the peritoneal cavity, potentially leading to occult strangulation and peritonitis. Additionally, forceful reduction attempts may cause bowel perforation. While watchful waiting or elective repair may be appropriate for asymptomatic or minimally symptomatic umbilical hernias, the presence of incarceration with obstructive symptoms mandates emergency surgical intervention. Risk factors for umbilical hernia in adults include chronic increased intra-abdominal pressure (obesity, ascites, chronic cough, pregnancy), connective tissue disorders, and previous abdominal surgeries. Corticosteroid use can contribute to tissue weakness and impair wound healing."
+  },
+  "category": "General Surgery"
+}, 
+{
+  "question_id": 290,
+  "chief_complaint": "배벽과 서혜부 덩이/탈장",
+  "purpose": "배벽과 서혜부 덩이 또는 탈장을 갖고 있는 사람에게 원인질환에 따른 적합한 치료 계획을 세울 수 있다.",
+  "question": "60세 남성이 복부 CT에서 우연히 발견된 우측 서혜부 탈장으로 외래에 내원하였다. 환자는 특별한 증상이 없으며, 신체 검진에서도 서혜부에 덩이가 만져지지 않는다. 복부 CT에서는 우측 서혜관을 통해 약 1.5cm 크기의 복막 앞 지방(preperitoneal fat)이 탈출되어 있으나, 장관이나 다른 복강 내 장기의 탈출은 없다. 환자는 관상동맥질환으로 6개월 전 관상동맥 스텐트 삽입술을 받았으며, 현재 아스피린과 클로피도그렐을 복용 중이다. 체질량지수는 28kg/m²이고, 흡연력은 없다. 환자는 가벼운 사무직에 종사하고 있으며, 취미로 주 2회 골프를 친다고 한다.",
+  "exam": "심전도와 기본 혈액 검사는 정상 범위이다. 흉부 X선에서 특이 소견은 없다.",
+  "options": {
+    "A": "관찰(watchful waiting)",
+    "B": "항혈소판제 중단 후 즉시 수술",
+    "C": "복강경 서혜부 탈장 교정술",
+    "D": "트러스(truss) 착용",
+    "E": "개복 수술을 통한 탈장 교정술"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 무증상의 작은 서혜부 탈장으로 진단되었습니다. 서혜부 탈장에 대한 전통적인 견해는 진단 즉시 수술적 교정을 권장하는 것이었으나, 최근 연구들에 따르면 무증상 또는 경미한 증상의 서혜부 탈장, 특히 합병증 위험이 낮은 작은 탈장의 경우 관찰(watchful waiting)이 안전한 선택지가 될 수 있습니다. 본 환자의 경우 증상이 없고, CT에서 관찰된 탈장도 복막 앞 지방만 포함된 작은 크기(1.5cm)로 감돈이나 교액의 위험이 낮으며, 최근 관상동맥 스텐트 삽입으로 항혈소판제를 복용 중인 상태로 수술적 치료보다는 관찰이 더 적절한 선택입니다. 관찰을 선택할 경우 정기적인 추적 관찰이 필요하며, 증상이 발생하거나 탈장의 크기가 증가하면 수술적 치료를 고려할 수 있습니다. 약물 방출 스텐트 삽입 후 최소 6-12개월간은, 그리고 일부 조건에서는 더 오래 이중 항혈소판요법을 유지해야 하므로, 항혈소판제 중단 후 즉시 수술하는 것은 스텐트 혈전증 위험이 있어 권장되지 않습니다. 복강경 서혜부 탈장 교정술은 증상이 있는 탈장에서 고려할 수 있으나, 무증상의 작은 탈장에서는 수술로 인한 위험(마취 합병증, 만성 통증, 재발 등)이 수술의 이점보다 클 수 있습니다. 트러스 착용은 외래 환경에서 일부 환자들에게 일시적인 대안이 될 수 있으나, 장기적인 사용은 피부 궤양, 탈장낭 유착, 근육 위축 등의 합병증을 유발할 수 있어 일반적으로 권장되지 않습니다. 개복 수술은 복강경 수술에 비해 더 침습적이며, 회복 기간이 길고 통증이 심하므로 현대적인 탈장 치료에서는 특별한 적응증이 없는 한 선호되지 않습니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Recent evidence suggests that a strategy of watchful waiting is a safe and acceptable option for men with asymptomatic or minimally symptomatic inguinal hernias. The landmark Fitzgibbons trial and the UK-based O'Dwyer study showed that watchful waiting did not lead to an increased rate of hernia complications compared to surgical repair. The risk of hernia strangulation is very low (approximately 0.3% per year) for minimally symptomatic hernias, particularly small hernias containing only fat. For patients with significant comorbidities or those taking antiplatelet therapy following recent coronary stent placement, the risks of surgical intervention may outweigh the benefits. After drug-eluting stent placement, dual antiplatelet therapy should be continued for at least 6-12 months, and in some cases longer, to prevent stent thrombosis. Elective surgery during this period is generally discouraged unless absolutely necessary. Watchful waiting involves regular follow-up to monitor for changes in hernia size or development of symptoms. If pain or other symptoms develop, or if the hernia enlarges significantly, surgical repair can be considered at that time. The use of trusses is generally not recommended as a long-term solution due to associated complications including skin ulceration, adhesion formation in the hernia sac, and muscle atrophy."
+  },
+  "category": "General Surgery"
+}
 
 ]
