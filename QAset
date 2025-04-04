@@ -6525,6 +6525,188 @@
   "category": "Pediatrics"
 },
 {
+  "question_id": 6,
+  "chief complaint": "발달지연",
+  "purpose": "발달지연을 의심하는 아이에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "15개월 된 남아가 아직 혼자 서지 못하고 '엄마', '아빠' 외에 단어를 말하지 않는다. 출생력상 재태연령 36주, 출생체중 2.5kg으로 제왕절개로 출생하였다. 신체검사에서 큰 혀(macroglossia), 근육 긴장도 저하, 제대 탈출이 관찰되었다. 체온 35.8°C로 저체온이 확인되었다. 이 환아에서 가장 먼저 시행해야 할 검사는?",
+  "exam": "혈액 검사: 헤모글로빈 9.8 g/dL, MCV 78 fL\n방사선 검사: 미성숙 골단 소견",
+  "options": {
+    "A": "갑상선 기능 검사(TSH, free T4)",
+    "B": "뇌 MRI",
+    "C": "염색체 검사",
+    "D": "청력 검사",
+    "E": "소변 유기산 검사"
+  },
+  "answer": "A",
+  "explanation": "이 환아는 선천성 갑상선기능저하증의 전형적 증상(발달지연, 거친 얼굴형, 큰 혀, 근긴장도 저하, 저체온)을 보입니다. 미성숙 골단은 갑상선호르몬 결여 시 나타나는 X선 소견입니다. 선천성 갑상선기능저하증은 신생아 선별검사 대상이지만, 재태연령 36주의 조기출생아에서는 검사 시기가 달라져 놓칠 수 있습니다[3]. TSH와 free T4 측정이 진단에 필수적이며, 조기 치료(levothyroxine)로 발달 예후가 크게 개선됩니다[1]. 타 옵션은 2차적으로 고려할 검사들입니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Congenital hypothyroidism presents with prolonged jaundice, lethargy, poor feeding, and delayed bone maturation. Early thyroid hormone replacement is critical to prevent intellectual disability.",
+  "category": "Pediatrics"
+},
+{
+  "question_id": 7,
+  "chief complaint": "발달지연",
+  "purpose": "발달지연이 있는 아이에게서 발달지연의 유형과 원인을 감별할 수 있다.",
+  "question": "24개월 된 여아가 걷지 못하고 앉은 자세 유지도 어려워한다. 재태연령 28주, 출생체중 1.2kg으로 출생 후 8주간 인큐베이터 치료 받은 과거력이 있다. 신체검사에서 하지 근육의 경직(spasticity)과 고관절 내전 근육 단축이 관찰된다. 이 환아의 발달지연 원인으로 가장 가능성 높은 것은?",
+  "exam": "뇌 MRI: 뇌실 주위 백질 연화증(PVL) 소견\n신경학적 검사: 양측 하지의 힘줄반사 항진, Babinski 반사 양성",
+  "options": {
+    "A": "뇌성마비(spastic diplegia)",
+    "B": "척수성 근위축증",
+    "C": "선천성 대사이상",
+    "D": "뒤센형 근이영양증",
+    "E": "신경섬유종증 1형"
+  },
+  "answer": "A",
+  "explanation": "극소저체중출생아(ELBW)와 미숙아에서 발생한 뇌실 주위 백질연화증(PVL)은 뇌성마비(특히 경직형 양하지마비)의 주요 원인입니다[2]. 미숙아의 백질 손상은 상위운동신경원 장애를 유발하며, 이는 경직, 힘줄반사 항진, 병적 반사 등의 증상으로 나타납니다. 척수성 근위축증은 하위운동신경원 증상(근위약, 근위축, 반사저하)을 보입니다. 영상소견과 임상증상의 조합으로 뇌성마비가 최종 진단됩니다.",
+  "source": "Pathology_Robbins_textbook_data.txt - Periventricular leukomalacia (PVL) is a form of white-matter injury seen in premature infants, characterized by coagulation necrosis of the white matter adjacent to the lateral ventricles. It is a major cause of cerebral palsy.",
+  "category": "Pediatrics"
+},
+{
+  "question_id": 8,
+  "chief complaint": "발달지연",
+  "purpose": "발달지연을 의심하는 아이에게서 병력청취와 신체진찰을 통해 발달지연의 종류와 원인을 감별할 수 있다.",
+  "question": "3세 남아가 언어 및 사회성 발달지연으로 내원하였다. 신체검사에서 긴 얼굴형, 큰 귀, 큰 고환(고환용적 >30mL)이 관찰되었다. 가족력상 삼촌이 지적장애가 있다고 한다. 이 환아에서 의심되는 유전학적 검사는?",
+  "exam": "염색체 검사: 46,XY 정상\n분자유전학 검사: FMR1 유전자 CGG 삼염기서열 반복수 300회 확인",
+  "options": {
+    "A": "염색체 마이크로어레이",
+    "B": "FISH 검사(Xq27.3)",
+    "C": "메틸화 검사(Angelman 증후군)",
+    "D": "MTOR 유전자 패널",
+    "E": "미토콘드리아 DNA 검사"
+  },
+  "answer": "B",
+  "explanation": "환아의 임상소견(발달지연, 특징적 안면기형, 거대고환)과 가족력은 연약 X 증후군(Fragile X syndrome)을 시사합니다. FMR1 유전자의 CGG 삼염기서열 반복 확장이 원인이므로 FISH 검사로 Xq27.3 부위의 취약성 확인이 진단적입니다[4]. 연약 X 증후군은 X-연관성 열성 유전으로 남아에서 증상이 뚜렷하게 나타납니다. 표준 염색체 검사로는 확인 불가능하며 특수 검사가 필요합니다.",
+  "source": "Pathology_Robbins_textbook_data.txt - Fragile X syndrome is caused by a CGG triplet repeat expansion in the FMR1 gene on Xq27.3, leading to intellectual disability, elongated face, large ears, and macroorchidism in males.",
+  "category": "Pediatrics"
+},
+{
+  "question_id": 9,
+  "chief complaint": "발달지연",
+  "purpose": "발달지연을 의심하는 아이에게서 한국형 영유아 건강검진을 이용하여 발달지연을 선별할 수 있다.",
+  "question": "6개월 영아의 정기검진에서 엄마는 아이가 목 가누기를 하지 못하고 소리에 반응이 없어 걱정이라고 호소하였다. K-DST 검사 시 언어 영역 점수가 10점(기준 25점)으로 나타났다. 이 경우 다음 단계로 가장 적절한 조치는?",
+  "exam": "청력 검사: 양측 감각신경성 난청\n시각 검사: 정상\n말초혈액 도말검사: 정상",
+  "options": {
+    "A": "재검사까지 3개월 기다리기",
+    "B": "응급 입원 치료",
+    "C": "소아 신경과 긴급 의뢰",
+    "D": "영양 상태 평가",
+    "E": "사회복지서비스 연계"
+  },
+  "answer": "C",
+  "explanation": "K-DST에서 2개 표준편차 이상 떨어진 경우(일반적으로 15점 미만) 즉시 전문가 의뢰가 필요합니다[1]. 특히 6개월에 목 가누기 미달성과 청력 손실 발견은 중추신경계 이상 가능성을 시사합니다. 감각신경성 난청은 언어 발달에 직접적 영향을 미치므로 조기 청각재활(보청기, 인공와우)과 발달 지원이 필수적입니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - The Korean Developmental Screening Test (K-DST) is used for early detection of developmental delays. Scores below -2 SD require immediate referral to specialists.",
+  "category": "Pediatrics"
+},
+{
+  "question_id": 10,
+  "chief complaint": "발달지연",
+  "purpose": "발달지연을 의심하는 아이에게서 한국형 영유아 건강검진을 이용하여 발달지연을 선별할 수 있다.",
+  "question": "12개월 남아가 혼자 일어서지 못하며, 장난감을 던지기만 하고 주워서 다시 놀지 않는다. '엄마', '빵' 등 의미 있는 단어 2개를 사용하지만, 간단한 지시('인형 줘')는 이해하지 못하며, 신체검사에서 고관절 외전 제한이 관찰된다고 할 때, 가장 일치하는 발달 수준은?",
+  "exam": "X-ray: 고관절 이형성증",
+  "options": {
+    "A": "9개월 대근육 + 12개월 언어",
+    "B": "12개월 전 영역 지연",
+    "C": "15개월 언어 + 6개월 사회성",
+    "D": "7개월 대근육 + 18개월 인지",
+    "E": "전반적 9개월 수준"
+  },
+  "answer": "A",
+  "explanation": "**대근육**: 12개월 기준 독립 서기 가능해야 함.(환아 9개월 수준)\n- **언어**: 12개월 기준 1-3개 단어 사용함.(환아 달성)\n- **사회성**: 12개월 기준 대상영속성 이해함.(장난감 다시 찾기 미흡 → 10개월)\n\n고관절 이형성증은 대근육 지연의 원인으로, 보행 발달을 3-6개월 지연시킬 수 있습니다. 언어는 연령 적합하므로 선택지 A가 정답입니다.",
+  "source": "Pediatrics_Nelson_textbook_data.txt - Developmental dysplasia of the hip causes delayed walking and asymmetric thigh folds in infants.",
+  "category": "Pediatrics"
+},
+{
+  "question_id": 1,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+  "question": "19세 남자 대학생이 5일 전부터 지속된 발열, 인후통, 피로감을 주소로 내원하였다. 증상은 서서히 시작되었으며 점차 악화되었다고 한다. 내원 당시 체온은 38.5°C였다. 환자는 최근 기말고사 기간으로 수면 부족과 스트레스가 있었다고 한다. 신체 검사에서 양측 편도의 발적과 삼출물, 경부 림프절 종대(양측 경부에서 2-3cm 크기), 촉진 시 약 2cm 정도의 비장 비대가 확인되었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "혈액 검사: 백혈구 12,000/μL (림프구 65%, 비정형 림프구 20%), 혈소판 150,000/μL, 혈색소 13.5 g/dL, AST 120 U/L, ALT 150 U/L\n말초 혈액 도말 검사: 다수의 비정형 림프구 관찰\n대상포진-단핵구증-바이러스 검사(Monospot test): 양성",
+  "options": {
+    "A": "인플루엔자 바이러스 감염",
+    "B": "세균성 인두염",
+    "C": "전염성 단핵구증",
+    "D": "거대세포바이러스 감염",
+    "E": "급성 HIV 감염"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 발열, 인후통, 경부 림프절 종대, 비장 비대, 비정형 림프구 증가, 이종응집소 양성(Monospot test 양성) 소견을 보이는데, 이는 전염성 단핵구증(Infectious mononucleosis)의 전형적인 임상 양상이다. 전염성 단핵구증은 주로 Epstein-Barr virus (EBV) 감염에 의해 발생하며, 청소년과 젊은 성인에게 흔하다. 특징적인 세 가지 증상은 발열, 인두염, 림프절 종대이며, 이 외에도 피로감, 비장 비대(50-60%), 간 기능 이상(경미한 아미노전달효소 상승)이 동반될 수 있다. 진단적 검사로는 말초 혈액 도말에서 10% 이상의 비정형 림프구 증가와 이종응집소 검사(heterophile antibody test)인 Monospot test 양성이 중요하다. 이종응집소는 질병 첫 주에는 40%, 세 번째 주에는 80-90%의 환자에서 검출된다. 5세 미만 소아에서는 이종응집소가 없는 경우가 많고, 노인에서도 잘 발생하지 않을 수 있다. 인플루엔자나 세균성 인두염은 림프절 종대와 비장 비대가 덜 두드러지며, 비정형 림프구증가나 이종응집소 양성을 보이지 않는다. 거대세포바이러스 감염도 유사한 임상 양상을 보일 수 있으나, 이종응집소 검사는 음성이다. 급성 HIV 감염도 발열, 인후통, 림프절 종대 등의 단핵구증 유사 증후군을 보일 수 있으나, 이 환자의 나이와 위험 요인, 그리고 이종응집소 양성 소견은 EBV에 의한 전염성 단핵구증을 더 강력히 시사한다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: \"The classic triad of EBV-associated IM consists of fever, pharyngitis, and lymphadenopathy. The most common presenting symptoms are malaise, fatigue, and sore throat, which increase in severity over a period of several days. Fever can be low-grade but often exceeds 38.3–38.9°C (101–102°F), with upper respiratory symptoms developing during the first 5 days of illness. Splenomegaly develops in 50–60% of cases and peaks in the second week, with 1–2 cm of splenic enlargement noted and splenic rupture a rare complication. Hepatomegaly is less common than splenomegaly, occurring in about 10–20% of cases. Jaundice is relatively rare at presentation, noted in <10% of cases, although mild sub-clinical hepatitis commonly occurs early in the clinical course and is manifested by modest elevations in serum aminotransferase levels. A striking atypical lymphocytosis (>10%), with peak levels of atypical lymphocytes occurring during the second and third weeks of illness, is the hallmark of acute infectious mononucleosis. Heterophile antibodies are detected in 40% of patients during the first week of illness and in 80–90% during the third week.\"",
+  "category": "Infectious Diseases"
+},
+{
+  "question_id": 2,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+  "question": "35세 남성이 3일 전부터 시작된 고열, 오한, 두통, 근육통을 주소로 응급실에 내원하였다. 환자는 2주 전 서아프리카 지역 출장에서 돌아왔으며, 출장 전 말라리아 예방약을 처방받았으나 복용을 제대로 하지 않았다고 한다. 증상은 첫날 갑자기 시작되었으며, 심한 오한이 약 1시간 지속된 후 고열(39.5°C)이 4시간 정도 지속되고 이후 과도한 발한이 있었다고 한다. 이 증상은 48시간마다 반복되는 양상이었다. 신체 검사에서 체온 38.2°C, 혈압 110/70 mmHg, 맥박 110회/분, 호흡수 20회/분이었으며, 결막은 창백하고, 비장이 2cm 정도 촉진되었다. 이 환자에게 가장 적절한 진단적 검사는?",
+  "exam": "혈액 검사: 백혈구 4,500/μL, 혈색소 10.5 g/dL, 혈소판 95,000/μL, 총 빌리루빈 2.3 mg/dL, AST 45 U/L, ALT 50 U/L",
+  "options": {
+    "A": "혈청 엡스타인-바 바이러스(EBV) 항체 검사",
+    "B": "혈액 배양 검사",
+    "C": "C-반응성 단백(CRP) 및 적혈구 침강 속도(ESR) 측정",
+    "D": "얇은 도말 및 두꺼운 도말 혈액 검사",
+    "E": "흉부 X선 검사"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 서아프리카 지역 여행력이 있고, 48시간마다 오한-발열-발한의 주기적 패턴을 보이며, 빈혈과 혈소판 감소증, 비장 비대 소견이 있어 말라리아를 강력히 의심할 수 있다. 특히 48시간 주기의 발열 패턴은 Plasmodium vivax나 P. ovale 감염의 특징이다. 말라리아의 진단에 있어 가장 표준적인 방법은 '얇은 도말 및 두꺼운 도말 혈액 검사'로, 이는 말초 혈액에서 말라리아 원충을 직접 관찰하는 방법이다. 두꺼운 도말은 원충의 존재 여부를 확인하는 데 민감도가 높고, 얇은 도말은 원충의 종을 구별하는 데 유용하다. 혈액 배양 검사는 세균성 감염을 확인하는 데 중요하지만, 말라리아 진단에는 도움이 되지 않는다. EBV 항체 검사는 전염성 단핵구증 진단에 사용되며, 주기적 발열 패턴을 설명하지 못한다. CRP 및 ESR은 비특이적 염증 표지자로, 말라리아를 포함한 다양한 감염성 및 염증성 상태에서 상승할 수 있지만, 진단에 특이적이지 않다. 흉부 X선 검사는 폐 감염을 평가하는 데 유용하지만, 이 환자의 주요 증상인 주기적 발열과 관련이 적다. 따라서 말라리아가 의심되는 이 환자에게 가장 적절한 진단적 검사는 '얇은 도말 및 두꺼운 도말 혈액 검사'이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: \"The first symptoms of malaria are nonspecific and similar to the symptoms of a minor viral illness. Such symptoms may include headache, fatigue, abdominal discomfort, and muscle aches, followed by fever. In some instances, a prominence of headache, chest pain, abdominal pain, arthralgia, myalgia, or diarrhea may suggest another diagnosis. Malaria paroxysms are due in part to the rupture of erythrocytic schizonts and to the host's reactions. The classic malaria paroxysm starts with 15–60 min of shaking chills, followed by fever (often to ≥40°C) lasting 2–6 h and then by profuse sweating. However, this classic pattern is usually not seen in P. falciparum malaria and is often not found either early in the course of infection with other species or in populations with partial immunity. Rapidly developing normochromic, normocytic anemia and thrombocytopenia are common (40–85%). The diagnosis of malaria rests on the demonstration of asexual forms of the parasite in stained peripheral-blood smears. After a negative blood smear, repeat smears should be made if there is a high degree of suspicion. Parasites may be difficult to detect in P. falciparum infections because of sequestration in deep vascular beds. Other diagnostic tests include polymerase chain reaction (PCR) to detect parasite nucleic acids. Both rapid diagnostic tests, especially those based on histidine-rich protein 2, and quantitative buffy coat (QBC) fluorescence microscopy are sensitive and specific. However, examination of thick and thin blood films remains the 'gold standard' for malaria diagnosis.\"",
+  "category": "Infectious Diseases"
+},
+{
+  "question_id": 3,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "42세 남성이 3개월 동안 지속된 기침, 미열, 식은땀, 체중 감소를 주소로 내원하였다. 환자는 최근 10kg의 체중 감소가 있었으며, 야간에 식은땀이 심해 잠을 자기 어렵다고 호소한다. 2년 전 결핵 환자와 접촉한 이력이 있으나, 당시 검사는 받지 않았다. 약물 복용력이나 다른 특이 병력은 없다. 신체 검사에서 체온 37.8°C, 혈압 120/80 mmHg, 맥박 88회/분, 호흡수 18회/분이었다. 흉부 청진에서 우상엽에서 수포음이 들렸다. 환자는 기침 시 혈액이 섞인 객담을 소량 배출한다고 한다. 흉부 X선 검사에서 우상엽에 공동을 동반한 침윤 소견이 관찰되었다. 이 환자의 진단을 확인하기 위한 가장 적절한 다음 단계는?",
+  "exam": "혈액 검사: 백혈구 9,800/μL (호중구 75%, 림프구 18%), 혈색소 12.0 g/dL, 혈소판 450,000/μL, ESR 65 mm/hr, CRP 3.5 mg/dL\n투베르쿨린 피부 반응 검사(TST): 경결 18mm",
+  "options": {
+    "A": "흉부 전산화단층촬영(CT) 검사",
+    "B": "기관지내시경 검사",
+    "C": "객담 항산균 도말 및 배양 검사",
+    "D": "혈청 인터페론감마 분비 검사(IGRA)",
+    "E": "객담 세포진 검사"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 3개월간 지속된 기침, 미열, 식은땀, 체중 감소라는 결핵의 전형적인 임상 증상을 보이며, 결핵 환자와의 접촉력이 있고, 흉부 X선에서 상엽의 공동을 동반한 침윤이 관찰되었다. 또한 투베르쿨린 피부 반응 검사(TST)에서 18mm의 강한 양성 반응을 보였다. 이러한 소견은 활동성 폐결핵을 강력히 시사한다. 활동성 폐결핵의 확진을 위해서는 '객담 항산균 도말 및 배양 검사'가 가장 중요하다. 이 검사는 결핵균(Mycobacterium tuberculosis)의 존재를 직접 확인할 수 있는 방법으로, 3회 연속 객담 검사가 권장된다. 도말 검사는 빠른 결과를 제공하지만 민감도가 낮고, 배양 검사는 확진에 필수적이지만 결과를 얻기까지 수 주가 소요될 수 있다. 흉부 CT는 결핵의 범위와 특성을 더 자세히 평가하는 데 도움이 되지만, 결핵균의 존재를 확인하지는 못한다. 기관지내시경 검사는 객담 검사가 음성이거나 객담을 얻기 어려운 경우, 또는 다른 질환과의 감별이 필요한 경우에 고려할 수 있다. IGRA는 결핵 감염 여부를 확인하는 데 유용하지만, 활동성과 잠복성 결핵을 구별하지 못한다. 객담 세포진 검사는 폐암 등의 악성 질환을 감별하는 데 유용하지만, 결핵 진단의 일차적 검사는 아니다. 따라서 활동성 폐결핵이 의심되는 이 환자에게 가장 적절한 다음 단계는 '객담 항산균 도말 및 배양 검사'이다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: \"The lungs are the most common site of initial infection and disease, and most extrapulmonary TB arises following hematogenous spread from the lungs. TB is classified as pulmonary, extrapulmonary, or both. Pulmonary disease is most common, accounting for >70% of cases. Pulmonary TB often arises in the apical and posterior segments of the upper lobes and in the superior segments of the lower lobes. The clinical manifestations of pulmonary TB include productive cough, fever, weight loss, and night sweats. Some patients, however, may be relatively asymptomatic. The duration of symptoms varies and may be gradual in onset. Chest radiographs tend to demonstrate upper-lobe infiltrates, frequently with cavitation. The Tuberculin Skin Testing (TST) has been the main immunologic test used to diagnose M. tuberculosis infection. It is based on the development of a delayed-type hypersensitivity response to intradermal injection of PPD, a precipitate of species-nonspecific TB antigens. An induration of ≥10 mm is usually considered positive, but a cutoff of 5 mm is used to maximize sensitivity for HIV-infected patients, close contacts of known cases, and persons with a fibrotic lesion on chest radiography.\"",
+  "category": "Infectious Diseases"
+},
+{
+  "question_id": 4,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "68세 여성이 12시간 전부터 시작된 고열(39.8°C), 의식 저하, 호흡곤란으로 응급실에 내원하였다. 과거력으로 당뇨병, 고혈압이 있으며 최근 요로감염으로 7일 전부터 ciprofloxacin 복용 중이었다. 내원 시 체온 39.1°C, 혈압 80/50 mmHg, 맥박 130회/분, 호흡수 28회/분, 산소포화도 88%였다. 신체 검사에서 경부 강직은 없었으나 피부에 발진이 관찰되지 않았고, 복부 진찰에서 특이 소견은 없었다. 이 환자에게 가장 시급히 필요한 처치는?",
+  "exam": "혈액 검사: 백혈구 22,000/μL (호중구 90%), 혈색소 9.5 g/dL, 혈소판 80,000/μL, CRP 25 mg/dL\n혈액 가스 분석: pH 7.25, PaCO2 32 mmHg, PaO2 60 mmHg, HCO3- 15 mmol/L\n요 검사: 백혈구 50-60/HPF, 아질산염 양성",
+  "options": {
+    "A": "경구 수액 보충",
+    "B": "바로 항진균제 정주",
+    "C": "광범위 항생제 정주와 수액 공급",
+    "D": "스테로이드 정주",
+    "E": "혈소판 수혈"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 고열, 저혈압, 빈맥, 호흡곤란, 대사성 산증을 보이며 패혈성 쇼크가 의심됩니다. 혈액 검사에서 백혈구 증다증, 혈소판 감소증, CRP 상승이 확인되었고 요 검사에서 요로감염 소견이 있습니다. 패혈성 쇼크의 초기 치료 원칙은 1시간 내에 광범위 항생제 투여와 수액 재량을 시작하는 것입니다. Surviving Sepsis Campaign 지침에 따라 정맥 수액 30mL/kg을 3시간 이내에 공급하고, 혈액 배양 채취 후 경험적 항생제(예: piperacillin/tazobactam)를 즉시 투여해야 합니다. 이 경우 요로감염이 원인으로 의심되므로 요로계 감염을 커버하는 항생제 선택이 필요합니다. 경구 수액 보충(A)은 혈역학이 불안정한 환자에게 부적합하며, 항진균제(B)는 초기 경험적 치료가 아닙니다. 스테로이드(D)는 부신 기능 부전이 확인된 경우에 한해 고려되며, 혈소판 수혈(E)은 출혈 위험이 높은 경우에 시행합니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: \"The cornerstone of sepsis management is early recognition and timely implementation of key interventions. The Surviving Sepsis Campaign recommends immediate administration of appropriate IV antimicrobials (within 1 h), rapid fluid resuscitation (30 mL/kg crystalloid within 3 h), and vasopressors for persistent hypotension. Blood cultures should be obtained before antibiotic administration, but this should not delay treatment. The choice of empirical antibiotics should cover all likely pathogens based on the suspected source. For urinary tract infections, combination therapy with a beta-lactam/beta-lactamase inhibitor or carbapenem is recommended in areas with high antibiotic resistance rates.\"",
+  "category": "Emergency Medicine"
+},
+{
+  "question_id": 5,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 2주간 지속된 발열, 얼굴 홍반, 관절통을 주소로 내원하였다. 햇빛 노출 후 증상 악화를 호소하며, 최근 구강 궤양과 탈모가 있었다. 신체 검사에서 양측 볼에 홍반성 발진, 구강 점막에 통증 없는 궤양 2개가 관찰되었다. 이 환자의 치료 계획으로 가장 적절한 것은?",
+  "exam": "혈액 검사: 백혈구 3,200/μL, 혈색소 9.8 g/dL, 혈소판 90,000/μL, 크레아티닌 1.2 mg/dL\n소변 검사: 단백뇨 2+, 현미경적 혈뇨 10-15/HPF\n면역학적 검사: ANA 1:640 (양성), 항dsDNA 항체 200 IU/mL (양성), 보체 C3 45 mg/dL, C4 10 mg/dL",
+  "options": {
+    "A": "NSAIDs 단독 투여",
+    "B": "하이드록시클로로퀸 단독 요법",
+    "C": "고용량 스테로이드 정주 요법",
+    "D": "리툭시맙 주사 요법",
+    "E": "사이클로포스파마이드 정주 요법"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 전신성 홍반성 루푸스(Systemic Lupus Erythematosus, SLE)로 인한 신장 침범(루푸스 신염)이 의심됩니다. 항dsDNA 항체 양성, 저보체혈증, 단백뇨, 혈소판 감소증, 백혈구 감소증 등이 SLE의 활동성을 시사합니다. 고용량 스테로이드 정주 요법(C)은 중증 SLE(신장 침범, 혈액학적 이상, 신경정신병증 등)의 초기 치료에 사용됩니다. NSAIDs(A)는 경증 관절 증상에만 사용되며, 하이드록시클로로퀸(B)은 기초 치료제지만 단독으로는 중증 증상 조절이 불가능합니다. 리툭시맙(D)과 사이클로포스파마이드(E)는 스테로이드 감량 실패 시 또는 재발 시 고려되는 2차 치료제입니다. 특히 신장 침범이 있는 경우 스테로이드와 함께 면역억제제(예: mycophenolate mofetil)를 병용하는 것이 표준 치료입니다.",
+  "source": "InternalMed_Harrison_textbook_data.txt: \"The mainstay of treatment for severe SLE (lupus nephritis, CNS lupus, hemolytic anemia, thrombocytopenia) is glucocorticoids. Initial therapy for class III/IV lupus nephritis typically includes high-dose glucocorticoids (e.g., methylprednisolone 1 g IV daily × 3 days) combined with either mycophenolate mofetil or cyclophosphamide. Hydroxychloroquine should be continued as background therapy in all patients unless contraindicated. Rituximab may be considered in refractory cases. NSAIDs are useful for management of arthritis/arthralgias but should be used with caution in patients with renal insufficiency.\"",
+  "category": "Rheumatology"
+}
+
+
+{
   "question_id": 1,
   "chief complaint": "허리통증",
   "purpose": "허리통증을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 알아낼 수 있다.",
