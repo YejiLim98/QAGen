@@ -6089,6 +6089,215 @@
     "content": "Recent evidence suggests that a strategy of watchful waiting is a safe and acceptable option for men with asymptomatic or minimally symptomatic inguinal hernias. The landmark Fitzgibbons trial and the UK-based O'Dwyer study showed that watchful waiting did not lead to an increased rate of hernia complications compared to surgical repair. The risk of hernia strangulation is very low (approximately 0.3% per year) for minimally symptomatic hernias, particularly small hernias containing only fat. For patients with significant comorbidities or those taking antiplatelet therapy following recent coronary stent placement, the risks of surgical intervention may outweigh the benefits. After drug-eluting stent placement, dual antiplatelet therapy should be continued for at least 6-12 months, and in some cases longer, to prevent stent thrombosis. Elective surgery during this period is generally discouraged unless absolutely necessary. Watchful waiting involves regular follow-up to monitor for changes in hernia size or development of symptoms. If pain or other symptoms develop, or if the hernia enlarges significantly, surgical repair can be considered at that time. The use of trusses is generally not recommended as a long-term solution due to associated complications including skin ulceration, adhesion formation in the hernia sac, and muscle atrophy."
   },
   "category": "General Surgery"
+}, 
+{
+  "question_id": 291,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "72세 여성이 3개월간 지속된 변비를 주소로 내원하였다. 환자는 주 1-2회 대변을 보며, 배변 시 과도한 힘을 주어야 하고 배변감이 남아있다고 호소한다. 환자는 고혈압으로 amlodipine, 당뇨로 metformin을 복용 중이며, 관절통으로 ibuprofen을 간헐적으로 복용하고 있다. 환자는 최근 3개월간 체중이 5kg 감소했으며, 식욕도 감소했다고 한다. 신체 검진에서 복부는 부드럽고 편평하며, 장음은 정상이다. 직장 수지 검사에서 항문연으로부터 약 4cm 거리에 딱딱하고 불규칙한 종괴가 만져진다. 이 환자의 변비 원인으로 가장 가능성이 높은 것은?",
+  "exam": "혈액검사: 혈색소 11.2 g/dL, 백혈구 7,500/μL, 혈소판 280,000/μL, CEA 8.2 ng/mL (정상: 0-5 ng/mL)",
+  "options": {
+    "A": "약물 유발성 변비",
+    "B": "과민성 장증후군",
+    "C": "대장암",
+    "D": "치핵",
+    "E": "서행성 변비"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 72세 여성으로 3개월간 지속된 변비, 체중 감소(5kg), 식욕 감소와 같은 경고 증상을 보입니다. 직장 수지 검사에서 항문연으로부터 약 4cm 거리에 딱딱하고 불규칙한 종괴가 만져지며, CEA(Carcinoembryonic Antigen)가 8.2 ng/mL로 상승되어 있습니다. 이러한 소견은 대장암을 강하게 시사합니다. 대장암은 노인에서 새롭게 발생한 변비의 중요한 원인 중 하나로, 특히 경고 증상(체중 감소, 혈변, 빈혈, 복통)을 동반할 경우 적극적인 검사가 필요합니다. 직장 수지 검사에서 종괴가 만져지는 것은 직장암의 중요한 소견이며, CEA 상승은 대장암의 보조적 진단 지표입니다. 약물 유발성 변비는 가능성이 있으나(특히 칼슘채널차단제인 amlodipine), 직장 종괴와 CEA 상승을 설명할 수 없습니다. 과민성 장증후군은 일반적으로 젊은 연령에서 발생하며, 체중 감소나 직장 종괴와 같은 경고 증상이 없습니다. 치핵은 항문 주위의 통증, 출혈을 특징으로 하지만 종괴 위치와 CEA 상승을 설명할 수 없습니다. 서행성 변비는 만성적인 변비의 한 형태이지만, 체중 감소와 직장 종괴를 설명할 수 없습니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Constipation of recent onset may be a symptom of left sided colonic or rectal cancer and requires careful evaluation in middle-aged or older patients, especially when accompanied by weight loss, anemia, and/or rectal bleeding. Rectal examination may reveal a mass lesion in patients with rectal cancer. Elevated levels of carcinoembryonic antigen (CEA) may be found in patients with colorectal cancer, although CEA is not specific for this condition."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 292,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성이 6개월 전부터 시작된 변비로 내원하였다. 환자는 주 2회 정도 대변을 보며, 단단한 변을 보기 위해 과도한 힘을 주어야 한다고 호소한다. 복통은 간헐적으로 있으나 심하지 않다고 한다. 환자는 갑상선기능저하증으로 levothyroxine 100mcg을 복용 중이며, 최근 갑상선 기능 검사는 정상이었다. 식이섬유 섭취 부족하여 식이 조절과 수분 섭취를 권했으나 증상의 호전이 없었다. 신체 검진에서 특이 소견은 없었고, 직장 수지 검사에서도 정상이었다. 대변 잠혈 검사는 음성이었다. 이 환자에게 다음 중 가장 적절한 검사는?",
+  "exam": "",
+  "options": {
+    "A": "대장내시경검사",
+    "B": "대장통과시간검사",
+    "C": "배변조영술",
+    "D": "항문직장내압검사",
+    "E": "복부 전산화단층촬영"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 45세 여성으로 6개월간 지속된 만성 변비를 호소하며, 첫 치료(식이섬유 증가, 수분 섭취)에 반응하지 않았습니다. 경고 증상(체중 감소, 혈변, 복통 악화 등)이 없고, 직장 수지 검사와 대변 잠혈 검사가 정상입니다. 이러한 경우, 만성 기능성 변비의 가능성이 높으며, 변비의 병태생리를 평가하기 위한 대장통과시간검사(Colonic Transit Study)가 적절합니다. 대장통과시간검사는 방사선비투과성 표지자를 섭취하게 한 후 일정 시간 간격으로 복부 X-선을 촬영하여 장내 이동 시간을 측정하는 검사로, 서행성 변비(slow transit constipation)와 배변장애형 변비(dyssynergic defecation)를 감별하는 데 도움이 됩니다. 대장내시경검사는 50세 이상이거나, 경고 증상이 있거나, 대장암 가족력이 있는 경우에 우선적으로 고려해야 하지만, 이 환자는 45세로 경고 증상이 없어 일차적으로 필요하지 않을 수 있습니다. 배변조영술(Defecography)은 배변장애형 변비가 의심될 때 시행하며, 대장통과시간검사에서 이상이 확인된 후 고려할 수 있습니다. 항문직장내압검사(Anorectal Manometry)는 배변장애형 변비가 의심될 때 시행하는 검사이지만, 대개 대장통과시간검사 후에 고려합니다. 복부 전산화단층촬영은 복통이 심하거나 종양이 의심될 때 시행하는 검사로, 이 환자에게는 일차적으로 필요하지 않습니다.",
+  "source": {
+    "file_name": "American Gastroenterological Association Technical Review on Constipation",
+    "content": "For patients with chronic constipation who fail to respond to laxatives and do not have alarm features, a colonic transit study should be considered to identify slow transit constipation. The radiopaque marker test is the most widely available method for measuring colonic transit. Typically, 20-24 radio-opaque markers are ingested in a single dose, and abdominal X-rays are obtained on days 4-5. Retention of more than 20% of markers on day 5 indicates slow colonic transit, and the distribution pattern of retained markers may suggest the area of delay (right or left colon, rectosigmoid)."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 293,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "68세 남성이 요양원에 입소한 지 2주 후부터 시작된 심한 변비로 진료를 받았다. 환자는 파킨슨병으로 levodopa/carbidopa와 항콜린제를 복용 중이며, 고혈압으로 amlodipine, 우울증으로 amitriptyline을 복용 중이다. 환자는 일주일에 한 번 대변을 보거나 전혀 보지 못하며, 대변이 매우 단단하고 배변 시 극심한 통증이 있다고 한다. 신체 검진에서 복부는 약간 팽만되어 있으며, 직장 수지 검사에서 직장에 단단한 대변이 차 있었다. 환자는 일상적인 활동량이 매우 적고, 주로 침대나 휠체어에 있다. 이 환자에게 가장 적절한 치료는?",
+  "exam": "복부 X-선 검사에서 대장 전반에 걸쳐 대변이 차 있고, 특히 직장과 S상 결장에 다량의 대변이 관찰된다.",
+  "options": {
+    "A": "고섬유 식이와 충분한 수분 섭취만 권장",
+    "B": "락툴로오스 시럽 복용 시작",
+    "C": "폴리에틸렌글리콜 용액 투여",
+    "D": "직장 정체 변과 분변 매복 제거를 위한 관장, 이후 삼투성 하제 유지",
+    "E": "5-HT4 수용체 작용제 처방"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 68세 남성으로 요양원에 입소한 후 발생한 심한 변비를 보이며, 직장 수지 검사와 복부 X-선에서 분변 매복(fecal impaction)이 확인되었습니다. 환자는 파킨슨병, 고혈압, 우울증으로 여러 약물(levodopa/carbidopa, 항콜린제, amlodipine, amitriptyline)을 복용 중이며, 이들 약물은 모두 변비를 유발할 수 있습니다. 또한 환자는 활동량이 매우 적어 변비 위험이 더욱 증가하는 상태입니다. 분변 매복은 단단한 대변이 직장이나 결장에 축적되어 자연적인 배변이 불가능한 상태로, 즉각적인 치료가 필요합니다. 이 환자의 경우, 직장에 단단한 대변이 차 있으므로 먼저 관장(enema)을 통해 직장의 정체된 변과 분변 매복을 제거한 후, 재발 방지를 위해 삼투성 하제(osmotic laxative)를 유지하는 것이 가장 적절한 치료입니다. 고섬유 식이와 수분 섭취는 변비 예방에 중요하지만, 이미 분변 매복이 발생한 상태에서는 충분한 치료가 될 수 없습니다. 락툴로오스는 삼투성 하제로 만성 변비 치료에 사용되나, 분변 매복의 즉각적인 치료로는 부적절합니다. 폴리에틸렌글리콜 용액은 효과적인 삼투성 하제이지만, 분변 매복 상태에서는 먼저 직장의 정체 변을 제거한 후 사용해야 합니다. 5-HT4 수용체 작용제(예: prucalopride)는 서행성 변비 치료에 사용되는 위장관 운동 촉진제로, 분변 매복의 급성 치료에는 적합하지 않습니다.",
+  "source": {
+    "file_name": "American Gastroenterological Association Technical Review on Constipation",
+    "content": "In patients with fecal impaction, the initial approach should focus on disimpaction, which may be achieved with enemas (mineral oil, water, or phosphate), digital removal, or oral polyethylene glycol-based lavage solutions. After disimpaction, a maintenance bowel regimen with osmotic or stimulant laxatives should be instituted to prevent recurrence. Fecal impaction is particularly common in elderly patients with decreased mobility, neurological disorders, or those taking multiple medications that can slow colonic transit."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 294,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "30세 여성이 2년간 지속된 변비로 내원하였다. 환자는 주 2-3회 대변을 보며, 배변 시 과도한 힘을 주어야 하고, 항문 주위에 불편감이 있다고 한다. 대변이 매우 딱딱하고 가늘며, 때로는 손가락으로 항문 주위를 눌러야 대변을 볼 수 있다고 호소한다. 복통은 변을 본 후 호전되는 편이다. 물과 식이섬유 섭취를 늘리고 규칙적인 운동을 해도 증상의 호전이 없었다. 약물 복용력이나 가족력에 특이사항이 없다. 신체 검진에서 복부는 부드럽고 편평하며, 직장 수지 검사에서 항문 괄약근 긴장도가 증가되어 있고 지시에 따라 항문을 이완시키지 못한다. 대장내시경 검사는 정상이었다. 이 환자의 변비 원인으로 가장 가능성이 높은 것은?",
+  "exam": "대장통과시간검사에서 대장 통과 시간은 정상이었다. 항문직장내압검사에서 휴식기 항문 괄약근 압력은 증가되어 있으며, 배변 시도 시 항문 괄약근의 역설적 수축이 관찰되었다.",
+  "options": {
+    "A": "과민성 장증후군(변비 우세형)",
+    "B": "서행성 변비",
+    "C": "배변장애형 변비(골반저 기능이상)",
+    "D": "직장류",
+    "E": "약물 유발성 변비"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 30세 여성으로 2년간 지속된 만성 변비를 호소하며, 배변 시 과도한 힘을 주어야 하고, 때로는 손가락으로 항문 주위를 눌러야 대변을 볼 수 있다는 배변장애 증상을 보입니다. 직장 수지 검사에서 항문 괄약근 긴장도가 증가되어 있고 항문 이완이 어렵습니다. 항문직장내압검사에서 휴식기 항문 괄약근 압력이 증가되어 있으며, 배변 시도 시 항문 괄약근의 역설적 수축이 관찰되었습니다. 또한 대장통과시간검사는 정상으로, 이는 배변장애형 변비(골반저 기능이상, pelvic floor dysfunction 또는 dyssynergic defecation)에 합당한 소견입니다. 배변장애형 변비는 배변 과정에서 복압 증가와 항문직장각 확장, 항문 괄약근 이완이 협응되지 않아 발생하는 변비로, 주로 항문 괄약근의 역설적 수축이나 이완 부전이 특징입니다. 치료는 바이오피드백 훈련이 일차적입니다. 과민성 장증후군(변비 우세형)은 복통이 주요 증상이며, 항문직장내압검사에서 이 환자와 같은 특징적인 소견이 나타나지 않습니다. 서행성 변비는 대장통과시간이 지연되는 것이 특징이지만, 이 환자의 대장통과시간검사는 정상이었습니다. 직장류는 주로 중년 여성에서 발생하며, 배변장애 증상을 유발할 수 있으나, 이 환자의 연령과 검사 소견은 직장류보다 배변장애형 변비에 더 합당합니다. 약물 유발성 변비는 특정 약물(마약성 진통제, 항콜린제, 항우울제 등) 복용과 관련되지만, 이 환자는 약물 복용력이 없습니다.",
+  "source": {
+    "file_name": "American Journal of Gastroenterology Monograph on Constipation",
+    "content": "Dyssynergic defecation, also known as pelvic floor dysfunction, is characterized by the inability to coordinate the abdominal, rectoanal, and pelvic floor muscles during defecation. Patients typically present with excessive straining, incomplete evacuation, digital manipulation, and sometimes even manual disimpaction. Anorectal manometry reveals paradoxical contraction or inadequate relaxation of the pelvic floor muscles during attempted defecation, and often increased resting anal sphincter pressure. The colonic transit time may be normal or prolonged. Digital rectal examination often reveals increased anal sphincter tone and the inability to relax the sphincter on command. Biofeedback therapy is the treatment of choice for dyssynergic defecation, with success rates of 70-80% in specialized centers."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 295,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "35세 여성이 약 1년간 지속된 변비로 내원하였다. 환자는 주 2회 대변을 보며, 단단한 변을 보기 위해 과도한 힘을 주어야 한다고 호소한다. 수분과 식이섬유 섭취를 늘려도 증상의 호전이 없었고, 부피형성 하제(psyllium)를 규칙적으로 복용해도 효과가 미미했다. 환자는 2개월 전부터 삼투성 하제인 락툴로오스를 복용하고 있으나 복부 팽만감과 가스가 심해져 불편하다고 한다. 신체 검진에서 특이 소견은 없었다. 대장내시경 검사는 정상이었고, 갑상선 기능 검사도 정상이었다. 대장통과시간검사에서 대장 통과 시간이 지연되어 있었다. 이 환자에게 가장 적절한 치료 방법은?",
+  "exam": "",
+  "options": {
+    "A": "하제 용량 증가 및 장기 사용",
+    "B": "프루칼로프라이드(prucalopride) 처방",
+    "C": "리나클로타이드(linaclotide) 처방",
+    "D": "바이오피드백 치료",
+    "E": "수술적 치료(대장 절제술)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 35세 여성으로 1년간 지속된 만성 변비를 호소하며, 식이섬유 증가와 부피형성 하제, 삼투성 하제에 반응이 불충분합니다. 대장통과시간검사에서 대장 통과 시간이 지연되어 있어 서행성 변비(slow transit constipation)에 합당합니다. 서행성 변비는 대장의 운동성 저하로 인해 대변이 대장을 통과하는 시간이 지연되는 상태로, 식이 조절과 일반적인 하제에 반응이 불충분한 경우가 많습니다. 프루칼로프라이드(prucalopride)는 선택적 세로토닌 5-HT4 수용체 작용제로, 대장 운동성을 증가시켜 서행성 변비 치료에 효과적입니다. 특히 다른 하제에 반응이 불충분한 만성 변비 환자에게 권장됩니다. 하제 용량을 증가하고 장기적으로 사용하는 것은 이미 락툴로오스에 부작용(복부 팽만감, 가스)이 있는 환자에게 적절하지 않습니다. 리나클로타이드(linaclotide)는 구아닐레이트 시클라제 C 수용체 작용제로, 주로 변비형 과민성 장증후군 치료에 사용되며, 서행성 변비보다는 복통을 동반한 변비에 더 효과적입니다. 바이오피드백 치료는 배변장애형 변비(골반저 기능이상)의 일차 치료법이지만, 이 환자는 대장통과시간검사에서 서행성 변비 소견을 보여 일차적으로 적합하지 않습니다. 수술적 치료(대장 절제술)는 심각한 서행성 변비에서 고려할 수 있으나, 모든 내과적 치료가 실패한 경우에 마지막 수단으로 고려해야 하며, 이 환자는 아직 프루칼로프라이드와 같은 약물 치료를 시도하지 않았으므로 적절하지 않습니다.",
+  "source": {
+    "file_name": "European Journal of Gastroenterology and Hepatology Review on Constipation",
+    "content": "Prucalopride, a highly selective 5-HT4 receptor agonist, has been shown to be effective in patients with chronic constipation who failed to respond adequately to laxatives. It enhances colonic motility and accelerates gastrointestinal transit. In randomized controlled trials, prucalopride significantly increased the frequency of complete spontaneous bowel movements compared with placebo in patients with chronic constipation. It is particularly beneficial for patients with slow transit constipation documented by prolonged colonic transit time studies. Unlike older 5-HT4 agonists, prucalopride has minimal affinity for hERG cardiac potassium channels and has not been associated with cardiac arrhythmias or ischemic events."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 296,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "56세 여성이 3개월 전부터 시작된 변비와 간헐적인 복통으로 내원하였다. 환자는 평소 주 3-4회 배변하던 것이 최근 주 1-2회로 감소했으며, 대변이 가늘어졌다고 호소한다. 복통은 주로 좌하복부에 위치하며 배변 후 일시적으로 호전된다. 환자는 2주 전 대변에서 소량의 선홍색 혈액을 본 적이 있다고 한다. 과거력에서 고혈압으로 amlodipine을 복용 중이며, 어머니가 70세에 대장암으로 진단받은 가족력이 있다. 신체 검진에서 좌하복부에 경미한 압통이 있으며, 직장 수지 검사에서 특이 소견은 없었다. 이 환자에게 가장 먼저 시행해야 할 검사는?",
+  "exam": "혈액검사: 혈색소 11.8 g/dL, 백혈구 7,200/μL, 혈소판 265,000/μL",
+  "options": {
+    "A": "복부 초음파 검사",
+    "B": "대장내시경 검사",
+    "C": "복부 CT 검사",
+    "D": "대장통과시간검사",
+    "E": "대변 칼프로텍틴 검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 56세 여성으로 3개월 전부터 시작된 변비, 대변 직경 감소, 좌하복부 통증, 그리고 선홍색 혈변과 같은 경고 증상을 보입니다. 또한 어머니가 대장암 가족력이 있고, 경미한 빈혈(혈색소 11.8 g/dL)이 있습니다. 이러한 소견은 대장암의 가능성을 시사하므로, 가장 먼저 대장내시경 검사를 시행해야 합니다. 대장내시경은 대장암과 용종, 염증성 장질환 등을 직접 관찰하고 조직 검사를 시행할 수 있는 가장 정확한 검사법입니다. 특히 50세 이상이거나 대장암 가족력이 있는 환자에서 변비, 배변 습관의 변화, 혈변, 빈혈과 같은 경고 증상이 있을 때는 대장암 배제를 위해 대장내시경이 필수적입니다. 복부 초음파 검사는 간, 담낭, 췌장, 비장, 신장 등의 실질 장기 질환을 평가하는 데 유용하지만, 대장 질환의 평가에는 제한적입니다. 복부 CT 검사는 대장암의 병기 설정이나 복강 내 타 장기 침범 여부를 평가하는 데 유용하지만, 초기 대장암 진단에는 대장내시경이 더 우수합니다. 대장통과시간검사는 만성 기능성 변비의 병태생리를 평가하는 검사로, 경고 증상이 있는 이 환자에게는 적합하지 않습니다. 대변 칼프로텍틴 검사는 주로 염증성 장질환을 감별하는 데 유용하며, 이 환자의 임상상은 염증성 장질환보다는 대장암에 더 합당합니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines for Colorectal Cancer Screening",
+    "content": "Patients with alarm features such as hematochezia, iron deficiency anemia, a change in bowel habits, weight loss, or a family history of colorectal cancer should undergo a colonoscopy regardless of age. New-onset constipation in patients over age 50, especially when associated with a change in stool caliber, rectal bleeding, or abdominal pain, should prompt consideration of colorectal cancer as a potential cause. Colonoscopy remains the gold standard for the evaluation of these patients, as it allows direct visualization of the entire colon and rectum, as well as the ability to obtain biopsies and remove polyps."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 297,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "65세 남성이 3주간 지속된 변비와 복부 불편감으로 내원하였다. 환자는 평소 매일 배변하던 것이 최근 2-3일에 한 번으로 감소했으며, 대변이 딱딱하고 양이 적어졌다고 한다. 환자는 2주 전부터 요추부 통증이 있어 진통제로 코데인 함유 약물을 복용하기 시작했다. 과거력에서 고혈압과 당뇨로 약물 복용 중이며, 3년 전 크론병으로 진단받아 현재 메살라진을 복용하고 있다. 신체 검진에서 복부 경미한 팽만이 있으며, 직장 수지 검사에서 단단한 대변이 만져진다. 이 환자의 변비 원인으로 가장 가능성이 높은 것은?",
+  "exam": "복부 X-선 검사에서 대장 전반에 걸쳐 대변이 관찰되며, 가스 패턴은 정상이다.",
+  "options": {
+    "A": "약물 유발성 변비",
+    "B": "크론병의 활성화",
+    "C": "대장암",
+    "D": "과민성 장증후군",
+    "E": "당뇨병성 신경병증"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 65세 남성으로 3주간 지속된 변비를 호소하며, 2주 전부터 요추부 통증으로 코데인 함유 약물을 복용하기 시작했습니다. 변비의 발생 시점이 코데인 복용 시작과 시간적으로 관련이 있어, 약물 유발성 변비의 가능성이 가장 높습니다. 마약성 진통제(코데인 포함)는 μ-오피오이드 수용체에 작용하여 장 운동성을 감소시키고, 장 분비를 억제하며, 항문직장 반사를 방해하여 변비를 유발합니다. 마약성 진통제로 인한 변비는 매우 흔하며, 마약성 진통제를 복용하는 환자의 40-95%에서 발생합니다. 크론병의 활성화는 주로 설사, 복통, 체중 감소, 발열 등의 증상으로 나타나며, 변비는 흔한 증상이 아닙니다. 특히 이 환자는 메살라진을 복용 중이고, 변비가 코데인 복용과 시간적 관련이 있어 크론병 활성화보다는 약물 유발성 변비의 가능성이 높습니다. 대장암은 65세 이상에서 변비의 중요한 원인이 될 수 있으나, 이 환자의 변비는 코데인 복용과 명확한 시간적 관련이 있어 대장암보다는 약물 유발성 변비의 가능성이 높습니다. 또한 대장암에서는 종종 체중 감소, 혈변, 빈혈 등의 경고 증상이 동반되는데, 이 환자에서는 그러한 증상이 언급되지 않았습니다. 과민성 장증후군은 주로 젊은 연령에서 발생하며, 만성적인 복통과 배변 습관의 변화가 특징입니다. 이 환자의 변비는 코데인 복용과 관련이 있어 과민성 장증후군보다는 약물 유발성 변비의 가능성이 높습니다. 당뇨병성 신경병증은 자율신경계 기능장애를 통해 변비를 유발할 수 있으나, 이 환자의 변비는 코데인 복용과 명확한 시간적 관련이 있어 당뇨병성 신경병증보다는 약물 유발성 변비의 가능성이 높습니다.",
+  "source": {
+    "file_name": "Mayo Clinic Proceedings: Opioid-Induced Constipation",
+    "content": "Opioid-induced constipation (OIC) is the most common adverse effect of opioid therapy, affecting 40% to 95% of patients receiving opioids for pain. Opioids cause constipation by binding to μ-opioid receptors in the gastrointestinal tract, leading to decreased peristalsis, increased water absorption, and decreased intestinal secretions. Additionally, opioids impair the defecation reflex by increasing internal anal sphincter tone and reducing sensitivity to rectal distension. Unlike other opioid-related adverse effects such as sedation and respiratory depression, tolerance to OIC rarely develops over time. The temporal relationship between the initiation of opioid therapy and the onset of constipation is a key diagnostic feature of OIC. Management includes preventive measures (increased fluid and fiber intake, physical activity), traditional laxatives, and in refractory cases, peripherally-acting μ-opioid receptor antagonists."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 298,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "60세 여성이 6개월 전부터 시작된 변비와 복부 팽만감으로 내원하였다. 환자는 주 1-2회 배변하며, 딱딱한 변을 보기 위해 과도한 힘을 주어야 한다고 호소한다. 최근 식욕이 감소하고 체중이 3kg 감소했으며, 쉽게 피로해진다고 한다. 과거력에서 특이 사항은 없으며, 정기적으로 복용하는 약물도 없다. 신체 검진에서 안면과 손이 창백하고, 피부와 머리카락이 건조하며, 갑상선이 약간 커져 있다. 복부는 부드럽고 압통은 없다. 이 환자에서 시행한 검사 결과 중 환자의 변비와 가장 관련이 있는 것은?",
+  "exam": "혈액검사 결과: 혈색소 10.2 g/dL, 백혈구 5,500/μL, 혈소판 240,000/μL, TSH 15.5 mIU/L (정상: 0.4-4.0 mIU/L), Free T4 0.6 ng/dL (정상: 0.8-1.8 ng/dL), 혈청 철 35 μg/dL (정상: 60-170 μg/dL)",
+  "options": {
+    "A": "혈색소 10.2 g/dL",
+    "B": "TSH 15.5 mIU/L",
+    "C": "Free T4 0.6 ng/dL",
+    "D": "혈청 철 35 μg/dL",
+    "E": "혈소판 240,000/μL"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 60세 여성으로 6개월간 지속된 변비와 함께 식욕 감소, 체중 감소, 피로감을 호소합니다. 신체 검진에서 안면과 손의 창백, 건조한 피부와 머리카락, 갑상선 비대 소견이 있습니다. 혈액검사에서 TSH 15.5 mIU/L로 증가하고, Free T4 0.6 ng/dL로 감소한 소견은 갑상선기능저하증(hypothyroidism)을 시사하며, 이는 환자의 변비와 가장 관련이 있습니다. 갑상선기능저하증은 갑상선 호르몬 부족으로 인해 전신 대사율이 감소하고, 장 운동성이 저하되어 변비가 발생합니다. 갑상선기능저하증의 다른 증상으로는 피로, 체중 증가, 추위 민감성, 건조한 피부, 머리카락 탈락, 변비, 우울감, 근육통, 관절통 등이 있으며, 이 환자의 임상상과 일치합니다. 혈색소 10.2 g/dL로 감소한 것은 빈혈을 시사하며, 이는 갑상선기능저하증에 동반될 수 있으나 변비의 직접적인 원인은 아닙니다. Free T4 0.6 ng/dL로 감소한 것은 갑상선기능저하증을 시사하는 소견이나, TSH 증가가 갑상선기능저하증의 더 민감한 지표입니다. 혈청 철 35 μg/dL로 감소한 것은 철결핍을 시사하며, 이는 환자의 빈혈과 관련이 있으나 변비의 직접적인 원인은 아닙니다. 혈소판 240,000/μL는 정상 범위로, 환자의 변비와 관련이 없습니다. 갑상선기능저하증 환자의 변비 치료는 갑상선 호르몬 보충(levothyroxine)이 기본이며, 갑상선 기능이 정상화되면 변비도 보통 호전됩니다.",
+  "source": {
+    "file_name": "Harrison's Principles of Internal Medicine",
+    "content": "Hypothyroidism is a common cause of secondary constipation, particularly in elderly women. The decreased metabolic rate and reduced gut motility in hypothyroidism lead to slowed intestinal transit and constipation. Clinical features of hypothyroidism include fatigue, weight gain, cold intolerance, dry skin, hair loss, constipation, depression, and myalgias. Laboratory findings typically show elevated TSH and decreased free T4 levels. Iron deficiency anemia may coexist with hypothyroidism, particularly in cases of autoimmune thyroiditis or malabsorption. Treatment of hypothyroidism with levothyroxine replacement therapy usually resolves the associated constipation as thyroid function normalizes."
+  },
+  "category": "Endocrinology"
+}, 
+{
+  "question_id": 299,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게 적합한 치료 방법을 선택할 수 있다.",
+  "question": "32세 여성이 임신 28주 차에 변비로 산부인과에서 의뢰되었다. 환자는 임신 전에는 정상적인 배변 습관을 가졌으나, 임신 2기부터 변비가 시작되어 점차 악화되었다고 한다. 현재 주 2회 정도 대변을 보며, 배변 시 과도한 힘을 주어야 하고 대변이 딱딱하다고 호소한다. 환자는 철분제와 산전 비타민을 복용 중이다. 신체 검진에서 복부는 임신으로 인해 팽만되어 있으나, 압통은 없고 장음은 정상이다. 직장 수지 검사에서 특이 소견은 없다. 이 환자에게 가장 적절한 초기 치료는?",
+  "exam": "",
+  "options": {
+    "A": "폴리에틸렌글리콜(PEG) 처방",
+    "B": "식이섬유 섭취 증가, 충분한 수분 섭취, 적절한 운동 권장",
+    "C": "비사코딜(bisacodyl) 좌약 처방",
+    "D": "프루칼로프라이드(prucalopride) 처방",
+    "E": "리나클로타이드(linaclotide) 처방"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 32세 임신 28주 차 여성으로, 임신 2기부터 시작된 변비를 호소합니다. 임신 중 변비는 흔한 증상으로, 주로 호르몬 변화(프로게스테론 증가), 자궁 확대로 인한 장 압박, 철분제 복용, 신체 활동 감소 등이 원인입니다. 임신 중 변비의 초기 치료는 비약물적 접근이 원칙으로, 식이섬유 섭취 증가(하루 25-30g), 충분한 수분 섭취(하루 2-3L), 적절한 신체 활동(걷기, 수영, 요가 등)을 권장합니다. 이러한 생활습관 개선은 임신 중 안전하며, 변비 완화에 효과적입니다. 또한 규칙적인 배변 습관 형성과 변의를 무시하지 않는 것이 중요합니다. 폴리에틸렌글리콜(PEG)은 임신 중 비교적 안전한 삼투성 하제로 알려져 있으나, 비약물적 접근이 효과가 없을 때 2차적으로 고려해야 합니다. 비사코딜(bisacodyl) 좌약은 자극성 하제로, 간헐적 사용은 임신 중 비교적 안전하나, 초기 치료로는 비약물적 접근이 우선입니다. 또한 장기간 사용 시 대장 의존성이 발생할 수 있습니다. 프루칼로프라이드(prucalopride)는 선택적 세로토닌 5-HT4 수용체 작용제로, 임신 중 안전성에 대한 데이터가 제한적이어서 임신 중에는 일반적으로 권장되지 않습니다. 리나클로타이드(linaclotide) 역시 임신 중 안전성에 대한 데이터가 제한적이며, FDA 임신 범주 C에 해당하여 임신 중에는 잠재적 이득이 위험을 상회하는 경우에만 사용을 고려해야 합니다. 임신 중 변비 치료는 단계적 접근이 중요하며, 생활습관 개선으로 충분히 조절되지 않을 때 안전한 하제(부피형성 하제, 삼투성 하제)를 고려할 수 있습니다.",
+  "source": {
+    "file_name": "American College of Gastroenterology Guidelines for Management of Constipation in Pregnancy",
+    "content": "Constipation affects up to 40% of pregnant women and is often related to hormonal changes (increased progesterone causing decreased gut motility), mechanical compression of the intestines by the enlarging uterus, iron supplementation, and reduced physical activity. Initial management should focus on lifestyle modifications including increased dietary fiber intake (25-30g daily), adequate hydration (2-3 liters per day), and regular physical activity as tolerated. These non-pharmacological approaches are safe during pregnancy and should be tried before considering medication. If lifestyle modifications are insufficient, bulk-forming agents (psyllium, methylcellulose) and osmotic laxatives such as polyethylene glycol (PEG) are considered relatively safe during pregnancy. Stimulant laxatives should be reserved for short-term use when other measures fail. Newer agents such as prucalopride and linaclotide have limited safety data in pregnancy and should generally be avoided unless the potential benefit clearly outweighs the risks."
+  },
+  "category": "Obstetrics"
+}, 
+{
+  "question_id": 300,
+  "chief_complaint": "변비",
+  "purpose": "변비를 호소하는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 감별진단할 수 있다.",
+  "question": "25세 여성이 6개월 전부터 시작된 심한 변비와 복통으로 내원하였다. 환자는 주 1-2회 대변을 보며, 배변 시 극심한 통증이 있어 종종 배변을 참는다고 한다. 복통은 주로 좌하복부에 있으며 배변 후에도 완전히 호전되지 않는다. 환자는 최근 3개월간 체중이 5kg 감소했으며, 지속적인 피로감을 호소한다. 과거력에서 15세 때 충수돌기염으로 수술받은 것 외에 특이사항은 없다. 가족력에서 어머니가 크론병을 앓고 있다. 신체 검진에서 복부 전반에 경미한 압통이 있으며, 좌하복부에 경결(induration)이 만져진다. 직장 수지 검사에서 압통은 있으나 종괴는 없다. 이 환자에서 가장 가능성이 높은 진단은?",
+  "exam": "혈액검사 결과: 백혈구 12,000/μL, 혈색소 10.8 g/dL, 혈소판 450,000/μL, CRP 3.5 mg/dL (정상: <0.5 mg/dL), ESR 40 mm/hr (정상: <20 mm/hr)",
+  "options": {
+    "A": "과민성 장증후군",
+    "B": "크론병",
+    "C": "궤양성 대장염",
+    "D": "대장암",
+    "E": "장 결핵"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 25세 여성으로 6개월간 지속된 변비, 복통, 체중 감소, a피로감을 호소하며, 신체 검진에서 복부 압통과 좌하복부의 경결이 있습니다. 혈액검사에서 백혈구 증가, 경미한 빈혈, CRP와 ESR 상승 소견을 보이고, 가족력에서 어머니가 크론병을 앓고 있습니다. 이러한 소견은 크론병에 합당합니다. 크론병은 구강에서 항문까지 위장관 어느 부위든 침범할 수 있는 만성 염증성 장질환으로, 특히 회장과 대장의 침범이 흔합니다. 특징적인 증상으로는 복통, 설사, 체중 감소, 피로, 발열 등이 있으며, 장관 협착이 있는 경우 변비가 주요 증상으로 나타날 수 있습니다. 크론병은 유전적 소인이 있어 가족력이 중요한 위험 인자가 됩니다. 과민성 장증후군은 기질적 이상 없이 복통과 배변 습관의 변화를 특징으로 하는 기능성 장애로, 이 환자의 체중 감소, 혈액검사 이상 소견, 복부 경결은 과민성 장증후군으로 설명하기 어렵습니다. 궤양성 대장염은 대장 점막에 국한된 염증성 장질환으로, 주로 직장에서 시작하여 연속적으로 근위부로 진행합니다. 주요 증상은 혈성 설사, 대변 절박감, 복통 등이며, 변비보다는 설사가 주요 증상입니다. 또한 좌하복부의 경결은 궤양성 대장염보다는 크론병에서 더 흔한 소견입니다. 대장암은 주로 50세 이상에서 발생하며, 이 환자의 연령(25세)에서는 드뭅니다. 또한 대장암에서는 국소적인 증상이 더 흔하며, 혈액검사에서 염증 지표의 상승보다는 빈혈이 더 두드러진 소견입니다. 장 결핵은 결핵균에 의한 장 감염으로, 주로 회맹부를 침범합니다. 크론병과 임상상이 유사할 수 있으나, 결핵 노출력이나 폐결핵의 병력, 거주 지역(결핵 유병률이 높은 지역) 등을 고려해야 합니다. 이 환자에서는 결핵을 시사하는 특별한 역학적 요인이 언급되지 않았고, 크론병의 가족력이 있어 크론병의 가능성이 더 높습니다.",
+  "source": {
+    "file_name": "American Journal of Gastroenterology: Guidelines for the Management of Crohn's Disease",
+    "content": "Crohn's disease is a chronic inflammatory bowel disease that can affect any part of the gastrointestinal tract from the mouth to the anus. While diarrhea is a common presentation, patients with stricturing disease may present with constipation, abdominal pain, and obstructive symptoms. Weight loss, fatigue, and extraintestinal manifestations are common. Physical examination may reveal abdominal tenderness, a palpable mass (particularly in the right lower quadrant due to terminal ileal involvement, but can occur anywhere in the abdomen), and perianal disease. Laboratory findings typically include elevated inflammatory markers (CRP, ESR), anemia, and leukocytosis during active disease. A positive family history significantly increases the risk, with first-degree relatives having a 10-15 times higher risk of developing Crohn's disease compared to the general population."
+  },
+  "category": "Gastroenterology"
 }
-
 ]
