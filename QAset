@@ -6298,5 +6298,215 @@
     "content": "Crohn's disease is a chronic inflammatory bowel disease that can affect any part of the gastrointestinal tract from the mouth to the anus. While diarrhea is a common presentation, patients with stricturing disease may present with constipation, abdominal pain, and obstructive symptoms. Weight loss, fatigue, and extraintestinal manifestations are common. Physical examination may reveal abdominal tenderness, a palpable mass (particularly in the right lower quadrant due to terminal ileal involvement, but can occur anywhere in the abdomen), and perianal disease. Laboratory findings typically include elevated inflammatory markers (CRP, ESR), anemia, and leukocytosis during active disease. A positive family history significantly increases the risk, with first-degree relatives having a 10-15 times higher risk of developing Crohn's disease compared to the general population."
   },
   "category": "Gastroenterology"
+}, 
+{
+  "question_id": 301,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "58세 여성이 3주 전부터 시작된 점진적인 보행불안정과 어지러움을 주소로 내원하였다. 환자는 서 있을 때 몸이 한쪽으로 기울어지는 느낌이 들고, 걸을 때 넘어질 것 같은 불안감을 호소한다. 또한 2주 전부터 좌측 귀의 이명과 청력 저하가 동반되었다. 신경학적 검사에서 좌측으로 편향된 보행이 관찰되었으며, 롬버그 검사에서 좌측으로 쓰러지는 경향을 보였다. 소뇌 기능 검사는 정상이었다. 이 환자에게 가장 적절한 검사는?",
+  "exam": "청력검사: 좌측 감각신경성 난청. 전정기능검사: 좌측 온도안진검사 반응 감소. 혈액검사: 일반혈액검사, 혈액화학검사, 갑상선기능검사 정상.",
+  "options": {
+    "A": "척수 MRI",
+    "B": "뇌간 청각유발전위검사",
+    "C": "뇌 MRI와 자기공명혈관조영술(MRA)",
+    "D": "신경전도검사와 근전도검사",
+    "E": "뇌파검사(EEG)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 점진적인 보행불안정, 어지러움, 편향된 보행, 그리고 좌측 이명과 청력 저하를 보이고 있습니다. 이러한 증상들은 뇌간이나 소뇌교각(cerebellopontine angle) 부위의 병변, 특히 전정소뇌 경로(vestibulocerebellar pathway)나 8번 뇌신경(청신경)의 손상을 시사합니다. 가장 의심되는 진단은 청신경초종(acoustic neuroma) 또는 전정신경초종(vestibular schwannoma)과 같은 소뇌교각 종양, 뇌간 경색, 다발성 경화증 등입니다. 이러한 병변을 평가하기 위해서는 뇌 MRI와 자기공명혈관조영술(MRA)이 가장 적절한 검사입니다. MRI는 소뇌교각 부위의 종양이나 뇌간 병변을 높은 해상도로 보여주며, MRA는 후하소뇌동맥(PICA)이나 전하소뇌동맥(AICA)과 같은 뇌간과 소뇌를 공급하는 혈관의 이상 여부를 평가할 수 있습니다. 척수 MRI는 척수 병변을 확인하는 데 유용하나 이 환자의 증상은 뇌간이나 소뇌 병변을 더 시사합니다. 뇌간 청각유발전위검사는 청신경 경로의 기능을 평가할 수 있으나 병변의 위치와 성격을 정확히 파악하기 위해서는 뇌 MRI가 더 유용합니다. 신경전도검사와 근전도검사는 말초신경이나 근육 질환을 평가하는 데 사용되며, 뇌파검사는 발작 질환의 평가에 주로 사용됩니다.",
+  "source": {
+    "file_name": "Neurology in Clinical Practice",
+    "content": "In patients with symptoms suggesting a cerebellopontine angle tumor or brain stem lesion (progressive unilateral hearing loss, tinnitus, vestibular dysfunction, and gait ataxia), MRI with gadolinium enhancement is the imaging study of choice. It can detect lesions as small as 2-3 mm in diameter and can clearly delineate the relationship of the tumor to surrounding structures. MRA may be helpful in evaluating for vascular lesions, particularly in cases of suspected vertebrobasilar insufficiency affecting the brain stem and cerebellum. The sensitivity of MRI for detecting vestibular schwannomas approaches 100% when thin-section images through the internal auditory canal are obtained."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 302,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게 원인질환에 따른 치료 계획을 수립할 수 있다.",
+  "question": "72세 남자 환자가 3개월 전부터 서서히 진행된 보행장애와 자세 불안정을 주소로 내원하였다. 환자는 최근 3번의 낙상 경험이 있으며, 특히 방향 전환 시 균형을 잃는다고 호소한다. 과거력상 고혈압과 전립선비대증이 있으며, 약 2개월 전부터 야간 빈뇨와 요실금이 발생했다. 신경학적 검사에서 경직이 없고 안정시 진전도 없으나, 자세가 약간 굽어 있고 보폭이 작았으며 발을 끌듯이 걸었다. 회전할 때 동결(freezing)이 관찰되었고, 상지 swing이 감소되어 있었다. 인지기능 평가에서 MMSE 22점이었으며, 시계 그리기 검사에서 어려움을 보였다. 이 환자의 가장 적절한 치료는?",
+  "exam": "뇌 MRI: 전반적인 뇌위축, 기저핵의 석회화 없음, 측뇌실 주변 및 심부백질 고신호 병변, 중뇌 크기 정상. SPECT: 양측 두정-후두엽 혈류 감소.",
+  "options": {
+    "A": "레보도파/카비도파 투여",
+    "B": "도네페질과 메만틴 투여",
+    "C": "바클로펜 투여",
+    "D": "프로프라놀롤 투여",
+    "E": "리바스티그민 경피 패치와 물리치료"
+  },
+  "answer": "E",
+  "explanation": "이 환자는 보행장애, 자세 불안정, 낙상, 방향 전환 시 동결 현상, 인지기능 저하, 요실금 등의 증상을 보이고 있습니다. 뇌 MRI에서 중뇌 크기는 정상이나 심부백질 고신호 병변이 있으며, SPECT에서 양측 두정-후두엽 혈류 감소가 관찰됩니다. 이러한 임상 양상은 레비소체 치매(Dementia with Lewy Bodies, DLB)에 합당합니다. DLB는 파킨슨 증상(보행장애, 자세 불안정, 경직), 인지기능 저하, 시공간 기능 장애(시계 그리기 어려움), 자율신경계 증상(요실금, 기립성 저혈압)을 특징으로 합니다. DLB 치료의 핵심은 콜린성 약물(아세틸콜린에스테라제 억제제)과 함께 비약물적 중재(물리치료, 작업치료)를 병행하는 것입니다. 리바스티그민은 아세틸콜린에스테라제 억제제로, DLB 환자의 인지기능과 행동 증상 개선에 효과적입니다. 특히 패치 형태는 경구 투여에 비해 위장관 부작용이 적어 환자 순응도가 높습니다. 또한 물리치료는 보행 기능과 낙상 위험 감소에 도움이 됩니다. 레보도파/카비도파는 파킨슨병 치료제로, DLB 환자에서도 운동 증상에 효과가 있을 수 있으나, 환각과 같은 부작용 위험이 높아 주의가 필요합니다. 도네페질과 메만틴은 알츠하이머 치매 치료제이나, 이 환자의 증상은 DLB에 더 부합합니다. 바클로펜은 경직 치료제로, 이 환자에게서는 경직이 두드러지지 않아 적합하지 않습니다. 프로프라놀롤은 본태성 진전 치료에 사용되나, 이 환자는 안정시 진전이 없습니다.",
+  "source": {
+    "file_name": "Journal of Neurology, Neurosurgery & Psychiatry",
+    "content": "Cholinesterase inhibitors, particularly rivastigmine, are the mainstay of pharmacological treatment for cognitive and neuropsychiatric symptoms in DLB. Rivastigmine transdermal patch has shown efficacy in improving cognition, activities of daily living, and behavioral symptoms in DLB patients, with fewer gastrointestinal side effects compared to oral formulations. Physical therapy focusing on gait training, balance exercises, and fall prevention strategies is an essential component of the comprehensive management approach for DLB patients. The combination of cholinesterase inhibitors and physical rehabilitation has shown synergistic benefits in improving functional outcomes and quality of life. Levodopa can be used for parkinsonian motor symptoms in DLB, but at lower doses than in Parkinson's disease, with careful monitoring for neuropsychiatric side effects such as hallucinations and delusions."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 303,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+  "question": "45세 여성이 6개월 전부터 진행된 보행장애로 내원하였다. 환자는 걸을 때 좌우로 흔들리고 넘어질 것 같은 느낌이 든다고 호소한다. 또한 최근 손의 미세한 움직임이 어려워져 단추 잠그기와 글씨 쓰기가 힘들어졌다. 가족력상 환자의 아버지와 형제가 40대에 유사한 증상으로 고생했다고 한다. 신경학적 검사에서 안구운동 시 단속성 안구운동(saccadic eye movements)이 관찰되었고, 양측 상하지에서 협응 장애(손가락-코 검사와 발꿈치-정강이 검사에서 이상)와 측정이상(dysmetria)이 확인되었다. 롬버그 검사는 음성이었으며, 심부건반사는 정상이었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "뇌 MRI: 소뇌 위축(특히 충부와 전엽), 뇌간은 정상. 유전자 검사: CAG 반복 확장 돌연변이 양성.",
+  "options": {
+    "A": "다계통위축증(Multiple System Atrophy, MSA-C)",
+    "B": "척수소뇌실조증 제3형(Spinocerebellar Ataxia Type 3, SCA3)",
+    "C": "프리드라이히 운동실조(Friedreich's Ataxia)",
+    "D": "파라네오플라스틱 소뇌변성(Paraneoplastic Cerebellar Degeneration)",
+    "E": "알코올성 소뇌변성(Alcoholic Cerebellar Degeneration)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 진행성 보행장애, 사지의 협응 장애, 단속성 안구운동과 같은 소뇌성 증상을 보이며, 가족력이 있고 유전자 검사에서 CAG 반복 확장 돌연변이가 확인되었습니다. 이러한 임상 양상은 척수소뇌실조증 제3형(SCA3, 마차도-조셉병)에 합당합니다. SCA3은 상염색체 우성 유전 질환으로, 14번 염색체의 ATXN3 유전자의 CAG 반복 확장에 의해 발생합니다. 임상적으로 소뇌성 운동실조, 진행성 외안근마비, 단속성 안구운동, 구음장애, 연하곤란, 추체외로 증상(강직, 파킨슨증) 등이 특징적입니다. 발병 연령은 보통 30-50대이며, 가족력이 있는 경우가 많습니다. 다계통위축증(MSA-C)은 소뇌 증상 외에도 자율신경계 증상(기립성 저혈압, 배뇨장애, 성기능장애)이 두드러지며, 가족력이 없고 CAG 반복 확장 돌연변이와 관련이 없습니다. 프리드라이히 운동실조는 상염색체 열성 유전 질환으로, 척수후근절과 척수 후주, 측주의 퇴행성 변화가 특징입니다. 일반적으로 10-15세에 발병하며, 심근병증, 척추측만증, 당뇨병을 동반할 수 있습니다. 파라네오플라스틱 소뇌변성은 종양 관련 자가면역 기전에 의해 발생하며, 아급성으로 진행하고 가족력이 없습니다. 알코올성 소뇌변성은 만성 알코올 남용과 영양 결핍에 의해 발생하며, 주로 소뇌 충부(vermis)를 침범하여 체간 운동실조가 두드러집니다.",
+  "source": {
+    "file_name": "Continuum: Lifelong Learning in Neurology",
+    "content": "Spinocerebellar ataxia type 3 (SCA3), also known as Machado-Joseph disease, is the most common autosomal dominant ataxia worldwide. It is caused by a CAG repeat expansion in the ATXN3 gene on chromosome 14q32.1. The clinical phenotype is characterized by progressive cerebellar ataxia, external ophthalmoplegia, saccadic intrusions, pyramidal signs, and varying degrees of parkinsonism and dystonia. Peripheral neuropathy and lower motor neuron signs may also be present. Age of onset typically ranges from the third to fifth decade. Brain MRI shows cerebellar atrophy, particularly affecting the vermis and anterior lobe, with variable involvement of the pons and basal ganglia in later stages. The diagnosis is confirmed by genetic testing showing an expanded CAG repeat (normal: 12-40, disease-causing: >55 repeats)."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 304,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "68세 남자 환자가 2주 전부터 발생한 보행불안정, 어지러움, 구토를 주소로 응급실에 내원하였다. 환자는 갑자기 발생한 심한 어지러움과 함께 좌측으로 쓰러지는 경향이 있으며, 좌측 귀의 이명은 없으나 두통이 동반된다고 한다. 신경학적 검사에서 좌측 편향 주시(gaze deviation)가 불가능하고, 수평 안진이 관찰되었다. 또한 좌측 상하지의 운동실조와 감각 저하가 확인되었으며, 좌측으로 기울어진 보행을 보였다. 환자의 혈압은 170/95 mmHg, 맥박 85회/분이었다. 이 환자에게서 뇌 CT 검사를 시행했을 때 가장 예상되는 소견은?",
+  "exam": "일반혈액검사: 백혈구 8,500/μL, 혈색소 14.2 g/dL, 혈소판 230,000/μL. 혈액화학검사: 혈당 110 mg/dL, BUN 18 mg/dL, Cr 0.9 mg/dL, AST/ALT 30/35 IU/L.",
+  "options": {
+    "A": "좌측 소뇌 반구의 저음영 병변",
+    "B": "우측 소뇌 반구의 저음영 병변",
+    "C": "뇌교 중앙부의 고음영 병변",
+    "D": "중뇌 배측의 저음영 병변",
+    "E": "양측 기저핵의 석회화 소견"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 급성 발병한 보행불안정, 어지러움, 구토와 함께 좌측 편향 주시 장애, 수평 안진, 좌측 상하지의 운동실조 및 감각 저하를 보이고 있습니다. 또한 고혈압이 확인되었습니다. 이러한 임상 양상은 우측 후하소뇌동맥(Posterior Inferior Cerebellar Artery, PICA) 영역의 뇌경색 또는 출혈을 강하게 시사합니다. 이 환자의 증상과 징후는 라테랄 연수 증후군(Lateral Medullary Syndrome, Wallenberg syndrome)과 소뇌 증후군이 복합된 형태로, 병변은 우측 소뇌 반구와 연수 외측부를 포함할 것으로 예상됩니다. 뇌 CT에서는 우측 소뇌 반구에 저음영(뇌경색) 또는 고음영(뇌출혈) 병변이 관찰될 가능성이 높습니다. 급성기에는 고혈압성 뇌출혈의 가능성도 있으나, 증상 발생 후 2주가 경과한 점을 고려하면 뇌경색에 의한 저음영 병변일 가능성이 더 높습니다. 좌측 소뇌 반구의 병변은 우측 상하지의 운동실조를, 뇌교 중앙부의 병변은 양측성 증상을 유발할 수 있습니다. 중뇌 배측의 병변은 수직 안구운동 장애와 동공 이상을 유발하며, 양측 기저핵의 석회화는 파킨슨증이나 무도병과 같은 운동 이상을, 만성적으로 발생한 보행장애를 유발할 수 있으나 이 환자의 급성 증상을 설명하기 어렵습니다.",
+  "source": {
+    "file_name": "Adams and Victor's Principles of Neurology",
+    "content": "Infarction or hemorrhage in the territory of the posterior inferior cerebellar artery (PICA) may involve the lateral medulla and/or the inferior cerebellum. The classic lateral medullary syndrome (Wallenberg syndrome) consists of vertigo, nystagmus, ipsilateral facial pain and temperature sensory loss, contralateral body pain and temperature sensory loss, ipsilateral Horner syndrome, ipsilateral palatal and vocal cord paralysis, and ipsilateral limb ataxia. When the PICA territory infarct extends to include the cerebellum, additional signs of cerebellar dysfunction become prominent, including ipsilateral limb and gait ataxia, dysmetria, and falling or leaning toward the side of the lesion. In the acute phase, vertigo, nausea, vomiting, and headache are common. Gaze deviation toward the side of the lesion may be impaired. On brain CT, the cerebellar infarct appears as a hypodense lesion in the affected cerebellar hemisphere, while on MRI, it appears hyperintense on T2-weighted and FLAIR sequences and hypointense on T1-weighted images."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 305,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+  "question": "55세 남자 환자가 3일 전부터 갑자기 발생한 보행불안정과 어지러움을 주소로 응급실에 내원하였다. 환자는 최근 상기도 감염 증상이 있었으며, 1일 전부터 양측 손발의 저린 감각과 뻣뻣함을 호소한다. 신경학적 검사에서 양측 상하지의 근력은 정상이나, 심부건반사가 모두 소실되었고 양측 발에서 진동감각이 저하되었다. 환자는 보행 시 넓은 기저(wide-based)를 보이며 발을 높이 들어 올려 내딛는 양상(steppage gait)을 보였다. 손가락-코 검사와 발꿈치-정강이 검사에서 경미한 운동실조가 관찰되었다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "뇌 MRI: 정상. 척수 MRI: 정상. 뇌척수액 검사: 백혈구 5/μL, 단백 85 mg/dL, 포도당 65 mg/dL(혈청 포도당 100 mg/dL). 신경전도검사: 양측 상하지 말단부의 운동 및 감각 신경의 전도 속도 감소.",
+  "options": {
+    "A": "길랭-바레 증후군(Guillain-Barré Syndrome)",
+    "B": "비타민 B12 결핍에 의한 아급성 연합변성(Subacute Combined Degeneration)",
+    "C": "파라네오플라스틱 소뇌변성(Paraneoplastic Cerebellar Degeneration)",
+    "D": "급성 파종성 뇌척수염(Acute Disseminated Encephalomyelitis)",
+    "E": "다발성 경화증(Multiple Sclerosis)"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 선행하는 상기도 감염 후 급성으로 발생한 보행불안정과 감각 이상을 보이고 있으며, 신경학적 검사에서 심부건반사 소실, 감각 저하, 운동실조가 관찰됩니다. 또한 뇌척수액 검사에서 단백세포해리(albuminocytologic dissociation: 백혈구 수는 정상이나 단백질 수치 상승)와 신경전도검사에서 말초신경의 전도 속도 감소가 확인되었습니다. 이러한 임상 양상은 길랭-바레 증후군(Guillain-Barré Syndrome, GBS), 특히 운동실조가 두드러진 변형인 Miller Fisher 증후군 또는 감각실조형 GBS에 합당합니다. GBS는 선행하는 감염(주로 Campylobacter jejuni, 사이토메갈로바이러스, 엡스타인-바 바이러스, 인플루엔자 등) 후 1-4주 내에 발생하는 급성 염증성 탈수초성 다발신경병증입니다. 비타민 B12 결핍에 의한 아급성 연합변성은 보다 서서히 진행하며, 척수 후주와 측주를 모두 침범하여 감각 증상과 함께 상부운동신경원 징후(강직, 증가된 심부건반사, 바빈스키 징후)가 나타납니다. 파라네오플라스틱 소뇌변성은 주로 여성에서 발생하며, 유방암, 난소암, 소세포폐암과 관련이 있고, 주로 소뇌 증상이 두드러집니다. 급성 파종성 뇌척수염은 선행하는 바이러스 감염이나 예방접종 후 발생하는 급성 탈수초성 질환으로, 의식 변화, 두통, 경련, 다초점 신경학적 증상을 보이며, MRI에서 다발성 탈수초 병변이 관찰됩니다. 다발성 경화증은 중추신경계의 다초점 탈수초 질환으로, 시간과 공간적으로 흩어진 증상을 보이며, MRI에서 특징적인 병변이 관찰됩니다.",
+  "source": {
+    "file_name": "New England Journal of Medicine",
+    "content": "Guillain-Barré syndrome is an acute immune-mediated polyradiculoneuropathy typically presenting with rapidly progressive, symmetrical weakness and areflexia. Various clinical variants exist, including the sensory ataxic form characterized by prominent sensory symptoms and ataxia with relatively preserved motor strength. The Miller Fisher syndrome variant presents with the triad of ophthalmoplegia, ataxia, and areflexia. Diagnostic criteria include progressive weakness in more than one limb, areflexia, disease progression for no more than 4 weeks, and exclusion of other causes. Supportive features include relatively symmetric weakness, mild sensory symptoms, cranial nerve involvement, autonomic dysfunction, absence of fever at onset, typical CSF findings (elevated protein with normal cell count, or albuminocytologic dissociation), and electrophysiological evidence of demyelination. Most patients report an antecedent infectious illness, commonly upper respiratory or gastrointestinal, 1-4 weeks before neurological symptoms begin."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 306,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "70세 여성이 3개월 전부터 서서히 진행된 보행장애와 인지기능 저하로 병원에 내원하였다. 환자는 보행 시 발을 끌며 걸어 넘어지는 일이 잦아졌고, 소변을 참기 어려운 증상과 함께 최근에는 사람을 알아보지 못하는 경우도 있다고 한다. 신경학적 검사에서 경직이 있으며, 양측 하지의 심부건반사가 항진되어 있고 바빈스키 징후가 양성이었다. 인지기능 평가에서 MMSE 18점이었고, 특히 전두엽 기능 검사에서 저하 소견을 보였다. 이 환자의 진단을 위해 가장 유용한 검사는?",
+  "exam": "일반혈액검사, 혈액화학검사, 갑상선기능검사: 정상. 뇌 MRI: 뇌실 확장, 뇌실 주변 백질 변화, 특히 전두엽 주변 백질의 고신호 강도.",
+  "options": {
+    "A": "뇌파검사(EEG)",
+    "B": "뇌척수액 검사",
+    "C": "척수 MRI",
+    "D": "뇌 SPECT",
+    "E": "양전자방출단층촬영(PET)"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 진행성 보행장애, 인지기능 저하, 요실금과 함께, 경직, 심부건반사 항진, 바빈스키 징후와 같은 상부운동신경원 징후를 보이고 있습니다. 또한 뇌 MRI에서 뇌실 확장, 뇌실 주변 백질 변화가 관찰됩니다. 이러한 임상 양상은 정상압 수두증(Normal Pressure Hydrocephalus, NPH)과 혈관성 치매를 포함한 여러 질환을 시사합니다. 특히 NPH는 보행장애, 요실금, 인지기능 저하의 3징후(Hakim's triad)가 특징이며, 뇌 MRI에서 뇌실 확장이 관찰됩니다. 이 환자의 경우, NPH와 혈관성 치매를 감별하는 것이 중요하며, 이를 위해 뇌척수액 검사가 가장 유용합니다. 뇌척수액 검사는 뇌척수액 압력, 단백질, 포도당, 세포 수 등의 기본 분석과 함께, NPH 환자에서는 요추천자 후 증상 호전 여부(tap test)를 평가할 수 있습니다. 또한 뇌척수액 바이오마커(β-amyloid, tau, phospho-tau 등)를 통해 알츠하이머 치매와 같은 다른 치매 원인을 감별할 수 있습니다. 뇌파검사는 경련성 질환이나 대사성 뇌병증의 평가에 유용하나, 이 환자의 증상을 설명하기 위한 일차적 검사로는 적합하지 않습니다. 척수 MRI는 척수 병변에 의한 보행장애 평가에 유용하나, 이 환자의 인지기능 저하와 상부운동신경원 징후를 설명하기 어렵습니다. 뇌 SPECT와 PET은 뇌 혈류와 대사를 평가하는 데 유용하며, 치매의 감별진단에 도움이 될 수 있으나, NPH의 진단과 치료 결정에는 뇌척수액 검사가 더 중요합니다.",
+  "source": {
+    "file_name": "Journal of Neurology, Neurosurgery & Psychiatry",
+    "content": "In the evaluation of normal pressure hydrocephalus (NPH), cerebrospinal fluid (CSF) analysis serves multiple purposes. First, it allows measurement of opening pressure, which should be normal in true NPH (usually 70-245 mm H2O). Second, it enables the tap test or CSF drainage test, where 30-50 mL of CSF is removed and the patient's gait and cognitive function are assessed before and after the procedure. Improvement following CSF drainage is a positive prognostic factor for shunt responsiveness. Third, CSF biomarker analysis can help exclude Alzheimer's disease and other neurodegenerative conditions. In NPH, total tau and phosphorylated tau levels are typically normal or slightly elevated, while in Alzheimer's disease, they are significantly increased. Additionally, CSF analysis can identify inflammatory or infectious etiologies that might mimic NPH. While other imaging modalities like SPECT and PET may show characteristic patterns in NPH (frontal hypoperfusion that improves after CSF drainage), they are generally considered adjunctive rather than primary diagnostic tools for this condition."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 307,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게 원인질환에 따른 치료 계획을 수립할 수 있다.",
+  "question": "50세 남자 환자가 1년 전부터 서서히 진행된 보행장애와 균형 문제로 내원하였다. 환자는 특히 어두운 곳에서 보행이 더 불안정해지고, 최근에는 소변을 참기 어려운 증상과 기립 시 어지러움이 동반되었다고 한다. 신경학적 검사에서 경직이 있으며, 소뇌 증상(운동실조, 구음장애)와 자율신경계 증상(기립성 저혈압, 배뇨장애)이 동반되어 있다. 또한 파킨슨 증상(서동증, 경직)이 관찰되었다. 이 환자의 치료로 가장 적절한 것은?",
+  "exam": "뇌 MRI: 뇌교와 소뇌의 위축, 'hot cross bun' 징후(십자가 모양의 고신호 강도), 피질하 구조물의 철 침착. 요역동학 검사: 배뇨근 과활동성과 함께 배뇨근-외요도괄약근 협동장애.",
+  "options": {
+    "A": "레보도파/카비도파 고용량(800mg/일 이상) 투여",
+    "B": "심부뇌자극술(Deep Brain Stimulation) 시행",
+    "C": "미도드린과 플루드로코르티손 투여, 간헐적 자가도뇨법 교육",
+    "D": "타크롤리무스(FK506) 투여",
+    "E": "뇌실-복강 단락술(Ventriculoperitoneal shunt) 시행"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 보행장애, 소뇌 증상, 파킨슨 증상, 자율신경계 증상이 복합적으로 나타나며, 뇌 MRI에서 'hot cross bun' 징후와 같은 특징적 소견을 보이고 있어 다계통위축증(Multiple System Atrophy, MSA)에 합당합니다. MSA는 알파-시누클레인 단백질의 비정상적 축적을 특징으로 하는 신경퇴행성 질환으로, 자율신경계 기능장애와 함께 파킨슨 증상이 두드러진 MSA-P와 소뇌 증상이 우세한 MSA-C로 구분됩니다. 이 환자의 경우 소뇌 증상과 자율신경계 증상이 두드러져 MSA-C로 판단됩니다. MSA의 치료는 주로 대증적이며, 자율신경계 증상 관리가 중요합니다. 기립성 저혈압 치료를 위해 미도드린(alpha-1 작용제)과 플루드로코르티손(mineralocorticoid)이 사용되며, 배뇨장애 관리를 위해 항콜린성 약물, 간헐적 자가도뇨법, 때로는 방광 보툴리눔 독소 주사 등이 고려됩니다. 레보도파는 MSA 환자의 파킨슨 증상 치료에 사용될 수 있으나, 반응이 일반적으로 좋지 않거나 일시적이며, 고용량 사용 시 기립성 저혈압이 악화될 수 있습니다. 심부뇌자극술은 특발성 파킨슨병에는 효과적이나, MSA에는 효과가 제한적이거나 오히려 증상을 악화시킬 수 있습니다. 타크롤리무스는 면역억제제로, 최근 일부 연구에서 MSA 진행을 늦출 가능성이 제시되었으나 아직 표준 치료로 확립되지 않았습니다. 뇌실-복강 단락술은 정상압 수두증 치료에 사용되나, MSA에는 적합하지 않습니다.",
+  "source": {
+    "file_name": "Movement Disorders Journal",
+    "content": "Management of multiple system atrophy (MSA) is primarily symptomatic and supportive, as there are no disease-modifying therapies proven to slow disease progression. Autonomic dysfunction, particularly orthostatic hypotension and neurogenic bladder, significantly impacts quality of life and requires targeted management. For orthostatic hypotension, non-pharmacological measures include increased salt and fluid intake, compression stockings, and elevation of the head of the bed. Pharmacological options include midodrine (a peripheral selective alpha-1-adrenergic agonist) and fludrocortisone (a mineralocorticoid that increases sodium reabsorption and plasma volume). For neurogenic bladder dysfunction, which often presents with detrusor overactivity and detrusor-sphincter dyssynergia, management may include anticholinergic medications (oxybutynin, tolterodine) for storage symptoms, intermittent self-catheterization for voiding difficulties, and possibly botulinum toxin injections into the detrusor muscle for refractory cases. Parkinsonism in MSA typically responds poorly to levodopa therapy, with only approximately 30% of patients showing a transient response. Additionally, levodopa may exacerbate orthostatic hypotension in MSA patients. Deep brain stimulation has shown limited efficacy in MSA and may worsen symptoms in some patients, making it generally not recommended."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 308,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+  "question": "62세 여성이 6개월 전부터 점차 심해지는 보행불안정과 어지러움을 주소로 내원하였다. 환자는 특히 머리를 움직일 때 어지러움이 심해지며, 최근에는 목의 통증과 함께 손의 저림 증상이 발생했다고 한다. 신경학적 검사에서 급속 교대 운동(rapid alternating movements)의 저하와 함께 경부를 신전시킬 때 사지의 저림이 유발되었다. 경부 회전 시 안진이 관찰되었으며, 양측 상지의 심부건반사가 항진되어 있었다. 환자의 보행은 넓은 기저(wide-based)를 보이며 불안정하였다. 이 환자에게 가장 가능성 높은 진단은?",
+  "exam": "경추 X-선: C3-C4, C4-C5 수준의 추간판 간격 감소, 골극 형성. 경추 MRI: C3-C5 수준의 중등도 중심성 척추관 협착, 경수 압박 및 T2 강조영상에서 경수 신호 증가.",
+  "options": {
+    "A": "소뇌 경색",
+    "B": "전정신경염",
+    "C": "경추성 척수병증",
+    "D": "다발성 경화증",
+    "E": "파킨슨병"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 점진적으로 진행하는 보행불안정, 어지러움과 함께 경부 통증, 상지 저림, 심부건반사 항진을 보이고 있습니다. 또한 경부 움직임에 따라 증상이 악화되며, 경부 회전 시 안진이 유발됩니다. 영상 검사에서 경추 부위의 퇴행성 변화와 척수 압박 소견이 확인되었습니다. 이러한 임상 양상은 경추성 척수병증(Cervical Spondylotic Myelopathy, CSM)에 합당합니다. CSM은 경추의 퇴행성 변화로 인해 척수가 압박되어 발생하는 질환으로, 서서히 진행하는 보행장애, 상하지의 운동 및 감각 이상, 심부건반사 항진, 때로는 방광 기능 장애를 특징으로 합니다. 특히 이 환자에서 관찰되는 Lhermitte's 징후(경부 굴곡 시 사지의 전기 충격같은 느낌)와 경부 회전 시 유발되는 안진(cervical vertigo)은 경추성 척수병증을 강하게 시사합니다. 소뇌 경색은 급성 발병하는 어지러움, 구토, 안진, 운동실조를 특징으로 하며, 경부 움직임과 연관성이 적습니다. 전정신경염은 급성 발병하는 심한 어지러움, 구역, 구토, 수평 안진을 특징으로 하며, 청력 저하는 동반되지 않습니다. 다발성 경화증은 시간과 공간적으로 흩어진 중추신경계 증상을 보이며, 일반적으로 젊은 연령층에서 발병합니다. 파킨슨병은 진전, 서동증, 경직, 자세 불안정을 특징으로 하며, 초기에는 비대칭적으로 나타나고 상부운동신경원 징후는 일반적으로 동반되지 않습니다.",
+  "source": {
+    "file_name": "Journal of Spinal Disorders and Techniques",
+    "content": "Cervical spondylotic myelopathy (CSM) is the most common cause of spinal cord dysfunction in older adults. The clinical presentation typically includes a combination of gait disturbance, upper extremity numbness and clumsiness, and sphincter dysfunction. Neck pain may be present but is often not a prominent feature. On neurological examination, upper motor neuron signs predominate, including hyperreflexia, Hoffman's sign, Babinski sign, and occasionally clonus. A characteristic finding in some patients is the presence of Lhermitte's phenomenon, an electric shock-like sensation that radiates down the spine on neck flexion. Cervical vertigo, manifested as dizziness triggered by neck movements and often accompanied by nystagmus, may occur due to compression of the proprioceptive afferents in the upper cervical spine or compression of the vertebral arteries. MRI typically shows multilevel degenerative changes with disc bulging, osteophyte formation, ligamentum flavum hypertrophy, and facet arthropathy leading to spinal canal stenosis and cord compression. T2-weighted images may demonstrate hyperintense signal within the cord, indicating myelomalacia or cord edema, which correlates with a poorer prognosis."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 309,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+  "question": "48세 남자 환자가 6개월 전부터 서서히 진행된 보행불안정과 양손의 떨림을 주소로 내원하였다. 환자는 직업적으로 10년간 용접공으로 일했으며, 알코올을 매일 2-3병씩 섭취해왔다고 한다. 신경학적 검사에서 양측성 조작 진전(action tremor), 구음장애, 안구운동 장애(특히 수직 방향)가 관찰되었다. 또한 양측 상하지의 운동실조와 함께 넓은 기저(wide-based)의 불안정한 보행을 보였다. 이 환자에게 가장 가능성 높은 원인은?",
+  "exam": "혈액검사: AST 85 IU/L, ALT 60 IU/L, GGT 320 IU/L, 혈청 알부민 3.0 g/dL. 뇌 MRI: T1 강조영상에서 양측 창백핵(globus pallidus)과 중뇌 적핵(red nucleus)에 고신호 강도.",
+  "options": {
+    "A": "알코올성 소뇌변성",
+    "B": "윌슨병",
+    "C": "망간 중독",
+    "D": "파킨슨병",
+    "E": "다계통위축증"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 진행성 보행불안정, 진전, 구음장애, 안구운동 장애, 운동실조와 함께 뇌 MRI에서 양측 창백핵과 중뇌 적핵에 T1 고신호 강도가 관찰됩니다. 또한 직업적으로 용접공으로 일한 병력이 있습니다. 이러한 임상 양상과 영상 소견은 망간 중독(manganism)에 합당합니다. 망간 중독은 용접, 광산, 건전지 제조, 철강 제련 등의 산업 현장에서 망간에 과다 노출될 때 발생할 수 있으며, 진행성 운동 장애, 파킨슨 증상, 정신과적 증상을 유발합니다. 특징적으로 뇌 MRI T1 강조영상에서 양측 창백핵과 중뇌(특히 적핵)에 고신호 강도를 보이는데, 이는 망간의 상자성(paramagnetic) 특성 때문입니다. 알코올성 소뇌변성은 만성 알코올 중독자에서 발생하며, 주로 소뇌 충부(vermis)를 침범하여 체간 운동실조가 두드러집니다. MRI에서는 소뇌 충부의 위축이 관찰되나, 기저핵의 T1 고신호 강도는 나타나지 않습니다. 윌슨병은 구리 대사 이상으로 인한 유전 질환으로, 간 기능 이상, 운동 장애, 정신과적 증상, Kayser-Fleischer 각막환을 특징으로 합니다. 발병 연령이 일반적으로 5-35세이며, MRI에서는 기저핵, 시상, 뇌간에 T2 고신호 강도를 보입니다(T1에서는 일반적으로 저신호). 파킨슨병은 안정시 진전, 서동증, 경직, 자세 불안정을 특징으로 하며, 일반적으로 비대칭적으로 시작됩니다. 다계통위축증은 파킨슨 증상, 소뇌 증상, 자율신경계 기능장애를 복합적으로 보이는 질환이나, 직업적 노출과 관련이 없으며 MRI에서 특징적인 'hot cross bun' 징후가 관찰됩니다.",
+  "source": {
+    "file_name": "Neurotoxicology",
+    "content": "Chronic manganese intoxication, or manganism, is an occupational disease that occurs in workers exposed to high levels of manganese dust or fumes, particularly in welding, mining, battery manufacturing, and steel production. The clinical manifestations include extrapyramidal symptoms resembling parkinsonism (bradykinesia, rigidity, postural instability), but with several distinguishing features: prominent action tremor rather than resting tremor, early gait disturbance with a dystonic or ataxic quality, less responsiveness to levodopa, and frequent dystonia. Neuropsychiatric symptoms including irritability, emotional lability, and cognitive impairment may also be present. A hallmark finding on brain MRI is bilateral symmetrical hyperintensity in the globus pallidus and occasionally in other basal ganglia structures and the midbrain (particularly the red nucleus) on T1-weighted images, reflecting the paramagnetic properties of manganese deposition. These signal changes may persist for months after cessation of exposure, while gradual resolution can occur with removal from the source of manganese and chelation therapy."
+  },
+  "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 310,
+  "chief_complaint": "보행이상/운동실조",
+  "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "25세 여성이 2개월 전부터 서서히 진행되는 보행불안정, 어지러움, 구토를 주소로 내원하였다. 환자는 2주 전부터 두통이 심해졌고, 시력이 흐려지는 증상이 발생했다고 한다. 신경학적 검사에서 양측 시신경유두부종, 복시, 수평 안진, 양측 협응 장애가 관찰되었다. 또한 넓은 기저의 불안정한 보행을 보였다. 활력징후는 정상이었으며, 발열은 없었다. 이 환자의 진단을 위해 시행한 검사 중 가장 중요한 것은?",
+  "exam": "혈액검사: 일반혈액검사, 혈액화학검사 정상. 뇌 MRI: 제4뇌실에 접한 소뇌 충부에 경계가 명확한 낭성 종괴, T1 저신호, T2/FLAIR 고신호, 조영증강됨. 주변 부종은 경미함. 수두증 동반.",
+  "options": {
+    "A": "뇌파검사(EEG)",
+    "B": "뇌척수액 세포검사",
+    "C": "뇌혈관조영술",
+    "D": "양전자방출단층촬영(PET)",
+    "E": "전정기능검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 서서히 진행하는 보행불안정, 어지러움, 구토, 두통, 시력장애와 함께 양측 시신경유두부종, 안진, 협응 장애를 보이고 있습니다. 뇌 MRI에서는 제4뇌실에 접한 소뇌 충부에 경계가 명확한 낭성 종괴가 관찰되며, 수두증이 동반되어 있습니다. 이러한 임상 양상과 영상 소견은 소뇌 종양, 특히 상의세포종(hemangioblastoma) 또는 수모세포종(medulloblastoma)과 같은 후두개(posterior fossa) 종양을 시사합니다. 이 환자의 나이(25세)와 종괴의 위치(소뇌 충부, 제4뇌실 인접)를 고려할 때, 수모세포종의 가능성이 높습니다. 종양의 정확한 진단을 위해서는 뇌척수액 세포검사가 가장 중요합니다. 수모세포종은 원발성 중추신경계 종양으로, 종양 세포가 뇌척수액을 통해 전파될 수 있어 뇌척수액 검사를 통한 종양 세포의 확인이 진단과 병기 결정에 필수적입니다. 또한 뇌척수액 검사는 수술 전 감별진단(전이성 종양, 감염, 염증 등)과 치료 계획 수립에 중요한 정보를 제공합니다. 뇌파검사는 발작 질환이나 대사성 뇌병증의 평가에 유용하나, 이 환자의 증상 원인을 평가하는 데는 제한적입니다. 뇌혈관조영술은 혈관성 질환(동맥류, 동정맥기형 등)의 평가에 유용하나, MRI에서 이미 종괴가 확인된 상황에서는 추가적인 정보가 제한적입니다. PET은 종양의 대사 활성도를 평가하는 데 유용할 수 있으나, 일차적인 진단 도구로는 적합하지 않습니다. 전정기능검사는 말초성 현훈의 평가에 유용하나, 이 환자의 증상은 중추성 원인을 시사합니다.",
+  "source": {
+    "file_name": "Journal of Neuro-Oncology",
+    "content": "Cerebrospinal fluid (CSF) examination is crucial in the diagnostic workup of posterior fossa tumors, particularly medulloblastoma, due to its propensity for leptomeningeal dissemination. Approximately 30-40% of patients with medulloblastoma will have evidence of CSF dissemination at diagnosis or during the course of the disease. CSF cytology showing malignant cells confirms the presence of leptomeningeal spread and significantly impacts staging, prognosis, and treatment planning. According to the Chang staging system, positive CSF cytology classifies the disease as M1 stage, while macroscopic metastases detected by imaging are classified as M2 (brain) or M3 (spine). The presence of CSF dissemination necessitates more intensive treatment, including higher radiation doses and extended fields, as well as escalated chemotherapy regimens. In addition to cytology, CSF analysis may reveal elevated protein levels and occasionally pleocytosis. It's recommended that lumbar puncture for CSF sampling be performed at least 14 days after cranial surgery to avoid false-positive results due to postoperative changes. When elevated intracranial pressure is suspected, as indicated by papilledema, CSF examination should be deferred until after surgical intervention to prevent herniation."
+  },
+  "category": "Neurology / Neurosurgery"
 }
 ]
