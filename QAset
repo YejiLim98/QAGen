@@ -6703,9 +6703,367 @@
   "explanation": "이 환자는 전신성 홍반성 루푸스(Systemic Lupus Erythematosus, SLE)로 인한 신장 침범(루푸스 신염)이 의심됩니다. 항dsDNA 항체 양성, 저보체혈증, 단백뇨, 혈소판 감소증, 백혈구 감소증 등이 SLE의 활동성을 시사합니다. 고용량 스테로이드 정주 요법(C)은 중증 SLE(신장 침범, 혈액학적 이상, 신경정신병증 등)의 초기 치료에 사용됩니다. NSAIDs(A)는 경증 관절 증상에만 사용되며, 하이드록시클로로퀸(B)은 기초 치료제지만 단독으로는 중증 증상 조절이 불가능합니다. 리툭시맙(D)과 사이클로포스파마이드(E)는 스테로이드 감량 실패 시 또는 재발 시 고려되는 2차 치료제입니다. 특히 신장 침범이 있는 경우 스테로이드와 함께 면역억제제(예: mycophenolate mofetil)를 병용하는 것이 표준 치료입니다.",
   "source": "InternalMed_Harrison_textbook_data.txt: \"The mainstay of treatment for severe SLE (lupus nephritis, CNS lupus, hemolytic anemia, thrombocytopenia) is glucocorticoids. Initial therapy for class III/IV lupus nephritis typically includes high-dose glucocorticoids (e.g., methylprednisolone 1 g IV daily × 3 days) combined with either mycophenolate mofetil or cyclophosphamide. Hydroxychloroquine should be continued as background therapy in all patients unless contraindicated. Rituximab may be considered in refractory cases. NSAIDs are useful for management of arthritis/arthralgias but should be used with caution in patients with renal insufficiency.\"",
   "category": "Rheumatology"
-}
-
-
+},
+  {
+    "question_id": 6,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "24세 남성이 3주간 지속되는 발열(38.5-39.2°C)과 야간땀, 체중 5kg 감소로 내원하였다. 최근 6개월 간 동성과의 성접촉력 있으며 신체검사에서 전반적 림프절 종대(직경 2-3cm)와 구강 칸디다증이 관찰되었다. 이 환자에서 가장 먼저 시행해야 할 검사는?",
+    "exam": "혈액 검사: 림프구 800/μL (정상 1,500-4,000), CD4+ T세포 180/μL\n흉부 X선: 폐문 림프절 종대",
+    "options": {
+      "A": "결핵 피부검사",
+      "B": "HIV 항체 검사",
+      "C": "골수 흡인 검사",
+      "D": "혈액 배양",
+      "E": "ANA 검사"
+    },
+    "answer": "B",
+    "explanation": "청년 남성에서 지속적 발열, 체중 감소, 구강 칸디다증, 림프구 감소는 HIV 감염 후천성 면역결핍증후군(AIDS)을 시사합니다. CDC 진단 기준에 따라 CD4+ T세포 <200/μL 시 기회감염 고위험군으로 분류됩니다. 초기 검사로 HIV 항체/항원 연합검사가 필수적이며, 확인 검사로 Western blot이 수행됩니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'HIV should be suspected in patients with unexplained fever lasting >2 weeks accompanied by weight loss >10% of body weight, night sweats, or generalized lymphadenopathy. Diagnostic testing begins with fourth-generation antigen/antibody combination assays.'",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 7,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 여성이 2주간의 간헐적 발열(38.0-39.5°C)과 우측 옆구리 통증으로 내원하였다. 5년 전 신결석 병력을 가지고 있다. 체온 38.9°C, 복부 진찰시 우측 늑척추각 압통 양성일 때, 환자에게 가장 유용한 초기 영상 검사는?",
+    "exam": "요검사: 백혈구 50-60/HPF, 아질산염 양성\n혈액 검사: 백혈구 15,200/μL (호중구 85%), CRP 12mg/dL",
+    "options": {
+      "A": "복부 초음파",
+      "B": "신장 생검",
+      "C": "복부 CT 조영증강",
+      "D": "골수 스캔",
+      "E": "흉부 X선"
+    },
+    "answer": "C",
+    "explanation": "신결석 병력과 늑척추각 압통은 신우신염 합병증(신주위 농양, 출혈성 신우신염)을 의심하게 합니다. 조영증강 CT는 신실질 병변, 결석, 요로 폐쇄, 농양 유무를 동시에 평가할 수 있는 1차 영상 검사입니다. 초음파(A)는 신장 크기와 수신증 평가에는 유용하지만 조영제를 이용한 정확한 염증 평가에는 제한적입니다",
+    "source": "Urology_Adams_textbook_data.txt: 'Contrast-enhanced CT is the imaging modality of choice for evaluating complicated pyelonephritis. It can detect renal abscesses, emphysematous changes, and obstructions with 95% sensitivity.'",
+    "category": "Nephrology"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "72세 남성이 인공관절 수술 3주 후 발열(38.8°C)과 수술 부위 부종으로 응급실을 방문하였다. 수술 부위 배양에서 methicillin-resistant Staphylococcus aureus(MRSA)가 확인되어 환자는 vancomycin 정주 치료 시작하였다. 치료 시작 후 48시간째 체온 37.8°C로 호전되었다고 할 때 현재 가장 적절한 치료 변경은?",
+    "exam": "혈액 검사: WBC 11,000/μL (호중구 78%), ESR 45mm/hr\n심초음파: 판막 이상 소견 없음",
+    "options": {
+      "A": "Vancomycin 경구 전환",
+      "B": "Daptomycin 추가 병용",
+      "C": "치료 지속 기간 연장",
+      "D": "Linezolid로 변경",
+      "E": "항진균제 추가"
+    },
+    "answer": "C",
+    "explanation": "골관절 감염에서 항생제 치료는 일반적으로 4-6주가 필요합니다. 초기 임상적 호전이 있어도 조기 중단 시 재발 위험이 높습니다. IDSA 지침에 따라 혈류 감염이 없는 국소 MRSA 감염에서는 vancomycin 단일 요법을 최소 4주간 유지해야 합니다. 약제 변경(D)은 부작용 발생 시에만 고려됩니다.",
+    "source": "Surgery_Schwartz_textbook_data.txt: 'Prosthetic joint infections require prolonged antibiotic therapy (4-6 weeks) even if early clinical improvement is observed. Surgical debridement with retention of prosthesis combined with ≥6 weeks of organism-specific antimicrobial therapy has success rates of ~60%.'",
+    "category": "Orthopedic Surgery"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "7세 남아가 5일간의 고열(40.1°C), 구강점막 발적, 손발 부종으로 입원하였다. 입원 3일차에 결막 충혈과 혀의 딸기모양 변화 관찰되었고, 경부 림프절 종대(직경 1.5cm) 확인되었다고 할 때, 이 환자에서 가장 중요한 검사는?",
+    "exam": "혈액 검사: 혈소판 450,000/μL, ALT 68 U/L\n심초음파: 좌관상동맥 직경 3.5mm (정상 2.5mm 미만)",
+    "options": {
+      "A": "혈청 IgG 측정",
+      "B": "심근효소 검사",
+      "C": "코로나바이러스 PCR",
+      "D": "소변 배양",
+      "E": "류마티스인자 검사"
+    },
+    "answer": "B",
+    "explanation": "카와사키병의 주요 합병증인 관상동맥류를 평가하기 위해 심초음파와 함께 심근효소 검사가 필수적입니다. 일본 순환기학회 진단 기준에서 5일 이상의 발열 + 4개 주요 증상 중 3개 존재 시 관상동맥 평가를 반드시 시행해야 합니다.",
+    "source": "Pediatrics_Nelson_textbook_data.txt: 'Echocardiography should be performed immediately when Kawasaki disease is suspected. Coronary artery aneurysms develop in 15-25% of untreated children, leading to long-term cardiovascular complications.'",
+    "category": "Pediatrics"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "45세 여성이 6개월 간 재발성 발열(38.5-39°C), 관절통, 얼굴 발진으로 내원하였다. ANA 1:640 (반점형), Anti-dsDNA 양성. 크레아티닌 1.8mg/dL이고 요검사에서 단백뇨 3+가 확인되었다고 할 때, 현재 가장 우선적인 치료는?",
+    "exam": "신장 생검: 미만성 증식성 사구체신염\n보체 검사: C3 45mg/dL, C4 10mg/dL",
+    "options": {
+      "A": "하이드록시클로로퀸 단독",
+      "B": "고용량 프레드니솔론 펄스 요법",
+      "C": "메토트렉세이트",
+      "D": "아세트아미노펜",
+      "E": "항결핵제 복합 요법"
+    },
+    "answer": "B",
+    "explanation": "루푸스 신염(Class IV LN)이 확인된 경우 고용량 스테로이드 펄스 요법과 사이클로포스파마이드/마이코페놀레이트 병용이 표준 치료입니다. EULAR/ERA-EDTA 지침에 따라 신기능 악화 방지를 위해 신속한 면역억제 치료 시작이 필요합니다.",
+    "source": "Rheumatology_textbook_data.txt: 'Class IV lupus nephritis requires aggressive immunosuppression. Intravenous methylprednisolone (1g daily ×3 days) followed by oral glucocorticoids and mycophenolate mofetil is the first-line regimen.'",
+    "category": "Rheumatology"
+  },
+ {
+  "question_id": 11,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "28세 여성이 출산 후 6시간 만에 39.8°C의 고열, 혈압 70/40mmHg, 심박 140회/분으로 중환자실 입실하였다. 양막 파열 후 18시간 만에 분만 완료하였다고 하며, 태반 검체 배양에서 그람음성 간균이 동정되었을 때, 응급 처치로 가장 적절한 것은?",
+  "exam": "혈액 검사: WBC 25,000/μL, 혈소판 50,000/μL\n혈액 배양: Escherichia coli 성장 중",
+  "options": {
+    "A": "Oxytocin 정주",
+    "B": "Piperacillin/tazobactam 정주",
+    "C": "헤파린 정주",
+    "D": "수혈 요법",
+    "E": "Dexamethasone 정주"
+  },
+  "answer": "B",
+  "explanation": "산후 패혈성 쇼크의 경우 광범위 항생제(그람음성균 커버)를 1시간 이내 투여해야 합니다. IDSA 지침에 따라 piperacillin/tazobactam + gentamicin 조합이 권장되며, 수액 복요법과 함께 시행됩니다.",
+  "source": "Obstetrics_Williams_textbook_data.txt: 'Postpartum sepsis requires immediate broad-spectrum antibiotics covering gram-negative rods and anaerobes. Piperacillin-tazobactam plus an aminoglycoside is preferred for suspected chorioamnionitis-related septic shock.'",
+  "category": "Obstetrics"
+},
+  {
+  "question_id": 12,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "65세 남성이 4주간의 미열(37.8-38.3°C)과 체중 6kg 감소로 내원하였다. 40년 흡연력이 있고, 흉부 X선에서 우상엽 4cm 종괴와 종격동 확장 소견이 확인되었다고 할 때, 다음 단계에서 가장 우선적으로 시행해야 할 검사는?",
+  "exam": "CT 가슴조영: 종괴의 spiculated margin과 종격동 림프절 종대\nPET-CT: 종괴 SUVmax 15.3",
+  "options": {
+    "A": "혈액 종양표지자 검사",
+    "B": "경피적 폐 생검",
+    "C": "골수 흡인",
+    "D": "자기공명영상(MRI)",
+    "E": "폐기능 검사"
+  },
+  "answer": "B",
+  "explanation": "폐 종괴의 조직학적 확진이 우선 필요합니다. 경피적 생검은 80-90%의 진단 정확도를 가지며, 병기 결정을 위한 필수 절차입니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: 'Percutaneous CT-guided core needle biopsy is the initial diagnostic procedure of choice for peripheral lung lesions >2cm, with sensitivity exceeding 85%.'",
+  "category": "Pulmonology (Respiratory Medicine)"
+},
+{
+  "question_id": 13,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+  "question": "22세 여성이 6개월 간 재발성 구강궤양과 생리 주기와 동반되는 39°C 고열로 내원하였다. 안구 통증과 시력 저하를 동반하며, 피부 주사 부위에 농양을 형성한다고 할 때. 현재 환자에게 가장 적절한 치료제는?",
+  "exam": "HLA-B51 유전자 양성\n피부 병리: 백혈구 파괴성 혈관염 소견",
+  "options": {
+    "A": "콜히친",
+    "B": "아자티오프린",
+    "C": "인플릭시맙",
+    "D": "프레드니솔론",
+    "E": "메토트렉세이트"
+  },
+  "answer": "A",
+  "explanation": "베체트병의 재발성 구강궤양과 생식기 궤양에는 콜히친이 1차 치료제입니다. 중증 장기 침범 시 면역억제제를 추가합니다.",
+  "source": "Rheumatology_textbook_data.txt: 'Colchicine remains first-line therapy for mucocutaneous Behçet's disease, reducing recurrence rate by 40-50%. Immunosuppressants are reserved for ocular or vascular involvement.'",
+  "category": "Rheumatology"
+},
+{
+  "question_id": 14,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+  "question": "35세 남성이 화상 치료 중 40.1°C 고열과 의식 저하로 응급실 내원하였다. 화상 부위에서 녹색 농성 분비물과 악취 확인되었다. 혈압 80/50mmHg, 맥박 130회/분이라고 할 떄, 즉시 시작해야 할 항생제 조합은?",
+  "exam": "혈액 검사: 백혈구 25,000/μL (호중구 90%)\n화상 부위 배양: Pseudomonas aeruginosa 동정",
+  "options": {
+    "A": "Vancomycin + Ceftriaxone",
+    "B": "Piperacillin/tazobactam + Ciprofloxacin",
+    "C": "Meropenem + Linezolid",
+    "D": "Clindamycin + Gentamicin",
+    "E": "Doxycycline + Metronidazole"
+  },
+  "answer": "B",
+  "explanation": "화상 관련 패혈성 쇼크에서 Pseudomonas 커버를 위해 piperacillin/tazobactam에 ciprofloxacin을 추가합니다. IDSA 지침에 따른 표준 치료 프로토콜입니다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: 'Burn-related sepsis requires antipseudomonal coverage. Combination therapy with beta-lactam/beta-lactamase inhibitor plus fluoroquinolone is recommended for multidrug-resistant organisms.'",
+  "category": "Emergency Medicine"
+},
+{
+  "question_id": 15,
+  "chief complaint": "발열/불명열",
+  "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "50세 여성이 8주간 지속된 미열과 우측 견갑골 통증으로 내원하였다. 초음파에서 간내 저에코성 병변 확인되었으며 20년 전 담석증 병력이 있다고 한다. 다음 단계에서 가장 적절한 진단 방법은?",
+  "exam": "CT 복부조영: 간 우엽 5cm 크기 농양 소견\n혈액 배양: Klebsiella pneumoniae 성장",
+  "options": {
+    "A": "경피적 농양 배양",
+    "B": "ERCP",
+    "C": "대장내시경",
+    "D": "심초음파",
+    "E": "골수 검사"
+  },
+  "answer": "A",
+  "explanation": "화농성 간농양의 경우 경피적 배양을 통해 원인균 확인이 필수적입니다. Klebsiella pneumoniae는 담도계 감염과 연관된 주요 병원체입니다.",
+  "source": "Gastroenterology_textbook_data.txt: 'Pyogenic liver abscess requires image-guided aspiration for microbiological diagnosis. Klebsiella pneumoniae is isolated in 50-80% of cases in Asian populations.'",
+  "category": "Gastroenterology"
+},
+{
+    "question_id": 16,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "60세 여성이 3주간의 아침 두통과 저녁 발열(37.8-38.2°C), 시력 장애로 내원하였다. 양측 측두동맥 압통과 혈액검사에서 ESR 110mm/hr이 확인될 때, 현재 가장 시급한 처치는?",
+    "exam": "혈관 초음파: 측두동맥 벽 두께 증가\n생검: 다핵세포 침윤 동맥염",
+    "options": {
+      "A": "고용량 프레드니솔론 정주",
+      "B": "메토트렉세이트 주사",
+      "C": "아스피린 경구 투여",
+      "D": "항결핵제 복합 요법",
+      "E": "항바이러스제 정주"
+    },
+    "answer": "A",
+    "explanation": "거대세포 동맥염은 실명 예방을 위해 스테로이드 즉시 시작. ACR 기준에 따라 ESR >50mm/hr + 두통 시 생검 없이도 치료 개시.",
+    "source": "Pathology_Robbins_textbook_data.txt: 'Temporal arteritis requires immediate high-dose glucocorticoids to prevent irreversible vision loss. Histology shows granulomatous inflammation with multinucleated giant cells.'",
+    "category": "Rheumatology"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "45세 남성이 4주간의 간헐적 발열(38.5°C)과 기침으로 내원하였다. 3개월 전 신장 이식 받은 환자로 면역억제제 복용 중이다. 가장 가능성 높은 원인은?",
+    "exam": "BAL 검사: 은염색에서 넓은 균사체 확인\n혈청 갈락토만난: 1.8 (양성 기준 >0.5)\n흉부 CT: 양측 폐야에 5mm 크기 결절 다수 관찰",
+    "options": {
+      "A": "폐결핵",
+      "B": "침습성 아스페르길루스증",
+      "C": "거대세포 바이러스 폐렴",
+      "D": "카리니 폐렴",
+      "E": "노카르디아증"
+    },
+    "answer": "B",
+    "explanation": "이식 환자에서 결절성 폐병변과 갈락토만난 양성은 아스페르길루스증 의심. BAL 검사에서 균사체 확인은 확진 소견.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'In immunocompromised hosts, multiple pulmonary nodules with positive galactomannan suggest invasive aspergillosis. Bronchoscopy with BAL is diagnostic in 50-70% of cases.'",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "55세 남성이 3주간 지속된 발열(38.2-39.0°C)과 기침, 체중 4kg 감소로 내원하였다. 동물 사육장 관리자로 근무하고 있고 검사 결과는 다음과 같을 때 가장 가능성 높은 진단은?",
+    "exam": "혈액 검사: 혈청 angiotensin converting enzyme 120U/L (정상 8-52)\n폐 생검: 비건락성 육아종 확인\n흉부 CT: 양측 폐문 림프절 종대와 미만성 간유리 음영 관찰",
+    "options": {
+      "A": "결핵",
+      "B": "사르코이드증",
+      "C": "진폐증",
+      "D": "폐암",
+      "E": "진균성 폐렴"
+    },
+    "answer": "B",
+    "explanation": "사르코이드증은 양측 폐문 림프절 종대와 비건락성 육아종이 특징. 혈청 ACE 상승은 75%에서 관찰되며 직업적 노출과 연관될 수 있습니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'Sarcoidosis typically presents with bilateral hilar lymphadenopathy and noncaseating granulomas on biopsy. Elevated serum ACE levels support the diagnosis.'",
+    "category": "Pulmonology (Respiratory Medicine)"
+  },
+  {
+    "question_id": 19,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "40세 여성이 8주간의 재발성 40°C 고열과 구강 건조감, 관절통으로 내원하였다. 신체검사에서 악하선 비대와 다발성 충치가 관찰되었다고 할 때 가장 먼저 시행해야 할 검사는?",
+    "exam": "ANA 검사: 1:320 반점형\nSchirmer 검사: 5mm/5분 (정상 >10mm)",
+    "options": {
+      "A": "신장 생검",
+      "B": "타액선 초음파",
+      "C": "소변 삼투압 측정",
+      "D": "흉부 X선",
+      "E": "심초음파"
+    },
+    "answer": "B",
+    "explanation": "쇼그렌 증후군 진단을 위해 타액선 초음파에서 특징적 변화(등고선형 저에코 병변) 확인이 필요합니다. ACR/EULAR 기준에서 필수 항목",
+    "source": "Rheumatology_textbook_data.txt: 'Salivary gland ultrasound showing hypoechoic areas is included in the 2016 ACR/EULAR classification criteria for primary Sjögren's syndrome.'",
+    "category": "Rheumatology"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "60세 남성이 통풍 치료 중 39.5°C 고열과 전신 홍반성 발진으로 응급실을 내원하였다. . 2주 전 allopurinol 시작했다고 할 때, 즉시 시행할 조치는?",
+    "exam": "피부 생검: 표피 괴사층 형성\n혈청 크레아티닌: 2.8mg/dL\n혈액 검사: 호산구 20%, ALT 250U/L",
+    "options": {
+      "A": "수액 공급",
+      "B": "스테로이드 정주",
+      "C": "알로퓨리놀 중단",
+      "D": "항히스타민제 투여",
+      "E": "혈장교환술"
+    },
+    "answer": "C",
+    "explanation": "알로퓨리놀 유발 스티븐스-존슨 증후군(SJS)은 약물 중단이 최우선. SCORTEN 점수에 따라 집중치료실 관리 필요.",
+    "source": "Pharmacology_Katzung_textbook_data.txt: 'Allopurinol is a common cause of SJS/TEN. Immediate discontinuation and supportive care are critical for survival.'",
+    "category": "Dermatology"
+  },
+  {
+    "question_id": 21,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "34세 여성이 동남아 여행 후 3일간 40°C 고열, 두통, 근육통으로 내원하였다. 2일차에 피부에 출혈성 반점 발생했다고 했을 때, 가장 중요한 검사는?",
+    "exam": "혈액 검사: 혈소판 45,000/μL, 헤마토크릿 48%\n혈청 알부민: 3.0g/dL",
+    "options": {
+      "A": "말초혈액 도말",
+      "B": "뇌척수액 검사",
+      "C": "혈액 배양",
+      "D": "골수 검사",
+      "E": "소변 검사"
+    },
+    "answer": "A",
+    "explanation": "뎅기출혈열의 경우 혈소판 감소와 혈액 농축 소견에서 말초혈액도말로 림프구 감소/비정형 세포 확인이 진단적[9][10].",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'Dengue diagnosis relies on NS1 antigen detection or PCR in early phase. Peripheral smear shows leukopenia with atypical lymphocytes.'",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 22,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "45세 남성이 8주간 지속된 불규칙한 발열(38.0-39.5°C), 관절통, 체중 감소로 내원하였다. 직업력으로 낙농업에 종사하고 있으며, 최근 유산한 소를 처리한 이력이 있다. 신체검사에서 비장비대와 좌측 족관절 부종, 압통이 관찰되었다. 이 환자에서 가장 가능성 높은 진단은?",
+    "exam": "혈액 검사: CRP 12mg/dL, ESR 85mm/hr\n혈청학적 검사: 표준시험관응집법(SAT) 역가 1:320 양성",
+    "options": {
+      "A": "결핵",
+      "B": "브루셀라증",
+      "C": "류마티스 관절염",
+      "D": "Q열",
+      "E": "엔도카디티스"
+    },
+    "answer": "B",
+    "explanation": "브루셀라증은 유산한 가축과 접촉력이 있는 낙농업 종사자에서 파상파 발열(undulant fever)과 관절염 형태로 나타납니다. 진단에는 SAT 역가 ≥1:160이 기준이 됩니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'Brucellosis presents with undulant fever, arthritis, and splenomegaly in animal handlers. Standard tube agglutination titers ≥1:160 in conjunction with compatible clinical findings confirm the diagnosis.'",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 23,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 응급 치료가 필요한 경우 적합한 초기 치료 방법을 선택할 수 있다.",
+    "question": "58세 남성이 5일전부터 시작된 발열(39.5°C), 두통, 근육통으로 응급실에 내원하였다. 일주일 전 가을 산행 이력이 있으며, 좌측 서혜부에 검은색 가피와 주변부 발적이 관찰되었다. 환자는 내원 당시 의식이 저하되어 있었고, 혈압 80/40mmHg로 측정되었다. 이 환자에게 가장 적절한 초기 항생제는?",
+    "exam": "혈액 검사: 백혈구 12,000/μL, 혈소판 65,000/μL, CRP 24mg/dL\n이중중합효소연쇄반응(PCR): Orientia tsutsugamushi 양성",
+    "options": {
+      "A": "Ciprofloxacin",
+      "B": "Piperacillin/tazobactam",
+      "C": "Doxycycline",
+      "D": "Vancomycin",
+      "E": "Acyclovir"
+    },
+    "answer": "C",
+    "explanation": "쯔쯔가무시병은 가을철 진드기 매개 감염으로 특징적인 가피(eschar)가 관찰됩니다. 패혈성 쇼크 환자에서 doxycycline 정주는 즉시 시작해야 하며, 하루 2회 100mg 투여가 표준 요법입니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'Scrub typhus should be treated with doxycycline (100 mg twice daily) regardless of disease severity or patient age. Delayed treatment increases mortality to >30% in severe cases.'",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 24,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게서 병력, 신체소견, 검사결과 등을 종합하여 원인과 병태생리를 알아낼 수 있다.",
+    "question": "22세 여성이 3개월간 지속된 야간 발열(38.5-39°C), 체중 감소(10kg), 야간 발한으로 내원하였다. 신체검사에서 좌측 경부와 쇄골상부 림프절이 무통성으로 종대되어 있었으며 압통은 없었다. 음주 후 림프절 통증을 호소하였다. 이 환자에서 가장 가능성 높은 진단은?",
+    "exam": "흉부 CT: 전종격동 종괴와 좌측 경부 림프절 종대\n림프절 생검: 풍부한 세포질을 가진 거대세포(Reed-Sternberg cell) 관찰",
+    "options": {
+      "A": "비호지킨 림프종",
+      "B": "결핵성 림프절염",
+      "C": "호지킨 림프종",
+      "D": "전염성 단핵구증",
+      "E": "전이성 폐암"
+    },
+    "answer": "C",
+    "explanation": "젊은 여성에서 발열, 야간 발한, 체중 감소의 B증상과 함께 무통성 림프절 종대는 호지킨 림프종의 특징입니다. 음주 후 림프절 통증(alcohol-induced pain)과 Reed-Sternberg 세포는 결정적 진단 소견입니다.",
+    "source": "Pathology_Robbins_textbook_data.txt: 'Classical Hodgkin lymphoma is characterized by Reed-Sternberg cells in a mixed inflammatory background. B symptoms (fever, night sweats, weight loss) occur in 40% of patients, and pain at involved nodal sites following alcohol ingestion is pathognomonic.'",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 25,
+    "chief complaint": "발열/불명열",
+    "purpose": "열이 나는 사람에게 원인과 합병증에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "65세 남성이 투석 후 발생한 39.5°C 고열과 오한으로 응급실에 내원하였다. 만성 신부전으로 3년간 혈액투석 중이며, 최근 투석관 교체 이력이 있다. 혈압 85/50mmHg, 맥박 120회/분, 투석 카테터 삽입 부위에 발적과 화농성 분비물이 관찰되었다. 가장 우선적인 치료 방침은?",
+    "exam": "혈액 배양: 메티실린 내성 황색포도알균(MRSA) 양성\n투석관 배양: MRSA 양성",
+    "options": {
+      "A": "카테터 유지하면서 항생제 치료",
+      "B": "카테터 제거 및 항생제 치료",
+      "C": "항진균제 추가 병용",
+      "D": "투석 중단 및 보존적 치료",
+      "E": "수술적 배농술 시행"
+    },
+    "answer": "B",
+    "explanation": "투석 카테터 관련 균혈증에서 IDSA 지침은 기구 관련 감염 시 카테터 제거를 권장합니다. 특히 MRSA와 같은 병독성 균주에서 카테터 유지 시 치료 실패율이 높습니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: 'Catheter-related bloodstream infections caused by S. aureus, P. aeruginosa, or fungi require catheter removal in addition to antimicrobial therapy. Salvage attempts have failure rates exceeding 60%.'",
+    "category": "Nephrology"
+  },
 {
   "question_id": 1,
   "chief complaint": "허리통증",
