@@ -6508,5 +6508,215 @@
     "content": "Cerebrospinal fluid (CSF) examination is crucial in the diagnostic workup of posterior fossa tumors, particularly medulloblastoma, due to its propensity for leptomeningeal dissemination. Approximately 30-40% of patients with medulloblastoma will have evidence of CSF dissemination at diagnosis or during the course of the disease. CSF cytology showing malignant cells confirms the presence of leptomeningeal spread and significantly impacts staging, prognosis, and treatment planning. According to the Chang staging system, positive CSF cytology classifies the disease as M1 stage, while macroscopic metastases detected by imaging are classified as M2 (brain) or M3 (spine). The presence of CSF dissemination necessitates more intensive treatment, including higher radiation doses and extended fields, as well as escalated chemotherapy regimens. In addition to cytology, CSF analysis may reveal elevated protein levels and occasionally pleocytosis. It's recommended that lumbar puncture for CSF sampling be performed at least 14 days after cranial surgery to avoid false-positive results due to postoperative changes. When elevated intracranial pressure is suspected, as indicated by papilledema, CSF examination should be deferred until after surgical intervention to prevent herniation."
   },
   "category": "Neurology / Neurosurgery"
+}, 
+{
+  "question_id": 311,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "68세 남성이 3개월 전부터 서서히 진행된 우측 상복부 종괴와 체중 감소를 주소로 내원하였다. 환자는 30갑년의 흡연력이 있으며, 음주는 주 3회, 매회 소주 1병 정도를 20년간 마셔왔다. 최근 3개월간 7kg의 체중 감소가 있었고, 간헐적인 우상복부 통증과 식욕 저하를 호소했다. 신체 검진에서 우상복부에 압통이 없는 단단한 종괴가 촉지되었고, 황달은 관찰되지 않았다. 이 환자의 진단을 위해 시행해야 할 가장 적절한 다음 검사는?",
+  "exam": "혈액 검사에서 AST 85 U/L, ALT 92 U/L, 총 빌리루빈 2.0 mg/dL, ALP 430 U/L, γ-GT 310 U/L로 상승되어 있었고, AFP는 980 ng/mL로 크게 증가해 있었다. 복부 초음파에서 간 우엽에 11cm 크기의 저에코성 종괴가 관찰되었다. ",
+  "options": {
+    "A": "ERCP (내시경적 역행성 담췌관 조영술)",
+    "B": "간 조직 생검",
+    "C": "복부 CT 또는 MRI",
+    "D": "PET-CT",
+    "E": "MRCP (자기공명 담췌관 조영술)"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 고령 남성으로 장기간의 알코올 섭취와 흡연력이 있으며, 서서히 진행된 우상복부 종괴, 체중 감소, 식욕 저하를 호소하고 있습니다. 혈액 검사에서 간 효소의 상승과 함께 AFP(알파태아단백)가 980 ng/mL로 크게 증가되어 있고, 초음파에서 11cm 크기의 간 종괴가 관찰되어 간세포암종(Hepatocellular carcinoma, HCC)의 가능성이 높습니다. 간세포암종이 의심될 때, 진단을 확인하고 병기를 결정하기 위한 가장 적절한 다음 검사는 조영증강 복부 CT 또는 MRI입니다. 이 검사들은 종양의 크기, 위치, 주변 혈관 침범 여부, 간외 전이 여부 등을 평가할 수 있으며, 특히 역동적 조영증강 CT나 MRI는 HCC의 특징적인 조영 패턴(동맥기 조영증강과 문맥기 또는 지연기 조영 소실)을 확인하여 비침습적으로 진단할 수 있습니다. AFP 수치가 높고 영상 검사에서 특징적인 소견이 관찰된다면, 간 조직 생검 없이도 HCC를 진단할 수 있습니다. ERCP와 MRCP는 담도계 질환의 평가에 유용하지만, 이 환자에서 주된 문제는 간 실질의 종괴이므로 일차적인 검사로는 적합하지 않습니다. PET-CT는 원발성 간세포암의 진단에 있어 민감도가 낮아 일반적으로 일차 검사로 권장되지 않습니다. 간 조직 생검은 영상 검사 결과가 비특이적이거나 진단이 불확실할 때 고려될 수 있으나, 출혈 위험이나 종양 파종의 위험이 있으므로 영상 검사 후에 필요한 경우에 시행하는 것이 바람직합니다.",
+  "source": {
+    "file_name": "EASL Clinical Practice Guidelines",
+    "content": "In cirrhotic patients, non-invasive diagnosis of HCC can be obtained by a typical vascular pattern on dynamic imaging techniques (arterial phase hyperenhancement followed by portal venous or delayed phase washout). This radiological hallmark can be identified using contrast-enhanced CT or MRI. In case of uncertainty or atypical radiological findings, diagnosis should be confirmed by biopsy. Serum biomarkers such as AFP, although not specific enough to be used as a diagnostic test, may be helpful in conjunction with imaging methods."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 312,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "42세 여성이 하복부 종괴와 월경과다를 주소로 내원하였다. 환자는 3년 전부터 생리통이 심해졌고, 최근 1년간 월경 출혈량이 증가하였으며, 하복부에 종괴가 만져진다고 호소했다. 산과력은 1-0-0-1이며, 마지막 출산은 12년 전이었다. 신체 검진에서 하복부에 임신 16주 크기의 단단하고 불규칙한 표면을 가진 종괴가 촉지되었다. 이 환자에게 가장 적절한 치료 계획은?",
+  "exam": "골반 초음파 검사에서 자궁이 확대되어 있고, 자궁 근층 내에 여러 개의 저에코성 종괴들이 관찰되었으며, 가장 큰 종괴는 직경 7cm이었다. 혈액 검사에서 혈색소 9.2 g/dL, 적혈구용적률 28%, 철 결핍성 빈혈 소견이 확인되었다. 자궁경부 세포진 검사는 정상이었고, 자궁내막 조직검사에서도 특이 소견은 없었다. CA-125는 35 U/mL로 약간 상승되어 있었다.",
+  "options": {
+    "A": "GnRH 작용제와 추가적인 철분 보충제 투여",
+    "B": "프로게스테론 함유 자궁내 장치 삽입",
+    "C": "전자궁적출술",
+    "D": "자궁근종 절제술",
+    "E": "자궁동맥 색전술"
+  },
+  "answer": "D",
+  "explanation": "이 환자는 42세의 가임기 여성으로 하복부 종괴, 월경과다, 생리통을 호소하며, 골반 초음파에서 자궁 근층 내 다발성 종괴가 관찰되어 자궁근종으로 진단할 수 있습니다. 자궁근종은 가임기 여성에서 흔한 양성 종양으로, 월경과다, 골반통, 복부 압박감 등의 증상을 유발할 수 있습니다. 이 환자는 42세로 아직 가임기에 속하며, 임신 계획 여부에 대한 언급은 없으나 생식능력 보존 요구가 있을 수 있습니다. 자궁근종 절제술(myomectomy)은 자궁을 보존하면서 근종만 제거하는 수술로, 생식능력 보존이 필요한 여성에게 적합한 치료 옵션입니다. 특히 이 환자는 철 결핍성 빈혈이 있어 적극적인 치료가 필요하며, 7cm 크기의 큰 근종과 다발성 근종으로 인한 증상(월경과다, 생리통)이 있어 수술적 치료가 적절합니다. GnRH 작용제는 자궁근종의 크기를 일시적으로 감소시키고 빈혈을 개선시킬 수 있으나, 치료 중단 후 대부분 원래 크기로 돌아오며, 장기 사용 시 골다공증 위험이 있어 근본적인 치료보다는 수술 전 보조요법으로 사용됩니다. 프로게스테론 함유 자궁내 장치는 월경과다 증상은 개선할 수 있으나, 크기가 큰 근종을 가진 환자에서는 효과가 제한적이고 근종 자체의 크기 감소 효과는 없습니다. 전자궁적출술은 생식능력을 영구적으로 상실시키므로, 젊은 여성에서는 근종 절제술 등 자궁 보존 요법을 먼저 고려해야 합니다. 자궁동맥 색전술은 비수술적 치료 방법으로 근종의 크기를 감소시킬 수 있으나, 크기가 큰 다발성 근종에서는 효과가 제한적일 수 있고, 향후 임신을 원하는 여성에서는 신중하게 고려해야 합니다.",
+  "source": {
+    "file_name": "The American College of Obstetricians and Gynecologists Practice Bulletin",
+    "content": "Myomectomy is the surgical removal of uterine leiomyomas with reconstruction of the uterus and is an alternative to hysterectomy for women who wish to retain their uteri. Myomectomy may be performed for the treatment of symptoms attributable to leiomyomas, such as abnormal uterine bleeding, pelvic pain or pressure, or for reproductive dysfunction. Myomectomy is the preferred treatment for symptomatic women who desire to maintain fertility or who wish to keep their uteri for other reasons. The procedure may be performed using a laparotomy approach, by conventional laparoscopy, or with robotic assistance, or by hysteroscopy depending on the size, number, and location of the leiomyomas."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 313,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "55세 남성이 1주일 전부터 시작된 좌측 복부 팽만감과 만져지는 덩어리를 주소로 내원하였다. 환자는 최근 3개월간 간헐적인 변비와 묽은 변이 번갈아 나타나는 증상이 있었고, 배변 습관의 변화와 함께 약간의 체중 감소가 있었다고 한다. 과거력상 특이 병력은 없으며, 가족력에서 어머니가 70세에 대장암으로 사망하였다. 신체 검진에서 좌하복부에 압통이 없는 단단한 종괴가 촉지되었다. 직장 수지 검사에서 혈액은 검출되지 않았다. 이 환자의 진단을 위해 우선적으로 시행해야 할 검사는?",
+  "exam": "혈액 검사에서 혈색소 11.2 g/dL로 경도의 빈혈이 있었다. ",
+  "options": {
+    "A": "대장 내시경 검사",
+    "B": "복부 초음파 검사",
+    "C": "대변 잠혈 검사",
+    "D": "바륨 관장 검사",
+    "E": "복부 단순 촬영"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 55세 남성으로 최근 발견된 좌측 복부 종괴, 배변 습관의 변화(변비와 묽은 변의 교대), 체중 감소 등의 증상이 있으며, 가족력에서 어머니가 대장암으로 사망한 병력이 있습니다. 이러한 증상과 징후는 대장암을 강하게 시사합니다. 특히 좌측 결장(하행결장, S상결장)의 종양은 좌하복부 종괴로 촉지될 수 있으며, 장폐색이 진행되면서 배변 습관의 변화와 복부 팽만감을 유발할 수 있습니다. 이 환자에서 가장 적절한 검사는 대장 내시경 검사입니다. 대장 내시경은 직접 대장 점막을 관찰하여 종양의 유무, 위치, 크기, 형태 등을 정확히 평가할 수 있으며, 동시에 조직 검사를 통해 병리학적 진단을 확인할 수 있는 장점이 있습니다. 또한 다발성 병변 유무도 함께 확인할 수 있어, 대장암이 의심되는 환자의 일차 진단 검사로 가장 적합합니다. 복부 초음파 검사는 간편하고 비침습적인 검사이지만, 대장 종양의 진단에 있어 민감도와 특이도가 낮으며, 특히 장내 가스에 의해 검사가 제한될 수 있어 일차 검사로는 적합하지 않습니다. 대변 잠혈 검사는 대장암의 선별 검사로 사용되지만, 이미 종괴가 촉지되는 환자에서는 진단적 가치가 제한적입니다. 바륨 관장 검사는 과거에 많이 사용되었으나, 현재는 대장 내시경이 널리 보급되어 일차 검사로는 잘 시행되지 않습니다. 복부 단순 촬영은 장폐색이나 천공 같은 합병증 평가에 유용하지만, 종양 자체의 진단에는 민감도가 낮습니다.",
+  "source": {
+    "file_name": "National Comprehensive Cancer Network Guidelines",
+    "content": "For patients with suspected colorectal cancer based on signs and symptoms (rectal bleeding, change in bowel habits, abdominal pain, unexplained weight loss, anemia, palpable abdominal mass), colonoscopy is the preferred diagnostic method. Colonoscopy allows direct visualization of the entire colon and rectum, enabling biopsy of suspicious lesions and removal of polyps. It has high sensitivity for detecting colorectal neoplasms and provides definitive diagnosis through histopathological examination of biopsied tissue. The entire colon should be evaluated to detect synchronous lesions."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 314,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "38세 여성이 우측 하복부 종괴를 주소로 내원하였다. 환자는 3개월 전부터 우측 하복부에 덩어리가 만져지는 것을 알았으나 통증이 없어 내원하지 않았다가, 최근 크기가 커진 것 같아 내원하였다. 생리는 규칙적이나 월경 시 심한 통증이 있으며, 성교통도 호소한다. 임신력은 없다. 신체 검진에서 우측 하복부에 압통이 없는 6cm 크기의 타원형 종괴가 촉지되었고, 골반 내진에서 우측 부속기 부위에 압통을 동반한 종괴가 만져졌다. 복부 초음파 검사에서 우측 난소에 6.5×5.2cm 크기의 낭성 종괴가 관찰되었으며, 내부에 고에코성 물질이 침전된 형태로 보였다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사에서 CA-125는 78 U/mL로 증가되어 있었다. 복부 CT 검사에서 우측 난소에 경계가 명확한 낭성 종괴가 있으며, 내부에 지방-액체 층이 관찰되었고, 조영증강되는 벽이나 고형 성분은 보이지 않았다. 자궁 후벽에 2.8cm 크기의 결절이 관찰되었다.",
+  "options": {
+    "A": "경과 관찰만 시행",
+    "B": "복강경하 난소낭종 적출술",
+    "C": "GnRH 작용제 투여",
+    "D": "복강경하 난소절제술",
+    "E": "복강경하 양측 난소난관절제술 및 전자궁적출술"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 38세 여성으로 우측 하복부 종괴를 주소로 내원하였고, 심한 월경통과 성교통을 호소합니다. 영상 검사에서 우측 난소에 6.5cm 크기의 낭성 종괴가 있으며, 내부에 지방-액체 층이 관찰되고 CT에서 조영증강되는 벽이나 고형 성분은 보이지 않았습니다. 또한 자궁 후벽에 2.8cm 크기의 결절이 있고, CA-125가 78 U/mL로 증가되어 있습니다. 이러한 임상상과 영상 소견은 자궁내막증(endometriosis)과 동반된 자궁내막종(endometrioma)을 강하게 시사합니다. 자궁내막종은 초음파에서 '초코렛 낭종'이라 불리는 특징적인 소견(내부에 미세한 에코가 있는 균일한 저에코 낭종)을 보이며, CT에서는 지방-액체 층(fat-fluid level)이 관찰될 수 있습니다. 자궁내막증 환자는 CA-125가 상승될 수 있으며, 심한 월경통과 성교통은 전형적인 증상입니다. 이 환자에게 가장 적합한 치료는 복강경하 난소낭종 적출술(laparoscopic ovarian cystectomy)입니다. 이 수술은 가임기 여성에서 양성 난소 종양이 의심될 때 주로 시행되며, 난소 조직을 최대한 보존하면서 낭종만 제거하는 방법입니다. 특히 자궁내막종의 경우, 난소 기능을 보존하기 위해 가능한 한 낭종만 제거하는 것이 권장됩니다. 경과 관찰은 6cm 이상의 크기와 증상이 있는 자궁내막종에서는 적절하지 않습니다. 종괴의 크기가 크고 파열, 감염, 출혈 등의 합병증 위험이 있기 때문입니다. GnRH 작용제는 자궁내막증의 증상을 일시적으로 완화시킬 수 있으나, 종괴 자체를 제거하지는 못하며 장기 사용 시 골다공증 등의 부작용이 있어 수술적 치료의 대안이 될 수 없습니다. 복강경하 난소절제술은 낭종이 매우 크거나 악성이 의심될 때, 또는 낭종이 난소 대부분을 차지하여 정상 조직을 보존하기 어려울 때 고려됩니다. 이 환자의 경우 영상 검사에서 악성을 시사하는 소견이 없고, 젊은 가임기 여성이므로 난소 보존이 중요합니다. 양측 난소난관절제술 및 전자궁적출술은 생식능력이 불필요한 폐경기 여성이나 악성 종양이 확진된 경우에 고려되는 치료로, 이 환자에게는 과도한 치료입니다.",
+  "source": {
+    "file_name": "European Society of Human Reproduction and Embryology (ESHRE) Guideline",
+    "content": "When an ovarian endometrioma ≥3 cm in diameter is present, laparoscopic ovarian cystectomy is recommended instead of drainage and coagulation, as it reduces endometriosis-associated pain and reduces recurrence rates. For women with ovarian endometriomas who desire pregnancy, clinicians should perform excisional surgery rather than ablative surgery for endometrioma greater than 3 cm, as excisional surgery results in a higher pregnancy rate. In women with symptoms of endometriosis and an adnexal mass, clinicians should perform preoperative assessment to identify the risk of malignancy. During any surgical procedure for endometriosis, all visible endometriotic lesions should be surgically removed, to improve outcome with respect to pain symptoms and fertility."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 315,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "62세 남성이 우연히 발견된 우측 신장 종괴에 대한 평가를 위해 내원하였다. 환자는 2주 전 건강검진에서 시행한 복부 초음파에서 우측 신장에 4.5cm 크기의 종괴가 발견되었다. 현재 특별한 증상은 없으며, 혈뇨나 측복부 통증도 없다고 한다. 과거력에서 20년 전부터 고혈압으로 약물 치료 중이며, 10년 전 담낭절제술을 받았다. 40갑년의 흡연력이 있고, 현재도 하루 1갑씩 흡연 중이다. 신체 검진에서 특이 소견은 없었으며, 양측 늑골척추각 압통도 없었다. 이 환자의 진단을 위해 다음으로 시행해야 할 가장 적절한 검사는?",
+  "exam": " 혈액 검사에서 혈색소 14.5 g/dL, 백혈구 6,800/mm³, 혈소판 245,000/mm³, BUN 18 mg/dL, 크레아티닌 0.9 mg/dL, eGFR 82 mL/min/1.73m²였다. 소변 검사에서 이상 소견은 없었다.",
+  "options": {
+    "A": "조영증강 복부 CT",
+    "B": "조영증강 복부 MRI",
+    "C": "PET-CT",
+    "D": "경피적 신장 생검",
+    "E": "신동맥 혈관조영술"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 62세 남성으로 건강검진에서 우연히 발견된 4.5cm 크기의 신장 종괴에 대한 평가가 필요합니다. 환자는 현재 무증상이지만, 고혈압과 장기간의 흡연력이 있어 신세포암(renal cell carcinoma)의 위험인자를 가지고 있습니다. 신장 종괴가 발견된 경우, 그 성격(양성 vs 악성)을 결정하기 위한 가장 좋은 영상 검사는 조영증강 복부 CT입니다. 조영증강 CT는 신장 종괴의 특성화에 있어 높은 민감도와 특이도를 가지며, 특히 신세포암의 특징적인 조영 패턴(동맥기에 강한 조영증강 후 지연기에 조영제 배출)을 확인할 수 있습니다. 또한 CT는 종양의 크기, 위치, 주변 조직 침범 여부, 림프절 전이 여부, 신정맥이나 하대정맥 침범 여부, 원격 전이 여부 등을 평가하여 병기 결정에도 중요한 정보를 제공합니다. 조영증강 복부 MRI는 CT에 대한 좋은 대안이 될 수 있으며, 특히 조영제 알레르기가 있거나 신기능이 저하된 환자에서 유용합니다. 또한 MRI는 복잡한 낭성 병변이나 신장 종괴의 지방 성분 평가에 더 우수할 수 있습니다. 그러나 일반적으로 신장 종괴의 초기 평가에서는 접근성, 비용, 검사 시간 등을 고려할 때 CT가 일차 검사로 선호됩니다. PET-CT는 신세포암의 일차 진단에 일반적으로 권장되지 않습니다. 신세포암은 FDG 섭취가 다양하게 나타날 수 있어 위음성 가능성이 있으며, 비용 대비 효과가 낮습니다. 경피적 신장 생검은 영상 검사에서 신장 종괴의 성격이 불확실하거나, 림프종이나 전이성 암종이 의심될 때, 또는 비수술적 치료(예: 냉동요법, 고주파 열치료)를 계획할 때 고려됩니다. 그러나 영상 검사에서 전형적인 신세포암 소견을 보이는 경우에는 불필요한 출혈, 종양 파종 등의 위험이 있어 일반적으로 시행하지 않습니다. 신동맥 혈관조영술은 과거에 신장 종괴의 평가에 사용되었으나, 현재는 CT나 MRI와 같은 비침습적 영상 검사가 발전하면서 그 역할이 크게 감소하였으며, 진단 목적으로는 거의 사용되지 않고 있습니다.",
+  "source": {
+    "file_name": "American Urological Association Guidelines",
+    "content": "For the evaluation of a renal mass, a contrast-enhanced abdominal CT or MRI should be performed. Multiphasic CT scans should include pre-contrast, corticomedullary phase, nephrographic phase, and delayed excretory phase images to maximize diagnostic accuracy. The corticomedullary phase facilitates detection of the tumor's vascular supply, while the nephrographic phase best demonstrates enhancement of the renal mass compared to the normal renal parenchyma, allowing characterization of the mass as solid or cystic and evaluation of its likelihood of being malignant. CT is generally preferred as the initial imaging study because of its availability, speed, and cost-effectiveness, and it provides valuable information for staging, including the status of lymph nodes, vascular invasion, and distant metastases."
+  },
+  "category": "Urology"
+}, 
+{
+  "question_id": 316,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "45세 남성이 우하복부 통증과 덩어리를 주소로 내원하였다. 환자는 1주일 전부터 간헐적인 우하복부 통증이 있었고, 2일 전부터 통증이 심해지면서 발열과 오한이 동반되었다고 한다. 과거력상 2년 전 대장 내시경에서 게실이 발견되었으나 특별한 치료 없이 지내왔다. 신체 검진에서 체온 38.3°C, 혈압 130/80 mmHg, 맥박 92회/분, 호흡수 18회/분이었다. 우하복부에 압통을 동반한 8cm 크기의 종괴가 촉지되었으며, 반발통이 있었다. 이 환자의 치료에 대한 설명으로 가장 적절한 것은?",
+  "exam": "혈액 검사에서 백혈구 15,200/mm³(호중구 85%), CRP 12.5 mg/dL로 상승되어 있었다. 복부 CT에서 S상 결장 벽의 비후와 주변 지방조직의 염증성 변화, 6×5cm 크기의 복강 내 농양이 관찰되었다. ",
+  "options": {
+    "A": "금식, 항생제 투여, 경피적 배농술 시행",
+    "B": "즉시 개복술 및 S상 결장 절제술 시행",
+    "C": "금식, 항생제 투여 후 상태 호전되면 바로 퇴원 조치",
+    "D": "복강경 진단술로 염증 정도 확인 후 치료 결정",
+    "E": "항생제 투여 없이 즉시 S상 결장 절제술 시행"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 45세 남성으로 우하복부 통증, 촉지되는 종괴, 발열 등의 증상이 있으며, 과거력에서 대장 게실이 있었고, CT에서 S상 결장 벽의 비후와 주변 염증성 변화, 복강 내 농양이 관찰되어 게실염(diverticulitis)과 이에 따른 복강 내 농양 형성으로 진단할 수 있습니다. 게실염은 대장 게실에 염증이 발생한 상태로, 합병증으로 농양, 누공, 천공, 협착 등이 발생할 수 있습니다. 이 환자는 Hinchey 분류 상 Stage II(골반 또는 복강 내 농양)에 해당합니다. 이 단계의 게실염 치료는 일반적으로 금식, 광범위 항생제 투여, 그리고 농양에 대한 경피적 배농술(percutaneous drainage)이 권장됩니다. 경피적 배농술은 CT나 초음파 유도 하에 시행되며, 수술 없이 농양을 제거할 수 있는 장점이 있습니다. 농양이 성공적으로 배농되고 환자의 상태가 안정되면, 동일 입원 기간 중에 또는 6-8주 후 선택적 대장 절제술을 고려할 수 있습니다. 즉시 개복술 및 S상 결장 절제술은 과도한 치료가 될 수 있으며, 염증이 심한 상태에서의 수술은 기술적으로 어렵고 합병증 위험이 높을 수 있습니다. 특히 농양이 경피적 배농으로 해결 가능한 경우, 일차적으로 비수술적 접근이 선호됩니다. 금식, 항생제 투여 후 상태 호전되면 바로 퇴원 조치하는 것은 6cm 크기의 농양이 있는 환자에게 부적절합니다. 농양 치료 없이 항생제만으로는 완전한 해결이 어려우며, 추적 관찰 없이 퇴원하면 재발이나 합병증 위험이 높습니다. 복강경 진단술은 CT로 이미 진단이 명확한 상황에서 불필요한 침습적 절차가 될 수 있습니다. 농양이 확인된 경우 일차적으로 경피적 배농을 시도하는 것이 표준 치료입니다. 항생제 투여 없이 즉시 S상 결장 절제술을 시행하는 것은 부적절합니다. 염증이 있는 상태에서 항생제 없이 수술을 진행하면 수술 후 감염 합병증 위험이 매우 높아집니다.",
+  "source": {
+    "file_name": "American Society of Colon and Rectal Surgeons' Clinical Practice Guidelines",
+    "content": "Patients with diverticulitis and a well-defined pericolic or abdominal abscess should typically be treated with antibiotics and percutaneous drainage if the abscess is amenable to this approach. Patients with diverticulitis and a pelvic or abdominal abscess that is not amenable to percutaneous drainage or who fail non-operative management should typically undergo operative intervention. In the setting of abscess formation, primary anastomosis may be performed when technical considerations and the patient's condition allow. Percutaneous drainage of diverticular abscesses may convert an emergency situation into a semi-elective one and may avert the need for proximal diversion. Subsequent elective resection is generally advised for patients who respond to non-operative management of diverticular abscess."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 317,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "35세 여성이 우측 상복부 통증과 덩어리를 주소로 내원하였다. 환자는 6개월 전부터 간헐적인 우상복부 통증이 있었으며, 최근 1개월 전부터 우상복부에 덩어리가 만져진다고 한다. 통증은 식후에 악화되는 경향이 있으며, 열감이나 체중 감소는 없었다. 과거력상 특이사항은 없었으며, 약물 복용력도 없었다. 신체 검진에서 우상복부에 부드럽고 압통이 없는 8cm 크기의 종괴가 촉지되었다. 이 환자의 진단을 위해 다음으로 시행해야 할 가장 적절한 검사는?",
+  "exam": "혈액 검사에서 혈색소 13.5 g/dL, 백혈구 7,200/mm³, 혈소판 240,000/mm³, 총 빌리루빈 0.8 mg/dL, AST 25 U/L, ALT 28 U/L, ALP 85 U/L였다. 복부 초음파 검사에서 간 우엽에 10×8cm 크기의 경계가 명확한 다방성 낭성 종괴가 관찰되었다. ",
+  "options": {
+    "A": "조영증강 복부 CT",
+    "B": "MRCP(자기공명 담췌관 조영술)",
+    "C": "간 조직 생검",
+    "D": "ERCP(내시경적 역행성 담췌관 조영술)",
+    "E": "혈청 CA 19-9"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 35세 여성으로 우상복부 통증과 촉지되는 종괴를 호소하고 있으며, 초음파 검사에서 간 우엽에 10×8cm 크기의 다방성 낭성 종괴가 관찰되었습니다. 간의 낭성 병변으로는 단순 낭종, 다방성 낭종, 간낭종선종(cystadenoma), 간낭종선암(cystadenocarcinoma), 담관낭(biliary cystadenoma), 기생충 감염(특히 간포충증), 간농양 등을 고려할 수 있습니다. 이 환자에서 다음으로 시행해야 할 가장 적절한 검사는 조영증강 복부 CT입니다. 조영증강 CT는 간 낭성 병변의 특성을 더 자세히 평가할 수 있으며, 특히 낭종 벽의 두께, 격벽의 유무, 석회화, 조영증강 여부, 주변 조직과의 관계 등을 확인하여 양성과 악성을 감별하는데 도움이 됩니다. 또한 낭종과 담관계와의 연관성도 평가할 수 있습니다. MRCP(자기공명 담췌관 조영술)는 담도계 질환을 평가하는데 유용한 검사이나, 이 환자의 경우 간 실질 내 낭성 종괴가 주된 문제이므로 일차적으로는 조영증강 CT가 더 적합합니다. MRCP는 낭종과 담관계의 연관성이 의심되거나, CT에서 담관과의 연결이 불분명할 때 추가로 고려할 수 있습니다. 간 조직 생검은 침습적인 검사로, 낭성 병변에서는 출혈, 감염, 낭액 유출 등의 합병증 위험이 있어 일차 검사로는 적합하지 않습니다. 또한 낭성 병변은 생검만으로 진단이 어려울 수 있으며, 비전형적인 영상 소견이나 악성이 강하게 의심될 때 제한적으로 시행됩니다. ERCP(내시경적 역행성 담췌관 조영술)는 담관계 질환의 진단 및 치료에 유용하나, 침습적이며 합병증(췌장염, 출혈, 천공, 감염 등) 위험이 있어 정확한 적응증 하에 시행해야 합니다. 이 환자의 간 낭성 병변 평가에 일차적인 검사로는 적합하지 않습니다. 혈청 CA 19-9는 담관암, 췌장암 등의 소화기계 암에서 상승할 수 있는 종양 표지자이나, 민감도와 특이도가 제한적이며 양성 질환에서도 상승할 수 있어 단독으로 진단적 가치는 낮습니다. 간 낭성 병변의 일차 평가에는 영상 검사가 더 중요합니다.",
+  "source": {
+    "file_name": "American College of Radiology Appropriateness Criteria",
+    "content": "For evaluation of cystic liver lesions, contrast-enhanced CT or MRI is the most appropriate next imaging study after an initial ultrasound that identifies a cystic lesion. These cross-sectional imaging modalities can better characterize the lesion by demonstrating the presence of septations, nodularity, calcifications, or enhancement of the cyst wall or internal components, which may suggest a more complex or potentially malignant lesion rather than a simple hepatic cyst. CT is often performed first due to wider availability and lower cost, and provides excellent assessment of cyst complexity, wall thickness, and enhancement patterns. MRI with hepatobiliary-specific contrast agents may provide additional information in cases where CT findings are equivocal or when a biliary communication is suspected."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 318,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "28세 여성이 2개월 전부터 발견된 복부 종괴로 내원하였다. 환자는 복부가 점차 팽창하는 것을 느꼈으며, 간헐적인 복통과 복부 포만감이 있다고 한다. 최근 소변을 자주 보는 증상이 있었으나, 월경 주기는 규칙적이었다. 과거력에는 특이사항이 없었다. 신체 검진에서 하복부에 약간의 압통이 있는 단단한 종괴가 촉지되었으며, 크기는 임신 20주 자궁 크기와 유사했다. 골반 초음파에서 골반강 내에 18×15cm 크기의 혼합 에코 소견을 보이는 거대 종괴가 관찰되었으며, 자궁은 정상이었다. 난소는 종괴로 인해 명확히 구분되지 않았다. 복부 CT에서 골반강에서 복강까지 확장된 대형 종괴가 관찰되었으며, 종괴 내부에 고형 성분과 낭성 성분이 혼재되어 있었다. 복수, 림프절 종대, 원격 전이의 증거는 없었다. 이 환자에게 가장 적합한 치료 계획은?",
+  "exam": "혈액 검사에서 CA-125는 85 U/mL, AFP는 정상, β-hCG는 음성이었다. ",
+  "options": {
+    "A": "복강경하 난소 낭종 천자술",
+    "B": "개복술 및 종양 감축술",
+    "C": "개복술, 일측 난소난관절제술, 수술 중 동결절편 검사",
+    "D": "GnRH 작용제 투여 후 종양 축소되면 수술",
+    "E": "개복술, 양측 난소난관절제술, 전자궁적출술, 대망절제술"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 28세 젊은 여성으로 2개월 동안 급속히 성장한 18cm 크기의 복부-골반 종괴가 있습니다. 영상 검사에서 종괴는 고형 성분과 낭성 성분이 혼재된 혼합 에코 소견을 보이며, CA-125가 경도로 상승(85 U/mL)되어 있습니다. 이러한 소견은 난소 기원의 종양, 특히 난소 생식세포종양(ovarian germ cell tumor) 또는 상피성 난소 종양(epithelial ovarian tumor)의 가능성을 시사합니다. 이 환자에게 가장 적합한 치료는 개복술, 일측 난소난관절제술, 그리고 수술 중 동결절편 검사입니다. 환자가 28세로 매우 젊고 생식능력 보존이 중요한 점, 종양이 한쪽 난소에 국한된 것으로 보이는 점, 그리고 임상적으로 초기 병기로 판단되는 점을 고려할 때, 일측 난소난관절제술이 적절합니다. 수술 중 동결절편 검사는 종양의 양성/악성 여부를 신속히 확인하고, 이에 따라 추가적인 수술 범위를 결정하는데 중요합니다. 악성으로 확인되면 병기 결정을 위한 추가 절차(반대측 난소 생검, 대망절제술, 림프절 절제 등)를 진행할 수 있습니다. 복강경하 난소 낭종 천자술은 이 환자에게 부적절합니다. 종괴의 크기가 매우 크고(18cm), 고형 성분이 포함되어 있으며, 악성 가능성을 배제할 수 없기 때문에 단순 천자는 진단 및 치료에 불충분하고, 악성인 경우 복강 내 파종 위험이 있습니다. 개복술 및 종양 감축술은 진행된 악성 난소 종양(일반적으로 병기 III-IV)에서 시행되는 수술로, 이 환자는 임상적으로 초기 병기로 보이며 젊은 여성이므로 일차적으로 생식능력 보존 수술을 시도하는 것이 적절합니다. GnRH 작용제 투여는 자궁내막증이나 자궁근종 등의 양성 질환에 사용되는 치료법이나, 이 환자의 종괴는 크기가 크고 빠르게 성장하여 악성 가능성을 배제할 수 없으므로 적절하지 않습니다. 개복술, 양측 난소난관절제술, 전자궁적출술, 대망절제술은 폐경기 여성이나 생식능력 보존이 불필요한 환자에서 시행되는 표준 치료입니다. 28세 젊은 여성에서는 생식능력 보존이 중요하므로, 일측 병변인 경우 일측 난소난관절제술과 동결절편 검사를 통한 맞춤형 수술 접근이 더 적절합니다.",
+  "source": {
+    "file_name": "National Comprehensive Cancer Network (NCCN) Guidelines",
+    "content": "For women of childbearing age with suspected early-stage ovarian cancer, fertility-sparing surgery should be considered if clinically appropriate. This includes unilateral salpingo-oophorectomy (preserving the uterus and contralateral ovary) with comprehensive surgical staging, including inspection and palpation of all peritoneal surfaces, peritoneal washings, bilateral pelvic and para-aortic lymph node assessment, and omentectomy. Intraoperative frozen section analysis is recommended to guide the surgical approach. If frozen section confirms malignancy, complete surgical staging should be performed. For young women with unilateral, apparently early-stage, borderline tumors or germ cell tumors, a fertility-sparing approach with unilateral salpingo-oophorectomy and appropriate staging may be sufficient and allows for preservation of childbearing capacity."
+  },
+  "category": "Gynecology"
+}, 
+{
+  "question_id": 319,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게서 원인을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "60세 남성이 1개월 전부터 발견된 우하복부 종괴로 내원하였다. 환자는 특별한 증상은 없었으나, 본인이 우연히 만졌을 때 우하복부에 덩어리가 만져져 병원을 방문하였다. 최근의 체중 감소나 발열, 복통 등은 없었다. 과거력에서 15년 전 충수돌기염으로 충수돌기절제술을 받았고, 고혈압으로 약물 치료 중이다. 신체 검진에서 우하복부에 약 5cm 크기의 부드럽고 가동성 있는 종괴가 촉지되었으며, 압통은 없었다. 이 환자의 진단을 위해 가장 적절한 다음 검사는?",
+  "exam": "외부 병원에서 시행한 복부 초음파에서 우하복부에 5×4cm 크기의 비균질성 저에코 종괴가 확인되었다.",
+  "options": {
+    "A": "대장 내시경",
+    "B": "복부 CT",
+    "C": "PET-CT",
+    "D": "복부 단순 촬영",
+    "E": "종괴 흡인 세포검사"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 60세 남성으로 1개월 전부터 발견된 우하복부 무증상 종괴를 주소로 내원하였습니다. 과거 충수돌기절제술을 받은 병력이 있고, 신체 검진에서 우하복부에 가동성 있는 5cm 크기의 종괴가 촉지되며, 초음파에서 비균질성 저에코 종괴가 확인되었습니다. 이런 상황에서 가장 적절한 다음 검사는 조영증강 복부 CT입니다. 복부 CT는 복부 종괴의 정확한 위치, 크기, 내부 특성, 주변 장기와의 관계, 림프절 종대 여부 등을 포괄적으로 평가할 수 있는 검사입니다. 우하복부 종괴의 감별 진단으로는 대장암, 충수돌기 점액류(appendiceal mucocele), 충수돌기 종양, 장간막 종양, 후복막 종양, 장간막 림프절 종대, 충수돌기절제술 후 유착 또는 육아종 등을 고려할 수 있으며, CT는 이러한 질환들을 감별하는데 유용합니다. 과거 충수돌기절제술 병력을 고려할 때, 수술 부위 관련 합병증(유착, 육아종 등)이나 드물게 잔존 충수돌기(stump appendicitis)와 관련된 문제일 가능성도 있으며, CT는 이를 평가하는데도 도움이 됩니다. 대장 내시경은 대장 내부의 병변을 직접 관찰하고 조직 검사가 가능한 장점이 있으나, 장외 종괴나 후복막 종괴 등은 평가할 수 없는 한계가 있습니다. 이 환자의 경우 종괴의 정확한 위치와 기원이 명확하지 않은 상태이므로, 일차적으로 CT를 통해 종괴의 특성을 파악한 후 필요시 대장 내시경 등의 추가 검사를 고려하는 것이 적절합니다. PET-CT는 악성 종양의 병기 결정이나 원발 불명 암의 평가에 유용하나, 초기 평가 단계에서는 비용 대비 효과가 낮고, 양성 염증성 질환에서도 위양성이 있을 수 있어 일차 검사로는 적합하지 않습니다. 복부 단순 촬영은 장폐색, 장천공, 석회화 등을 평가하는데 유용하나, 연부조직 종괴의 특성화에는 제한적이어서 이 환자의 평가에 적합하지 않습니다. 종괴 흡인 세포검사는 침습적인 검사로, 종괴의 특성과 해부학적 위치가 명확히 파악되지 않은 상태에서 시행할 경우 장천공, 출혈, 감염 등의 합병증 위험이 있습니다. 또한 세포검사만으로는 전체 종괴의 특성을 파악하는데 한계가 있어, 영상 검사를 통한 충분한 평가 후에 필요시 고려하는 것이 바람직합니다.",
+  "source": {
+    "file_name": "American College of Radiology Appropriateness Criteria",
+    "content": "For the evaluation of palpable abdominal masses, contrast-enhanced CT is usually the most appropriate initial imaging study. CT provides comprehensive assessment of the mass including its size, composition, location, relationship to adjacent structures, and potential involvement of other organs. CT can often determine the organ of origin of the mass and narrow the differential diagnosis significantly. This information is crucial for planning further diagnostic workup or therapeutic interventions. Ultrasound, while useful as a screening tool, may be limited by body habitus and bowel gas. Endoscopy evaluates only the mucosal surface and cannot assess extrinsic or submucosal lesions adequately. Fine-needle aspiration or biopsy should generally be performed after appropriate imaging has characterized the mass and determined the optimal approach."
+  },
+  "category": "Gastroenterology"
+}, 
+{
+  "question_id": 320,
+  "chief_complaint": "복부덩이/골반덩이",
+  "purpose": "복부덩이/골반덩이가 있는 사람에게 원인질환과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "70세 남성이 복부 팽만감과 우상복부 종괴를 주소로 내원하였다. 환자는 3개월 전부터 간헐적인 우상복부 불편감이 있었으며, 1개월 전부터 복부가 점점 팽만해지는 것을 느꼈다고 한다. 최근 2개월간 5kg의 체중 감소가 있었고, 식욕 저하와 전신 쇠약감을 호소했다. 과거력상 20년 전부터 고혈압, 당뇨병으로 약물 치료 중이며, 40갑년의 흡연력이 있다. 신체 검진에서 황달이 관찰되었고, 우상복부에 약간의 압통이 있는 단단한 종괴가 촉지되었다. 복부는 전반적으로 팽만되어 있었으며, 이동 탁음(shifting dullness)이 양성이었다. 다음 중 이 환자에 대한 가장 적절한 치료 계획은?",
+  "exam": "혈액 검사에서 총 빌리루빈 4.2 mg/dL, 직접 빌리루빈 3.0 mg/dL, AST 75 U/L, ALT 65 U/L, ALP 580 U/L, γ-GT 435 U/L, 알부민 3.0 g/dL였다. 복부 CT에서 간문부에 5×4cm 크기의 종괴가 관찰되었으며, 종괴는 총간관을 압박하여 양측 간내 담관의 확장이 동반되어 있었다. 또한 다량의 복수와 문맥 혈전증이 확인되었다. 내시경적 역행성 담췌관 조영술(ERCP)에서 총간관의 협착이 확인되었으며, 담관 내 브러시 세포진 검사에서 악성 세포가 확인되었다.",
+  "options": {
+    "A": "개복 수술을 통한 종양 절제술",
+    "B": "내시경적 담관 스텐트 삽입술",
+    "C": "경피적 경간 담관 배액술(PTBD)",
+    "D": "간동맥 화학색전술(TACE)",
+    "E": "간이식"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 70세 남성으로 복부 팽만감, 우상복부 종괴, 황달, 체중 감소 등의 증상이 있으며, 영상 검사에서 간문부 종괴로 인한 담관 폐쇄와, 복수, 문맥 혈전증이 확인되었습니다. ERCP 및 세포진 검사에서 악성 세포가 확인되어 담관암(cholangiocarcinoma), 특히 간문부 담관암(hilar cholangiocarcinoma, Klatskin 종양)으로 진단할 수 있습니다. 간문부 담관암은 예후가 불량한 악성 종양으로, 진단 시 이미 진행된 상태인 경우가 많습니다. 이 환자의 경우 다량의 복수와 문맥 혈전증이 동반되어 있어 진행된 병기로 판단되며, 근치적 수술의 대상이 되기 어렵습니다. 이러한 상황에서 가장 적절한 치료 계획은 내시경적 담관 스텐트 삽입술입니다. 담관 스텐트는 폐쇄된 담관을 통해 담즙 배액을 가능하게 하여 황달을 완화하고 담관염 등의 합병증을 예방할 수 있는 완화적 치료법입니다. 특히 수술이 불가능한 진행성 담관암 환자에서 삶의 질 향상과 생존 기간 연장에 기여할 수 있습니다. 담관 스텐트 삽입 후에는 전신 상태에 따라 완화적 항암화학요법을 고려할 수 있습니다. 개복 수술을 통한 종양 절제술은 초기 담관암에서 가장 효과적인 치료법이지만, 이 환자는 복수와 문맥 혈전증이 동반된 진행성 병기로, 수술적 절제의 대상이 되기 어렵습니다. 또한 고령과 여러 동반 질환을 고려할 때 수술 위험이 높을 것으로 판단됩니다. 경피적 경간 담관 배액술(PTBD)은 내시경적 접근이 어려운 경우에 시행하는 대안적 담즙 배액 방법입니다. 이 환자에서는 ERCP가 이미 시행되었고, 담관 스텐트 삽입이 가능할 것으로 보이므로, 보다 침습적인 PTBD보다는 내시경적 스텐트 삽입이 선호됩니다. 간동맥 화학색전술(TACE)은 주로 간세포암종의 치료에 사용되는 방법으로, 담관암에서는 표준 치료가 아닙니다. 담관암은 혈관 분포가 적고 섬유성 기질이 풍부하여 TACE의 효과가 제한적입니다. 간이식은 매우 선택적인 조기 담관암 환자에서 고려될 수 있으나, 진행성 병기에서는 적응증이 되지 않습니다. 특히 복수, 문맥 혈전증이 있는 진행성 담관암에서는 간이식의 대상이 되지 않습니다.",
+  "source": {
+    "file_name": "National Comprehensive Cancer Network (NCCN) Guidelines",
+    "content": "For unresectable or metastatic biliary tract cancers, biliary drainage is an essential component of supportive care for patients with biliary obstruction. Endoscopic placement of biliary stents is preferred over percutaneous approaches when feasible. For patients with unresectable disease, options include clinical trial, systemic therapy, and/or best supportive care. Surgical resection is the only potentially curative treatment for biliary tract cancers, but is often precluded by the presence of advanced disease at diagnosis, including vascular invasion, nodal or distant metastases, or comorbid conditions. In patients with advanced disease where resection is not feasible, the main goals of treatment are palliation and improved quality of life."
+  },
+  "category": "Gastroenterology"
 }
 ]
