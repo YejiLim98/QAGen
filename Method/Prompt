@@ -1,0 +1,70 @@
+공통 형식
+
+10개씩 만들고, 10개 걸러내기 
+Visual Studio Code에 복붙해서 올리는 것으로 
+가영 / 예지 : 국시 출제목표 별로 (모델/프롬프트의 차이), 현수: 질환별로(Source가 다름)
+
+분과: 
+순환기내과
+호흡기내과
+소화기내과
+신장내과
+감염내과
+내분비내과
+알레르기내과
+혈액종양내과
+류마티스내과
+외과
+산과
+부인과
+소아과
+정신과
+피부과
+신경/신경외과
+안과
+성형외과
+이비인후과
+정형외과
+응급의학과
+비뇨기과
+
+
+<Medical Specialties>
+Cardiology
+Pulmonology (Respiratory Medicine)
+Gastroenterology
+Nephrology
+Infectious Diseases
+Endocrinology
+Allergy and Immunology
+Hematology and Oncology
+Rheumatology
+General Surgery
+Obstetrics
+Gynecology
+Pediatrics
+Psychiatry
+Dermatology
+Neurology / Neurosurgery
+Ophthalmology
+Plastic Surgery
+Otolaryngology
+Orthopedic Surgery
+Emergency Medicine
+Urology
+—-
+의료통계
+의료법
+
+
+{ "question_id": ,
+"chief complaint": ,
+"purpose": ,
+"question”: ,
+“exam”: ,
+"options": { "A": "B": "C": "D": "E": },
+"answer": ,
+"explanation": "
+"source": 
+“category”:,
+}
