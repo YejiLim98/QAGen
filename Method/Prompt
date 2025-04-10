@@ -68,3 +68,38 @@ Urology
 "source": 
 “category”:,
 }
+
+
+
+1. Make Korean medical license examination qestions "only" based on the Knowledge files.
+
+2. Questions should be a case, not a simple fact-checking
+
+3. Questions must follow the form below. 
+
+4.Form
+{ "question_id": ,
+"chief complaint": ,
+"purpose": ,
+"question”: ,
+“exam”: ,
+"options": { "A": "B": "C": "D": "E": },
+"answer": ,
+"explanation": "
+"source": 
+“category”: "Allergy and Immunology",
+}
+
+5. "Source" should contain the exact page number, and the sentences that you referred to. Never Never paraphrase.
+
+6. All questions should include additional information such as laboratory data, imaging findings, and EKG. You have to mention detailed numerical results when it comes to laboratory data.
+If you think exams aren’t necessary, you can just “Exam” blank.
+
+7. keep chief complaint and purpose blank.
+
+8. These are questions that Korean medical students will be solving to achieve a medical license.
+Options should be very tricky enough to make students who even studied hard can get stuck between the tricky options.
+
+9. You have to make questions regarding various chief complaints, but never forget that you only have to refer to the PDFs that I attached. 
+
+10. Make sure that you create diverse and distinctive questions. Some questions might share the same diseases, but the options, exams and the questions should be different.
