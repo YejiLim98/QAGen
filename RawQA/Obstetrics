@@ -271,6 +271,62 @@
     "explanation": "성장지연이 의심되며 도플러 이상 및 NST 비반응성 소견이 있으므로 입원 후 모니터링과 폐 성숙을 위한 스테로이드 투여가 필요하다.",
     "source": "Williams Obstetrics, 26판, p. 829-830: 'FGR with abnormal umbilical artery Doppler and non-reassuring testing should be monitored in hospital and delivery planned based on risk.'",
     "category": "Obstetrics"
+  },
+[
+  {
+    "question_id": 16,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "34세 여성이 임신 31주로 내원하였다. 하루 전부터 시작된 밝은 선홍색 질출혈이 계속되고 있으며, 복통은 없다고 하였다. 환자는 2년 전 제왕절개 수술을 받은 병력이 있었고, 이번 임신에서는 특별한 합병증 없이 경과 중이었다. 활력징후는 혈압 112/70 mmHg, 맥박 88회/분, 호흡수 18회/분, 체온 36.8℃였고, 복부 진찰상 자궁은 부드럽고 압통이 없었다. 태아의 심박동은 정상으로 청진되었다. 이 환자에서 가장 적절한 처치는?",
+    "exam": "초음파: 전치태반 확인. 양수지수 13cm, 태아 성장은 정상이었음. NST: reactive pattern. 자궁경부 길이: 3.5cm. 출혈량: 약 100 mL.",
+    "options": {
+      "A": "분만 유도",
+      "B": "입원 및 안정",
+      "C": "즉시 제왕절개술",
+      "D": "토콜리틱스 투여",
+      "E": "질내 진찰"
+    },
+    "answer": "B",
+    "explanation": "전치태반이 있는 경우 활동을 제한하고, 출혈이 지속되면 입원하여 모니터링하는 것이 기본 방침이다. 복통이 없고 활력징후가 안정적인 경우에는 경과관찰이 우선이다.",
+    "source": "Williams Obstetrics, 26판, p. 755-756: 'If bleeding subsides and fetal status is reassuring, hospitalization with close observation is recommended for placenta previa.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 17,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "30세 초산부가 임신 36주로 내원하였다. 1주 전부터 경미한 두통이 간헐적으로 있었으며, 혈압이 올라간다는 지적을 받았다. 복부 불편감은 없고 태동은 유지되고 있다고 하였다. 활력징후는 혈압 144/94 mmHg, 맥박 86회/분, 호흡수 18회/분, 체온 36.7℃였으며, 신체진찰에서 경부 림프절 종대나 부종은 없었다. 이 환자에게 필요한 처치는?",
+    "exam": "소변검사: 단백뇨 음성. NST: reactive pattern. 초음파상 태아 추정체중 2.6kg, 양수지수 12cm. 혈액검사: 혈소판 210,000, AST/ALT 정상.",
+    "options": {
+      "A": "입원 및 혈압 모니터링",
+      "B": "분만 유도",
+      "C": "항고혈압제 투여 시작",
+      "D": "조기 제왕절개술",
+      "E": "스테로이드 투여"
+    },
+    "answer": "A",
+    "explanation": "임신성 고혈압으로 판단되며, 단백뇨 및 장기손상이 없고 태아상태도 양호하므로 외래보다는 입원 후 모니터링하며 진행 여부를 관찰해야 한다.",
+    "source": "Williams Obstetrics, 26판, p. 688-689: 'Gestational hypertension without proteinuria or end-organ dysfunction is managed with close observation, often in an inpatient setting if approaching term.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 18,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "29세 여성이 과거 제왕절개 1회의 병력이 있으며, 이번 임신에서 질식분만을 시도하고 싶다고 하여 외래에 내원하였다. 현재 임신 38주이며, 임신 경과는 정상이다. 활력징후는 혈압 118/74 mmHg, 맥박 84회/분, 호흡수 18회/분, 체온 36.9℃였고, 복부 진찰상 태아는 두정위였다. 자궁저부 높이는 제와부에 위치하였다. 이 환자에서 가장 적절한 다음 처치는?",
+    "exam": "초음파: 태아 체중 3.2kg, 양수지수 11cm, 태아 이상 없음. 자궁경부: 2cm 개대, 50% 소실. 과거 제왕절개 수술은 저위 횡절개(low transverse incision). NST: reactive pattern.",
+    "options": {
+      "A": "계획 제왕절개술",
+      "B": "응급 제왕절개술",
+      "C": "유도분만",
+      "D": "질식분만 시도",
+      "E": "황산마그네슘 투여"
+    },
+    "answer": "D",
+    "explanation": "과거 제왕절개 1회이며 저위 횡절개였고 현재 두정위이며 분만 조건이 적절하므로 질식분만 시도가 가능하다. 이는 VBAC의 적응증이다.",
+    "source": "Williams Obstetrics, 26판, p. 580-581: 'Women with one prior low transverse cesarean and no contraindications can be considered for a trial of labor after cesarean (TOLAC).'",
+    "category": "Obstetrics"
   }
 ]
+
 
