@@ -1,7 +1,7 @@
 [
   {
     "question_id": 1,
-    "chief complaint": "",
+    "chief complaint": "복통",
     "purpose": "",
     "question": "36세 초산부가 36주 2일의 임신 주수로 내원하였다. 최근 2시간 전부터 복부가 주기적으로 뭉치고 통증이 증가하고 있다고 호소하였다. 통증은 5분 간격으로 발생하며 점점 강해지고 있다고 하였다. 내원 당시 활력징후는 혈압 118/76 mmHg, 맥박 88회/분, 호흡 18회/분, 체온 36.8℃였고, 신체 진찰에서 자궁저부는 제와부 수준으로 촉지되며, 자궁 수축은 주기적으로 관찰되었다. 질 출혈은 없었고 양막은 파수되지 않았다. 다음 중 이 환자에게 가장 적절한 처치는?",
     "exam": "태아심박동: 145회/분, reactive pattern. 내진: 자궁경부 개대 4cm, 소실 80%, 선진부 하강 상태. 초음파상 양수지수 정상, 태아 성장 정상이며 이상 소견 없음.",
@@ -19,8 +19,8 @@
   },
   {
     "question_id": 2,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "질출혈",
+    "purpose": "질출혈을 호소하는 여자에게서 원인을 진단할 수 있다.",
     "question": "32세 초산부가 임신 32주에 가벼운 자동차 접촉사고 이후 질출혈이 발생하여 응급실에 내원하였다. 환자는 사고 직후부터 질에서 소량의 선홍색 출혈이 있었으며, 태동은 평소보다 줄어든 것 같다고 하였다. 활력징후는 혈압 110/70 mmHg, 맥박 90회/분, 호흡 20회/분, 체온 36.7℃였고, 복부 진찰에서는 자궁의 긴장도는 정상이었으며 명확한 압통은 없었다. 질경 검사에서 활동성 출혈은 없었고, 자궁경부는 폐쇄되어 있었다. 이 환자에서 가장 가능성이 높은 진단은?",
     "exam": "태아심박동: 110회/분, variable deceleration 반복 관찰. 초음파: 태반 후 혈종 의심 소견, 양수지수 정상. NST: 비반응성 양상. 자궁 수축은 간헐적으로 발생.",
     "options": {
@@ -37,8 +37,8 @@
   },
   {
     "question_id": 3,
-    "chief complaint": "",
-    "purpose": "",
+    "chief complaint": "두통",
+    "purpose": "두통을 호소하는 사람에게 원인과 중증도에 따라 적합한 조치를 취할 수 있다.",
     "question": "30세 다산부가 임신 38주에 심한 두통과 시야 흐림 증상을 주소로 내원하였다. 3일 전부터 경미한 두통이 있었으나 내원 당일 새벽부터 두통이 심해지고 시야가 뿌옇게 보이는 증상이 시작되었다고 하였다. 환자는 고혈압이나 당뇨병 병력은 없었으며, 현재 태아 움직임은 감소된 듯하다고 진술하였다. 활력징후는 혈압 160/100 mmHg, 맥박 92회/분, 호흡 18회/분, 체온 37.0℃였고, 신체 진찰상 하지부종이 관찰되었으며 상복부 압통은 없었다. 다음 중 이 환자에게 가장 적절한 처치는?",
     "exam": "소변 검사: 단백뇨 2+. NST: reactive pattern. 초음파: 태아 생존 확인, 양수지수 12cm. 혈액검사: 혈소판 180, AST 28, ALT 32, LDH 370. 자궁경부: 1cm 개대, 50% 소실.",
     "options": {
@@ -55,7 +55,7 @@
   },
   {
     "question_id": 4,
-    "chief complaint": "",
+    "chief complaint": "구역/구토",
     "purpose": "",
     "question": "34세 여성이 임신 35주에 상복부 통증과 메스꺼움을 주소로 응급실에 내원하였다. 하루 전부터 시작된 통증은 지속적이고 날카로운 양상이며, 오른쪽 늑골 하부에 국한되어 있다고 하였다. 두통이나 시야 이상은 없었고 태동은 감소된 느낌이 들었다. 활력징후는 혈압 158/98 mmHg, 맥박 96회/분, 호흡 20회/분, 체온 37.2℃였으며, 신체 진찰상 오른쪽 상복부 압통이 명확하였다. 이 환자의 다음 처치로 가장 적절한 것은?",
     "exam": "혈액검사: AST 190 IU/L, ALT 160 IU/L, 혈소판 95,000/μL, LDH 560 IU/L, Hb 9.6 g/dL. 소변검사: 단백뇨 2+. NST: reactive pattern. 복부 초음파: 간 피막하 혈종 소견 없음. 태아 초음파: 생존 및 양수량 정상.",
@@ -73,7 +73,7 @@
   },
   {
     "question_id": 5,
-    "chief complaint": "",
+    "chief complaint": "질분비물",
     "purpose": "",
     "question": "28세 여성이 임신 30주에 맑은 질 분비물이 갑자기 많아졌다고 하여 병원에 내원하였다. 하루 전부터 분비물이 속옷을 적실 정도로 많았고 냄새나 색 변화는 없다고 하였다. 복통은 없으며 태동은 평소와 비슷하다고 하였다. 활력징후는 혈압 110/68 mmHg, 맥박 88회/분, 호흡 18회/분, 체온 36.7℃였고, 신체 진찰상 자궁저부 높이는 제와부였다. 복부의 긴장이나 압통은 없었다. 이 환자의 다음 처치로 가장 적절한 것은?",
     "exam": "질경 검사: clear fluid pooling 관찰. nitrazine 검사 양성, fern test 양성. NST: reactive pattern. 초음파: 양수지수 5cm, 태아 성장 정상. CBC: WBC 9,000/μL, CRP 정상. 체온 상승 없음.",
@@ -91,7 +91,7 @@
   },
   {
     "question_id": 6,
-    "chief complaint": "",
+    "chief complaint": "산전관리",
     "purpose": "",
     "question": "35세 여성이 임신 38주에 산전검진을 위해 내원하였다. 환자는 임신성 당뇨로 진단받아 식이요법과 운동요법을 병행 중이며, 집에서 혈당 자가측정을 시행하고 있다고 하였다. 최근 2주 동안 공복 혈당은 대부분 90~95 mg/dL, 식후 2시간 혈당은 110~125 mg/dL 수준이었다. 활력징후는 혈압 112/74 mmHg, 맥박 82회/분, 호흡 16회/분, 체온 36.6℃였으며, 신체 진찰상 특이소견은 없었다. 이 환자에 대한 산과적 처치로 가장 적절한 것은?",
     "exam": "초음파: 태아 체중 3.4kg, 양수지수 정상. NST: reactive pattern. 자궁경부: 1cm 개대, 30% 소실. 혈당 기록: 공복 혈당 평균 93 mg/dL, 식후 2시간 혈당 평균 118 mg/dL.",
@@ -106,5 +106,171 @@
     "explanation": "임신성 당뇨로 인한 위험은 있지만 혈당 조절이 양호한 경우, 39주에 유도분만이 권장된다. 조기 유도는 필요하지 않으며, 태아 과성장 위험과 분만 합병증을 줄이기 위한 접근이다.",
     "source": "Williams Obstetrics, 26판, p. 1082-1083: 'Routine labor induction in women with diet-treated gestational diabetes should not occur before 39 weeks’ gestation.'",
     "category": "Obstetrics"
+  },
+[
+  {
+    "question_id": 7,
+    "chief complaint": "발열/불명열",
+    "purpose": "",
+    "question": "26세 초산부가 임신 39주에 진통이 시작되어 분만실에 입원하였다. 내원 당시 진통은 규칙적이었고 양막은 파열된 상태였다. 입원 14시간째부터 체온이 38.4℃까지 상승하였으며, 오한과 발한을 동반하였다. 활력징후는 혈압 110/70 mmHg, 맥박 112회/분, 호흡 20회/분, 체온 38.4℃였다. 자궁은 지속적으로 단단하고 압통이 있었으며, 태동은 감소하였다. 이 환자에게 필요한 적절한 처치는?",
+    "exam": "백혈구 수치: 16,800/μL. 질 분비물에서 악취 관찰됨. NST: minimal variability 및 late deceleration. 초음파: 양수지수 4cm, 태아 심장 박동은 확인됨. CRP 9.8 mg/dL.",
+    "options": {
+      "A": "광범위 항생제",
+      "B": "경과관찰",
+      "C": "수액 치료",
+      "D": "제왕절개",
+      "E": "자궁수축억제제"
+    },
+    "answer": "D",
+    "explanation": "융모양막염이 의심되며 태아심박 이상도 관찰되므로, 즉각적인 분만이 필요하다. 감염된 상태에서는 질식분만보다는 제왕절개가 우선 고려될 수 있다.",
+    "source": "Williams Obstetrics, 26판, p. 789: 'Clinical chorioamnionitis, especially with fetal compromise, is an indication for prompt delivery.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "산전관리",
+    "purpose": "",
+    "question": "39세 다산부가 자연 진통 후 분만 중 태아의 머리가 만출되었으나, 이후 태아 몸통이 나오지 않아 의료진이 즉시 조치를 시작하였다. 아기의 머리는 산모의 회음부 쪽으로 당겨지며 거북이 징후가 관찰되었고, 산모는 적극적으로 힘을 주고 있었으나 추가 진행이 없었다. 활력징후는 혈압 126/82 mmHg, 맥박 94회/분, 호흡 18회/분, 체온 37.1℃였고, 회음부 절개는 시행된 상태였다. 이 상황에서 가장 우선적으로 시행해야 할 처치는?",
+    "exam": "태아심박동: 80회/분, bradycardia. 내진: 선진부로 태아 두부가 완전히 만출된 상태이나 견갑부 정지. 체중 추정: 4.3kg. 과거력: 제2아 출산 시 견갑난산 병력 있음.",
+    "options": {
+      "A": "자궁수축억제제",
+      "B": "맥로버츠 술기",
+      "C": "흡인분만",
+      "D": "제왕절개술",
+      "E": "후방견 인출"
+    },
+    "answer": "B",
+    "explanation": "견갑난산에서 가장 먼저 시행해야 할 술기는 맥로버츠 술기이며, 이는 골반 경사를 조정하여 앞쪽 어깨를 풀어주는 데 효과적이다.",
+    "source": "Williams Obstetrics, 26판, p. 500-502: 'The McRoberts maneuver is often the first step in shoulder dystocia management.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "산전관리",
+    "purpose": "",
+    "question": "36세 여성이 임신 39주로 외래 진료 중 초음파에서 둔위가 확인되었다. 이전 자연분만으로 여아를 출생하였으나, 제왕절개나 분만 합병증 병력은 없었다. 활력징후는 혈압 118/74 mmHg, 맥박 84회/분, 호흡 18회/분, 체온 36.8℃였으며, 복부 진찰에서 자궁저부는 정상 위치에 있으며 태아 둔부가 촉지되었다. 다음 중 이 환자에게 가장 적절한 분만 전략은?",
+    "exam": "초음파: 단일 둔위 태아 확인, 체중 추정 3.1kg, 양수지수 11cm. 경부 개대 없음.",
+    "options": {
+      "A": "응급 제왕절개술",
+      "B": "경과관찰 후 유도분만",
+      "C": "외회전 시도",
+      "D": "총 둔위 견인술",
+      "E": "자궁수축억제제 투여"
+    },
+    "answer": "C",
+    "explanation": "39주 단일 둔위 태아에서 조건이 괜찮다면 외회전 시도가 우선 고려되며, 성공 시 질식 분만 가능성이 높아진다.",
+    "source": "Williams Obstetrics, 26판, p. 528: 'External cephalic version is recommended for eligible patients at or near term.'",
+    "category": "Obstetrics"
+  },
+[
+  {
+    "question_id": 10,
+    "chief complaint": "가려움증",
+    "purpose": "",
+    "question": "33세 여성이 임신 34주로 외래에 내원하였다. 최근 2주간 손바닥과 발바닥을 포함한 전신 소양감을 호소하였으며, 피부에 발진은 없었다. 태동은 유지되고 있었고, 소양감은 야간에 심해지는 경향을 보였다. 활력징후는 혈압 114/72 mmHg, 맥박 82회/분, 호흡 18회/분, 체온 36.9℃였으며, 복부 진찰상 자궁저부는 제와부 3cm 상방에 위치하였다. 이 환자의 다음 처치로 가장 적절한 것은?",
+    "exam": "혈청 총 담즙산: 38 μmol/L. AST 85 U/L, ALT 92 U/L, 총빌리루빈 1.8 mg/dL. 초음파상 태아 성장 정상, 양수지수 14cm, 태동 보존됨. NST: reactive pattern.",
+    "options": {
+      "A": "담즙산 수치 재검",
+      "B": "항히스타민제 처방",
+      "C": "ursodeoxycholic acid",
+      "D": "응급 제왕절개술",
+      "E": "조기 유도분만"
+    },
+    "answer": "C",
+    "explanation": "간내 담즙정체증에서 가장 중요한 치료는 ursodeoxycholic acid 투여이다. 이는 담즙산 수치를 낮추고 태아 예후를 개선하는 데 효과적이다.",
+    "source": "Williams Obstetrics, 26판, p. 1032: 'Intrahepatic cholestasis of pregnancy is treated with ursodeoxycholic acid to reduce bile acid levels and improve fetal outcomes.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 11,
+    "chief complaint": "산전관리",
+    "purpose": "",
+    "question": "30세 여성이 임신 37주 2일로 쌍태아 임신 상태로 분만을 위해 병원에 입원하였다. 첫 번째 태아는 두정위이며, 두 번째 태아는 둔위 상태로 확인되었다. 환자는 자연분만을 희망하였으며, 과거 병력상 제왕절개술은 없고 모든 임신은 정상 분만이었다. 활력징후는 혈압 120/76 mmHg, 맥박 88회/분, 호흡 18회/분, 체온 36.8℃였다. 복부 진찰상 태아 심박동은 양쪽에서 청진되었고 자궁은 적절한 긴장도를 보였다. 이 환자의 다음 분만 전략으로 가장 적절한 것은?",
+    "exam": "초음파: 첫째 태아 두정위, 둘째 태아 둔위. 양수지수: 정상. 태아 체중 추정: 첫째 2.8kg, 둘째 2.6kg. NST: 두 태아 모두 reactive pattern.",
+    "options": {
+      "A": "응급 제왕절개",
+      "B": "첫째만 질식 분만 후 둘째 제왕절개",
+      "C": "제왕절개",
+      "D": "자연 질식 분만",
+      "E": "외회전 시도"
+    },
+    "answer": "D",
+    "explanation": "쌍태아에서 첫째가 두정위일 경우, 둘째가 둔위라도 자연 질식 분만이 가능하며 이는 안전한 전략으로 간주된다.",
+    "source": "Williams Obstetrics, 26판, p. 856: 'If the first twin is vertex, vaginal delivery is reasonable even if the second twin is breech.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 12,
+    "chief complaint": "질출혈",
+    "purpose": "",
+    "question": "산모가 정상 질식 분만 후 10분이 지나면서 다량의 질출혈을 보였다. 자궁은 부드럽고 커져 있으며 복부 마사지를 했을 때 일시적으로 자궁이 수축되었다가 금방 다시 이완되었다. 활력징후는 혈압 100/64 mmHg, 맥박 112회/분, 호흡 22회/분, 체온 37.3℃였고, 자궁저는 제와부에서 촉지되었다. 다음 중 이 환자에게 가장 우선적으로 시행해야 할 처치는?",
+    "exam": "출혈량: 약 1200 mL 추정. 자궁이 부드럽고 비수축성. 분만 직후 자궁경부 및 질벽 열상은 없음. CBC: Hb 8.4, 혈소판 210,000, PT/INR 정상. IV 수액 시작됨.",
+    "options": {
+      "A": "자궁 절제술",
+      "B": "수혈 및 수액 보충",
+      "C": "자궁 마사지",
+      "D": "혈관 색전술",
+      "E": "질내 탐폰 삽입"
+    },
+    "answer": "C",
+    "explanation": "자궁이 부드럽고 수축이 되지 않는 경우 자궁이완(uterine atony)에 의한 산후출혈로 판단하며, 자궁 마사지가 가장 우선적인 초기 처치이다.",
+    "source": "Williams Obstetrics, 26판, p. 1066: 'Initial treatment for uterine atony includes uterine massage and administration of uterotonics.'",
+    "category": "Obstetrics"
+  },
+[
+  {
+    "question_id": 13,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "39세 여성이 자연 진통 중 갑작스럽게 호흡곤란과 가슴 압박감을 호소하며 의식을 잃었다. 산모는 분만 2기에 해당하며 이전까지 태아심박동 및 자궁 수축은 정상이었다. 활력징후는 혈압 85/50 mmHg, 맥박 130회/분, 호흡수 28회/분, 체온 37.1℃였고, 청색증과 경련성 움직임이 관찰되었다. 이 상황에서 가장 가능성이 높은 진단은?",
+    "exam": "ECG: 정상 동율동. ABGA: pH 7.12, PaO₂ 55 mmHg, HCO₃⁻ 14 mmol/L. D-dimer 증가, 혈소판 55,000/μL, PT/INR 2.2. 혈액 배양: 음성. 흉부 X-ray: 폐부종 소견. NST: fetal bradycardia. 출혈량: 900 mL 이상.",
+    "options": {
+      "A": "폐색전증",
+      "B": "자궁파열",
+      "C": "양수 색전증",
+      "D": "심근경색",
+      "E": "경련성 자간증"
+    },
+    "answer": "C",
+    "explanation": "양수 색전증은 급성 호흡부전, 쇼크, 경련, DIC, 태아 서맥 등으로 나타나는 산과적 응급상황이다. 분만 중 또는 직후 갑작스러운 증상 발생은 전형적이다.",
+    "source": "Williams Obstetrics, 26판, p. 744-745: 'Classic presentation is sudden onset of respiratory distress, hypotension, coagulopathy, and cardiovascular collapse during labor or shortly postpartum.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 14,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "32세 임산부가 자연 진통을 시도 중 갑작스런 복통과 질출혈을 호소하였다. 과거 1회의 제왕절개 경험이 있다고 한다. 환자는 분만 1기 후반부에 도달하였고, 진통은 매우 강한 상태였다. 활력징후는 혈압 90/60 mmHg, 맥박 122회/분, 호흡수 20회/분, 체온 36.8℃였다. 복부는 매우 경직되어 있으며 촉진 시 심한 압통이 있었다. 이 환자에게 가장 시급히 고려해야 할 처치는?",
+    "exam": "태아심박동: bradycardia (80회/분), variable deceleration. 자궁저부 높이 상승. 초음파상 free fluid 관찰됨. Hb: 7.8 g/dL, 혈소판 210,000/μL. NST: severe variable deceleration 지속.",
+    "options": {
+      "A": "자궁수축 억제",
+      "B": "경막외마취",
+      "C": "응급 제왕절개",
+      "D": "황산마그네슘 투여",
+      "E": "초음파 재검사 후 경과관찰"
+    },
+    "answer": "C",
+    "explanation": "자궁 파열은 분만 중 복통, 출혈, 태아심박 이상, 자궁저부 위치 변화 등으로 의심되며, 응급 수술이 필요하다.",
+    "source": "Williams Obstetrics, 26판, p. 743-744: 'Uterine rupture presents with sudden pain, loss of station, abnormal fetal heart rate tracing, and hemoperitoneum. Immediate laparotomy is indicated.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 15,
+    "chief complaint": "산전관리",
+    "purpose": "",
+    "question": "27세 초산부가 임신 33주로 외래에 방문하였다. 3주 전부터 자궁저부 높이가 작다는 말을 들었으며, 태동도 줄어들었다고 하였다. 활력징후는 혈압 112/72 mmHg, 맥박 86회/분, 호흡수 18회/분, 체온 36.7℃였으며, 복부 진찰에서 자궁저부는 제와부보다 3cm 낮게 촉지되었다. 이 환자에 대한 다음 처치로 가장 적절한 것은?",
+    "exam": "초음파: EFW 1100g (<10th percentile), 양수지수 6cm. 제대동맥 도플러: end-diastolic flow 감소. NST: non-reactive. TORCH 음성. 태아기형 없음.",
+    "options": {
+      "A": "유도 분만",
+      "B": "스테로이드 투여",
+      "C": "외래 경과관찰",
+      "D": "산소 공급 및 침상 안정",
+      "E": "양수 주입"
+    },
+    "answer": "B",
+    "explanation": "성장지연이 의심되며 도플러 이상 및 NST 비반응성 소견이 있으므로 입원 후 모니터링과 폐 성숙을 위한 스테로이드 투여가 필요하다.",
+    "source": "Williams Obstetrics, 26판, p. 829-830: 'FGR with abnormal umbilical artery Doppler and non-reassuring testing should be monitored in hospital and delivery planned based on risk.'",
+    "category": "Obstetrics"
   }
 ]
+
