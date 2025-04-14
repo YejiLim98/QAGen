@@ -326,7 +326,60 @@
     "explanation": "과거 제왕절개 1회이며 저위 횡절개였고 현재 두정위이며 분만 조건이 적절하므로 질식분만 시도가 가능하다. 이는 VBAC의 적응증이다.",
     "source": "Williams Obstetrics, 26판, p. 580-581: 'Women with one prior low transverse cesarean and no contraindications can be considered for a trial of labor after cesarean (TOLAC).'",
     "category": "Obstetrics"
+  },
+  {
+    "question_id": 19,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "28세 초산부가 임신 10주에 심한 구토를 주소로 내원하였다. 하루에도 10회 이상 구토를 하며, 물도 마시기 힘들 정도라고 하였다. 최근 3일 사이 2kg의 체중 감소가 있었고, 소변량도 감소한 상태였다. 혈압 98/64 mmHg, 맥박 106회/분, 호흡수 20회/분, 체온 36.6℃였고, 복부 진찰상 심한 압통이나 반발통은 없었다. 이 환자에게 다음으로 가장 필요한 처치는?",
+    "exam": "혈액검사: Na 133 mEq/L, K 2.8 mEq/L, BUN 28 mg/dL, Cr 1.2 mg/dL, 케톤뇨 3+, AST/ALT 정상. 초음파: 자궁 내 단일 태아, 심박동 정상. TSH: 0.05, free T4: 상한 정상.",
+    "options": {
+      "A": "내시경 검사",
+      "B": "입원 후 수액 치료",
+      "C": "항히스타민제 복용",
+      "D": "갑상선 약물 투여",
+      "E": "식이조절 및 외래 추적"
+    },
+    "answer": "B",
+    "explanation": "입덧 중증형의 진단 기준에 부합하며 탈수, 저칼륨혈증, 케톤뇨가 있어 입원 및 보존적 치료(수액 및 대사 보정)가 필요하다.",
+    "source": "Williams Obstetrics, 26판, p. 1028-1029: 'Hyperemesis gravidarum is diagnosed when persistent vomiting leads to weight loss, dehydration, ketosis, and electrolyte abnormalities. Hospitalization is often required.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 20,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "30세 여성이 임신 22주로 외래 내원하였다. 단일양막 쌍태아로 진단받은 이후 정기적으로 초음파를 시행 중이며, 결과는 다음과 같다. 혈압 114/70 mmHg, 맥박 84회/분, 호흡수 18회/분, 체온 36.9℃였다. 복부 진찰상 자궁저부 높이는 임신 주수에 비해 커졌고, 자궁긴장은 정상이었다. 이 환자의 다음 처치로 가장 적절한 것은?",
+    "exam": "초음파: 단일융모막 쌍태아, 수혈증후군 의심. donor twin: 체중 400g, 양수지수 2cm. recipient twin: 체중 600g, 양수지수 11cm. bladders: donor 보이지 않음, recipient 크게 확장됨. NST: 두 태아 모두 reactive.",
+    "options": {
+      "A": "경과관찰",
+      "B": "분만 유도",
+      "C": "양막감압술",
+      "D": "자궁수축억제제",
+      "E": "태아감시 강화"
+    },
+    "answer": "C",
+    "explanation": "쌍태아 수혈 증후군에서 양수과다에 의한 합병증을 완화하기 위해 양막감압술(amnioreduction)을 우선 고려한다.",
+    "source": "Williams Obstetrics, 26판, p. 847-848: 'Amnioreduction may improve outcomes in twin-to-twin transfusion syndrome by decompressing the amniotic sac of the recipient twin.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 21,
+    "chief complaint": "",
+    "purpose": "",
+    "question": "35세 여성이 질식분만 직후 심한 통증과 함께 자궁에서 덩어리가 빠져나오는 듯한 느낌을 호소하였다. 출혈량이 급격히 증가하였고, 산과 팀이 긴급 호출되었다. 활력징후는 혈압 84/50 mmHg, 맥박 128회/분, 호흡수 24회/분, 체온 36.4℃였으며, 복부 진찰상 자궁저는 만져지지 않았고 질 입구에서 혈관성 조직이 돌출되어 있었다. 이 환자의 다음 처치로 가장 적절한 것은?",
+    "exam": "혈액검사: Hb 7.2 g/dL, 혈소판 210,000/μL, PT/INR 1.6. 초음파: 자궁 내강 비정상 구조, free fluid 없음. NST: 종료됨. 제왕절개나 자궁수술 병력 없음.",
+    "options": {
+      "A": "자궁 적출술",
+      "B": "수혈 및 산과적 감시",
+      "C": "마취 후 자궁 수복",
+      "D": "풍선 탐폰 삽입",
+      "E": "경과관찰"
+    },
+    "answer": "C",
+    "explanation": "자궁내반이 의심되며, 마취 하에 손으로 자궁을 정상 위치로 밀어 넣는 것이 초기 치료의 핵심이다. 수액과 수혈은 병행하되 근본 치료는 자궁 수복이다.",
+    "source": "Williams Obstetrics, 26판, p. 737-738: 'Once inversion is recognized, the uterus should be repositioned immediately with manual replacement under anesthesia, followed by uterotonics to sustain contraction.'",
+    "category": "Obstetrics"
   }
 ]
-
 
