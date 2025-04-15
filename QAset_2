@@ -116,7 +116,7 @@
     "question_id": 7,
     "chief complaint": "발작/간질",
     "purpose": "발작과 발작 유사증상을 구별할 수 있다.",
-   "question": "19세 여성이 시험 스트레스로 인해 갑작스러운 의식 소실과 팔·다리의 비정형적인 흔들림으로 내원하였다. 발작은 10분간 지속되었으며, 환자는 발작 중 주변 자극에 반응하였고, 심장 박동수와 혈압은 정상 범위였다. 발작 후 즉시 정상 의식 상태로 회복되었으며, 혀 깨물음이나 실금은 없었다. 과거 우울증 치료를 받은 적이 있다고 한다. 이 환자에게서 가장 먼저 고려해야 할 진단은?",,
+   "question": "19세 여성이 시험 스트레스로 인해 갑작스러운 의식 소실과 팔·다리의 비정형적인 흔들림으로 내원하였다. 발작은 10분간 지속되었으며, 환자는 발작 중 주변 자극에 반응하였고, 심장 박동수와 혈압은 정상 범위였다. 발작 후 즉시 정상 의식 상태로 회복되었으며, 혀 깨물음이나 실금은 없었다. 과거 우울증 치료를 받은 적이 있다고 한다. 이 환자에게서 가장 먼저 고려해야 할 진단은?",
     "exam": "혈액 검사: Glucose 90 mg/dL, Na 140 mEq/L, Ca 9.0 mg/dL\n뇌 MRI: 정상\n뇌파 검사: 발작 시 비간질성 패턴 관찰",
     "options": { 
       "A": "전신 강직-간대 발작", 
@@ -457,8 +457,6 @@
     "source": "Surgery_Schwartz_textbook_data.txt: 'Spermatic cord lipomas arise from the preperitoneal fat and extend along the inguinal canal. They are distinct from subcutaneous lipomas by their deep location adjacent to cord structures.'",
     "category": "Urology"
   },
-
-[
   {
     "question_id": 6,
     "chief complaint": "배벽과 서혜부 덩이/탈장",
