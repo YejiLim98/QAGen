@@ -725,6 +725,187 @@
     "answer": "A",
     "explanation": "이 환자는 전신성 경피증(SSc)으로 인한 위장관 침범이 의심됩니다. 경피증에서는 장관 평활근의 위축과 섬유화가 발생하여 운동성 장애를 유발합니다. 식도와 대장의 운동성 감소가 확인된 점이 이를 지지합니다. 자율신경계 이상(B)은 당뇨병 등에서 주로 발생하며, 혈관 병변(C)은 장경색을 유발할 수 있으나 운동성 감소의 주요 기전은 아닙니다. 유착(D)은 수술 후 발생하며, 신경셀 섬유화(E)는 히르쉬스프룽병의 특징입니다.",
     "source": "InternalMed_Harrison_textbook_data.txt: In systemic sclerosis, collagen deposition and smooth muscle atrophy in the gastrointestinal tract lead to hypomotility, manifesting as dysphagia, gastroparesis, and chronic constipation.",
-    "category": "Rheumatology"
+    "category": "Rheumatology",
+  {
+    "question_id": 1,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+    "question": "65세 남성이 3개월 전부터 점진적으로 악화되는 보행장애와 양측 상지의 불안정함을 주소로 내원하였다. 환자는 걸을 때 비틀거리고 넓은 보폭으로 걷는 양상을 보였으며, 최근에는 컵을 들거나 단추를 잠그는 일상 생활에도 어려움을 호소하였다. 과거력상 20년간 매일 소주 1병 이상의 음주력이 있었으며, 1년 전부터 식욕 감퇴와 체중 감소가 있었다. 신경학적 검사에서 환자는 손가락-코 검사(finger-to-nose test)와 발꿈치-정강이 검사(heel-to-shin test)에서 양측성 운동실조를 보였고, 빠른 교대운동(rapid alternating movements)이 저하되어 있었다. 롬버그 검사(Romberg test)는 음성이었으며, 감각 기능과 심부건반사는 정상이었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈액 검사: Hb 11.2 g/dL, MCV 102 fL, AST 78 U/L, ALT 65 U/L, GGT 210 U/L\n뇌 MRI: 소뇌의 미만성 위축, 특히 소뇌 충부(vermis)의 두드러진 위축 소견",
+    "options": {
+      "A": "베르니케 뇌병증(Wernicke's encephalopathy)",
+      "B": "알코올성 소뇌변성(Alcoholic cerebellar degeneration)",
+      "C": "파킨슨병(Parkinson's disease)",
+      "D": "다발성 경화증(Multiple sclerosis)",
+      "E": "척수소뇌성 운동실조(Spinocerebellar ataxia)"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 장기간의 알코올 남용 이력과 함께 양측성 운동실조, 특히 체간 실조(truncal ataxia)와 걸음걸이 장애를 보이며, 뇌 MRI에서 소뇌 충부(vermis)를 중심으로 한 소뇌 위축이 관찰됩니다. 이러한 임상 양상과 영상 소견은 알코올성 소뇌변성(Alcoholic cerebellar degeneration)에 합당합니다. 알코올성 소뇌변성은 만성 알코올 중독자에서 발생하는 신경퇴행성 질환으로, 주로 소뇌 충부를 침범하여 보행 실조, 넓은 보폭(wide-based gait), 하지 실조를 특징으로 합니다. 질환의 병태생리는 만성 알코올 중독과 이로 인한 영양 결핍(특히 티아민 결핍)이 복합적으로 작용하여 소뇌의 퍼킨제 세포(Purkinje cells)의 손실을 유발합니다. 베르니케 뇌병증(A)은 급성 티아민 결핍에 의한 질환으로, 안구운동 장애, 의식 변화, 실조를 특징으로 하지만, 이 환자에서는 급성 증상이나 안구운동 장애, 의식 변화가 없습니다. 파킨슨병(C)은 진전, 강직, 서동을 특징으로 하며, 이 환자에서 보이는 소뇌성 증상과는 다릅니다. 다발성 경화증(D)은 젊은 성인에서 더 흔하며, 시간과 공간에 따라 분산된 신경학적 증상과 징후를 보입니다. 척수소뇌성 운동실조(E)는 유전성 질환으로, 가족력이 있는 경우가 많고, 이 환자의 임상 양상과 알코올 남용 이력을 고려할 때 가능성이 낮습니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: Alcoholic cerebellar degeneration is characterized by truncal ataxia and unsteady gait. In severe cases, the legs are also affected, and there may be mild dysarthria and hesitancy of speech. The disorder is due to degeneration of the anterior-superior vermis and dentralate nuclei. MRI reveals atrophy of the vermis and the anterior cerebellar cortex. Chronic alcohol consumption directly contributes to neuronal destruction. Many patients have coexisting malnourishment, and thiamine deficiency likely also contributes to the syndrome.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "58세 여성이 6개월 전부터 시작된 점진적인 보행 장애와 손의 저린감을 주소로 내원하였다. 환자는 발을 땅에 디딜 때 바닥의 감각을 잘 느끼지 못하고, 어두운 곳에서 특히 균형을 잡기 어렵다고 호소하였다. 최근에는 글씨를 쓰거나 단추를 채우는 것과 같은 섬세한 동작을 수행하기 어렵다고 하였다. 환자는 2년 전 위암으로 위전절제술을 받은 병력이 있으며, 정기적인 추적 관찰 중이다. 신경학적 검사에서 환자는 양측 하지의 진동감각과 위치감각이 저하되어 있었고, 롬버그 검사에서 양성 소견을 보였다. 손가락-코 검사는 눈을 뜬 상태에서는 정상이었으나, 눈을 감은 상태에서는 수행이 불가능했다. 심부건반사는 하지에서 소실되어 있었다. 이 환자에게 가장 적절한 추가 검사는?",
+    "exam": "혈액 검사: Hb 10.2 g/dL, MCV 112 fL, 백혈구 7,200/mm³, 혈소판 180,000/mm³, 공복 혈당 95 mg/dL\n신경전도 검사: 양측 하지의 감각신경 활동전위(SNAP) 진폭이 현저히 감소함",
+    "options": {
+      "A": "뇌 MRI",
+      "B": "요추 MRI",
+      "C": "혈청 비타민 B12 및 엽산 수치",
+      "D": "항-Hu 항체 검사",
+      "E": "뇌척수액 검사"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 감각성 운동실조(sensory ataxia)의 특징적인 임상 양상을 보이고 있습니다. 감각성 운동실조는 위치감각과 진동감각의 손실로 인해 발생하며, 롬버그 양성(눈을 감으면 균형을 잡기 어려움)과 눈을 감았을 때 협조운동 장애가 악화되는 특징이 있습니다. 환자의 위전절제술 병력은 비타민 B12 결핍의 위험 요소로, 위내인자(intrinsic factor) 생성 부족으로 인한 비타민 B12 흡수 장애를 초래할 수 있습니다. 비타민 B12 결핍은 아급성 연합성 변성(subacute combined degeneration)을 유발하여 후주(posterior column)와 피질척수로(corticospinal tract)를 침범하고, 감각성 운동실조와 말초신경병증을 일으킵니다. 따라서 이 환자에게는 혈청 비타민 B12 및 엽산 수치 검사(C)가 가장 적절합니다. 뇌 MRI(A)는 소뇌 질환이나 뇌간 병변을 평가하는 데 유용하지만, 이 환자의 임상 양상은 감각성 운동실조를 시사하므로 우선순위가 낮습니다. 요추 MRI(B)는 척수 압박이나 척수 병변을 평가하는 데 유용하지만, 이 환자의 양측성 감각 증상과 위전절제술 병력을 고려할 때 비타민 B12 결핍 가능성이 더 높습니다. 항-Hu 항체 검사(D)는 신생물딸림 소뇌변성(paraneoplastic cerebellar degeneration)을 진단하는 데 도움이 될 수 있지만, 이 환자의 임상 양상은 감각신경병증에 더 합당합니다. 뇌척수액 검사(E)는 감염성 또는 염증성 원인을 평가하는 데 유용하지만, 이 환자의 임상 양상과 병력을 고려할 때 우선적으로 고려할 검사는 아닙니다.",
+    "source": "First_Aid_Step2_textbook_data.txt: Subacute combined degeneration is a complication of vitamin B12 deficiency characterized by demyelination of the dorsal columns, lateral corticospinal tracts, and occasionally the spinocerebellar tracts. Clinical features include peripheral neuropathy, sensory ataxia, spasticity, and hyperreflexia. Vitamin B12 deficiency can result from various causes including pernicious anemia, gastrectomy, terminal ileal disease, and strict veganism. Laboratory findings typically show macrocytic anemia with elevated MCV.",
+    "category": "Neurology / Neurosurgery"
+  },
+{
+    "question_id": 3,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게 원인질환에 따른 치료 계획을 수립할 수 있다.",
+    "question": "68세 남성이 1년 전부터 시작된 보행장애와 손떨림을 주소로 내원하였다. 환자는 걸을 때 팔 스윙이 감소했고, 작은 보폭으로 걷고 있으며, 특히 방향 전환 시 균형을 잡기 어려워졌다고 호소하였다. 신경학적 검사에서 안정 시 진전(4-6Hz), 양측 상지의 톱니바퀴 경직, 운동 완서가 확인되었다. 인지 기능 평가(Mini-Mental State Examination)는 28/30으로 정상 범위였다. 이 환자의 초기 치료로 가장 적절한 약물은?",
+    "exam": "뇌 MRI: 경도의 대뇌 위축 소견만 관찰\nDaTscan: 양측 선조체 도파민 운반체 결합 감소",
+    "options": {
+      "A": "레보도파/카비도파",
+      "B": "도파민 효현제(프라미펙솔)",
+      "C": "아만타딘",
+      "D": "항콜린제(트리헥시페니딜)",
+      "E": "MAO-B 억제제(라사길린)"
+    },
+    "answer": "A",
+    "explanation": "68세 고령 환자에서 파킨슨병의 전형적 증상(진전, 경직, 운동완서)이 확인되었으며, DaTscan 결과 파킨슨병에 합당한 소견을 보입니다. 고령 환자에서 파킨슨병의 초기 치료는 레보도파/카비도파(A)가 최선의 선택입니다. 레보도파는 증상 조절 효과가 가장 뛰어나며, 고령 환자에서는 도파민 효현제(B) 사용 시 환각, 정신병적 증상 등의 부작용 위험이 높아 1차 선택이 아닙니다. 아만타딘(C)은 경증 증상이나 이상운동증 보조 치료에 사용되며, 항콜린제(D)는 주로 젊은 환자의 진전 우세형에 제한적으로 사용됩니다. MAO-B 억제제(E)는 증상이 매우 경미한 초기 단계에서 단독 요법으로 고려될 수 있지만, 이 환자에서는 이미 뚜렷한 운동 증상이 있어 레보도파가 더 적합합니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: Levodopa remains the most effective symptomatic therapy for Parkinson disease. In elderly patients (>70 years), levodopa is generally preferred as initial therapy because of its superior efficacy and lower risk of neuropsychiatric side effects compared to dopamine agonists. The combination with carbidopa prevents peripheral conversion to dopamine, reducing side effects and allowing lower doses.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+    "question": "75세 남성이 1년 전부터 점진적으로 악화되는 보행장애, 소변 실금, 기억력 저하를 주소로 내원하였다. 환자의 보호자는 환자가 걸을 때 발을 끌듯이 걷고, 자세가 불안정하며, 특히 방향 전환 시 어려움을 겪는다고 하였다. 환자는 최근 3개월 동안 소변을 참기 어렵고 화장실에 가기 전에 실금이 발생하는 일이 잦아졌다고 한다. 인지 기능 저하는 비교적 경미하나, 최근에 물건을 둔 곳을 기억하지 못하고 집중력이 저하되었다고 한다. 과거력상 10년 전 고혈압을 진단받아 약물 복용 중이며, 5년 전 경미한 뇌출혈로 입원한 적이 있다. 신경학적 검사에서 환자는 넓은 보폭(wide-based gait)의 자세 불안정성과 보행 시작 및 회전의 어려움을 보였다. Mini-Mental State Examination(MMSE) 점수는 24/30이었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "뇌 CT: 양측 측뇌실과 제3뇌실의 확장, 뇌실 주변 백질의 경미한 저밀도 변화, 뇌실 주위와 실비안열(Sylvian fissure)의 뇌척수액 공간은 정상\n요추천자: 개방압력 15 cmH2O, 뇌척수액 검사 결과 정상",
+    "options": {
+      "A": "알츠하이머병(Alzheimer's disease)",
+      "B": "파킨슨병(Parkinson's disease)",
+      "C": "정상압 수두증(Normal pressure hydrocephalus)",
+      "D": "혈관성 치매(Vascular dementia)",
+      "E": "진행성 핵상마비(Progressive supranuclear palsy)"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 정상압 수두증(Normal pressure hydrocephalus, NPH)의 특징적인 삼징후인 보행장애(gait disturbance), 요실금(urinary incontinence), 인지기능 저하(cognitive impairment)를 모두 보이고 있습니다. 특히 보행장애가 가장 먼저 발생하고 가장 두드러진 증상이며, 자기애착보행(magnetic gait) 또는 넓은 보폭(wide-based gait)의 형태로 나타납니다. 영상검사에서 양측 측뇌실과 제3뇌실의 확장이 관찰되나 뇌실 주변 백질 변화는 경미하고, 요추천자에서 정상 개방압을 보이는 것도 NPH에 합당합니다. NPH의 병태생리는 뇌척수액 흡수 장애로 인해 뇌실이 확장되고, 뇌실 주변 백질의 변형과 허혈이 발생하여 증상이 나타나는 것으로 이해되고 있습니다. 알츠하이머병(A)은 초기에 기억력 저하가 주된 증상이며, 보행장애와 요실금은 후기에 발생하는 경우가 많습니다. 파킨슨병(B)은 안정 시 진전, 경직, 운동 완서, 자세 불안정성을 특징으로 하며, 이 환자에서 보이는 뇌실 확장 소견과는 맞지 않습니다. 혈관성 치매(D)는 뇌 영상에서 다발성 뇌경색이나 광범위한 백질 변화가 관찰되고, 계단식 악화 양상을 보이는 경우가 많습니다. 진행성 핵상마비(E)는 수직 안구운동 장애, 가성구마비(pseudobulbar palsy), 경직성 체간과 목의 자세 이상 등이 특징적이며, 이 환자의 임상 양상과는 일치하지 않습니다.",
+    "source": "First_Aid_Step2_textbook_data.txt: Normal pressure hydrocephalus (NPH) is characterized by the classic triad of gait disturbance (magnetic gait, wide-based gait), urinary incontinence, and dementia. Gait disturbance is typically the earliest and most prominent symptom. CT or MRI shows ventricular enlargement without significant cortical atrophy. CSF opening pressure is normal, but a large-volume lumbar puncture may temporarily improve symptoms. Gait is typically the first symptom to improve after shunting. NPH can be idiopathic or secondary to conditions like subarachnoid hemorrhage, meningitis, or head trauma.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 여성이 3년 전부터 시작된 점진적인 보행장애와 팔다리 운동의 불협응을 주소로 내원하였다. 환자는 걸을 때 비틀거리고 넘어질 위험이 증가하여 최근에는 지팡이의 도움 없이는 걷기 어렵다고 하였다. 또한 물건을 집거나 글씨를 쓰는 등의 섬세한 동작이 어려워졌으며, 발음이 부정확해지고 목소리가 단조로워졌다고 한다. 가족력 상 환자의 아버지와 큰오빠가 비슷한 증상으로 50대에 사망하였다고 한다. 신경학적 검사에서 환자는 양측성 운동실조, 구음장애, 안구운동 이상(pursuit movements의 분절화, 측방주시 시 안구진탕)이 관찰되었다. 또한 심부건반사가 항진되어 있었으며, 바빈스키 징후가 양측에서 양성으로 나타났다. 이 환자의 진단을 위해 가장 적절한 다음 단계 검사는?",
+    "exam": "뇌 MRI: 소뇌 및 뇌간의 위축, 특히 소뇌 충부(vermis)와 소뇌 반구의 미만성 위축\n혈액 검사: CBC, 간기능 검사, 신장기능 검사, 갑상선기능 검사 모두 정상",
+    "options": {
+      "A": "척수 MRI",
+      "B": "신경전도 검사 및 근전도 검사",
+      "C": "뇌파(EEG) 검사",
+      "D": "유전자 검사 (SCA 패널)",
+      "E": "비타민 E 혈중 농도 측정"
+    },
+    "answer": "D",
+    "explanation": "이 환자는 점진적으로 진행하는 소뇌성 증상(보행 실조, 사지 실조, 구음장애, 안구운동 이상)과 함께 피라미드로 징후(심부건반사 항진, 바빈스키 징후 양성)를 보이고 있으며, 뇌 MRI에서 소뇌 및 뇌간의 위축이 관찰됩니다. 또한 비슷한 증상을 보인 가족력이 있어 상염색체 우성 유전 양상의 유전성 운동실조, 즉 척수소뇌성 운동실조(Spinocerebellar ataxia, SCA)를 강하게 시사합니다. SCA는 여러 유전자 돌연변이에 의해 발생하는 이질적인 질환군으로, 임상 양상과 영상 소견만으로는 특정 유형을 감별하기 어렵습니다. 따라서 정확한 진단과 유전 상담을 위해 유전자 검사(SCA 패널)(D)가 가장 적절합니다. 척수 MRI(A)는 척수 압박, 척수염 등의 척수 병변을 평가하는 데 유용하지만, 이 환자의 임상 양상과 뇌 MRI 소견은 이미 소뇌성 질환을 시사하고 있어 추가적인 가치가 제한적입니다. 신경전도 검사 및 근전도 검사(B)는 말초신경병증이나 운동신경원 질환을 평가하는 데 유용하지만, 이 환자의 증상은 중추신경계 이상을 시사합니다. 뇌파 검사(C)는 간질 발작이나 뇌병증의 평가에 유용하지만, 이 환자의 임상 양상과는 관련성이 낮습니다. 비타민 E 혈중 농도 측정(E)은 비타민 E 결핍과 관련된 운동실조를 진단하는 데 유용하지만, 이 환자의 가족력과 임상 양상을 고려할 때 유전성 운동실조 가능성이 더 높습니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: Spinocerebellar ataxias (SCAs) are autosomal dominant disorders characterized by progressive cerebellar ataxia, dysarthria, and abnormal eye movements. Associated findings may include pyramidal and extrapyramidal features, optic atrophy, retinopathy, and peripheral neuropathy. The most common SCAs (types 1, 2, 3, and 6) are caused by CAG trinucleotide repeat expansions encoding polyglutamine tracts in different genes. MRI typically shows cerebellar atrophy, often with brainstem involvement. Genetic testing is available for many SCA types and is essential for accurate diagnosis and genetic counseling.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+    "question": "27세 여성이 2주 전 상기도 감염 후 발생한 급성 보행장애와 시야 이상을 주소로 내원하였다. 환자는 걸을 때 오른쪽으로 치우치는 경향을 보이며, 물체가 이중으로 보인다고 호소하였다. 신경학적 검사에서 우측 상지의 운동실조와 수지실험(finger-to-nose test) 시 과도운동(hypermetria)이 관찰되었으며, 안구운동 검사에서 좌측 수평안진이 확인되었다. 심부건반사는 우측에서 항진되었고, 바빈스키 징후가 우측 양성이었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "뇌 MRI: 좌측 소뇌 반구 및 뇌교(pons)에 T2 고신호 병변\n뇌척수액 검사: 단백질 65 mg/dL, IgG 지수 상승, 올리고클론 밴드 양성",
+    "options": {
+      "A": "다발성 경화증",
+      "B": "급성 소뇌염",
+      "C": "소뇌출혈",
+      "D": "뇌경색",
+      "E": "신경베체트병"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 공간적 분산(소뇌와 뇌교 병변)과 시간적 분산(2주 전 감염 후 급성 발병)을 보이는 다발성 경화증(Multiple Sclerosis, MS)의 전형적 양상입니다. 뇌척수액에서 올리고클론 밴드 양성은 MS의 진단적 소견입니다. 급성 소뇌염(B)은 주로 소아에서 바이러스 감염 후 발생하며 전신적 증상이 동반됩니다. 소뇌출혈(C)은 두통, 구토, 의식저하가 급격히 발생합니다. 뇌경색(D)은 갑작스런 발병과 혈관 위험 인자가 있을 가능성이 높습니다. 신경베체트병(E)은 구강궤양, 생식기궤양, 포도막염 등 전신 증상이 동반됩니다.[1][3]",
+    "source": "Pathoma_Husain_textbook_data.txt: Multiple sclerosis is characterized by disseminated patches of demyelination in the CNS. MRI typically shows periventricular white matter lesions. CSF analysis reveals increased IgG index and oligoclonal bands. Clinical presentation varies depending on lesion location, with common symptoms including optic neuritis, limb weakness, and cerebellar ataxia.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 7,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 남성이 2주간 지속된 보행장애와 말이 어눌해지는 증상으로 내원하였다. 환자는 6개월 전부터 간질 치료를 위해 페니토인을 복용 중이라고 하였다. 신경학적 검사에서 양측 상하지의 운동실조와 수평안진이 관찰되었으며, 빠른 교대운동 시 현저한 협응 장애가 확인되었다. 환자의 보호자는 최근 약물 복용을 잊지 않았으나 식사량이 감소했다고 진술하였다. 이 환자에게 가장 먼저 시행해야 할 검사는?",
+    "exam": "혈액 검사: ALT 40 U/L, AST 35 U/L, BUN 18 mg/dL, Cr 0.9 mg/dL\n뇌 MRI: 소뇌 실질 미만성 에코 증가 소견 없음",
+    "options": {
+      "A": "페니토인 혈중 농도 측정",
+      "B": "뇌척수액 검사",
+      "C": "갑상선 기능 검사",
+      "D": "비타민 B1 농도 측정",
+      "E": "유전자 검사(SCA 패널)"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 페니토인 복용 중 발생한 소뇌성 운동실조의 전형적인 증상을 보입니다. 페니토인은 치료 농도 범위가 좁은 약물로, 영양 부족이나 대사 변화 시 쉽게 중독 농도에 도달할 수 있습니다. 혈중 농도 측정(A)이 가장 우선시되어야 하며, 중독 시 즉시 약물 중단과 지원 치료가 필요합니다. 뇌척수액 검사(B)는 뇌염 평가 시 시행되며, 갑상선 기능(C)은 대사성 원인 평가용입니다. 비타민 B1(D)은 베르니케 뇌병증 평가 시 필요하고, 유전자 검사(E)는 가족력이 있을 때 고려됩니다.[1][5]",
+    "source": "Pharmacology_Katzung_textbook_data.txt: Phenytoin toxicity commonly presents with cerebellar signs including nystagmus, ataxia, and dysarthria. Serum levels >20 mcg/mL are associated with toxicity, especially in patients with hypoalbuminemia or drug interactions. Management includes drug discontinuation and supportive care.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게 원인질환에 따른 치료 계획을 수립할 수 있다.",
+    "question": "40세 여성이 갑작스런 현기증과 보행장애로 응급실에 내원하였다. 환자는 2시간 전부터 심한 어지러움과 구토가 발생했으며, 오른쪽으로 넘어질 듯한 불안정감을 호소하였다. 신경학적 검사에서 우측으로 기우는 자세편위, 우측 시계방향 자발안진, 우측 편측성 운동실조가 관찰되었다. 이 환자의 급성기 치료로 가장 적절한 것은?",
+    "exam": "뇌 MRI: 좌측 소뇌 하부에 1.5cm 국소성 경색 병변\n혈액 검사: INR 0.98, 혈소판 250,000/mm³",
+    "options": {
+      "A": "아스피린 325mg 경구 투여",
+      "B": "헤파린 정주 주입",
+      "C": "티로피브롬(Tirofiban) 정주",
+      "D": "알테플라제(rt-PA) 정맥내 혈전용해술",
+      "E": "마니톨 정주"
+    },
+    "answer": "A",
+    "explanation": "소뇌경색의 급성기 치료는 뇌경색 일반 지침에 따라 아스피린 항혈소판 요법(A)이 1차 선택입니다. 헤파린(B)은 심인성 색전증이 강력히 의심될 때 제한적으로 사용됩니다. 티로피브롬(C)은 급성 관상동맥증후군에 주로 사용되며, rt-PA(D)는 발병 4.5시간 이내 전반부 뇌경색에만 적용됩니다. 마니톨(E)은 뇌부종 관리용으로 증상이 심한 경우 보조적으로 사용됩니다.[1][5]",
+    "source": "InternalMed_Harrison_textbook_data.txt: Acute management of cerebellar infarction includes antiplatelet therapy with aspirin 325 mg initially. Anticoagulation is reserved for cardioembolic strokes. Close monitoring for edema and hydrocephalus is essential, especially with large infarcts. Surgical decompression may be needed if mass effect develops.",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 병력청취와 신체진찰을 통해 원인질환과 병태생리를 알아낼 수 있다.",
+    "question": "8세 남아가 보행 시 자주 넘어지고 계단 오르기 어려움을 주소로 소아청소년과에 내원하였다. 환자는 서 있을 때 다리를 넓게 벌리고 균형을 유지하며, 종아리 근육의 위축이 관찰되었다. 신경학적 검사에서 Gowers 징후 양성, 심부건반사 감소, 거짓근비대(pseudohypertrophy)가 확인되었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "근전도 검사: 근원성 병변 소견\n혈청 CK: 15,000 U/L\n유전자 검사: 디스트로핀 유전자 돌연변이 확인",
+    "options": {
+      "A": "듀센형 근이영양증",
+      "B": "베커형 근이영양증",
+      "C": "척수성 근위축증",
+      "D": "선천성 근이영양증",
+      "E": "다발성 근염"
+    },
+    "answer": "A",
+    "explanation": "남아에서 진행성 근력 약화, Gowers 징후, 거짓근비대, 극도로 상승된 CK 수치는 듀센형 근이영양증(Duchenne muscular dystrophy)의 전형적 소견입니다. 베커형(B)은 더 늦게 발병하고 경한 경과를 보입니다. 척수성 근위축증(C)은 근위 약화가 있으나 CK 상승이 미미합니다. 다발성 근염(E)은 근육통과 감염력이 동반됩니다.[3][4]",
+    "source": "Pediatrics_Nelson_textbook_data.txt: Duchenne muscular dystrophy is an X-linked recessive disorder caused by mutations in the dystrophin gene. Clinical features include progressive proximal muscle weakness, Gowers' sign, calf pseudohypertrophy, and markedly elevated serum CK levels. Diagnosis is confirmed by genetic testing or muscle biopsy showing absent dystrophin.",
+    "category": "Pediatrics"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "보행이상/운동실조",
+    "purpose": "보행이상/운동실조가 있는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "60세 여성이 3개월간 지속된 보행장애와 배뇨장애를 주소로 내원하였다. 환자는 걸을 때 발을 질질 끌며, 좁은 공간에서 방향 전환 시 특히 어려움을 호소하였다. 신경학적 검사에서 양측 하지의 경직, 심부건반사 항진, 양측 바빈스키 징후 양성이 확인되었다. 이 환자에게 가장 먼저 시행해야 할 영상 검사는?",
+    "exam": "요추 X-ray: 경도의 퇴행성 변화\n혈액 검사: 정상 범위",
+    "options": {
+      "A": "경추 MRI",
+      "B": "요추 MRI",
+      "C": "뇌 MRI",
+      "D": "척수 혈관조영술",
+      "E": "골밀도 검사"
+    },
+    "answer": "A",
+    "explanation": "상위운동신경원 징후(경직, 건반사 항진, 바빈스키 양성)가 양측 하지에 국한된 경우 경추부 척수 압박을 의심해야 합니다. 경추 MRI(A)는 경추 협착증, 경추 추간판 탈출증, 종양 등 척수병변을 평가하는 최선의 검사입니다. 요추 MRI(B)는 하지의 하위운동신경원 증상이 있을 때 유용합니다. 뇌 MRI(C)는 뇌병변 평가용이며, 척수 혈관조영술(D)은 혈관기형 평가 시 시행됩니다.[1][5]",
+    "source": "Surgery_Schwartz_textbook_data.txt: Cervical spondylotic myelopathy is the most common cause of spinal cord dysfunction in adults. MRI is the imaging modality of choice, showing spinal cord compression with T2 hyperintensity. Clinical features include gait disturbance, hyperreflexia, and spasticity. Surgical decompression is indicated for progressive neurological deficits.",
+    "category": "Neurology / Neurosurgery"
+  }
+
 
 ]
