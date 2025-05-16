@@ -1275,6 +1275,188 @@
     "explanation": "SAAG 0.8 g/dL(1.1 미만)과 복수 총 단백질 4.5 g/dL(2.5 초과)로 저SAAG/고단백 복수에 해당합니다. 이는 결핵성 복막염이나 복막 전이암을 시사합니다. 림프구 우세의 백혈구 증가(800/mm³ 중 85%)와 ADA 수치 상승(68 U/L)은 결핵성 복막염의 특징적 소견입니다. 결핵성 복막염에서는 ADA가 40 U/L 이상인 경우가 95%에서 관찰되며, 복막 전이암에서는 세포학적 검사에서 악성세포가 발견됩니다. 환자의 체중 감소, 미열, 야간발한 등의 전신증상과 결핵 접촉력도 결핵성 복막염을 지지합니다.",
     "source": "InternalMed_Harrison_textbook_data.txt: 'Tuberculous peritonitis causes ascites via exudation of proteinaceous fluid from tubercles deposited on the peritoneum. Ascitic fluid typically shows lymphocytosis and elevated adenosine deaminase (ADA) levels >40 U/L.'",
     "category": "Infectious Diseases"
-  }
+  },
 
+  {
+    "question_id": 1,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 진단할 수 있다.",
+    "question": "65세 남성이 양측 하지 부종으로 내원하였다. 환자는 3주 전부터 서서히 발생한 양쪽 다리 부종과 호흡곤란을 호소하였으며, 누워있을 때 호흡곤란이 더 심해진다고 한다. 과거력상 10년 전 심근경색 진단을 받았다. 신체 검사에서 경정맥 팽창, 폐 기저부의 수포음, 양측 하지의 함요 부종이 관찰되었다. 이 환자의 부종 원인으로 가장 가능성이 높은 것은?",
+    "exam": "혈액 검사: BNP 850 pg/mL, Na 138 mEq/L, K 4.2 mEq/L, BUN 28 mg/dL, Cr 1.2 mg/dL, Albumin 3.8 g/dL\n흉부 X-선: 심비대, 폐울혈, 양측 흉수\n심초음파: 좌심실 구혈률 35%, 좌심실 비대",
+    "options": {
+      "A": "신증후군",
+      "B": "간경화",
+      "C": "심부전",
+      "D": "갑상선 저하증",
+      "E": "심부 정맥 혈전증"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 심부전의 전형적인 증상과 징후를 보이고 있다. 경정맥 팽창, 폐 기저부의 수포음, 양측 하지의 함요 부종은 심부전의 특징적인 소견이다. 특히 누워있을 때 호흡곤란이 악화되는 것(기좌호흡, orthopnea)은 심부전의 중요한 증상이다. 또한 과거 심근경색 병력은 심부전의 위험 요인이다.\n\n검사 소견에서 BNP(Brain Natriuretic Peptide)가 현저히 상승해 있고(정상치 <100 pg/mL), 흉부 X-선에서 심비대와 폐울혈이 관찰되며, 심초음파에서 좌심실 구혈률 35%로 감소되어 있어 심부전을 확진할 수 있다.\n\n심부전에서의 부종은 주로 정수압 증가로 인한 모세혈관에서의 체액 여과 증가로 발생한다. 심부전에서는 심박출량 감소와 신장 관류 저하로 레닌-안지오텐신-알도스테론계가 활성화되어 나트륨과 수분 저류가 발생한다. 또한 심부전에서의 정맥압 상승은 모세혈관 정수압을 증가시켜 간질액으로의 체액 이동을 촉진한다. 이런 기전으로 중력에 영향을 받는 하지에 부종이 주로 나타나며, 누워 있을 경우 천골부(presacral region)에 부종이 발생할 수 있다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"The distribution of edema is an important guide to its cause. Edema associated with heart failure tends to be more extensive in the legs and to be accentuated in the evening, a feature also determined largely by posture. When patients with heart failure are confined to bed, edema 253 may be most prominent in the presacral region. Severe heart failure may cause ascites that may be distinguished from the ascites caused by hepatic cirrhosis by the jugular venous pressure, which is usually elevated in heart failure and normal in cirrhosis.\"",
+    "category": "Cardiology"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 남성이 복부 팽만감과 양측 하지 부종으로 내원하였다. 환자는 20년간의 만성 알코올 섭취 병력이 있으며, 최근 3개월 동안 복부 둘레가 점점 증가하고 양쪽 다리가 붓는 증상이 있었다고 한다. 신체검사에서 복부 팽만, 파동(fluid wave), 이동성 둔탁음(shifting dullness)이 관찰되었다. 양측 하지에는 함요 부종이 있었고, 거미혈관종과 복벽 측부 순환(caput medusae)이 관찰되었다. 경정맥 압력은 정상이었다. 이 환자의 부종 및 복수의 원인을 파악하기 위해 시행한 검사로 가장 적절한 것은?",
+    "exam": "혈액 검사: 총 빌리루빈 3.2 mg/dL, AST 85 U/L, ALT 60 U/L, ALP 150 U/L, 알부민 2.8 g/dL, PT INR 1.8, 혈소판 80,000/mm³",
+    "options": {
+      "A": "심초음파 검사",
+      "B": "복부 초음파 또는 CT 검사",
+      "C": "뇌 CT 검사",
+      "D": "신장 기능 검사",
+      "E": "갑상선 기능 검사"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 간경화의 임상 징후인 복수, 하지 부종, 거미혈관종, 복벽 측부 순환을 보이고 있다. 또한 장기간의 알코올 섭취 병력은 알코올성 간경화의 중요한 위험 인자이다. 검사 결과에서 간기능 이상(AST, ALT, 빌리루빈 상승), 합성 기능 저하(알부민 감소, PT INR 연장), 혈소판 감소는 간경화를 강력히 시사한다.\n\n간경화에서의 부종과 복수는 여러 기전에 의해 발생한다. 간경화로 인한 문맥압 상승은 내장 혈관에서의 혈장 유출을 증가시키고, 간에서의 알부민 합성 저하는 혈장 교질삼투압을 감소시켜 간질액으로의 체액 이동을 촉진한다. 또한 문맥 고혈압으로 인한 림프관 배액 장애도 복수 형성에 기여한다. 간경화에서는 실효 동맥 혈량(effective arterial blood volume)이 감소하여 레닌-안지오텐신-알도스테론계가 활성화되어 나트륨과 수분 저류가 발생한다.\n\n이러한 상황에서 복부 초음파나 CT 검사는 간경화의 형태학적 특징(간 표면 결절성, 비종대, 문맥 확장)과 복수의 양을 평가하는 데 도움을 준다. 또한 문맥압 항진의 징후인 문맥-체정맥 측부 순환을 확인할 수 있어 가장 적절한 검사이다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"In many forms of edema, despite the increase in extracellular fluid volume, the effective arterial blood volume, a parameter that represents the filling of the arterial tree and that effectively perfuses the tissues, is reduced. Underfilling of the arterial tree may be caused by a reduction of cardiac output andor systemic vascular resistance, by pooling of blood in the splanchnic veins as in cirrhosis, and by hypoalbuminemia Fig. 50-1A. As a consequence of underfilling, a series of physiologic responses designed to restore the effective arterial volume to normal are set into motion. A key element of these responses is the renal retention of sodium and, therefore, water, thereby restoring effective arterial volume, but sometimes also leading to or intensifying edema.\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+    "question": "8세 남아가 전신 부종으로 내원하였다. 환자는 2주 전부터 안면 부종이 시작되어 점차 전신으로 확대되었으며, 특히 아침에 눈 주위가 심하게 부었다가 하루가 지나면서 다리 쪽으로 부종이 이동한다고 한다. 소변 색이 거품이 많이 생기고 어두워졌다고 호소한다. 신체검사에서 안면과 사지의 함요 부종이 관찰되었고, 복부는 약간 팽만되어 있었다. 이 환자의 적절한 치료 방법으로 가장 적합한 것은?",
+    "exam": "혈액 검사: 총 단백 4.5 g/dL, 알부민 2.0 g/dL, 콜레스테롤 350 mg/dL, BUN 18 mg/dL, Cr 0.7 mg/dL\n소변 검사: 단백질 4+, 적혈구 2+\n24시간 소변 검사: 단백질 4.2 g/day",
+    "options": {
+      "A": "이뇨제 치료와 저염식이",
+      "B": "신장 이식",
+      "C": "스테로이드 치료",
+      "D": "혈액 투석",
+      "E": "항생제 치료"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 신증후군(nephrotic syndrome)의 전형적인 임상 양상을 보이고 있다. 신증후군은 대량 단백뇨(>3.5g/일), 저알부민혈증, 부종, 고지혈증을 특징으로 하는 증후군이다. 특히 아동에서 가장 흔한 원인은 미세변화 질환(minimal change disease)으로, 스테로이드 치료에 좋은 반응을 보인다.\n\n신증후군에서의 부종은 주로 저알부민혈증으로 인한 혈장 교질삼투압 감소로 발생한다. 알부민은 혈관 내 수분을 유지하는 주요 요소로, 알부민 감소 시 혈관 내에서 간질 공간으로 체액이 이동하게 된다. 이런 기전으로 안면과 같은 느슨한 조직에 부종이 현저히 나타나며, 특히 누워있는 동안 재흡수된 체액이 아침에 눈꺼풀과 안면에 부종으로 나타난다. 또한 신증후군에서는 레닌-안지오텐신-알도스테론계가 활성화되어 나트륨과 수분 저류가 증가한다.\n\n소아에서 발생한 신증후군, 특히 미세변화 질환은 스테로이드 치료가 일차 치료법이다. 스테로이드는 사구체 기저막의 투과성을 감소시켜 단백뇨를 줄이고, 알부민 수치를 정상화시켜 부종을 개선한다. 이뇨제는 일시적으로 부종을 완화할 수 있으나 근본 원인을 치료하지 못한다. 신장 이식이나 혈액 투석은 신부전이 동반된 경우에 고려되며, 이 환자는 신기능이 정상이므로 필요하지 않다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Edema resulting from hypoproteinemia, as occurs in the nephrotic syndrome, characteristically is generalized, but it is especially evident in the very soft tissues of the eyelids and face and tends to be most pronounced in the morning owing to the recumbent posture assumed during the night. Less common causes of facial edema include trichinosis, allergic reactions, and myxedema. Edema limited to one leg or to one or both arms is usually the result of venous andor lymphatic obstruction. Unilateral paralysis reduces lymphatic and venous drainage on the affected side and may also be responsible for unilateral edema.\"",
+    "category": "Nephrology"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 진단할 수 있다.",
+    "question": "52세 여성이 우측 하지 부종으로 내원하였다. 환자는 3년 전 우측 유방암으로 유방 절제술 및 액와림프절 곽청술을 시행 받았으며, 6개월 전부터 점진적으로 우측 다리가 붓기 시작했다고 한다. 부종은 아침보다 저녁에 더 심해지며, 발끝에서 시작하여 점차 위로 올라오는 양상이었다. 신체검사에서 우측 하지의 비함요성 부종이 관찰되었으며, 피부가 두껍고 섬유화된 모습이었다. 이 환자의 부종 원인으로 가장 가능성이 높은 것은?",
+    "exam": "도플러 초음파: 양측 하지 정맥의 혈류 및 압박성 정상\n림프신티그래피: 우측 하지 림프관의 흐름 장애 및 림프절로의 배액 감소",
+    "options": {
+      "A": "심부정맥혈전증",
+      "B": "림프부종",
+      "C": "정맥 부전증",
+      "D": "신증후군",
+      "E": "간경화"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 림프부종(lymphedema)의 특징적인 임상 양상을 보이고 있다. 림프부종은 림프관 또는 림프절의 기능 이상이나 구조적 이상으로 인해 림프액이 조직 간질에 축적되어 발생하는 부종이다. 환자의 과거력에서 유방암으로 인한 액와림프절 곽청술은 이차성 림프부종의 중요한 위험 인자이다.\n\n림프부종의 특징은 초기에는 함요성(pitting) 부종이지만, 시간이 경과함에 따라 섬유화와 지방 침착으로 비함요성(non-pitting) 부종으로 변화한다. 또한 림프부종은 보통 발끝에서 시작하여 점차 위쪽으로 진행하며, 중력 의존적으로 저녁에 더 심해지는 특성이 있다.\n\n림프신티그래피 결과에서 우측 하지 림프관의 흐름 장애 및 림프절로의 배액 감소가 확인되어 림프부종 진단을 확증할 수 있다. 도플러 초음파에서 정맥 혈류가 정상인 점은 심부정맥혈전증이나 정맥 부전증을 배제하는 소견이다.\n\n림프부종에서는 림프관 흐름의 제한으로 인해 간질액 내 단백질 농도가 증가하여 체액 저류가 더욱 악화되는 특성이 있다. 따라서 일반적인 부종과 달리 치료에 잘 반응하지 않고 만성적인 경과를 보인다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Localized edema due to venous or lymphatic obstruction may be caused by thrombophlebitis, chronic lymphangitis, resection of regional lymph nodes, and filariasis, among other causes. Lymphedema is particularly intractable because restriction of lymphatic flow results in increased protein concentration in the interstitial fluid, a circumstance that aggravates fluid retention.\"",
+    "category": "General Surgery"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 여성이 얼굴과 손발의 부종으로 내원하였다. 환자는 최근 6개월 동안 체중이 5kg 증가했고, 피로감, 추위에 민감함, 변비, 피부 건조 등의 증상이 있었다고 한다. 신체검사에서 얼굴이 부어 있고 안검이 두꺼우며, 손발의 비함요성 부종이 관찰되었다. 심장, 폐, 복부 진찰은 정상이었다. 이 환자의 부종 원인을 확인하기 위한 가장 적절한 검사는?",
+    "exam": "혈액 검사: 헤모글로빈 11.8 g/dL, 총 콜레스테롤 260 mg/dL, AST/ALT 정상, 알부민 4.0 g/dL, BUN/Cr 정상",
+    "options": {
+      "A": "갑상선 기능 검사 (TSH, Free T4)",
+      "B": "혈청 알부민 및 24시간 소변 단백 검사",
+      "C": "심초음파 검사",
+      "D": "간기능 및 복부 초음파 검사",
+      "E": "혈청 BNP 검사"
+    },
+    "answer": "A",
+    "explanation": "이 환자는 갑상선 기능 저하증(hypothyroidism)의 전형적인 임상 증상과 징후를 보이고 있다. 피로감, 추위에 민감함, 변비, 체중 증가, 피부 건조는 갑상선 기능 저하증의 주요 증상이다. 또한 얼굴 부종과 함께 안검의 두꺼움은 점액수종(myxedema)을 시사하며, 이는 갑상선 기능 저하증에서 관찰되는 특징적인 비함요성 부종이다.\n\n갑상선 기능 저하증에서의 부종은 함요성이 아닌 비함요성 부종이며, 이는 히알루론산(hyaluronic acid)과 같은 점액성 물질이 피부와 피하조직에 침착되어 발생한다. 이러한 점액성 부종은 특히 안검, 얼굴, 손, 발에 두드러지게 나타난다.\n\n갑상선 기능 저하증을 진단하기 위해서는 갑상선 기능 검사, 특히 TSH(갑상선 자극 호르몬)와 Free T4의 측정이 필수적이다. 갑상선 기능 저하증에서는 TSH가 상승하고 Free T4가 감소하는 특징을 보인다.\n\n다른 검사 옵션들은 이 환자의 임상 양상과 맞지 않는다. 혈청 알부민과 소변 단백 검사는 신증후군을, 심초음파와 BNP는 심부전을, 간기능 검사와 복부 초음파는 간질환을 평가하는 검사로 환자의 주요 증상인 갑상선 기능 저하증을 진단하는 데 적절하지 않다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Other Causes of Edema These causes include hypothyroidism myxedema and hyperthyroidism pretibial myxedema secondary to Graves disease, the edema in which is typically nonpitting and due to deposition of hyaluronic acid and, in Graves disease, lymphocytic infiltration and inflammation exogenous hyperadrenocortism pregnancy and administration of estrogens and vasodilators, particularly dihydropyridines such as nifedipine.\"",
+    "category": "Endocrinology"
+  },
+[
+  {
+    "question_id": 6,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 진단할 수 있다.",
+    "question": "28세 여성이 반복적인 얼굴과 입술 부종으로 응급실을 방문하였다. 환자는 지난 2년간 5차례 유사한 증상이 발생했으며, 항히스타민제 투여에도 호전되지 않았다고 보고했다. 이번 발작에서는 복통과 구토가 동반되었으며, 가족력으로 누나가 유사한 증상을 보인다고 한다. 신체검사에서 비함요성 안면 부종과 구강 점막 부종이 관찰되었으나 두드러기는 없었다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "혈액 검사: C4 5 mg/dL (정상 10-40), C1-에스테라제 억제제 기능 20% (정상 70-130%)\n알레르기 검사: 특이 IgE 음성",
+    "options": {
+      "A": "알레르기성 혈관부종",
+      "B": "유전성 혈관부종",
+      "C": "전신성 홍반성 루푸스",
+      "D": "부신기능부전",
+      "E": "갑상선 기능항진증"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 유전성 혈관부종(hereditary angioedema)의 전형적인 임상 양상을 보이고 있다. 반복적인 비두드러기성 부종, 위장관 증상(복통/구토), 가족력, 항히스타민제 무반응이 특징적이다. C4 보체 성분 감소와 C1-에스테라제 억제제 기능 저하가 진단을 확증한다.\n\n유전성 혈관부종은 상염색체 우성 유전되는 질환으로, C1-억제제 결핍으로 브라디키닌이 과다 생성되어 혈관 투과성이 증가한다. 부종은 통증이 있고 24-72시간 지속되며 호흡기 폐쇄를 유발할 수 있다. 급성기 치료에는 C1-억제제 농축제가 사용되며, 장기 예방을 위해 안드로겐 유사체를 투여한다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Hereditary angioedema (HAE) is an autosomal dominant disorder caused by deficiency of C1 inhibitor (C1 INH). Recurrent attacks of nonpruritic, nonpitting edema affect the skin (face, extremities) and mucosal surfaces (gastrointestinal tract, upper airways). Attacks may be precipitated by trauma, stress, or infections. Diagnosis is confirmed by low C4 levels and quantitative/functional C1 INH testing.\"",
+    "category": "Allergy and Immunology"
+  },
+  {
+    "question_id": 7,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 원인을 파악하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "35세 남성이 우측 하지의 점진적 비대와 피부 두께 증가로 내원하였다. 환자는 5년 전 아프리카 지역에서 2년간 근무한 적이 있다고 한다. 신체검사에서 우측 하지의 현저한 비함요성 부종과 피부 섬유화가 관찰되었으며, 음낭 부종도 동반되었다. 이 환자의 원인 감별을 위해 가장 먼저 시행해야 할 검사는?",
+    "exam": "말초혈액 도말: 미세사상충 발견\n야간 혈액 검사: 미세사상충 유무 확인",
+    "options": {
+      "A": "림프신티그래피",
+      "B": "말초혈액 도말 검사",
+      "C": "복부 CT 검사",
+      "D": "심초음파 검사",
+      "E": "피부 생검"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 사상충증(filariasis)에 의한 림프부종을 의심할 수 있다. 풍토병 지역 거주력, 하지 및 음낭 부종, 피부 변화가 특징적이다. 말초혈액 도말에서 미세사상충(microfilaria) 발견이 진단적이다.\n\n사상충(Wuchereria bancrofti)은 림프관을 침범하여 만성 염증과 섬유화를 유발한다. 야간에 말초혈액에서 미세사상충이 관찰되는 주기성을 보이므로 검체 채취 타이밍이 중요하다. 치료는 디에틸카바마진(diethylcarbamazine)을 사용하며, 진행된 섬유화에는 수술적 치료가 필요할 수 있다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Lymphatic filariasis, caused by Wuchereria bancrofti, manifests as recurrent episodes of fever and lymphangitis leading to chronic lymphedema. Late-stage disease results in elephantiasis with gross thickening of skin and subcutaneous tissues. Diagnosis relies on demonstrating microfilariae in blood samples obtained at night.\"",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 8,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+    "question": "32세 임신 34주 산모가 심한 하지 부종과 두통으로 내원하였다. 혈압 160/100 mmHg, 단백뇨 2+가 확인되었다. 태아 초음파에서 태아 성장 지연이 관찰되었으며, 간기능 검사에서 AST/ALT 상승이 있었다. 이 환자의 부종 관리에 대한 가장 시급한 조치는?",
+    "exam": "혈액 검사: 혈소판 90,000/mm³, LDH 600 U/L\n소변 검사: 단백질 3.5g/24시간",
+    "options": {
+      "A": "경구 이뇨제 투여",
+      "B": "정맥 내 마그네슘 설페이트 투여",
+      "C": "스테로이드 투여",
+      "D": "혈압 강하제 투여",
+      "E": "즉시 분만 유도"
+    },
+    "answer": "E",
+    "explanation": "이 환자는 중증 자간전증(severe preeclampsia)으로 인한 부종을 보이고 있다. 고혈압, 단백뇨, 혈소판 감소, 간기능 이상, 태아 성장 지연이 확인되어 즉각적인 분만이 필요하다.\n\n자간전증에서의 부종은 혈관 내피 손상으로 인한 혈관 투과성 증가와 신장에서의 나트륨 저류가 복합적으로 작용한다. 치료의 근본은 태반 제거이므로, 태아 폐성숙을 고려하여 분만을 진행한다. 마그네슘 설페이트는 경련 예방을 위해 사용되지만, 최종 치료는 아니다.",
+    "source": "file_name: Obstentrics_Williams_textbook_data.txt\n\n\"Delivery is the definitive treatment for preeclampsia. When severe features are present after 34 weeks’ gestation, immediate delivery is indicated regardless of gestational age. Magnesium sulfate is administered for seizure prophylaxis, and antihypertensives are used to control severe hypertension.\"",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게서 병력, 진찰소견 등을 종합하여 원인을 진단할 수 있다.",
+    "question": "68세 남성이 만성적인 좌측 하지 부종과 궤양으로 내원하였다. 환자는 30년간 정맥류 병력이 있으며, 최근 6개월간 발목 위쪽에 통증성 궤양이 발생했다고 한다. 신체검사에서 좌측 하지의 함요성 부종, 피부 색소침착, 지방피부경화증이 관찰되었다. 이 경우 부종의 주요 기전은?",
+    "exam": "도플러 초음파: 심부정맥 개통성 유지, 표재성 정맥 역류 확인",
+    "options": {
+      "A": "혈장 교질삼투압 감소",
+      "B": "림프관 폐쇄",
+      "C": "정맥압 상승",
+      "D": "심박출량 감소",
+      "E": "신장 나트륨 저류"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 만성 정맥기능부전(chronic venous insufficiency)으로 인한 부종을 보인다. 정맥류 병력, 피부 색소침착, 지방피장경화증(lipodermatosclerosis), 궤양이 특징적이다. 도플러 초음파에서 표재성 정맥 역류가 확인되어 정맥압 상승이 주요 기전임을 알 수 있다.\n\n정맥 고혈압은 모세혈관 정수압을 상승시켜 체액이 간질로 유출되게 한다. 장기간의 정맥울혈은 피부 영양 장애를 유발하여 궤양으로 진행된다. 치료는 압박스타킹, 피부 관리, 수술적 정맥 제거를 포함한다.",
+    "source": "file_name: Surgery_Schwartz_textbook_data.txt\n\n\"Chronic venous insufficiency results from venous hypertension due to valvular incompetence. Elevated venous pressure increases capillary hydrostatic pressure, leading to edema, hemosiderin deposition, and eventual ulcer formation. Compression therapy is the mainstay of treatment.\"",
+    "category": "Dermatology"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "부종",
+    "purpose": "부종이 있는 사람에게 원인에 따른 적절한 치료 방법을 선택할 수 있다.",
+    "question": "60세 남성이 양측 하지 부종으로 내원하였다. 환자는 3개월 전부터 고혈압 치료로 암로디핀 복용을 시작했으며, 부종이 서서히 진행되었다고 한다. 신체검사에서 경도의 함요성 부종이 관찰되었고, 다른 신체 검사 소견은 정상이었다. 혈액검사에서 신기능과 알부민 수치는 정상이었다. 이 환자의 부종 관리로 가장 적절한 것은?",
+    "exam": "혈액 검사: BUN 20 mg/dL, Cr 1.0 mg/dL, Albumin 4.2 g/dL\n심초음파: 좌심실 구혈률 60%",
+    "options": {
+      "A": "이뇨제 추가 투여",
+      "B": "암로디핀 중단 및 다른 항고혈압제 변경",
+      "C": "알부민 정주",
+      "D": "림프배액 마사지",
+      "E": "스테로이드 투여"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 칼슘통로차단제(암로디핀)에 의한 말초부종을 보이고 있다. 디하이드로피리딘계 약물은 말초혈관 확장으로 인해 모세혈관 정수압을 상승시켜 부종을 유발한다. 신기능과 알부민이 정상이며, 심기능이 보존되어 있어 다른 원인은 배제된다.\n\n치료는 원인 약물 중단이 우선적이다. ACE 억제제 또는 ARB로 변경하면 혈관확장 효과가 동맥에 선택적이어서 부종 위험이 낮다. 이뇨제는 증상 완화에 도움되지만 근본 치료는 아니다.",
+    "source": "file_name: InternalMed_Harrison_textbook_data.txt\n\n\"Calcium channel blockers, particularly dihydropyridines like amlodipine, cause peripheral edema through preferential dilation of precapillary arterioles, increasing capillary hydrostatic pressure. Management involves switching to alternative antihypertensives such as ACE inhibitors.\"",
+    "category": "Rheumatology"
+  }
+]
 ]
