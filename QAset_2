@@ -1742,5 +1742,191 @@
     "explanation": "Valproic acid는 태아기형 발생률이 높아(6-10%) 임신 중 사용을 피해야 합니다. Levetiracetam은 태아 안전성이 비교적 우수한 1차 대체제입니다. Harrison 내과학은 임신 계획 시 valproic acid를 lamotrigine 또는 levetiracetam으로 전환할 것을 권고합니다[2][8].",
     "source": "InternalMed_Harrison_textbook_data.txt: 'Valproate should be avoided in pregnancy due to teratogenicity. Levetiracetam and lamotrigine are preferred alternatives.'",
     "category": "Neurology / Neurosurgery"
-  }
+  },
+{
+  "question_id": 1,
+  "chief complaint": "불안",
+  "purpose": "불안을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "23세 남자 환자가 발표 상황에서 극심한 불안을 호소하며 내원하였다. 환자는 고등학교 때부터 수업 시간에 발표할 때마다 심장이 두근거리고, 손이 떨리며, 얼굴이 붉어지는 증상을 경험했다고 한다. 대학에 입학한 후에는 수업 발표를 앞두고 며칠 전부터 불안감이 심해져 수업에 결석하기도 했으며, 최근에는 조별 모임에도 참석하지 않게 되었다. 환자는 다른 사람들이 자신을 비판적으로 평가할까 봐 두려워하며 사회적 상황을 회피하고 있다. 환자는 혼자 있을 때는 불안 증상이 없으며, 가족력상 어머니가 비슷한 증상을 경험했다고 한다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "활력징후: 정상\n신체검사: 특이소견 없음\n신경학적 검사: 정상\nTSH, 유리 T4: 정상범위\n심전도: 정상 동리듬",
+  "options": {
+    "A": "일반화불안장애",
+    "B": "사회불안장애",
+    "C": "공황장애",
+    "D": "특정 공포증",
+    "E": "광장공포증이 있는 공황장애"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 사회불안장애(social anxiety disorder)의 전형적인 증상을 보입니다. 사회불안장애의 핵심 특징은 타인의 평가를 두려워하는 것으로, 환자는 발표 상황이나 사회적 상황에서 극심한 불안을 느끼고 이를 회피합니다. 본 사례에서 환자는 발표 상황에서 불안 증상이 나타나고, 다른 사람들의 부정적 평가에 대한 두려움으로 사회적 상황을 회피하고 있습니다. 또한 혼자 있을 때는 증상이 없다는 점이 사회불안장애를 시사합니다. 일반화불안장애는 특정 상황보다는 다양한 일상 활동에 대한 지속적인 걱정이 특징이며, 공황장애는 예상치 못한 공황 발작이 핵심 증상입니다. 특정 공포증은 특정 대상이나 상황(높은 곳, 특정 동물 등)에 대한 공포이며, 광장공포증은 탈출이 어려운 장소에 대한 불안으로 이 사례와 일치하지 않습니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'Social anxiety disorder. Individuals with social anxiety disorder often have anticipa- tory anxiety that is focused on upcoming social situations in which they must perform or be evaluated by others, whereas individuals with generalized anxiety disorder worry, whether or not they are being evaluated.' 및 'Individuals with social anxiety disorder are most fearful of scrutiny by others. Moreover, individuals with social anxiety disorder are likely to be calm When left entirely alone, which is often not the case in agoraphobia.'",
+  "category": "Psychiatry"
+}
+
+{
+  "question_id": 2,
+  "chief complaint": "불안",
+  "purpose": "불안을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성 환자가 3개월 전부터 시작된 지속적인 불안감과 가슴 두근거림을 주소로 내원하였다. 환자는 최근 체중이 5kg 감소했으며, 더위를 잘 느끼고, 소화불량과 설사 증상도 간헐적으로 있다고 한다. 평소 건강했으며 정신과적 병력은 없으나, 최근 업무 스트레스가 심해져 이로 인한 불안 증상으로 생각하고 있었다. 신체 진찰에서 맥박이 분당 105회로 빈맥이 관찰되었고, 피부가 따뜻하고 촉촉했으며, 경부에서 갑상선이 약간 커져 있었다. 이 환자에게 가장 적절한 추가 검사는?",
+  "exam": "활력 징후: 혈압 130/85mmHg, 맥박 105회/분, 호흡 18회/분, 체온 37.2°C\n심전도: 동성 빈맥\n일반혈액검사: 정상 범위",
+  "options": {
+    "A": "갑상선 기능 검사(TSH, Free T4)",
+    "B": "24시간 홀터 모니터링",
+    "C": "부신 CT 스캔",
+    "D": "혈중 코르티솔 검사",
+    "E": "정신과적 평가 척도"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 불안 증상과 함께 체중 감소, 열 불내성, 소화기 증상(설사), 빈맥, 갑상선 비대 등 갑상선 기능항진증을 시사하는 여러 증상들을 보이고 있습니다. 불안 증상이 있을 때는 정신질환 외에도 갑상선 기능항진증, 크롬친화세포종, 저혈당증 등의 내분비 질환이나 다른 신체 질환에 의한 이차성 불안 가능성을 고려해야 합니다. 특히 갑상선 기능항진증은 자율신경계 과활성화를 일으켜 불안, 빈맥, 발한 증가, 체중 감소, 열 불내성 등의 증상을 유발할 수 있습니다. 따라서 이 환자에게는 갑상선 기능 검사(TSH, Free T4)가 가장 적절한 추가 검사입니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'A number of medical conditions are known to include anxiety as a symptomatic manifes- tation. Examples include endocrine disease e.g., hyperthyroidism, pheochromocytoma, hypoglycemia, hyperadrenocortisolism, cardiovascular disorders e.g., congestive heart failure, pulmonary embolism, arrhythmia such as atrial fibrillation, respiratory illness e.g., chronic obstructive pulmonary disease, asthma, pneumonia, metabolic distur bances e.g., vitamin B12 deficiency, porphyria, and neurological illness e.g., neoplasms, vestibular dysfunction, encephalitis, seizure disorders. Anxiety due to another medical condition is diagnosed when the medical condition is known to induce anxiety and when the medical condition preceded the onset of the anxiety.'",
+  "category": "Endocrinology"
+}
+
+{
+  "question_id": 3,
+  "chief complaint": "불안",
+  "purpose": "급성 불안발작을 의심하는 사람에게 적합한 초기 치료를 시행할 수 있다.",
+  "question": "28세 남성이 갑작스러운 극심한 불안감과 죽을 것 같은 공포감을 호소하며 응급실에 내원하였다. 환자는 30분 전 쇼핑몰에서 갑자기 심장이 빠르게 뛰기 시작하고 숨이 막히는 느낌, 어지러움, 손발 저림, 발한 등의 증상이 발생했다고 한다. 과거에도 유사한 증상이 수 차례 있었으며, 응급실 방문 후 증상이 저절로 호전되었던 병력이 있다. 환자는 이런 증상이 또 발생할까 봐 항상 걱정하고 있으며, 최근에는 증상이 발생했던 장소를 피하고 있다. 신체 검사와 기본 검사에서 특이 소견은 없었다. 이 환자의 급성 증상에 대한 가장 적절한 초기 치료는?",
+  "exam": "활력 징후: 혈압 145/90mmHg, 맥박 110회/분, 호흡 24회/분, 체온 36.8°C\n심전도: 동성 빈맥\n흉부 X선: 정상\n혈액검사: 전해질, 혈당, CBC 모두 정상 범위\n동맥혈 가스검사: pH 7.46, PCO₂ 32mmHg, PO₂ 98mmHg, HCO₃ 22mEq/L",
+  "options": {
+    "A": "Alprazolam 0.5mg 경구 투여",
+    "B": "Propranolol 10mg 경구 투여",
+    "C": "Fluoxetine 20mg 경구 투여",
+    "D": "Haloperidol 5mg 정맥 투여",
+    "E": "Buspirone 10mg 경구 투여"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 공황발작(panic attack)의 전형적인 증상을 보이고 있습니다. 공황발작은 급격한 두려움이나 불편감이 수 분 내에 최고조에 도달하며, 심계항진, 발한, 떨림, 호흡곤란, 질식감, 흉통, 복부 불편감, 어지러움, 현실감 상실, 통제력 상실에 대한 공포, 죽음에 대한 공포 등의 증상이 나타납니다. 급성 공황발작의 초기 치료로는 벤조디아제핀계 약물이 빠른 효과를 보이기 때문에 가장 적절합니다. Alprazolam, lorazepam, clonazepam 등의 벤조디아제핀은 수 시간 내에 효과가 나타나며 급성 증상을 완화시킵니다. Propranolol은 자율신경계 증상을 감소시킬 수 있지만, 급성기 첫 선택약은 아닙니다. Fluoxetine과 같은 SSRI는 공황장애의 장기 치료에 효과적이지만 효과가 나타나기까지 수 주가 걸립니다. Haloperidol은 정신병적 증상에 사용되는 약물로 공황발작에는 적합하지 않습니다. Buspirone은 일반화 불안장애에 효과적일 수 있지만 급성 증상에는 효과가 제한적입니다.",
+  "source": "NeurologyAdams_textbook_data_part2.txt: 'Certain medications, particularly anxiolytics and antidepressants, are effective in suppressing panic attacks and creating a sense of well-being. Among these, the benzodiazepine alprazolam had been favored by some psychiatrists, but lorazepam and clonazepam are almost as effective and are considered less likely to cause dependence. They are all effective within hours. In mild cases, the benzodiazepines may be used intermittently rather than several times daily, but they tend to be less useful once a panic attack has become established.'",
+  "category": "Emergency Medicine"
+}
+
+{
+  "question_id": 4,
+  "chief complaint": "불안",
+  "purpose": "불안이 있는 사람에게 적합한 치료 계획을 세울 수 있다.",
+  "question": "42세 여성이 6개월 전부터 심해진 지속적인 과도한 걱정과 불안감을 주소로 내원하였다. 환자는 일상적인 일들(자녀의 학교 성적, 재정 상태, 건강 문제 등)에 대해 통제하기 어려운 걱정을 하며, 이러한 걱정으로 인해 수면 장애, 집중력 저하, 과민함, 근육 긴장 등의 증상을 호소한다. 환자는 이전에 몇 차례 단기간 벤조디아제핀을 처방받았으나 효과가 일시적이었다고 한다. 신체적, 신경학적 검사에서 특이 소견은 없었으며, 갑상선 기능 검사와 기본 혈액 검사도 정상이었다. 이 환자에게 가장 적절한 장기 치료 계획은?",
+  "exam": "활력징후: 정상 범위\n일반혈액검사: 정상\n갑상선 기능검사(TSH, Free T4): 정상\n간 기능, 신장 기능 검사: 정상\n심전도: 정상",
+  "options": {
+    "A": "Diazepam 5mg 하루 3회 장기간 투여",
+    "B": "Escitalopram 10mg 하루 1회 투여 및 인지행동치료",
+    "C": "Haloperidol 5mg 하루 2회 투여",
+    "D": "Propranolol 20mg 하루 3회 투여",
+    "E": "Buspirone 15mg 단독 투여"
+  },
+  "answer": "B",
+  "explanation": "환자는 일반화불안장애(Generalized Anxiety Disorder, GAD)의 특징적인 증상을 보이고 있습니다. 일반화불안장애는 과도하고 지속적인 걱정, 근육 긴장, 집중력 저하, 수면 장애, 과민함 등의 증상을 특징으로 합니다. 일반화불안장애의 장기 치료로는 SSRI(선택적 세로토닌 재흡수 억제제)나 SNRI(세로토닌-노르에피네프린 재흡수 억제제)와 같은 항우울제가 일차 선택약물로 권장됩니다. Escitalopram은 SSRI로 일반화불안장애의 장기 치료에 효과적입니다. 또한 인지행동치료(CBT)는 불안장애 치료에 효과적인 비약물적 치료법으로, 약물치료와 병행 시 더 좋은 효과를 볼 수 있습니다. 벤조디아제핀(Diazepam)은 단기 치료나 증상 완화에는 효과적이지만, 내성, 의존성, 금단 증상 등의 위험으로 장기 사용은 권장되지 않습니다. Haloperidol은 항정신병 약물로 일반화불안장애 치료에는 적합하지 않습니다. Propranolol은 자율신경계 증상을 감소시킬 수 있지만 GAD의 주요 치료제는 아닙니다. Buspirone은 GAD에 효과가 있을 수 있지만, 단독 요법보다는 항우울제와 병용하거나 이차 치료제로 사용됩니다.",
+  "source": "NeurologyAdams_textbook_data_part2.txt: 'Tricyclic antidepressants and drugs that raise serotonin concentrations in the nervous system selective serotonin reuptake inhibitors SSRIs may also be effective in the prevention of panic attacks and agoraphobia, but their onset of action is delayed for weeks. They become useful for symptoms of anxiety that recur or persist for more than several months.' 및 'Cognitive-behavioral psychotherapy, which is discussed in relation to the treatment of depression in Chap... . 48, also appears to be useful in the treatment of panic disorder, according to Andreasen and Black.'",
+  "category": "Psychiatry"
+}
+
+{
+  "question_id": 5,
+  "chief complaint": "불안",
+  "purpose": "불안을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "35세 여성이 반복되는 심한 흉통과 호흡곤란으로 응급실에 내원하였다. 환자는 4개월 전부터 갑작스러운 가슴 두근거림, 숨 막힘, 질식감, 손발 저림, 현기증과 함께 죽음에 대한 공포를 경험하고 있다고 한다. 증상은 보통 10-30분간 지속되고 저절로 사라진다. 처음에는 쇼핑몰에서 증상이 시작되었으나, 점차 영화관, 지하철, 엘리베이터 등 탈출이 어려운 장소에서도 증상이 발생하였고, 최근에는 이러한 장소를 피하고 집에서 거의 나가지 않게 되었다고 한다. 이전에 심장 검사를 받았으나 정상이었다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "활력 징후: 혈압 135/85mmHg, 맥박 95회/분, 호흡 20회/분, 체온 36.7°C\n심전도: 동성 빈맥\n흉부 X선: 정상\n심장 효소 검사: 정상\n갑상선 기능 검사: 정상\n동맥혈 가스분석: 호흡성 알칼리증 소견(pH 7.48, PCO₂ 30mmHg)",
+  "options": {
+    "A": "광장공포증을 동반한 공황장애",
+    "B": "사회불안장애",
+    "C": "특정 공포증",
+    "D": "일반화불안장애",
+    "E": "갑상선기능항진증에 의한 불안장애"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 공황장애와 광장공포증의 특징을 모두 보이고 있습니다. 공황발작은 갑작스러운 극심한 불안이나 불편감이 수분 내에 최고조에 도달하는 것으로, 심계항진, 발한, 떨림, 호흡곤란, 질식감, 흉통, 어지러움, 현실감 상실, 통제력 상실에 대한 공포, 죽음에 대한 공포 등의 증상을 포함합니다. 이 환자는 이러한 공황발작을 반복적으로 경험하고 있으며, 추가적인 발작에 대한 지속적인 걱정과 함께 발작과 관련된 장소(쇼핑몰, 영화관, 지하철, 엘리베이터 등 탈출이 어려운 곳)를 회피하는 행동 변화를 보이고 있어 광장공포증을 동반한 공황장애에 합당합니다. 사회불안장애는 타인의 평가를 두려워하는 것이 주된 증상이고, 특정 공포증은 특정 대상이나 상황에 대한 두려움입니다. 일반화불안장애는 여러 활동이나 사건에 대한 과도한 걱정이 특징이며, 갑상선기능항진증에 의한 불안은 갑상선 기능검사에서 이상이 확인되어야 하나 본 환자는 정상입니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'Panic disorder refers to recurrent unexpected panic attacks Criterion A. A panic attack is an abrupt surge of intense fear or intense discomfort that reaches a peak within minutes, and during which time four or more of a list of 13 physical and cognitive symptoms occur.' 및 'Many patients experience a constant uneasiness that the spells may reoccur, especially in public hence the patient may be fearful of leaving home lest help not be available should an attack occur agoraphobia. Except in minor details, it is notable that the attacks are alike in any one individual.'",
+  "category": "Psychiatry"
+}
+
+{
+  "question_id": 6,
+  "chief complaint": "불안",
+  "purpose": "불안을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "40세 남성 환자가 6개월 전부터 간헐적으로 발생하는 발작적인 두통, 심계항진, 발한과 불안감으로 내원하였다. 증상은 갑자기 시작되어 약 15-30분간 지속되다가 저절로 호전되는 양상이며, 최근 빈도가 증가하고 있다고 한다. 환자는 발작 중에 창백해지고 혈압이 상승하며, 때로는 구역감과 복통을 동반한다고 한다. 환자는 고혈압으로 진단받았으며 현재 항고혈압제를 복용 중이다. 정신과적 평가에서 공황장애가 의심되어 알프라졸람을 처방받았으나 증상의 호전이 없었다. 이 환자에게 가장 적절한 검사는?",
+  "exam": "활력 징후: 혈압 150/95mmHg, 맥박 88회/분, 호흡 16회/분, 체온 36.5°C\n일반혈액검사: 정상\n공복혈당: 110mg/dL\n심전도: 동성리듬, LVH 소견\n24시간 활동 혈압 측정: 간헐적인 고혈압 에피소드(수축기 혈압 >180mmHg)",
+  "options": {
+    "A": "24시간 소변 카테콜아민 및 대사산물(메타네프린, 바닐릴만델산) 검사",
+    "B": "뇌 자기공명영상(MRI)",
+    "C": "갑상선 기능 검사(TSH, Free T4)",
+    "D": "혈중 코르티솔 및 ACTH 검사",
+    "E": "정신과 불안장애 평가척도"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 발작적인 두통, 심계항진, 발한, 불안감, 혈압 상승 등의 증상을 보이며, 이러한 증상은 크롬친화세포종(pheochromocytoma)을 강하게 시사합니다. 크롬친화세포종은 부신수질이나 교감신경절에서 기원하는 종양으로, 카테콜아민(에피네프린, 노르에피네프린)을 과다하게 분비하여 발작적인 고혈압, 두통, 발한, 심계항진, 불안 등의 증상을 유발합니다. 이러한 증상은 공황발작과 유사할 수 있으나, 알프라졸람과 같은 항불안제에 반응하지 않는 점이 크롬친화세포종을 의심하게 합니다. 크롬친화세포종의 진단을 위한 일차 검사로는 24시간 소변에서 카테콜아민과 그 대사산물(메타네프린, 바닐릴만델산)을 측정하는 것이 권장됩니다. 양성 결과가 나올 경우 복부 CT나 MRI로 종양의 위치를 확인합니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'Shorn of the psychologic components of apprehension and fear, the anxiety and panic attack consists essentially of an excessive autonomic, mainly sympathetic, discharge. Some of the autonomic symptoms are therefore duplicated by pheochromocytoma.' 및 'A number of medical conditions are known to include anxiety as a symptomatic manifes- tation. Examples include endocrine disease e.g., hyperthyroidism, pheochromocytoma, hypoglycemia, hyperadrenocortisolism, cardiovascular disorders e.g., congestive heart failure, pulmonary embolism, arrhythmia such as atrial fibrillation, respiratory illness e.g., chronic obstructive pulmonary disease, asthma, pneumonia, metabolic distur bances e.g., vitamin B12 deficiency, porphyria, and neurological illness e.g., neoplasms, vestibular dysfunction, encephalitis, seizure disorders.'",
+  "category": "Endocrinology"
+}
+
+{
+  "question_id": 7,
+  "chief complaint": "불안",
+  "purpose": "불안을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+  "question": "25세 여성 환자가 반복되는 불안 발작으로 내원하였다. 환자는 약 6개월 전부터 갑자기 심장이 빨리 뛰고, 호흡곤란, 어지러움, 손발 저림, 발한 등의 증상이 나타나며 죽을 것 같은 공포감을 느끼는 발작을 경험하고 있다. 발작은 보통 20-30분 정도 지속되며, 한 달에 2-3회 정도 나타난다. 환자는 미리 예측할 수 없이 증상이 갑자기 나타나는 것이 가장 괴롭다고 하며, 최근에는 추가적인 발작이 올까 봐 항상 걱정하고 있다. 환자는 어린 시절부터 내성적이었으나 정신과적 질환의 과거력은 없다. 다른 의학적 상태는 정상이며, 약물 남용이나 약물 복용력도 없다. 다음 중 이 환자의 증상을 가장 잘 설명하는 특성은?",
+  "exam": "활력 징후: 정상\n신체 검사: 정상\n심전도: 정상\n갑상선 기능 검사: 정상\n뇌 MRI: 정상",
+  "options": {
+    "A": "예상치 못한 공황발작(unexpected panic attack)을 특징으로 하는 공황장애",
+    "B": "특정 상황에서만 불안이 유발되는 사회불안장애",
+    "C": "만성적 걱정과 근심이 주된 특징인 일반화불안장애",
+    "D": "트라우마 경험 후에 발생하는 외상 후 스트레스 장애",
+    "E": "강박적 사고와 행동이 특징인 강박장애"
+  },
+  "answer": "A",
+  "explanation": "이 환자는 공황장애(panic disorder)의 전형적인 증상을 보이고 있습니다. 공황장애의 핵심 특징은 예상치 못한 반복적인 공황발작과 이후 추가적인 발작에 대한 지속적인 걱정입니다. 환자는 갑자기 발생하는 극심한 불안감과 함께 심계항진, 호흡곤란, 어지러움, 손발 저림, 발한, 죽음에 대한 공포 등의 증상을 경험하고 있으며, 이러한 발작이 갑자기 예측 불가능하게 발생하는 것이 특징입니다. 또한 추가적인 발작이 올까 봐 지속적으로 걱정하고 있는 것도 공황장애의 진단 기준에 부합합니다. 사회불안장애는 사회적 상황에서의 불안이 특징이며, 일반화불안장애는 다양한 일상 활동에 대한 만성적이고 과도한 걱정이 특징입니다. 외상 후 스트레스 장애는 트라우마 경험 후에 발생하며, 강박장애는 반복적인 강박적 사고와 행동이 특징입니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'The term recurrent literally means more than one unexpected panic attack. The term unex pected refers to a panic attack for which there is no obvious cue or trigger at the time of oc- currencethat is, the attack appears to occur from out of the blue, such as when the individual is relaxing or emerging from sleep nocturnal panic attack. In contrast, expected panic attacks are attacks for which there is an obvious cue or trigger, such as a situation in which panic attacks typically occur.'",
+  "category": "Psychiatry"
+}
+
+{
+  "question_id": 8,
+  "chief complaint": "불안",
+  "purpose": "불안이 있는 사람에게 적합한 치료 계획을 세울 수 있다.",
+  "question": "65세 남성이 2주 전부터 시작된 불안, 초조함, 불면증으로 내원하였다. 환자는 최근 흉통으로 응급실을 방문하여 협심증 진단을 받고 약물 치료를 시작하였으며, 그 이후로 증상이 시작되었다고 한다. 환자는 아침에 특히 증상이 심하고, 안절부절못하며, 식은땀을 흘리고, 손이 떨리는 증상을 호소한다. 과거 불안장애나 정신과적 질환의 병력은 없다. 현재 복용 중인 약물로는 aspirin 100mg/일, metoprolol 25mg 1일 2회, atorvastatin 20mg/일, diltiazem 30mg 1일 3회가 있다. 이 환자의 불안 증상에 대한 가장 적절한 치료 계획은?",
+  "exam": "활력 징후: 혈압 125/75mmHg, 맥박 62회/분, 호흡 16회/분, 체온 36.6°C\n신체 검사: 약간의 손떨림(tremor) 관찰됨\n일반혈액검사: 정상\n갑상선 기능 검사: 정상\n심전도: 정상 동성서맥",
+  "options": {
+    "A": "불안 증상 조절을 위해 alprazolam 0.25mg 1일 3회 추가",
+    "B": "diltiazem을 중단하고 다른 칼슘채널차단제로 교체",
+    "C": "metoprolol을 감량하거나 중단하고 경과 관찰",
+    "D": "buspirone 5mg 1일 3회 추가",
+    "E": "escitalopram 10mg 1일 1회 추가"
+  },
+  "answer": "C",
+  "explanation": "이 환자는 협심증 치료를 시작한 후 불안 증상이 발생했으며, 증상의 특성(아침에 심한 증상, 초조함, 발한, 손떨림)은 약물 부작용, 특히 베타차단제(metoprolol)로 인한 부작용을 시사합니다. 베타차단제는 불안 증상을 완화시키는 데 사용될 수도 있지만, 일부 환자에서는 역설적으로 불안, 악몽, 불면증, 우울증 등의 정신과적 부작용을 유발할 수 있습니다. 이러한 경우, 베타차단제를 감량하거나 중단하는 것이 가장 적절한 치료 방법입니다. 환자가 이전에 불안장애 병력이 없었고, 약물 복용 후 증상이 시작되었다는 점을 고려할 때, 약물 유발성 불안을 의심해야 합니다. 약물 유발성 불안이 의심될 경우, 원인 약물을 중단하거나 대체하는 것이 근본적인 치료입니다. 추가적인 불안 약물을 처방하기 전에 먼저 원인 약물을 조정해보는 것이 바람직합니다.",
+  "source": "Psichiatry_DSM-5_textbook_data.txt: 'Substancemedication-induced anxiety disorder. A substancemedication-induced anxiety disorder is distinguished from generalized anxiety disorder by the fact that a sub- stance or medication e.g., a drug of abuse, exposure to a toxin is judged to be etiologically related to the anxiety. For example, severe anxiety that occurs only in the context of heavy coffee consumption would be diagnosed as caffeine-induced anxiety disorder.' 및 'Substancemedication-induced anxiety disorder is judged to be etiologically related to the substancemedication.'",
+  "category": "Psychiatry"
+},
+{
+"question_id": 9,
+"chief complaint": "불안",
+"purpose": "불안을 호소하는 사람에게서 병력청취와 신체진찰을 통하여 원인을 감별할 수 있다.",
+"question": "68세 남성 환자가 최근 2개월간 악화된 불안감과 초조함, 수면 장애를 주소로 내원하였다. 환자는 과거에 고혈압과 당뇨병으로 약물 치료를 받고 있으며, 최근에는 가족과의 관계에서 갈등이 있었던 것으로 알려졌다. 신체검사에서 혈압은 150/90mmHg, 맥박은 88회/분으로 안정적이며, 신경학적 검사와 신체검사는 특이 소견이 없다. 환자는 최근 스트레스와 우울 증상도 함께 호소하고 있으며, 자주 심장이 두근거리고, 가끔 어지러움을 느낀다고 한다. 이 환자의 가장 가능성 높은 진단은?",
+"exam": "활력징후: 혈압 150/90mmHg, 맥박 88회/분, 호흡 16회/분, 체온 36.7°C\n심전도: 정상 동리듬\n혈액검사: 혈당, 전해질, 갑상선 검사 모두 정상\n기분 및 불안 평가 척도: 점수 상승",
+"options": {
+"A": "일반화불안장애",
+"B": "우울증에 동반된 불안",
+"C": "약물 유발 불안",
+"D": "심장질환 관련 불안",
+"E": "만성 스트레스에 의한 적응 장애"
+},
+"answer": "B",
+"explanation": "이 환자는 우울증과 함께 동반된 불안 증상을 보여, 우울증에 따른 불안장애 가능성을 고려해야 합니다. 노인 환자에서 우울증은 종종 불안, 수면장애, 신체 증상과 함께 나타나며, 이러한 경우 우울증 치료가 우선입니다. 신체검사와 검사 결과는 혈압과 심전도 등에서 특별한 이상이 없으며, 스트레스와 가족 갈등이 우울증을 유발하거나 악화시킬 수 있습니다. 따라서 우울증과 관련된 불안으로 판단되어, 항우울제와 심리사회적 치료 병행이 적합합니다.",
+"source": "Psichiatry_DSM-5_textbook_data.txt: 'Depression in the elderly often presents with somatic complaints and anxiety symptoms, which may be mistaken for physical illness. Comorbid depression and anxiety are common in older adults and require integrated treatment approaches.'",
+"category": "Psychiatry"
+} {
+"question_id": 10,
+"chief complaint": "불안",
+"purpose": "불안을 호소하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+"question": "55세 여성 환자가 최근 3개월간 지속되는 불안과 함께 가슴 두근거림, 손 떨림, 땀 흘림, 안절부절 못하는 증상으로 내원하였다. 환자는 과거에 갑상선 기능항진증이 있었으며, 최근에 체중이 3kg 감소하고, 열감과 땀이 많이 난다고 한다. 신체검사에서 맥박은 110회/분, 혈압은 140/85mmHg이며, 갑상선이 약간 커져 있다. 혈액 검사에서 TSH는 낮고, Free T4는 높게 나왔다. 이 환자에게 가장 적합한 치료는 무엇인가?",
+"exam": "혈액 검사: TSH 낮음, Free T4 높음; 갑상선 초음파: 갑상선 결절 및 비대 소견\n심전도: 빈맥\n기타 검사: 혈당, 전해질 정상",
+"options": {
+"A": "항갑상선제(예: methimazole) 시작",
+"B": "β-차단제(예: propranolol) 단기 사용",
+"C": "항우울제(예: escitalopram) 시작",
+"D": "요오드 방사선 치료",
+"E": "수술적 갑상선 절제술"
+},
+"answer": "A",
+"explanation": "이 환자는 갑상선 기능항진증(그레이브스병 등)의 전형적 증상과 검사 결과를 보입니다. 갑상선 기능항진증은 자율신경계 과활성으로 인한 심계항진, 불안, 손떨림, 체중감소, 열감 등을 유발하며, 치료는 항갑상선제(예: methimazole)가 가장 근본적입니다. β-차단제는 증상 완화에 도움을 주지만, 근본 치료는 아닙니다. 항우울제는 증상 조절에 도움될 수 있으나, 우선적으로 갑상선 기능을 정상화하는 것이 중요하며, 방사선 치료나 수술은 보통 약물 치료로 조절이 어려운 경우 고려됩니다. 따라서 항갑상선제 치료가 가장 적합합니다.",
+"source": "Pathoma_Husain_textbook_data.txt: 'Thyrotoxicosis causes symptoms of sympathetic overactivity, including tachycardia, tremor, heat intolerance, and anxiety. The primary treatment involves antithyroid drugs such as methimazole.'",
+"category": "Endocrinology"
+}
 ]
