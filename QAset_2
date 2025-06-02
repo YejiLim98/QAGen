@@ -2288,5 +2288,185 @@
     "explanation": "이 환자는 곰팡이 습기와 곰팡이 냄새가 있는 환경 노출과 피부 가려움, 결막 충혈, 비강 부종이 동반된 점으로 곰팡이성 비염(곰팡이증) 가능성이 높다. 곰팡이성 비염은 만성적이고 재발하는 특징이 있으며, 습한 환경에서 흔히 발생한다. 치료는 환경 개선과 항진균제 투여가 필요하다[1][2].",
     "source": "Pathology_Robbins_textbook_data.txt - 'Fungal rhinitis is a rare but serious condition often associated with immunocompromised states or environmental exposure to molds, presenting with nasal congestion, sinusitis, and tissue necrosis.'",
     "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+  },
+ {
+    "question_id": 1,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 발달을 평가하여 정상 변이와 비정상적인 발달을 감별할 수 있다.",
+    "question": "7세 여아가 3개월 전부터 유방발달이 시작되어 산부인과에 내원하였다. 어머니는 자녀가 또래보다 키가 크고 성장이 빠른 것 같다고 걱정하며 방문하였다. 환아는 출생 체중 3.2kg으로 정상 분만되었으며, 과거 특별한 병력은 없었다. 가족력상 어머니는 12세에 초경을 하였고, 할머니도 12세경에 초경을 하였다고 한다. 신체검진에서 키 125cm (90백분위수), 체중 26kg (85백분위수)이었으며, Tanner stage 2의 유방발달이 관찰되었다. 음모는 관찰되지 않았고, 액모나 체취는 없었다. 이 환아에서 가장 가능성이 높은 진단은?",
+    "exam": "골연령: 8세 6개월\nLH: 2.1 mIU/mL (prepubertal: <0.6 mIU/mL, pubertal: >5.0 mIU/mL)\nFSH: 3.2 mIU/mL (prepubertal: <2.0 mIU/mL, pubertal: >8.0 mIU/mL)\nEstradiol: 18 pg/mL (prepubertal: <15 pg/mL)",
+    "options": {
+      "A": "정상 발달 변이",
+      "B": "중추성 성조숙증",
+      "C": "말초성 성조숙증",
+      "D": "조기 유방발달증(premature thelarche)",
+      "E": "McCune-Albright 증후군"
+    },
+    "answer": "B",
+    "explanation": "7세 여아에서 유방발달이 시작된 것은 성조숙증에 해당한다. 최근 기준으로는 백인 여아에서 7세 이전, 흑인 여아에서 6세 이전의 유방발달을 성조숙증으로 정의한다. 골연령이 실제 연령보다 진행되어 있고, LH와 FSH가 전사춘기 수치보다 높으나 아직 사춘기 수치에는 미치지 않는 점, 에스트라디올이 경계수치인 점을 고려할 때 중추성 성조숙증 초기 소견에 부합한다. 조기 유방발달증의 경우 골연령 진행이나 성장 촉진 없이 단순히 유방조직만 나타나는 것으로, 이 환아의 소견과는 맞지 않는다.",
+    "source": "File: Pediatrics_Nelson_textbook_data.txt - 'Sexual precocity precocious puberty is classically defined as secondary sexual development occurring before the age of 9 years in boys or 8 years in girls'",
+    "category": "Pediatrics"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 병력청취와 신체진찰을 하여 원인질환을 감별할 수 있다.",
+    "question": "5세 남아가 음경 비대와 음모 발생으로 내원하였다. 출생 시 정상이었으나 3개월 전부터 성기 크기가 증가하였다고 한다. 신체검사 시 신장 110cm (95백분위수), 혈압 110/70 mmHg. 고환 크기 양측 1ml일 때, 가장 가능성 높은 진단은?",
+    "exam": "LH: 0.3 mIU/mL (정상: <0.3)\nFSH: 0.4 mIU/mL (정상: <1.5)\nTestosterone: 250 ng/dL (정상: <20)\n17-OHP: 45 ng/mL (정상: <3)",
+    "options": {
+      "A": "중추성 성조숙증",
+      "B": "선천성 부신과형성증",
+      "C": "고환 레이디히세포종",
+      "D": "가족성 남성 제한성 성조숙증",
+      "E": "갑상선기능저하증"
+    },
+    "answer": "B",
+    "explanation": "21-수산화효소 결핍증(CAH)의 전형적 소견입니다. 고환 크기가 작은 반면(testicular volume 1ml) 남성화 징후가 나타나며, 17-OHP와 안드로스텐디온의 현저한 상승이 특징입니다[1]. LH/FSH가 억제된 상태에서 테스토스테론 상승은 말초성 원인을 시사합니다. CAH 환자에서 부신 과형성으로 인한 안드로겐 과다분비가 발생합니다.",
+    "source": "File: InternalMed_Harrison_textbook_data.txt - 'Boys with congenital adrenal hyperplasia (CAH) who are not well controlled... develop premature virilization because of excessive androgen production'",
+    "category": "Endocrinology"
+  },
+ {
+    "question_id": 3,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "15세 남학생이 또래에 비해 키가 작고 이차 성징이 나타나지 않는다는 주소로 내원하였다. 환자는 출생 시 정상이었으며, 만성질환의 과거력은 없었다. 아버지는 16세에 변성기가 시작되었고, 삼촌도 늦게 사춘기가 시작되었다고 한다. 신체검진에서 키 155cm (3백분위수), 체중 42kg (10백분위수)였으며, 고환 크기는 양측 모두 2.0cm였다. 음모나 액모는 관찰되지 않았고, 변성기도 시작되지 않았다. 후각기능은 정상이었다. 이 환자에게서 체질성 사춘기 지연과 성선기능저하증을 감별하기 위한 가장 적절한 검사는?",
+    "exam": "골연령: 12세 6개월\nLH: 0.4 mIU/mL (prepubertal range)\nFSH: 1.1 mIU/mL (prepubertal range)\nTestosterone: 0.8 ng/mL (prepubertal: <1.0 ng/mL, adult: 3.0-10.0 ng/mL)",
+    "options": {
+      "A": "염색체 검사",
+      "B": "GnRH 자극검사",
+      "C": "hCG 자극검사",
+      "D": "뇌 MRI",
+      "E": "정액검사"
+    },
+    "answer": "B",
+    "explanation": "체질성 사춘기 지연과 성선기능저하증의 감별에서 GnRH 자극검사가 가장 유용하다. 체질성 지연의 경우 뇌하수체가 아직 충분히 성숙하지 않아 기저 성선자극호르몬은 낮지만, GnRH 자극 시 정상적인 반응을 보일 수 있다. 반면 진성 성선기능저하증에서는 GnRH 자극에도 불구하고 LH, FSH 반응이 미약하다. 가족력상 아버지와 삼촌의 늦은 사춘기 시작은 체질성 지연을 시사하지만, 15세까지 전혀 사춘기 징후가 없는 점에서 감별진단이 필요하다. 골연령이 실제 연령보다 2.5년 지연된 것도 체질성 지연을 시사하는 소견이다.",
+    "source": "File: harrison_textbook_data_part4.txt - 'Pituitary priming by pulsatile GnRH is required before LH and FSH are synthesized and secreted normally. Thus, blunted responses to exogenous GnRH can be seen in patients with constitutional delay, GnRH deficiency, or pituitary disorders'",
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상이 있는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "14세 여학생이 무월경을 주소로 내원하였다. 환자는 키가 작아서 고민이 많았으며, 또래에 비해 유방발달도 거의 없는 상태였다. 환자는 출생 시 체중 2.8kg으로 정상 분만되었으나, 어릴 때부터 키가 작았다고 한다. 과거력상 특별한 질환은 없었으며, 가족력에서도 특이 소견은 없었다. 신체검진에서 키 142cm (3백분위수 미만), 체중 38kg (10백분위수)였으며, 목이 짧고 뒤웹목(webbed neck) 소견이 관찰되었다. 유방은 Tanner stage 1 상태였으며, 음모도 거의 관찰되지 않았다. 이 환자에서 가장 가능성이 높은 진단은?",
+    "exam": "LH: 28.5 mIU/mL (markedly elevated)\nFSH: 45.2 mIU/mL (markedly elevated)\nEstradiol: 8 pg/mL (very low)\n심장초음파: 대동맥 협착 의심 소견\n염색체 검사: 45,X",
+    "options": {
+      "A": "체질성 사춘기 지연",
+      "B": "Turner 증후군",
+      "C": "Kallmann 증후군",
+      "D": "기능성 성선기능저하증",
+      "E": "다낭성 난소 증후군"
+    },
+    "answer": "B",
+    "explanation": "Turner 증후군의 전형적인 임상양상과 검사 소견을 보이고 있다. 특징적인 외형(저신장, 뒤웹목), 일차성 무월경, 일차성 성선기능부전(높은 LH/FSH, 낮은 estradiol)과 45,X 염색체 핵형이 진단을 확정한다. Turner 증후군은 성선이형성증으로 인한 일차성 성선기능부전의 가장 흔한 원인이다. 성선자극호르몬이 현저히 상승한 것은 난소 기능 부전에 대한 이차적 반응이며, 이는 체질성 지연이나 중추성 원인과 감별되는 소견이다. 심장 기형(대동맥 협착) 동반 가능성도 Turner 증후군을 시사하는 소견이다.",
+    "source": "File: Pediatrics_Nelson_textbook_data.txt - 'Turner syndrome, the syndrome of gonadal dysgenesis, is a common cause of ovarian failure and short stature. The karyotype is classically 45,XO, but other abnormalities of the X chromosome or mosaicism are possible'",
+    "category": "Pediatrics"
+  },
+	{
+    "question_id": 5,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 병력청취와 신체진찰을 하여 원인질환을 감별할 수 있다.",
+    "question": "16세 남학생이 키가 크고 팔다리가 길며, 여성형 유방이 있어서 내원하였다. 환자는 학습능력이 약간 떨어지는 편이었으며, 성격이 내성적이고 사회성이 부족하다고 어머니가 걱정하였다. 사춘기는 정상 시기에 시작되었으나 이차 성징의 발달이 또래에 비해 불완전한 것 같다고 하였다. 신체검진에서 키 185cm (97백분위수), 체중 68kg (75백분위수), 팔 길이/키 비율이 1.05였다. 양측 고환 크기는 각각 1.8cm, 2.0cm로 작았으며, 경도의 여성형 유방이 관찰되었다. 이 환자에서 가장 가능성이 높은 진단은?",
+    "exam": "LH: 18.2 mIU/mL (elevated)\nFSH: 32.8 mIU/mL (markedly elevated)\nTestosterone: 2.1 ng/mL (low-normal for age)",
+    "options": {
+      "A": "Marfan 증후군",
+      "B": "Klinefelter 증후군",
+      "C": "체질성 사춘기 지연",
+      "D": "특발성 여성형 유방",
+      "E": "기능성 성선기능저하증"
+    },
+    "answer": "B",
+    "explanation": "Klinefelter 증후군의 전형적인 임상 소견들이 나타나고 있다. 고신장, 긴 팔다리, 작은 고환, 여성형 유방, 학습장애 및 사회성 부족이 특징적이다. FSH의 현저한 상승은 정세관 기능 장애를 시사하며, 이는 Klinefelter 증후군에서 가장 먼저 나타나는 소견이다. LH도 상승되어 있으나 testosterone은 아직 정상 하한선 수준으로, 이는 Leydig cell 기능이 FSH보다 늦게 영향을 받기 때문이다. 사춘기 시작은 정상적이나 이차 성징 발달이 불완전한 것도 이 질환의 특징이다.",
+    "source": "File: Pediatrics_Nelson_textbook_data.txt - 'Klinefelter syndrome seminiferous tubular dysgenesis isthe most common cause of testicular failure. The karyotype is47,XXY, but variants with more X chromosomes are possible. Theincidence is approximately 1 in 500 to 1 in 1000 in males'",
+    "category": "Endocrinology"
+  },
+{
+    "question_id": 6,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상이 있는 사람에게 원인에 따른 기본적인 치료 계획을 수립할 수 있다.",
+    "question": "8세 남아가 6개월 전부터 음성 변화, 음모 발생, 체취가 시작되어 내원하였다. 환아는 최근 키가 급격히 자라고 근육량이 증가하였으며, 성적 행동에 관심을 보이기 시작하였다. 신체검진에서 키 135cm (97백분위수), 체중 32kg (95백분위수)였으며, 양측 고환 크기는 각각 3.5cm, 3.8cm였다. Tanner stage 3의 음모가 관찰되었고, 변성기가 진행 중이었다. 뇌 MRI에서 시상하부에 1.2cm 크기의 hamartoma가 발견되었다. 이 환아에게 가장 적절한 치료는?",
+    "exam": "골연령: 11세\nLH: 8.5 mIU/mL (pubertal range)\nFSH: 6.2 mIU/mL (pubertal range)\nTestosterone: 4.2 ng/mL (pubertal range)\nGnRH 자극검사: LH 최대값 25.3 mIU/mL (pubertal response)",
+    "options": {
+      "A": "경과 관찰",
+      "B": "GnRH 유사체 (leuprolide) 투여",
+      "C": "ketoconazole 투여",
+      "D": "즉시 뇌수술",
+      "E": "aromatase inhibitor 투여"
+    },
+    "answer": "B",
+    "explanation": "중추성 성조숙증(GnRH-dependent precocious puberty)에 대한 치료로 GnRH 유사체가 1차 선택이다. 이 환아는 8세 남아에서 이차 성징이 나타난 성조숙증이며, 고환 크기 증가와 성선자극호르몬의 사춘기 양상 반응으로 중추성임이 확인되었다. 시상하부 hamartoma는 중추성 성조숙증의 원인이지만, 대부분 양성이므로 수술적 치료보다는 GnRH 유사체를 통한 내과적 치료가 우선된다. GnRH 유사체는 지속적인 자극을 통해 뇌하수체 수용체를 down-regulation시켜 성선자극호르몬 분비를 억제한다. Ketoconazole이나 aromatase inhibitor는 말초성 성조숙증 치료에 사용된다.",
+    "source": "File: harrison_textbook_data_part4.txt - 'In patients with idiopathic CPP, long-acting GnRH analogues can be used to suppress gonadotropins and decrease testosterone, halt early pubertal development, delay accelerated bone maturation, prevent early epiphyseal closure, promote final height gain'",
+    "category": "Pediatrics"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "18세 남성이 일차성 생식샘기능저하증으로 내원하였다. 후각 소실 동반하였고 신체검진에서 고환 크기 3ml의 소견이 관찰되었다고 할 때 환자에게 다음으로 가장 필요한 검사는?",
+    "exam": "LH: 1.2 mIU/mL (정상: 1.7-8.6)\nFSH: 1.8 mIU/mL (정상: 1.5-12.4)\nTestosterone: 0.8 ng/mL (정상: 3.0-10.0)",
+    "options": {
+      "A": "고환 생검",
+      "B": "뇌 MRI",
+      "C": "염색체 검사",
+      "D": "GnRH 자극검사",
+      "E": "ACTH 측정"
+    },
+    "answer": "B",
+    "explanation": "후각 소실을 동반한 일차성 생식샘기능저하증은 칼만 증후군을 시사합니다. 시상하부의 GnRH 뉴런 형성 장애로 인해 발생하며, 뇌 MRI에서 후각구 발달 이상을 확인해야 합니다[1]. 저 LH/FSH와 저 테스토스테론이 특징이며, GnRH 자극검사에서 반응 부진을 보입니다.",
+    "source": "File: InternalMed_Harrison_textbook_data.txt - 'Kallmann syndrome is characterized by GnRH deficiency and anosmia...'",
+    "category": "Endocrinology"
+  }
+{
+    "question_id": 8,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상을 의심하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "4개월 된 여아가 성장 지연과 황달 지속을 주소로 내원하였다. 출생 시 체중 3.1kg(50백분위수)였으나 현재 체중 4.2kg(3백분위수)로 성장 곡선에서 현저히 떨어졌다. 보호자는 아이가 우유를 잘 먹지 않고 변비가 심하다고 호소하였다. 신체검진에서 대천문이 3cm로 넓게 열려 있었고, 근력 저하가 관찰되었다. 혀가 두꺼워 보이며 피부는 건조한 상태였다. 이 환자에서 가장 먼저 시행해야 할 검사는?",
+    "exam": "TSH: 98 mIU/L (정상 신생아: 1.7-9.1)\nFree T4: 0.3 ng/dL (정상: 0.9-2.3)\n빌리루빈 총량: 4.5 mg/dL (직접형 0.2 mg/dL)\n골연령: 출생 시 수준",
+    "options": {
+      "A": "뇌 MRI",
+      "B": "갑상선 초음파",
+      "C": "염색체 검사",
+      "D": "부신 CT",
+      "E": "골반 초음파"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 선천성 갑상선기능저하증의 전형적 소견을 보입니다. TSH의 현저한 상승(98 mIU/L)과 Free T4 저하(0.3 ng/dL)가 1차성 갑상선기능저하증을 확진합니다. 갑상선 초음파는 갑상선 무형성증이나 이소성 갑상선 확인에 필수적입니다[1]. 신생아 선별검사에서 TSH 상승이 확인되지 않은 경우, 후천적 원인(자가면역 갑상선염 등)도 고려해야 하지만, 이 경우 출생 후 성장 장애와 대천문 확대가 선천성 형태를 시사합니다.",
+    "source": "File: Pediatrics_Nelson_textbook_data.txt - 'Congenital hypothyroidism occurs in 1:4000 live births and is characterized by elevated TSH with low free T4. Thyroid ultrasound is critical to confirm thyroid dysgenesis'",
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 9,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상이 있는 사람에게서 원인질환을 감별할 수 있다.",
+    "question": "16세 여학생이 일차 무월경을 주소로 내원하였다. 신체검진에서 키 168cm(75백분위수), 유방 발달은 Tanner stage 4이었으나 음모와 액모가 거의 없었으며, 질 검진에서 단순성 질 구조가 확인되었다. 가장 가능성 높은 진단은?",
+    "exam": "LH: 25 mIU/mL (정상: 1.0-11.5)\nFSH: 30 mIU/mL (정상: 1.0-9.0)\nTestosterone: 50 ng/dL (정상: 20-75)\n염색체 검사: 46,XX",
+    "options": {
+      "A": "터너 증후군",
+      "B": "안드로겐 무감응 증후군",
+      "C": "선천성 부신 과형성",
+      "D": "다낭성 난소 증후군",
+      "E": "뇌하수체 선종"
+    },
+    "answer": "B",
+    "explanation": "안드로겐 무감응 증후군(완전형)은 46,XX 핵형에 정상 여성형 외생식기를 가지지만 질 상부가 막힌 상태입니다. 고환 조직이 복강 내에 존재하며, LH 상승과 정상 남성 범위의 테스토스테론 수치가 특징입니다[2]. 음모/액모 부재는 안드로겐 수용체 결함으로 인한 현상입니다.",
+    "source": "File: InternalMed_Harrison_textbook_data.txt - 'Complete androgen insensitivity syndrome is characterized by 46,XY karyotype, female external genitalia, and absence of pubic/axillary hair'",
+    "category": "Endocrinology"
+  },
+  {
+    "question_id": 10,
+    "chief_complaint": "사춘기 발달이상",
+    "purpose": "사춘기 발달이상이 있는 사람에게 적합한 치료 계획을 수립할 수 있다.",
+    "question": "19세 여성이 2차 성징 발달 지연과 무월경을 주소로 내원하였다. 신체검진에서 키 155cm(10백분위수), 유방 발달 Tanner stage 2, 음모 Tanner stage 1이었다. 혈액검사에서 FSH 40 mIU/mL(정상: 1.0-9.0), LH 35 mIU/mL(정상: 1.0-11.5)로 나타났다. 가장 적절한 치료는?",
+    "exam": "염색체 검사: 46,XX\n자궁 초음파: 자궁 크기 감소(길이 4cm)\n골연령: 14세",
+    "options": {
+      "A": "성선자극호르몬 분비호르몬(GnRH) 유사체 투여",
+      "B": "에스트로겐-프로게스테론 순차 요법",
+      "C": "성장호르몬 투여",
+      "D": "덱사메타손 투여",
+      "E": "메트포르민 투여"
+    },
+    "answer": "B",
+    "explanation": "일차성 난소 부전(POI)에서 에스트로겐-프로게스테론 순차 요법은 2차 성징 발달을 유도하고 골밀도 감소를 예방합니다[3]. 고 FSH/LH 수치는 난소 기능 저하를 반영하며, 염색체 정상 소견으로 터너 증후군을 배제할 수 있습니다.",
+    "source": "File: Obstentrics_Williams_textbook_data.txt - 'Primary ovarian insufficiency requires hormone replacement therapy to induce secondary sexual characteristics and maintain bone health'",
+    "category": "Gynecology"
   }
 ]
