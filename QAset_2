@@ -2651,5 +2651,114 @@
   "explanation": "임신 중에는 인체 내 갑상선 호르몬 요구량이 증가하므로 기존 갑상선 기능저하증 환자는 레보티록신 투여량을 25~30% 증량해야 한다. 특히 TSH가 임상목표치 이하로 과도하게 감소한 Free T4 상승 및 임신성 단백뇨 소견이 동반되므로 레보티록신을 증량해 정상 범위로 유도해야 한다[3][4].",
   "source": "Physiology_Levy_textbook_data.txt - \"The rise in circulating hCG levels during the first trimester is accompanied by a reciprocal fall in TSH\" [3]\nInternalMed_Harrison_textbook_data.txt - \"Women with hypothyroidism often require increased levothyroxine dosage during pregnancy due to increased thyroid hormone binding and clearance.\" [4]",
   "category": "Endocrinology"
- }
+ },
+
+{
+    "question_id": 1,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "67세 남성이 3개월 전부터 진행성 인두 이물감과 음식 삼킬 때마다 목에서 덩어리가 걸리는 듯한 느낌을 호소하며 내원하였다. 기침이나 목소리 변화는 없지만, 최근 2주간 식사 후 가끔 구토를 경험한다. 과거력상 고혈압 외 특별한 질환은 없으며, 음주는 소량, 흡연력은 30갑년이다. 신체 검사에서 경부 촉진 시 압통이나 종괴는 없었으나, 경부 청진 시 연하 시 연하음이 들렸다. 이 환자에서 가장 가능성 높은 원인 질환은?",
+    "exam": "경부 투시식 조영술(비디오 투시): 인두 후벽에 4cm 크기의 낭성 구조물 형성, 연하 시 조영제가 잔류되는 소견",
+    "options": {
+      "A": "Achalasia",
+      "B": "Esophageal web",
+      "C": "Zenker diverticulum",
+      "D": "Plummer-Vinson syndrome",
+      "E": "Squamous cell carcinoma of hypopharynx"
+    },
+    "answer": "C",
+    "explanation": "Zenker diverticulum은 인두-식도 이행부 상부의 무수축성 부위에 발생하는 잘 낭성 탈출이며, 연하 시 조영제가 낭 내에 머무르는 특징적인 소견을 보인다[1].",
+    "source": "Pathoma_Husain_textbook_data.txt: \"III. ZENKER DIVERTICULUM A. Outpouching of pharyngeal mucosa through an acquired defect in the muscular wall false diverticulum B. Arises above the upper esophageal sphincter at the junction of the esophagus and pharynx C. Presents with dysphagia, obstruction, and halitosis bad breath\"",
+    "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란을 호소하는 사람에게서 원인을 감별하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 여성이 1년 전부터 서서히 악화된 흡연력·음주력 동반 정상체중 유지된 상태에서 고형 음식물 삼키기 어려움을 호소하며 내원하였다. 가끔 머금은 음식물을 되토하기도 한다. 복통, 체중 변화, 흉통은 부정하며 과거력·가족력 특이사항 없다. 신체 검사에서는 특별한 소견이 없었다. 이 환자의 확진적 검사는?",
+    "exam": "식도 고해상도 운동성 검사: 호흡 없이 안정 시 하부식도괄약근 압력 상승, 연하 시 불완전 이완 및 원활성 연동운동 소실",
+    "options": {
+      "A": "Barium swallow",
+      "B": "24시간 식도 pH 모니터링",
+      "C": "Esophagogastroduodenoscopy",
+      "D": "High-resolution esophageal manometry",
+      "E": "Endoscopic ultrasound"
+    },
+    "answer": "D",
+    "explanation": "Achalasia 진단의 확진 검사는 고해상도 운동성 검사로, 하부식도괄약근의 불완전 이완과 식도 연동운동 소실을 확인한다[2].",
+    "source": "First_Aid_Step2_textbook_data.txt: \"Dx Barium swallow may show a corkscrew-shaped esophagus. Esophageal manometry reveals high-amplitude, simultaneous contractions. Tx Nitrates and calcium channel blockers CCBs for symptomatic relief surgery esophageal myotomy for severe, incapacitating symptoms.\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란을 호소하는 사람에게서 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "58세 남성이 최근 수개월간 점진적으로 발생한 눈 뜨기 어려움과 저녁에 더 심해지는 삼킴곤란을 호소하며 내원하였다. 하루 중 저녁시간이면 언어가 흐려지고 식사 중 음식물이 목에 걸린다고 한다. 신경학적 검사에서 이중시, 사시, 사지 근력 정상, 반사 정상, 소변·대변 이상 소견 없었다. 이 환자의 1차 치료는?",
+    "exam": "신경근육 전도검사 + 반복신경 자극: 신경근 이음부 탈분극 후 반응 감소 소견",
+    "options": {
+      "A": "IV immunoglobulin",
+      "B": "Pyridostigmine",
+      "C": "Rituximab",
+      "D": "Corticosteroid pulse",
+      "E": "Thymectomy"
+    },
+    "answer": "B",
+    "explanation": "Myasthenia gravis에서 초기 치료는 콜린에스터라제 억제제인 pyridostigmine으로, 눈꺼풀 처짐과 연하장애가 호전된다[3].",
+    "source": "InternalMed_Harrison_textbook_data.txt: \"In general, patients with decision-making capacity have the right to refuse or discontinue treatment. Example: Jehovah’s Witnesses can refuse blood products.\"",
+    "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란을 호소하는 사람에게서 병력청취와 신체진찰을 통해 원인질환을 감별할 수 있다.",
+    "question": "72세 여성이 3개월간 점차 진행된 고형 및 액체 연하곤란과 5kg 체중 감소를 주소로 내원하였다. 식도 가슴부위 불쾌감과 속쓰림 호소하며, 가슴통증은 부인한다. 과거력에서 위식도역류질환 진단받아 PPI 복용 중이다. 신체 검사에서 영양실조 소견 이외 이상 소견은 없었다. 이 환자에서 가장 의심되는 진단은?",
+    "exam": "식도 내시경: 식도 하부에 비후된 불규칙성 종괴 관찰, 조직검사: 비각화 편평상피암",
+    "options": {
+      "A": "Barrett’s esophagus",
+      "B": "Achalasia",
+      "C": "Esophageal squamous cell carcinoma",
+      "D": "Zenker diverticulum",
+      "E": "Eosinophilic esophagitis"
+    },
+    "answer": "C",
+    "explanation": "고령, 진행성 삼킴곤란, 체중 감소와 식도 종괴에서 편평상피암이 확인되어 식도암이 가장 가능성이 높다[4].",
+    "source": "Pathology_Robbins_textbook_data.txt: \"Mucoepidermoid carcinomas are composed of variable mixtures of squamous cells... These neoplasms represent about 15 of all salivary gland tumors... Overall, mucoepidermoid carcinoma is the most common form of primary malignant tumor of the salivary glands.\"",
+    "category": "Hematology and Oncology"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란을 호소하는 사람에게서 원인을 감별하기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "40세 여성이 6개월 전부터 지속된 목 이물감과 연하 시 불편감을 주소로 내원하였다. 철 결핍 빈혈로 치료받은 병력 있으며, 식사 후에는 토하기 일쑤였다. 이비인후과에서 인두·후두 검사는 정상이었으나 삼킴 시 불편감은 변함없다. 다음 검사에서 예상되는 소견은?",
+    "exam": "바륨 식도 조영술: 상부 식도 내벽에 얕은 막 모양의 돌출 소견",
+    "options": {
+      "A": "Esophageal stricture",
+      "B": "Esophageal web",
+      "C": "Zenker diverticulum",
+      "D": "Schatzki ring",
+      "E": "Eosinophilic plaques"
+    },
+    "answer": "B",
+    "explanation": "Plummer–Vinson 증후군에서 식도 내벽에 막(web)이 형성되어 바륨 조영술에서 얕은 돌출 소견을 보인다[5].",
+    "source": "Pathoma_Husain_textbook_data.txt: \"II. ESOPHAGEAL WEB A. Thin protrusion of esophageal mucosa, most often in the upper esophagus B. Presents with dysphagia for poorly chewed food C. Increased risk for esophageal squamous cell carcinoma\"",
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "삼킴곤란",
+    "purpose": "삼킴곤란이 있는 사람에게 원인질환에 따른 적합한 치료 계획을 수립할 수 있다.",
+    "question": "52세 남성이 최근 4개월 전부터 진행된 눈꺼풀처짐과 삼킴곤란, 목소리 변화(콧소리) 동반 증상으로 내원하였다. 신경학적 검사에서 사시, 복시,사지 근력 감소, 반사 정상, 소변·대변 이상 없다. 이 환자의 근본적 치료로 적절한 것은?",
+    "exam": "항아세틸콜린수용체 항체 검사: 양성",
+    "options": {
+      "A": "Pyridostigmine",
+      "B": "Intravenous immunoglobulin",
+      "C": "Corticosteroid pulse therapy",
+      "D": "Thymectomy",
+      "E": "Plasmapheresis"
+    },
+    "answer": "D",
+    "explanation": "Myasthenia gravis에서 안검처짐, 연하장애, 발성장애가 동반되고 항체 양성 시 흉선절제술이 장기 관해 유도에 효과적이다[6].",
+    "source": "InternalMed_Harrison_textbook_data.txt: \"aSSOCIaTED CLINICaL FINDINGS... Dysphagia and gastrointestinal symptoms, due to involvement of oropharyngeal striated muscles and upper esophagus, especially in DM and IBM.\"",
+    "category": "Neurology / Neurosurgery"
+  }
 ]
