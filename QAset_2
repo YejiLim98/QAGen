@@ -2468,5 +2468,188 @@
     "explanation": "일차성 난소 부전(POI)에서 에스트로겐-프로게스테론 순차 요법은 2차 성징 발달을 유도하고 골밀도 감소를 예방합니다[3]. 고 FSH/LH 수치는 난소 기능 저하를 반영하며, 염색체 정상 소견으로 터너 증후군을 배제할 수 있습니다.",
     "source": "File: Obstentrics_Williams_textbook_data.txt - 'Primary ovarian insufficiency requires hormone replacement therapy to induce secondary sexual characteristics and maintain bone health'",
     "category": "Gynecology"
-  }
+  },
+
+{
+    "question_id": 1,
+    "chief_complaint": "산전관리",
+    "purpose": "임신 중 매 방문시마다 기본 검사와 임신의 각 시기에 따른 선별검사 결과를 해석하고 결과 이상시 대책을 제시할 수 있다.",
+    "question": "28세 초산부가 임신 16주에 산전 검진을 위해 내원하였다. 환자는 특별한 증상은 없으나 태아 기형에 대한 걱정으로 선별검사를 원한다고 하였다. 과거력상 특이사항은 없으며, 가족력에서 다운증후군 환자는 없다. 신체검사에서 자궁저부 높이는 임신주수에 적합하고 태아심음은 정상이다.",
+    "exam": "혈액검사: AFP 0.3 MoM, β-hCG 2.8 MoM, uE3 0.4 MoM, inhibin A 2.2 MoM\n초음파검사: 태아 크기는 임신주수에 적합, 특이 소견 없음",
+    "options": {
+      "A": "검사 결과가 정상이므로 추가 검사는 불필요하다",
+      "B": "양수천자를 권한다",
+      "C": "융모막융모생검을 시행한다",
+      "D": "4주 후 재검사를 시행한다",
+      "E": "즉시 고해상도 초음파를 시행한다"
+    },
+    "answer": "B",
+    "explanation": "이 환자의 quad screening 결과에서 AFP와 uE3가 감소하고 β-hCG와 inhibin A가 증가한 소견은 다운증후군(trisomy 21)을 시사하는 전형적인 패턴입니다. Quad screening에서 trisomy 21의 경우 AFP 감소, β-hCG 증가, uE3 감소, inhibin A 증가 소견을 보이며, 이는 확진을 위한 침습적 검사(양수천자)의 적응증이 됩니다. 임신 16주는 양수천자가 가능한 시기이므로 정확한 진단을 위해 양수천자를 권해야 합니다.",
+    "source": "First_Aid_Step2_textbook_data.txt - 'Elevated MSAFP 2.5 MoMs Associated with open neural tube defects anencephaly, spina bifda, abdominal wall defects gastroschisis, omphalocele, multiple gestation, incorrect gestational dating, fetal death, and placental abnormalities e.g., placental abruption. Decreased MSAFP 0.5 MoM Associated with trisomy 21 and 18, fetal demise, and inaccurate gestational dating.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 2,
+    "chief_complaint": "산전관리",
+    "purpose": "고위험임신군을 감별하고 적절하게 관리할 수 있다.",
+    "question": "32세 경산부(임신 3회, 분만 2회)가 임신 26주에 정기 산전검진을 위해 내원하였다. 환자는 이전 임신에서 임신성 당뇨병을 앓은 병력이 있으며, 현재 임신에서도 체중이 임신 전보다 18kg 증가하였다. 환자는 최근 2주간 다뇨, 다음을 호소하고 있으며, 오늘 아침부터 시야가 흐려진다고 하였다. 신체검사에서 혈압 150/95 mmHg, 체중 78kg(임신 전 60kg), 자궁저부 높이 30cm이다.",
+    "exam": "혈액검사: 공복혈당 165 mg/dL, HbA1c 8.2%, 크레아티닌 1.2 mg/dL\n소변검사: 당 3+, 단백 2+\n50g 포도당 부하검사: 1시간 후 혈당 185 mg/dL",
+    "options": {
+      "A": "식이요법만으로 관리한다",
+      "B": "메트포르민을 처방한다",
+      "C": "인슐린 치료를 시작한다",
+      "D": "글리부라이드를 처방한다",
+      "E": "임신 종료를 고려한다"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 임신성 당뇨병의 고위험군으로, 공복혈당 165 mg/dL과 HbA1c 8.2%는 명백한 당뇨병을 의미합니다. 임신성 당뇨병에서 식이조절로 혈당 조절이 안 되는 경우(공복혈당 >100 mg/dL, 식후 2시간 혈당 >126 mg/dL) 인슐린 치료가 일차 치료입니다. 특히 태아 거대증 예방과 산모 합병증 예방을 위해 즉시 인슐린 치료를 시작해야 합니다. 메트포르민이나 글리부라이드도 사용되지만, 이 정도로 높은 혈당 수치에서는 인슐린이 가장 적절한 선택입니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt - 'Treatment of gestational diabetes with a two-step strategydietary intervention followed by insulin injections if diet alone does not adequately control blood sugar fasting glucose 5.6 mmolL 100 mgdL and 2-h postprandial glucose 7.0 mmolL 126 mgdL is associated with a decreased risk of birth trauma for the fetus.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 3,
+    "chief_complaint": "산전관리",
+    "purpose": "임신 중 금기 약물 및 위험성을 상담할 수 있다.",
+    "question": "24세 초산부가 임신 8주에 내원하였다. 환자는 임신 사실을 모르고 지난 4주간 지속적으로 음주를 하였다고 걱정하며 상담을 요청하였다. 매일 저녁 맥주 2-3캔 정도를 마셨다고 하며, 주말에는 더 많이 마셨다고 한다. 환자는 태아에게 미칠 영향에 대해 매우 걱정하고 있으며, 임신 지속 여부를 고민하고 있다. 과거력과 가족력에 특이사항은 없다.",
+    "exam": "혈액검사: β-hCG 25,000 mIU/mL, 간기능검사 정상\n초음파검사: 자궁내 임신 확인, 태아 크기는 임신주수에 적합",
+    "options": {
+      "A": "임신 종료를 권한다",
+      "B": "태아 기형의 위험이 매우 높으므로 정밀검사가 필요하다",
+      "C": "지금부터 금주하면 추가적인 위험은 없다고 안심시킨다",
+      "D": "지금부터 금주하고 정기적인 산전관리를 받도록 상담한다",
+      "E": "소량의 음주는 문제없으므로 하루 1잔 정도는 괜찮다고 한다"
+    },
+    "answer": "D",
+    "explanation": "임신 중 알코올 노출은 태아 알코올 스펙트럼 장애(FASD)를 일으킬 수 있지만, 임신 초기의 제한적 음주 노출이 반드시 심각한 기형을 일으키는 것은 아닙니다. DSM-5에 따르면 경도 음주(light drinking)는 월 1-13잔으로 정의되며, 이 환자의 음주량은 이를 초과하지만 즉시 임신 종료를 권할 정도는 아닙니다. 중요한 것은 지금부터 완전한 금주와 정기적인 산전관리를 통한 태아 발달 모니터링입니다. 임신 중 어떤 양의 알코올도 안전하다고 확정할 수 없으므로 완전한 금주를 권해야 합니다.",
+    "source": "Psichiatry_DSM-5_textbook_data.txt - 'Light drinking is defined as 113 drinks per month during pregnancy with no more than 2 of these drinks consumed on any 1 drinking occasion. Identifying a minimal threshold of drinking during pregnancy will require consideration of a variety of factors known to affect exposure and or interact to influence developmental outcomes, including stage of prenatal'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 4,
+    "chief_complaint": "산전관리",
+    "purpose": "임신 중 매 방문시마다 기본 검사와 임신의 각 시기에 따른 선별검사 결과를 해석하고 결과 이상시 대책을 제시할 수 있다.",
+    "question": "29세 초산부가 임신 11주에 초음파 검사를 받았다. 환자는 35세 이상이 아니지만 태아 염색체 이상에 대한 걱정으로 1차 삼분기 선별검사를 원한다고 하였다. 과거력상 특이사항은 없으며, 가족력에서 염색체 이상 환자는 없다. 산과력상 초산부이고 자연임신이다.",
+    "exam": "1차 삼분기 선별검사:\n- 목덜미 투명대(NT): 4.2mm (정상 <3.5mm)\n- free β-hCG: 0.3 MoM\n- PAPP-A: 0.2 MoM\n위험도 계산: 다운증후군 위험도 1:85",
+    "options": {
+      "A": "정상 소견이므로 2차 삼분기 검사를 시행한다",
+      "B": "융모막융모생검을 권한다",
+      "C": "양수천자를 권한다",
+      "D": "비침습적 산전검사(NIPT)를 시행한다",
+      "E": "추가 검사 없이 정기 산전관리만 시행한다"
+    },
+    "answer": "B",
+    "explanation": "1차 삼분기 선별검사에서 목덜미 투명대(NT) 4.2mm는 정상 범위(3.5mm 이하)를 초과하며, free β-hCG와 PAPP-A 모두 현저히 감소되어 있습니다. 다운증후군 위험도 1:85는 고위험(일반적으로 1:250 이하)에 해당합니다. 임신 11주에서는 융모막융모생검(CVS)이 가능하며, 이는 양수천자보다 더 이른 시기에 확진할 수 있는 장점이 있습니다. 높은 위험도를 고려할 때 확진을 위한 침습적 검사가 필요하며, 임신 주수상 CVS가 더 적절합니다.",
+    "source": "Pediatrics_Nelson_textbook_data.txt - 'During the first trimester, measurement of a fluid collection of the posterior neck of the developing fetus is termed nuchal translucency. An increase in the nuchal translucency is a marker for chromosomal anomalies as well as genetic and structural abnormalities in the fetus. Testing for abnormalities with two first trimester analytes, free-HCG and PAPP-A pregnancy associated plasma protein has enhanced first trimester screening to a detection rate of almost 90.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 5,
+    "chief_complaint": "산전관리",
+    "purpose": "고위험임신군을 감별하고 적절하게 관리할 수 있다.",
+    "question": "38세 경산부(임신 4회, 분만 3회)가 임신 32주에 내원하였다. 환자는 2주 전부터 두통과 상복부 통증을 호소하고 있으며, 어제부터 시야가 흐려진다고 하였다. 이전 임신에서는 특별한 문제가 없었다. 신체검사에서 혈압 165/110 mmHg, 맥박 100회/분, 호흡수 20회/분, 체온 36.8°C이며, 양측 하지에 함요부종이 관찰된다.",
+    "exam": "혈액검사: 혈소판 85,000/μL, AST 180 U/L, ALT 200 U/L, LDH 800 U/L, 총 빌리루빈 2.8 mg/dL\n소변검사: 단백뇨 3+, 24시간 소변 단백 4.2g\n말초혈액도말: 파쇄적혈구 관찰됨",
+    "options": {
+      "A": "마그네슘 황산염 투여 후 경과 관찰한다",
+      "B": "항고혈압제 투여 후 외래 추적관찰한다",
+      "C": "스테로이드 투여 후 즉시 분만을 시행한다",
+      "D": "수액 공급을 늘리고 안정가료한다",
+      "E": "혈압약만 처방하고 1주 후 재방문한다"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 전자간증의 중증 합병증인 HELLP 증후군(Hemolysis, Elevated Liver enzymes, Low Platelets)을 보이고 있습니다. 혈소판 감소(85,000/μL), 간효소 상승(AST 180, ALT 200), 파쇄적혈구의 존재는 HELLP 증후군의 전형적인 소견입니다. 이는 산모와 태아 모두에게 생명을 위협하는 상황으로, 태아 폐성숙을 위한 스테로이드 투여 후 즉시 분만이 필요합니다. 임신 32주에서 지연분만은 위험하며, 분만이 유일한 근본적 치료법입니다.",
+    "source": "First_Aid_Step2_textbook_data.txt - 'PREECLAMPSIA AND ECLAMPSIA 340 ANTEPARTUM HEMORRHAGE 342' and InternalMed_Harrison_textbook_data.txt - 'Pregnant women with gestational diabetes are at increased risk of stillbirth, preeclampsia, and delivery of infants who are large for their gestational age, with resulting birth lacerations, shoulder dystocia, and birth trauma including brachial plexus injury.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 6,
+    "chief_complaint": "산전관리",
+    "purpose": "임신 중 내과 또는 외과 질환을 적절하게 관리할 수 있다.",
+    "question": "26세 초산부가 임신 20주에 갑작스런 복통으로 응급실에 내원하였다. 환자는 6시간 전부터 시작된 우하복부 통증을 호소하며, 오심과 구토가 동반되었다. 발열은 없으나 식욕부진이 있다. 과거력상 특이사항은 없으며, 임신 경과는 정상이었다. 신체검사에서 맥박 95회/분, 혈압 120/80 mmHg, 체온 37.2°C이며, 우하복부에 압통과 반발통이 있다.",
+    "exam": "혈액검사: 백혈구 14,000/μL (호중구 85%), CRP 8.5 mg/dL\n초음파검사: 맹장 직경 8mm, 맹장벽 비후, 주변 염증 소견\n태아 초음파: 태아 상태 양호, 태아심박수 정상",
+    "options": {
+    	"A": "광범위 항생제 치료를 시작하고 48시간 후 재평가한다",
+    	"B": "진통제만 투여하고 경과를 관찰한다", 
+    	"C": "즉시 개복 충수절제술을 시행한다",
+    	"D": "임신 종료 후 수술을 시행한다",
+    	"E": "복강경 충수절제술을 시행한다"
+  	},
+    "answer": "E",
+    "explanation": "임신 중 충수염은 진단이 어려울 수 있지만, 이 환자는 전형적인 급성 충수염의 증상과 검사 소견을 보이고 있습니다. 임신 20주에서 충수염이 확진된 경우 복강경 충수절제술이 선호됩니다. 복강경 수술은 개복 수술에 비해 임신부에서 더 안전하며, 회복이 빠르고 합병증이 적습니다. 임신 2삼분기(14-28주)는 복강경 수술에 가장 적합한 시기입니다. 천공의 위험을 피하기 위해 조기 수술적 치료가 필요하며, 보존적 치료는 천공과 패혈증의 위험을 증가시킵니다.",
+    "source": "Surgery_Schwartz_textbook_data.txt - 'Laparoscopy The standard method for gynecologic laparoscopy follows the same methods as all minimally invasive surgery. In general, a camera port is placed near the umbilicus. Sometimes it must be placed more cephalad if the patient has a larger fibroid uterus.'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 7,
+    "chief_complaint": "산전관리",
+    "purpose": "임신 중 매 방문시마다 기본 검사와 임신의 각 시기에 따른 선별검사 결과를 해석하고 결과 이상시 대책을 제시할 수 있다.",
+    "question": "30세 경산부(임신 2회, 분만 1회)가 임신 35주에 정기 검진을 위해 내원하였다. 첫 번째 임신에서 Rh 동종면역이 발생했던 병력이 있다. 현재 임신에서도 태아는 Rh 양성으로 확인되었으며, 환자는 태아의 상태에 대해 걱정하고 있다. 최근 태동이 줄어든 것 같다고 호소한다.",
+    "exam": "혈액검사: 간접 Coombs test 양성, Anti-D 항체가 1:512\n초음파검사: 중대뇌동맥 최고수축기속도(MCA-PSV) 1.8 MoM\n태아 심박수 140회/분, 양수과다증 소견\n제대혈관 도플러: 이완기말속도 감소",
+    "options": {
+      "A": "2주 후 추적 관찰한다",
+      "B": "즉시 분만을 시행한다",
+      "C": "자궁내 수혈을 시행한다",
+      "D": "스테로이드를 투여한다",
+      "E": "Anti-D 면역글로불린을 투여한다"
+    },
+    "answer": "C",
+    "explanation": "이 환자는 Rh 동종면역으로 인한 중등도-중증 태아 빈혈을 보이고 있습니다. MCA-PSV가 1.8 MoM은 중등도 빈혈을 시사하며, 높은 Anti-D 항체가(1:512)와 양수과다증, 제대혈관 도플러 이상 소견은 태아 빈혈을 강력히 시사합니다. 임신 35주에서 폐성숙이 완성되지 않았으므로 즉시 분만보다는 자궁내 수혈이 적절합니다. 자궁내 수혈은 중등도 이상의 태아 빈혈에서 효과적인 치료법으로, 태아의 생존율을 크게 향상시킵니다.",
+    "source": "First_Aid_Step2_textbook_data.txt - 'Rh ISOIMMUNIZATION 345' and Obstentrics_Williams_textbook_data.txt - 'Society for Matenal-Fetal Medicine, Mari G, Norton ME, et al Society for Matenal-Fetal Medicine SMFM Clinical Guidelines 8 the fetus at risk for anemia-diagnosis and management. Am Obstet Gynecol 2126697, 2015'",
+    "category": "Obstetrics"
+  },
+  {
+    "question_id": 8,
+    "chief_complaint": "산전관리",
+    "purpose": "고위험임신군을 감별하고 적절하게 관리할 수 있다.",
+    "question": "42세 초산부가 임신 28주에 내원하였다. 환자는 불임 치료 후 쌍둥이를 임신하였으며, 최근 2주간 호흡곤란과 하지 부종이 악화되고 있다고 호소한다. 계단을 오를 때 숨이 차고, 밤에 누워있기 어려워 베개 2-3개를 받쳐야 잠을 잘 수 있다고 한다. 과거력상 심장 질환은 없었다.",
+    "exam": "혈액검사: NT-proBNP 1,800 pg/mL, 트로포닌 I 정상, D-dimer 2.5 mg/L\n심전도: 동성 빈맥, 좌심실 비대 소견\n심초음파: 좌심실 구혈률 45%, 승모판 중등도 역류\n흉부 X-ray: 심비대, 폐울혈 소견",
+    "options": {
+      "A": "안지오텐신 전환효소 억제제를 처방한다",
+      "B": "디곡신과 이뇨제를 처방한다",
+      "C": "베타 차단제를 처방한다",
+      "D": "즉시 분만을 시행한다",
+      "E": "안정가료만 시행한다"
+    },
+    "answer": "B",
+    "explanation": "이 환자는 임신성 심근병증(peripartum cardiomyopathy)으로 보입니다. 42세 고령, 다태임신, 심부전 증상(호흡곤란, 기좌호흡, 하지부종), 좌심실 구혈률 감소(45%), NT-proBNP 상승 등이 진단적 소견입니다. 임신 중 심부전 치료에서 디곡신과 이뇨제는 비교적 안전하게 사용할 수 있습니다. ACE 억제제는 태아 신독성으로 금기이며, 베타 차단제는 신중히 사용해야 합니다. 임신 28주에서 즉시 분만은 태아 미숙으로 위험하므로, 약물 치료로 상태를 안정화시킨 후 분만 시기를 결정해야 합니다.",
+    "source": "InternalMed_Harrison_textbook_data.txt - 'Pregnant women who are obese have an increased risk of stillbirth, congenital fetal malformations, gestational diabetes, preeclampsia, urinary tract infections, post-date delivery, and cesarean delivery.'",
+    "category": "Obstetrics"
+  },
+
+ {
+  "question_id": 9,
+  "chief_complaint": "산전관리",
+  "purpose": "임신 중 내과 또는 외과 질환을 적절하게 관리할 수 있다.",
+  "question": "34세 초산부(임신 1회)에 임신 10주에 심한 오심과 구토로 응급실에 내원하였다. 환자는 지난 2주간 하루 10회 이상의 구토를 호소하며 최근 3일간 음식 및 수분 섭취가 거의 불가능하였다. 체중은 임신 전보다 4kg 감소하였고, 소변량도 감소하였다. 과거력에서 특이사항은 없으며, 임신 경과는 이전에 문제 없었다. 신체 검사에서 혈압 100/60 mmHg, 맥박 110회/분, 체온 36.8°C, 피부와 점막 건조 소견이 관찰되었다.",
+  "exam": "혈액 검사: Na+ 132 mEq/L, K+ 3.0 mEq/L, Cl– 90 mEq/L, HCO₃⁻ 30 mEq/L, BUN 30 mg/dL, Cr 1.2 mg/dL, 케톤체 3+\n소변 검사: 비중 1.030, 케톤체 4+\n초음파: 단태아, 태아 심박동 정상, 양수량 정상",
+  "options": {
+    "A": "외래에서 경구 수분 공급 및 항구토제 처방 후 귀가시킨다",
+    "B": "입원하여 정맥 수액 공급과 티아민 보충을 시행한다",
+    "C": "입원하여 정맥 수액 공급과 메토클로프라미드 정맥 주사를 시행한다",
+    "D": "입원하여 정맥 수액 공급과 도파민 길항제를 투여한다",
+    "E": "입원하여 정맥 수액 공급과 피리독신-도실아민 복합제를 투여한다"
+  },
+  "answer": "B",
+  "explanation": "이 환자는 임신 초기(10주)에 발생한 전형적인 임신과다구토(hyperemesis gravidarum)로, 심한 구토로 인한 탈수, 전해질 이상, 케톤뇨 소견이 관찰된다. 치료의 기본은 입원 후 정맥 수액 공급이며, 티아민(thiamine) 보충을 통해 Wernicke 뇌병증 등을 예방해야 한다. 단순 항구토제만으로는 심한 탈수를 교정할 수 없고, 티아민 결핍 위험을 함께 고려해야 한다[1][2].",
+  "source": "InternalMed_Harrison_textbook_data.txt - \"Hyperemesis gravidarum is a severe form that prevents adequate fluid and nutritional intake and may require hospitalization to prevent dehydration and malnutrition.\" [1]\nObstentrics_Williams_textbook_data.txt - \"For extreme cases, such as recalcitrant hyperemesis gravidarum, percutaneous endoscopic gastrostomy with a jejunal port PEG-J tube has been described.\" [2]",
+  "category": "Obstetrics"
+ },
+
+ {
+  "question_id": 10,
+  "chief_complaint": "산전관리",
+  "purpose": "고위험임신군을 감별하고 적절하게 관리할 수 있다.",
+  "question": "37세 경산부(2회 임신, 1회 분만)가 임신 24주에 내원하였다. 과거력에서 갑상선 기능저하증으로 레보티록신을 복용 중이며, 최근 체중이 5kg 증가하였다. 환자는 피로감과 부종을 호소한다. 신체 검사에서 혈압 140/90 mmHg, 맥박 85회/분, 양측 하지 부종 소견이 관찰된다.",
+  "exam": "혈액 검사: TSH 0.2 μIU/mL, Free T4 2.1 ng/dL, Anti-TPO 항체 양성\n소변 검사: 단백뇨 (+), 24시간 단백 0.6 g\n심초음파: 정상 심기능\n흉부 X-선: 정상 소견",
+  "options": {
+    "A": "레보티록신 용량을 감소시킨다",
+    "B": "레보티록신 용량을 증량한다",
+    "C": "메톡시플루란을 투여한다",
+    "D": "임신 중 갑상선 기능 조절 없이 경과 관찰한다",
+    "E": "갑상선 절제술을 고려한다"
+  },
+  "answer": "B",
+  "explanation": "임신 중에는 인체 내 갑상선 호르몬 요구량이 증가하므로 기존 갑상선 기능저하증 환자는 레보티록신 투여량을 25~30% 증량해야 한다. 특히 TSH가 임상목표치 이하로 과도하게 감소한 Free T4 상승 및 임신성 단백뇨 소견이 동반되므로 레보티록신을 증량해 정상 범위로 유도해야 한다[3][4].",
+  "source": "Physiology_Levy_textbook_data.txt - \"The rise in circulating hCG levels during the first trimester is accompanied by a reciprocal fall in TSH\" [3]\nInternalMed_Harrison_textbook_data.txt - \"Women with hypothyroidism often require increased levothyroxine dosage during pregnancy due to increased thyroid hormone binding and clearance.\" [4]",
+  "category": "Endocrinology"
+ }
 ]
