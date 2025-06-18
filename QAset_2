@@ -2943,5 +2943,215 @@
     "explanation": "Methotrexate는 RA의 표준 초기 DMARD로, 관절 손상 진행을 지연시키는 효과가 입증되었다. NSAIDs는 통증 경감에 도움이 되나 질병 진행 억제 효과가 없어 단독 투여는 부적절하다. Sulfasalazine은 보조 DMARD로 사용되나 단독 초기 치료로는 methotrexate보다 효과가 낮다. Infliximab은 생물학제제로 보조요법이나, methotrexate 단독 반응 불량 시 추가한다. 물리치료는 기능 유지에 유용하나 약물 치료의 대체제로는 부족하다.",
     "source": "Pathology_Robbins_textbook_data.txt: \"The treatment for RA consists of corticosteroids, other immunosuppressants such as methotrexate, and, most notably, TNF antagonists...\"; InternalMed_Harrison_textbook_data_part4.txt: \"Serologic tests... RF and anti-CCP antibodies... methotrexate is standard initial DMARD therapy.\"",
     "category": "Rheumatology"
+  },
+  {
+    "question_id": 1,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 병력청취와 신체진찰을 통해 원인을 감별할 수 있다.",
+    "question": "45세 남자가 5일 전부터 시작된 하루 6–8회의 물 같은 설사를 주소로 내원하였다. 환자는 최근 2주간 고열이나 혈변은 없었으나 심한 복부 경련성 통증을 호소한다. 과거력 상 3개월 전 항생제(클린다마이신) 2주간 복용 병력이 있다. 신체검사에서 탈수 소견(점막 건조, 안면 창백)이 관찰되었고, 복부 촉진 시 경미한 압통 이외 특이 소견은 없었다. 이 환자에게 가장 가능성 높은 원인 질환은?",
+    "exam": "대변 검사: WBC(-), O&P(-)\nC. difficile toxin A/B enzyme immunoassay: 양성",
+    "options": {
+      "A": "Vibrio cholerae 감염",
+      "B": "Clostridioides difficile-associated diarrhea",
+      "C": "이질(Shigella dysenteriae)",
+      "D": "자극성 대장 증후군",
+      "E": "급성 췌장염"
+    },
+    "answer": "B",
+    "explanation": "환자는 항생제 사용 후 수일 간격으로 발생한 다발성 수양성 설사를 호소하며, C. difficile toxin 검사 양성 소견을 보여 pseudomembranous colitis가 가장 가능성이 높다. Vibrio cholerae 감염(A)은 대개 오염된 물 섭취 후 대량의 무통성 수양성 설사, 탈수 소견이 심하며, 혈변과는 거리가 있다. Shigella dysenteriae 감염(C)은 설사에 혈변 및 점액이 동반되며, 대변 내 WBC 양성 소견이 일반적이다. 자극성 대장 증후군(D)은 만성 경과에 복통과 배변 후 호전이 특징이며, 검사소견이 정상이다. 급성 췌장염(E)은 주로 상복부 통증과 흡수장애 소견이지만 주 증상은 설사보다는 통증이다.",
+   "source": {
+  "file_name": "InternalMed_Harrison_textbook_data.txt",
+  "content": "Diagnosis is by enzyme immunoassay for toxins in the stool, or by DNA-based tests that identify toxin genes."
+    },
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 병력청취와 신체진찰을 통해 원인을 감별할 수 있다.",
+    "question": "28세 여자가 지난 2개월 동안 간헐적인 설사와 복부 팽만감을 주소로 내원하였다. 하루 3–4회 정도 끈적끈적한 점액성 설사 양상이 반복되며, 특히 스트레스를 받으면 증상이 악화된다고 한다. 식이 조절 후에도 호전되지 않았고, 체중은 2개월간 3kg 감소하였다. 신체검사에서 복부 전반의 과민성과 경미한 장음 항진이 관찰된다. 이 환자의 가장 가능성 높은 진단은?",
+    "exam": "대장 내시경: 육안적 점막 정상소견, 조직검사 시 염증세포 침윤 없음\n혈액검사: WBC 6,800/μL, Hb 12.5 g/dL, ESR 10 mm/hr",
+    "options": {
+      "A": "과민성 대장 증후군(IBS)",
+      "B": "궤양성 대장염",
+      "C": "베체트병성 장염",
+      "D": "크론병",
+      "E": "감염성 대장염"
+    },
+    "answer": "A",
+    "explanation": "장내시경 및 조직검사에서 기질적 이상이 관찰되지 않고, 스트레스 시 설사가 악화되며 점액성 설사 양상을 보이는 점이 과민성 대장 증후군에 부합한다. 궤양성 대장염(B), 크론병(D)은 대장 점막의 만성 염증 및 궤양 소견이 조직검사에서 관찰되며, 베체트병성 장염(C)은 대장 궤양 및 전신 증상이 동반된다. 감염성 대장염(E)은 대개 급성 발병하며 대변 검사에서 병원체 확인이 필요하다.",
+    "source": {
+      "file_name": "InternalMed_Harrison_textbook_data.txt",
+      "content": "The most common GI disorders show no abnormalities on biochemical or structural testing and include irritable bowel syndrome..."
+    },
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 3,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 필요한 검사를 선택하고 결과를 해석할 수 있다.",
+    "question": "35세 남자가 하루 5–6회, 주로 식후 발생하는 팽만감과 수양성 설사를 호소하며 내원하였다. 최근 우유를 섭취하면 설사가 증가한다고 하여 우유를 제한했으나 증상 호전이 미미하다. 신체검사에서 경미한 복부 팽만감이 관찰되고, 영양 상태는 양호하다. 이 환자에게 시행할 검사는?",
+    "exam": "혈액검사: WBC 5,200/μL, Hb 14.0 g/dL, Na 140 mEq/L, K 4.0 mEq/L",
+    "options": {
+      "A": "대장 내시경",
+      "B": "수소 호기 검사(hydrogen breath test)",
+      "C": "C. difficile toxin 검사",
+      "D": "Abdominal CT",
+      "E": "갑상선 기능 검사"
+    },
+    "answer": "B",
+    "explanation": "젖당분해효소 결핍에 의한 유당불내증이 의심되는 경우 수소 호기 검사가 1차 진단 검사로 적절하다. 대장 내시경(A)은 기질적 질환 감별을 위해 필요 시 시행하나, 초기 선별검사는 아니다. C. difficile 검사(C)는 항생제 관련 설사 의심 시 시행한다. 복부 CT(D)는 심한 통증 및 기질적 이상 의심 시 필요하며, 갑상선 검사(E)는 설사 원인으로 적용되지 않는다.",
+    "source": {
+      "file_name": "Pathology_Robbins_textbook_data.txt",
+      "content": "Osmotic diarrhea... the condition abates with fasting."
+    },
+    "category": "Gastroenterology"
+  },
+  {
+    "question_id": 4,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 필요한 검사를 선택하고 결과를 해석할 수 있다.",
+    "question": "22세 남자가 하루 10회 이상의 혈변성 설사와 발열을 주소로 응급실에 내원하였다. 1년 전 말초 동종 조혈모세포 이식을 받았으며, 이후 지속적으로 저용량 스테로이드를 복용 중이다. 신체검사에서 좌하복부 압통과 체온 38.3℃가 관찰된다. 감염 원인 배제를 위해 시행할 검사는?",
+    "exam": "혈액검사: WBC 4,000/μL, CRP 12 mg/dL, 혈소판 120,000/μL",
+    "options": {
+      "A": "대장 내시경 및 조직검사",
+      "B": "대변 Clostridioides difficile toxin 검사",
+      "C": "Abdominal CT with contrast",
+      "D": "전신 혈배양",
+      "E": "호기 수소 검사"
+    },
+    "answer": "B",
+    "explanation": "항생제력이 없더라도 면역억제 상태에서 C. difficile-associated colitis가 증가하므로, 우선 대변 toxin 검사가 필요하다. 대장 내시경 및 조직검사(A)는 기계적 합병증 의심 시 필요하며, 복부 CT(C)는 중증 합병증 의심 시 사용한다. 혈배양(D)은 전신 패혈증 의심 시 시행하고, 호기 검사(E)는 유당불내증 검사이다.",
+    "source": {
+      "file_name": "Obstentrics_Williams_textbook_data.txt",
+      "content": "Diagnosis is by enzyme immunoassay for toxins in the stool..."
+    },
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+    "question": "50세 여자가 3일 전부터 시작된 유충색 수양성 설사, 발열, 악취성 뇨를 호소하며 내원하였다. 최근 여행 중 야생동물과의 접촉력을 확인할 수 없었고, 자가격리가 필요할 정도의 전염력은 없다. 혈액검사에서 전해질 및 신장 기능은 정상 범위이다. 이 환자의 가장 적절한 초기 치료는?",
+    "exam": "대변 검사: E. histolytica cyst 양성, WBC(+)",
+    "options": {
+      "A": "대장 절제술",
+      "B": "수액 및 전해질 보충만 시행",
+      "C": "Metronidazole 경구 투여",
+      "D": "Loperamide 투여",
+      "E": "Vancomycin 경구 투여"
+    },
+    "answer": "C",
+    "explanation": "Entamoeba histolytica 감염 시 Metronidazole이 1차 약제로 권고된다. 수액 보충(B)은 지지 요법이지만 기생충 제거가 선행되어야 한다. Lopermide(D)는 비출혈성 설사 보조제로만 사용하며, 출혈성 및 염증성 설사 금기이다. Vancomycin(E)은 C. difficile 치료제이다. 대장 절제술(A)은 합병증 시 고려한다.",
+    "source": {
+      "file_name": "Pediatrics_Nelson_textbook_data.txt",
+      "content": "Entamoeba histolytica... Metronidazole"
+    },
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+    "question": "65세 남자가 느닷없는 수양성 설사와 우상복부 둔통을 주소로 내원하였다. 신체검사에서 경미한 탈수 소견과 체온 37.8℃이 관찰된다. 과거력 상 제2형 당뇨병으로 10년째 메트포르민과 Acarbose를 복용 중이다. 이 약제 중 설사 부작용을 가장 잘 일으키는 약제는?",
+    "exam": "혈액검사: BUN/Cr 18/1.0, 전해질 정상",
+    "options": {
+      "A": "Metformin",
+      "B": "Acarbose",
+      "C": "Insulin",
+      "D": "Sulfonylurea",
+      "E": "DPP-4 억제제"
+    },
+    "answer": "A",
+    "explanation": "Metformin은 위장관 흡수 증가 및 장내 발효 증가로 인해 설사와 복통을 흔히 유발한다. Acarbose(B)는 주로 복부 팽만과 가스형성, 설사를 일으키지만, 설사 빈도는 Metformin보다 낮다. Insulin(C), Sulfonylurea(D), DPP-4 억제제(E)는 설사 부작용이 드물다.",
+    "source": {
+      "file_name": "Pharmacology_Katzung_textbook_data.txt",
+      "content": "Gastrointestinal tract: Opioid receptors exist... but Metformin frequently causes diarrhea."
+    },
+    "category": "Endocrinology"
+  },
+ {
+    "question_id": 7,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 병력청취와 신체진찰을 통해 원인을 감별할 수 있다.",
+    "question": "28세 남자가 최근 며칠간 하루 10회 이상의 다량 수양성 설사를 주소로 외래를 방문하였다. 환자는 2일 전부터 오염된 해수를 마신 뒤 증상이 시작되었으며, 복통이나 혈변은 동반되지 않았다고 한다. 신체검사에서 탈수 소견(입술 건조, 핍뇨)이 관찰되나 복부 압통은 없었다. 이 환자의 가장 가능성 높은 원인 질환은?",
+    "exam": "대변 검사: WBC(-), RBC(-)\n전해질: Na 145 mEq/L, K 3.2 mEq/L\n정밀검사: 콜레라 톡신 유전자 PCR 양성",
+    "options": {
+      "A": "Vibrio cholerae 감염",
+      "B": "Clostridioides difficile colitis",
+      "C": "Giardia lamblia 감염",
+      "D": "과민성 대장 증후군",
+      "E": "유당불내증"
+    },
+    "answer": "A",
+    "explanation": "환자가 대량의 무통성 수양성 설사를 호소하고, 혈변이나 백혈구 동반이 없으며 오염된 수역 노출 병력이 명확하여 콜레라 감염이 가장 의심된다. C. difficile colitis(B)는 항생제 사용 후 발생하며, 대변 내 백혈구가 동반될 수 있다. Giardia(C)는 만성적 지방변과 흡수장애 소견이 특징이다. IBS(D)와 유당불내증(E)는 검사 소견이 정상적이고 노출 병력이 없다.",
+    "source": {
+      "file_name": "Pathology_Robbins_textbook_data.txt",
+      "content": "V. cholerae ... bind to the intestinal epithelium and ... release exotoxins that cause epithelial cells to secrete large volumes of fluid, resulting in watery diarrhea."
+    },
+    "category": "Infectious Diseases"
+   },
+  {
+  "question_id": 8,
+  "chief complaint": "설사",
+  "purpose": "설사를 하는 사람에게서 병력청취와 신체진찰을 통해 원인을 감별할 수 있다.",
+  "question": "28세 여자가 3개월 전부터 점액 혈변과 배변 후 잔변감을 주소로 내원하였다. 하루 8–10회의 배변 빈도를 보이며, 체중이 5kg 감소하였다. 환자는 최근 1주일간 새벽에 배변을 위해 일어나야 하는 증상이 있으며, 신체검사에서 좌하복부 압통이 관찰된다. 이 환자의 가장 가능성 높은 진단은?",
+  "exam": "대변 검사: WBC(++), RBC(+++), 감염성 병원체(-)\n혈액검사: Hb 10.2 g/dL, CRP 12 mg/dL, ESR 45 mm/hr\n대장 내시경: 직장부터 시작된 연속적 점막 발적, 미란성 궤양, 취약성 증가 소견",
+  "options": {
+    "A": "궤양성 대장염",
+    "B": "크론병",
+    "C": "감염성 대장염",
+    "D": "과민성 대장 증후군",
+    "E": "허혈성 대장염"
+  },
+  "answer": "A",
+  "explanation": "직장 기원의 연속적 염증, 점액 혈변, 잔변감은 궤양성 대장염의 전형적 소견이다. 크론병(B)은 불연속적 병변(소장 침범 가능)과 깊은 궤양, 비건락성 육아종이 특징이다. 감염성 대장염(C)은 급성 발병과 병원체 검출이 필요하다. 과민성 대장 증후군(D)은 혈변 없으며 검사 정상이다. 허혈성 대장염(E)은 노년층에서 급성 통증과 좌측 대장 침범이 특징이다.",
+  "source": {
+    "file_name": "InternalMed_Harrison_textbook_data.txt",
+    "content": "Ulcerative colitis is characterized by continuous mucosal inflammation starting in the rectum... Crypt abscesses and ulcerations are typical histologic findings."
+  },
+  "category": "Gastroenterology"
+  },
+   {
+    "question_id": 9,
+    "chief complaint": "설사",
+    "purpose": "설사를 하는 사람에게서 필요한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "45세 여자가 수개월 전부터 잦은 설사와 복부 팽만감을 주소로 내원하였다. 설사는 하루 5회 정도이며, 주로 식후에 심해진다. 체중이 6kg 감소하였고, 최근 철분 결핍성 빈혈 진단을 받았다. 신체검사에서 배꼽 주변 부위의 경미한 압통만 관찰된다. 이 환자에게 가장 적절한 검사는?",
+    "exam": "혈액검사: Hb 10.2 g/dL, Ferritin 8 ng/mL\n소변 검사: 정상이상소견 없음",
+    "options": {
+      "A": "수소 호기 검사 (lactose breath test)",
+      "B": "경구 D-xylose 흡수 검사",
+      "C": "혈청 조직 트랜스글루타미나제 항체 검사 (tTG-IgA)",
+      "D": "복부 CT",
+      "E": "갑상선 기능 검사"
+    },
+    "answer": "C",
+    "explanation": "철분 결핍성 빈혈과 체중 감소, 식후 설사 양상은 흡수장애에 의한 만성 설사를 시사하며, 소장 점막 손상 여부 확인을 위해 celiac disease 선별검사인 tTG-IgA 검사가 가장 적절하다. D-xylose 검사(B)는 말초 소장 흡수·전달 평가 시 사용되지만 우선적으로 자가면역성 흡수장애를 평가하는 tTG-IgA가 우선이다. 수소 호기검사(A)는 유당불내증 의심 시, CT(D) 및 갑상선 검사(E)는 불필요하다.",
+    "source": {
+      "file_name": "Pathology_Robbins_textbook_data.txt",
+      "content": "Fibrous atrophy of villi ... celiac disease presents with ... villous atrophy and crypt hyperplasia."
+    },
+    "category": "Gastroenterology"
+   },
+  {
+  "question_id": 10,
+  "chief complaint": "설사",
+  "purpose": "설사를 하는 사람에게 원인에 따른 적합한 치료 방법을 선택할 수 있다.",
+  "question": "24세 남자가 6개월 전부터 혈변과 점액성 설사를 주소로 내원하였다. 하루 7–8회의 배변 빈도와 함께 체중 8kg 감소가 있었으며, 복부 CT에서 회장 말단부 및 우측 대장의 장벽 비후가 관찰되었다. 대장 내시경에서 불연속적인 궤양과 cobblestone 소견이 확인되었고, 조직검사에서 비건락육종성 육아종이 발견되었다. 현재 프레드니솔론 40mg/day로 치료 중이지만 반응이 부족한 상태이다. 다음 중 이 환자에게 가장 적합한 치료는?",
+  "exam": "혈액검사: Hb 9.8 g/dL, CRP 8.2 mg/dL, ESR 68 mm/hr\n대변 검사: 감염성 병원체(-), 대변 칼프로텍틴 1,200 μg/g",
+  "options": {
+    "A": "Mesalazine 경구 투여",
+    "B": "Methotrexate 주사",
+    "C": "Infliximab 정주",
+    "D": "Ciprofloxacin 경구 투여",
+    "E": "회장-우측 대장 절제술"
+  },
+  "answer": "C",
+  "explanation": "크론병(회장 및 대장 침범)으로 스테로이드에 반응하지 않는 중증 활성기 환자에게 항-TNFα 제제(Infliximab)가 1차 치료로 권고된다. Mesalazine(A)는 경증 궤양성 대장염에 사용되며 크론병 효과 미약. Methotrexate(B)는 스테로이드 감량 보조제로 사용되나 단독 치료로는 효과 부족. Ciprofloxacin(D)은 감염 합병증 시 보조적 사용. 수술(E)은 장폐색·누공 등 합병증 시 고려하나 초기 치료 아님.",
+  "source": {
+    "file_name": "InternalMed_Harrison_textbook_data.txt",
+    "content": "Anti-TNF agents (infliximab, adalimumab) are first-line biologic therapies for moderate to severe Crohn's disease refractory to corticosteroids."
+  },
+  "category": "Gastroenterology"
   }
 ]
