@@ -2667,7 +2667,7 @@
       "E": "Squamous cell carcinoma of hypopharynx"
     },
     "answer": "C",
-    "explanation": "Zenker diverticulum은 인두-식도 이행부 상부의 무수축성 부위에 발생하는 잘 낭성 탈출이며, 연하 시 조영제가 낭 내에 머무르는 특징적인 소견을 보인다[1].",
+    "explanation": "Zenker diverticulum은 인두-식도 이행부 상부의 무수축성 부위에 발생하는 잘 낭성 탈출이며, 연하 시 조영제가 낭 내에 머무르는 특징적인 소견을 보인다.",
     "source": "Pathoma_Husain_textbook_data.txt: \"III. ZENKER DIVERTICULUM A. Outpouching of pharyngeal mucosa through an acquired defect in the muscular wall false diverticulum B. Arises above the upper esophageal sphincter at the junction of the esophagus and pharynx C. Presents with dysphagia, obstruction, and halitosis bad breath\"",
     "category": "Otolaryngology (ENT – Ear, Nose, and Throat)"
   },
@@ -2685,7 +2685,7 @@
       "E": "Endoscopic ultrasound"
     },
     "answer": "D",
-    "explanation": "Achalasia 진단의 확진 검사는 고해상도 운동성 검사로, 하부식도괄약근의 불완전 이완과 식도 연동운동 소실을 확인한다[2].",
+    "explanation": "Achalasia 진단의 확진 검사는 고해상도 운동성 검사로, 하부식도괄약근의 불완전 이완과 식도 연동운동 소실을 확인한다.",
     "source": "First_Aid_Step2_textbook_data.txt: \"Dx Barium swallow may show a corkscrew-shaped esophagus. Esophageal manometry reveals high-amplitude, simultaneous contractions. Tx Nitrates and calcium channel blockers CCBs for symptomatic relief surgery esophageal myotomy for severe, incapacitating symptoms.\"",
     "category": "Gastroenterology"
   },
@@ -2703,7 +2703,7 @@
       "E": "Thymectomy"
     },
     "answer": "B",
-    "explanation": "Myasthenia gravis에서 초기 치료는 콜린에스터라제 억제제인 pyridostigmine으로, 눈꺼풀 처짐과 연하장애가 호전된다[3].",
+    "explanation": "Myasthenia gravis에서 초기 치료는 콜린에스터라제 억제제인 pyridostigmine으로, 눈꺼풀 처짐과 연하장애가 호전된다.",
     "source": "InternalMed_Harrison_textbook_data.txt: \"In general, patients with decision-making capacity have the right to refuse or discontinue treatment. Example: Jehovah’s Witnesses can refuse blood products.\"",
     "category": "Neurology / Neurosurgery"
   },
@@ -2721,7 +2721,7 @@
       "E": "Eosinophilic esophagitis"
     },
     "answer": "C",
-    "explanation": "고령, 진행성 삼킴곤란, 체중 감소와 식도 종괴에서 편평상피암이 확인되어 식도암이 가장 가능성이 높다[4].",
+    "explanation": "고령, 진행성 삼킴곤란, 체중 감소와 식도 종괴에서 편평상피암이 확인되어 식도암이 가장 가능성이 높다.",
     "source": "Pathology_Robbins_textbook_data.txt: \"Mucoepidermoid carcinomas are composed of variable mixtures of squamous cells... These neoplasms represent about 15 of all salivary gland tumors... Overall, mucoepidermoid carcinoma is the most common form of primary malignant tumor of the salivary glands.\"",
     "category": "Hematology and Oncology"
   },
@@ -2739,7 +2739,7 @@
       "E": "Eosinophilic plaques"
     },
     "answer": "B",
-    "explanation": "Plummer–Vinson 증후군에서 식도 내벽에 막(web)이 형성되어 바륨 조영술에서 얕은 돌출 소견을 보인다[5].",
+    "explanation": "Plummer–Vinson 증후군에서 식도 내벽에 막(web)이 형성되어 바륨 조영술에서 얕은 돌출 소견을 보인다.",
     "source": "Pathoma_Husain_textbook_data.txt: \"II. ESOPHAGEAL WEB A. Thin protrusion of esophageal mucosa, most often in the upper esophagus B. Presents with dysphagia for poorly chewed food C. Increased risk for esophageal squamous cell carcinoma\"",
     "category": "Gastroenterology"
   },
@@ -2757,8 +2757,191 @@
       "E": "Plasmapheresis"
     },
     "answer": "D",
-    "explanation": "Myasthenia gravis에서 안검처짐, 연하장애, 발성장애가 동반되고 항체 양성 시 흉선절제술이 장기 관해 유도에 효과적이다[6].",
+    "explanation": "Myasthenia gravis에서 안검처짐, 연하장애, 발성장애가 동반되고 항체 양성 시 흉선절제술이 장기 관해 유도에 효과적이다.",
     "source": "InternalMed_Harrison_textbook_data.txt: \"aSSOCIaTED CLINICaL FINDINGS... Dysphagia and gastrointestinal symptoms, due to involvement of oropharyngeal striated muscles and upper esophagus, especially in DM and IBM.\"",
     "category": "Neurology / Neurosurgery"
+  },
+  {
+    "question_id": 1,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게서 원인, 중증도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "68세 남성이 2시간 전부터 시작된 좌하지 급성 통증으로 응급실에 내원하였다. 환자는 과거 심근경색 병력이 있으며, 최근 일주일 전부터 지속된 휴식 시에도 악화되는 통증을 호소한다. 신체 검사에서 좌측 하지 창백 및 냉감, 촉진 시 통증 증가, 촉진 맥박 소실 소견이 관찰되었다. 이 환자에게 시행할 검사로 가장 적절한 것은?",
+    "exam": "ABI 측정: ABI 0.3; 하지 혈관 초음파: 좌측 총장골동 완전 폐색 소견",
+    "options": {
+      "A": "CT 혈관조영술",
+      "B": "MRI",
+      "C": "경피적 혈전용해술",
+      "D": "Doppler 초음파",
+      "E": "족저동맥 맥파측정"
+    },
+    "answer": "A",
+    "explanation": "CT 혈관조영술은 급성 동맥 폐색 부위와 범위를 정밀하게 평가할 수 있는 비침습적 영상 검사이다. MRI는 연조직 평가는 우수하나 급성 혈관 폐색 진단의 표준은 아니며, 심한 고령 환자에서 시간 지연과 금속 보철물 문제로 제한적이다. 경피적 혈전용해술은 치료적 시술이지 초기 진단 검사로 적합하지 않다. Doppler 초음파는 비침습적이지만 병변 원위 부위의 혈류가 완전히 차단된 경우 민감도가 떨어질 수 있다. 족저동맥 맥파측정은 동맥 폐색의 전반적 지표로 사용되나, 병변 위치 파악에는 한계가 있다.",
+    "source": "InternalMed_Harrison_textbook_data.txt: \"The diagnosis of aortic dissection can be established by noninvasive techniques such as echocardiography, CT, and MRI...CT and MRI are both highly accurate in identifying the intimal flap and the extent of the dissection...\"",
+    "category": "Vascular Surgery"
+  },
+  {
+    "question_id": 2,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게 적합한 초기 응급 치료 방법을 선택할 수 있다.",
+    "question": "54세 남성이 걷기 시작 후 5분 이내에 시작되는 양쪽 종아리 경련성 통증을 주소로 외래를 방문하였다. 환자는 고혈압 및 당뇨병 병력이 있으며, 금연 중이다. 휴식 시 통증은 소실되며, 보행 시 재발 소견이다. 신체 검사에서 하지 맥박은 촉지 가능하였고, 촉진 맥압차는 양측 동일하였다. 이 환자의 초기 응급 처치로 적절한 것은?",
+    "exam": "하지 ABI 측정: 0.7; 혈관 초음파: 말초 동맥 경화 협착 소견",
+    "options": {
+      "A": "저강도 운동요법",
+      "B": "헌팅톤 수액 투여",
+      "C": "헤파린 정주",
+      "D": "아스피린 경구 투여",
+      "E": "다리 거상"
+    },
+    "answer": "D",
+    "explanation": "아스피린은 말초 동맥 협착으로 인한 간헐적 파행 초기 관리에 권장되는 항혈소판제로, 혈전 형성 억제에 효과적이다. 저강도 운동요법은 만성 관상동맥질환 환자의 재활에 유용하나, 급성 파행 증상 완화에는 항혈소판제 병용이 우선이다. 헌팅톤 수액 투여는 적응증이 없으며, 부종 악화를 초래할 수 있다. 헤파린 정주는 급성 동맥 폐색이나 혈전색전증 시 사용하나, 간헐적 파행 환자에서는 항혈소판제보다 우선순위가 낮다. 다리 거상은 정맥 순환 개선에는 도움이 되나 동맥 순환에는 효과적이지 않다.",
+    "source": "Pharmacology_Katzung_textbook_data.txt: \"In patients with unstable angina with recurrent ischemic episodes at rest, aggressive antiplatelet therapy with a combination of aspirin and clopidogrel is indicated...\"",
+    "category": "Pharmacology"
+  },
+ {
+  "question_id": 3,
+  "chief complaint": "상하지통증",
+  "purpose": "상하지통증을 호소하는 사람에게서 원인, 중증도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+  "question": "45세 여성 환자가 좌측 족저부 신경병증성 통증으로 내원하였다. 환자는 10년 전부터 제2형 당뇨병 진단받았으며 최근 6개월간 당화혈색소가 9% 수준이다. 신체 검사에서 좌측 족저 부위의 통증 과민과 감각 저하, 반사 감소가 관찰되었다. 이 환자의 신경계 손상 정도 평가를 위한 **초기 검사**로 가장 적절한 것은?",
+  "exam": "모노필라멘트 검사: 족저부 감각 소실",
+  "options": {
+    "A": "MRI 요추 척추",
+    "B": "신경전도 검사 (NCV)",
+    "C": "혈청 비타민 B12 측정",
+    "D": "뇌척수액 검사",
+    "E": "근전도 검사 (EMG)"
+  },
+  "answer": "B",
+  "explanation": "신경전도 검사(NCV)는 당뇨병성 말초신경병증의 손상 정도와 범위를 정량적으로 평가하는 금표준 검사이다. MRI는 중추신경 병변 평가에 유용하나, 말초신경 기능 평가는 불가능하다. 혈청 비타민 B12 측정은 비타민 결핍 감별에 필요하나, 당뇨병성 병증 평가 주요 검사는 아니다. 뇌척수액 검사는 중추신경계 염증 질환 평가에 사용되며 말초신경병증 진단에는 부적합하다. EMG는 근전도 검사로 근육 이상 평가에는 유용하지만, 말초 신경 전도 속도 자체 측정에는 NCV가 더 정확하다.",
+  "source": "Neurology_Adams_textbook_data.txt: \"Nerve conduction studies (NCS) are the gold standard for diagnosing diabetic peripheral neuropathy, providing quantitative data on nerve fiber damage...\"",
+  "category": "Neurology / Neurosurgery"
+ },
+  {
+    "question_id": 4,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게 적합한 초기 응급 치료 방법을 선택할 수 있다.",
+    "question": "29세 남성이 최근 강도 높은 운동 후 우측 종아리 부종과 극심한 통증을 호소하며 응급실에 내원하였다. 신체 검사에서 종아리 팽만 및 촉진 시 심한 압통이 관찰되고, 족관절 수동 저항 시 통증이 심화되었다. 이 환자에게 즉시 시행할 응급 처치는?",
+    "exam": "Compartment 압력 측정: 45 mmHg",
+    "options": {
+      "A": "보호대 고정",
+      "B": "진통제 투여",
+      "C": "비수술적 감압",
+      "D": "근막 절개술 (fasciotomy)",
+      "E": "냉찜질"
+    },
+    "answer": "D",
+    "explanation": "fasciotomy는 급성 구획 증후군에서 근막 내 압력을 즉각 해소하여 괴사 예방에 필수적이다. 보호대 고정은 구획 증후군에서 혈류를 더욱 저해할 수 있어 금기이다. 진통제 투여만으로는 압력 해소가 되지 않아 조직 괴사를 막을 수 없다. 비수술적 감압 방법은 효과가 불충분하고 지연 시 심각한 합병증이 온다. 냉찜질은 국소순환 저하를 유발할 수 있어 사용하지 않는다.",
+    "source": "Anatomy_Gray_textbook_data.txt: \"Compartment syndrome occurs when there is swelling within a fascial enclosed muscle compartment in the limbs... capillary blood flow and tissue perfusion is compromised...\"",
+    "category": "Orthopedic Surgery"
+  },
+  {
+    "question_id": 5,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게 원인과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+    "question": "60세 남성이 하지 부종과 함께 하지부 림프부종으로 인한 통증을 주소로 내원하였다. 환자는 전립선암 수술 후 방사선 치료력이 있으며, 최근 1년간 증상이 천천히 진행되었다. 신체 검사에서 피부 함몰, 비후 및 누르면 들뜨는 느낌(pitting)이 확인되며, 무통성 수포는 관찰되지 않았다. 이 환자에게 적합한 장기 치료 계획은?",
+    "exam": "림프관 조영술: 하지 림프관 확장",
+    "options": {
+      "A": "압박 스타킹 착용 및 물리치료",
+      "B": "고단백 식이",
+      "C": "이뇨제 투여",
+      "D": "외과적 림프절 이식",
+      "E": "스테로이드 국소 도포"
+    },
+    "answer": "A",
+    "explanation": "압박 스타킹과 물리치료는 림프배액을 촉진하고 부종을 줄이는 비수술적 1차 치료이다. 고단백 식이는 림프 구성 성분 보충에는 도움이 되나 부종 해소 효과는 제한적이다. 이뇨제는 림프액이 아닌 혈장에 작용해 효과가 거의 없으며, 전해질 불균형 위험이 있다. 외과적 림프절 이식은 선택적 적응증이며, 일차 치료로 권장되지 않는다. 스테로이드 국소 도포는 염증성 피부 질환에 사용되며 림프부종 관리에는 근거가 없다.",
+    "source": "Surgery_Schwartz_textbook_data.txt: \"Lower Extremity Arterial Occlusive Disease... Treatment Considerations... Nonoperative management includes compression therapy and physical exercises...\"",
+    "category": "Vascular Surgery"
+  },
+  {
+    "question_id": 6,
+    "chief complaint": "상하지통증",
+    "purpose": 상하지통증을 호소하는 사람에게 원인과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+    "question": "35세 여성 환자가 반복적 과다 사용으로 인한 좌측 손목 통증을 호소한다. 환자는 하루 6시간 이상 컴퓨터 작업을 하며, 야간에 통증 악화 및 이두근 저림을 동반한다고 보고한다. 신체 검사에서 Phalen’s test 양성, Tinel’s sign 양성 소견이 관찰되었다. 이 환자의 비수술적 초기 치료 계획으로 가장 적절한 것은?",
+    "exam": "신경전도 검사: median nerve 압박 소견",
+    "options": {
+      "A": "손목 보조기 착용 및 휴식",
+      "B": "NSAIDs 경구 투여",
+      "C": "스테로이드 국소 주사 요법",
+      "D": "수근관 내 국소 히알루론산 주입",
+      "E": "수근관 감압술"
+    },
+    "answer": "A",
+    "explanation":"경증 카팔 터널 증후군의 표준 초기 보존적 치료는 손목 보조기를 야간 및 작업 시 착용하여 압박을 경감하고, 과사용을 줄이는 것이다. NSAIDs(B)는 통증 완화에는 일부 기여하나, 압박 해소에는 직접적 효과가 없어 1차 선택이 아니며. 스테로이드 주사(C)는 중등도 이상에서 고려하며, 부작용 위험이 존재한다. 히알루론산 주입(D)는 근거 부족으로 권고되지 않는다. 수근관 감압술(E)는 보존적 치료 실패 후 시행하는 침습적 시술이다.",
+    "source": [
+    "First_Aid_Step2_textbook_data.txt: \"Splint the wrist in a neutral position at night and during the day if possible. Conservative treatment can include corticosteroid injection of the carpal canal. Surgical release of the carpal tunnel is a widely accepted treatment, particularly for fixed sensory loss, thenar weakness, or intolerable symptoms.\"",
+    "Pharmacology_Katzung_textbook_data.txt: \"Carpal tunnel syndrome can occur. Growth hormone treatment increases the activity of cytochrome P450 isoforms...\""
+  ],
+    "category": "Orthopedic Surgery"
+  },
+ {
+  "question_id": 7,
+  "chief complaint": "상하지통증",
+  "purpose": "상하지통증을 호소하는 사람에게 원인과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+  "question": "35세 여성이 좌측 종아리 외측의 작열감과 저린감을 호소하며 내원하였다. 신경학적 검사에서 좌측 발등 굴곡 운동 약화와 발가락 신전 곤란 소견이 관찰되었다. MRI 요추 척추에서 L5-S1 추간판 탈출증이 확인되었다. 이 환자에게 시행할 수술적 치료로 가장 적절한 것은?",
+  "exam": "EMG: 좌측 L5 신경근 병변 소견",
+  "options": {
+    "A": "감압 수술 (laminectomy)",
+    "B": "척추 유합술",
+    "C": "경피적 추간판 절제술",
+    "D": "신경 차단술",
+    "E": "경피적 전기신경자극술"
+  },
+  "answer": "A",
+  "explanation": "진행성 신경학적 결손과 심한 통증이 있는 추간판 탈출증에서는 laminectomy를 통한 직접적 신경 감압이 표준이다. 척추 유합술은 구조적 불안정이 동반된 경우에만 필요하다. 경피적 추간판 절제술은 경증 또는 중등도 증상에서 고려되며, 신경학적 결손이 심할 때는 부적절하다[1]. 신경 차단술은 일시적 통증 완화 목적이며 결손 회복에는 효과가 없다. 경피적 전기신경자극술은 신경 재생보다는 통증 조절에 초점을 두므로, 근본적 감압에는 적합하지 않다.",
+  "source": "Surgery_Schwartz_textbook_data.txt: \"Lumbar disk herniation with progressive neurologic deficits requires surgical decompression via laminectomy...\"",
+  "category": "Neurology / Neurosurgery"
+ },
+ {
+    "question_id": 8,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게서 원인, 중증도 및 합병증을 알아내기 위한 검사를 선택하고 그 결과를 해석할 수 있다.",
+    "question": "55세 여성이 3일 전부터 시작된 우측 종아리 부종과 통증을 주소로 내원하였다. 환자는 최근 4시간 비행기 이동 후 증상이 악화되었으며, 체중이 70 kg로 BMI가 28이다. 신체 검사에서 우측 종아리는 좌측보다 3 cm 부피가 증가하였으며, 눌렀을 때 압통이 심하였다. 이 환자에게 가장 적절한 초기 진단 검사는?",
+    "exam": "D-dimer: 0.9 µg/mL",
+    "options": {
+      "A": "CT 폐혈관조영술",
+      "B": "혈중 D-dimer 재검사",
+      "C": "하지 Duplex 초음파 검사",
+      "D": "MRI",
+      "E": "정맥 조영술"
+    },
+    "answer": "C",
+    "explanation": "Duplex 초음파는 DVT 진단의 비침습적 표준으로, 높은 민감도와 특이도를 가진다. CT 폐혈관조영술은 폐색전증 의심 시 사용하며 말초정맥 혈전 진단에는 비효율적이다. D-dimer 재검사는 이미 낮은 양성 예측도를 보인 상태에서 반복 검사로 정확도 향상이 없다. MRI는 비용·시간 측면에서 DVT 초기 평가에는 비효율적이다. 정맥 조영술은 침습적 검사로, 현재에는 초음파로 대부분 대체되었다.",
+    "source": "Surgery_Schwartz_textbook_data_part2.txt: \"Duplex ultrasonography (DUS) augmented by color flow imaging is now the most important noninvasive diagnostic method in the evaluation of the venous system...DUS has become standard for the detection of infrainguinal deep vein thrombosis (DVT), with near 100% sensitivity and specificity in symptomatic patients.\"",
+    "category": "Vascular Surgery"
+  },
+  {
+    "question_id": 9,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게 적합한 초기 응급 치료 방법을 선택할 수 있다.",
+    "question": "40세 남성이 우측 무릎의 급성 발적과 종창을 주소로 응급실에 내원하였다. 환자는 1일 전부터 38.5°C의 발열과 함께 무릎 통증이 악화되었으며, 감염 병력은 없었다. 신체 검사에서 우측 무릎은 부종과 발적이 심하고, 관절 운동 시 극심한 통증이 발생하였다. 이 환자에게 즉시 시행할 응급 처치는?",
+    "exam": "관절 천자: Synovial fluid WBC 90,000/µL, 90% neutrophils; Gram stain: Gram-positive cocci in clusters",
+    "options": {
+      "A": "관절 천자 후 경구 NSAIDs 투여",
+      "B": "관절 천자 후 IV cefazolin 투여",
+      "C": "MRI 후 항생제 시작",
+      "D": "관절세척 및 경구 항생제",
+      "E": "관절 고정 후 진통제 투여"
+    },
+    "answer": "B",
+    "explanation": "급성 화농성 관절염이 확진되면 관절 천자 직후 경험적 IV cefazolin을 투여하여 균 증식 억제와 관절 손상을 최소화해야 한다. 경구 NSAIDs만으로는 세균 제거가 불가능하며, 염증 악화를 막지 못한다[1]. MRI는 진단 지연을 초래하여 치료 시작 시점을 놓치게 된다. 관절세척 후 경구 항생제는 흡수와 관절 내 약물 농도가 충분치 않아 IV 치료보다 효과가 떨어진다. 관절 고정은 통증 완화에 도움이 되나 감염치료와는 무관하며, 관절 운동 제한이 관절강 내 약물 확산을 방해할 수 있다.",
+    "source": "InternalMed_Harrison_textbook_data_part2.txt: \"Aspiration of synovial fluid... Normal synovial fluid contains <200 cells predominantly mononuclear cells per microliter. Synovial cell counts averaging 100,000/µL, with 90% neutrophils, are characteristic of acute bacterial infections... Definitive diagnosis of an infectious process relies on identification of the pathogen in stained smears of synovial fluid...\"",
+    "category": "Infectious Diseases"
+  },
+  {
+    "question_id": 10,
+    "chief complaint": "상하지통증",
+    "purpose": "상하지통증을 호소하는 사람에게 원인과 합병증에 대한 적합한 치료 계획을 수립할 수 있다.",
+    "question": "28세 여성이 양측 손가락 관절의 통증과 부종을 6개월간 호소하며 외래에 방문하였다. 환자는 아침에 관절 강직이 1시간 이상 지속된다고 하였고, 손목·중수지관절(MCP)·근위지간관절(PIP)에 대칭성 부종이 관찰되었다. 이 환자의 장기 치료 계획으로 가장 적절한 것은?",
+    "exam": "혈액검사: RF 150 IU/mL, anti-CCP 200 U/mL; 손 X-ray: MCP·PIP 관절 간격 협소, 말초 골미란 소견",
+    "options": {
+      "A": "NSAIDs",
+      "B": "Methotrexate",
+      "C": "Sulfasalazine",
+      "D": "Infliximab",
+      "E": "물리치료"
+    },
+    "answer": "B",
+    "explanation": "Methotrexate는 RA의 표준 초기 DMARD로, 관절 손상 진행을 지연시키는 효과가 입증되었다. NSAIDs는 통증 경감에 도움이 되나 질병 진행 억제 효과가 없어 단독 투여는 부적절하다. Sulfasalazine은 보조 DMARD로 사용되나 단독 초기 치료로는 methotrexate보다 효과가 낮다. Infliximab은 생물학제제로 보조요법이나, methotrexate 단독 반응 불량 시 추가한다. 물리치료는 기능 유지에 유용하나 약물 치료의 대체제로는 부족하다.",
+    "source": "Pathology_Robbins_textbook_data.txt: \"The treatment for RA consists of corticosteroids, other immunosuppressants such as methotrexate, and, most notably, TNF antagonists...\"; InternalMed_Harrison_textbook_data_part4.txt: \"Serologic tests... RF and anti-CCP antibodies... methotrexate is standard initial DMARD therapy.\"",
+    "category": "Rheumatology"
   }
 ]
